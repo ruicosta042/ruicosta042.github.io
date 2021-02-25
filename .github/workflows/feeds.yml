@@ -1,0 +1,10 @@
+name: Publish feeds
+
+on: [push, delete]
+
+jobs:
+  publish_feeds:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: ruicosta042/rssconv-action@main

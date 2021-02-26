@@ -4,15 +4,33 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Fri, 26 Feb 2021 07:47:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2021 13:01:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Css For Beginners]]></title>
+            <link>https://www.myfreeonlinecourses.com/2021/02/100-off-css-for-beginners.html</link>
+            <guid>https://www.myfreeonlinecourses.com/2021/02/100-off-css-for-beginners.html</guid>
+            <pubDate>Fri, 26 Feb 2021 10:49:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Height: 100%;]]></title>
             <link>https://gfycat.com/dismalvalidamericangoldfinch</link>
             <guid>https://gfycat.com/dismalvalidamericangoldfinch</guid>
             <pubDate>Thu, 25 Feb 2021 05:33:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to prevent this button from wiggle on hover?]]></title>
+            <link>https://codepen.io/solodov-dev/pen/OJbQbvm</link>
+            <guid>https://codepen.io/solodov-dev/pen/OJbQbvm</guid>
+            <pubDate>Fri, 26 Feb 2021 09:10:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Has Vertical Alignment become easy with CSS Subgrid?]]></title>
+            <link>https://www.lambdatest.com/blog/vertical-alignment-with-css-subgrid/?utm_source=Reddit&amp;utm_medium=blog&amp;utm_campaign=PM-260221-1&amp;utm_term=OrganicPosting</link>
+            <guid>https://www.lambdatest.com/blog/vertical-alignment-with-css-subgrid/?utm_source=Reddit&amp;utm_medium=blog&amp;utm_campaign=PM-260221-1&amp;utm_term=OrganicPosting</guid>
+            <pubDate>Fri, 26 Feb 2021 09:08:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to prevent  with colored background from wrapping and cutting off?]]></title>
@@ -97,12 +115,6 @@
             <link>https://reddit.com/link/lr94x5/video/nra72xf7eej61/player</link>
             <guid>https://reddit.com/link/lr94x5/video/nra72xf7eej61/player</guid>
             <pubDate>Wed, 24 Feb 2021 09:59:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Let's build a Social Network in 1 Month (Day 23 of 28)]]></title>
-            <link>https://www.youtube.com/watch?v=8UU1d_Rgbeg&amp;feature=youtu.be&amp;ab_channel=IsaacJoy</link>
-            <guid>https://www.youtube.com/watch?v=8UU1d_Rgbeg&amp;feature=youtu.be&amp;ab_channel=IsaacJoy</guid>
-            <pubDate>Tue, 23 Feb 2021 22:23:31 GMT</pubDate>
         </item>
     </channel>
 </rss>

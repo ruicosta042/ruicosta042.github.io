@@ -4,7 +4,7 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Fri, 26 Feb 2021 07:47:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2021 13:01:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,46 @@
             <pubDate>Fri, 26 Feb 2021 02:58:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Securing Node services with Client Authenticated TLS using CATKeys]]></title>
+            <link>https://tommytucker1979.medium.com/securing-node-services-using-client-authenticated-tls-with-catkeys-938709726fbc</link>
+            <guid>https://tommytucker1979.medium.com/securing-node-services-using-client-authenticated-tls-with-catkeys-938709726fbc</guid>
+            <pubDate>Fri, 26 Feb 2021 10:19:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Control Google Sheets with Node.js!]]></title>
             <link>https://youtu.be/PFJNJQCU_lo</link>
             <guid>https://youtu.be/PFJNJQCU_lo</guid>
             <pubDate>Thu, 25 Feb 2021 10:13:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bcrypto@5.4.0 install script]]></title>
+            <link>mailto:bcypto@5.4.0</link>
+            <guid>mailto:bcypto@5.4.0</guid>
+            <pubDate>Fri, 26 Feb 2021 09:24:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to pass byte[] type variables to FFI imported DLL in nodeJS?]]></title>
+            <link>https://stackoverflow.com/q/60429642/4236616</link>
+            <guid>https://stackoverflow.com/q/60429642/4236616</guid>
+            <pubDate>Fri, 26 Feb 2021 06:39:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[Portfolio] First MERN Stack Application]]></title>
+            <link>mailto:myprs.test@gmail.com</link>
+            <guid>mailto:myprs.test@gmail.com</guid>
+            <pubDate>Fri, 26 Feb 2021 11:30:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Learn Node.JS in 6 hours only 2021]]></title>
+            <link>https://www.myfreeonlinecourses.com/2021/02/100-off-learn-nodejs-in-6-hours-only.html</link>
+            <guid>https://www.myfreeonlinecourses.com/2021/02/100-off-learn-nodejs-in-6-hours-only.html</guid>
+            <pubDate>Fri, 26 Feb 2021 10:31:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Use DTOs to Enforce a Layer of Indirection | Node.js w/ TypeScript]]></title>
+            <link>https://khalilstemmler.com/indirection</link>
+            <guid>https://khalilstemmler.com/indirection</guid>
+            <pubDate>Fri, 26 Feb 2021 09:27:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[deploying node app to heroku with procfile]]></title>
@@ -27,10 +63,10 @@
             <pubDate>Fri, 26 Feb 2021 01:51:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to pass byte[] type variables to FFI imported DLL in nodeJS?]]></title>
-            <link>https://stackoverflow.com/q/60429642/4236616</link>
-            <guid>https://stackoverflow.com/q/60429642/4236616</guid>
-            <pubDate>Fri, 26 Feb 2021 06:39:08 GMT</pubDate>
+            <title><![CDATA[[Portfolio] First MERN Stack Application]]></title>
+            <link>mailto:myprs.test@gmail.com</link>
+            <guid>mailto:myprs.test@gmail.com</guid>
+            <pubDate>Fri, 26 Feb 2021 11:33:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Error installing node-pty from package.json]]></title>
@@ -61,18 +97,6 @@
             <link>https://twitter.com/IncludeSecurity/status/1362457810450214913</link>
             <guid>https://twitter.com/IncludeSecurity/status/1362457810450214913</guid>
             <pubDate>Thu, 25 Feb 2021 05:04:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Foal framework - Version 2.2 is here]]></title>
-            <link>https://foalts.org/docs/</link>
-            <guid>https://foalts.org/docs/</guid>
-            <pubDate>Thu, 25 Feb 2021 14:48:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Most Popular Backend Frameworks - 2012/2020]]></title>
-            <link>https://statisticsanddata.org/most-popular-backend-frameworks/</link>
-            <guid>https://statisticsanddata.org/most-popular-backend-frameworks/</guid>
-            <pubDate>Thu, 25 Feb 2021 17:44:34 GMT</pubDate>
         </item>
     </channel>
 </rss>

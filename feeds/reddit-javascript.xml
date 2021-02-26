@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Fri, 26 Feb 2021 07:47:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2021 13:01:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,10 @@
             <pubDate>Thu, 25 Feb 2021 15:09:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to Create Native Drag and Drop Functionality in JavaScript]]></title>
-            <link>https://www.webtips.dev/how-to-create-native-drag-and-drop-functionality-in-javascript</link>
-            <guid>https://www.webtips.dev/how-to-create-native-drag-and-drop-functionality-in-javascript</guid>
-            <pubDate>Wed, 24 Feb 2021 17:42:50 GMT</pubDate>
+            <title><![CDATA[Securing Node services with Client Authenticated TLS using CATKeys]]></title>
+            <link>https://tommytucker1979.medium.com/securing-node-services-using-client-authenticated-tls-with-catkeys-938709726fbc</link>
+            <guid>https://tommytucker1979.medium.com/securing-node-services-using-client-authenticated-tls-with-catkeys-938709726fbc</guid>
+            <pubDate>Fri, 26 Feb 2021 10:16:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A command-line utility for deploying serverless applications to AWS. Complete with custom domains, deploy previews, TypeScript support, and more.]]></title>
@@ -31,6 +31,12 @@
             <link>https://github.com/artemave/meshell</link>
             <guid>https://github.com/artemave/meshell</guid>
             <pubDate>Thu, 25 Feb 2021 13:16:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Create Native Drag and Drop Functionality in JavaScript]]></title>
+            <link>https://www.webtips.dev/how-to-create-native-drag-and-drop-functionality-in-javascript</link>
+            <guid>https://www.webtips.dev/how-to-create-native-drag-and-drop-functionality-in-javascript</guid>
+            <pubDate>Wed, 24 Feb 2021 17:42:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Server Rendering in JavaScript: Optimizing Performance]]></title>
@@ -133,12 +139,6 @@
             <link>https://groups.google.com/g/nodejs-sec/c/IdlZq8JBhRs/m/mY-MrJswBQAJ</link>
             <guid>https://groups.google.com/g/nodejs-sec/c/IdlZq8JBhRs/m/mY-MrJswBQAJ</guid>
             <pubDate>Tue, 23 Feb 2021 14:03:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AskJS] How do you compress js files?]]></title>
-            <link>https://github.com/ccampbell/mousetrap/blob/master/mousetrap.js</link>
-            <guid>https://github.com/ccampbell/mousetrap/blob/master/mousetrap.js</guid>
-            <pubDate>Tue, 23 Feb 2021 20:24:43 GMT</pubDate>
         </item>
     </channel>
 </rss>

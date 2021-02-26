@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Fri, 26 Feb 2021 00:11:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2021 07:47:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,16 +21,16 @@
             <pubDate>Wed, 24 Feb 2021 17:42:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[meshell - dead simple shell library for Node]]></title>
-            <link>https://github.com/artemave/meshell</link>
-            <guid>https://github.com/artemave/meshell</guid>
-            <pubDate>Thu, 25 Feb 2021 13:16:22 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A command-line utility for deploying serverless applications to AWS. Complete with custom domains, deploy previews, TypeScript support, and more.]]></title>
             <link>https://github.com/JakePartusch/serverlessui</link>
             <guid>https://github.com/JakePartusch/serverlessui</guid>
             <pubDate>Thu, 25 Feb 2021 16:20:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[meshell - dead simple shell library for Node]]></title>
+            <link>https://github.com/artemave/meshell</link>
+            <guid>https://github.com/artemave/meshell</guid>
+            <pubDate>Thu, 25 Feb 2021 13:16:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Server Rendering in JavaScript: Optimizing Performance]]></title>
@@ -45,6 +45,12 @@
             <pubDate>Thu, 25 Feb 2021 16:14:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Currying Reducers]]></title>
+            <link>https://tejasbubane.github.io/posts/2021-02-22-currying-reducers/?utm_source=r-javascript&amp;utm_medium=reddit</link>
+            <guid>https://tejasbubane.github.io/posts/2021-02-22-currying-reducers/?utm_source=r-javascript&amp;utm_medium=reddit</guid>
+            <pubDate>Thu, 25 Feb 2021 19:45:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Unit-Testing Angular Components Using Cypress]]></title>
             <link>https://marmicode.io/blog/testing-angular-components-using-cypress</link>
             <guid>https://marmicode.io/blog/testing-angular-components-using-cypress</guid>
@@ -55,12 +61,6 @@
             <link>https://hgmaxwellking.medium.com/programs-as-proofs-f95751ab8817</link>
             <guid>https://hgmaxwellking.medium.com/programs-as-proofs-f95751ab8817</guid>
             <pubDate>Thu, 25 Feb 2021 15:38:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Currying Reducers]]></title>
-            <link>https://tejasbubane.github.io/posts/2021-02-22-currying-reducers/?utm_source=r-javascript&amp;utm_medium=reddit</link>
-            <guid>https://tejasbubane.github.io/posts/2021-02-22-currying-reducers/?utm_source=r-javascript&amp;utm_medium=reddit</guid>
-            <pubDate>Thu, 25 Feb 2021 19:45:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I made a chrome extension that opens GitHub repos to your local editor in 1 click]]></title>

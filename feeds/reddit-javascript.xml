@@ -4,15 +4,51 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Fri, 26 Feb 2021 13:01:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2021 19:46:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[I created STARTD. It is a free open source landing page template. Built with Next.js, TypeScript and Twind.]]></title>
+            <link>https://github.com/jkytoela/next-startd</link>
+            <guid>https://github.com/jkytoela/next-startd</guid>
+            <pubDate>Fri, 26 Feb 2021 13:09:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I built an open source Next.js app to visualize/auto generate GraphQL schemas]]></title>
+            <link>https://github.com/oslabs-beta/giraffeQL</link>
+            <guid>https://github.com/oslabs-beta/giraffeQL</guid>
+            <pubDate>Fri, 26 Feb 2021 14:21:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CSS-in-JS support in DevTools | Web | Google Developers]]></title>
+            <link>https://developers.google.com/web/updates/2021/02/css-in-js</link>
+            <guid>https://developers.google.com/web/updates/2021/02/css-in-js</guid>
+            <pubDate>Fri, 26 Feb 2021 14:38:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Create videos in React that viewers can interact with]]></title>
             <link>https://ractive-player.org/</link>
             <guid>https://ractive-player.org/</guid>
             <pubDate>Thu, 25 Feb 2021 15:09:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Page builder with Netlify CMS and Next.js]]></title>
+            <link>https://www.luckymedia.dev/blog/page-builder-with-netlify-cms-and-next-js</link>
+            <guid>https://www.luckymedia.dev/blog/page-builder-with-netlify-cms-and-next-js</guid>
+            <pubDate>Fri, 26 Feb 2021 15:19:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Find 850+ remote job openings hand-picked from Hacker News who is hiring - February]]></title>
+            <link>https://remoteleaf.com/whoishiring</link>
+            <guid>https://remoteleaf.com/whoishiring</guid>
+            <pubDate>Fri, 26 Feb 2021 15:03:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[romanice - Convert to/from Roman numerals]]></title>
+            <link>https://www.npmjs.com/package/romanice</link>
+            <guid>https://www.npmjs.com/package/romanice</guid>
+            <pubDate>Fri, 26 Feb 2021 14:40:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Securing Node services with Client Authenticated TLS using CATKeys]]></title>
@@ -39,16 +75,16 @@
             <pubDate>Wed, 24 Feb 2021 17:42:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Server Rendering in JavaScript: Optimizing Performance]]></title>
-            <link>https://dev.to/ryansolid/server-rendering-in-javascript-optimizing-performance-1jnk</link>
-            <guid>https://dev.to/ryansolid/server-rendering-in-javascript-optimizing-performance-1jnk</guid>
-            <pubDate>Thu, 25 Feb 2021 15:44:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[[AskJS] async iterators to replace EventEmitter, EventTarget and so on]]></title>
             <link>https://github.com/xmppjs/xmpp.js</link>
             <guid>https://github.com/xmppjs/xmpp.js</guid>
             <pubDate>Thu, 25 Feb 2021 16:14:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Server Rendering in JavaScript: Optimizing Performance]]></title>
+            <link>https://dev.to/ryansolid/server-rendering-in-javascript-optimizing-performance-1jnk</link>
+            <guid>https://dev.to/ryansolid/server-rendering-in-javascript-optimizing-performance-1jnk</guid>
+            <pubDate>Thu, 25 Feb 2021 15:44:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Currying Reducers]]></title>
@@ -105,40 +141,10 @@
             <pubDate>Tue, 23 Feb 2021 15:04:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Strapi Draft System Explained]]></title>
-            <link>https://strapi.io/blog/strapi-draft-system-explained</link>
-            <guid>https://strapi.io/blog/strapi-draft-system-explained</guid>
-            <pubDate>Wed, 24 Feb 2021 13:37:33 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[[AskJS] What is the role of ISO in the ECMAScript standardization process?]]></title>
             <link>https://www.iso.org/standard/73002.html</link>
             <guid>https://www.iso.org/standard/73002.html</guid>
             <pubDate>Wed, 24 Feb 2021 11:01:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Object detection model written in node js with TensorFlow js can detect more than 1000 different objects]]></title>
-            <link>https://github.com/ntedgi/node-efficientnet</link>
-            <guid>https://github.com/ntedgi/node-efficientnet</guid>
-            <pubDate>Wed, 24 Feb 2021 10:54:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Converting English number sentences ("one hundred forty two point three") to numeric digits ("142.3")]]></title>
-            <link>https://gist.github.com/getify/83e6fae8f54c1d38f89132a130493f98</link>
-            <guid>https://gist.github.com/getify/83e6fae8f54c1d38f89132a130493f98</guid>
-            <pubDate>Wed, 24 Feb 2021 04:04:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JavaScript performance beyond bundle size]]></title>
-            <link>https://nolanlawson.com/2021/02/23/javascript-performance-beyond-bundle-size/</link>
-            <guid>https://nolanlawson.com/2021/02/23/javascript-performance-beyond-bundle-size/</guid>
-            <pubDate>Tue, 23 Feb 2021 18:15:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Critical security updates released for all active Node.js versions]]></title>
-            <link>https://groups.google.com/g/nodejs-sec/c/IdlZq8JBhRs/m/mY-MrJswBQAJ</link>
-            <guid>https://groups.google.com/g/nodejs-sec/c/IdlZq8JBhRs/m/mY-MrJswBQAJ</guid>
-            <pubDate>Tue, 23 Feb 2021 14:03:41 GMT</pubDate>
         </item>
     </channel>
 </rss>

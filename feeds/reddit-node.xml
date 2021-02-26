@@ -4,16 +4,10 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Fri, 26 Feb 2021 13:01:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2021 19:46:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
-        <item>
-            <title><![CDATA[Firebase vs. Supabase: Which is better? - LogRocket Blog]]></title>
-            <link>https://blog.logrocket.com/firebase-vs-supabase-which-is-better/</link>
-            <guid>https://blog.logrocket.com/firebase-vs-supabase-which-is-better/</guid>
-            <pubDate>Fri, 26 Feb 2021 02:58:08 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Securing Node services with Client Authenticated TLS using CATKeys]]></title>
             <link>https://tommytucker1979.medium.com/securing-node-services-using-client-authenticated-tls-with-catkeys-938709726fbc</link>
@@ -21,10 +15,34 @@
             <pubDate>Fri, 26 Feb 2021 10:19:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Control Google Sheets with Node.js!]]></title>
-            <link>https://youtu.be/PFJNJQCU_lo</link>
-            <guid>https://youtu.be/PFJNJQCU_lo</guid>
-            <pubDate>Thu, 25 Feb 2021 10:13:02 GMT</pubDate>
+            <title><![CDATA[Firebase vs. Supabase: Which is better? - LogRocket Blog]]></title>
+            <link>https://blog.logrocket.com/firebase-vs-supabase-which-is-better/</link>
+            <guid>https://blog.logrocket.com/firebase-vs-supabase-which-is-better/</guid>
+            <pubDate>Fri, 26 Feb 2021 02:58:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to build dashboards without coding any communication layers. Just write Node.js module then call it as an API with a simple JS call. Check out full code here 👇]]></title>
+            <link>https://playground.scaledynamics.com/?snippet=849ff01d-82e6-42e2-96e0-f305b6eb990b</link>
+            <guid>https://playground.scaledynamics.com/?snippet=849ff01d-82e6-42e2-96e0-f305b6eb990b</guid>
+            <pubDate>Fri, 26 Feb 2021 15:50:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ubuntu and linux connoiseurs, and crontab experts-- issues trying to execute nodejs scraping functions on an AWS ec2 Ubuntu instance.]]></title>
+            <link>https://github.com/TonyTony999/scraping_3</link>
+            <guid>https://github.com/TonyTony999/scraping_3</guid>
+            <pubDate>Fri, 26 Feb 2021 19:26:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why is GraphQL the natural evolution of REST for app oriented APIs]]></title>
+            <link>https://ezequielzacca.medium.com/why-graphql-is-the-natural-evolution-of-rest-for-app-oriented-apis-bef0875ba072</link>
+            <guid>https://ezequielzacca.medium.com/why-graphql-is-the-natural-evolution-of-rest-for-app-oriented-apis-bef0875ba072</guid>
+            <pubDate>Fri, 26 Feb 2021 16:41:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NTA: An opinionated (work in progress) architecture for writing Node TypeScript apps, with functional DI/IOC and runtime type validation]]></title>
+            <link>https://github.com/jbreckmckye/node-typescript-architecture</link>
+            <guid>https://github.com/jbreckmckye/node-typescript-architecture</guid>
+            <pubDate>Fri, 26 Feb 2021 16:18:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bcrypto@5.4.0 install script]]></title>
@@ -33,22 +51,22 @@
             <pubDate>Fri, 26 Feb 2021 09:24:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[I curated 850+ remote job openings from Hacker News who is hiring - February]]></title>
+            <link>https://remoteleaf.com/whoishiring</link>
+            <guid>https://remoteleaf.com/whoishiring</guid>
+            <pubDate>Fri, 26 Feb 2021 15:01:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How to pass byte[] type variables to FFI imported DLL in nodeJS?]]></title>
             <link>https://stackoverflow.com/q/60429642/4236616</link>
             <guid>https://stackoverflow.com/q/60429642/4236616</guid>
             <pubDate>Fri, 26 Feb 2021 06:39:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[Portfolio] First MERN Stack Application]]></title>
-            <link>mailto:myprs.test@gmail.com</link>
-            <guid>mailto:myprs.test@gmail.com</guid>
-            <pubDate>Fri, 26 Feb 2021 11:30:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Learn Node.JS in 6 hours only 2021]]></title>
-            <link>https://www.myfreeonlinecourses.com/2021/02/100-off-learn-nodejs-in-6-hours-only.html</link>
-            <guid>https://www.myfreeonlinecourses.com/2021/02/100-off-learn-nodejs-in-6-hours-only.html</guid>
-            <pubDate>Fri, 26 Feb 2021 10:31:55 GMT</pubDate>
+            <title><![CDATA[Control Google Sheets with Node.js!]]></title>
+            <link>https://youtu.be/PFJNJQCU_lo</link>
+            <guid>https://youtu.be/PFJNJQCU_lo</guid>
+            <pubDate>Thu, 25 Feb 2021 10:13:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Use DTOs to Enforce a Layer of Indirection | Node.js w/ TypeScript]]></title>
@@ -69,34 +87,10 @@
             <pubDate>Fri, 26 Feb 2021 11:33:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Error installing node-pty from package.json]]></title>
-            <link>/r/linux4noobs/comments/lsm20w/error_installing_nodepty_from_packagejson/</link>
-            <guid>/r/linux4noobs/comments/lsm20w/error_installing_nodepty_from_packagejson/</guid>
-            <pubDate>Fri, 26 Feb 2021 01:09:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pattern for classes that use eachother?]]></title>
-            <link>https://gist.github.com/acomito/8c372ae52363c1c7beeb746d6e26cc1d</link>
-            <guid>https://gist.github.com/acomito/8c372ae52363c1c7beeb746d6e26cc1d</guid>
-            <pubDate>Thu, 25 Feb 2021 15:58:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to extract pdf data with PDF.js]]></title>
-            <link>https://writingjavascript.com/how-to-extract-pdf-data-with-pdfjs</link>
-            <guid>https://writingjavascript.com/how-to-extract-pdf-data-with-pdfjs</guid>
-            <pubDate>Wed, 24 Feb 2021 19:51:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Javascript News 4th Week(Feb) – NodeJS security releases, 1KB CSS-in-JS solution, Guide to React Testing, Storybook for Vue 3 - The ArrowFn]]></title>
-            <link>https://thearrowfn.com/javascript-news-4th-weekfeb-nodejs-security-releases-1kb-css-in-js/</link>
-            <guid>https://thearrowfn.com/javascript-news-4th-weekfeb-nodejs-security-releases-1kb-css-in-js/</guid>
-            <pubDate>Thu, 25 Feb 2021 18:33:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dependency Confusion: When Are Your npm Packages Vulnerable? (How to spot and fix this vuln)]]></title>
-            <link>https://twitter.com/IncludeSecurity/status/1362457810450214913</link>
-            <guid>https://twitter.com/IncludeSecurity/status/1362457810450214913</guid>
-            <pubDate>Thu, 25 Feb 2021 05:04:39 GMT</pubDate>
+            <title><![CDATA[[Portfolio] First MERN Stack Application]]></title>
+            <link>mailto:myprs.test@gmail.com</link>
+            <guid>mailto:myprs.test@gmail.com</guid>
+            <pubDate>Fri, 26 Feb 2021 11:30:28 GMT</pubDate>
         </item>
     </channel>
 </rss>

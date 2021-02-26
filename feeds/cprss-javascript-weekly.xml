@@ -4,10 +4,274 @@
         <title>JavaScript Weekly</title>
         <link>https://javascriptweekly.com/</link>
         <description>A newsletter of JavaScript articles, news and cool projects</description>
-        <lastBuildDate>Fri, 26 Feb 2021 13:01:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2021 19:46:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[JavaScript Performance Beyond Bundle Size]]></title>
+            <link>https://javascriptweekly.com/link/103863/rss</link>
+            <guid>https://javascriptweekly.com/link/103863/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[reminds us]]></title>
+            <link>https://javascriptweekly.com/link/103908/rss</link>
+            <guid>https://javascriptweekly.com/link/103908/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Definitive Guide to Streams]]></title>
+            <link>https://javascriptweekly.com/link/103864/rss</link>
+            <guid>https://javascriptweekly.com/link/103864/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Friendly Introduction to Functional Programming with JavaScript by Anjana Vakil]]></title>
+            <link>https://javascriptweekly.com/link/103865/rss</link>
+            <guid>https://javascriptweekly.com/link/103865/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TypeScript 4.2 Released]]></title>
+            <link>https://javascriptweekly.com/link/103866/rss</link>
+            <guid>https://javascriptweekly.com/link/103866/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10 Years of Open-Source Visualization with D3.js]]></title>
+            <link>https://javascriptweekly.com/link/103867/rss</link>
+            <guid>https://javascriptweekly.com/link/103867/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[D3.js]]></title>
+            <link>https://javascriptweekly.com/link/103868/rss</link>
+            <guid>https://javascriptweekly.com/link/103868/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[releases of all supported Node.js branches]]></title>
+            <link>https://javascriptweekly.com/link/103894/rss</link>
+            <guid>https://javascriptweekly.com/link/103894/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[free-for.dev]]></title>
+            <link>https://javascriptweekly.com/link/103895/rss</link>
+            <guid>https://javascriptweekly.com/link/103895/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[quick look]]></title>
+            <link>https://javascriptweekly.com/link/103896/rss</link>
+            <guid>https://javascriptweekly.com/link/103896/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[official Vue.js 3 support.]]></title>
+            <link>https://javascriptweekly.com/link/103897/rss</link>
+            <guid>https://javascriptweekly.com/link/103897/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hiring Remote Mid-Level / Senior Full Stack Engineer in North America]]></title>
+            <link>https://javascriptweekly.com/link/103869/rss</link>
+            <guid>https://javascriptweekly.com/link/103869/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[JavaScript Engineer]]></title>
+            <link>https://javascriptweekly.com/link/103870/rss</link>
+            <guid>https://javascriptweekly.com/link/103870/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Recreating Real-World Terrain with React, Three.js and WebGL Shaders]]></title>
+            <link>https://javascriptweekly.com/link/103872/rss</link>
+            <guid>https://javascriptweekly.com/link/103872/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Looks Good To Me: Making Code Reviews Better for Remote-First Teams]]></title>
+            <link>https://javascriptweekly.com/link/103898/rss</link>
+            <guid>https://javascriptweekly.com/link/103898/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Best Practices for Building Better Angular Forms]]></title>
+            <link>https://javascriptweekly.com/link/103874/rss</link>
+            <guid>https://javascriptweekly.com/link/103874/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Read the guide on our blog]]></title>
+            <link>https://javascriptweekly.com/link/103874/rss</link>
+            <guid>https://javascriptweekly.com/link/103874/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Building a Serverless Multi-Player Game That Scales]]></title>
+            <link>https://javascriptweekly.com/link/103875/rss</link>
+            <guid>https://javascriptweekly.com/link/103875/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[code available]]></title>
+            <link>https://javascriptweekly.com/link/103876/rss</link>
+            <guid>https://javascriptweekly.com/link/103876/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Create React Components with TypeScript]]></title>
+            <link>https://javascriptweekly.com/link/103899/rss</link>
+            <guid>https://javascriptweekly.com/link/103899/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Building a Real-Time Webapp with Node and Socket.io]]></title>
+            <link>https://javascriptweekly.com/link/103873/rss</link>
+            <guid>https://javascriptweekly.com/link/103873/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Definitive Guide to Feature Management]]></title>
+            <link>https://javascriptweekly.com/link/103877/rss</link>
+            <guid>https://javascriptweekly.com/link/103877/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why JavaScript Developers Should Prefer Axios over Fetch]]></title>
+            <link>https://javascriptweekly.com/link/103900/rss</link>
+            <guid>https://javascriptweekly.com/link/103900/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Use Vue.js Environment Modes with a Node.js Mock Data Layer]]></title>
+            <link>https://javascriptweekly.com/link/103878/rss</link>
+            <guid>https://javascriptweekly.com/link/103878/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Building a Roadmap Voting App with Serverless Redis and Next.js]]></title>
+            <link>https://javascriptweekly.com/link/103879/rss</link>
+            <guid>https://javascriptweekly.com/link/103879/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thoughts on Porting Koan’s 150,000-line JavaScript Codebase to TypeScript]]></title>
+            <link>https://javascriptweekly.com/link/103901/rss</link>
+            <guid>https://javascriptweekly.com/link/103901/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Simple-Keyboard: A Virtual Keyboard for JavaScript Projects]]></title>
+            <link>https://javascriptweekly.com/link/103881/rss</link>
+            <guid>https://javascriptweekly.com/link/103881/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Serverless UI: A Command-Line Tool for Deploying Serverless Functions to AWS]]></title>
+            <link>https://javascriptweekly.com/link/103882/rss</link>
+            <guid>https://javascriptweekly.com/link/103882/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tagger: A Zero Dependency, Vanilla JavaScript Tagging Library]]></title>
+            <link>https://javascriptweekly.com/link/103883/rss</link>
+            <guid>https://javascriptweekly.com/link/103883/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Try a demo here]]></title>
+            <link>https://javascriptweekly.com/link/103884/rss</link>
+            <guid>https://javascriptweekly.com/link/103884/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kotlin-First Android Chat SDK with New UI Components]]></title>
+            <link>https://javascriptweekly.com/link/103885/rss</link>
+            <guid>https://javascriptweekly.com/link/103885/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React Drawer: A Sliding Drawer Component]]></title>
+            <link>https://javascriptweekly.com/link/103886/rss</link>
+            <guid>https://javascriptweekly.com/link/103886/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Storybook collection of examples]]></title>
+            <link>https://javascriptweekly.com/link/103887/rss</link>
+            <guid>https://javascriptweekly.com/link/103887/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vue3 Icon Picker: An Beautiful Icon Picker Component for Vue]]></title>
+            <link>https://javascriptweekly.com/link/103888/rss</link>
+            <guid>https://javascriptweekly.com/link/103888/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Try a demo here]]></title>
+            <link>https://javascriptweekly.com/link/103889/rss</link>
+            <guid>https://javascriptweekly.com/link/103889/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vanilla JS version]]></title>
+            <link>https://javascriptweekly.com/link/103890/rss</link>
+            <guid>https://javascriptweekly.com/link/103890/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tippy.js 6.3: Highly Customizable Tooltip and Popover Library]]></title>
+            <link>https://javascriptweekly.com/link/103891/rss</link>
+            <guid>https://javascriptweekly.com/link/103891/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GitHub repo.]]></title>
+            <link>https://javascriptweekly.com/link/103892/rss</link>
+            <guid>https://javascriptweekly.com/link/103892/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[element-resize-detector: Optimized Cross-Browser Resize Listener for Elements]]></title>
+            <link>https://javascriptweekly.com/link/103902/rss</link>
+            <guid>https://javascriptweekly.com/link/103902/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Puppeteer 8.0]]></title>
+            <link>https://javascriptweekly.com/link/103903/rss</link>
+            <guid>https://javascriptweekly.com/link/103903/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SCEditor 3.0]]></title>
+            <link>https://javascriptweekly.com/link/103904/rss</link>
+            <guid>https://javascriptweekly.com/link/103904/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Critical 3.0]]></title>
+            <link>https://javascriptweekly.com/link/103905/rss</link>
+            <guid>https://javascriptweekly.com/link/103905/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lighthouse 7.2]]></title>
+            <link>https://javascriptweekly.com/link/103906/rss</link>
+            <guid>https://javascriptweekly.com/link/103906/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[eslint-config-prettier 8.1]]></title>
+            <link>https://javascriptweekly.com/link/103907/rss</link>
+            <guid>https://javascriptweekly.com/link/103907/rss</guid>
+            <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Announcing Vite 2.0]]></title>
             <link>https://javascriptweekly.com/link/103548/rss</link>
@@ -853,324 +1117,6 @@
             <link>https://javascriptweekly.com/link/102685/rss</link>
             <guid>https://javascriptweekly.com/link/102685/rss</guid>
             <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TOAST UI Chart 4.0 Released]]></title>
-            <link>https://javascriptweekly.com/link/102298/rss</link>
-            <guid>https://javascriptweekly.com/link/102298/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Here’s lots of demos]]></title>
-            <link>https://javascriptweekly.com/link/102299/rss</link>
-            <guid>https://javascriptweekly.com/link/102299/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GitHub repo]]></title>
-            <link>https://javascriptweekly.com/link/102300/rss</link>
-            <guid>https://javascriptweekly.com/link/102300/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[undefined vs. null Revisited]]></title>
-            <link>https://javascriptweekly.com/link/102250/rss</link>
-            <guid>https://javascriptweekly.com/link/102250/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Combining React, GraphQL, NoSQL and Serverless]]></title>
-            <link>https://javascriptweekly.com/link/102251/rss</link>
-            <guid>https://javascriptweekly.com/link/102251/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No credit card, free to 5GB]]></title>
-            <link>https://javascriptweekly.com/link/102251/rss</link>
-            <guid>https://javascriptweekly.com/link/102251/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deno 1.7 Released]]></title>
-            <link>https://javascriptweekly.com/link/102252/rss</link>
-            <guid>https://javascriptweekly.com/link/102252/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Via our Deno newsletter]]></title>
-            <link>https://javascriptweekly.com/link/102301/rss</link>
-            <guid>https://javascriptweekly.com/link/102301/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cypress vs Selenium vs Playwright vs Puppeteer Speed Comparison]]></title>
-            <link>https://javascriptweekly.com/link/102253/rss</link>
-            <guid>https://javascriptweekly.com/link/102253/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Playwright]]></title>
-            <link>https://javascriptweekly.com/link/102254/rss</link>
-            <guid>https://javascriptweekly.com/link/102254/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10 Bad TypeScript Habits to Break This Year]]></title>
-            <link>https://javascriptweekly.com/link/102255/rss</link>
-            <guid>https://javascriptweekly.com/link/102255/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[coming to ES2021]]></title>
-            <link>https://javascriptweekly.com/link/102302/rss</link>
-            <guid>https://javascriptweekly.com/link/102302/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[now a W3C and IETF standard.]]></title>
-            <link>https://javascriptweekly.com/link/102256/rss</link>
-            <guid>https://javascriptweekly.com/link/102256/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[what happened in 2020]]></title>
-            <link>https://javascriptweekly.com/link/102257/rss</link>
-            <guid>https://javascriptweekly.com/link/102257/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Node 15.7.0]]></title>
-            <link>https://javascriptweekly.com/link/102258/rss</link>
-            <guid>https://javascriptweekly.com/link/102258/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JavaScript benchmark results]]></title>
-            <link>https://javascriptweekly.com/link/102303/rss</link>
-            <guid>https://javascriptweekly.com/link/102303/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Walkthrough of Migrating MaxRozen.com from Gatsby to Next.js]]></title>
-            <link>https://javascriptweekly.com/link/102261/rss</link>
-            <guid>https://javascriptweekly.com/link/102261/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Get Started with Modding Factorio using TypeScript]]></title>
-            <link>https://javascriptweekly.com/link/102262/rss</link>
-            <guid>https://javascriptweekly.com/link/102262/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Factorio]]></title>
-            <link>https://javascriptweekly.com/link/102263/rss</link>
-            <guid>https://javascriptweekly.com/link/102263/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[factorio-type-kit]]></title>
-            <link>https://javascriptweekly.com/link/102264/rss</link>
-            <guid>https://javascriptweekly.com/link/102264/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Creating Custom RxJS Operators]]></title>
-            <link>https://javascriptweekly.com/link/102265/rss</link>
-            <guid>https://javascriptweekly.com/link/102265/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An Introduction to the Rollup.js Bundler]]></title>
-            <link>https://javascriptweekly.com/link/102266/rss</link>
-            <guid>https://javascriptweekly.com/link/102266/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rollup]]></title>
-            <link>https://javascriptweekly.com/link/102267/rss</link>
-            <guid>https://javascriptweekly.com/link/102267/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Big List of HTTP Static Server One-Liners]]></title>
-            <link>https://javascriptweekly.com/link/102268/rss</link>
-            <guid>https://javascriptweekly.com/link/102268/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Ultimate Guide to Cardinality for Observability]]></title>
-            <link>https://javascriptweekly.com/link/102269/rss</link>
-            <guid>https://javascriptweekly.com/link/102269/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rendering Colorful Twisted Spheres with Three.js]]></title>
-            <link>https://javascriptweekly.com/link/102270/rss</link>
-            <guid>https://javascriptweekly.com/link/102270/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting Started with Netlify Functions for Angular]]></title>
-            <link>https://javascriptweekly.com/link/102271/rss</link>
-            <guid>https://javascriptweekly.com/link/102271/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Using fetch with TypeScript]]></title>
-            <link>https://javascriptweekly.com/link/102272/rss</link>
-            <guid>https://javascriptweekly.com/link/102272/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Building a Range Slider with SVGs in Angular]]></title>
-            <link>https://javascriptweekly.com/link/102273/rss</link>
-            <guid>https://javascriptweekly.com/link/102273/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RunJS: A JavaScript 'Scratchpad' Desktop Tool]]></title>
-            <link>https://javascriptweekly.com/link/102275/rss</link>
-            <guid>https://javascriptweekly.com/link/102275/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[react-editor-js: Unofficial Editor.js Component for React]]></title>
-            <link>https://javascriptweekly.com/link/102276/rss</link>
-            <guid>https://javascriptweekly.com/link/102276/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[editor.js]]></title>
-            <link>https://javascriptweekly.com/link/102277/rss</link>
-            <guid>https://javascriptweekly.com/link/102277/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[demo]]></title>
-            <link>https://javascriptweekly.com/link/102278/rss</link>
-            <guid>https://javascriptweekly.com/link/102278/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fast and Reliable Feature Management for the Modern Enterprise]]></title>
-            <link>https://javascriptweekly.com/link/102279/rss</link>
-            <guid>https://javascriptweekly.com/link/102279/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Source Map Visualization: Upload and View JavaScript/CSS Source Map Data]]></title>
-            <link>https://javascriptweekly.com/link/102280/rss</link>
-            <guid>https://javascriptweekly.com/link/102280/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CKEditor 5 v25.0.0 Released]]></title>
-            <link>https://javascriptweekly.com/link/102281/rss</link>
-            <guid>https://javascriptweekly.com/link/102281/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[demos here]]></title>
-            <link>https://javascriptweekly.com/link/102282/rss</link>
-            <guid>https://javascriptweekly.com/link/102282/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[vue-easytable 2.0: A Flexible Vue 2.x Table Component]]></title>
-            <link>https://javascriptweekly.com/link/102283/rss</link>
-            <guid>https://javascriptweekly.com/link/102283/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[easy to get going.]]></title>
-            <link>https://javascriptweekly.com/link/102284/rss</link>
-            <guid>https://javascriptweekly.com/link/102284/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[v2.0]]></title>
-            <link>https://javascriptweekly.com/link/102285/rss</link>
-            <guid>https://javascriptweekly.com/link/102285/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GitHub repo]]></title>
-            <link>https://javascriptweekly.com/link/102286/rss</link>
-            <guid>https://javascriptweekly.com/link/102286/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cheval 2.0: 'Copy to The Clipboard' using JavaScript Without Writing JS]]></title>
-            <link>https://javascriptweekly.com/link/102287/rss</link>
-            <guid>https://javascriptweekly.com/link/102287/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[post-me: Communicate with Web Workers and Other Windows]]></title>
-            <link>https://javascriptweekly.com/link/102288/rss</link>
-            <guid>https://javascriptweekly.com/link/102288/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scout APM - Leading Edge Performance Monitoring Starting at $39/Month]]></title>
-            <link>https://javascriptweekly.com/link/102289/rss</link>
-            <guid>https://javascriptweekly.com/link/102289/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[vue-content-loader 2.0: SVG-based 'Loading Placeholder' Component]]></title>
-            <link>https://javascriptweekly.com/link/102290/rss</link>
-            <guid>https://javascriptweekly.com/link/102290/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[react-content-loader]]></title>
-            <link>https://javascriptweekly.com/link/102291/rss</link>
-            <guid>https://javascriptweekly.com/link/102291/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[electron-store 7.0]]></title>
-            <link>https://javascriptweekly.com/link/102292/rss</link>
-            <guid>https://javascriptweekly.com/link/102292/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sequelize 6.5.0]]></title>
-            <link>https://javascriptweekly.com/link/102293/rss</link>
-            <guid>https://javascriptweekly.com/link/102293/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Electron React Boilerplate 2.2]]></title>
-            <link>https://javascriptweekly.com/link/102294/rss</link>
-            <guid>https://javascriptweekly.com/link/102294/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dropbox SDK for JavaScript 9.0]]></title>
-            <link>https://javascriptweekly.com/link/102295/rss</link>
-            <guid>https://javascriptweekly.com/link/102295/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GitHub.js 3.4]]></title>
-            <link>https://javascriptweekly.com/link/102296/rss</link>
-            <guid>https://javascriptweekly.com/link/102296/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[npm 7.5.0]]></title>
-            <link>https://javascriptweekly.com/link/102297/rss</link>
-            <guid>https://javascriptweekly.com/link/102297/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[billboard.js 2.2.0]]></title>
-            <link>https://javascriptweekly.com/link/102304/rss</link>
-            <guid>https://javascriptweekly.com/link/102304/rss</guid>
-            <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

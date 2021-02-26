@@ -4,15 +4,39 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Fri, 26 Feb 2021 13:01:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2021 19:46:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Css For Beginners]]></title>
-            <link>https://www.myfreeonlinecourses.com/2021/02/100-off-css-for-beginners.html</link>
-            <guid>https://www.myfreeonlinecourses.com/2021/02/100-off-css-for-beginners.html</guid>
-            <pubDate>Fri, 26 Feb 2021 10:49:41 GMT</pubDate>
+            <title><![CDATA[Improve the readability of the content on your website]]></title>
+            <link>https://piccalil.li/tutorial/improve-the-readability-of-the-content-on-your-website</link>
+            <guid>https://piccalil.li/tutorial/improve-the-readability-of-the-content-on-your-website</guid>
+            <pubDate>Fri, 26 Feb 2021 13:48:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quickly add color & size options to any React component - full app #15]]></title>
+            <link>https://youtube.com/watch?v=ndOZlihXuWM&amp;feature=share</link>
+            <guid>https://youtube.com/watch?v=ndOZlihXuWM&amp;feature=share</guid>
+            <pubDate>Fri, 26 Feb 2021 19:19:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[There's this weird section here on my site that takes up space. How do I eliminate it?]]></title>
+            <link>https://imgur.com/a/ZlqqNRd</link>
+            <guid>https://imgur.com/a/ZlqqNRd</guid>
+            <pubDate>Fri, 26 Feb 2021 19:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Which dev-tool is better for responsive design, Firefox or Google chrome?]]></title>
+            <link>https://preview.redd.it/y84s3yo0avj61.png?width=1345&amp;format=png&amp;auto=webp&amp;s=2014d7ec9aca76364270f67c30380c8520a97b4f</link>
+            <guid>https://preview.redd.it/y84s3yo0avj61.png?width=1345&amp;format=png&amp;auto=webp&amp;s=2014d7ec9aca76364270f67c30380c8520a97b4f</guid>
+            <pubDate>Fri, 26 Feb 2021 18:47:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[Bulma] - How to keep Bulma navbar-end from collapsing?]]></title>
+            <link>https://codepen.io/quantim/pen/QWGQQaa</link>
+            <guid>https://codepen.io/quantim/pen/QWGQQaa</guid>
+            <pubDate>Fri, 26 Feb 2021 16:17:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Height: 100%;]]></title>
@@ -27,28 +51,22 @@
             <pubDate>Fri, 26 Feb 2021 09:10:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How Has Vertical Alignment become easy with CSS Subgrid?]]></title>
-            <link>https://www.lambdatest.com/blog/vertical-alignment-with-css-subgrid/?utm_source=Reddit&amp;utm_medium=blog&amp;utm_campaign=PM-260221-1&amp;utm_term=OrganicPosting</link>
-            <guid>https://www.lambdatest.com/blog/vertical-alignment-with-css-subgrid/?utm_source=Reddit&amp;utm_medium=blog&amp;utm_campaign=PM-260221-1&amp;utm_term=OrganicPosting</guid>
-            <pubDate>Fri, 26 Feb 2021 09:08:22 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[How to prevent  with colored background from wrapping and cutting off?]]></title>
             <link>https://www.mezzoguild.com/how-are-you-in-spanish/</link>
             <guid>https://www.mezzoguild.com/how-are-you-in-spanish/</guid>
             <pubDate>Fri, 26 Feb 2021 07:06:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Need help making Modal Cover entire viewport from a specific place in document.....]]></title>
-            <link>https://site.id</link>
-            <guid>https://site.id</guid>
-            <pubDate>Thu, 25 Feb 2021 22:59:08 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Feature Detection in CSS!]]></title>
             <link>https://www.youtube.com/watch?v=bqr9SA6NwhA</link>
             <guid>https://www.youtube.com/watch?v=bqr9SA6NwhA</guid>
             <pubDate>Thu, 25 Feb 2021 18:15:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Need help making Modal Cover entire viewport from a specific place in document.....]]></title>
+            <link>https://site.id</link>
+            <guid>https://site.id</guid>
+            <pubDate>Thu, 25 Feb 2021 22:59:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Faking container queries with CSS Grid]]></title>
@@ -109,12 +127,6 @@
             <link>https://codepen.io/YusukeNakaya/pen/WNopRwX</link>
             <guid>https://codepen.io/YusukeNakaya/pen/WNopRwX</guid>
             <pubDate>Wed, 24 Feb 2021 13:54:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Newbie need some help with Transform:scale()]]></title>
-            <link>https://reddit.com/link/lr94x5/video/nra72xf7eej61/player</link>
-            <guid>https://reddit.com/link/lr94x5/video/nra72xf7eej61/player</guid>
-            <pubDate>Wed, 24 Feb 2021 09:59:34 GMT</pubDate>
         </item>
     </channel>
 </rss>

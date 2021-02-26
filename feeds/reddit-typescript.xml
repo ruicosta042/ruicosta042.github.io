@@ -4,7 +4,7 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Fri, 26 Feb 2021 13:01:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2021 19:46:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,16 +15,22 @@
             <pubDate>Fri, 26 Feb 2021 08:57:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A command-line utility for deploying serverless applications to AWS. Complete with custom domains, deploy previews, TypeScript support, and more.]]></title>
-            <link>https://github.com/JakePartusch/serverlessui</link>
-            <guid>https://github.com/JakePartusch/serverlessui</guid>
-            <pubDate>Thu, 25 Feb 2021 16:20:15 GMT</pubDate>
+            <title><![CDATA[How can I generate types using AST?]]></title>
+            <link>https://github.com/microsoft/TypeScript/wiki/Using-the-Compiler-API#creating-and-printing-a-typescript-ast</link>
+            <guid>https://github.com/microsoft/TypeScript/wiki/Using-the-Compiler-API#creating-and-printing-a-typescript-ast</guid>
+            <pubDate>Fri, 26 Feb 2021 17:15:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UML Diagram for GoF Design Pattern Examples written in TypeScript]]></title>
             <link>https://github.com/takaakit/uml-diagram-for-typescript-design-pattern-examples</link>
             <guid>https://github.com/takaakit/uml-diagram-for-typescript-design-pattern-examples</guid>
             <pubDate>Fri, 26 Feb 2021 10:21:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A command-line utility for deploying serverless applications to AWS. Complete with custom domains, deploy previews, TypeScript support, and more.]]></title>
+            <link>https://github.com/JakePartusch/serverlessui</link>
+            <guid>https://github.com/JakePartusch/serverlessui</guid>
+            <pubDate>Thu, 25 Feb 2021 16:20:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[how to generate a d.ts file??]]></title>
@@ -61,12 +67,6 @@
             <link>https://docs.nestjs.com/controllers</link>
             <guid>https://docs.nestjs.com/controllers</guid>
             <pubDate>Mon, 22 Feb 2021 19:40:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Javascript Discord Community]]></title>
-            <link>https://discord.gg/5Dp8vZBX</link>
-            <guid>https://discord.gg/5Dp8vZBX</guid>
-            <pubDate>Sun, 21 Feb 2021 14:23:59 GMT</pubDate>
         </item>
     </channel>
 </rss>

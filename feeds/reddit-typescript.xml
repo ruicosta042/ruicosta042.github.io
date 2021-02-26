@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>TypeScript</title>
+        <link>https://www.reddit.com/r/typescript</link>
+        <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
+        <lastBuildDate>Fri, 26 Feb 2021 00:11:04 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/ruicosta042/rssconv-action</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[A command-line utility for deploying serverless applications to AWS. Complete with custom domains, deploy previews, TypeScript support, and more.]]></title>
+            <link>https://github.com/JakePartusch/serverlessui</link>
+            <guid>https://github.com/JakePartusch/serverlessui</guid>
+            <pubDate>Thu, 25 Feb 2021 16:20:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Integrate Excel into Your React Application with Microsoft Graph]]></title>
+            <link>https://wim-jongeneel.medium.com/integrate-excel-into-your-react-application-with-microsoft-graph-94e02f71d847?source=friends_link&amp;sk=9fee21e7f5c893286e61e38719701332</link>
+            <guid>https://wim-jongeneel.medium.com/integrate-excel-into-your-react-application-with-microsoft-graph-94e02f71d847?source=friends_link&amp;sk=9fee21e7f5c893286e61e38719701332</guid>
+            <pubDate>Thu, 25 Feb 2021 13:54:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to migrate React components that call other React components?]]></title>
+            <link>https://www.sitepoint.com/how-to-migrate-a-react-app-to-typescript/</link>
+            <guid>https://www.sitepoint.com/how-to-migrate-a-react-app-to-typescript/</guid>
+            <pubDate>Thu, 25 Feb 2021 08:24:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Work with Date in Plain Javascript — No Libraries Needed]]></title>
+            <link>https://beforesemicolon.medium.com/how-to-work-with-date-in-plain-javascript-no-libraries-needed-d48c2d31a733</link>
+            <guid>https://beforesemicolon.medium.com/how-to-work-with-date-in-plain-javascript-no-libraries-needed-d48c2d31a733</guid>
+            <pubDate>Thu, 25 Feb 2021 01:27:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The idea of type polyfill]]></title>
+            <link>https://github.com/mistlog/typetype-examples/blob/main/examples/url-parser-2/url-parser-2.type</link>
+            <guid>https://github.com/mistlog/typetype-examples/blob/main/examples/url-parser-2/url-parser-2.type</guid>
+            <pubDate>Wed, 24 Feb 2021 15:15:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Announcing TypeScript 4.2]]></title>
+            <link>https://devblogs.microsoft.com/typescript/announcing-typescript-4-2/</link>
+            <guid>https://devblogs.microsoft.com/typescript/announcing-typescript-4-2/</guid>
+            <pubDate>Tue, 23 Feb 2021 21:57:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can classes essentially mimick interfaces?]]></title>
+            <link>https://docs.nestjs.com/controllers</link>
+            <guid>https://docs.nestjs.com/controllers</guid>
+            <pubDate>Mon, 22 Feb 2021 19:40:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Javascript Discord Community]]></title>
+            <link>https://discord.gg/5Dp8vZBX</link>
+            <guid>https://discord.gg/5Dp8vZBX</guid>
+            <pubDate>Sun, 21 Feb 2021 14:23:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

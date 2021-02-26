@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>node.js</title>
+        <link>https://www.reddit.com/r/node</link>
+        <description>null</description>
+        <lastBuildDate>Fri, 26 Feb 2021 00:11:04 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/ruicosta042/rssconv-action</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Control Google Sheets with Node.js!]]></title>
+            <link>https://youtu.be/PFJNJQCU_lo</link>
+            <guid>https://youtu.be/PFJNJQCU_lo</guid>
+            <pubDate>Thu, 25 Feb 2021 10:13:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pattern for classes that use eachother?]]></title>
+            <link>https://gist.github.com/acomito/8c372ae52363c1c7beeb746d6e26cc1d</link>
+            <guid>https://gist.github.com/acomito/8c372ae52363c1c7beeb746d6e26cc1d</guid>
+            <pubDate>Thu, 25 Feb 2021 15:58:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to extract pdf data with PDF.js]]></title>
+            <link>https://writingjavascript.com/how-to-extract-pdf-data-with-pdfjs</link>
+            <guid>https://writingjavascript.com/how-to-extract-pdf-data-with-pdfjs</guid>
+            <pubDate>Wed, 24 Feb 2021 19:51:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Javascript News 4th Week(Feb) – NodeJS security releases, 1KB CSS-in-JS solution, Guide to React Testing, Storybook for Vue 3 - The ArrowFn]]></title>
+            <link>https://thearrowfn.com/javascript-news-4th-weekfeb-nodejs-security-releases-1kb-css-in-js/</link>
+            <guid>https://thearrowfn.com/javascript-news-4th-weekfeb-nodejs-security-releases-1kb-css-in-js/</guid>
+            <pubDate>Thu, 25 Feb 2021 18:33:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dependency Confusion: When Are Your npm Packages Vulnerable? (How to spot and fix this vuln)]]></title>
+            <link>https://twitter.com/IncludeSecurity/status/1362457810450214913</link>
+            <guid>https://twitter.com/IncludeSecurity/status/1362457810450214913</guid>
+            <pubDate>Thu, 25 Feb 2021 05:04:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Foal framework - Version 2.2 is here]]></title>
+            <link>https://foalts.org/docs/</link>
+            <guid>https://foalts.org/docs/</guid>
+            <pubDate>Thu, 25 Feb 2021 14:48:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Most Popular Backend Frameworks - 2012/2020]]></title>
+            <link>https://statisticsanddata.org/most-popular-backend-frameworks/</link>
+            <guid>https://statisticsanddata.org/most-popular-backend-frameworks/</guid>
+            <pubDate>Thu, 25 Feb 2021 17:44:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Node-efficientnet – image recognition model written in Node.js and TypeScript]]></title>
+            <link>https://fullstackfeed.com/node-efficientnet-image-recognition-model-written-in-node-js-and-typescript/</link>
+            <guid>https://fullstackfeed.com/node-efficientnet-image-recognition-model-written-in-node-js-and-typescript/</guid>
+            <pubDate>Wed, 24 Feb 2021 17:52:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[Portfolio] First MERN Stack Application]]></title>
+            <link>mailto:myprs.test@gmail.com</link>
+            <guid>mailto:myprs.test@gmail.com</guid>
+            <pubDate>Wed, 24 Feb 2021 13:19:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Write this query in Sequlize]]></title>
+            <link>https://A.id</link>
+            <guid>https://A.id</guid>
+            <pubDate>Wed, 24 Feb 2021 22:07:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Just created a new series, let me know what you think!]]></title>
+            <link>https://www.youtube.com/watch?v=oOrURPu5oWw</link>
+            <guid>https://www.youtube.com/watch?v=oOrURPu5oWw</guid>
+            <pubDate>Thu, 25 Feb 2021 02:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[zero dependencies package to use your Supabase client using a React hook]]></title>
+            <link>https://www.npmjs.com/package/use-supabase</link>
+            <guid>https://www.npmjs.com/package/use-supabase</guid>
+            <pubDate>Thu, 25 Feb 2021 01:29:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Work with Date in Plain Javascript — No Libraries Needed]]></title>
+            <link>https://beforesemicolon.medium.com/how-to-work-with-date-in-plain-javascript-no-libraries-needed-d48c2d31a733</link>
+            <guid>https://beforesemicolon.medium.com/how-to-work-with-date-in-plain-javascript-no-libraries-needed-d48c2d31a733</guid>
+            <pubDate>Thu, 25 Feb 2021 01:26:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

@@ -1,6 +1,8 @@
 name: Publish feeds
 
-on: [push, delete]
+on:
+  schedule:
+    - cron: "42 7,12,19 * * *"
 
 jobs:
   publish_feeds:

@@ -4,15 +4,39 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Sat, 27 Feb 2021 13:00:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2021 19:46:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[10 Things Every Nest.js Developer Should Know]]></title>
+            <link>https://javascript.plainenglish.io/10-things-every-nest-js-developer-should-know-911dec32f66a</link>
+            <guid>https://javascript.plainenglish.io/10-things-every-nest-js-developer-should-know-911dec32f66a</guid>
+            <pubDate>Sat, 27 Feb 2021 13:30:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Anyone know why node-cron went from tens of thousands to over a million downloads per day at the start of 2021?]]></title>
             <link>https://www.npmjs.com/package/node-cron</link>
             <guid>https://www.npmjs.com/package/node-cron</guid>
             <pubDate>Sat, 27 Feb 2021 02:58:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[xpost from r/learnjavascript] Nodejs TypeError when writing array to jsonfile]]></title>
+            <link>/r/learnjavascript/comments/ltqvuy/nodejs_typeerror_when_writing_array_to_jsonfile/</link>
+            <guid>/r/learnjavascript/comments/ltqvuy/nodejs_typeerror_when_writing_array_to_jsonfile/</guid>
+            <pubDate>Sat, 27 Feb 2021 16:51:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Problem linking Postman POST request with req.body.q]]></title>
+            <link>https://preview.redd.it/dhqiw0ozr1k61.png?width=708&amp;format=png&amp;auto=webp&amp;s=84175c501e1d44354dd863aab6173e1b8df10a95</link>
+            <guid>https://preview.redd.it/dhqiw0ozr1k61.png?width=708&amp;format=png&amp;auto=webp&amp;s=84175c501e1d44354dd863aab6173e1b8df10a95</guid>
+            <pubDate>Sat, 27 Feb 2021 16:34:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Save Gigabytes Of Space With NPM and NPKill]]></title>
+            <link>https://www.youtube.com/watch?v=8xCeLJ-vaoU&amp;list=PL4tJdkBbj_XXJgwJsoF9lIsbsZzP_qI9T&amp;index=27</link>
+            <guid>https://www.youtube.com/watch?v=8xCeLJ-vaoU&amp;list=PL4tJdkBbj_XXJgwJsoF9lIsbsZzP_qI9T&amp;index=27</guid>
+            <pubDate>Sat, 27 Feb 2021 16:14:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scope vs Closure vs Hoisting - Difference between let, const and var - Javascript]]></title>
@@ -33,34 +57,10 @@
             <pubDate>Sat, 27 Feb 2021 08:08:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why Is Ruby Still A Good Choice in 2021? An Introduction To Ruby 3.0]]></title>
-            <link>http://isrubystill.space/</link>
-            <guid>http://isrubystill.space/</guid>
-            <pubDate>Sat, 27 Feb 2021 10:38:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Securing Node services with Client Authenticated TLS using CATKeys]]></title>
             <link>https://tommytucker1979.medium.com/securing-node-services-using-client-authenticated-tls-with-catkeys-938709726fbc</link>
             <guid>https://tommytucker1979.medium.com/securing-node-services-using-client-authenticated-tls-with-catkeys-938709726fbc</guid>
             <pubDate>Fri, 26 Feb 2021 10:19:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to build dashboards without coding any communication layers. Just write Node.js module then call it as an API with a simple JS call. Check out full code here 👇]]></title>
-            <link>https://playground.scaledynamics.com/?snippet=849ff01d-82e6-42e2-96e0-f305b6eb990b</link>
-            <guid>https://playground.scaledynamics.com/?snippet=849ff01d-82e6-42e2-96e0-f305b6eb990b</guid>
-            <pubDate>Fri, 26 Feb 2021 15:50:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How do I get around the delay for JWT authentication and State?]]></title>
-            <link>/r/reactjs/comments/ltd9jf/how_do_i_get_around_the_delay_for_jwt/</link>
-            <guid>/r/reactjs/comments/ltd9jf/how_do_i_get_around_the_delay_for_jwt/</guid>
-            <pubDate>Sat, 27 Feb 2021 01:43:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Firebase vs. Supabase: Which is better? - LogRocket Blog]]></title>
-            <link>https://blog.logrocket.com/firebase-vs-supabase-which-is-better/</link>
-            <guid>https://blog.logrocket.com/firebase-vs-supabase-which-is-better/</guid>
-            <pubDate>Fri, 26 Feb 2021 02:58:08 GMT</pubDate>
         </item>
     </channel>
 </rss>

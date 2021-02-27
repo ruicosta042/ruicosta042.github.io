@@ -4,10 +4,28 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Sat, 27 Feb 2021 13:00:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2021 19:46:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Skeleton Loading using HTML and CSS]]></title>
+            <link>https://youtu.be/kMHMAHzjXG8</link>
+            <guid>https://youtu.be/kMHMAHzjXG8</guid>
+            <pubDate>Sat, 27 Feb 2021 15:50:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to add a 100vh header image on a page with a height of 100Vh?]]></title>
+            <link>https://codesandbox.io/s/happy-wright-c85gi?file=/src/App.js:24-287</link>
+            <guid>https://codesandbox.io/s/happy-wright-c85gi?file=/src/App.js:24-287</guid>
+            <pubDate>Sat, 27 Feb 2021 17:44:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Progressive Aspect Ratio]]></title>
+            <link>https://codepen.io/codyhouse/pen/BaQjxRZ</link>
+            <guid>https://codepen.io/codyhouse/pen/BaQjxRZ</guid>
+            <pubDate>Sat, 27 Feb 2021 14:22:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is it possible to do this?]]></title>
             <link>https://preview.redd.it/of4plkimnvj61.png?width=348&amp;format=png&amp;auto=webp&amp;s=f18a9f208dc0485682f570b39ade2c214f69aee8</link>
@@ -115,36 +133,6 @@
             <link>https://www.youtube.com/watch?v=aQNypoBaUNk</link>
             <guid>https://www.youtube.com/watch?v=aQNypoBaUNk</guid>
             <pubDate>Thu, 25 Feb 2021 15:21:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Complete CSS Flex Box Tutorial]]></title>
-            <link>https://jstutorial.medium.com/the-complete-css-flex-box-tutorial-d17971950bdc</link>
-            <guid>https://jstutorial.medium.com/the-complete-css-flex-box-tutorial-d17971950bdc</guid>
-            <pubDate>Thu, 25 Feb 2021 15:13:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Type Scale Clamp Generator]]></title>
-            <link>https://maximeroudier.com/typeScaleClampGenerator/</link>
-            <guid>https://maximeroudier.com/typeScaleClampGenerator/</guid>
-            <pubDate>Thu, 25 Feb 2021 13:23:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trying to create a glow effect]]></title>
-            <link>https://codepen.io/kylekam/pen/VwmybqP</link>
-            <guid>https://codepen.io/kylekam/pen/VwmybqP</guid>
-            <pubDate>Wed, 24 Feb 2021 22:41:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hiding Content Responsibly]]></title>
-            <link>https://hugogiraudel.com/2021/02/17/hiding-content-responsibly/</link>
-            <guid>https://hugogiraudel.com/2021/02/17/hiding-content-responsibly/</guid>
-            <pubDate>Wed, 24 Feb 2021 13:56:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SVG Element disappears when other Nav Items Are Hovered]]></title>
-            <link>https://codepen.io/DougGoofus/full/QWGOYeo</link>
-            <guid>https://codepen.io/DougGoofus/full/QWGOYeo</guid>
-            <pubDate>Wed, 24 Feb 2021 23:15:06 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sat, 27 Feb 2021 13:00:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2021 19:46:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,6 +21,12 @@
             <pubDate>Sat, 27 Feb 2021 06:37:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Create videos in React that viewers can interact with]]></title>
+            <link>https://ractive-player.org</link>
+            <guid>https://ractive-player.org</guid>
+            <pubDate>Sat, 27 Feb 2021 13:24:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Built an app to solve the media bias in our country towards politicians. you can view every side of the story just by sliding a toggle!]]></title>
             <link>https://v.redd.it/6pyv8aexusj61</link>
             <guid>https://v.redd.it/6pyv8aexusj61</guid>
@@ -33,16 +39,22 @@
             <pubDate>Sat, 27 Feb 2021 10:55:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Snippy - Snippet manager extension made in React by me!]]></title>
+            <link>https://chrome.google.com/webstore/detail/snippy/hloafekbnjflohjbafgbhejbhdloaibb</link>
+            <guid>https://chrome.google.com/webstore/detail/snippy/hloafekbnjflohjbafgbhejbhdloaibb</guid>
+            <pubDate>Sat, 27 Feb 2021 17:34:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I built a simple resource for copying useful symbols]]></title>
             <link>https://symbols.dev/</link>
             <guid>https://symbols.dev/</guid>
             <pubDate>Sat, 27 Feb 2021 03:57:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Guys need help asap]]></title>
-            <link>https://stackoverflow.com/questions/66398798/need-help-for-react-code-fetch-request-delete-operation</link>
-            <guid>https://stackoverflow.com/questions/66398798/need-help-for-react-code-fetch-request-delete-operation</guid>
-            <pubDate>Sat, 27 Feb 2021 12:28:04 GMT</pubDate>
+            <title><![CDATA[Good Example/Reference of Add Note/View Notes UI?]]></title>
+            <link>/r/web_design/comments/lttbwa/good_examplereference_of_add_noteview_notes_ui/</link>
+            <guid>/r/web_design/comments/lttbwa/good_examplereference_of_add_noteview_notes_ui/</guid>
+            <pubDate>Sat, 27 Feb 2021 17:49:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I've made a Twitter content generator, if you're curios it's made like this]]></title>
@@ -51,46 +63,16 @@
             <pubDate>Sat, 27 Feb 2021 11:42:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scope vs Closure vs Hoisting - Difference between let, const and var - Javascript]]></title>
-            <link>https://youtu.be/sDmn6p4lRHk</link>
-            <guid>https://youtu.be/sDmn6p4lRHk</guid>
-            <pubDate>Sat, 27 Feb 2021 11:25:47 GMT</pubDate>
+            <title><![CDATA[How to create velocity based animations in React]]></title>
+            <link>http://eytanmanor.medium.com/how-to-create-velocity-based-animations-in-react-8468d09e63f5</link>
+            <guid>http://eytanmanor.medium.com/how-to-create-velocity-based-animations-in-react-8468d09e63f5</guid>
+            <pubDate>Sat, 27 Feb 2021 15:01:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Create top-down slide animation using `Transition` from `@headlessui/react` using Tailwind CSS]]></title>
-            <link>/r/tailwindcss/comments/ltioea/create_topdown_slide_animation_using_transition/</link>
-            <guid>/r/tailwindcss/comments/ltioea/create_topdown_slide_animation_using_transition/</guid>
-            <pubDate>Sat, 27 Feb 2021 07:10:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Is Ruby Still A Good Choice in 2021? An Introduction To Ruby 3.0]]></title>
-            <link>http://isrubystill.space/</link>
-            <guid>http://isrubystill.space/</guid>
-            <pubDate>Sat, 27 Feb 2021 10:39:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Recreating Among Us - Admin Swipe Card in React Native ⚛️]]></title>
-            <link>https://www.youtube.com/watch?v=jp5BHQz2CP8</link>
-            <guid>https://www.youtube.com/watch?v=jp5BHQz2CP8</guid>
-            <pubDate>Sat, 27 Feb 2021 00:44:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I am creating the "Learn" section of ReactBricks.com website: what do you think about it?]]></title>
-            <link>https://reactbricks.com/learn/welcome</link>
-            <guid>https://reactbricks.com/learn/welcome</guid>
-            <pubDate>Fri, 26 Feb 2021 21:51:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An example of how to build a complete React app (with a demo API)]]></title>
-            <link>https://youtu.be/QdOmZ5kr4ys</link>
-            <guid>https://youtu.be/QdOmZ5kr4ys</guid>
-            <pubDate>Fri, 26 Feb 2021 19:49:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A resume builder which helps you to effortlessly make a job-worthy resume. Easy to use and done within minutes. Built with React & Tailwind CSS.]]></title>
-            <link>https://v.redd.it/4ocawxlwsmj61</link>
-            <guid>https://v.redd.it/4ocawxlwsmj61</guid>
-            <pubDate>Thu, 25 Feb 2021 14:11:06 GMT</pubDate>
+            <title><![CDATA[We Made Painless Forms for React and graphQL]]></title>
+            <link>https://periqles.herokuapp.com/</link>
+            <guid>https://periqles.herokuapp.com/</guid>
+            <pubDate>Sat, 27 Feb 2021 14:29:03 GMT</pubDate>
         </item>
     </channel>
 </rss>

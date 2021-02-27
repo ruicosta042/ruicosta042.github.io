@@ -4,10 +4,16 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Sat, 27 Feb 2021 13:00:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2021 19:46:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Just found out that you can't trust the TS transpiler with union types. A more complicated version of this made it to production and robbed me of my sanity...]]></title>
+            <link>https://www.typescriptlang.org/play?#code/GYVwdgxgLglg9mABAWwKYGd0FUAOAVAC1QEEAnUgQwE8AKC8gLkTMqoB50pSYwBzRAD6IwIZACNUpAHwBKJgDc4MACaIA3gFgAUIl2J6pAHQ4Q6AjQDMMgNzaAvtu0QEnRJ2590TFtQ5cevFKIALyIANoA5MBwcBEANIgRYvQRALq2WmiYuIQk5NQ07gHoNo5azmCuXm7+fCE1HrzoYQBM6U4ucAA2qIZdcLyFhlBwADJwAO6SAMIU6Kg0MjLaQA</link>
+            <guid>https://www.typescriptlang.org/play?#code/GYVwdgxgLglg9mABAWwKYGd0FUAOAVAC1QEEAnUgQwE8AKC8gLkTMqoB50pSYwBzRAD6IwIZACNUpAHwBKJgDc4MACaIA3gFgAUIl2J6pAHQ4Q6AjQDMMgNzaAvtu0QEnRJ2590TFtQ5cevFKIALyIANoA5MBwcBEANIgRYvQRALq2WmiYuIQk5NQ07gHoNo5azmCuXm7+fCE1HrzoYQBM6U4ucAA2qIZdcLyFhlBwADJwAO6SAMIU6Kg0MjLaQA</guid>
+            <pubDate>Sat, 27 Feb 2021 15:30:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Easy guide to TypeScript unions]]></title>
             <link>https://sospedra.me/papers/typescript-unions</link>

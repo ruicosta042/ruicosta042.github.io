@@ -4,15 +4,45 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Fri, 26 Feb 2021 19:46:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2021 07:47:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Is it possible to do this?]]></title>
+            <link>https://preview.redd.it/of4plkimnvj61.png?width=348&amp;format=png&amp;auto=webp&amp;s=f18a9f208dc0485682f570b39ade2c214f69aee8</link>
+            <guid>https://preview.redd.it/of4plkimnvj61.png?width=348&amp;format=png&amp;auto=webp&amp;s=f18a9f208dc0485682f570b39ade2c214f69aee8</guid>
+            <pubDate>Fri, 26 Feb 2021 19:57:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Drawing a lines between two div elements]]></title>
+            <link>https://jsfiddle.net/Apfelirne/s5ewmr6u/14/</link>
+            <guid>https://jsfiddle.net/Apfelirne/s5ewmr6u/14/</guid>
+            <pubDate>Sat, 27 Feb 2021 00:29:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Improve the readability of the content on your website]]></title>
             <link>https://piccalil.li/tutorial/improve-the-readability-of-the-content-on-your-website</link>
             <guid>https://piccalil.li/tutorial/improve-the-readability-of-the-content-on-your-website</guid>
             <pubDate>Fri, 26 Feb 2021 13:48:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Border-color can be given via font color if not stated in "border" property]]></title>
+            <link>https://jsfiddle.net/mujx81L2</link>
+            <guid>https://jsfiddle.net/mujx81L2</guid>
+            <pubDate>Sat, 27 Feb 2021 02:06:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Never seen this before. The whole page stretches when you hover over one of these plus signs to the left and right of the screen (desktop version). Does anyone know how it's done? (it works fine in Firefox or SRWare Iron, but not so much in Chrome, you don't see the transition)]]></title>
+            <link>https://www.gatinel.com/en/chirurgie-de-la-cataracte/implants-cristalliniens/implants-multifocaux/</link>
+            <guid>https://www.gatinel.com/en/chirurgie-de-la-cataracte/implants-cristalliniens/implants-multifocaux/</guid>
+            <pubDate>Fri, 26 Feb 2021 20:07:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can Anyone Help Me Change My Website's Navigation Menu to Images?]]></title>
+            <link>https://wpg4abm9iw60w54e-53754724549.shopifypreview.com</link>
+            <guid>https://wpg4abm9iw60w54e-53754724549.shopifypreview.com</guid>
+            <pubDate>Fri, 26 Feb 2021 20:03:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Quickly add color & size options to any React component - full app #15]]></title>
@@ -75,6 +105,12 @@
             <pubDate>Thu, 25 Feb 2021 13:19:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Beauty Of Tiny Enhancements In CSS]]></title>
+            <link>https://ishadeed.com/article/tiny-enhancements-in-css/</link>
+            <guid>https://ishadeed.com/article/tiny-enhancements-in-css/</guid>
+            <pubDate>Thu, 25 Feb 2021 13:21:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How to Create Twitter Homepage Using HTML and CSS]]></title>
             <link>https://www.youtube.com/watch?v=aQNypoBaUNk</link>
             <guid>https://www.youtube.com/watch?v=aQNypoBaUNk</guid>
@@ -93,12 +129,6 @@
             <pubDate>Thu, 25 Feb 2021 13:23:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Beauty Of Tiny Enhancements In CSS]]></title>
-            <link>https://ishadeed.com/article/tiny-enhancements-in-css/</link>
-            <guid>https://ishadeed.com/article/tiny-enhancements-in-css/</guid>
-            <pubDate>Thu, 25 Feb 2021 13:21:42 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Trying to create a glow effect]]></title>
             <link>https://codepen.io/kylekam/pen/VwmybqP</link>
             <guid>https://codepen.io/kylekam/pen/VwmybqP</guid>
@@ -115,18 +145,6 @@
             <link>https://codepen.io/DougGoofus/full/QWGOYeo</link>
             <guid>https://codepen.io/DougGoofus/full/QWGOYeo</guid>
             <pubDate>Wed, 24 Feb 2021 23:15:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What the heck, z-index??]]></title>
-            <link>https://www.joshwcomeau.com/css/stacking-contexts/</link>
-            <guid>https://www.joshwcomeau.com/css/stacking-contexts/</guid>
-            <pubDate>Wed, 24 Feb 2021 13:58:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Only CSS: Polygon Fish]]></title>
-            <link>https://codepen.io/YusukeNakaya/pen/WNopRwX</link>
-            <guid>https://codepen.io/YusukeNakaya/pen/WNopRwX</guid>
-            <pubDate>Wed, 24 Feb 2021 13:54:53 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,21 +4,27 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Fri, 26 Feb 2021 19:46:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2021 07:47:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Just another COVID19 Statistics Website for my school project and for my first try with Next.js and Material UI.]]></title>
+            <link>https://c19statistics.vercel.app/</link>
+            <guid>https://c19statistics.vercel.app/</guid>
+            <pubDate>Sat, 27 Feb 2021 03:56:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Amazing Mechanical Plumbus (React, Howler.js)]]></title>
+            <link>https://mechanicalplumbus.com</link>
+            <guid>https://mechanicalplumbus.com</guid>
+            <pubDate>Fri, 26 Feb 2021 23:05:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I created STARTD. It is a free open source landing page template. Built with Next.js, TypeScript and Twind.]]></title>
             <link>https://github.com/jkytoela/next-startd</link>
             <guid>https://github.com/jkytoela/next-startd</guid>
             <pubDate>Fri, 26 Feb 2021 13:09:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I built an open source Next.js app to visualize/auto generate GraphQL schemas]]></title>
-            <link>https://github.com/oslabs-beta/giraffeQL</link>
-            <guid>https://github.com/oslabs-beta/giraffeQL</guid>
-            <pubDate>Fri, 26 Feb 2021 14:21:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[CSS-in-JS support in DevTools | Web | Google Developers]]></title>
@@ -27,22 +33,34 @@
             <pubDate>Fri, 26 Feb 2021 14:38:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[I built an open source Next.js app to visualize/auto generate GraphQL schemas]]></title>
+            <link>https://github.com/oslabs-beta/giraffeQL</link>
+            <guid>https://github.com/oslabs-beta/giraffeQL</guid>
+            <pubDate>Fri, 26 Feb 2021 14:21:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Create videos in React that viewers can interact with]]></title>
             <link>https://ractive-player.org/</link>
             <guid>https://ractive-player.org/</guid>
             <pubDate>Thu, 25 Feb 2021 15:09:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Page builder with Netlify CMS and Next.js]]></title>
-            <link>https://www.luckymedia.dev/blog/page-builder-with-netlify-cms-and-next-js</link>
-            <guid>https://www.luckymedia.dev/blog/page-builder-with-netlify-cms-and-next-js</guid>
-            <pubDate>Fri, 26 Feb 2021 15:19:12 GMT</pubDate>
+            <title><![CDATA[Keep Calm: The fox is here to stay]]></title>
+            <link>https://hacks.mozilla.org/2021/02/keep-calm-the-fox-is-here-to-stay/</link>
+            <guid>https://hacks.mozilla.org/2021/02/keep-calm-the-fox-is-here-to-stay/</guid>
+            <pubDate>Fri, 26 Feb 2021 19:47:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Find 850+ remote job openings hand-picked from Hacker News who is hiring - February]]></title>
             <link>https://remoteleaf.com/whoishiring</link>
             <guid>https://remoteleaf.com/whoishiring</guid>
             <pubDate>Fri, 26 Feb 2021 15:03:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Page builder with Netlify CMS and Next.js]]></title>
+            <link>https://www.luckymedia.dev/blog/page-builder-with-netlify-cms-and-next-js</link>
+            <guid>https://www.luckymedia.dev/blog/page-builder-with-netlify-cms-and-next-js</guid>
+            <pubDate>Fri, 26 Feb 2021 15:19:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[romanice - Convert to/from Roman numerals]]></title>
@@ -133,18 +151,6 @@
             <link>https://fullstackfeed.com/node-efficientnet-image-recognition-model-written-in-node-js-and-typescript/</link>
             <guid>https://fullstackfeed.com/node-efficientnet-image-recognition-model-written-in-node-js-and-typescript/</guid>
             <pubDate>Wed, 24 Feb 2021 17:51:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Node.js v15.10.0 released]]></title>
-            <link>https://nodejs.org/en/blog/release/v15.10.0?a</link>
-            <guid>https://nodejs.org/en/blog/release/v15.10.0?a</guid>
-            <pubDate>Tue, 23 Feb 2021 15:04:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AskJS] What is the role of ISO in the ECMAScript standardization process?]]></title>
-            <link>https://www.iso.org/standard/73002.html</link>
-            <guid>https://www.iso.org/standard/73002.html</guid>
-            <pubDate>Wed, 24 Feb 2021 11:01:37 GMT</pubDate>
         </item>
     </channel>
 </rss>

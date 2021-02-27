@@ -4,7 +4,7 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Sat, 27 Feb 2021 07:47:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2021 13:00:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,16 +15,34 @@
             <pubDate>Sat, 27 Feb 2021 02:58:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Securing Node services with Client Authenticated TLS using CATKeys]]></title>
-            <link>https://tommytucker1979.medium.com/securing-node-services-using-client-authenticated-tls-with-catkeys-938709726fbc</link>
-            <guid>https://tommytucker1979.medium.com/securing-node-services-using-client-authenticated-tls-with-catkeys-938709726fbc</guid>
-            <pubDate>Fri, 26 Feb 2021 10:19:41 GMT</pubDate>
+            <title><![CDATA[Scope vs Closure vs Hoisting - Difference between let, const and var - Javascript]]></title>
+            <link>https://youtu.be/sDmn6p4lRHk</link>
+            <guid>https://youtu.be/sDmn6p4lRHk</guid>
+            <pubDate>Sat, 27 Feb 2021 11:25:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[nodemon stuck at clean exit]]></title>
             <link>https://preview.redd.it/pmnzf6qxcyj61.png?width=1920&amp;format=png&amp;auto=webp&amp;s=1245d8ea0fe7d2fffd42e4d146d0f902212c9b42</link>
             <guid>https://preview.redd.it/pmnzf6qxcyj61.png?width=1920&amp;format=png&amp;auto=webp&amp;s=1245d8ea0fe7d2fffd42e4d146d0f902212c9b42</guid>
             <pubDate>Sat, 27 Feb 2021 05:02:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Do anyone have experience saving keys in redis cloud?]]></title>
+            <link>https://pastebin.com/b2e2ybT4</link>
+            <guid>https://pastebin.com/b2e2ybT4</guid>
+            <pubDate>Sat, 27 Feb 2021 08:08:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Is Ruby Still A Good Choice in 2021? An Introduction To Ruby 3.0]]></title>
+            <link>http://isrubystill.space/</link>
+            <guid>http://isrubystill.space/</guid>
+            <pubDate>Sat, 27 Feb 2021 10:38:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Securing Node services with Client Authenticated TLS using CATKeys]]></title>
+            <link>https://tommytucker1979.medium.com/securing-node-services-using-client-authenticated-tls-with-catkeys-938709726fbc</link>
+            <guid>https://tommytucker1979.medium.com/securing-node-services-using-client-authenticated-tls-with-catkeys-938709726fbc</guid>
+            <pubDate>Fri, 26 Feb 2021 10:19:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to build dashboards without coding any communication layers. Just write Node.js module then call it as an API with a simple JS call. Check out full code here 👇]]></title>
@@ -43,18 +61,6 @@
             <link>https://blog.logrocket.com/firebase-vs-supabase-which-is-better/</link>
             <guid>https://blog.logrocket.com/firebase-vs-supabase-which-is-better/</guid>
             <pubDate>Fri, 26 Feb 2021 02:58:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ubuntu and linux connoiseurs, and crontab experts-- issues trying to execute nodejs scraping functions on an AWS ec2 Ubuntu instance.]]></title>
-            <link>https://github.com/TonyTony999/scraping_3</link>
-            <guid>https://github.com/TonyTony999/scraping_3</guid>
-            <pubDate>Fri, 26 Feb 2021 19:26:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Good news for Node...Java is losing popularity]]></title>
-            <link>https://www.stackchief.com/questions/Is%20Java%20losing%20popularity%3F</link>
-            <guid>https://www.stackchief.com/questions/Is%20Java%20losing%20popularity%3F</guid>
-            <pubDate>Sat, 27 Feb 2021 00:16:40 GMT</pubDate>
         </item>
     </channel>
 </rss>

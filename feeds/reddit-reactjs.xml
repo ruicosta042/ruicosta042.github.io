@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sat, 27 Feb 2021 07:47:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2021 13:00:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,16 +15,22 @@
             <pubDate>Mon, 01 Feb 2021 07:44:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[My version of a clock on r/oddlysatisfying I saw.]]></title>
+            <link>https://f3hjw.csb.app/</link>
+            <guid>https://f3hjw.csb.app/</guid>
+            <pubDate>Sat, 27 Feb 2021 06:37:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Built an app to solve the media bias in our country towards politicians. you can view every side of the story just by sliding a toggle!]]></title>
             <link>https://v.redd.it/6pyv8aexusj61</link>
             <guid>https://v.redd.it/6pyv8aexusj61</guid>
             <pubDate>Fri, 26 Feb 2021 10:33:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[My version of a clock on r/oddlysatisfying I saw.]]></title>
-            <link>https://f3hjw.csb.app/</link>
-            <guid>https://f3hjw.csb.app/</guid>
-            <pubDate>Sat, 27 Feb 2021 06:37:46 GMT</pubDate>
+            <title><![CDATA[Streaming development fo my portfolio site this morning!]]></title>
+            <link>https://twitch.tv/mtddan</link>
+            <guid>https://twitch.tv/mtddan</guid>
+            <pubDate>Sat, 27 Feb 2021 10:55:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I built a simple resource for copying useful symbols]]></title>
@@ -33,22 +39,46 @@
             <pubDate>Sat, 27 Feb 2021 03:57:17 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Guys need help asap]]></title>
+            <link>https://stackoverflow.com/questions/66398798/need-help-for-react-code-fetch-request-delete-operation</link>
+            <guid>https://stackoverflow.com/questions/66398798/need-help-for-react-code-fetch-request-delete-operation</guid>
+            <pubDate>Sat, 27 Feb 2021 12:28:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I've made a Twitter content generator, if you're curios it's made like this]]></title>
+            <link>https://youtu.be/rLwWcXwTgB8</link>
+            <guid>https://youtu.be/rLwWcXwTgB8</guid>
+            <pubDate>Sat, 27 Feb 2021 11:42:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scope vs Closure vs Hoisting - Difference between let, const and var - Javascript]]></title>
+            <link>https://youtu.be/sDmn6p4lRHk</link>
+            <guid>https://youtu.be/sDmn6p4lRHk</guid>
+            <pubDate>Sat, 27 Feb 2021 11:25:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Create top-down slide animation using `Transition` from `@headlessui/react` using Tailwind CSS]]></title>
             <link>/r/tailwindcss/comments/ltioea/create_topdown_slide_animation_using_transition/</link>
             <guid>/r/tailwindcss/comments/ltioea/create_topdown_slide_animation_using_transition/</guid>
             <pubDate>Sat, 27 Feb 2021 07:10:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I am creating the "Learn" section of ReactBricks.com website: what do you think about it?]]></title>
-            <link>https://reactbricks.com/learn/welcome</link>
-            <guid>https://reactbricks.com/learn/welcome</guid>
-            <pubDate>Fri, 26 Feb 2021 21:51:40 GMT</pubDate>
+            <title><![CDATA[Why Is Ruby Still A Good Choice in 2021? An Introduction To Ruby 3.0]]></title>
+            <link>http://isrubystill.space/</link>
+            <guid>http://isrubystill.space/</guid>
+            <pubDate>Sat, 27 Feb 2021 10:39:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Recreating Among Us - Admin Swipe Card in React Native ⚛️]]></title>
             <link>https://www.youtube.com/watch?v=jp5BHQz2CP8</link>
             <guid>https://www.youtube.com/watch?v=jp5BHQz2CP8</guid>
             <pubDate>Sat, 27 Feb 2021 00:44:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I am creating the "Learn" section of ReactBricks.com website: what do you think about it?]]></title>
+            <link>https://reactbricks.com/learn/welcome</link>
+            <guid>https://reactbricks.com/learn/welcome</guid>
+            <pubDate>Fri, 26 Feb 2021 21:51:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[An example of how to build a complete React app (with a demo API)]]></title>
@@ -61,36 +91,6 @@
             <link>https://v.redd.it/4ocawxlwsmj61</link>
             <guid>https://v.redd.it/4ocawxlwsmj61</guid>
             <pubDate>Thu, 25 Feb 2021 14:11:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Redux Saga Beginner Tutorial | Advanced Concepts]]></title>
-            <link>https://youtu.be/vXC9yCF7WhA</link>
-            <guid>https://youtu.be/vXC9yCF7WhA</guid>
-            <pubDate>Fri, 26 Feb 2021 18:27:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I made a developer swag store! [Built with Gatsby, Sanity, and Snipcart]]]></title>
-            <link>https://streamable.com/m5mlw4</link>
-            <guid>https://streamable.com/m5mlw4</guid>
-            <pubDate>Fri, 26 Feb 2021 21:58:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Copying Divs in React]]></title>
-            <link>https://stackoverflow.com/questions/66391723/using-useref-properly?noredirect=1#comment117373961_66391723</link>
-            <guid>https://stackoverflow.com/questions/66391723/using-useref-properly?noredirect=1#comment117373961_66391723</guid>
-            <pubDate>Fri, 26 Feb 2021 20:59:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I curated 850+ remote job openings from Hacker News who is hiring - February]]></title>
-            <link>https://remoteleaf.com/whoishiring</link>
-            <guid>https://remoteleaf.com/whoishiring</guid>
-            <pubDate>Fri, 26 Feb 2021 15:00:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My ReactApp for sound creators to share sounds with each other for free!]]></title>
-            <link>http://soundshare.cc</link>
-            <guid>http://soundshare.cc</guid>
-            <pubDate>Fri, 26 Feb 2021 19:41:25 GMT</pubDate>
         </item>
     </channel>
 </rss>

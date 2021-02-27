@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Sat, 27 Feb 2021 07:47:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2021 13:00:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,28 +15,28 @@
             <pubDate>Fri, 26 Feb 2021 19:57:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Drawing a lines between two div elements]]></title>
-            <link>https://jsfiddle.net/Apfelirne/s5ewmr6u/14/</link>
-            <guid>https://jsfiddle.net/Apfelirne/s5ewmr6u/14/</guid>
-            <pubDate>Sat, 27 Feb 2021 00:29:09 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Improve the readability of the content on your website]]></title>
             <link>https://piccalil.li/tutorial/improve-the-readability-of-the-content-on-your-website</link>
             <guid>https://piccalil.li/tutorial/improve-the-readability-of-the-content-on-your-website</guid>
             <pubDate>Fri, 26 Feb 2021 13:48:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Border-color can be given via font color if not stated in "border" property]]></title>
-            <link>https://jsfiddle.net/mujx81L2</link>
-            <guid>https://jsfiddle.net/mujx81L2</guid>
-            <pubDate>Sat, 27 Feb 2021 02:06:53 GMT</pubDate>
+            <title><![CDATA[Drawing a lines between two div elements]]></title>
+            <link>https://jsfiddle.net/Apfelirne/s5ewmr6u/14/</link>
+            <guid>https://jsfiddle.net/Apfelirne/s5ewmr6u/14/</guid>
+            <pubDate>Sat, 27 Feb 2021 00:29:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Never seen this before. The whole page stretches when you hover over one of these plus signs to the left and right of the screen (desktop version). Does anyone know how it's done? (it works fine in Firefox or SRWare Iron, but not so much in Chrome, you don't see the transition)]]></title>
             <link>https://www.gatinel.com/en/chirurgie-de-la-cataracte/implants-cristalliniens/implants-multifocaux/</link>
             <guid>https://www.gatinel.com/en/chirurgie-de-la-cataracte/implants-cristalliniens/implants-multifocaux/</guid>
             <pubDate>Fri, 26 Feb 2021 20:07:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Border-color can be given via font color if not stated in "border" property]]></title>
+            <link>https://jsfiddle.net/mujx81L2</link>
+            <guid>https://jsfiddle.net/mujx81L2</guid>
+            <pubDate>Sat, 27 Feb 2021 02:06:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Can Anyone Help Me Change My Website's Navigation Menu to Images?]]></title>

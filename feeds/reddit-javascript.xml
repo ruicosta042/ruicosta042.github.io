@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sat, 27 Feb 2021 07:47:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2021 13:00:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -25,6 +25,12 @@
             <link>https://github.com/jkytoela/next-startd</link>
             <guid>https://github.com/jkytoela/next-startd</guid>
             <pubDate>Fri, 26 Feb 2021 13:09:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["Under-the-hood of Git" - this post aims to shine a light on the mechanisms inside the "versioned file system" know as Git.]]></title>
+            <link>https://craigtaub.dev/under-the-hood-of-git</link>
+            <guid>https://craigtaub.dev/under-the-hood-of-git</guid>
+            <pubDate>Sat, 27 Feb 2021 12:39:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[CSS-in-JS support in DevTools | Web | Google Developers]]></title>
@@ -51,16 +57,16 @@
             <pubDate>Fri, 26 Feb 2021 19:47:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Find 850+ remote job openings hand-picked from Hacker News who is hiring - February]]></title>
-            <link>https://remoteleaf.com/whoishiring</link>
-            <guid>https://remoteleaf.com/whoishiring</guid>
-            <pubDate>Fri, 26 Feb 2021 15:03:43 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Page builder with Netlify CMS and Next.js]]></title>
             <link>https://www.luckymedia.dev/blog/page-builder-with-netlify-cms-and-next-js</link>
             <guid>https://www.luckymedia.dev/blog/page-builder-with-netlify-cms-and-next-js</guid>
             <pubDate>Fri, 26 Feb 2021 15:19:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Find 850+ remote job openings hand-picked from Hacker News who is hiring - February]]></title>
+            <link>https://remoteleaf.com/whoishiring</link>
+            <guid>https://remoteleaf.com/whoishiring</guid>
+            <pubDate>Fri, 26 Feb 2021 15:03:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[romanice - Convert to/from Roman numerals]]></title>
@@ -75,10 +81,10 @@
             <pubDate>Fri, 26 Feb 2021 10:16:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A command-line utility for deploying serverless applications to AWS. Complete with custom domains, deploy previews, TypeScript support, and more.]]></title>
-            <link>https://github.com/JakePartusch/serverlessui</link>
-            <guid>https://github.com/JakePartusch/serverlessui</guid>
-            <pubDate>Thu, 25 Feb 2021 16:20:03 GMT</pubDate>
+            <title><![CDATA[How to Create Native Drag and Drop Functionality in JavaScript]]></title>
+            <link>https://www.webtips.dev/how-to-create-native-drag-and-drop-functionality-in-javascript</link>
+            <guid>https://www.webtips.dev/how-to-create-native-drag-and-drop-functionality-in-javascript</guid>
+            <pubDate>Wed, 24 Feb 2021 17:42:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[meshell - dead simple shell library for Node]]></title>
@@ -87,16 +93,10 @@
             <pubDate>Thu, 25 Feb 2021 13:16:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to Create Native Drag and Drop Functionality in JavaScript]]></title>
-            <link>https://www.webtips.dev/how-to-create-native-drag-and-drop-functionality-in-javascript</link>
-            <guid>https://www.webtips.dev/how-to-create-native-drag-and-drop-functionality-in-javascript</guid>
-            <pubDate>Wed, 24 Feb 2021 17:42:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AskJS] async iterators to replace EventEmitter, EventTarget and so on]]></title>
-            <link>https://github.com/xmppjs/xmpp.js</link>
-            <guid>https://github.com/xmppjs/xmpp.js</guid>
-            <pubDate>Thu, 25 Feb 2021 16:14:15 GMT</pubDate>
+            <title><![CDATA[A command-line utility for deploying serverless applications to AWS. Complete with custom domains, deploy previews, TypeScript support, and more.]]></title>
+            <link>https://github.com/JakePartusch/serverlessui</link>
+            <guid>https://github.com/JakePartusch/serverlessui</guid>
+            <pubDate>Thu, 25 Feb 2021 16:20:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Server Rendering in JavaScript: Optimizing Performance]]></title>
@@ -105,10 +105,10 @@
             <pubDate>Thu, 25 Feb 2021 15:44:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Currying Reducers]]></title>
-            <link>https://tejasbubane.github.io/posts/2021-02-22-currying-reducers/?utm_source=r-javascript&amp;utm_medium=reddit</link>
-            <guid>https://tejasbubane.github.io/posts/2021-02-22-currying-reducers/?utm_source=r-javascript&amp;utm_medium=reddit</guid>
-            <pubDate>Thu, 25 Feb 2021 19:45:53 GMT</pubDate>
+            <title><![CDATA[[AskJS] async iterators to replace EventEmitter, EventTarget and so on]]></title>
+            <link>https://github.com/xmppjs/xmpp.js</link>
+            <guid>https://github.com/xmppjs/xmpp.js</guid>
+            <pubDate>Thu, 25 Feb 2021 16:14:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Unit-Testing Angular Components Using Cypress]]></title>
@@ -117,22 +117,28 @@
             <pubDate>Thu, 25 Feb 2021 18:46:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Currying Reducers]]></title>
+            <link>https://tejasbubane.github.io/posts/2021-02-22-currying-reducers/?utm_source=r-javascript&amp;utm_medium=reddit</link>
+            <guid>https://tejasbubane.github.io/posts/2021-02-22-currying-reducers/?utm_source=r-javascript&amp;utm_medium=reddit</guid>
+            <pubDate>Thu, 25 Feb 2021 19:45:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Programs As Proofs - Thinking about code like a Pythagorean]]></title>
             <link>https://hgmaxwellking.medium.com/programs-as-proofs-f95751ab8817</link>
             <guid>https://hgmaxwellking.medium.com/programs-as-proofs-f95751ab8817</guid>
             <pubDate>Thu, 25 Feb 2021 15:38:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I made a chrome extension that opens GitHub repos to your local editor in 1 click]]></title>
-            <link>https://chrome.google.com/webstore/detail/peek-%E2%80%93-github-to-local-ed/lipffmbhaajmndiglgmmcfldgolfaooj</link>
-            <guid>https://chrome.google.com/webstore/detail/peek-%E2%80%93-github-to-local-ed/lipffmbhaajmndiglgmmcfldgolfaooj</guid>
-            <pubDate>Wed, 24 Feb 2021 06:31:27 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Use DTOs to Enforce a Layer of Indirection | Node.js w/ TypeScript]]></title>
             <link>https://khalilstemmler.com/indirection</link>
             <guid>https://khalilstemmler.com/indirection</guid>
             <pubDate>Wed, 24 Feb 2021 18:25:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I made a chrome extension that opens GitHub repos to your local editor in 1 click]]></title>
+            <link>https://chrome.google.com/webstore/detail/peek-%E2%80%93-github-to-local-ed/lipffmbhaajmndiglgmmcfldgolfaooj</link>
+            <guid>https://chrome.google.com/webstore/detail/peek-%E2%80%93-github-to-local-ed/lipffmbhaajmndiglgmmcfldgolfaooj</guid>
+            <pubDate>Wed, 24 Feb 2021 06:31:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Storybook now works with Vue 3]]></title>
@@ -145,12 +151,6 @@
             <link>https://devblogs.microsoft.com/typescript/announcing-typescript-4-2</link>
             <guid>https://devblogs.microsoft.com/typescript/announcing-typescript-4-2</guid>
             <pubDate>Tue, 23 Feb 2021 21:57:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Node-efficientnet – image recognition model written in Node.js and TypeScript]]></title>
-            <link>https://fullstackfeed.com/node-efficientnet-image-recognition-model-written-in-node-js-and-typescript/</link>
-            <guid>https://fullstackfeed.com/node-efficientnet-image-recognition-model-written-in-node-js-and-typescript/</guid>
-            <pubDate>Wed, 24 Feb 2021 17:51:24 GMT</pubDate>
         </item>
     </channel>
 </rss>

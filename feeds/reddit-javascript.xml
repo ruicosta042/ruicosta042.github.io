@@ -4,16 +4,10 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sat, 27 Feb 2021 19:46:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2021 07:47:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
-        <item>
-            <title><![CDATA[Just another COVID19 Statistics Website for my school project and for my first try with Next.js and Material UI.]]></title>
-            <link>https://c19statistics.vercel.app/</link>
-            <guid>https://c19statistics.vercel.app/</guid>
-            <pubDate>Sat, 27 Feb 2021 03:56:47 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[JS work-around for fixing how CSS vw/vh units aren't computed reliably on various mobile devices]]></title>
             <link>https://gist.github.com/getify/150ea5a3b30b8822dee7798883d120b9</link>
@@ -21,10 +15,28 @@
             <pubDate>Sat, 27 Feb 2021 18:15:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Amazing Mechanical Plumbus (React, Howler.js)]]></title>
-            <link>https://mechanicalplumbus.com</link>
-            <guid>https://mechanicalplumbus.com</guid>
-            <pubDate>Fri, 26 Feb 2021 23:05:30 GMT</pubDate>
+            <title><![CDATA[Unicode Lookup - The Web's Fastest Unicode Lookup Tool]]></title>
+            <link>http://unicode.emnudge.dev/</link>
+            <guid>http://unicode.emnudge.dev/</guid>
+            <pubDate>Sat, 27 Feb 2021 23:13:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["Under-the-hood of Git" - this post aims to shine a light on the mechanisms inside the "versioned file system" know as Git.]]></title>
+            <link>https://craigtaub.dev/under-the-hood-of-git</link>
+            <guid>https://craigtaub.dev/under-the-hood-of-git</guid>
+            <pubDate>Sat, 27 Feb 2021 12:39:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Just another COVID19 Statistics Website for my school project and for my first try with Next.js and Material UI.]]></title>
+            <link>https://c19statistics.vercel.app/</link>
+            <guid>https://c19statistics.vercel.app/</guid>
+            <pubDate>Sat, 27 Feb 2021 03:56:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AskJS] Multiple variables initially assigned to the same value]]></title>
+            <link>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining</link>
+            <guid>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining</guid>
+            <pubDate>Sun, 28 Feb 2021 01:37:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A library for managing GOG store Products written in JavaScript]]></title>
@@ -39,16 +51,16 @@
             <pubDate>Sat, 27 Feb 2021 18:59:41 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Amazing Mechanical Plumbus (React, Howler.js)]]></title>
+            <link>https://mechanicalplumbus.com</link>
+            <guid>https://mechanicalplumbus.com</guid>
+            <pubDate>Fri, 26 Feb 2021 23:05:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Google Chrome Extension to disable certain sections of the web page like ads and sidebars]]></title>
             <link>https://github.com/Pemson18/Dispr</link>
             <guid>https://github.com/Pemson18/Dispr</guid>
             <pubDate>Sat, 27 Feb 2021 18:35:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JavaScript banana meme — explained]]></title>
-            <link>https://razvan-cirlugea.medium.com/javascript-banana-meme-explained-527696d27767</link>
-            <guid>https://razvan-cirlugea.medium.com/javascript-banana-meme-explained-527696d27767</guid>
-            <pubDate>Sat, 27 Feb 2021 17:22:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I created STARTD. It is a free open source landing page template. Built with Next.js, TypeScript and Twind.]]></title>
@@ -139,12 +151,6 @@
             <link>https://marmicode.io/blog/testing-angular-components-using-cypress</link>
             <guid>https://marmicode.io/blog/testing-angular-components-using-cypress</guid>
             <pubDate>Thu, 25 Feb 2021 18:46:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Currying Reducers]]></title>
-            <link>https://tejasbubane.github.io/posts/2021-02-22-currying-reducers/?utm_source=r-javascript&amp;utm_medium=reddit</link>
-            <guid>https://tejasbubane.github.io/posts/2021-02-22-currying-reducers/?utm_source=r-javascript&amp;utm_medium=reddit</guid>
-            <pubDate>Thu, 25 Feb 2021 19:45:53 GMT</pubDate>
         </item>
     </channel>
 </rss>

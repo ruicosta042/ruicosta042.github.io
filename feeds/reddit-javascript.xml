@@ -4,10 +4,16 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sun, 28 Feb 2021 12:59:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2021 19:45:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Reading an Excel file in node]]></title>
+            <link>https://javascript.plainenglish.io/how-to-read-an-excel-file-in-node-js-6e669e9a3ce1</link>
+            <guid>https://javascript.plainenglish.io/how-to-read-an-excel-file-in-node-js-6e669e9a3ce1</guid>
+            <pubDate>Sun, 28 Feb 2021 11:31:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[JS work-around for fixing how CSS vw/vh units aren't computed reliably on various mobile devices]]></title>
             <link>https://gist.github.com/getify/150ea5a3b30b8822dee7798883d120b9</link>
@@ -21,10 +27,10 @@
             <pubDate>Sat, 27 Feb 2021 23:13:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React wrapper for the html5 details element]]></title>
-            <link>https://github.com/bjarneo/react-details</link>
-            <guid>https://github.com/bjarneo/react-details</guid>
-            <pubDate>Sun, 28 Feb 2021 12:34:23 GMT</pubDate>
+            <title><![CDATA[In Console 42 we got an interview with the lead developer of a Node.js based open-source feature flagging service. I thought this group might be interested in checking it out!]]></title>
+            <link>https://console.substack.com/p/console-42?r=3cbez&amp;utm_campaign=post&amp;utm_medium=web&amp;utm_source=javascript_subreddit</link>
+            <guid>https://console.substack.com/p/console-42?r=3cbez&amp;utm_campaign=post&amp;utm_medium=web&amp;utm_source=javascript_subreddit</guid>
+            <pubDate>Sun, 28 Feb 2021 16:04:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA["Under-the-hood of Git" - this post aims to shine a light on the mechanisms inside the "versioned file system" know as Git.]]></title>
@@ -33,16 +39,10 @@
             <pubDate>Sat, 27 Feb 2021 12:39:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Reading an Excel file in node]]></title>
-            <link>https://javascript.plainenglish.io/how-to-read-an-excel-file-in-node-js-6e669e9a3ce1</link>
-            <guid>https://javascript.plainenglish.io/how-to-read-an-excel-file-in-node-js-6e669e9a3ce1</guid>
-            <pubDate>Sun, 28 Feb 2021 11:31:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comparing objects in JavaScript]]></title>
-            <link>https://javascript.plainenglish.io/comparing-objects-in-javascript-ce2dc1f3de7f</link>
-            <guid>https://javascript.plainenglish.io/comparing-objects-in-javascript-ce2dc1f3de7f</guid>
-            <pubDate>Sun, 28 Feb 2021 11:27:01 GMT</pubDate>
+            <title><![CDATA[What's the optimal way to contact a developer on Github?]]></title>
+            <link>https://xscode.com</link>
+            <guid>https://xscode.com</guid>
+            <pubDate>Sun, 28 Feb 2021 15:37:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Just another COVID19 Statistics Website for my school project and for my first try with Next.js and Material UI.]]></title>
@@ -51,10 +51,10 @@
             <pubDate>Sat, 27 Feb 2021 03:56:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Interface types - what's the point? why have them? - Techblog - Hostmoz]]></title>
-            <link>https://techblog.hostmoz.net/en/interface-types-whats-the-point-why-have-them/</link>
-            <guid>https://techblog.hostmoz.net/en/interface-types-whats-the-point-why-have-them/</guid>
-            <pubDate>Sun, 28 Feb 2021 09:05:08 GMT</pubDate>
+            <title><![CDATA[React wrapper for the html5 details element]]></title>
+            <link>https://github.com/bjarneo/react-details</link>
+            <guid>https://github.com/bjarneo/react-details</guid>
+            <pubDate>Sun, 28 Feb 2021 12:34:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[AskJS] Multiple variables initially assigned to the same value]]></title>

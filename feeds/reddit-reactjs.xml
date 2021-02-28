@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sun, 28 Feb 2021 12:59:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2021 19:46:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,16 +15,64 @@
             <pubDate>Mon, 01 Feb 2021 07:44:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Test-driven Development and React]]></title>
-            <link>https://kirill-novik.medium.com/test-driven-development-and-react-347487c9610a</link>
-            <guid>https://kirill-novik.medium.com/test-driven-development-and-react-347487c9610a</guid>
-            <pubDate>Sat, 27 Feb 2021 22:24:09 GMT</pubDate>
+            <title><![CDATA[Instagram Clone - React Tutorial - Tailwind CSS - Firebase - React Testing Library - Cypress]]></title>
+            <link>https://www.youtube.com/watch?v=AKeaaa8yAAk</link>
+            <guid>https://www.youtube.com/watch?v=AKeaaa8yAAk</guid>
+            <pubDate>Sun, 28 Feb 2021 13:04:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I made a simple Anime quotes rest API .✨ Link in description]]></title>
             <link>https://animechan.vercel.app/</link>
             <guid>https://animechan.vercel.app/</guid>
             <pubDate>Sun, 28 Feb 2021 11:58:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Test-driven Development and React]]></title>
+            <link>https://kirill-novik.medium.com/test-driven-development-and-react-347487c9610a</link>
+            <guid>https://kirill-novik.medium.com/test-driven-development-and-react-347487c9610a</guid>
+            <pubDate>Sat, 27 Feb 2021 22:24:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Build a personal website using Next.js and Strapi and would love to get your feedback]]></title>
+            <link>https://mxd.codes/</link>
+            <guid>https://mxd.codes/</guid>
+            <pubDate>Sun, 28 Feb 2021 17:09:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I wrote an article about some tips that can help the beginner or intermediate React developers write effective and maintainable React code, would love to know what you guys think about it]]></title>
+            <link>https://prateeksurana.me/blog/javascript-tips-for-react-developers/</link>
+            <guid>https://prateeksurana.me/blog/javascript-tips-for-react-developers/</guid>
+            <pubDate>Sun, 28 Feb 2021 18:51:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Using React Final Form]]></title>
+            <link>https://javascript.plainenglish.io/manage-form-state-with-react-final-form-bdad07b24509</link>
+            <guid>https://javascript.plainenglish.io/manage-form-state-with-react-final-form-bdad07b24509</guid>
+            <pubDate>Sun, 28 Feb 2021 18:45:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is it possible to generate an image of a map maker with a street address?]]></title>
+            <link>/r/web_design/comments/lulzrb/is_it_possible_to_generate_an_image_of_a_map/</link>
+            <guid>/r/web_design/comments/lulzrb/is_it_possible_to_generate_an_image_of_a_map/</guid>
+            <pubDate>Sun, 28 Feb 2021 17:56:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Question about animating in react/css]]></title>
+            <link>https://giphy.com/gifs/supersimple-youtube-supersimplesongs-fHihVBZj4y7M8MmYrS</link>
+            <guid>https://giphy.com/gifs/supersimple-youtube-supersimplesongs-fHihVBZj4y7M8MmYrS</guid>
+            <pubDate>Sun, 28 Feb 2021 13:09:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can anyone explain me why componentDidMount is getting called twice here?]]></title>
+            <link>https://codesandbox.io/s/adoring-architecture-3sv8m?file=/src/App.js:0-1021</link>
+            <guid>https://codesandbox.io/s/adoring-architecture-3sv8m?file=/src/App.js:0-1021</guid>
+            <pubDate>Sun, 28 Feb 2021 15:47:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Needs advice regarding coding style]]></title>
+            <link>/r/webdev/comments/ltnbr2/needs_advice_for_project_readabilityscalability/</link>
+            <guid>/r/webdev/comments/ltnbr2/needs_advice_for_project_readabilityscalability/</guid>
+            <pubDate>Sun, 28 Feb 2021 14:28:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[My version of a clock on r/oddlysatisfying I saw.]]></title>
@@ -43,60 +91,6 @@
             <link>https://ractive-player.org</link>
             <guid>https://ractive-player.org</guid>
             <pubDate>Sat, 27 Feb 2021 13:24:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Snippy - Snippet manager extension made in React by me!]]></title>
-            <link>https://chrome.google.com/webstore/detail/snippy/hloafekbnjflohjbafgbhejbhdloaibb</link>
-            <guid>https://chrome.google.com/webstore/detail/snippy/hloafekbnjflohjbafgbhejbhdloaibb</guid>
-            <pubDate>Sat, 27 Feb 2021 17:34:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Know how to set your boundaries.....in React!]]></title>
-            <link>https://viral98.github.io/blog/react-error-handling/</link>
-            <guid>https://viral98.github.io/blog/react-error-handling/</guid>
-            <pubDate>Sun, 28 Feb 2021 03:14:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Streaming development fo my portfolio site this morning!]]></title>
-            <link>https://twitch.tv/mtddan</link>
-            <guid>https://twitch.tv/mtddan</guid>
-            <pubDate>Sat, 27 Feb 2021 10:55:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Built an app to solve the media bias in our country towards politicians. you can view every side of the story just by sliding a toggle!]]></title>
-            <link>https://v.redd.it/6pyv8aexusj61</link>
-            <guid>https://v.redd.it/6pyv8aexusj61</guid>
-            <pubDate>Fri, 26 Feb 2021 10:33:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Looking for resources to understand file transfer and the encoding decoding stuff happening between frontend and backend]]></title>
-            <link>/r/node/comments/ltynxh/looking_for_resources_to_understand_file_transfer/</link>
-            <guid>/r/node/comments/ltynxh/looking_for_resources_to_understand_file_transfer/</guid>
-            <pubDate>Sat, 27 Feb 2021 22:30:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Strok eThickness slider]]></title>
-            <link>https://ibb.co/swS07Cv</link>
-            <guid>https://ibb.co/swS07Cv</guid>
-            <pubDate>Sat, 27 Feb 2021 20:38:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Using Immer with React: a simple Solutions for Immutable States]]></title>
-            <link>https://blog.bitsrc.io/using-immer-with-react-a-simple-solutions-for-immutable-states-a6ebb8b0bfa</link>
-            <guid>https://blog.bitsrc.io/using-immer-with-react-a-simple-solutions-for-immutable-states-a6ebb8b0bfa</guid>
-            <pubDate>Sat, 27 Feb 2021 20:28:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to create velocity based animations in React]]></title>
-            <link>http://eytanmanor.medium.com/how-to-create-velocity-based-animations-in-react-8468d09e63f5</link>
-            <guid>http://eytanmanor.medium.com/how-to-create-velocity-based-animations-in-react-8468d09e63f5</guid>
-            <pubDate>Sat, 27 Feb 2021 15:01:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I built a simple resource for copying useful symbols]]></title>
-            <link>https://symbols.dev/</link>
-            <guid>https://symbols.dev/</guid>
-            <pubDate>Sat, 27 Feb 2021 03:57:17 GMT</pubDate>
         </item>
     </channel>
 </rss>

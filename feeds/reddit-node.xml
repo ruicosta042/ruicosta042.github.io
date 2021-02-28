@@ -4,16 +4,10 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Sun, 28 Feb 2021 12:59:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2021 19:46:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
-        <item>
-            <title><![CDATA[I made something cool in NodeJS, watned to share it here]]></title>
-            <link>https://github.com/c9fe/ViewFinderJS</link>
-            <guid>https://github.com/c9fe/ViewFinderJS</guid>
-            <pubDate>Sun, 28 Feb 2021 01:22:28 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[A simple JWT auth library to save you from writing authentication boilerplate, supports refresh tokens and is compatible with express-session store libraries]]></title>
             <link>https://github.com/Mahamed-Belkheir/qufl</link>
@@ -21,10 +15,22 @@
             <pubDate>Sun, 28 Feb 2021 11:02:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Geo coding server-side]]></title>
-            <link>https://medium.com/javascript-in-plain-english/an-introduction-to-geocoding-using-node-js-fe1a5d3aa05c</link>
-            <guid>https://medium.com/javascript-in-plain-english/an-introduction-to-geocoding-using-node-js-fe1a5d3aa05c</guid>
-            <pubDate>Sun, 28 Feb 2021 06:44:44 GMT</pubDate>
+            <title><![CDATA[I made something cool in NodeJS, watned to share it here]]></title>
+            <link>https://github.com/c9fe/ViewFinderJS</link>
+            <guid>https://github.com/c9fe/ViewFinderJS</guid>
+            <pubDate>Sun, 28 Feb 2021 01:22:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In Console 42 we got an interview with the lead developer of a Node.js based open-source feature flagging service. I thought this group might be interested in checking it out!]]></title>
+            <link>https://console.substack.com/p/console-42?r=3cbez&amp;utm_campaign=post&amp;utm_medium=web&amp;utm_source=node_subreddit</link>
+            <guid>https://console.substack.com/p/console-42?r=3cbez&amp;utm_campaign=post&amp;utm_medium=web&amp;utm_source=node_subreddit</guid>
+            <pubDate>Sun, 28 Feb 2021 16:05:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Accept cryptocurrency payments with Coinqvest for NodeJS]]></title>
+            <link>https://juancurti.medium.com/accept-cryptocurrency-payments-with-coinqvest-for-nodejs-c6b42aec4d78</link>
+            <guid>https://juancurti.medium.com/accept-cryptocurrency-payments-with-coinqvest-for-nodejs-c6b42aec4d78</guid>
+            <pubDate>Sun, 28 Feb 2021 19:10:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Modern JavaScript for React JS - ES6.]]></title>
@@ -33,10 +39,22 @@
             <pubDate>Sun, 28 Feb 2021 11:36:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NVM altrenative for windows]]></title>
-            <link>/r/node</link>
-            <guid>/r/node</guid>
-            <pubDate>Sun, 28 Feb 2021 09:06:16 GMT</pubDate>
+            <title><![CDATA[Reading an Excel file in node]]></title>
+            <link>https://javascript.plainenglish.io/how-to-read-an-excel-file-in-node-js-6e669e9a3ce1</link>
+            <guid>https://javascript.plainenglish.io/how-to-read-an-excel-file-in-node-js-6e669e9a3ce1</guid>
+            <pubDate>Sun, 28 Feb 2021 11:30:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fetching cryptocurrency prices with CoinGecko using NodeJS]]></title>
+            <link>https://juancurti.medium.com/fetching-cryptocurrency-prices-with-coingecko-using-nodejs-29d5455bf57c</link>
+            <guid>https://juancurti.medium.com/fetching-cryptocurrency-prices-with-coingecko-using-nodejs-29d5455bf57c</guid>
+            <pubDate>Sun, 28 Feb 2021 17:56:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Geo coding server-side]]></title>
+            <link>https://medium.com/javascript-in-plain-english/an-introduction-to-geocoding-using-node-js-fe1a5d3aa05c</link>
+            <guid>https://medium.com/javascript-in-plain-english/an-introduction-to-geocoding-using-node-js-fe1a5d3aa05c</guid>
+            <pubDate>Sun, 28 Feb 2021 06:44:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mobile solution for quick scanning of QR codes with subsequent POST requests?]]></title>
@@ -45,16 +63,28 @@
             <pubDate>Sun, 28 Feb 2021 08:20:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Can anyone help me to get fireftp working again?]]></title>
+            <link>https://github.com/mimecuvalo/fireftp</link>
+            <guid>https://github.com/mimecuvalo/fireftp</guid>
+            <pubDate>Sun, 28 Feb 2021 16:42:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NVM altrenative for windows]]></title>
+            <link>/r/node</link>
+            <guid>/r/node</guid>
+            <pubDate>Sun, 28 Feb 2021 09:06:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How To Build A Phone Tracker App - part 1 Server]]></title>
+            <link>https://www.youtube.com/watch?v=QlIDoZmWanM</link>
+            <guid>https://www.youtube.com/watch?v=QlIDoZmWanM</guid>
+            <pubDate>Sun, 28 Feb 2021 15:58:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[10 Things Every Nest.js Developer Should Know]]></title>
             <link>https://javascript.plainenglish.io/10-things-every-nest-js-developer-should-know-911dec32f66a</link>
             <guid>https://javascript.plainenglish.io/10-things-every-nest-js-developer-should-know-911dec32f66a</guid>
             <pubDate>Sat, 27 Feb 2021 13:30:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reading an Excel file in node]]></title>
-            <link>https://javascript.plainenglish.io/how-to-read-an-excel-file-in-node-js-6e669e9a3ce1</link>
-            <guid>https://javascript.plainenglish.io/how-to-read-an-excel-file-in-node-js-6e669e9a3ce1</guid>
-            <pubDate>Sun, 28 Feb 2021 11:30:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dockerize your nodejs app with ease]]></title>
@@ -69,40 +99,22 @@
             <pubDate>Sun, 28 Feb 2021 10:21:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[an new ssh terminal for windows/linux/macos]]></title>
-            <link>https://github.com/nxshell/nxshell</link>
-            <guid>https://github.com/nxshell/nxshell</guid>
-            <pubDate>Sun, 28 Feb 2021 10:37:10 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[How do you get babel working on codesandbox, and could you code review the project?]]></title>
             <link>https://codesandbox.io/s/condescending-saha-80h15?file=/src/index.js</link>
             <guid>https://codesandbox.io/s/condescending-saha-80h15?file=/src/index.js</guid>
             <pubDate>Sat, 27 Feb 2021 23:58:57 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[an new ssh terminal for windows/linux/macos]]></title>
+            <link>https://github.com/nxshell/nxshell</link>
+            <guid>https://github.com/nxshell/nxshell</guid>
+            <pubDate>Sun, 28 Feb 2021 10:37:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Call node js module and function into LiElement file]]></title>
             <link>https://preview.redd.it/2mz4l7iid5k61.png?width=1812&amp;format=png&amp;auto=webp&amp;s=4762a4e59ca64549cac53ea50070fa8936591bbd</link>
             <guid>https://preview.redd.it/2mz4l7iid5k61.png?width=1812&amp;format=png&amp;auto=webp&amp;s=4762a4e59ca64549cac53ea50070fa8936591bbd</guid>
             <pubDate>Sun, 28 Feb 2021 04:42:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#nxshell sftp preview]]></title>
-            <link>https://preview.redd.it/1a0yyaoj47k61.png?width=1500&amp;format=png&amp;auto=webp&amp;s=8f5078949183a22111de97f829acf8d4dd6dc0c7</link>
-            <guid>https://preview.redd.it/1a0yyaoj47k61.png?width=1500&amp;format=png&amp;auto=webp&amp;s=8f5078949183a22111de97f829acf8d4dd6dc0c7</guid>
-            <pubDate>Sun, 28 Feb 2021 10:32:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Anyone know why node-cron went from tens of thousands to over a million downloads per day at the start of 2021?]]></title>
-            <link>https://www.npmjs.com/package/node-cron</link>
-            <guid>https://www.npmjs.com/package/node-cron</guid>
-            <pubDate>Sat, 27 Feb 2021 02:58:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[xpost from r/learnjavascript] Nodejs TypeError when writing array to jsonfile]]></title>
-            <link>/r/learnjavascript/comments/ltqvuy/nodejs_typeerror_when_writing_array_to_jsonfile/</link>
-            <guid>/r/learnjavascript/comments/ltqvuy/nodejs_typeerror_when_writing_array_to_jsonfile/</guid>
-            <pubDate>Sat, 27 Feb 2021 16:51:31 GMT</pubDate>
         </item>
     </channel>
 </rss>

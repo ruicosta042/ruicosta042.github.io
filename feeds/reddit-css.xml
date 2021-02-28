@@ -4,21 +4,51 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Sun, 28 Feb 2021 12:59:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2021 19:45:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Skeleton Loading using HTML and CSS]]></title>
-            <link>https://youtu.be/kMHMAHzjXG8</link>
-            <guid>https://youtu.be/kMHMAHzjXG8</guid>
-            <pubDate>Sat, 27 Feb 2021 15:50:31 GMT</pubDate>
+            <title><![CDATA[How to build an unfolding tooltip with CSS clip-path // HTML & CSS in-depth]]></title>
+            <link>https://youtu.be/hEm2td0g60g</link>
+            <guid>https://youtu.be/hEm2td0g60g</guid>
+            <pubDate>Sun, 28 Feb 2021 16:24:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to display language-specific quotes in CSS]]></title>
+            <link>https://www.stefanjudis.com/today-i-learned/how-to-use-language-dependent-quotes-in-css/</link>
+            <guid>https://www.stefanjudis.com/today-i-learned/how-to-use-language-dependent-quotes-in-css/</guid>
+            <pubDate>Sun, 28 Feb 2021 17:32:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[how to create card design using Html and CSS | Profile Card Design Using HTML and CSS]]></title>
+            <link>https://youtu.be/uVsLoY6FF3E</link>
+            <guid>https://youtu.be/uVsLoY6FF3E</guid>
+            <pubDate>Sun, 28 Feb 2021 18:57:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scrollable sidebar but not main page? Bootstrap]]></title>
             <link>https://jsfiddle.net/kyqew6Ls/</link>
             <guid>https://jsfiddle.net/kyqew6Ls/</guid>
             <pubDate>Sun, 28 Feb 2021 12:28:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mix-blend-mode not being recognized in Chrome]]></title>
+            <link>https://jsfiddle.net/0wsqtery/</link>
+            <guid>https://jsfiddle.net/0wsqtery/</guid>
+            <pubDate>Sun, 28 Feb 2021 17:23:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Simple CSS Problem]]></title>
+            <link>https://stephenmcateer.co.uk/shop/product/91-94-no-6/?v=79cba1185463</link>
+            <guid>https://stephenmcateer.co.uk/shop/product/91-94-no-6/?v=79cba1185463</guid>
+            <pubDate>Sun, 28 Feb 2021 14:58:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Skeleton Loading using HTML and CSS]]></title>
+            <link>https://youtu.be/kMHMAHzjXG8</link>
+            <guid>https://youtu.be/kMHMAHzjXG8</guid>
+            <pubDate>Sat, 27 Feb 2021 15:50:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Things I Add to Tailwind CSS Right Out of the Box]]></title>
@@ -109,36 +139,6 @@
             <link>https://codepen.io/quantim/pen/QWGQQaa</link>
             <guid>https://codepen.io/quantim/pen/QWGQQaa</guid>
             <pubDate>Fri, 26 Feb 2021 16:17:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Height: 100%;]]></title>
-            <link>https://gfycat.com/dismalvalidamericangoldfinch</link>
-            <guid>https://gfycat.com/dismalvalidamericangoldfinch</guid>
-            <pubDate>Thu, 25 Feb 2021 05:33:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to prevent this button from wiggle on hover?]]></title>
-            <link>https://codepen.io/solodov-dev/pen/OJbQbvm</link>
-            <guid>https://codepen.io/solodov-dev/pen/OJbQbvm</guid>
-            <pubDate>Fri, 26 Feb 2021 09:10:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to prevent  with colored background from wrapping and cutting off?]]></title>
-            <link>https://www.mezzoguild.com/how-are-you-in-spanish/</link>
-            <guid>https://www.mezzoguild.com/how-are-you-in-spanish/</guid>
-            <pubDate>Fri, 26 Feb 2021 07:06:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Feature Detection in CSS!]]></title>
-            <link>https://www.youtube.com/watch?v=bqr9SA6NwhA</link>
-            <guid>https://www.youtube.com/watch?v=bqr9SA6NwhA</guid>
-            <pubDate>Thu, 25 Feb 2021 18:15:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Need help making Modal Cover entire viewport from a specific place in document.....]]></title>
-            <link>https://site.id</link>
-            <guid>https://site.id</guid>
-            <pubDate>Thu, 25 Feb 2021 22:59:08 GMT</pubDate>
         </item>
     </channel>
 </rss>

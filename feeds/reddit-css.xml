@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Sun, 28 Feb 2021 07:47:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2021 12:59:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,12 @@
             <link>https://youtu.be/kMHMAHzjXG8</link>
             <guid>https://youtu.be/kMHMAHzjXG8</guid>
             <pubDate>Sat, 27 Feb 2021 15:50:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scrollable sidebar but not main page? Bootstrap]]></title>
+            <link>https://jsfiddle.net/kyqew6Ls/</link>
+            <guid>https://jsfiddle.net/kyqew6Ls/</guid>
+            <pubDate>Sun, 28 Feb 2021 12:28:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Things I Add to Tailwind CSS Right Out of the Box]]></title>

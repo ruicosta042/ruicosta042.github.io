@@ -4,7 +4,7 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Sun, 28 Feb 2021 07:47:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2021 12:59:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,46 @@
             <pubDate>Sun, 28 Feb 2021 01:22:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[A simple JWT auth library to save you from writing authentication boilerplate, supports refresh tokens and is compatible with express-session store libraries]]></title>
+            <link>https://github.com/Mahamed-Belkheir/qufl</link>
+            <guid>https://github.com/Mahamed-Belkheir/qufl</guid>
+            <pubDate>Sun, 28 Feb 2021 11:02:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Geo coding server-side]]></title>
+            <link>https://medium.com/javascript-in-plain-english/an-introduction-to-geocoding-using-node-js-fe1a5d3aa05c</link>
+            <guid>https://medium.com/javascript-in-plain-english/an-introduction-to-geocoding-using-node-js-fe1a5d3aa05c</guid>
+            <pubDate>Sun, 28 Feb 2021 06:44:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Modern JavaScript for React JS - ES6.]]></title>
+            <link>https://www.myfreeonlinecourses.com/2021/02/100-off-modern-javascript-for-react-js.html</link>
+            <guid>https://www.myfreeonlinecourses.com/2021/02/100-off-modern-javascript-for-react-js.html</guid>
+            <pubDate>Sun, 28 Feb 2021 11:36:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NVM altrenative for windows]]></title>
+            <link>/r/node</link>
+            <guid>/r/node</guid>
+            <pubDate>Sun, 28 Feb 2021 09:06:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mobile solution for quick scanning of QR codes with subsequent POST requests?]]></title>
+            <link>https://play.google.com/store/apps/details?id=com.scanner.kataykin.icamesscaner.free&amp;hl=en&amp;gl=US</link>
+            <guid>https://play.google.com/store/apps/details?id=com.scanner.kataykin.icamesscaner.free&amp;hl=en&amp;gl=US</guid>
+            <pubDate>Sun, 28 Feb 2021 08:20:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[10 Things Every Nest.js Developer Should Know]]></title>
             <link>https://javascript.plainenglish.io/10-things-every-nest-js-developer-should-know-911dec32f66a</link>
             <guid>https://javascript.plainenglish.io/10-things-every-nest-js-developer-should-know-911dec32f66a</guid>
             <pubDate>Sat, 27 Feb 2021 13:30:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reading an Excel file in node]]></title>
+            <link>https://javascript.plainenglish.io/how-to-read-an-excel-file-in-node-js-6e669e9a3ce1</link>
+            <guid>https://javascript.plainenglish.io/how-to-read-an-excel-file-in-node-js-6e669e9a3ce1</guid>
+            <pubDate>Sun, 28 Feb 2021 11:30:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dockerize your nodejs app with ease]]></title>
@@ -27,10 +63,16 @@
             <pubDate>Sat, 27 Feb 2021 19:56:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Geo coding server-side]]></title>
-            <link>https://medium.com/javascript-in-plain-english/an-introduction-to-geocoding-using-node-js-fe1a5d3aa05c</link>
-            <guid>https://medium.com/javascript-in-plain-english/an-introduction-to-geocoding-using-node-js-fe1a5d3aa05c</guid>
-            <pubDate>Sun, 28 Feb 2021 06:44:44 GMT</pubDate>
+            <title><![CDATA[Why You Don’t Have A Job In Programming Yet]]></title>
+            <link>https://link.medium.com/wRzTS9p3eeb</link>
+            <guid>https://link.medium.com/wRzTS9p3eeb</guid>
+            <pubDate>Sun, 28 Feb 2021 10:21:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[an new ssh terminal for windows/linux/macos]]></title>
+            <link>https://github.com/nxshell/nxshell</link>
+            <guid>https://github.com/nxshell/nxshell</guid>
+            <pubDate>Sun, 28 Feb 2021 10:37:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How do you get babel working on codesandbox, and could you code review the project?]]></title>
@@ -45,6 +87,12 @@
             <pubDate>Sun, 28 Feb 2021 04:42:14 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[#nxshell sftp preview]]></title>
+            <link>https://preview.redd.it/1a0yyaoj47k61.png?width=1500&amp;format=png&amp;auto=webp&amp;s=8f5078949183a22111de97f829acf8d4dd6dc0c7</link>
+            <guid>https://preview.redd.it/1a0yyaoj47k61.png?width=1500&amp;format=png&amp;auto=webp&amp;s=8f5078949183a22111de97f829acf8d4dd6dc0c7</guid>
+            <pubDate>Sun, 28 Feb 2021 10:32:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Anyone know why node-cron went from tens of thousands to over a million downloads per day at the start of 2021?]]></title>
             <link>https://www.npmjs.com/package/node-cron</link>
             <guid>https://www.npmjs.com/package/node-cron</guid>
@@ -55,24 +103,6 @@
             <link>/r/learnjavascript/comments/ltqvuy/nodejs_typeerror_when_writing_array_to_jsonfile/</link>
             <guid>/r/learnjavascript/comments/ltqvuy/nodejs_typeerror_when_writing_array_to_jsonfile/</guid>
             <pubDate>Sat, 27 Feb 2021 16:51:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Problem linking Postman POST request with req.body.q]]></title>
-            <link>https://preview.redd.it/dhqiw0ozr1k61.png?width=708&amp;format=png&amp;auto=webp&amp;s=84175c501e1d44354dd863aab6173e1b8df10a95</link>
-            <guid>https://preview.redd.it/dhqiw0ozr1k61.png?width=708&amp;format=png&amp;auto=webp&amp;s=84175c501e1d44354dd863aab6173e1b8df10a95</guid>
-            <pubDate>Sat, 27 Feb 2021 16:34:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Save Gigabytes Of Space With NPM and NPKill]]></title>
-            <link>https://www.youtube.com/watch?v=8xCeLJ-vaoU&amp;list=PL4tJdkBbj_XXJgwJsoF9lIsbsZzP_qI9T&amp;index=27</link>
-            <guid>https://www.youtube.com/watch?v=8xCeLJ-vaoU&amp;list=PL4tJdkBbj_XXJgwJsoF9lIsbsZzP_qI9T&amp;index=27</guid>
-            <pubDate>Sat, 27 Feb 2021 16:14:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scope vs Closure vs Hoisting - Difference between let, const and var - Javascript]]></title>
-            <link>https://youtu.be/sDmn6p4lRHk</link>
-            <guid>https://youtu.be/sDmn6p4lRHk</guid>
-            <pubDate>Sat, 27 Feb 2021 11:25:25 GMT</pubDate>
         </item>
     </channel>
 </rss>

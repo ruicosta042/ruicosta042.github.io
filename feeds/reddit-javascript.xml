@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sun, 28 Feb 2021 07:47:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2021 12:59:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,16 +21,40 @@
             <pubDate>Sat, 27 Feb 2021 23:13:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[React wrapper for the html5 details element]]></title>
+            <link>https://github.com/bjarneo/react-details</link>
+            <guid>https://github.com/bjarneo/react-details</guid>
+            <pubDate>Sun, 28 Feb 2021 12:34:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA["Under-the-hood of Git" - this post aims to shine a light on the mechanisms inside the "versioned file system" know as Git.]]></title>
             <link>https://craigtaub.dev/under-the-hood-of-git</link>
             <guid>https://craigtaub.dev/under-the-hood-of-git</guid>
             <pubDate>Sat, 27 Feb 2021 12:39:42 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Reading an Excel file in node]]></title>
+            <link>https://javascript.plainenglish.io/how-to-read-an-excel-file-in-node-js-6e669e9a3ce1</link>
+            <guid>https://javascript.plainenglish.io/how-to-read-an-excel-file-in-node-js-6e669e9a3ce1</guid>
+            <pubDate>Sun, 28 Feb 2021 11:31:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Comparing objects in JavaScript]]></title>
+            <link>https://javascript.plainenglish.io/comparing-objects-in-javascript-ce2dc1f3de7f</link>
+            <guid>https://javascript.plainenglish.io/comparing-objects-in-javascript-ce2dc1f3de7f</guid>
+            <pubDate>Sun, 28 Feb 2021 11:27:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Just another COVID19 Statistics Website for my school project and for my first try with Next.js and Material UI.]]></title>
             <link>https://c19statistics.vercel.app/</link>
             <guid>https://c19statistics.vercel.app/</guid>
             <pubDate>Sat, 27 Feb 2021 03:56:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Interface types - what's the point? why have them? - Techblog - Hostmoz]]></title>
+            <link>https://techblog.hostmoz.net/en/interface-types-whats-the-point-why-have-them/</link>
+            <guid>https://techblog.hostmoz.net/en/interface-types-whats-the-point-why-have-them/</guid>
+            <pubDate>Sun, 28 Feb 2021 09:05:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[AskJS] Multiple variables initially assigned to the same value]]></title>
@@ -121,36 +145,6 @@
             <link>https://github.com/artemave/meshell</link>
             <guid>https://github.com/artemave/meshell</guid>
             <pubDate>Thu, 25 Feb 2021 13:16:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Create Native Drag and Drop Functionality in JavaScript]]></title>
-            <link>https://www.webtips.dev/how-to-create-native-drag-and-drop-functionality-in-javascript</link>
-            <guid>https://www.webtips.dev/how-to-create-native-drag-and-drop-functionality-in-javascript</guid>
-            <pubDate>Wed, 24 Feb 2021 17:42:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A command-line utility for deploying serverless applications to AWS. Complete with custom domains, deploy previews, TypeScript support, and more.]]></title>
-            <link>https://github.com/JakePartusch/serverlessui</link>
-            <guid>https://github.com/JakePartusch/serverlessui</guid>
-            <pubDate>Thu, 25 Feb 2021 16:20:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Server Rendering in JavaScript: Optimizing Performance]]></title>
-            <link>https://dev.to/ryansolid/server-rendering-in-javascript-optimizing-performance-1jnk</link>
-            <guid>https://dev.to/ryansolid/server-rendering-in-javascript-optimizing-performance-1jnk</guid>
-            <pubDate>Thu, 25 Feb 2021 15:44:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AskJS] async iterators to replace EventEmitter, EventTarget and so on]]></title>
-            <link>https://github.com/xmppjs/xmpp.js</link>
-            <guid>https://github.com/xmppjs/xmpp.js</guid>
-            <pubDate>Thu, 25 Feb 2021 16:14:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Unit-Testing Angular Components Using Cypress]]></title>
-            <link>https://marmicode.io/blog/testing-angular-components-using-cypress</link>
-            <guid>https://marmicode.io/blog/testing-angular-components-using-cypress</guid>
-            <pubDate>Thu, 25 Feb 2021 18:46:39 GMT</pubDate>
         </item>
     </channel>
 </rss>

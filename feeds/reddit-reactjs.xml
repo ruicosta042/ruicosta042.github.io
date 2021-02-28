@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sun, 28 Feb 2021 07:47:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2021 12:59:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,10 +21,22 @@
             <pubDate>Sat, 27 Feb 2021 22:24:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[I made a simple Anime quotes rest API .✨ Link in description]]></title>
+            <link>https://animechan.vercel.app/</link>
+            <guid>https://animechan.vercel.app/</guid>
+            <pubDate>Sun, 28 Feb 2021 11:58:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[My version of a clock on r/oddlysatisfying I saw.]]></title>
             <link>https://f3hjw.csb.app/</link>
             <guid>https://f3hjw.csb.app/</guid>
             <pubDate>Sat, 27 Feb 2021 06:37:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An open source referral management & affiliate tracking software made with react]]></title>
+            <link>https://github.com/WeferralHq/weferral</link>
+            <guid>https://github.com/WeferralHq/weferral</guid>
+            <pubDate>Sun, 28 Feb 2021 10:05:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Create videos in React that viewers can interact with]]></title>
@@ -85,12 +97,6 @@
             <link>https://symbols.dev/</link>
             <guid>https://symbols.dev/</guid>
             <pubDate>Sat, 27 Feb 2021 03:57:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Good Example/Reference of Add Note/View Notes UI?]]></title>
-            <link>/r/web_design/comments/lttbwa/good_examplereference_of_add_noteview_notes_ui/</link>
-            <guid>/r/web_design/comments/lttbwa/good_examplereference_of_add_noteview_notes_ui/</guid>
-            <pubDate>Sat, 27 Feb 2021 17:49:33 GMT</pubDate>
         </item>
     </channel>
 </rss>

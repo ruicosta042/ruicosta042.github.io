@@ -4,7 +4,7 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Mon, 01 Mar 2021 07:47:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Mar 2021 13:01:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,12 @@
             <link>https://github.com/snyk/snyk</link>
             <guid>https://github.com/snyk/snyk</guid>
             <pubDate>Mon, 01 Mar 2021 03:24:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Handle Events with LitElement and TypeScript]]></title>
+            <link>https://labs.thisdot.co/blog/how-to-handle-events-with-litelement-and-typescript</link>
+            <guid>https://labs.thisdot.co/blog/how-to-handle-events-with-litelement-and-typescript</guid>
+            <pubDate>Mon, 01 Mar 2021 11:22:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Just found out that you can't trust the TS transpiler with union types. A more complicated version of this made it to production and robbed me of my sanity...]]></title>
@@ -67,12 +73,6 @@
             <link>https://github.com/mistlog/typetype-examples/blob/main/examples/url-parser-2/url-parser-2.type</link>
             <guid>https://github.com/mistlog/typetype-examples/blob/main/examples/url-parser-2/url-parser-2.type</guid>
             <pubDate>Wed, 24 Feb 2021 15:15:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Announcing TypeScript 4.2]]></title>
-            <link>https://devblogs.microsoft.com/typescript/announcing-typescript-4-2/</link>
-            <guid>https://devblogs.microsoft.com/typescript/announcing-typescript-4-2/</guid>
-            <pubDate>Tue, 23 Feb 2021 21:57:53 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Mon, 01 Mar 2021 07:47:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Mar 2021 13:01:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,12 +13,6 @@
             <link>https://youtu.be/hEm2td0g60g</link>
             <guid>https://youtu.be/hEm2td0g60g</guid>
             <pubDate>Sun, 28 Feb 2021 16:24:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[5 Simple Ways to center a div inside another]]></title>
-            <link>https://www.codingflicks.com/2021/02/5-ways-to-center-div-using-css.html</link>
-            <guid>https://www.codingflicks.com/2021/02/5-ways-to-center-div-using-css.html</guid>
-            <pubDate>Mon, 01 Mar 2021 04:06:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to display language-specific quotes in CSS]]></title>

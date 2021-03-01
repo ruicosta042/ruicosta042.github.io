@@ -4,7 +4,7 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Mon, 01 Mar 2021 07:47:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Mar 2021 13:01:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,16 +21,16 @@
             <pubDate>Mon, 01 Mar 2021 03:38:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[snyk - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies]]></title>
-            <link>https://github.com/snyk/snyk</link>
-            <guid>https://github.com/snyk/snyk</guid>
-            <pubDate>Mon, 01 Mar 2021 03:24:40 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[In Console 42 we got an interview with the lead developer of a Node.js based open-source feature flagging service. I thought this group might be interested in checking it out!]]></title>
             <link>https://console.substack.com/p/console-42?r=3cbez&amp;utm_campaign=post&amp;utm_medium=web&amp;utm_source=node_subreddit</link>
             <guid>https://console.substack.com/p/console-42?r=3cbez&amp;utm_campaign=post&amp;utm_medium=web&amp;utm_source=node_subreddit</guid>
             <pubDate>Sun, 28 Feb 2021 16:05:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[snyk - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies]]></title>
+            <link>https://github.com/snyk/snyk</link>
+            <guid>https://github.com/snyk/snyk</guid>
+            <pubDate>Mon, 01 Mar 2021 03:24:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jest Test Error Node.js]]></title>
@@ -51,40 +51,28 @@
             <pubDate>Sun, 28 Feb 2021 20:12:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How To Build A Phone Tracker App - part 1 Server]]></title>
+            <link>https://www.youtube.com/watch?v=QlIDoZmWanM</link>
+            <guid>https://www.youtube.com/watch?v=QlIDoZmWanM</guid>
+            <pubDate>Sun, 28 Feb 2021 15:58:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Accept cryptocurrency payments with Coinqvest for NodeJS]]></title>
             <link>https://juancurti.medium.com/accept-cryptocurrency-payments-with-coinqvest-for-nodejs-c6b42aec4d78</link>
             <guid>https://juancurti.medium.com/accept-cryptocurrency-payments-with-coinqvest-for-nodejs-c6b42aec4d78</guid>
             <pubDate>Sun, 28 Feb 2021 19:10:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Reading an Excel file in node]]></title>
-            <link>https://javascript.plainenglish.io/how-to-read-an-excel-file-in-node-js-6e669e9a3ce1</link>
-            <guid>https://javascript.plainenglish.io/how-to-read-an-excel-file-in-node-js-6e669e9a3ce1</guid>
-            <pubDate>Sun, 28 Feb 2021 11:30:23 GMT</pubDate>
+            <title><![CDATA[Fetching cryptocurrency prices with CoinGecko using NodeJS]]></title>
+            <link>https://juancurti.medium.com/fetching-cryptocurrency-prices-with-coingecko-using-nodejs-29d5455bf57c</link>
+            <guid>https://juancurti.medium.com/fetching-cryptocurrency-prices-with-coingecko-using-nodejs-29d5455bf57c</guid>
+            <pubDate>Sun, 28 Feb 2021 17:56:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Modern JavaScript for React JS - ES6.]]></title>
             <link>https://www.myfreeonlinecourses.com/2021/02/100-off-modern-javascript-for-react-js.html</link>
             <guid>https://www.myfreeonlinecourses.com/2021/02/100-off-modern-javascript-for-react-js.html</guid>
             <pubDate>Sun, 28 Feb 2021 11:36:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Geo coding server-side]]></title>
-            <link>https://medium.com/javascript-in-plain-english/an-introduction-to-geocoding-using-node-js-fe1a5d3aa05c</link>
-            <guid>https://medium.com/javascript-in-plain-english/an-introduction-to-geocoding-using-node-js-fe1a5d3aa05c</guid>
-            <pubDate>Sun, 28 Feb 2021 06:44:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mobile solution for quick scanning of QR codes with subsequent POST requests?]]></title>
-            <link>https://play.google.com/store/apps/details?id=com.scanner.kataykin.icamesscaner.free&amp;hl=en&amp;gl=US</link>
-            <guid>https://play.google.com/store/apps/details?id=com.scanner.kataykin.icamesscaner.free&amp;hl=en&amp;gl=US</guid>
-            <pubDate>Sun, 28 Feb 2021 08:20:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can anyone help me to get fireftp working again?]]></title>
-            <link>https://github.com/mimecuvalo/fireftp</link>
-            <guid>https://github.com/mimecuvalo/fireftp</guid>
-            <pubDate>Sun, 28 Feb 2021 16:42:25 GMT</pubDate>
         </item>
     </channel>
 </rss>

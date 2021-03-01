@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Mon, 01 Mar 2021 07:47:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Mar 2021 13:01:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,16 +15,40 @@
             <pubDate>Mon, 01 Feb 2021 07:44:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Introducing Leva, a GUI made for React]]></title>
+            <link>https://twitter.com/davidbismut/status/1366329901545046021</link>
+            <guid>https://twitter.com/davidbismut/status/1366329901545046021</guid>
+            <pubDate>Mon, 01 Mar 2021 10:23:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Instagram Clone - React Tutorial - Tailwind CSS - Firebase - React Testing Library - Cypress]]></title>
             <link>https://www.youtube.com/watch?v=AKeaaa8yAAk</link>
             <guid>https://www.youtube.com/watch?v=AKeaaa8yAAk</guid>
             <pubDate>Sun, 28 Feb 2021 13:04:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How To Choose The Best Recruiting Software?]]></title>
-            <link>http://recruitingsoftware.space/</link>
-            <guid>http://recruitingsoftware.space/</guid>
-            <pubDate>Mon, 01 Mar 2021 07:45:12 GMT</pubDate>
+            <title><![CDATA[Create lovely React 3D Animated Card | Beginner REACT.JS Animation with framer-motion]]></title>
+            <link>https://youtu.be/cPKiilXlHAQ</link>
+            <guid>https://youtu.be/cPKiilXlHAQ</guid>
+            <pubDate>Mon, 01 Mar 2021 11:13:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A different type of sliders with animations. Use it freely!]]></title>
+            <link>https://mirc1one.github.io/React-Awesome-Slider/</link>
+            <guid>https://mirc1one.github.io/React-Awesome-Slider/</guid>
+            <pubDate>Mon, 01 Mar 2021 10:25:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[JavaScript tips for React Developers]]></title>
+            <link>https://prateeksurana.me/blog/javascript-tips-for-react-developers/</link>
+            <guid>https://prateeksurana.me/blog/javascript-tips-for-react-developers/</guid>
+            <pubDate>Mon, 01 Mar 2021 12:30:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Server Side Rendering (SSR) with React]]></title>
+            <link>https://blog.asayer.io/server-side-rendering-ssr-with-react</link>
+            <guid>https://blog.asayer.io/server-side-rendering-ssr-with-react</guid>
+            <pubDate>Mon, 01 Mar 2021 09:20:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Making a resume with HTML/React + Puppeteer! Updated a guide from a few years ago]]></title>
@@ -51,6 +75,12 @@
             <pubDate>Sun, 28 Feb 2021 23:59:17 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Made a personal website with Next.js and would appreciate some feedback]]></title>
+            <link>https://mxd.codes</link>
+            <guid>https://mxd.codes</guid>
+            <pubDate>Sun, 28 Feb 2021 20:26:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Test-driven Development and React]]></title>
             <link>https://kirill-novik.medium.com/test-driven-development-and-react-347487c9610a</link>
             <guid>https://kirill-novik.medium.com/test-driven-development-and-react-347487c9610a</guid>
@@ -61,30 +91,6 @@
             <link>https://prateeksurana.me/blog/javascript-tips-for-react-developers/</link>
             <guid>https://prateeksurana.me/blog/javascript-tips-for-react-developers/</guid>
             <pubDate>Sun, 28 Feb 2021 18:51:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Made a personal website with Next.js and would appreciate some feedback]]></title>
-            <link>https://mxd.codes</link>
-            <guid>https://mxd.codes</guid>
-            <pubDate>Sun, 28 Feb 2021 20:26:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Using React Final Form]]></title>
-            <link>https://javascript.plainenglish.io/manage-form-state-with-react-final-form-bdad07b24509</link>
-            <guid>https://javascript.plainenglish.io/manage-form-state-with-react-final-form-bdad07b24509</guid>
-            <pubDate>Sun, 28 Feb 2021 18:45:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is it possible to generate an image of a map maker with a street address?]]></title>
-            <link>/r/web_design/comments/lulzrb/is_it_possible_to_generate_an_image_of_a_map/</link>
-            <guid>/r/web_design/comments/lulzrb/is_it_possible_to_generate_an_image_of_a_map/</guid>
-            <pubDate>Sun, 28 Feb 2021 17:56:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Question about animating in react/css]]></title>
-            <link>https://giphy.com/gifs/supersimple-youtube-supersimplesongs-fHihVBZj4y7M8MmYrS</link>
-            <guid>https://giphy.com/gifs/supersimple-youtube-supersimplesongs-fHihVBZj4y7M8MmYrS</guid>
-            <pubDate>Sun, 28 Feb 2021 13:09:17 GMT</pubDate>
         </item>
     </channel>
 </rss>

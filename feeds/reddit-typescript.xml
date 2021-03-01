@@ -4,10 +4,16 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Sun, 28 Feb 2021 19:46:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Mar 2021 07:47:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[snyk - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies]]></title>
+            <link>https://github.com/snyk/snyk</link>
+            <guid>https://github.com/snyk/snyk</guid>
+            <pubDate>Mon, 01 Mar 2021 03:24:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Just found out that you can't trust the TS transpiler with union types. A more complicated version of this made it to production and robbed me of my sanity...]]></title>
             <link>https://www.typescriptlang.org/play?#code/GYVwdgxgLglg9mABAWwKYGd0FUAOAVAC1QEEAnUgQwE8AKC8gLkTMqoB50pSYwBzRAD6IwIZACNUpAHwBKJgDc4MACaIA3gFgAUIl2J6pAHQ4Q6AjQDMMgNzaAvtu0QEnRJ2590TFtQ5cevFKIALyIANoA5MBwcBEANIgRYvQRALq2WmiYuIQk5NQ07gHoNo5azmCuXm7+fCE1HrzoYQBM6U4ucAA2qIZdcLyFhlBwADJwAO6SAMIU6Kg0MjLaQA</link>
@@ -67,12 +73,6 @@
             <link>https://devblogs.microsoft.com/typescript/announcing-typescript-4-2/</link>
             <guid>https://devblogs.microsoft.com/typescript/announcing-typescript-4-2/</guid>
             <pubDate>Tue, 23 Feb 2021 21:57:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can classes essentially mimick interfaces?]]></title>
-            <link>https://docs.nestjs.com/controllers</link>
-            <guid>https://docs.nestjs.com/controllers</guid>
-            <pubDate>Mon, 22 Feb 2021 19:40:50 GMT</pubDate>
         </item>
     </channel>
 </rss>

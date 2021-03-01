@@ -4,15 +4,45 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sun, 28 Feb 2021 19:45:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Mar 2021 07:47:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[What I look forward to about web development in 2021]]></title>
+            <link>https://blog.6nok.org/what-i-look-forward-to-about-web-development-in-2021/</link>
+            <guid>https://blog.6nok.org/what-i-look-forward-to-about-web-development-in-2021/</guid>
+            <pubDate>Mon, 01 Mar 2021 02:49:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Reading an Excel file in node]]></title>
             <link>https://javascript.plainenglish.io/how-to-read-an-excel-file-in-node-js-6e669e9a3ce1</link>
             <guid>https://javascript.plainenglish.io/how-to-read-an-excel-file-in-node-js-6e669e9a3ce1</guid>
             <pubDate>Sun, 28 Feb 2021 11:31:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[snyk - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies]]></title>
+            <link>https://github.com/snyk/snyk</link>
+            <guid>https://github.com/snyk/snyk</guid>
+            <pubDate>Mon, 01 Mar 2021 03:24:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to build a Web Components app with Redux]]></title>
+            <link>https://writingjavascript.com/how-to-build-a-web-components-app-with-redux</link>
+            <guid>https://writingjavascript.com/how-to-build-a-web-components-app-with-redux</guid>
+            <pubDate>Mon, 01 Mar 2021 06:20:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Making a resume with HTML/React + Puppeteer! Updated a guide from a few years ago]]></title>
+            <link>https://wkwok.medium.com/making-a-resume-in-html-or-react-bd1781abcdef</link>
+            <guid>https://wkwok.medium.com/making-a-resume-in-html-or-react-bd1781abcdef</guid>
+            <pubDate>Mon, 01 Mar 2021 05:53:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[esbuild-config: config files for esbuild]]></title>
+            <link>https://github.com/bpierre/esbuild-config</link>
+            <guid>https://github.com/bpierre/esbuild-config</guid>
+            <pubDate>Sun, 28 Feb 2021 21:14:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[JS work-around for fixing how CSS vw/vh units aren't computed reliably on various mobile devices]]></title>
@@ -21,16 +51,16 @@
             <pubDate>Sat, 27 Feb 2021 18:15:43 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Using vanilla javascript and Arduino to fix my bad typing]]></title>
+            <link>https://dev.to/nobody5050/how-i-fixed-my-bad-typing-with-a-taser-2l40</link>
+            <guid>https://dev.to/nobody5050/how-i-fixed-my-bad-typing-with-a-taser-2l40</guid>
+            <pubDate>Sun, 28 Feb 2021 20:10:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Unicode Lookup - The Web's Fastest Unicode Lookup Tool]]></title>
             <link>http://unicode.emnudge.dev/</link>
             <guid>http://unicode.emnudge.dev/</guid>
             <pubDate>Sat, 27 Feb 2021 23:13:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In Console 42 we got an interview with the lead developer of a Node.js based open-source feature flagging service. I thought this group might be interested in checking it out!]]></title>
-            <link>https://console.substack.com/p/console-42?r=3cbez&amp;utm_campaign=post&amp;utm_medium=web&amp;utm_source=javascript_subreddit</link>
-            <guid>https://console.substack.com/p/console-42?r=3cbez&amp;utm_campaign=post&amp;utm_medium=web&amp;utm_source=javascript_subreddit</guid>
-            <pubDate>Sun, 28 Feb 2021 16:04:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA["Under-the-hood of Git" - this post aims to shine a light on the mechanisms inside the "versioned file system" know as Git.]]></title>
@@ -39,22 +69,16 @@
             <pubDate>Sat, 27 Feb 2021 12:39:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What's the optimal way to contact a developer on Github?]]></title>
-            <link>https://xscode.com</link>
-            <guid>https://xscode.com</guid>
-            <pubDate>Sun, 28 Feb 2021 15:37:50 GMT</pubDate>
+            <title><![CDATA[In Console 42 we got an interview with the lead developer of a Node.js based open-source feature flagging service. I thought this group might be interested in checking it out!]]></title>
+            <link>https://console.substack.com/p/console-42?r=3cbez&amp;utm_campaign=post&amp;utm_medium=web&amp;utm_source=javascript_subreddit</link>
+            <guid>https://console.substack.com/p/console-42?r=3cbez&amp;utm_campaign=post&amp;utm_medium=web&amp;utm_source=javascript_subreddit</guid>
+            <pubDate>Sun, 28 Feb 2021 16:04:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Just another COVID19 Statistics Website for my school project and for my first try with Next.js and Material UI.]]></title>
             <link>https://c19statistics.vercel.app/</link>
             <guid>https://c19statistics.vercel.app/</guid>
             <pubDate>Sat, 27 Feb 2021 03:56:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React wrapper for the html5 details element]]></title>
-            <link>https://github.com/bjarneo/react-details</link>
-            <guid>https://github.com/bjarneo/react-details</guid>
-            <pubDate>Sun, 28 Feb 2021 12:34:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[AskJS] Multiple variables initially assigned to the same value]]></title>
@@ -133,18 +157,6 @@
             <link>https://www.npmjs.com/package/romanice</link>
             <guid>https://www.npmjs.com/package/romanice</guid>
             <pubDate>Fri, 26 Feb 2021 14:40:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Securing Node services with Client Authenticated TLS using CATKeys]]></title>
-            <link>https://tommytucker1979.medium.com/securing-node-services-using-client-authenticated-tls-with-catkeys-938709726fbc</link>
-            <guid>https://tommytucker1979.medium.com/securing-node-services-using-client-authenticated-tls-with-catkeys-938709726fbc</guid>
-            <pubDate>Fri, 26 Feb 2021 10:16:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[meshell - dead simple shell library for Node]]></title>
-            <link>https://github.com/artemave/meshell</link>
-            <guid>https://github.com/artemave/meshell</guid>
-            <pubDate>Thu, 25 Feb 2021 13:16:22 GMT</pubDate>
         </item>
     </channel>
 </rss>

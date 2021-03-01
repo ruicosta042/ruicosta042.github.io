@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Sun, 28 Feb 2021 19:45:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Mar 2021 07:47:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,12 @@
             <link>https://youtu.be/hEm2td0g60g</link>
             <guid>https://youtu.be/hEm2td0g60g</guid>
             <pubDate>Sun, 28 Feb 2021 16:24:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[5 Simple Ways to center a div inside another]]></title>
+            <link>https://www.codingflicks.com/2021/02/5-ways-to-center-div-using-css.html</link>
+            <guid>https://www.codingflicks.com/2021/02/5-ways-to-center-div-using-css.html</guid>
+            <pubDate>Mon, 01 Mar 2021 04:06:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to display language-specific quotes in CSS]]></title>
@@ -27,16 +33,22 @@
             <pubDate>Sun, 28 Feb 2021 18:57:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scrollable sidebar but not main page? Bootstrap]]></title>
-            <link>https://jsfiddle.net/kyqew6Ls/</link>
-            <guid>https://jsfiddle.net/kyqew6Ls/</guid>
-            <pubDate>Sun, 28 Feb 2021 12:28:44 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mix-blend-mode not being recognized in Chrome]]></title>
             <link>https://jsfiddle.net/0wsqtery/</link>
             <guid>https://jsfiddle.net/0wsqtery/</guid>
             <pubDate>Sun, 28 Feb 2021 17:23:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to add boxes like on this site?]]></title>
+            <link>https://redditsave.com/info?url=/r/bigfloppa/comments/lug2bv/floppa_nooooo/</link>
+            <guid>https://redditsave.com/info?url=/r/bigfloppa/comments/lug2bv/floppa_nooooo/</guid>
+            <pubDate>Sun, 28 Feb 2021 20:45:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scrollable sidebar but not main page? Bootstrap]]></title>
+            <link>https://jsfiddle.net/kyqew6Ls/</link>
+            <guid>https://jsfiddle.net/kyqew6Ls/</guid>
+            <pubDate>Sun, 28 Feb 2021 12:28:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Simple CSS Problem]]></title>
@@ -115,30 +127,6 @@
             <link>https://wpg4abm9iw60w54e-53754724549.shopifypreview.com</link>
             <guid>https://wpg4abm9iw60w54e-53754724549.shopifypreview.com</guid>
             <pubDate>Fri, 26 Feb 2021 20:03:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Quickly add color & size options to any React component - full app #15]]></title>
-            <link>https://youtube.com/watch?v=ndOZlihXuWM&amp;feature=share</link>
-            <guid>https://youtube.com/watch?v=ndOZlihXuWM&amp;feature=share</guid>
-            <pubDate>Fri, 26 Feb 2021 19:19:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[There's this weird section here on my site that takes up space. How do I eliminate it?]]></title>
-            <link>https://imgur.com/a/ZlqqNRd</link>
-            <guid>https://imgur.com/a/ZlqqNRd</guid>
-            <pubDate>Fri, 26 Feb 2021 19:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Which dev-tool is better for responsive design, Firefox or Google chrome?]]></title>
-            <link>https://preview.redd.it/y84s3yo0avj61.png?width=1345&amp;format=png&amp;auto=webp&amp;s=2014d7ec9aca76364270f67c30380c8520a97b4f</link>
-            <guid>https://preview.redd.it/y84s3yo0avj61.png?width=1345&amp;format=png&amp;auto=webp&amp;s=2014d7ec9aca76364270f67c30380c8520a97b4f</guid>
-            <pubDate>Fri, 26 Feb 2021 18:47:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[Bulma] - How to keep Bulma navbar-end from collapsing?]]></title>
-            <link>https://codepen.io/quantim/pen/QWGQQaa</link>
-            <guid>https://codepen.io/quantim/pen/QWGQQaa</guid>
-            <pubDate>Fri, 26 Feb 2021 16:17:12 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sun, 28 Feb 2021 19:46:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Mar 2021 07:47:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,10 +21,34 @@
             <pubDate>Sun, 28 Feb 2021 13:04:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How To Choose The Best Recruiting Software?]]></title>
+            <link>http://recruitingsoftware.space/</link>
+            <guid>http://recruitingsoftware.space/</guid>
+            <pubDate>Mon, 01 Mar 2021 07:45:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Making a resume with HTML/React + Puppeteer! Updated a guide from a few years ago]]></title>
+            <link>https://wkwok.medium.com/making-a-resume-in-html-or-react-bd1781abcdef</link>
+            <guid>https://wkwok.medium.com/making-a-resume-in-html-or-react-bd1781abcdef</guid>
+            <pubDate>Mon, 01 Mar 2021 06:37:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I made a simple Anime quotes rest API .✨ Link in description]]></title>
             <link>https://animechan.vercel.app/</link>
             <guid>https://animechan.vercel.app/</guid>
             <pubDate>Sun, 28 Feb 2021 11:58:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Problem integrating graphql with Material ui]]></title>
+            <link>https://stackoverflow.com/q/66416549/11246120</link>
+            <guid>https://stackoverflow.com/q/66416549/11246120</guid>
+            <pubDate>Mon, 01 Mar 2021 04:18:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Perspective Animation using Gyroscope in React Native ⚛️]]></title>
+            <link>https://www.youtube.com/watch?v=UpcsleaPDr8</link>
+            <guid>https://www.youtube.com/watch?v=UpcsleaPDr8</guid>
+            <pubDate>Sun, 28 Feb 2021 23:59:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Test-driven Development and React]]></title>
@@ -33,16 +57,16 @@
             <pubDate>Sat, 27 Feb 2021 22:24:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Build a personal website using Next.js and Strapi and would love to get your feedback]]></title>
-            <link>https://mxd.codes/</link>
-            <guid>https://mxd.codes/</guid>
-            <pubDate>Sun, 28 Feb 2021 17:09:08 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[I wrote an article about some tips that can help the beginner or intermediate React developers write effective and maintainable React code, would love to know what you guys think about it]]></title>
             <link>https://prateeksurana.me/blog/javascript-tips-for-react-developers/</link>
             <guid>https://prateeksurana.me/blog/javascript-tips-for-react-developers/</guid>
             <pubDate>Sun, 28 Feb 2021 18:51:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Made a personal website with Next.js and would appreciate some feedback]]></title>
+            <link>https://mxd.codes</link>
+            <guid>https://mxd.codes</guid>
+            <pubDate>Sun, 28 Feb 2021 20:26:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Using React Final Form]]></title>
@@ -61,36 +85,6 @@
             <link>https://giphy.com/gifs/supersimple-youtube-supersimplesongs-fHihVBZj4y7M8MmYrS</link>
             <guid>https://giphy.com/gifs/supersimple-youtube-supersimplesongs-fHihVBZj4y7M8MmYrS</guid>
             <pubDate>Sun, 28 Feb 2021 13:09:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can anyone explain me why componentDidMount is getting called twice here?]]></title>
-            <link>https://codesandbox.io/s/adoring-architecture-3sv8m?file=/src/App.js:0-1021</link>
-            <guid>https://codesandbox.io/s/adoring-architecture-3sv8m?file=/src/App.js:0-1021</guid>
-            <pubDate>Sun, 28 Feb 2021 15:47:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Needs advice regarding coding style]]></title>
-            <link>/r/webdev/comments/ltnbr2/needs_advice_for_project_readabilityscalability/</link>
-            <guid>/r/webdev/comments/ltnbr2/needs_advice_for_project_readabilityscalability/</guid>
-            <pubDate>Sun, 28 Feb 2021 14:28:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My version of a clock on r/oddlysatisfying I saw.]]></title>
-            <link>https://f3hjw.csb.app/</link>
-            <guid>https://f3hjw.csb.app/</guid>
-            <pubDate>Sat, 27 Feb 2021 06:37:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An open source referral management & affiliate tracking software made with react]]></title>
-            <link>https://github.com/WeferralHq/weferral</link>
-            <guid>https://github.com/WeferralHq/weferral</guid>
-            <pubDate>Sun, 28 Feb 2021 10:05:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Create videos in React that viewers can interact with]]></title>
-            <link>https://ractive-player.org</link>
-            <guid>https://ractive-player.org</guid>
-            <pubDate>Sat, 27 Feb 2021 13:24:18 GMT</pubDate>
         </item>
     </channel>
 </rss>

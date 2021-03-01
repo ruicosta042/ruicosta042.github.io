@@ -4,10 +4,34 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Mon, 01 Mar 2021 13:01:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Mar 2021 19:46:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Type Classes in TS pt.2/2]]></title>
+            <link>https://www.youtube.com/watch?v=u4xejli1zSc</link>
+            <guid>https://www.youtube.com/watch?v=u4xejli1zSc</guid>
+            <pubDate>Mon, 01 Mar 2021 18:20:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Full End to End Typescript with Adonis.js and Next.js]]></title>
+            <link>https://www.youtube.com/watch?v=qRhMPseLNRI&amp;feature=emb_logo</link>
+            <guid>https://www.youtube.com/watch?v=qRhMPseLNRI&amp;feature=emb_logo</guid>
+            <pubDate>Mon, 01 Mar 2021 16:42:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[vitejs - Next generation frontend tooling.]]></title>
+            <link>https://github.com/vitejs/vite</link>
+            <guid>https://github.com/vitejs/vite</guid>
+            <pubDate>Mon, 01 Mar 2021 15:52:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Handle Events with LitElement and TypeScript]]></title>
+            <link>https://labs.thisdot.co/blog/how-to-handle-events-with-litelement-and-typescript</link>
+            <guid>https://labs.thisdot.co/blog/how-to-handle-events-with-litelement-and-typescript</guid>
+            <pubDate>Mon, 01 Mar 2021 11:22:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[snyk - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies]]></title>
             <link>https://github.com/snyk/snyk</link>
@@ -15,10 +39,10 @@
             <pubDate>Mon, 01 Mar 2021 03:24:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to Handle Events with LitElement and TypeScript]]></title>
-            <link>https://labs.thisdot.co/blog/how-to-handle-events-with-litelement-and-typescript</link>
-            <guid>https://labs.thisdot.co/blog/how-to-handle-events-with-litelement-and-typescript</guid>
-            <pubDate>Mon, 01 Mar 2021 11:22:33 GMT</pubDate>
+            <title><![CDATA[Is Functional Programming The Silver Bullet? You May Not Like The Answer.]]></title>
+            <link>https://suzdalnitski.medium.com/is-functional-programming-the-silver-bullet-you-may-not-like-the-answer-cb4d3e8c03a7</link>
+            <guid>https://suzdalnitski.medium.com/is-functional-programming-the-silver-bullet-you-may-not-like-the-answer-cb4d3e8c03a7</guid>
+            <pubDate>Mon, 01 Mar 2021 15:12:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Just found out that you can't trust the TS transpiler with union types. A more complicated version of this made it to production and robbed me of my sanity...]]></title>
@@ -61,18 +85,6 @@
             <link>https://wim-jongeneel.medium.com/integrate-excel-into-your-react-application-with-microsoft-graph-94e02f71d847?source=friends_link&amp;sk=9fee21e7f5c893286e61e38719701332</link>
             <guid>https://wim-jongeneel.medium.com/integrate-excel-into-your-react-application-with-microsoft-graph-94e02f71d847?source=friends_link&amp;sk=9fee21e7f5c893286e61e38719701332</guid>
             <pubDate>Thu, 25 Feb 2021 13:54:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Work with Date in Plain Javascript — No Libraries Needed]]></title>
-            <link>https://beforesemicolon.medium.com/how-to-work-with-date-in-plain-javascript-no-libraries-needed-d48c2d31a733</link>
-            <guid>https://beforesemicolon.medium.com/how-to-work-with-date-in-plain-javascript-no-libraries-needed-d48c2d31a733</guid>
-            <pubDate>Thu, 25 Feb 2021 01:27:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The idea of type polyfill]]></title>
-            <link>https://github.com/mistlog/typetype-examples/blob/main/examples/url-parser-2/url-parser-2.type</link>
-            <guid>https://github.com/mistlog/typetype-examples/blob/main/examples/url-parser-2/url-parser-2.type</guid>
-            <pubDate>Wed, 24 Feb 2021 15:15:12 GMT</pubDate>
         </item>
     </channel>
 </rss>

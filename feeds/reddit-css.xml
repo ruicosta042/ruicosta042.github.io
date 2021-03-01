@@ -4,15 +4,69 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Mon, 01 Mar 2021 13:01:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Mar 2021 19:46:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Simple Team Cards using HTML and CSS]]></title>
+            <link>https://youtu.be/8UQaALRkCYU</link>
+            <guid>https://youtu.be/8UQaALRkCYU</guid>
+            <pubDate>Mon, 01 Mar 2021 13:09:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Complete JAVASCRIPT with HTML5,CSS3 from zero to Expert-2021]]></title>
+            <link>https://www.myfreeonlinecourses.com/2021/03/100-off-complete-javascript-with.html</link>
+            <guid>https://www.myfreeonlinecourses.com/2021/03/100-off-complete-javascript-with.html</guid>
+            <pubDate>Mon, 01 Mar 2021 17:42:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Everything You Need to Know About CSS Units]]></title>
+            <link>https://www.webtips.dev/css-units</link>
+            <guid>https://www.webtips.dev/css-units</guid>
+            <pubDate>Mon, 01 Mar 2021 16:11:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HTML Tables with CSS Stying Crash Course]]></title>
+            <link>https://www.youtube.com/watch?v=IGBRYTpgyg4</link>
+            <guid>https://www.youtube.com/watch?v=IGBRYTpgyg4</guid>
+            <pubDate>Mon, 01 Mar 2021 18:22:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CSS 3d Layered Image Hover Effects css || 3d Image hover css]]></title>
+            <link>https://youtu.be/e1787IhWWyg</link>
+            <guid>https://youtu.be/e1787IhWWyg</guid>
+            <pubDate>Mon, 01 Mar 2021 18:10:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Clip Path inc Css .. I need help]]></title>
+            <link>https://schweppes.ca/en/</link>
+            <guid>https://schweppes.ca/en/</guid>
+            <pubDate>Mon, 01 Mar 2021 16:26:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to build an unfolding tooltip with CSS clip-path // HTML & CSS in-depth]]></title>
             <link>https://youtu.be/hEm2td0g60g</link>
             <guid>https://youtu.be/hEm2td0g60g</guid>
             <pubDate>Sun, 28 Feb 2021 16:24:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Finally, a CSS only solution to :hover on touchscreens]]></title>
+            <link>https://medium.com/@mezoistvan/finally-a-css-only-solution-to-hover-on-touchscreens-c498af39c31c</link>
+            <guid>https://medium.com/@mezoistvan/finally-a-css-only-solution-to-hover-on-touchscreens-c498af39c31c</guid>
+            <pubDate>Mon, 01 Mar 2021 14:41:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Something wrong with my html and css?]]></title>
+            <link>/r/css/comments/lv9l10/something_wrong_with_my_html_and_css/</link>
+            <guid>/r/css/comments/lv9l10/something_wrong_with_my_html_and_css/</guid>
+            <pubDate>Mon, 01 Mar 2021 13:46:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Something wrong with my html and css?]]></title>
+            <link>https://neocities.org</link>
+            <guid>https://neocities.org</guid>
+            <pubDate>Mon, 01 Mar 2021 13:45:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to display language-specific quotes in CSS]]></title>
@@ -73,54 +127,6 @@
             <link>https://imgur.com/a/e93g466</link>
             <guid>https://imgur.com/a/e93g466</guid>
             <pubDate>Sat, 27 Feb 2021 21:47:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to add a 100vh header image on a page with a height of 100Vh?]]></title>
-            <link>https://codesandbox.io/s/happy-wright-c85gi?file=/src/App.js:24-287</link>
-            <guid>https://codesandbox.io/s/happy-wright-c85gi?file=/src/App.js:24-287</guid>
-            <pubDate>Sat, 27 Feb 2021 17:44:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Progressive Aspect Ratio]]></title>
-            <link>https://codepen.io/codyhouse/pen/BaQjxRZ</link>
-            <guid>https://codepen.io/codyhouse/pen/BaQjxRZ</guid>
-            <pubDate>Sat, 27 Feb 2021 14:22:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is it possible to do this?]]></title>
-            <link>https://preview.redd.it/of4plkimnvj61.png?width=348&amp;format=png&amp;auto=webp&amp;s=f18a9f208dc0485682f570b39ade2c214f69aee8</link>
-            <guid>https://preview.redd.it/of4plkimnvj61.png?width=348&amp;format=png&amp;auto=webp&amp;s=f18a9f208dc0485682f570b39ade2c214f69aee8</guid>
-            <pubDate>Fri, 26 Feb 2021 19:57:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Improve the readability of the content on your website]]></title>
-            <link>https://piccalil.li/tutorial/improve-the-readability-of-the-content-on-your-website</link>
-            <guid>https://piccalil.li/tutorial/improve-the-readability-of-the-content-on-your-website</guid>
-            <pubDate>Fri, 26 Feb 2021 13:48:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Drawing a lines between two div elements]]></title>
-            <link>https://jsfiddle.net/Apfelirne/s5ewmr6u/14/</link>
-            <guid>https://jsfiddle.net/Apfelirne/s5ewmr6u/14/</guid>
-            <pubDate>Sat, 27 Feb 2021 00:29:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Never seen this before. The whole page stretches when you hover over one of these plus signs to the left and right of the screen (desktop version). Does anyone know how it's done? (it works fine in Firefox or SRWare Iron, but not so much in Chrome, you don't see the transition)]]></title>
-            <link>https://www.gatinel.com/en/chirurgie-de-la-cataracte/implants-cristalliniens/implants-multifocaux/</link>
-            <guid>https://www.gatinel.com/en/chirurgie-de-la-cataracte/implants-cristalliniens/implants-multifocaux/</guid>
-            <pubDate>Fri, 26 Feb 2021 20:07:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Border-color can be given via font color if not stated in "border" property]]></title>
-            <link>https://jsfiddle.net/mujx81L2</link>
-            <guid>https://jsfiddle.net/mujx81L2</guid>
-            <pubDate>Sat, 27 Feb 2021 02:06:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can Anyone Help Me Change My Website's Navigation Menu to Images?]]></title>
-            <link>https://wpg4abm9iw60w54e-53754724549.shopifypreview.com</link>
-            <guid>https://wpg4abm9iw60w54e-53754724549.shopifypreview.com</guid>
-            <pubDate>Fri, 26 Feb 2021 20:03:58 GMT</pubDate>
         </item>
     </channel>
 </rss>

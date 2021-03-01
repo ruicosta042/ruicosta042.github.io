@@ -4,10 +4,40 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Mon, 01 Mar 2021 13:01:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Mar 2021 19:46:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Docker + Node.js/express tutorial: Building dev/prod workflow with docker and Node.js]]></title>
+            <link>https://youtu.be/gm_L69NHuHM</link>
+            <guid>https://youtu.be/gm_L69NHuHM</guid>
+            <pubDate>Mon, 01 Mar 2021 15:17:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Super easy Node function in the cloud]]></title>
+            <link>https://tinyfunction.com</link>
+            <guid>https://tinyfunction.com</guid>
+            <pubDate>Mon, 01 Mar 2021 14:42:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What are Typescript Types - In-depth explanation]]></title>
+            <link>https://youtu.be/eaUOIzLXIbg</link>
+            <guid>https://youtu.be/eaUOIzLXIbg</guid>
+            <pubDate>Mon, 01 Mar 2021 18:02:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Get the contents of a URL with Expressjs]]></title>
+            <link>https://opentdb.com/api.php?amount=1&amp;category=23&amp;difficulty=medium&amp;type=multiple</link>
+            <guid>https://opentdb.com/api.php?amount=1&amp;category=23&amp;difficulty=medium&amp;type=multiple</guid>
+            <pubDate>Mon, 01 Mar 2021 03:38:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Node.js Modules, Packages, and SemVer]]></title>
+            <link>https://thomashunter.name/posts/2021-02-08-nodejs-modules-packages-and-semver/#</link>
+            <guid>https://thomashunter.name/posts/2021-02-08-nodejs-modules-packages-and-semver/#</guid>
+            <pubDate>Mon, 01 Mar 2021 17:01:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A simple JWT auth library to save you from writing authentication boilerplate, supports refresh tokens and is compatible with express-session store libraries]]></title>
             <link>https://github.com/Mahamed-Belkheir/qufl</link>
@@ -15,10 +45,10 @@
             <pubDate>Sun, 28 Feb 2021 11:02:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Get the contents of a URL with Expressjs]]></title>
-            <link>https://opentdb.com/api.php?amount=1&amp;category=23&amp;difficulty=medium&amp;type=multiple</link>
-            <guid>https://opentdb.com/api.php?amount=1&amp;category=23&amp;difficulty=medium&amp;type=multiple</guid>
-            <pubDate>Mon, 01 Mar 2021 03:38:10 GMT</pubDate>
+            <title><![CDATA[Is Functional Programming The Silver Bullet? You May Not Like The Answer.]]></title>
+            <link>https://suzdalnitski.medium.com/is-functional-programming-the-silver-bullet-you-may-not-like-the-answer-cb4d3e8c03a7</link>
+            <guid>https://suzdalnitski.medium.com/is-functional-programming-the-silver-bullet-you-may-not-like-the-answer-cb4d3e8c03a7</guid>
+            <pubDate>Mon, 01 Mar 2021 14:45:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In Console 42 we got an interview with the lead developer of a Node.js based open-source feature flagging service. I thought this group might be interested in checking it out!]]></title>
@@ -45,34 +75,10 @@
             <pubDate>Sun, 28 Feb 2021 01:22:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What packages/platform should I use for the following "project"?]]></title>
-            <link>https://www.memecenter.com/fun/3377699729005928/bonk-me/comments</link>
-            <guid>https://www.memecenter.com/fun/3377699729005928/bonk-me/comments</guid>
-            <pubDate>Sun, 28 Feb 2021 20:12:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[How To Build A Phone Tracker App - part 1 Server]]></title>
             <link>https://www.youtube.com/watch?v=QlIDoZmWanM</link>
             <guid>https://www.youtube.com/watch?v=QlIDoZmWanM</guid>
             <pubDate>Sun, 28 Feb 2021 15:58:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Accept cryptocurrency payments with Coinqvest for NodeJS]]></title>
-            <link>https://juancurti.medium.com/accept-cryptocurrency-payments-with-coinqvest-for-nodejs-c6b42aec4d78</link>
-            <guid>https://juancurti.medium.com/accept-cryptocurrency-payments-with-coinqvest-for-nodejs-c6b42aec4d78</guid>
-            <pubDate>Sun, 28 Feb 2021 19:10:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fetching cryptocurrency prices with CoinGecko using NodeJS]]></title>
-            <link>https://juancurti.medium.com/fetching-cryptocurrency-prices-with-coingecko-using-nodejs-29d5455bf57c</link>
-            <guid>https://juancurti.medium.com/fetching-cryptocurrency-prices-with-coingecko-using-nodejs-29d5455bf57c</guid>
-            <pubDate>Sun, 28 Feb 2021 17:56:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Modern JavaScript for React JS - ES6.]]></title>
-            <link>https://www.myfreeonlinecourses.com/2021/02/100-off-modern-javascript-for-react-js.html</link>
-            <guid>https://www.myfreeonlinecourses.com/2021/02/100-off-modern-javascript-for-react-js.html</guid>
-            <pubDate>Sun, 28 Feb 2021 11:36:31 GMT</pubDate>
         </item>
     </channel>
 </rss>

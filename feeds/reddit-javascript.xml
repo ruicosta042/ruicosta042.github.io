@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Mon, 01 Mar 2021 13:01:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Mar 2021 19:46:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,40 @@
             <pubDate>Mon, 01 Mar 2021 10:05:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[What's New In DevTools (Chrome 90)]]></title>
+            <link>https://developers.google.com/web/updates/2021/02/devtools</link>
+            <guid>https://developers.google.com/web/updates/2021/02/devtools</guid>
+            <pubDate>Mon, 01 Mar 2021 14:08:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Paperclip: A DSL for presentational web components]]></title>
+            <link>https://59bb.medium.com/introducing-paperclip-f392a42311d6</link>
+            <guid>https://59bb.medium.com/introducing-paperclip-f392a42311d6</guid>
+            <pubDate>Mon, 01 Mar 2021 16:09:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What I look forward to about web development in 2021]]></title>
             <link>https://blog.6nok.org/what-i-look-forward-to-about-web-development-in-2021/</link>
             <guid>https://blog.6nok.org/what-i-look-forward-to-about-web-development-in-2021/</guid>
             <pubDate>Mon, 01 Mar 2021 02:49:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[vitejs - Next generation frontend tooling.]]></title>
+            <link>https://github.com/vitejs/vite</link>
+            <guid>https://github.com/vitejs/vite</guid>
+            <pubDate>Mon, 01 Mar 2021 15:52:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Change Look & Feel of Pseudo Elements using JavaScript and CSS Custom Properties]]></title>
+            <link>https://blog.shhdharmen.me/how-to-change-look-and-feel-of-pseudo-elements-using-javascript-and-css-custom-properties/#</link>
+            <guid>https://blog.shhdharmen.me/how-to-change-look-and-feel-of-pseudo-elements-using-javascript-and-css-custom-properties/#</guid>
+            <pubDate>Mon, 01 Mar 2021 17:02:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rollup - JavaScript Obfuscator]]></title>
+            <link>https://github.com/AlirezaHashemi0/rollup-plugin-obfuscator</link>
+            <guid>https://github.com/AlirezaHashemi0/rollup-plugin-obfuscator</guid>
+            <pubDate>Mon, 01 Mar 2021 18:03:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Form state management with React Final Form]]></title>
@@ -27,10 +57,22 @@
             <pubDate>Mon, 01 Mar 2021 08:42:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How to handle component interaction in React]]></title>
+            <link>https://www.infoworld.com/article/3609210/how-to-handle-component-interaction-in-react.html</link>
+            <guid>https://www.infoworld.com/article/3609210/how-to-handle-component-interaction-in-react.html</guid>
+            <pubDate>Mon, 01 Mar 2021 15:26:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Reading an Excel file in node]]></title>
             <link>https://javascript.plainenglish.io/how-to-read-an-excel-file-in-node-js-6e669e9a3ce1</link>
             <guid>https://javascript.plainenglish.io/how-to-read-an-excel-file-in-node-js-6e669e9a3ce1</guid>
             <pubDate>Sun, 28 Feb 2021 11:31:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Still, Going Native Is Better Than React Native and Flutter]]></title>
+            <link>https://shalithasuranga.medium.com/still-going-native-is-better-than-react-native-and-flutter-2347d6c38695</link>
+            <guid>https://shalithasuranga.medium.com/still-going-native-is-better-than-react-native-and-flutter-2347d6c38695</guid>
+            <pubDate>Mon, 01 Mar 2021 16:33:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[snyk - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies]]></title>
@@ -57,6 +99,12 @@
             <pubDate>Sun, 28 Feb 2021 21:14:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Is Functional Programming The Silver Bullet? You May Not Like The Answer.]]></title>
+            <link>https://suzdalnitski.medium.com/is-functional-programming-the-silver-bullet-you-may-not-like-the-answer-cb4d3e8c03a7</link>
+            <guid>https://suzdalnitski.medium.com/is-functional-programming-the-silver-bullet-you-may-not-like-the-answer-cb4d3e8c03a7</guid>
+            <pubDate>Mon, 01 Mar 2021 14:33:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[JS work-around for fixing how CSS vw/vh units aren't computed reliably on various mobile devices]]></title>
             <link>https://gist.github.com/getify/150ea5a3b30b8822dee7798883d120b9</link>
             <guid>https://gist.github.com/getify/150ea5a3b30b8822dee7798883d120b9</guid>
@@ -79,12 +127,6 @@
             <link>https://craigtaub.dev/under-the-hood-of-git</link>
             <guid>https://craigtaub.dev/under-the-hood-of-git</guid>
             <pubDate>Sat, 27 Feb 2021 12:39:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In Console 42 we got an interview with the lead developer of a Node.js based open-source feature flagging service. I thought this group might be interested in checking it out!]]></title>
-            <link>https://console.substack.com/p/console-42?r=3cbez&amp;utm_campaign=post&amp;utm_medium=web&amp;utm_source=javascript_subreddit</link>
-            <guid>https://console.substack.com/p/console-42?r=3cbez&amp;utm_campaign=post&amp;utm_medium=web&amp;utm_source=javascript_subreddit</guid>
-            <pubDate>Sun, 28 Feb 2021 16:04:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Just another COVID19 Statistics Website for my school project and for my first try with Next.js and Material UI.]]></title>
@@ -121,48 +163,6 @@
             <link>https://github.com/Pemson18/Dispr</link>
             <guid>https://github.com/Pemson18/Dispr</guid>
             <pubDate>Sat, 27 Feb 2021 18:35:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I created STARTD. It is a free open source landing page template. Built with Next.js, TypeScript and Twind.]]></title>
-            <link>https://github.com/jkytoela/next-startd</link>
-            <guid>https://github.com/jkytoela/next-startd</guid>
-            <pubDate>Fri, 26 Feb 2021 13:09:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Node-efficientnet – image recognition model written in Node.js and TypeScript]]></title>
-            <link>https://github.com/ntedgi/node-efficientnet</link>
-            <guid>https://github.com/ntedgi/node-efficientnet</guid>
-            <pubDate>Sat, 27 Feb 2021 15:33:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CSS-in-JS support in DevTools | Web | Google Developers]]></title>
-            <link>https://developers.google.com/web/updates/2021/02/css-in-js</link>
-            <guid>https://developers.google.com/web/updates/2021/02/css-in-js</guid>
-            <pubDate>Fri, 26 Feb 2021 14:38:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I built an open source Next.js app to visualize/auto generate GraphQL schemas]]></title>
-            <link>https://github.com/oslabs-beta/giraffeQL</link>
-            <guid>https://github.com/oslabs-beta/giraffeQL</guid>
-            <pubDate>Fri, 26 Feb 2021 14:21:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Create videos in React that viewers can interact with]]></title>
-            <link>https://ractive-player.org/</link>
-            <guid>https://ractive-player.org/</guid>
-            <pubDate>Thu, 25 Feb 2021 15:09:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Page builder with Netlify CMS and Next.js]]></title>
-            <link>https://www.luckymedia.dev/blog/page-builder-with-netlify-cms-and-next-js</link>
-            <guid>https://www.luckymedia.dev/blog/page-builder-with-netlify-cms-and-next-js</guid>
-            <pubDate>Fri, 26 Feb 2021 15:19:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Find 850+ remote job openings hand-picked from Hacker News who is hiring - February]]></title>
-            <link>https://remoteleaf.com/whoishiring</link>
-            <guid>https://remoteleaf.com/whoishiring</guid>
-            <pubDate>Fri, 26 Feb 2021 15:03:43 GMT</pubDate>
         </item>
     </channel>
 </rss>

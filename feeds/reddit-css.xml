@@ -4,10 +4,28 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Tue, 02 Mar 2021 07:47:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Mar 2021 12:53:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Ben Nadel: Using CSS :target Pseudo-Class To Toggle Element Display]]></title>
+            <link>https://www.bennadel.com/blog/3970-using-css-target-pseudo-class-to-toggle-element-display.htm</link>
+            <guid>https://www.bennadel.com/blog/3970-using-css-target-pseudo-class-to-toggle-element-display.htm</guid>
+            <pubDate>Tue, 02 Mar 2021 10:24:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How can I get the whole button within the black border to change color?]]></title>
+            <link>https://codepen.io/KingAresIV/pen/PobeaMz</link>
+            <guid>https://codepen.io/KingAresIV/pen/PobeaMz</guid>
+            <pubDate>Tue, 02 Mar 2021 12:29:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Map Mouse Position in CSS]]></title>
+            <link>https://css-tricks.com/how-to-map-mouse-position-in-css/</link>
+            <guid>https://css-tricks.com/how-to-map-mouse-position-in-css/</guid>
+            <pubDate>Tue, 02 Mar 2021 10:41:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Simple Team Cards using HTML and CSS]]></title>
             <link>https://youtu.be/8UQaALRkCYU</link>
@@ -57,6 +75,12 @@
             <pubDate>Mon, 01 Mar 2021 22:46:32 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Finally, a CSS only solution to :hover on touchscreens]]></title>
+            <link>https://medium.com/@mezoistvan/finally-a-css-only-solution-to-hover-on-touchscreens-c498af39c31c</link>
+            <guid>https://medium.com/@mezoistvan/finally-a-css-only-solution-to-hover-on-touchscreens-c498af39c31c</guid>
+            <pubDate>Mon, 01 Mar 2021 14:41:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[HTML Tables with CSS Stying Crash Course]]></title>
             <link>https://www.youtube.com/watch?v=IGBRYTpgyg4</link>
             <guid>https://www.youtube.com/watch?v=IGBRYTpgyg4</guid>
@@ -67,12 +91,6 @@
             <link>https://schweppes.ca/en/</link>
             <guid>https://schweppes.ca/en/</guid>
             <pubDate>Mon, 01 Mar 2021 16:26:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finally, a CSS only solution to :hover on touchscreens]]></title>
-            <link>https://medium.com/@mezoistvan/finally-a-css-only-solution-to-hover-on-touchscreens-c498af39c31c</link>
-            <guid>https://medium.com/@mezoistvan/finally-a-css-only-solution-to-hover-on-touchscreens-c498af39c31c</guid>
-            <pubDate>Mon, 01 Mar 2021 14:41:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to build an unfolding tooltip with CSS clip-path // HTML & CSS in-depth]]></title>
@@ -103,36 +121,6 @@
             <link>https://youtu.be/uVsLoY6FF3E</link>
             <guid>https://youtu.be/uVsLoY6FF3E</guid>
             <pubDate>Sun, 28 Feb 2021 18:57:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mix-blend-mode not being recognized in Chrome]]></title>
-            <link>https://jsfiddle.net/0wsqtery/</link>
-            <guid>https://jsfiddle.net/0wsqtery/</guid>
-            <pubDate>Sun, 28 Feb 2021 17:23:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to add boxes like on this site?]]></title>
-            <link>https://redditsave.com/info?url=/r/bigfloppa/comments/lug2bv/floppa_nooooo/</link>
-            <guid>https://redditsave.com/info?url=/r/bigfloppa/comments/lug2bv/floppa_nooooo/</guid>
-            <pubDate>Sun, 28 Feb 2021 20:45:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scrollable sidebar but not main page? Bootstrap]]></title>
-            <link>https://jsfiddle.net/kyqew6Ls/</link>
-            <guid>https://jsfiddle.net/kyqew6Ls/</guid>
-            <pubDate>Sun, 28 Feb 2021 12:28:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Simple CSS Problem]]></title>
-            <link>https://stephenmcateer.co.uk/shop/product/91-94-no-6/?v=79cba1185463</link>
-            <guid>https://stephenmcateer.co.uk/shop/product/91-94-no-6/?v=79cba1185463</guid>
-            <pubDate>Sun, 28 Feb 2021 14:58:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Skeleton Loading using HTML and CSS]]></title>
-            <link>https://youtu.be/kMHMAHzjXG8</link>
-            <guid>https://youtu.be/kMHMAHzjXG8</guid>
-            <pubDate>Sat, 27 Feb 2021 15:50:31 GMT</pubDate>
         </item>
     </channel>
 </rss>

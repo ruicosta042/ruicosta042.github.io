@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Tue, 02 Mar 2021 07:47:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Mar 2021 12:53:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,10 +21,22 @@
             <pubDate>Mon, 01 Mar 2021 15:56:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[My first open-source full-stack react app, made with MERN stack & cloudinary API. I made this 6 months back, finally decided to public the repo.]]></title>
+            <link>https://v.redd.it/xtz24104pkk61</link>
+            <guid>https://v.redd.it/xtz24104pkk61</guid>
+            <pubDate>Tue, 02 Mar 2021 08:10:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Form validation with React Hooks WITHOUT a library: The Complete Guide]]></title>
             <link>https://felixgerschau.com/react-hooks-form-validation-typescript/</link>
             <guid>https://felixgerschau.com/react-hooks-form-validation-typescript/</guid>
             <pubDate>Mon, 01 Mar 2021 20:02:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hey Guys, checkout another video in "React Hooks" series. "Learn useMemo in 10 Minutes". React hooks for Beginners.]]></title>
+            <link>https://youtu.be/fzd2bvlyr70</link>
+            <guid>https://youtu.be/fzd2bvlyr70</guid>
+            <pubDate>Tue, 02 Mar 2021 10:37:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Introducing Leva, a GUI made for React]]></title>
@@ -39,16 +51,58 @@
             <pubDate>Tue, 02 Mar 2021 04:13:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Make A PWA With React For Your Business. Only if you are looking to make $s from it.]]></title>
-            <link>https://www.resourcifi.com/blog/how-to-make-a-pwa-using-react/</link>
-            <guid>https://www.resourcifi.com/blog/how-to-make-a-pwa-using-react/</guid>
-            <pubDate>Tue, 02 Mar 2021 07:37:27 GMT</pubDate>
+            <title><![CDATA[Hello! I wanna share my first npm package, it's a canvas based chart for React!]]></title>
+            <link>https://github.com/AlexTaietti/poly-chart</link>
+            <guid>https://github.com/AlexTaietti/poly-chart</guid>
+            <pubDate>Tue, 02 Mar 2021 09:57:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[how to get path to image element in console]]></title>
+            <link>https://imgur.com/a/pA8uoDz</link>
+            <guid>https://imgur.com/a/pA8uoDz</guid>
+            <pubDate>Tue, 02 Mar 2021 12:46:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Learn Material UI in One Hour - Project Tutorial [2021]]]></title>
+            <link>https://youtu.be/Xoz31I1FuiY</link>
+            <guid>https://youtu.be/Xoz31I1FuiY</guid>
+            <pubDate>Tue, 02 Mar 2021 10:30:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to persist setState to each component in a div]]></title>
+            <link>https://github.com/syedzayyan/96wellplate/blob/main/src/App.js</link>
+            <guid>https://github.com/syedzayyan/96wellplate/blob/main/src/App.js</guid>
+            <pubDate>Tue, 02 Mar 2021 09:47:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[Academic] Final project concerning web designers and developers (React developers and/or AdobeXD designers)]]></title>
+            <link>https://coventry.onlinesurveys.ac.uk/final-year-project-from-adobexd-to-reactjs</link>
+            <guid>https://coventry.onlinesurveys.ac.uk/final-year-project-from-adobexd-to-reactjs</guid>
+            <pubDate>Tue, 02 Mar 2021 09:33:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React developers can now work together on xs:code and help each other also on VScode]]></title>
+            <link>https://xscode.com/leaderboards/react</link>
+            <guid>https://xscode.com/leaderboards/react</guid>
+            <pubDate>Tue, 02 Mar 2021 08:44:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I created a helper library for lazy-loading translations in your React app, and I just launched 2.0.]]></title>
             <link>https://www.npmjs.com/package/lazy-i18n</link>
             <guid>https://www.npmjs.com/package/lazy-i18n</guid>
             <pubDate>Mon, 01 Mar 2021 22:24:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tailwind + Framer Motion [PT-BR]]]></title>
+            <link>https://youtu.be/4LAWU71W24A</link>
+            <guid>https://youtu.be/4LAWU71W24A</guid>
+            <pubDate>Tue, 02 Mar 2021 02:04:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Make A PWA With React For Your Business. Only if you are looking to make $s from it.]]></title>
+            <link>https://www.resourcifi.com/blog/how-to-make-a-pwa-using-react/</link>
+            <guid>https://www.resourcifi.com/blog/how-to-make-a-pwa-using-react/</guid>
+            <pubDate>Tue, 02 Mar 2021 07:37:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Use Streaming Imports (Snowpack) to Improve Development Workflow and Save Hard Disk Space]]></title>
@@ -69,58 +123,10 @@
             <pubDate>Tue, 02 Mar 2021 06:55:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tailwind + Framer Motion [PT-BR]]]></title>
-            <link>https://youtu.be/4LAWU71W24A</link>
-            <guid>https://youtu.be/4LAWU71W24A</guid>
-            <pubDate>Tue, 02 Mar 2021 02:04:20 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Create lovely React 3D Animated Card | Beginner REACT.JS Animation with framer-motion]]></title>
             <link>https://youtu.be/cPKiilXlHAQ</link>
             <guid>https://youtu.be/cPKiilXlHAQ</guid>
             <pubDate>Mon, 01 Mar 2021 11:13:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We Are Hiring ReactJS Developer (Work from Home)]]></title>
-            <link>https://www.linkedin.com/company/messagemedia/</link>
-            <guid>https://www.linkedin.com/company/messagemedia/</guid>
-            <pubDate>Tue, 02 Mar 2021 05:03:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kent C Dodds Course Worth It?]]></title>
-            <link>https://epicreact.dev</link>
-            <guid>https://epicreact.dev</guid>
-            <pubDate>Mon, 01 Mar 2021 18:06:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mastering Typescript for React Hooks]]></title>
-            <link>https://medium.com/javascript-in-plain-english/mastering-typescript-for-react-hooks-3e9e9e3797d7/#</link>
-            <guid>https://medium.com/javascript-in-plain-english/mastering-typescript-for-react-hooks-3e9e9e3797d7/#</guid>
-            <pubDate>Mon, 01 Mar 2021 17:04:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[useRateLimitedCallback]]></title>
-            <link>https://gist.github.com/johnloven/32da29cd73611ddd5f7235573c6a450f</link>
-            <guid>https://gist.github.com/johnloven/32da29cd73611ddd5f7235573c6a450f</guid>
-            <pubDate>Tue, 02 Mar 2021 00:03:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Make a simple Image Classification / Identification app using React and Tensorflow JS]]></title>
-            <link>https://youtu.be/KQlfu1JiRdY</link>
-            <guid>https://youtu.be/KQlfu1JiRdY</guid>
-            <pubDate>Mon, 01 Mar 2021 23:32:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Instagram Clone - React Tutorial - Tailwind CSS - Firebase - React Testing Library - Cypress]]></title>
-            <link>https://www.youtube.com/watch?v=AKeaaa8yAAk</link>
-            <guid>https://www.youtube.com/watch?v=AKeaaa8yAAk</guid>
-            <pubDate>Sun, 28 Feb 2021 13:04:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GraphQL on the client side with Apollo, React, and TypeScript]]></title>
-            <link>https://wanago.io/2021/03/01/graphql-apollo-client-react-typescript/</link>
-            <guid>https://wanago.io/2021/03/01/graphql-apollo-client-react-typescript/</guid>
-            <pubDate>Mon, 01 Mar 2021 16:26:14 GMT</pubDate>
         </item>
     </channel>
 </rss>

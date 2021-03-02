@@ -4,7 +4,7 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Tue, 02 Mar 2021 07:47:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Mar 2021 12:53:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,10 +21,34 @@
             <pubDate>Tue, 02 Mar 2021 03:38:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Introducing a new Node library for accessing the Shopify Admin API]]></title>
+            <link>https://github.com/Shopify/shopify-node-api/blob/main/docs/index.md</link>
+            <guid>https://github.com/Shopify/shopify-node-api/blob/main/docs/index.md</guid>
+            <pubDate>Tue, 02 Mar 2021 07:50:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Poolifier and other Nodejs thread pool implementations compared]]></title>
+            <link>https://alessandroardizio94.medium.com/poolifier-as-node-js-thread-cluster-pool-f6865f14285d</link>
+            <guid>https://alessandroardizio94.medium.com/poolifier-as-node-js-thread-cluster-pool-f6865f14285d</guid>
+            <pubDate>Tue, 02 Mar 2021 08:06:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Computerphile on nodejs]]></title>
             <link>https://youtu.be/whwa7ua_RbA</link>
             <guid>https://youtu.be/whwa7ua_RbA</guid>
             <pubDate>Tue, 02 Mar 2021 00:44:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Node.js Best Practices]]></title>
+            <link>https://www.tatvasoft.com/blog/node-js-best-practices/</link>
+            <guid>https://www.tatvasoft.com/blog/node-js-best-practices/</guid>
+            <pubDate>Tue, 02 Mar 2021 10:09:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to decode an iOS assertion object in Node.js?]]></title>
+            <link>https://developer.apple.com/documentation/devicecheck/dcappattestservice</link>
+            <guid>https://developer.apple.com/documentation/devicecheck/dcappattestservice</guid>
+            <pubDate>Tue, 02 Mar 2021 10:08:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Super easy Node function in the cloud]]></title>
@@ -73,24 +97,6 @@
             <link>https://github.com/Mahamed-Belkheir/qufl</link>
             <guid>https://github.com/Mahamed-Belkheir/qufl</guid>
             <pubDate>Sun, 28 Feb 2021 11:02:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Functional Programming The Silver Bullet? You May Not Like The Answer.]]></title>
-            <link>https://suzdalnitski.medium.com/is-functional-programming-the-silver-bullet-you-may-not-like-the-answer-cb4d3e8c03a7</link>
-            <guid>https://suzdalnitski.medium.com/is-functional-programming-the-silver-bullet-you-may-not-like-the-answer-cb4d3e8c03a7</guid>
-            <pubDate>Mon, 01 Mar 2021 14:45:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In Console 42 we got an interview with the lead developer of a Node.js based open-source feature flagging service. I thought this group might be interested in checking it out!]]></title>
-            <link>https://console.substack.com/p/console-42?r=3cbez&amp;utm_campaign=post&amp;utm_medium=web&amp;utm_source=node_subreddit</link>
-            <guid>https://console.substack.com/p/console-42?r=3cbez&amp;utm_campaign=post&amp;utm_medium=web&amp;utm_source=node_subreddit</guid>
-            <pubDate>Sun, 28 Feb 2021 16:05:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[snyk - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies]]></title>
-            <link>https://github.com/snyk/snyk</link>
-            <guid>https://github.com/snyk/snyk</guid>
-            <pubDate>Mon, 01 Mar 2021 03:24:40 GMT</pubDate>
         </item>
     </channel>
 </rss>

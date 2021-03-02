@@ -4,10 +4,16 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Tue, 02 Mar 2021 07:47:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Mar 2021 12:53:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Find missing cases in your switch statements]]></title>
+            <link>https://www.youtube.com/watch?v=8N_P-l5Kukk</link>
+            <guid>https://www.youtube.com/watch?v=8N_P-l5Kukk</guid>
+            <pubDate>Tue, 02 Mar 2021 10:58:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Full End to End Typescript with Adonis.js and Next.js]]></title>
             <link>https://www.youtube.com/watch?v=qRhMPseLNRI&amp;feature=emb_logo</link>
@@ -79,12 +85,6 @@
             <link>https://github.com/JakePartusch/serverlessui</link>
             <guid>https://github.com/JakePartusch/serverlessui</guid>
             <pubDate>Thu, 25 Feb 2021 16:20:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Integrate Excel into Your React Application with Microsoft Graph]]></title>
-            <link>https://wim-jongeneel.medium.com/integrate-excel-into-your-react-application-with-microsoft-graph-94e02f71d847?source=friends_link&amp;sk=9fee21e7f5c893286e61e38719701332</link>
-            <guid>https://wim-jongeneel.medium.com/integrate-excel-into-your-react-application-with-microsoft-graph-94e02f71d847?source=friends_link&amp;sk=9fee21e7f5c893286e61e38719701332</guid>
-            <pubDate>Thu, 25 Feb 2021 13:54:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

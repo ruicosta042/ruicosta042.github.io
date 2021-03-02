@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Mon, 01 Mar 2021 19:46:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Mar 2021 07:47:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,12 @@
             <link>https://youtu.be/8UQaALRkCYU</link>
             <guid>https://youtu.be/8UQaALRkCYU</guid>
             <pubDate>Mon, 01 Mar 2021 13:09:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Custom Progress Indicator for upload, download and forms]]></title>
+            <link>https://youtu.be/1fdxT7TJBfM</link>
+            <guid>https://youtu.be/1fdxT7TJBfM</guid>
+            <pubDate>Mon, 01 Mar 2021 21:54:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Complete JAVASCRIPT with HTML5,CSS3 from zero to Expert-2021]]></title>
@@ -27,10 +33,10 @@
             <pubDate>Mon, 01 Mar 2021 16:11:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[HTML Tables with CSS Stying Crash Course]]></title>
-            <link>https://www.youtube.com/watch?v=IGBRYTpgyg4</link>
-            <guid>https://www.youtube.com/watch?v=IGBRYTpgyg4</guid>
-            <pubDate>Mon, 01 Mar 2021 18:22:40 GMT</pubDate>
+            <title><![CDATA[Why does this not work? I want to make it so that if I hover over the google button in the services section, the lighter version of the image replaces the old one. preferably I would just have a white filter on the image, but that doesn't seem possible.]]></title>
+            <link>https://codepen.io/johnywuijtssl/project/editor/AaVEwN</link>
+            <guid>https://codepen.io/johnywuijtssl/project/editor/AaVEwN</guid>
+            <pubDate>Mon, 01 Mar 2021 19:50:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[CSS 3d Layered Image Hover Effects css || 3d Image hover css]]></title>
@@ -39,22 +45,40 @@
             <pubDate>Mon, 01 Mar 2021 18:10:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[[Question] Border with different gradients only with CSS]]></title>
+            <link>https://preview.redd.it/3uwqtpsm8ik61.png?width=360&amp;format=png&amp;auto=webp&amp;s=5597ddda7914ee090c45e8dd0255d6b2d8f7d1cf</link>
+            <guid>https://preview.redd.it/3uwqtpsm8ik61.png?width=360&amp;format=png&amp;auto=webp&amp;s=5597ddda7914ee090c45e8dd0255d6b2d8f7d1cf</guid>
+            <pubDate>Mon, 01 Mar 2021 23:58:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[can someone rate the css ?]]></title>
+            <link>https://htmlcss00.netlify.app/</link>
+            <guid>https://htmlcss00.netlify.app/</guid>
+            <pubDate>Mon, 01 Mar 2021 22:46:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HTML Tables with CSS Stying Crash Course]]></title>
+            <link>https://www.youtube.com/watch?v=IGBRYTpgyg4</link>
+            <guid>https://www.youtube.com/watch?v=IGBRYTpgyg4</guid>
+            <pubDate>Mon, 01 Mar 2021 18:22:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Clip Path inc Css .. I need help]]></title>
             <link>https://schweppes.ca/en/</link>
             <guid>https://schweppes.ca/en/</guid>
             <pubDate>Mon, 01 Mar 2021 16:26:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to build an unfolding tooltip with CSS clip-path // HTML & CSS in-depth]]></title>
-            <link>https://youtu.be/hEm2td0g60g</link>
-            <guid>https://youtu.be/hEm2td0g60g</guid>
-            <pubDate>Sun, 28 Feb 2021 16:24:38 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Finally, a CSS only solution to :hover on touchscreens]]></title>
             <link>https://medium.com/@mezoistvan/finally-a-css-only-solution-to-hover-on-touchscreens-c498af39c31c</link>
             <guid>https://medium.com/@mezoistvan/finally-a-css-only-solution-to-hover-on-touchscreens-c498af39c31c</guid>
             <pubDate>Mon, 01 Mar 2021 14:41:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to build an unfolding tooltip with CSS clip-path // HTML & CSS in-depth]]></title>
+            <link>https://youtu.be/hEm2td0g60g</link>
+            <guid>https://youtu.be/hEm2td0g60g</guid>
+            <pubDate>Sun, 28 Feb 2021 16:24:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Something wrong with my html and css?]]></title>
@@ -109,24 +133,6 @@
             <link>https://youtu.be/kMHMAHzjXG8</link>
             <guid>https://youtu.be/kMHMAHzjXG8</guid>
             <pubDate>Sat, 27 Feb 2021 15:50:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Things I Add to Tailwind CSS Right Out of the Box]]></title>
-            <link>https://css-tricks.com/custom-tailwind-css/</link>
-            <guid>https://css-tricks.com/custom-tailwind-css/</guid>
-            <pubDate>Sat, 27 Feb 2021 19:50:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fonts that match well with Sans-Serif and Arial to help prevent CLS issues with Web Core Vitals?]]></title>
-            <link>https://web.dev/cls/</link>
-            <guid>https://web.dev/cls/</guid>
-            <pubDate>Sun, 28 Feb 2021 02:44:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why is there an enormous space at the top of this HTML template email?]]></title>
-            <link>https://imgur.com/a/e93g466</link>
-            <guid>https://imgur.com/a/e93g466</guid>
-            <pubDate>Sat, 27 Feb 2021 21:47:24 GMT</pubDate>
         </item>
     </channel>
 </rss>

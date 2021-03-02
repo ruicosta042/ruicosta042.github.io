@@ -4,7 +4,7 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Mon, 01 Mar 2021 19:46:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Mar 2021 07:47:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,22 +15,52 @@
             <pubDate>Mon, 01 Mar 2021 15:17:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[looking for node development opportunity]]></title>
+            <link>https://ensembleducation.org</link>
+            <guid>https://ensembleducation.org</guid>
+            <pubDate>Tue, 02 Mar 2021 03:38:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Computerphile on nodejs]]></title>
+            <link>https://youtu.be/whwa7ua_RbA</link>
+            <guid>https://youtu.be/whwa7ua_RbA</guid>
+            <pubDate>Tue, 02 Mar 2021 00:44:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A Super easy Node function in the cloud]]></title>
             <link>https://tinyfunction.com</link>
             <guid>https://tinyfunction.com</guid>
             <pubDate>Mon, 01 Mar 2021 14:42:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What are Typescript Types - In-depth explanation]]></title>
-            <link>https://youtu.be/eaUOIzLXIbg</link>
-            <guid>https://youtu.be/eaUOIzLXIbg</guid>
-            <pubDate>Mon, 01 Mar 2021 18:02:55 GMT</pubDate>
+            <title><![CDATA[Callback URL when in development for passport-instagram]]></title>
+            <link>https://tolocalhost.com/</link>
+            <guid>https://tolocalhost.com/</guid>
+            <pubDate>Tue, 02 Mar 2021 03:51:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[dependency conflicts -- zoinks!]]></title>
+            <link>https://preview.redd.it/za8fd0ef5ik61.png?width=1500&amp;format=png&amp;auto=webp&amp;s=b2c26acb0cd61f9f064f8bd45ebb90887e09c864</link>
+            <guid>https://preview.redd.it/za8fd0ef5ik61.png?width=1500&amp;format=png&amp;auto=webp&amp;s=b2c26acb0cd61f9f064f8bd45ebb90887e09c864</guid>
+            <pubDate>Mon, 01 Mar 2021 23:36:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Connect NodeJS API to native MongoDB driver with event emitter using classes & prototype for comparison]]></title>
+            <link>https://youtube.com/watch?v=U5ZHhXHGqEM&amp;feature=share</link>
+            <guid>https://youtube.com/watch?v=U5ZHhXHGqEM&amp;feature=share</guid>
+            <pubDate>Mon, 01 Mar 2021 21:42:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Get the contents of a URL with Expressjs]]></title>
             <link>https://opentdb.com/api.php?amount=1&amp;category=23&amp;difficulty=medium&amp;type=multiple</link>
             <guid>https://opentdb.com/api.php?amount=1&amp;category=23&amp;difficulty=medium&amp;type=multiple</guid>
             <pubDate>Mon, 01 Mar 2021 03:38:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What are Typescript Types - In-depth explanation]]></title>
+            <link>https://youtu.be/eaUOIzLXIbg</link>
+            <guid>https://youtu.be/eaUOIzLXIbg</guid>
+            <pubDate>Mon, 01 Mar 2021 18:02:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Node.js Modules, Packages, and SemVer]]></title>
@@ -61,24 +91,6 @@
             <link>https://github.com/snyk/snyk</link>
             <guid>https://github.com/snyk/snyk</guid>
             <pubDate>Mon, 01 Mar 2021 03:24:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jest Test Error Node.js]]></title>
-            <link>https://github.com/mkenzie87/Capstone-Travel-App/tree/new-branch</link>
-            <guid>https://github.com/mkenzie87/Capstone-Travel-App/tree/new-branch</guid>
-            <pubDate>Sun, 28 Feb 2021 21:13:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I made something cool in NodeJS, watned to share it here]]></title>
-            <link>https://github.com/c9fe/ViewFinderJS</link>
-            <guid>https://github.com/c9fe/ViewFinderJS</guid>
-            <pubDate>Sun, 28 Feb 2021 01:22:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How To Build A Phone Tracker App - part 1 Server]]></title>
-            <link>https://www.youtube.com/watch?v=QlIDoZmWanM</link>
-            <guid>https://www.youtube.com/watch?v=QlIDoZmWanM</guid>
-            <pubDate>Sun, 28 Feb 2021 15:58:32 GMT</pubDate>
         </item>
     </channel>
 </rss>

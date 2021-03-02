@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Mon, 01 Mar 2021 19:46:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Mar 2021 07:47:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,22 @@
             <pubDate>Mon, 01 Mar 2021 10:05:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[michaljaz/web-minecraft: A FOSS Minecraft client written in JS for the web]]></title>
+            <link>https://github.com/michaljaz/web-minecraft</link>
+            <guid>https://github.com/michaljaz/web-minecraft</guid>
+            <pubDate>Mon, 01 Mar 2021 21:25:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What's New In DevTools (Chrome 90)]]></title>
             <link>https://developers.google.com/web/updates/2021/02/devtools</link>
             <guid>https://developers.google.com/web/updates/2021/02/devtools</guid>
             <pubDate>Mon, 01 Mar 2021 14:08:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React 17 stops event bubbling in scroll event]]></title>
+            <link>https://blog.saeloun.com/2021/03/02/react-17-removes-bubbling-from-onscroll</link>
+            <guid>https://blog.saeloun.com/2021/03/02/react-17-removes-bubbling-from-onscroll</guid>
+            <pubDate>Tue, 02 Mar 2021 07:03:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Paperclip: A DSL for presentational web components]]></title>
@@ -27,16 +39,22 @@
             <pubDate>Mon, 01 Mar 2021 16:09:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[vitejs - Next generation frontend tooling.]]></title>
+            <link>https://github.com/vitejs/vite</link>
+            <guid>https://github.com/vitejs/vite</guid>
+            <pubDate>Mon, 01 Mar 2021 15:52:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What I look forward to about web development in 2021]]></title>
             <link>https://blog.6nok.org/what-i-look-forward-to-about-web-development-in-2021/</link>
             <guid>https://blog.6nok.org/what-i-look-forward-to-about-web-development-in-2021/</guid>
             <pubDate>Mon, 01 Mar 2021 02:49:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[vitejs - Next generation frontend tooling.]]></title>
-            <link>https://github.com/vitejs/vite</link>
-            <guid>https://github.com/vitejs/vite</guid>
-            <pubDate>Mon, 01 Mar 2021 15:52:56 GMT</pubDate>
+            <title><![CDATA[snowpack-start, a tool for easier Snowpack startup]]></title>
+            <link>https://github.com/andrew-1135/snowpack-start</link>
+            <guid>https://github.com/andrew-1135/snowpack-start</guid>
+            <pubDate>Mon, 01 Mar 2021 22:52:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to Change Look & Feel of Pseudo Elements using JavaScript and CSS Custom Properties]]></title>
@@ -69,22 +87,16 @@
             <pubDate>Sun, 28 Feb 2021 11:31:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Still, Going Native Is Better Than React Native and Flutter]]></title>
-            <link>https://shalithasuranga.medium.com/still-going-native-is-better-than-react-native-and-flutter-2347d6c38695</link>
-            <guid>https://shalithasuranga.medium.com/still-going-native-is-better-than-react-native-and-flutter-2347d6c38695</guid>
-            <pubDate>Mon, 01 Mar 2021 16:33:50 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[snyk - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies]]></title>
             <link>https://github.com/snyk/snyk</link>
             <guid>https://github.com/snyk/snyk</guid>
             <pubDate>Mon, 01 Mar 2021 03:24:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to build a Web Components app with Redux]]></title>
-            <link>https://writingjavascript.com/how-to-build-a-web-components-app-with-redux</link>
-            <guid>https://writingjavascript.com/how-to-build-a-web-components-app-with-redux</guid>
-            <pubDate>Mon, 01 Mar 2021 06:20:37 GMT</pubDate>
+            <title><![CDATA[Still, Going Native Is Better Than React Native and Flutter]]></title>
+            <link>https://shalithasuranga.medium.com/still-going-native-is-better-than-react-native-and-flutter-2347d6c38695</link>
+            <guid>https://shalithasuranga.medium.com/still-going-native-is-better-than-react-native-and-flutter-2347d6c38695</guid>
+            <pubDate>Mon, 01 Mar 2021 16:33:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Making a resume with HTML/React + Puppeteer! Updated a guide from a few years ago]]></title>
@@ -93,16 +105,22 @@
             <pubDate>Mon, 01 Mar 2021 05:53:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Is Functional Programming The Silver Bullet? You May Not Like The Answer.]]></title>
+            <link>https://suzdalnitski.medium.com/is-functional-programming-the-silver-bullet-you-may-not-like-the-answer-cb4d3e8c03a7</link>
+            <guid>https://suzdalnitski.medium.com/is-functional-programming-the-silver-bullet-you-may-not-like-the-answer-cb4d3e8c03a7</guid>
+            <pubDate>Mon, 01 Mar 2021 14:33:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[esbuild-config: config files for esbuild]]></title>
             <link>https://github.com/bpierre/esbuild-config</link>
             <guid>https://github.com/bpierre/esbuild-config</guid>
             <pubDate>Sun, 28 Feb 2021 21:14:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Is Functional Programming The Silver Bullet? You May Not Like The Answer.]]></title>
-            <link>https://suzdalnitski.medium.com/is-functional-programming-the-silver-bullet-you-may-not-like-the-answer-cb4d3e8c03a7</link>
-            <guid>https://suzdalnitski.medium.com/is-functional-programming-the-silver-bullet-you-may-not-like-the-answer-cb4d3e8c03a7</guid>
-            <pubDate>Mon, 01 Mar 2021 14:33:08 GMT</pubDate>
+            <title><![CDATA[How to build a Web Components app with Redux]]></title>
+            <link>https://writingjavascript.com/how-to-build-a-web-components-app-with-redux</link>
+            <guid>https://writingjavascript.com/how-to-build-a-web-components-app-with-redux</guid>
+            <pubDate>Mon, 01 Mar 2021 06:20:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[JS work-around for fixing how CSS vw/vh units aren't computed reliably on various mobile devices]]></title>
@@ -133,36 +151,6 @@
             <link>https://c19statistics.vercel.app/</link>
             <guid>https://c19statistics.vercel.app/</guid>
             <pubDate>Sat, 27 Feb 2021 03:56:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AskJS] Multiple variables initially assigned to the same value]]></title>
-            <link>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining</link>
-            <guid>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining</guid>
-            <pubDate>Sun, 28 Feb 2021 01:37:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A library for managing GOG store Products written in JavaScript]]></title>
-            <link>https://github.com/HDK101/unnoficial-gog-product-wrapper</link>
-            <guid>https://github.com/HDK101/unnoficial-gog-product-wrapper</guid>
-            <pubDate>Sat, 27 Feb 2021 19:15:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AskJS] How can we improve the user experience with links on the internet?]]></title>
-            <link>https://chrome.google.com/webstore/detail/preview-any-link-anywhere/idalccinfigpohjpehkcdcpgnannhhfl</link>
-            <guid>https://chrome.google.com/webstore/detail/preview-any-link-anywhere/idalccinfigpohjpehkcdcpgnannhhfl</guid>
-            <pubDate>Sat, 27 Feb 2021 18:59:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Amazing Mechanical Plumbus (React, Howler.js)]]></title>
-            <link>https://mechanicalplumbus.com</link>
-            <guid>https://mechanicalplumbus.com</guid>
-            <pubDate>Fri, 26 Feb 2021 23:05:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google Chrome Extension to disable certain sections of the web page like ads and sidebars]]></title>
-            <link>https://github.com/Pemson18/Dispr</link>
-            <guid>https://github.com/Pemson18/Dispr</guid>
-            <pubDate>Sat, 27 Feb 2021 18:35:10 GMT</pubDate>
         </item>
     </channel>
 </rss>

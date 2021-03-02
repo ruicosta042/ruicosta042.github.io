@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Tue, 02 Mar 2021 12:53:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Mar 2021 19:50:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -27,10 +27,22 @@
             <pubDate>Tue, 02 Mar 2021 08:10:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Gatsby.JS - v3.0 (March 2021 #1)]]></title>
+            <link>https://www.gatsbyjs.com/docs/reference/release-notes/v3.0/#v30-march-2021-1</link>
+            <guid>https://www.gatsbyjs.com/docs/reference/release-notes/v3.0/#v30-march-2021-1</guid>
+            <pubDate>Tue, 02 Mar 2021 13:37:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Form validation with React Hooks WITHOUT a library: The Complete Guide]]></title>
             <link>https://felixgerschau.com/react-hooks-form-validation-typescript/</link>
             <guid>https://felixgerschau.com/react-hooks-form-validation-typescript/</guid>
             <pubDate>Mon, 01 Mar 2021 20:02:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Variants – a quick tip for better React components | Swizec Teller]]></title>
+            <link>https://swizec.com/blog/variants-a-quick-tip-for-better-react-components</link>
+            <guid>https://swizec.com/blog/variants-a-quick-tip-for-better-react-components</guid>
+            <pubDate>Tue, 02 Mar 2021 19:12:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hey Guys, checkout another video in "React Hooks" series. "Learn useMemo in 10 Minutes". React hooks for Beginners.]]></title>
@@ -39,10 +51,34 @@
             <pubDate>Tue, 02 Mar 2021 10:37:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Introducing Leva, a GUI made for React]]></title>
-            <link>https://twitter.com/davidbismut/status/1366329901545046021</link>
-            <guid>https://twitter.com/davidbismut/status/1366329901545046021</guid>
-            <pubDate>Mon, 01 Mar 2021 10:23:48 GMT</pubDate>
+            <title><![CDATA[New video is out! Let me know how I can improve!]]></title>
+            <link>https://youtu.be/ZJzs_uoHNVM</link>
+            <guid>https://youtu.be/ZJzs_uoHNVM</guid>
+            <pubDate>Tue, 02 Mar 2021 19:05:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gyro-web: React hook for accessing the device orientation]]></title>
+            <link>https://trekhleb.dev/blog/2021/gyro-web/</link>
+            <guid>https://trekhleb.dev/blog/2021/gyro-web/</guid>
+            <pubDate>Tue, 02 Mar 2021 18:39:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React equivalent of gantt chart with grouped tasks]]></title>
+            <link>https://plotly.com/python/gantt/#group-tasks-together</link>
+            <guid>https://plotly.com/python/gantt/#group-tasks-together</guid>
+            <pubDate>Tue, 02 Mar 2021 17:46:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hello! I wanna share my first npm package, it's a canvas based chart for React!]]></title>
+            <link>https://github.com/AlexTaietti/poly-chart</link>
+            <guid>https://github.com/AlexTaietti/poly-chart</guid>
+            <pubDate>Tue, 02 Mar 2021 09:57:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Proof of Concept Project: Hosting React sites on AWS S3 and CloudFront (multiple scenarios)]]></title>
+            <link>https://github.com/nicc777/aws-react-hosting-poc</link>
+            <guid>https://github.com/nicc777/aws-react-hosting-poc</guid>
+            <pubDate>Tue, 02 Mar 2021 17:26:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Financial website made with Nextjs valormaior.com]]></title>
@@ -51,10 +87,28 @@
             <pubDate>Tue, 02 Mar 2021 04:13:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hello! I wanna share my first npm package, it's a canvas based chart for React!]]></title>
-            <link>https://github.com/AlexTaietti/poly-chart</link>
-            <guid>https://github.com/AlexTaietti/poly-chart</guid>
-            <pubDate>Tue, 02 Mar 2021 09:57:31 GMT</pubDate>
+            <title><![CDATA[styled-components question: on td:hover highlight every same component]]></title>
+            <link>/r/StyledComponents/comments/lw6knu/on_tdhover_highlight_all_styledcomponents/</link>
+            <guid>/r/StyledComponents/comments/lw6knu/on_tdhover_highlight_all_styledcomponents/</guid>
+            <pubDate>Tue, 02 Mar 2021 16:52:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Global Button Click Counter]]></title>
+            <link>https://thereacttimes.com/</link>
+            <guid>https://thereacttimes.com/</guid>
+            <pubDate>Tue, 02 Mar 2021 15:28:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing Leva, a GUI made for React]]></title>
+            <link>https://twitter.com/davidbismut/status/1366329901545046021</link>
+            <guid>https://twitter.com/davidbismut/status/1366329901545046021</guid>
+            <pubDate>Mon, 01 Mar 2021 10:23:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Green Lounge a simple recipe app builds with react, redux, and firebase.]]></title>
+            <link>https://github.com/aumtuhin/The-Green-Lounge</link>
+            <guid>https://github.com/aumtuhin/The-Green-Lounge</guid>
+            <pubDate>Tue, 02 Mar 2021 14:02:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[how to get path to image element in console]]></title>
@@ -73,60 +127,6 @@
             <link>https://github.com/syedzayyan/96wellplate/blob/main/src/App.js</link>
             <guid>https://github.com/syedzayyan/96wellplate/blob/main/src/App.js</guid>
             <pubDate>Tue, 02 Mar 2021 09:47:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[Academic] Final project concerning web designers and developers (React developers and/or AdobeXD designers)]]></title>
-            <link>https://coventry.onlinesurveys.ac.uk/final-year-project-from-adobexd-to-reactjs</link>
-            <guid>https://coventry.onlinesurveys.ac.uk/final-year-project-from-adobexd-to-reactjs</guid>
-            <pubDate>Tue, 02 Mar 2021 09:33:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React developers can now work together on xs:code and help each other also on VScode]]></title>
-            <link>https://xscode.com/leaderboards/react</link>
-            <guid>https://xscode.com/leaderboards/react</guid>
-            <pubDate>Tue, 02 Mar 2021 08:44:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I created a helper library for lazy-loading translations in your React app, and I just launched 2.0.]]></title>
-            <link>https://www.npmjs.com/package/lazy-i18n</link>
-            <guid>https://www.npmjs.com/package/lazy-i18n</guid>
-            <pubDate>Mon, 01 Mar 2021 22:24:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tailwind + Framer Motion [PT-BR]]]></title>
-            <link>https://youtu.be/4LAWU71W24A</link>
-            <guid>https://youtu.be/4LAWU71W24A</guid>
-            <pubDate>Tue, 02 Mar 2021 02:04:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Make A PWA With React For Your Business. Only if you are looking to make $s from it.]]></title>
-            <link>https://www.resourcifi.com/blog/how-to-make-a-pwa-using-react/</link>
-            <guid>https://www.resourcifi.com/blog/how-to-make-a-pwa-using-react/</guid>
-            <pubDate>Tue, 02 Mar 2021 07:37:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Use Streaming Imports (Snowpack) to Improve Development Workflow and Save Hard Disk Space]]></title>
-            <link>https://blog.davidkontorovsky.com/use-streaming-imports-to-improve-development-workflow-and-save-hard-disk-space</link>
-            <guid>https://blog.davidkontorovsky.com/use-streaming-imports-to-improve-development-workflow-and-save-hard-disk-space</guid>
-            <pubDate>Tue, 02 Mar 2021 06:59:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prevent material ui component from closing?]]></title>
-            <link>https://stackoverflow.com/q/66434649/6519391</link>
-            <guid>https://stackoverflow.com/q/66434649/6519391</guid>
-            <pubDate>Tue, 02 Mar 2021 06:58:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Needs advice for project readability/scalability]]></title>
-            <link>/r/webdev/comments/ltnbr2/needs_advice_for_project_readabilityscalability/</link>
-            <guid>/r/webdev/comments/ltnbr2/needs_advice_for_project_readabilityscalability/</guid>
-            <pubDate>Tue, 02 Mar 2021 06:55:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Create lovely React 3D Animated Card | Beginner REACT.JS Animation with framer-motion]]></title>
-            <link>https://youtu.be/cPKiilXlHAQ</link>
-            <guid>https://youtu.be/cPKiilXlHAQ</guid>
-            <pubDate>Mon, 01 Mar 2021 11:13:32 GMT</pubDate>
         </item>
     </channel>
 </rss>

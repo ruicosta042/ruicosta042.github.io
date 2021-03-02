@@ -4,10 +4,16 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Tue, 02 Mar 2021 12:53:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Mar 2021 19:50:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Now we can force const contexts]]></title>
+            <link>https://preview.redd.it/5yauy230kmk61.png?width=973&amp;format=png&amp;auto=webp&amp;s=89429f02adf19363d35e539aac46c38f585488b5</link>
+            <guid>https://preview.redd.it/5yauy230kmk61.png?width=973&amp;format=png&amp;auto=webp&amp;s=89429f02adf19363d35e539aac46c38f585488b5</guid>
+            <pubDate>Tue, 02 Mar 2021 14:30:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Find missing cases in your switch statements]]></title>
             <link>https://www.youtube.com/watch?v=8N_P-l5Kukk</link>
@@ -45,12 +51,6 @@
             <pubDate>Mon, 01 Mar 2021 03:24:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Is Functional Programming The Silver Bullet? You May Not Like The Answer.]]></title>
-            <link>https://suzdalnitski.medium.com/is-functional-programming-the-silver-bullet-you-may-not-like-the-answer-cb4d3e8c03a7</link>
-            <guid>https://suzdalnitski.medium.com/is-functional-programming-the-silver-bullet-you-may-not-like-the-answer-cb4d3e8c03a7</guid>
-            <pubDate>Mon, 01 Mar 2021 15:12:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Just found out that you can't trust the TS transpiler with union types. A more complicated version of this made it to production and robbed me of my sanity...]]></title>
             <link>https://www.typescriptlang.org/play?#code/GYVwdgxgLglg9mABAWwKYGd0FUAOAVAC1QEEAnUgQwE8AKC8gLkTMqoB50pSYwBzRAD6IwIZACNUpAHwBKJgDc4MACaIA3gFgAUIl2J6pAHQ4Q6AjQDMMgNzaAvtu0QEnRJ2590TFtQ5cevFKIALyIANoA5MBwcBEANIgRYvQRALq2WmiYuIQk5NQ07gHoNo5azmCuXm7+fCE1HrzoYQBM6U4ucAA2qIZdcLyFhlBwADJwAO6SAMIU6Kg0MjLaQA</link>
             <guid>https://www.typescriptlang.org/play?#code/GYVwdgxgLglg9mABAWwKYGd0FUAOAVAC1QEEAnUgQwE8AKC8gLkTMqoB50pSYwBzRAD6IwIZACNUpAHwBKJgDc4MACaIA3gFgAUIl2J6pAHQ4Q6AjQDMMgNzaAvtu0QEnRJ2590TFtQ5cevFKIALyIANoA5MBwcBEANIgRYvQRALq2WmiYuIQk5NQ07gHoNo5azmCuXm7+fCE1HrzoYQBM6U4ucAA2qIZdcLyFhlBwADJwAO6SAMIU6Kg0MjLaQA</guid>
@@ -79,12 +79,6 @@
             <link>https://gist.github.com/YamiAtem/91a18083e1e107425a929619d6388554</link>
             <guid>https://gist.github.com/YamiAtem/91a18083e1e107425a929619d6388554</guid>
             <pubDate>Fri, 26 Feb 2021 04:21:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A command-line utility for deploying serverless applications to AWS. Complete with custom domains, deploy previews, TypeScript support, and more.]]></title>
-            <link>https://github.com/JakePartusch/serverlessui</link>
-            <guid>https://github.com/JakePartusch/serverlessui</guid>
-            <pubDate>Thu, 25 Feb 2021 16:20:15 GMT</pubDate>
         </item>
     </channel>
 </rss>

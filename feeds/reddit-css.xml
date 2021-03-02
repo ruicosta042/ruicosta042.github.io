@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Tue, 02 Mar 2021 12:53:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Mar 2021 19:50:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,28 @@
             <pubDate>Tue, 02 Mar 2021 10:24:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How can I get the whole button within the black border to change color?]]></title>
-            <link>https://codepen.io/KingAresIV/pen/PobeaMz</link>
-            <guid>https://codepen.io/KingAresIV/pen/PobeaMz</guid>
-            <pubDate>Tue, 02 Mar 2021 12:29:07 GMT</pubDate>
+            <title><![CDATA[Safari (iOS) renders symbols very strange]]></title>
+            <link>https://preview.redd.it/0c3rsjtr1ok61.png?width=572&amp;format=png&amp;auto=webp&amp;s=e3aa3750d209d0e09a76c2f4633af827da53ff03</link>
+            <guid>https://preview.redd.it/0c3rsjtr1ok61.png?width=572&amp;format=png&amp;auto=webp&amp;s=e3aa3750d209d0e09a76c2f4633af827da53ff03</guid>
+            <pubDate>Tue, 02 Mar 2021 19:28:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How do I catch parsing errors with nested brackets?]]></title>
+            <link>https://imgur.com/a/ISqv17T</link>
+            <guid>https://imgur.com/a/ISqv17T</guid>
+            <pubDate>Tue, 02 Mar 2021 18:41:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to use container div as scope for bootstrap size classes]]></title>
+            <link>/r/bootstrap/comments/lw8z9a/how_to_use_container_div_as_scope_for_bootstrap/</link>
+            <guid>/r/bootstrap/comments/lw8z9a/how_to_use_container_div_as_scope_for_bootstrap/</guid>
+            <pubDate>Tue, 02 Mar 2021 18:29:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hiding Content Responsibly]]></title>
+            <link>https://kittygiraudel.com/2021/02/17/hiding-content-responsibly/</link>
+            <guid>https://kittygiraudel.com/2021/02/17/hiding-content-responsibly/</guid>
+            <pubDate>Tue, 02 Mar 2021 13:41:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to Map Mouse Position in CSS]]></title>
@@ -103,24 +121,6 @@
             <link>/r/css/comments/lv9l10/something_wrong_with_my_html_and_css/</link>
             <guid>/r/css/comments/lv9l10/something_wrong_with_my_html_and_css/</guid>
             <pubDate>Mon, 01 Mar 2021 13:46:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Something wrong with my html and css?]]></title>
-            <link>https://neocities.org</link>
-            <guid>https://neocities.org</guid>
-            <pubDate>Mon, 01 Mar 2021 13:45:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to display language-specific quotes in CSS]]></title>
-            <link>https://www.stefanjudis.com/today-i-learned/how-to-use-language-dependent-quotes-in-css/</link>
-            <guid>https://www.stefanjudis.com/today-i-learned/how-to-use-language-dependent-quotes-in-css/</guid>
-            <pubDate>Sun, 28 Feb 2021 17:32:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[how to create card design using Html and CSS | Profile Card Design Using HTML and CSS]]></title>
-            <link>https://youtu.be/uVsLoY6FF3E</link>
-            <guid>https://youtu.be/uVsLoY6FF3E</guid>
-            <pubDate>Sun, 28 Feb 2021 18:57:21 GMT</pubDate>
         </item>
     </channel>
 </rss>

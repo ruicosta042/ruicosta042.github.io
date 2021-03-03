@@ -4,10 +4,16 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Wed, 03 Mar 2021 07:52:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Mar 2021 13:06:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[How To Get Better At CSS]]></title>
+            <link>https://planflow.dev/blog/how-to-get-better-at-css/</link>
+            <guid>https://planflow.dev/blog/how-to-get-better-at-css/</guid>
+            <pubDate>Wed, 03 Mar 2021 09:23:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[🤣Scenes...!!🤣]]></title>
             <link>https://reddit.com/link/lwm4r3/video/m387s8fa0rk61/player</link>
@@ -103,12 +109,6 @@
             <link>https://preview.redd.it/3uwqtpsm8ik61.png?width=360&amp;format=png&amp;auto=webp&amp;s=5597ddda7914ee090c45e8dd0255d6b2d8f7d1cf</link>
             <guid>https://preview.redd.it/3uwqtpsm8ik61.png?width=360&amp;format=png&amp;auto=webp&amp;s=5597ddda7914ee090c45e8dd0255d6b2d8f7d1cf</guid>
             <pubDate>Mon, 01 Mar 2021 23:58:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[can someone rate the css ?]]></title>
-            <link>https://htmlcss00.netlify.app/</link>
-            <guid>https://htmlcss00.netlify.app/</guid>
-            <pubDate>Mon, 01 Mar 2021 22:46:32 GMT</pubDate>
         </item>
     </channel>
 </rss>

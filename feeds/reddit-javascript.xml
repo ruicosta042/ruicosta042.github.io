@@ -4,16 +4,10 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Wed, 03 Mar 2021 07:52:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Mar 2021 13:06:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
-        <item>
-            <title><![CDATA[Your /r/javascript recap for the week of February 22 - February 28]]></title>
-            <link>/r/javascript/comments/lpxvc3/kord_a_streaming_site_combining_spotify/</link>
-            <guid>/r/javascript/comments/lpxvc3/kord_a_streaming_site_combining_spotify/</guid>
-            <pubDate>Mon, 01 Mar 2021 10:05:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[We made an app for search in JavaScript web stack docs, Stack Overflow, and code on GitHub. Now we will make it extensible]]></title>
             <link>https://usedevbook.com/</link>
@@ -21,10 +15,28 @@
             <pubDate>Wed, 03 Mar 2021 04:15:22 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Scalable JSON processing using fs/promises, Async and Oboe]]></title>
+            <link>https://dev.to/kgilpin/scalable-json-processing-using-fs-promises-async-and-oboe-4den</link>
+            <guid>https://dev.to/kgilpin/scalable-json-processing-using-fs-promises-async-and-oboe-4den</guid>
+            <pubDate>Wed, 03 Mar 2021 12:19:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Building A LMS In JavaScript: What I Have Accomplished In Two Years]]></title>
+            <link>https://rajatsx.medium.com/building-a-lms-what-i-have-accomplished-in-two-years-69d671434f70</link>
+            <guid>https://rajatsx.medium.com/building-a-lms-what-i-have-accomplished-in-two-years-69d671434f70</guid>
+            <pubDate>Wed, 03 Mar 2021 07:59:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Fast, smooth React Data Grid]]></title>
             <link>https://grid.glideapps.com</link>
             <guid>https://grid.glideapps.com</guid>
             <pubDate>Tue, 02 Mar 2021 15:44:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Changelog: swc v1.2.50 | swc]]></title>
+            <link>https://swc.rs/blog/2021/03/03/swc-1.2.50</link>
+            <guid>https://swc.rs/blog/2021/03/03/swc-1.2.50</guid>
+            <pubDate>Wed, 03 Mar 2021 12:18:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scratching my own itch: a JavaScript slide show for full screen looping GIFs and MP4s]]></title>
@@ -45,10 +57,22 @@
             <pubDate>Tue, 02 Mar 2021 07:03:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[jspm.org - Import Maps Release & Module CDN Launch]]></title>
+            <link>https://jspm.org/import-map-cdn</link>
+            <guid>https://jspm.org/import-map-cdn</guid>
+            <pubDate>Tue, 02 Mar 2021 23:48:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Uppy File Uploader v1.26]]></title>
             <link>https://uppy.io/blog/2021/02/1.26/</link>
             <guid>https://uppy.io/blog/2021/02/1.26/</guid>
             <pubDate>Tue, 02 Mar 2021 12:10:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Exploring Hotwire, the new approach to building responsive web applications - TeamHQ]]></title>
+            <link>https://teamhq.app/blog/tech/5-exploring-hotwire-the-new-approach-to-building-responsive-web-applications</link>
+            <guid>https://teamhq.app/blog/tech/5-exploring-hotwire-the-new-approach-to-building-responsive-web-applications</guid>
+            <pubDate>Wed, 03 Mar 2021 00:16:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Open source Twitter un-follower finder web-extension]]></title>
@@ -57,22 +81,10 @@
             <pubDate>Tue, 02 Mar 2021 19:21:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[jspm.org - Import Maps Release & Module CDN Launch]]></title>
-            <link>https://jspm.org/import-map-cdn</link>
-            <guid>https://jspm.org/import-map-cdn</guid>
-            <pubDate>Tue, 02 Mar 2021 23:48:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Building a realtime chat app with Next.js and Vercel]]></title>
             <link>https://ably.com/blog/realtime-chat-app-nextjs-vercel?utm_source=twitter&amp;utm_medium=sc&amp;utm_campaign=nextjs-vercel</link>
             <guid>https://ably.com/blog/realtime-chat-app-nextjs-vercel?utm_source=twitter&amp;utm_medium=sc&amp;utm_campaign=nextjs-vercel</guid>
             <pubDate>Tue, 02 Mar 2021 16:27:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Exploring Hotwire, the new approach to building responsive web applications - TeamHQ]]></title>
-            <link>https://teamhq.app/blog/tech/5-exploring-hotwire-the-new-approach-to-building-responsive-web-applications</link>
-            <guid>https://teamhq.app/blog/tech/5-exploring-hotwire-the-new-approach-to-building-responsive-web-applications</guid>
-            <pubDate>Wed, 03 Mar 2021 00:16:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Faster Gitlab CI pipelines by parallelizing Cypress tests with Knapsack Pro]]></title>
@@ -111,16 +123,16 @@
             <pubDate>Mon, 01 Mar 2021 14:08:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[JavaScript Modules Versus Components]]></title>
-            <link>https://medium.com/javascript-fanboi/2021-037-javascript-modules-versus-components-dcaeeb0b3b8d</link>
-            <guid>https://medium.com/javascript-fanboi/2021-037-javascript-modules-versus-components-dcaeeb0b3b8d</guid>
-            <pubDate>Tue, 02 Mar 2021 18:29:41 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Paperclip: A DSL for presentational web components]]></title>
             <link>https://59bb.medium.com/introducing-paperclip-f392a42311d6</link>
             <guid>https://59bb.medium.com/introducing-paperclip-f392a42311d6</guid>
             <pubDate>Mon, 01 Mar 2021 16:09:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[JavaScript Modules Versus Components]]></title>
+            <link>https://medium.com/javascript-fanboi/2021-037-javascript-modules-versus-components-dcaeeb0b3b8d</link>
+            <guid>https://medium.com/javascript-fanboi/2021-037-javascript-modules-versus-components-dcaeeb0b3b8d</guid>
+            <pubDate>Tue, 02 Mar 2021 18:29:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[vitejs - Next generation frontend tooling.]]></title>
@@ -139,24 +151,6 @@
             <link>https://blog.6nok.org/what-i-look-forward-to-about-web-development-in-2021/</link>
             <guid>https://blog.6nok.org/what-i-look-forward-to-about-web-development-in-2021/</guid>
             <pubDate>Mon, 01 Mar 2021 02:49:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Change Look & Feel of Pseudo Elements using JavaScript and CSS Custom Properties]]></title>
-            <link>https://blog.shhdharmen.me/how-to-change-look-and-feel-of-pseudo-elements-using-javascript-and-css-custom-properties/#</link>
-            <guid>https://blog.shhdharmen.me/how-to-change-look-and-feel-of-pseudo-elements-using-javascript-and-css-custom-properties/#</guid>
-            <pubDate>Mon, 01 Mar 2021 17:02:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Form state management with React Final Form]]></title>
-            <link>https://javascript.plainenglish.io/manage-form-state-with-react-final-form-bdad07b24509</link>
-            <guid>https://javascript.plainenglish.io/manage-form-state-with-react-final-form-bdad07b24509</guid>
-            <pubDate>Mon, 01 Mar 2021 08:42:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rollup - JavaScript Obfuscator]]></title>
-            <link>https://github.com/AlirezaHashemi0/rollup-plugin-obfuscator</link>
-            <guid>https://github.com/AlirezaHashemi0/rollup-plugin-obfuscator</guid>
-            <pubDate>Mon, 01 Mar 2021 18:03:33 GMT</pubDate>
         </item>
     </channel>
 </rss>

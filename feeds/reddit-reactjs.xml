@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Wed, 03 Mar 2021 07:52:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Mar 2021 13:06:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -27,16 +27,58 @@
             <pubDate>Tue, 02 Mar 2021 23:10:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[I created a browser extension using React, r-beautiful-DND and Chakra UI to manage tabs and notes(https://www.tabExtend.com)]]></title>
+            <link>https://www.youtube.com/watch?v=mDcytkiJOqg</link>
+            <guid>https://www.youtube.com/watch?v=mDcytkiJOqg</guid>
+            <pubDate>Wed, 03 Mar 2021 12:04:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tutorial for beginners: React Components and Props using API for showing some data]]></title>
+            <link>https://karnyong.medium.com/basic-react-components-and-props-for-showing-lots-of-cats-d41bf67cc26</link>
+            <guid>https://karnyong.medium.com/basic-react-components-and-props-for-showing-lots-of-cats-d41bf67cc26</guid>
+            <pubDate>Wed, 03 Mar 2021 10:10:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[My first open-source full-stack react app, made with MERN stack & cloudinary API. I made this 6 months back, finally decided to public the repo.]]></title>
             <link>https://v.redd.it/xtz24104pkk61</link>
             <guid>https://v.redd.it/xtz24104pkk61</guid>
             <pubDate>Tue, 02 Mar 2021 08:10:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Storing data and actions in context vs hook function?]]></title>
+            <link>https://gist.github.com/baaraak/bd56bc2f0ce33913fdf12f6988baf312</link>
+            <guid>https://gist.github.com/baaraak/bd56bc2f0ce33913fdf12f6988baf312</guid>
+            <pubDate>Wed, 03 Mar 2021 11:45:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Making a useEffect function for a microsoft graph api]]></title>
+            <link>https://docs.microsoft.com/en-us/azure/developer/javascript/tutorial/single-page-application-azure-login-button-sdk-msal</link>
+            <guid>https://docs.microsoft.com/en-us/azure/developer/javascript/tutorial/single-page-application-azure-login-button-sdk-msal</guid>
+            <pubDate>Wed, 03 Mar 2021 10:47:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Weather App Project to practice working with an API]]></title>
+            <link>https://bigsondev.com/projects/weather-app-project/</link>
+            <guid>https://bigsondev.com/projects/weather-app-project/</guid>
+            <pubDate>Wed, 03 Mar 2021 10:20:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My first Create-React-App/Material-UI Project]]></title>
+            <link>https://w5h.herokuapp.com/</link>
+            <guid>https://w5h.herokuapp.com/</guid>
+            <pubDate>Wed, 03 Mar 2021 06:25:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Picking Apart Kent C. Dodds’ useAsync Hook]]></title>
             <link>https://headbutt.io/picking-apart-kents-useasync</link>
             <guid>https://headbutt.io/picking-apart-kents-useasync</guid>
             <pubDate>Tue, 02 Mar 2021 23:14:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Best Training & Placement Institute in Pune]]></title>
+            <link>http://www.fusiontechnology.in/react-js-course.php</link>
+            <guid>http://www.fusiontechnology.in/react-js-course.php</guid>
+            <pubDate>Wed, 03 Mar 2021 08:28:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gatsby.JS - v3.0 (March 2021 #1)]]></title>
@@ -57,12 +99,6 @@
             <pubDate>Wed, 03 Mar 2021 07:32:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[My first Create-React-App/Material-UI Project]]></title>
-            <link>https://w5h.herokuapp.com/</link>
-            <guid>https://w5h.herokuapp.com/</guid>
-            <pubDate>Wed, 03 Mar 2021 06:25:24 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[I am trying to understand how Redux works under the hood and sharing my learning along the way. I would be covering all the APIs it offers and how can we recreate those functionalities. Any feedback would be much appreciated. 💻]]></title>
             <link>https://www.youtube.com/playlist?list=PL4ruoTJ8LTT9_vAAZuwQLAnJyKXoMo2Zt</link>
             <guid>https://www.youtube.com/playlist?list=PL4ruoTJ8LTT9_vAAZuwQLAnJyKXoMo2Zt</guid>
@@ -73,42 +109,6 @@
             <link>https://response.data</link>
             <guid>https://response.data</guid>
             <pubDate>Wed, 03 Mar 2021 04:44:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Writing a react component to run a DOS game.]]></title>
-            <link>https://js-dos.com/v7/build/docs/react/</link>
-            <guid>https://js-dos.com/v7/build/docs/react/</guid>
-            <pubDate>Wed, 03 Mar 2021 03:58:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Proof of Concept Project: Hosting React sites on AWS S3 and CloudFront (multiple scenarios)]]></title>
-            <link>https://github.com/nicc777/aws-react-hosting-poc</link>
-            <guid>https://github.com/nicc777/aws-react-hosting-poc</guid>
-            <pubDate>Tue, 02 Mar 2021 17:26:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Form validation with React Hooks WITHOUT a library: The Complete Guide]]></title>
-            <link>https://felixgerschau.com/react-hooks-form-validation-typescript/</link>
-            <guid>https://felixgerschau.com/react-hooks-form-validation-typescript/</guid>
-            <pubDate>Mon, 01 Mar 2021 20:02:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[react-query mutation update question]]></title>
-            <link>https://react-query.tanstack.com/guides/updates-from-mutation-responses</link>
-            <guid>https://react-query.tanstack.com/guides/updates-from-mutation-responses</guid>
-            <pubDate>Tue, 02 Mar 2021 23:00:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Get styled and typed components from your CSS files]]></title>
-            <link>https://github.com/sultan99/stylin/blob/main/README.md</link>
-            <guid>https://github.com/sultan99/stylin/blob/main/README.md</guid>
-            <pubDate>Tue, 02 Mar 2021 22:02:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hey Guys, checkout another video in "React Hooks" series. "Learn useMemo in 10 Minutes". React hooks for Beginners.]]></title>
-            <link>https://youtu.be/fzd2bvlyr70</link>
-            <guid>https://youtu.be/fzd2bvlyr70</guid>
-            <pubDate>Tue, 02 Mar 2021 10:37:14 GMT</pubDate>
         </item>
     </channel>
 </rss>

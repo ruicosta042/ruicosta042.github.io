@@ -4,7 +4,7 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Wed, 03 Mar 2021 07:52:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Mar 2021 13:06:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -73,12 +73,6 @@
             <link>https://github.com/microsoft/TypeScript/wiki/Using-the-Compiler-API#creating-and-printing-a-typescript-ast</link>
             <guid>https://github.com/microsoft/TypeScript/wiki/Using-the-Compiler-API#creating-and-printing-a-typescript-ast</guid>
             <pubDate>Fri, 26 Feb 2021 17:15:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UML Diagram for GoF Design Pattern Examples written in TypeScript]]></title>
-            <link>https://github.com/takaakit/uml-diagram-for-typescript-design-pattern-examples</link>
-            <guid>https://github.com/takaakit/uml-diagram-for-typescript-design-pattern-examples</guid>
-            <pubDate>Fri, 26 Feb 2021 10:21:08 GMT</pubDate>
         </item>
     </channel>
 </rss>

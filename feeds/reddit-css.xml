@@ -4,15 +4,33 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Tue, 02 Mar 2021 19:50:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Mar 2021 07:52:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[🤣Scenes...!!🤣]]></title>
+            <link>https://reddit.com/link/lwm4r3/video/m387s8fa0rk61/player</link>
+            <guid>https://reddit.com/link/lwm4r3/video/m387s8fa0rk61/player</guid>
+            <pubDate>Wed, 03 Mar 2021 05:23:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HTML, CSS, & Bootstrap - Certification Course for Beginners]]></title>
+            <link>https://www.myfreeonlinecourses.com/2021/03/100-off-html-css-bootstrap.html</link>
+            <guid>https://www.myfreeonlinecourses.com/2021/03/100-off-html-css-bootstrap.html</guid>
+            <pubDate>Tue, 02 Mar 2021 23:47:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ben Nadel: Using CSS :target Pseudo-Class To Toggle Element Display]]></title>
             <link>https://www.bennadel.com/blog/3970-using-css-target-pseudo-class-to-toggle-element-display.htm</link>
             <guid>https://www.bennadel.com/blog/3970-using-css-target-pseudo-class-to-toggle-element-display.htm</guid>
             <pubDate>Tue, 02 Mar 2021 10:24:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How To Make PlayStation 5 UI with CSS Animations (35.9 KB GitHub repo with complete source code)]]></title>
+            <link>https://semicolon.dev/tutorial/javascript/ps5-ui-js</link>
+            <guid>https://semicolon.dev/tutorial/javascript/ps5-ui-js</guid>
+            <pubDate>Tue, 02 Mar 2021 20:45:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Safari (iOS) renders symbols very strange]]></title>
@@ -91,36 +109,6 @@
             <link>https://htmlcss00.netlify.app/</link>
             <guid>https://htmlcss00.netlify.app/</guid>
             <pubDate>Mon, 01 Mar 2021 22:46:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finally, a CSS only solution to :hover on touchscreens]]></title>
-            <link>https://medium.com/@mezoistvan/finally-a-css-only-solution-to-hover-on-touchscreens-c498af39c31c</link>
-            <guid>https://medium.com/@mezoistvan/finally-a-css-only-solution-to-hover-on-touchscreens-c498af39c31c</guid>
-            <pubDate>Mon, 01 Mar 2021 14:41:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HTML Tables with CSS Stying Crash Course]]></title>
-            <link>https://www.youtube.com/watch?v=IGBRYTpgyg4</link>
-            <guid>https://www.youtube.com/watch?v=IGBRYTpgyg4</guid>
-            <pubDate>Mon, 01 Mar 2021 18:22:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Clip Path inc Css .. I need help]]></title>
-            <link>https://schweppes.ca/en/</link>
-            <guid>https://schweppes.ca/en/</guid>
-            <pubDate>Mon, 01 Mar 2021 16:26:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to build an unfolding tooltip with CSS clip-path // HTML & CSS in-depth]]></title>
-            <link>https://youtu.be/hEm2td0g60g</link>
-            <guid>https://youtu.be/hEm2td0g60g</guid>
-            <pubDate>Sun, 28 Feb 2021 16:24:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Something wrong with my html and css?]]></title>
-            <link>/r/css/comments/lv9l10/something_wrong_with_my_html_and_css/</link>
-            <guid>/r/css/comments/lv9l10/something_wrong_with_my_html_and_css/</guid>
-            <pubDate>Mon, 01 Mar 2021 13:46:53 GMT</pubDate>
         </item>
     </channel>
 </rss>

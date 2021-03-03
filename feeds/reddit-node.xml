@@ -4,15 +4,27 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Tue, 02 Mar 2021 19:50:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Mar 2021 07:52:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Introducing a new Node library for accessing the Shopify Admin API]]></title>
-            <link>https://github.com/Shopify/shopify-node-api/blob/main/docs/index.md</link>
-            <guid>https://github.com/Shopify/shopify-node-api/blob/main/docs/index.md</guid>
-            <pubDate>Tue, 02 Mar 2021 07:50:11 GMT</pubDate>
+            <title><![CDATA[How to log express HTTP requests using morgan with style?]]></title>
+            <link>https://blog.supercharged.dev/how-to-log-express-http-requests-using-morgan-with-style</link>
+            <guid>https://blog.supercharged.dev/how-to-log-express-http-requests-using-morgan-with-style</guid>
+            <pubDate>Wed, 03 Mar 2021 03:17:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How can I inspect memory usage per package in a large node application?]]></title>
+            <link>https://theia-ide.org</link>
+            <guid>https://theia-ide.org</guid>
+            <pubDate>Wed, 03 Mar 2021 04:09:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Common Lisp dynamic variables in Node.js]]></title>
+            <link>https://www.npmjs.com/package/dynamic_variables.js</link>
+            <guid>https://www.npmjs.com/package/dynamic_variables.js</guid>
+            <pubDate>Wed, 03 Mar 2021 07:52:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[OrbitDB - Peer-to-Peer Databases for the Decentralized Web]]></title>
@@ -21,10 +33,34 @@
             <pubDate>Tue, 02 Mar 2021 16:19:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Writing a Node.js GraphQL backend that actually scales]]></title>
+            <link>https://javascript.plainenglish.io/writing-a-node-js-graphql-backend-that-actually-scales-bd5b3411b293</link>
+            <guid>https://javascript.plainenglish.io/writing-a-node-js-graphql-backend-that-actually-scales-bd5b3411b293</guid>
+            <pubDate>Wed, 03 Mar 2021 03:53:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Node v15.11.0 (Current)]]></title>
+            <link>https://nodejs.org/en/blog/release/v15.11.0/</link>
+            <guid>https://nodejs.org/en/blog/release/v15.11.0/</guid>
+            <pubDate>Wed, 03 Mar 2021 06:37:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[New MERN stack video is out! Let me know how I can improve, like if you liked it, dislike if you didn't and enjoy!]]></title>
             <link>https://youtu.be/ZJzs_uoHNVM</link>
             <guid>https://youtu.be/ZJzs_uoHNVM</guid>
             <pubDate>Tue, 02 Mar 2021 19:10:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing a new Node library for accessing the Shopify Admin API]]></title>
+            <link>https://github.com/Shopify/shopify-node-api/blob/main/docs/index.md</link>
+            <guid>https://github.com/Shopify/shopify-node-api/blob/main/docs/index.md</guid>
+            <pubDate>Tue, 02 Mar 2021 07:50:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beginner Question: node, Twitch, and HTML]]></title>
+            <link>https://dev.twitch.tv/docs/irc#building-the-bot</link>
+            <guid>https://dev.twitch.tv/docs/irc#building-the-bot</guid>
+            <pubDate>Tue, 02 Mar 2021 20:59:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Utility to Parse and Validate Directory with Multiple Entries]]></title>
@@ -33,16 +69,22 @@
             <pubDate>Tue, 02 Mar 2021 17:24:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[looking for node development opportunity]]></title>
-            <link>https://ensembleeducation.org</link>
-            <guid>https://ensembleeducation.org</guid>
-            <pubDate>Tue, 02 Mar 2021 03:38:54 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[jsdos/emulators now supports NodeJS environment. Tested in node.js v12 and v14. It roughly two times slower than native dosbox, but two times faster than in browser. Read more.]]></title>
             <link>https://js-dos.com/v7/build/docs/node/</link>
             <guid>https://js-dos.com/v7/build/docs/node/</guid>
             <pubDate>Tue, 02 Mar 2021 16:45:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Anyone interested in getting paid to write tutorials or short courses?]]></title>
+            <link>https://www.learnthepart.com/course/c1d6d596-97b9-4e53-a46d-ec6260c07c78/bcdfb9cb-44e7-4eaf-a824-13e853eb974c</link>
+            <guid>https://www.learnthepart.com/course/c1d6d596-97b9-4e53-a46d-ec6260c07c78/bcdfb9cb-44e7-4eaf-a824-13e853eb974c</guid>
+            <pubDate>Tue, 02 Mar 2021 23:01:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[looking for node development opportunity]]></title>
+            <link>https://ensembleeducation.org</link>
+            <guid>https://ensembleeducation.org</guid>
+            <pubDate>Tue, 02 Mar 2021 03:38:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Docker + Node.js/express tutorial: Building dev/prod workflow with docker and Node.js]]></title>
@@ -51,46 +93,10 @@
             <pubDate>Mon, 01 Mar 2021 15:17:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Poolifier and other Nodejs thread pool implementations compared]]></title>
-            <link>https://alessandroardizio94.medium.com/poolifier-as-node-js-thread-cluster-pool-f6865f14285d</link>
-            <guid>https://alessandroardizio94.medium.com/poolifier-as-node-js-thread-cluster-pool-f6865f14285d</guid>
-            <pubDate>Tue, 02 Mar 2021 08:06:44 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Node.js Best Practices]]></title>
             <link>https://www.tatvasoft.com/blog/node-js-best-practices/</link>
             <guid>https://www.tatvasoft.com/blog/node-js-best-practices/</guid>
             <pubDate>Tue, 02 Mar 2021 10:09:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to decode an iOS assertion object in Node.js?]]></title>
-            <link>https://developer.apple.com/documentation/devicecheck/dcappattestservice</link>
-            <guid>https://developer.apple.com/documentation/devicecheck/dcappattestservice</guid>
-            <pubDate>Tue, 02 Mar 2021 10:08:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Computerphile on nodejs]]></title>
-            <link>https://youtu.be/whwa7ua_RbA</link>
-            <guid>https://youtu.be/whwa7ua_RbA</guid>
-            <pubDate>Tue, 02 Mar 2021 00:44:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Super easy Node function in the cloud]]></title>
-            <link>https://tinyfunction.com</link>
-            <guid>https://tinyfunction.com</guid>
-            <pubDate>Mon, 01 Mar 2021 14:42:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Callback URL when in development for passport-instagram]]></title>
-            <link>https://tolocalhost.com/</link>
-            <guid>https://tolocalhost.com/</guid>
-            <pubDate>Tue, 02 Mar 2021 03:51:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[dependency conflicts -- zoinks!]]></title>
-            <link>https://preview.redd.it/za8fd0ef5ik61.png?width=1500&amp;format=png&amp;auto=webp&amp;s=b2c26acb0cd61f9f064f8bd45ebb90887e09c864</link>
-            <guid>https://preview.redd.it/za8fd0ef5ik61.png?width=1500&amp;format=png&amp;auto=webp&amp;s=b2c26acb0cd61f9f064f8bd45ebb90887e09c864</guid>
-            <pubDate>Mon, 01 Mar 2021 23:36:47 GMT</pubDate>
         </item>
     </channel>
 </rss>

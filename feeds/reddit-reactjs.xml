@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Tue, 02 Mar 2021 19:50:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Mar 2021 07:52:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,10 +21,22 @@
             <pubDate>Mon, 01 Mar 2021 15:56:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[My first React project: A mood detector based on your recently played songs on Spotify.]]></title>
+            <link>https://reddit.com/link/lwf6n7/video/9ll27tip5pk61/player</link>
+            <guid>https://reddit.com/link/lwf6n7/video/9ll27tip5pk61/player</guid>
+            <pubDate>Tue, 02 Mar 2021 23:10:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[My first open-source full-stack react app, made with MERN stack & cloudinary API. I made this 6 months back, finally decided to public the repo.]]></title>
             <link>https://v.redd.it/xtz24104pkk61</link>
             <guid>https://v.redd.it/xtz24104pkk61</guid>
             <pubDate>Tue, 02 Mar 2021 08:10:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Picking Apart Kent C. Dodds’ useAsync Hook]]></title>
+            <link>https://headbutt.io/picking-apart-kents-useasync</link>
+            <guid>https://headbutt.io/picking-apart-kents-useasync</guid>
+            <pubDate>Tue, 02 Mar 2021 23:14:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gatsby.JS - v3.0 (March 2021 #1)]]></title>
@@ -33,46 +45,40 @@
             <pubDate>Tue, 02 Mar 2021 13:37:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Form validation with React Hooks WITHOUT a library: The Complete Guide]]></title>
-            <link>https://felixgerschau.com/react-hooks-form-validation-typescript/</link>
-            <guid>https://felixgerschau.com/react-hooks-form-validation-typescript/</guid>
-            <pubDate>Mon, 01 Mar 2021 20:02:19 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Variants – a quick tip for better React components | Swizec Teller]]></title>
             <link>https://swizec.com/blog/variants-a-quick-tip-for-better-react-components</link>
             <guid>https://swizec.com/blog/variants-a-quick-tip-for-better-react-components</guid>
             <pubDate>Tue, 02 Mar 2021 19:12:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hey Guys, checkout another video in "React Hooks" series. "Learn useMemo in 10 Minutes". React hooks for Beginners.]]></title>
-            <link>https://youtu.be/fzd2bvlyr70</link>
-            <guid>https://youtu.be/fzd2bvlyr70</guid>
-            <pubDate>Tue, 02 Mar 2021 10:37:14 GMT</pubDate>
+            <title><![CDATA[React Native Tutorial (2021) - React Navigation V5 - Stack Navigator]]></title>
+            <link>https://youtu.be/2ouN6xeF6Hk</link>
+            <guid>https://youtu.be/2ouN6xeF6Hk</guid>
+            <pubDate>Wed, 03 Mar 2021 07:32:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[New video is out! Let me know how I can improve!]]></title>
-            <link>https://youtu.be/ZJzs_uoHNVM</link>
-            <guid>https://youtu.be/ZJzs_uoHNVM</guid>
-            <pubDate>Tue, 02 Mar 2021 19:05:12 GMT</pubDate>
+            <title><![CDATA[My first Create-React-App/Material-UI Project]]></title>
+            <link>https://w5h.herokuapp.com/</link>
+            <guid>https://w5h.herokuapp.com/</guid>
+            <pubDate>Wed, 03 Mar 2021 06:25:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Gyro-web: React hook for accessing the device orientation]]></title>
-            <link>https://trekhleb.dev/blog/2021/gyro-web/</link>
-            <guid>https://trekhleb.dev/blog/2021/gyro-web/</guid>
-            <pubDate>Tue, 02 Mar 2021 18:39:12 GMT</pubDate>
+            <title><![CDATA[I am trying to understand how Redux works under the hood and sharing my learning along the way. I would be covering all the APIs it offers and how can we recreate those functionalities. Any feedback would be much appreciated. 💻]]></title>
+            <link>https://www.youtube.com/playlist?list=PL4ruoTJ8LTT9_vAAZuwQLAnJyKXoMo2Zt</link>
+            <guid>https://www.youtube.com/playlist?list=PL4ruoTJ8LTT9_vAAZuwQLAnJyKXoMo2Zt</guid>
+            <pubDate>Tue, 02 Mar 2021 20:38:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React equivalent of gantt chart with grouped tasks]]></title>
-            <link>https://plotly.com/python/gantt/#group-tasks-together</link>
-            <guid>https://plotly.com/python/gantt/#group-tasks-together</guid>
-            <pubDate>Tue, 02 Mar 2021 17:46:07 GMT</pubDate>
+            <title><![CDATA[Unable to store response data in useState() hook upon refreshing the page]]></title>
+            <link>https://response.data</link>
+            <guid>https://response.data</guid>
+            <pubDate>Wed, 03 Mar 2021 04:44:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hello! I wanna share my first npm package, it's a canvas based chart for React!]]></title>
-            <link>https://github.com/AlexTaietti/poly-chart</link>
-            <guid>https://github.com/AlexTaietti/poly-chart</guid>
-            <pubDate>Tue, 02 Mar 2021 09:57:31 GMT</pubDate>
+            <title><![CDATA[Writing a react component to run a DOS game.]]></title>
+            <link>https://js-dos.com/v7/build/docs/react/</link>
+            <guid>https://js-dos.com/v7/build/docs/react/</guid>
+            <pubDate>Wed, 03 Mar 2021 03:58:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Proof of Concept Project: Hosting React sites on AWS S3 and CloudFront (multiple scenarios)]]></title>
@@ -81,52 +87,28 @@
             <pubDate>Tue, 02 Mar 2021 17:26:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Financial website made with Nextjs valormaior.com]]></title>
-            <link>https://reddit.com/link/lvtkin/video/603srgj1jjk61/player</link>
-            <guid>https://reddit.com/link/lvtkin/video/603srgj1jjk61/player</guid>
-            <pubDate>Tue, 02 Mar 2021 04:13:43 GMT</pubDate>
+            <title><![CDATA[Form validation with React Hooks WITHOUT a library: The Complete Guide]]></title>
+            <link>https://felixgerschau.com/react-hooks-form-validation-typescript/</link>
+            <guid>https://felixgerschau.com/react-hooks-form-validation-typescript/</guid>
+            <pubDate>Mon, 01 Mar 2021 20:02:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[styled-components question: on td:hover highlight every same component]]></title>
-            <link>/r/StyledComponents/comments/lw6knu/on_tdhover_highlight_all_styledcomponents/</link>
-            <guid>/r/StyledComponents/comments/lw6knu/on_tdhover_highlight_all_styledcomponents/</guid>
-            <pubDate>Tue, 02 Mar 2021 16:52:03 GMT</pubDate>
+            <title><![CDATA[react-query mutation update question]]></title>
+            <link>https://react-query.tanstack.com/guides/updates-from-mutation-responses</link>
+            <guid>https://react-query.tanstack.com/guides/updates-from-mutation-responses</guid>
+            <pubDate>Tue, 02 Mar 2021 23:00:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Global Button Click Counter]]></title>
-            <link>https://thereacttimes.com/</link>
-            <guid>https://thereacttimes.com/</guid>
-            <pubDate>Tue, 02 Mar 2021 15:28:14 GMT</pubDate>
+            <title><![CDATA[Get styled and typed components from your CSS files]]></title>
+            <link>https://github.com/sultan99/stylin/blob/main/README.md</link>
+            <guid>https://github.com/sultan99/stylin/blob/main/README.md</guid>
+            <pubDate>Tue, 02 Mar 2021 22:02:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Introducing Leva, a GUI made for React]]></title>
-            <link>https://twitter.com/davidbismut/status/1366329901545046021</link>
-            <guid>https://twitter.com/davidbismut/status/1366329901545046021</guid>
-            <pubDate>Mon, 01 Mar 2021 10:23:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Green Lounge a simple recipe app builds with react, redux, and firebase.]]></title>
-            <link>https://github.com/aumtuhin/The-Green-Lounge</link>
-            <guid>https://github.com/aumtuhin/The-Green-Lounge</guid>
-            <pubDate>Tue, 02 Mar 2021 14:02:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[how to get path to image element in console]]></title>
-            <link>https://imgur.com/a/pA8uoDz</link>
-            <guid>https://imgur.com/a/pA8uoDz</guid>
-            <pubDate>Tue, 02 Mar 2021 12:46:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Learn Material UI in One Hour - Project Tutorial [2021]]]></title>
-            <link>https://youtu.be/Xoz31I1FuiY</link>
-            <guid>https://youtu.be/Xoz31I1FuiY</guid>
-            <pubDate>Tue, 02 Mar 2021 10:30:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to persist setState to each component in a div]]></title>
-            <link>https://github.com/syedzayyan/96wellplate/blob/main/src/App.js</link>
-            <guid>https://github.com/syedzayyan/96wellplate/blob/main/src/App.js</guid>
-            <pubDate>Tue, 02 Mar 2021 09:47:46 GMT</pubDate>
+            <title><![CDATA[Hey Guys, checkout another video in "React Hooks" series. "Learn useMemo in 10 Minutes". React hooks for Beginners.]]></title>
+            <link>https://youtu.be/fzd2bvlyr70</link>
+            <guid>https://youtu.be/fzd2bvlyr70</guid>
+            <pubDate>Tue, 02 Mar 2021 10:37:14 GMT</pubDate>
         </item>
     </channel>
 </rss>

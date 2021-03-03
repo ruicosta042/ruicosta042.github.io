@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Wed, 03 Mar 2021 13:06:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Mar 2021 19:50:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,16 +21,76 @@
             <pubDate>Mon, 01 Mar 2021 15:56:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[I created a browser extension using React, r-beautiful-DND and Chakra UI to manage tabs and notes(https://www.tabExtend.com)]]></title>
+            <link>https://www.youtube.com/watch?v=mDcytkiJOqg</link>
+            <guid>https://www.youtube.com/watch?v=mDcytkiJOqg</guid>
+            <pubDate>Wed, 03 Mar 2021 12:04:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Been learning React the past few months and built a Netflix Clone]]></title>
+            <link>https://v.redd.it/9qpzzw0b5mk61</link>
+            <guid>https://v.redd.it/9qpzzw0b5mk61</guid>
+            <pubDate>Wed, 03 Mar 2021 13:40:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[My first React project: A mood detector based on your recently played songs on Spotify.]]></title>
             <link>https://reddit.com/link/lwf6n7/video/9ll27tip5pk61/player</link>
             <guid>https://reddit.com/link/lwf6n7/video/9ll27tip5pk61/player</guid>
             <pubDate>Tue, 02 Mar 2021 23:10:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I created a browser extension using React, r-beautiful-DND and Chakra UI to manage tabs and notes(https://www.tabExtend.com)]]></title>
-            <link>https://www.youtube.com/watch?v=mDcytkiJOqg</link>
-            <guid>https://www.youtube.com/watch?v=mDcytkiJOqg</guid>
-            <pubDate>Wed, 03 Mar 2021 12:04:35 GMT</pubDate>
+            <title><![CDATA[Hey everyone! I just posted a 4 video series for anyone who is interested in learning GraphQL + React!]]></title>
+            <link>https://www.youtube.com/playlist?list=PLpPqplz6dKxXRJLbOLozaQCB5Py4CEpzS</link>
+            <guid>https://www.youtube.com/playlist?list=PLpPqplz6dKxXRJLbOLozaQCB5Py4CEpzS</guid>
+            <pubDate>Wed, 03 Mar 2021 17:21:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Say hello to our lock-down project: Dexaga]]></title>
+            <link>https://imgur.com/p3bTm7D</link>
+            <guid>https://imgur.com/p3bTm7D</guid>
+            <pubDate>Wed, 03 Mar 2021 16:00:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Create Storybook Addon — launching a new kit and in-depth guide]]></title>
+            <link>https://storybook.js.org/blog/create-storybook-addon/</link>
+            <guid>https://storybook.js.org/blog/create-storybook-addon/</guid>
+            <pubDate>Wed, 03 Mar 2021 17:04:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bored building Todo apps? Here's a tutorial on building a Data Visualization App with React and porting it to Microsoft Teams.]]></title>
+            <link>https://www.digitalprimates.net/blog/automating-the-enterprise-how-to-build-a-data-visualization-app-with-react-and-port-it-to-microsoft-teams/</link>
+            <guid>https://www.digitalprimates.net/blog/automating-the-enterprise-how-to-build-a-data-visualization-app-with-react-and-port-it-to-microsoft-teams/</guid>
+            <pubDate>Wed, 03 Mar 2021 14:11:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to bundle/run client-side Javascript with GatsbyJS?]]></title>
+            <link>https://github.com/alexkatz/react-tiny-popover#readme</link>
+            <guid>https://github.com/alexkatz/react-tiny-popover#readme</guid>
+            <pubDate>Wed, 03 Mar 2021 16:30:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Typescript for React and MobX From Beginners to Masters]]></title>
+            <link>https://www.youtube.com/watch?v=nGZCL6Wd_zQ</link>
+            <guid>https://www.youtube.com/watch?v=nGZCL6Wd_zQ</guid>
+            <pubDate>Wed, 03 Mar 2021 15:12:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How do I update the useState variable BEFORE the user clicks a radio button?]]></title>
+            <link>https://codesandbox.io/s/employees-experiment-v17-stable-mhf3o?file=/src/App.js:680-705</link>
+            <guid>https://codesandbox.io/s/employees-experiment-v17-stable-mhf3o?file=/src/App.js:680-705</guid>
+            <pubDate>Wed, 03 Mar 2021 14:51:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[rollup-plugin-obfuscator]]></title>
+            <link>https://github.com/AlirezaHashemi0/rollup-plugin-obfuscator</link>
+            <guid>https://github.com/AlirezaHashemi0/rollup-plugin-obfuscator</guid>
+            <pubDate>Wed, 03 Mar 2021 14:37:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Weather App Project to practice working with an API]]></title>
+            <link>https://bigsondev.com/projects/weather-app-project/</link>
+            <guid>https://bigsondev.com/projects/weather-app-project/</guid>
+            <pubDate>Wed, 03 Mar 2021 10:20:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tutorial for beginners: React Components and Props using API for showing some data]]></title>
@@ -43,72 +103,6 @@
             <link>https://v.redd.it/xtz24104pkk61</link>
             <guid>https://v.redd.it/xtz24104pkk61</guid>
             <pubDate>Tue, 02 Mar 2021 08:10:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Storing data and actions in context vs hook function?]]></title>
-            <link>https://gist.github.com/baaraak/bd56bc2f0ce33913fdf12f6988baf312</link>
-            <guid>https://gist.github.com/baaraak/bd56bc2f0ce33913fdf12f6988baf312</guid>
-            <pubDate>Wed, 03 Mar 2021 11:45:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Making a useEffect function for a microsoft graph api]]></title>
-            <link>https://docs.microsoft.com/en-us/azure/developer/javascript/tutorial/single-page-application-azure-login-button-sdk-msal</link>
-            <guid>https://docs.microsoft.com/en-us/azure/developer/javascript/tutorial/single-page-application-azure-login-button-sdk-msal</guid>
-            <pubDate>Wed, 03 Mar 2021 10:47:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Weather App Project to practice working with an API]]></title>
-            <link>https://bigsondev.com/projects/weather-app-project/</link>
-            <guid>https://bigsondev.com/projects/weather-app-project/</guid>
-            <pubDate>Wed, 03 Mar 2021 10:20:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My first Create-React-App/Material-UI Project]]></title>
-            <link>https://w5h.herokuapp.com/</link>
-            <guid>https://w5h.herokuapp.com/</guid>
-            <pubDate>Wed, 03 Mar 2021 06:25:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Picking Apart Kent C. Dodds’ useAsync Hook]]></title>
-            <link>https://headbutt.io/picking-apart-kents-useasync</link>
-            <guid>https://headbutt.io/picking-apart-kents-useasync</guid>
-            <pubDate>Tue, 02 Mar 2021 23:14:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Best Training & Placement Institute in Pune]]></title>
-            <link>http://www.fusiontechnology.in/react-js-course.php</link>
-            <guid>http://www.fusiontechnology.in/react-js-course.php</guid>
-            <pubDate>Wed, 03 Mar 2021 08:28:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gatsby.JS - v3.0 (March 2021 #1)]]></title>
-            <link>https://www.gatsbyjs.com/docs/reference/release-notes/v3.0/#v30-march-2021-1</link>
-            <guid>https://www.gatsbyjs.com/docs/reference/release-notes/v3.0/#v30-march-2021-1</guid>
-            <pubDate>Tue, 02 Mar 2021 13:37:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Variants – a quick tip for better React components | Swizec Teller]]></title>
-            <link>https://swizec.com/blog/variants-a-quick-tip-for-better-react-components</link>
-            <guid>https://swizec.com/blog/variants-a-quick-tip-for-better-react-components</guid>
-            <pubDate>Tue, 02 Mar 2021 19:12:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React Native Tutorial (2021) - React Navigation V5 - Stack Navigator]]></title>
-            <link>https://youtu.be/2ouN6xeF6Hk</link>
-            <guid>https://youtu.be/2ouN6xeF6Hk</guid>
-            <pubDate>Wed, 03 Mar 2021 07:32:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I am trying to understand how Redux works under the hood and sharing my learning along the way. I would be covering all the APIs it offers and how can we recreate those functionalities. Any feedback would be much appreciated. 💻]]></title>
-            <link>https://www.youtube.com/playlist?list=PL4ruoTJ8LTT9_vAAZuwQLAnJyKXoMo2Zt</link>
-            <guid>https://www.youtube.com/playlist?list=PL4ruoTJ8LTT9_vAAZuwQLAnJyKXoMo2Zt</guid>
-            <pubDate>Tue, 02 Mar 2021 20:38:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Unable to store response data in useState() hook upon refreshing the page]]></title>
-            <link>https://response.data</link>
-            <guid>https://response.data</guid>
-            <pubDate>Wed, 03 Mar 2021 04:44:13 GMT</pubDate>
         </item>
     </channel>
 </rss>

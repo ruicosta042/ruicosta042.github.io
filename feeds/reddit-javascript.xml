@@ -4,10 +4,22 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Wed, 03 Mar 2021 13:06:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Mar 2021 19:50:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[jQuery 3.6.0 Released - "We still have our eyes on a jQuery 4.0 release"]]></title>
+            <link>http://blog.jquery.com/2021/03/02/jquery-3-6-0-released/</link>
+            <guid>http://blog.jquery.com/2021/03/02/jquery-3-6-0-released/</guid>
+            <pubDate>Wed, 03 Mar 2021 16:28:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[JavaScript ES2021 Features You Need to Know]]></title>
+            <link>https://towardsdev.com/javascript-es2021-features-d864eccad081</link>
+            <guid>https://towardsdev.com/javascript-es2021-features-d864eccad081</guid>
+            <pubDate>Wed, 03 Mar 2021 14:18:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[We made an app for search in JavaScript web stack docs, Stack Overflow, and code on GitHub. Now we will make it extensible]]></title>
             <link>https://usedevbook.com/</link>
@@ -15,10 +27,10 @@
             <pubDate>Wed, 03 Mar 2021 04:15:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scalable JSON processing using fs/promises, Async and Oboe]]></title>
-            <link>https://dev.to/kgilpin/scalable-json-processing-using-fs-promises-async-and-oboe-4den</link>
-            <guid>https://dev.to/kgilpin/scalable-json-processing-using-fs-promises-async-and-oboe-4den</guid>
-            <pubDate>Wed, 03 Mar 2021 12:19:56 GMT</pubDate>
+            <title><![CDATA[Announcing our new Free Forever plan Payload, a Node / TypeScript headless CMS]]></title>
+            <link>https://payloadcms.com/blog/free-forever</link>
+            <guid>https://payloadcms.com/blog/free-forever</guid>
+            <pubDate>Wed, 03 Mar 2021 16:54:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Building A LMS In JavaScript: What I Have Accomplished In Two Years]]></title>
@@ -27,10 +39,76 @@
             <pubDate>Wed, 03 Mar 2021 07:59:42 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Launching an Addon Kit and in-depth guide for Storybook]]></title>
+            <link>https://storybook.js.org/blog/create-storybook-addon/</link>
+            <guid>https://storybook.js.org/blog/create-storybook-addon/</guid>
+            <pubDate>Wed, 03 Mar 2021 17:03:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GUN - An open source cybersecurity protocol for syncing decentralized graph data. Used by Internet Archive and Hackernoon.]]></title>
+            <link>https://github.com/amark/gun</link>
+            <guid>https://github.com/amark/gun</guid>
+            <pubDate>Wed, 03 Mar 2021 16:42:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Make Custom Event Listeners in JavaScript]]></title>
+            <link>https://www.webtips.dev/how-to-make-custom-event-listeners-in-javascript</link>
+            <guid>https://www.webtips.dev/how-to-make-custom-event-listeners-in-javascript</guid>
+            <pubDate>Wed, 03 Mar 2021 19:50:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Halftone Mirror (Webcam Required)]]></title>
+            <link>https://codepen.io/JoshuaVB/pen/BaQxNOL</link>
+            <guid>https://codepen.io/JoshuaVB/pen/BaQxNOL</guid>
+            <pubDate>Wed, 03 Mar 2021 19:39:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The JavaScript Templating Landscape | Patrick Steele-Idem]]></title>
+            <link>http://psteeleidem.com/the-javascript-templating-landscape/</link>
+            <guid>http://psteeleidem.com/the-javascript-templating-landscape/</guid>
+            <pubDate>Wed, 03 Mar 2021 19:32:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Fast, smooth React Data Grid]]></title>
             <link>https://grid.glideapps.com</link>
             <guid>https://grid.glideapps.com</guid>
             <pubDate>Tue, 02 Mar 2021 15:44:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[High-level WebGL. Low-level tags.]]></title>
+            <link>https://hugodaniel.com/posts/high-level-webgl-low-level-tags/</link>
+            <guid>https://hugodaniel.com/posts/high-level-webgl-low-level-tags/</guid>
+            <pubDate>Wed, 03 Mar 2021 16:28:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scalable JSON processing using fs/promises, Async and Oboe]]></title>
+            <link>https://dev.to/kgilpin/scalable-json-processing-using-fs-promises-async-and-oboe-4den</link>
+            <guid>https://dev.to/kgilpin/scalable-json-processing-using-fs-promises-async-and-oboe-4den</guid>
+            <pubDate>Wed, 03 Mar 2021 12:19:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[JavaScript Nullish coalescing operator '??' – Panayiotis Georgiou]]></title>
+            <link>https://www.panayiotisgeorgiou.net/javascript-nullish-coalescing-operator/</link>
+            <guid>https://www.panayiotisgeorgiou.net/javascript-nullish-coalescing-operator/</guid>
+            <pubDate>Wed, 03 Mar 2021 16:04:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An experiment: JS + CSS tooltip on checkbox/radio that displays aria-label text]]></title>
+            <link>https://codepen.io/getify/full/rNWKzeB</link>
+            <guid>https://codepen.io/getify/full/rNWKzeB</guid>
+            <pubDate>Wed, 03 Mar 2021 15:24:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The URLPattern API]]></title>
+            <link>https://h3manth.com/new/blog/2021/urlpattern-api/</link>
+            <guid>https://h3manth.com/new/blog/2021/urlpattern-api/</guid>
+            <pubDate>Wed, 03 Mar 2021 15:01:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Archives from Node Module Of The Week]]></title>
+            <link>https://h3manth.com/nmotw/</link>
+            <guid>https://h3manth.com/nmotw/</guid>
+            <pubDate>Wed, 03 Mar 2021 14:17:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Changelog: swc v1.2.50 | swc]]></title>
@@ -69,88 +147,10 @@
             <pubDate>Tue, 02 Mar 2021 12:10:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Exploring Hotwire, the new approach to building responsive web applications - TeamHQ]]></title>
-            <link>https://teamhq.app/blog/tech/5-exploring-hotwire-the-new-approach-to-building-responsive-web-applications</link>
-            <guid>https://teamhq.app/blog/tech/5-exploring-hotwire-the-new-approach-to-building-responsive-web-applications</guid>
-            <pubDate>Wed, 03 Mar 2021 00:16:42 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Open source Twitter un-follower finder web-extension]]></title>
             <link>https://github.com/JafarAkhondali/zerang-yab/</link>
             <guid>https://github.com/JafarAkhondali/zerang-yab/</guid>
             <pubDate>Tue, 02 Mar 2021 19:21:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Building a realtime chat app with Next.js and Vercel]]></title>
-            <link>https://ably.com/blog/realtime-chat-app-nextjs-vercel?utm_source=twitter&amp;utm_medium=sc&amp;utm_campaign=nextjs-vercel</link>
-            <guid>https://ably.com/blog/realtime-chat-app-nextjs-vercel?utm_source=twitter&amp;utm_medium=sc&amp;utm_campaign=nextjs-vercel</guid>
-            <pubDate>Tue, 02 Mar 2021 16:27:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Faster Gitlab CI pipelines by parallelizing Cypress tests with Knapsack Pro]]></title>
-            <link>https://docs.knapsackpro.com/2021/faster-pipelines-with-knapsack-pro-by-parallelizing-cypress-tests-on-gitlab-ci</link>
-            <guid>https://docs.knapsackpro.com/2021/faster-pipelines-with-knapsack-pro-by-parallelizing-cypress-tests-on-gitlab-ci</guid>
-            <pubDate>Tue, 02 Mar 2021 17:32:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[michaljaz/web-minecraft: A FOSS Minecraft client written in JS for the web]]></title>
-            <link>https://github.com/michaljaz/web-minecraft</link>
-            <guid>https://github.com/michaljaz/web-minecraft</guid>
-            <pubDate>Mon, 01 Mar 2021 21:25:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tell a story with your commits - making an app to quickly peek / restore / rearrange coding history]]></title>
-            <link>https://getsturdy.com</link>
-            <guid>https://getsturdy.com</guid>
-            <pubDate>Tue, 02 Mar 2021 22:09:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AskJS] Creating admin-dashboards/internal-tools without doing any front-end development?]]></title>
-            <link>https://interbite.web.app/demo</link>
-            <guid>https://interbite.web.app/demo</guid>
-            <pubDate>Tue, 02 Mar 2021 11:26:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gyro-web: Accessing the device orientation in JavaScript]]></title>
-            <link>https://trekhleb.dev/blog/2021/gyro-web/</link>
-            <guid>https://trekhleb.dev/blog/2021/gyro-web/</guid>
-            <pubDate>Tue, 02 Mar 2021 18:27:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What's New In DevTools (Chrome 90)]]></title>
-            <link>https://developers.google.com/web/updates/2021/02/devtools</link>
-            <guid>https://developers.google.com/web/updates/2021/02/devtools</guid>
-            <pubDate>Mon, 01 Mar 2021 14:08:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Paperclip: A DSL for presentational web components]]></title>
-            <link>https://59bb.medium.com/introducing-paperclip-f392a42311d6</link>
-            <guid>https://59bb.medium.com/introducing-paperclip-f392a42311d6</guid>
-            <pubDate>Mon, 01 Mar 2021 16:09:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JavaScript Modules Versus Components]]></title>
-            <link>https://medium.com/javascript-fanboi/2021-037-javascript-modules-versus-components-dcaeeb0b3b8d</link>
-            <guid>https://medium.com/javascript-fanboi/2021-037-javascript-modules-versus-components-dcaeeb0b3b8d</guid>
-            <pubDate>Tue, 02 Mar 2021 18:29:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[vitejs - Next generation frontend tooling.]]></title>
-            <link>https://github.com/vitejs/vite</link>
-            <guid>https://github.com/vitejs/vite</guid>
-            <pubDate>Mon, 01 Mar 2021 15:52:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[snowpack-start, a tool for easier Snowpack startup]]></title>
-            <link>https://github.com/andrew-1135/snowpack-start</link>
-            <guid>https://github.com/andrew-1135/snowpack-start</guid>
-            <pubDate>Mon, 01 Mar 2021 22:52:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What I look forward to about web development in 2021]]></title>
-            <link>https://blog.6nok.org/what-i-look-forward-to-about-web-development-in-2021/</link>
-            <guid>https://blog.6nok.org/what-i-look-forward-to-about-web-development-in-2021/</guid>
-            <pubDate>Mon, 01 Mar 2021 02:49:30 GMT</pubDate>
         </item>
     </channel>
 </rss>

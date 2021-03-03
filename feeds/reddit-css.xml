@@ -4,10 +4,52 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Wed, 03 Mar 2021 13:06:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Mar 2021 19:50:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Is importing Google Fonts with CSS good practice?]]></title>
+            <link>https://fonts.googleapis.com/css2?family=Play&amp;display=swap</link>
+            <guid>https://fonts.googleapis.com/css2?family=Play&amp;display=swap</guid>
+            <pubDate>Wed, 03 Mar 2021 13:28:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Make an Animated Progress Bar in CSS]]></title>
+            <link>https://www.webtips.dev/how-to-make-an-animated-progress-bar-in-css</link>
+            <guid>https://www.webtips.dev/how-to-make-an-animated-progress-bar-in-css</guid>
+            <pubDate>Wed, 03 Mar 2021 19:49:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to emulate Mastodon-style center panel with CSS grid (rather than nested flexbox)]]></title>
+            <link>https://github.com/Spaceface16518/Reesisms/blob/92e6568887761d849c902b617edc557a8b74e2d8/layouts/default.vue#L53-L113</link>
+            <guid>https://github.com/Spaceface16518/Reesisms/blob/92e6568887761d849c902b617edc557a8b74e2d8/layouts/default.vue#L53-L113</guid>
+            <pubDate>Wed, 03 Mar 2021 19:22:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Help me with elements alignment]]></title>
+            <link>https://wordpress.com</link>
+            <guid>https://wordpress.com</guid>
+            <pubDate>Wed, 03 Mar 2021 18:07:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What the heck, z-index??]]></title>
+            <link>https://www.joshwcomeau.com/css/stacking-contexts/</link>
+            <guid>https://www.joshwcomeau.com/css/stacking-contexts/</guid>
+            <pubDate>Wed, 03 Mar 2021 17:01:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Make white text readable on a white and black background]]></title>
+            <link>https://www.zeitgeistbeweging.nl/</link>
+            <guid>https://www.zeitgeistbeweging.nl/</guid>
+            <pubDate>Wed, 03 Mar 2021 13:46:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Ultimate CSS Grid Tutorial for Beginners (With Interactive Examples)]]></title>
+            <link>https://www.codeinwp.com/blog/css-grid-tutorial-layout/</link>
+            <guid>https://www.codeinwp.com/blog/css-grid-tutorial-layout/</guid>
+            <pubDate>Wed, 03 Mar 2021 13:18:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How To Get Better At CSS]]></title>
             <link>https://planflow.dev/blog/how-to-get-better-at-css/</link>
@@ -67,48 +109,6 @@
             <link>https://css-tricks.com/how-to-map-mouse-position-in-css/</link>
             <guid>https://css-tricks.com/how-to-map-mouse-position-in-css/</guid>
             <pubDate>Tue, 02 Mar 2021 10:41:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Simple Team Cards using HTML and CSS]]></title>
-            <link>https://youtu.be/8UQaALRkCYU</link>
-            <guid>https://youtu.be/8UQaALRkCYU</guid>
-            <pubDate>Mon, 01 Mar 2021 13:09:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Custom Progress Indicator for upload, download and forms]]></title>
-            <link>https://youtu.be/1fdxT7TJBfM</link>
-            <guid>https://youtu.be/1fdxT7TJBfM</guid>
-            <pubDate>Mon, 01 Mar 2021 21:54:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Complete JAVASCRIPT with HTML5,CSS3 from zero to Expert-2021]]></title>
-            <link>https://www.myfreeonlinecourses.com/2021/03/100-off-complete-javascript-with.html</link>
-            <guid>https://www.myfreeonlinecourses.com/2021/03/100-off-complete-javascript-with.html</guid>
-            <pubDate>Mon, 01 Mar 2021 17:42:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Everything You Need to Know About CSS Units]]></title>
-            <link>https://www.webtips.dev/css-units</link>
-            <guid>https://www.webtips.dev/css-units</guid>
-            <pubDate>Mon, 01 Mar 2021 16:11:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why does this not work? I want to make it so that if I hover over the google button in the services section, the lighter version of the image replaces the old one. preferably I would just have a white filter on the image, but that doesn't seem possible.]]></title>
-            <link>https://codepen.io/johnywuijtssl/project/editor/AaVEwN</link>
-            <guid>https://codepen.io/johnywuijtssl/project/editor/AaVEwN</guid>
-            <pubDate>Mon, 01 Mar 2021 19:50:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CSS 3d Layered Image Hover Effects css || 3d Image hover css]]></title>
-            <link>https://youtu.be/e1787IhWWyg</link>
-            <guid>https://youtu.be/e1787IhWWyg</guid>
-            <pubDate>Mon, 01 Mar 2021 18:10:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[Question] Border with different gradients only with CSS]]></title>
-            <link>https://preview.redd.it/3uwqtpsm8ik61.png?width=360&amp;format=png&amp;auto=webp&amp;s=5597ddda7914ee090c45e8dd0255d6b2d8f7d1cf</link>
-            <guid>https://preview.redd.it/3uwqtpsm8ik61.png?width=360&amp;format=png&amp;auto=webp&amp;s=5597ddda7914ee090c45e8dd0255d6b2d8f7d1cf</guid>
-            <pubDate>Mon, 01 Mar 2021 23:58:11 GMT</pubDate>
         </item>
     </channel>
 </rss>

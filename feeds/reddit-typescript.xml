@@ -4,7 +4,7 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Wed, 03 Mar 2021 13:06:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Mar 2021 19:50:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,12 @@
             <link>https://github.com/prisma/prisma</link>
             <guid>https://github.com/prisma/prisma</guid>
             <pubDate>Wed, 03 Mar 2021 02:52:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why are we still using ORMs?]]></title>
+            <link>https://blog.codinghorror.com/object-relational-mapping-is-the-vietnam-of-computer-science/</link>
+            <guid>https://blog.codinghorror.com/object-relational-mapping-is-the-vietnam-of-computer-science/</guid>
+            <pubDate>Wed, 03 Mar 2021 14:53:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Now we can force const contexts]]></title>
@@ -67,12 +73,6 @@
             <link>https://sospedra.me/papers/typescript-unions</link>
             <guid>https://sospedra.me/papers/typescript-unions</guid>
             <pubDate>Fri, 26 Feb 2021 08:57:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How can I generate types using AST?]]></title>
-            <link>https://github.com/microsoft/TypeScript/wiki/Using-the-Compiler-API#creating-and-printing-a-typescript-ast</link>
-            <guid>https://github.com/microsoft/TypeScript/wiki/Using-the-Compiler-API#creating-and-printing-a-typescript-ast</guid>
-            <pubDate>Fri, 26 Feb 2021 17:15:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

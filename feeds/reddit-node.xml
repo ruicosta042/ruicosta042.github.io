@@ -4,15 +4,57 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Wed, 03 Mar 2021 19:50:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Mar 2021 07:51:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Okta Buys Cloud Security Startup Auth0 For $6.5B]]></title>
+            <link>https://www.thetechee.com/2021/03/okta-buys-cloud-security-startup-auth0.html</link>
+            <guid>https://www.thetechee.com/2021/03/okta-buys-cloud-security-startup-auth0.html</guid>
+            <pubDate>Thu, 04 Mar 2021 05:17:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[fs.promises.readFile is 40% slower than fs.readFile]]></title>
+            <link>https://github.com/nodejs/node/issues/37583</link>
+            <guid>https://github.com/nodejs/node/issues/37583</guid>
+            <pubDate>Thu, 04 Mar 2021 05:39:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[datablocks - A Node Based Editor for Working with Data]]></title>
             <link>https://webkid.io/blog/datablocks-node-based-editor-data-processing-visualization/</link>
             <guid>https://webkid.io/blog/datablocks-node-based-editor-data-processing-visualization/</guid>
             <pubDate>Wed, 03 Mar 2021 10:49:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fastify : An Alternative to Express for Backend | Complete Crash Course]]></title>
+            <link>https://youtube.com/watch?v=O0r-jf9Wez4&amp;feature=share</link>
+            <guid>https://youtube.com/watch?v=O0r-jf9Wez4&amp;feature=share</guid>
+            <pubDate>Thu, 04 Mar 2021 04:45:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Securing a privately consumed REST API]]></title>
+            <link>/r/webdev/comments/lvbcgw/securing_a_privately_consumed_rest_api/</link>
+            <guid>/r/webdev/comments/lvbcgw/securing_a_privately_consumed_rest_api/</guid>
+            <pubDate>Thu, 04 Mar 2021 03:41:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Am I following the NODEJS principles correctly?]]></title>
+            <link>https://github.com/kinshuksri25/atlasChroma</link>
+            <guid>https://github.com/kinshuksri25/atlasChroma</guid>
+            <pubDate>Thu, 04 Mar 2021 06:47:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Run Git Commands with Node.js | Dev Extent]]></title>
+            <link>https://www.devextent.com/run-git-command-nodejs/</link>
+            <guid>https://www.devextent.com/run-git-command-nodejs/</guid>
+            <pubDate>Thu, 04 Mar 2021 03:21:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Top 5 NodeJS videos in 2020]]></title>
+            <link>https://blog.meetupfeed.io/nodejs-top5-meetup-videos-2020/</link>
+            <guid>https://blog.meetupfeed.io/nodejs-top5-meetup-videos-2020/</guid>
+            <pubDate>Wed, 03 Mar 2021 23:49:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to log express HTTP requests using morgan with style?]]></title>
@@ -21,16 +63,28 @@
             <pubDate>Wed, 03 Mar 2021 03:17:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[an open source and pure Node.js RPC framework project]]></title>
+            <link>https://github.com/ZhyMC/jigsaw-rpc</link>
+            <guid>https://github.com/ZhyMC/jigsaw-rpc</guid>
+            <pubDate>Wed, 03 Mar 2021 11:20:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Node + node-fetch + https leads to error request to example.com failed, reason: unable to verify the first certificate]]></title>
             <link>https://www.npmjs.com/package/ssl-root-cas#unable-to-verify-the-first-certificate</link>
             <guid>https://www.npmjs.com/package/ssl-root-cas#unable-to-verify-the-first-certificate</guid>
             <pubDate>Wed, 03 Mar 2021 18:48:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[an open source and pure Node.js RPC framework project]]></title>
-            <link>https://github.com/ZhyMC/jigsaw-rpc</link>
-            <guid>https://github.com/ZhyMC/jigsaw-rpc</guid>
-            <pubDate>Wed, 03 Mar 2021 11:20:33 GMT</pubDate>
+            <title><![CDATA[ACCURATE NodeJs Developer Salaries 2021]]></title>
+            <link>https://www.stackchief.com/questions/What%20is%20a%20good%20salary%20for%20a%20software%20engineer%3F</link>
+            <guid>https://www.stackchief.com/questions/What%20is%20a%20good%20salary%20for%20a%20software%20engineer%3F</guid>
+            <pubDate>Wed, 03 Mar 2021 21:42:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Yarn 1 manages conflicting package versions]]></title>
+            <link>https://coding.maier.tech/posts/how-yarn-1-manages-conflicting-package-versions/</link>
+            <guid>https://coding.maier.tech/posts/how-yarn-1-manages-conflicting-package-versions/</guid>
+            <pubDate>Wed, 03 Mar 2021 21:27:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[GUN - An open source cybersecurity protocol for syncing decentralized graph data. Used by Internet Archive and Hackernoon.]]></title>
@@ -43,66 +97,6 @@
             <link>https://theia-ide.org</link>
             <guid>https://theia-ide.org</guid>
             <pubDate>Wed, 03 Mar 2021 04:09:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Most Popular Databases – 2006/2021]]></title>
-            <link>https://statisticsanddata.org/data/the-most-popular-databases-2006-2021/</link>
-            <guid>https://statisticsanddata.org/data/the-most-popular-databases-2006-2021/</guid>
-            <pubDate>Wed, 03 Mar 2021 16:12:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Common Lisp dynamic variables in Node.js]]></title>
-            <link>https://www.npmjs.com/package/dynamic_variables.js</link>
-            <guid>https://www.npmjs.com/package/dynamic_variables.js</guid>
-            <pubDate>Wed, 03 Mar 2021 07:52:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Writing a Node.js GraphQL backend that actually scales]]></title>
-            <link>https://javascript.plainenglish.io/writing-a-node-js-graphql-backend-that-actually-scales-bd5b3411b293</link>
-            <guid>https://javascript.plainenglish.io/writing-a-node-js-graphql-backend-that-actually-scales-bd5b3411b293</guid>
-            <pubDate>Wed, 03 Mar 2021 03:53:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[mysql2-async lightweight convenience library for the age of async/await]]></title>
-            <link>https://www.npmjs.com/package/mysql2-async</link>
-            <guid>https://www.npmjs.com/package/mysql2-async</guid>
-            <pubDate>Wed, 03 Mar 2021 12:41:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Node v15.11.0 (Current)]]></title>
-            <link>https://nodejs.org/en/blog/release/v15.11.0/</link>
-            <guid>https://nodejs.org/en/blog/release/v15.11.0/</guid>
-            <pubDate>Wed, 03 Mar 2021 06:37:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Are you using promises and async / await safely in Node.js?]]></title>
-            <link>https://simonplend.com/are-you-using-promises-and-async-await-safely-in-node-js/</link>
-            <guid>https://simonplend.com/are-you-using-promises-and-async-await-safely-in-node-js/</guid>
-            <pubDate>Wed, 03 Mar 2021 15:17:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OrbitDB - Peer-to-Peer Databases for the Decentralized Web]]></title>
-            <link>https://github.com/orbitdb/orbit-db</link>
-            <guid>https://github.com/orbitdb/orbit-db</guid>
-            <pubDate>Tue, 02 Mar 2021 16:19:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New MERN stack video is out! Let me know how I can improve, like if you liked it, dislike if you didn't and enjoy!]]></title>
-            <link>https://youtu.be/ZJzs_uoHNVM</link>
-            <guid>https://youtu.be/ZJzs_uoHNVM</guid>
-            <pubDate>Tue, 02 Mar 2021 19:10:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introducing a new Node library for accessing the Shopify Admin API]]></title>
-            <link>https://github.com/Shopify/shopify-node-api/blob/main/docs/index.md</link>
-            <guid>https://github.com/Shopify/shopify-node-api/blob/main/docs/index.md</guid>
-            <pubDate>Tue, 02 Mar 2021 07:50:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beginner Question: node, Twitch, and HTML]]></title>
-            <link>https://dev.twitch.tv/docs/irc#building-the-bot</link>
-            <guid>https://dev.twitch.tv/docs/irc#building-the-bot</guid>
-            <pubDate>Tue, 02 Mar 2021 20:59:33 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,22 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Wed, 03 Mar 2021 19:50:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Mar 2021 07:51:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[How to use TypeScript with AppSync Lambda Resolvers]]></title>
+            <link>https://benoitboure.com/how-to-use-typescript-with-appsync-lambda-resolvers</link>
+            <guid>https://benoitboure.com/how-to-use-typescript-with-appsync-lambda-resolvers</guid>
+            <pubDate>Thu, 04 Mar 2021 05:04:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Create a SharePoint File Picker in React with Microsoft Graph and Fluent UI]]></title>
+            <link>https://wim-jongeneel.medium.com/create-a-sharepoint-file-picker-in-react-with-microsoft-graph-and-fluent-ui-8653e3342942?source=friends_link&amp;sk=65a8a47ce20996b0e8571e72d7b272c0</link>
+            <guid>https://wim-jongeneel.medium.com/create-a-sharepoint-file-picker-in-react-with-microsoft-graph-and-fluent-ui-8653e3342942?source=friends_link&amp;sk=65a8a47ce20996b0e8571e72d7b272c0</guid>
+            <pubDate>Wed, 03 Mar 2021 22:30:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[TypeORM - it's not what you think.]]></title>
             <link>https://github.com/prisma/prisma</link>
@@ -67,12 +79,6 @@
             <link>https://www.typescriptlang.org/play?#code/GYVwdgxgLglg9mABAWwKYGd0FUAOAVAC1QEEAnUgQwE8AKC8gLkTMqoB50pSYwBzRAD6IwIZACNUpAHwBKJgDc4MACaIA3gFgAUIl2J6pAHQ4Q6AjQDMMgNzaAvtu0QEnRJ2590TFtQ5cevFKIALyIANoA5MBwcBEANIgRYvQRALq2WmiYuIQk5NQ07gHoNo5azmCuXm7+fCE1HrzoYQBM6U4ucAA2qIZdcLyFhlBwADJwAO6SAMIU6Kg0MjLaQA</link>
             <guid>https://www.typescriptlang.org/play?#code/GYVwdgxgLglg9mABAWwKYGd0FUAOAVAC1QEEAnUgQwE8AKC8gLkTMqoB50pSYwBzRAD6IwIZACNUpAHwBKJgDc4MACaIA3gFgAUIl2J6pAHQ4Q6AjQDMMgNzaAvtu0QEnRJ2590TFtQ5cevFKIALyIANoA5MBwcBEANIgRYvQRALq2WmiYuIQk5NQ07gHoNo5azmCuXm7+fCE1HrzoYQBM6U4ucAA2qIZdcLyFhlBwADJwAO6SAMIU6Kg0MjLaQA</guid>
             <pubDate>Sat, 27 Feb 2021 15:30:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Easy guide to TypeScript unions]]></title>
-            <link>https://sospedra.me/papers/typescript-unions</link>
-            <guid>https://sospedra.me/papers/typescript-unions</guid>
-            <pubDate>Fri, 26 Feb 2021 08:57:55 GMT</pubDate>
         </item>
     </channel>
 </rss>

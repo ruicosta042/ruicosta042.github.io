@@ -4,21 +4,33 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Wed, 03 Mar 2021 19:50:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Mar 2021 07:51:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Is importing Google Fonts with CSS good practice?]]></title>
-            <link>https://fonts.googleapis.com/css2?family=Play&amp;display=swap</link>
-            <guid>https://fonts.googleapis.com/css2?family=Play&amp;display=swap</guid>
-            <pubDate>Wed, 03 Mar 2021 13:28:07 GMT</pubDate>
+            <title><![CDATA[I made an animated sewing triptych entirely in HTML + CSS (no JS). Pretty proud of myself 😊]]></title>
+            <link>https://i.redd.it/yy2mu3dm7kk61.gif</link>
+            <guid>https://i.redd.it/yy2mu3dm7kk61.gif</guid>
+            <pubDate>Thu, 04 Mar 2021 03:47:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to Make an Animated Progress Bar in CSS]]></title>
             <link>https://www.webtips.dev/how-to-make-an-animated-progress-bar-in-css</link>
             <guid>https://www.webtips.dev/how-to-make-an-animated-progress-bar-in-css</guid>
             <pubDate>Wed, 03 Mar 2021 19:49:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hover with sliding Text Animation effect]]></title>
+            <link>https://www.codingflicks.com/2021/02/image-hover-with-sliding-text-animation-effect.html</link>
+            <guid>https://www.codingflicks.com/2021/02/image-hover-with-sliding-text-animation-effect.html</guid>
+            <pubDate>Thu, 04 Mar 2021 07:04:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is importing Google Fonts with CSS good practice?]]></title>
+            <link>https://fonts.googleapis.com/css2?family=Play&amp;display=swap</link>
+            <guid>https://fonts.googleapis.com/css2?family=Play&amp;display=swap</guid>
+            <pubDate>Wed, 03 Mar 2021 13:28:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to emulate Mastodon-style center panel with CSS grid (rather than nested flexbox)]]></title>
@@ -33,12 +45,6 @@
             <pubDate>Wed, 03 Mar 2021 18:07:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What the heck, z-index??]]></title>
-            <link>https://www.joshwcomeau.com/css/stacking-contexts/</link>
-            <guid>https://www.joshwcomeau.com/css/stacking-contexts/</guid>
-            <pubDate>Wed, 03 Mar 2021 17:01:42 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Make white text readable on a white and black background]]></title>
             <link>https://www.zeitgeistbeweging.nl/</link>
             <guid>https://www.zeitgeistbeweging.nl/</guid>
@@ -49,6 +55,12 @@
             <link>https://www.codeinwp.com/blog/css-grid-tutorial-layout/</link>
             <guid>https://www.codeinwp.com/blog/css-grid-tutorial-layout/</guid>
             <pubDate>Wed, 03 Mar 2021 13:18:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What the heck, z-index??]]></title>
+            <link>https://www.joshwcomeau.com/css/stacking-contexts/</link>
+            <guid>https://www.joshwcomeau.com/css/stacking-contexts/</guid>
+            <pubDate>Wed, 03 Mar 2021 17:01:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How To Get Better At CSS]]></title>
@@ -97,18 +109,6 @@
             <link>/r/bootstrap/comments/lw8z9a/how_to_use_container_div_as_scope_for_bootstrap/</link>
             <guid>/r/bootstrap/comments/lw8z9a/how_to_use_container_div_as_scope_for_bootstrap/</guid>
             <pubDate>Tue, 02 Mar 2021 18:29:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hiding Content Responsibly]]></title>
-            <link>https://kittygiraudel.com/2021/02/17/hiding-content-responsibly/</link>
-            <guid>https://kittygiraudel.com/2021/02/17/hiding-content-responsibly/</guid>
-            <pubDate>Tue, 02 Mar 2021 13:41:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Map Mouse Position in CSS]]></title>
-            <link>https://css-tricks.com/how-to-map-mouse-position-in-css/</link>
-            <guid>https://css-tricks.com/how-to-map-mouse-position-in-css/</guid>
-            <pubDate>Tue, 02 Mar 2021 10:41:59 GMT</pubDate>
         </item>
     </channel>
 </rss>

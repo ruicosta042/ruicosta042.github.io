@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Wed, 03 Mar 2021 19:50:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Mar 2021 07:51:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,16 +15,22 @@
             <pubDate>Wed, 03 Mar 2021 16:28:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[I've used the pipe() function 2,560 times and I can tell you it's good!]]></title>
+            <link>https://dev.to/ivan7237d/i-ve-used-the-pipe-function-2-560-times-and-i-can-tell-you-it-s-good-4aal</link>
+            <guid>https://dev.to/ivan7237d/i-ve-used-the-pipe-function-2-560-times-and-i-can-tell-you-it-s-good-4aal</guid>
+            <pubDate>Thu, 04 Mar 2021 01:12:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[JavaScript ES2021 Features You Need to Know]]></title>
             <link>https://towardsdev.com/javascript-es2021-features-d864eccad081</link>
             <guid>https://towardsdev.com/javascript-es2021-features-d864eccad081</guid>
             <pubDate>Wed, 03 Mar 2021 14:18:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[We made an app for search in JavaScript web stack docs, Stack Overflow, and code on GitHub. Now we will make it extensible]]></title>
-            <link>https://usedevbook.com/</link>
-            <guid>https://usedevbook.com/</guid>
-            <pubDate>Wed, 03 Mar 2021 04:15:22 GMT</pubDate>
+            <title><![CDATA[How to Build a Clubhouse Clone]]></title>
+            <link>https://javascript.plainenglish.io/how-to-create-an-app-like-clubhouse-eeb2382da03e</link>
+            <guid>https://javascript.plainenglish.io/how-to-create-an-app-like-clubhouse-eeb2382da03e</guid>
+            <pubDate>Thu, 04 Mar 2021 07:08:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Announcing our new Free Forever plan Payload, a Node / TypeScript headless CMS]]></title>
@@ -33,10 +39,16 @@
             <pubDate>Wed, 03 Mar 2021 16:54:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Building A LMS In JavaScript: What I Have Accomplished In Two Years]]></title>
-            <link>https://rajatsx.medium.com/building-a-lms-what-i-have-accomplished-in-two-years-69d671434f70</link>
-            <guid>https://rajatsx.medium.com/building-a-lms-what-i-have-accomplished-in-two-years-69d671434f70</guid>
-            <pubDate>Wed, 03 Mar 2021 07:59:42 GMT</pubDate>
+            <title><![CDATA[Genius or lunacy? A pattern for using Services As DOM Elements (also, custom elements how-to w/ 5 different libraries)]]></title>
+            <link>https://vadosware.io/post/sade-pattern-services-as-dom-elements/</link>
+            <guid>https://vadosware.io/post/sade-pattern-services-as-dom-elements/</guid>
+            <pubDate>Thu, 04 Mar 2021 03:57:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We made an app for search in JavaScript web stack docs, Stack Overflow, and code on GitHub. Now we will make it extensible]]></title>
+            <link>https://usedevbook.com/</link>
+            <guid>https://usedevbook.com/</guid>
+            <pubDate>Wed, 03 Mar 2021 04:15:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Launching an Addon Kit and in-depth guide for Storybook]]></title>
@@ -45,16 +57,22 @@
             <pubDate>Wed, 03 Mar 2021 17:03:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Building A LMS In JavaScript: What I Have Accomplished In Two Years]]></title>
+            <link>https://rajatsx.medium.com/building-a-lms-what-i-have-accomplished-in-two-years-69d671434f70</link>
+            <guid>https://rajatsx.medium.com/building-a-lms-what-i-have-accomplished-in-two-years-69d671434f70</guid>
+            <pubDate>Wed, 03 Mar 2021 07:59:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[GUN - An open source cybersecurity protocol for syncing decentralized graph data. Used by Internet Archive and Hackernoon.]]></title>
             <link>https://github.com/amark/gun</link>
             <guid>https://github.com/amark/gun</guid>
             <pubDate>Wed, 03 Mar 2021 16:42:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to Make Custom Event Listeners in JavaScript]]></title>
-            <link>https://www.webtips.dev/how-to-make-custom-event-listeners-in-javascript</link>
-            <guid>https://www.webtips.dev/how-to-make-custom-event-listeners-in-javascript</guid>
-            <pubDate>Wed, 03 Mar 2021 19:50:01 GMT</pubDate>
+            <title><![CDATA[Needle - a full featured dependency injection library]]></title>
+            <link>https://github.com/morganstanley/needle</link>
+            <guid>https://github.com/morganstanley/needle</guid>
+            <pubDate>Wed, 03 Mar 2021 19:56:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Halftone Mirror (Webcam Required)]]></title>
@@ -87,10 +105,10 @@
             <pubDate>Wed, 03 Mar 2021 12:19:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[JavaScript Nullish coalescing operator '??' – Panayiotis Georgiou]]></title>
-            <link>https://www.panayiotisgeorgiou.net/javascript-nullish-coalescing-operator/</link>
-            <guid>https://www.panayiotisgeorgiou.net/javascript-nullish-coalescing-operator/</guid>
-            <pubDate>Wed, 03 Mar 2021 16:04:47 GMT</pubDate>
+            <title><![CDATA[Changelog: swc v1.2.50 | swc]]></title>
+            <link>https://swc.rs/blog/2021/03/03/swc-1.2.50</link>
+            <guid>https://swc.rs/blog/2021/03/03/swc-1.2.50</guid>
+            <pubDate>Wed, 03 Mar 2021 12:18:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[An experiment: JS + CSS tooltip on checkbox/radio that displays aria-label text]]></title>
@@ -111,10 +129,10 @@
             <pubDate>Wed, 03 Mar 2021 14:17:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Changelog: swc v1.2.50 | swc]]></title>
-            <link>https://swc.rs/blog/2021/03/03/swc-1.2.50</link>
-            <guid>https://swc.rs/blog/2021/03/03/swc-1.2.50</guid>
-            <pubDate>Wed, 03 Mar 2021 12:18:13 GMT</pubDate>
+            <title><![CDATA[OrbitDB - Peer-to-Peer Databases for the Decentralized Web]]></title>
+            <link>https://github.com/orbitdb/orbit-db</link>
+            <guid>https://github.com/orbitdb/orbit-db</guid>
+            <pubDate>Tue, 02 Mar 2021 16:19:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scratching my own itch: a JavaScript slide show for full screen looping GIFs and MP4s]]></title>
@@ -123,34 +141,10 @@
             <pubDate>Wed, 03 Mar 2021 03:55:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[OrbitDB - Peer-to-Peer Databases for the Decentralized Web]]></title>
-            <link>https://github.com/orbitdb/orbit-db</link>
-            <guid>https://github.com/orbitdb/orbit-db</guid>
-            <pubDate>Tue, 02 Mar 2021 16:19:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[React 17 stops event bubbling in scroll event]]></title>
             <link>https://blog.saeloun.com/2021/03/02/react-17-removes-bubbling-from-onscroll</link>
             <guid>https://blog.saeloun.com/2021/03/02/react-17-removes-bubbling-from-onscroll</guid>
             <pubDate>Tue, 02 Mar 2021 07:03:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jspm.org - Import Maps Release & Module CDN Launch]]></title>
-            <link>https://jspm.org/import-map-cdn</link>
-            <guid>https://jspm.org/import-map-cdn</guid>
-            <pubDate>Tue, 02 Mar 2021 23:48:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Uppy File Uploader v1.26]]></title>
-            <link>https://uppy.io/blog/2021/02/1.26/</link>
-            <guid>https://uppy.io/blog/2021/02/1.26/</guid>
-            <pubDate>Tue, 02 Mar 2021 12:10:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Open source Twitter un-follower finder web-extension]]></title>
-            <link>https://github.com/JafarAkhondali/zerang-yab/</link>
-            <guid>https://github.com/JafarAkhondali/zerang-yab/</guid>
-            <pubDate>Tue, 02 Mar 2021 19:21:31 GMT</pubDate>
         </item>
     </channel>
 </rss>

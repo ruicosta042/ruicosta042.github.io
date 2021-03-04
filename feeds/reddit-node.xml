@@ -4,7 +4,7 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Thu, 04 Mar 2021 07:51:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Mar 2021 13:06:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -31,6 +31,12 @@
             <link>https://youtube.com/watch?v=O0r-jf9Wez4&amp;feature=share</link>
             <guid>https://youtube.com/watch?v=O0r-jf9Wez4&amp;feature=share</guid>
             <pubDate>Thu, 04 Mar 2021 04:45:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How To update Node js to the latest version on Ubuntu Linux]]></title>
+            <link>https://www.youtube.com/watch?v=IjJxHfWiz9Y&amp;ab_channel=AsimCode</link>
+            <guid>https://www.youtube.com/watch?v=IjJxHfWiz9Y&amp;ab_channel=AsimCode</guid>
+            <pubDate>Thu, 04 Mar 2021 10:19:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Securing a privately consumed REST API]]></title>
@@ -63,6 +69,12 @@
             <pubDate>Wed, 03 Mar 2021 03:17:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[GUN - An open source cybersecurity protocol for syncing decentralized graph data. Used by Internet Archive and Hackernoon.]]></title>
+            <link>https://github.com/amark/gun</link>
+            <guid>https://github.com/amark/gun</guid>
+            <pubDate>Wed, 03 Mar 2021 16:42:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[an open source and pure Node.js RPC framework project]]></title>
             <link>https://github.com/ZhyMC/jigsaw-rpc</link>
             <guid>https://github.com/ZhyMC/jigsaw-rpc</guid>
@@ -73,30 +85,6 @@
             <link>https://www.npmjs.com/package/ssl-root-cas#unable-to-verify-the-first-certificate</link>
             <guid>https://www.npmjs.com/package/ssl-root-cas#unable-to-verify-the-first-certificate</guid>
             <pubDate>Wed, 03 Mar 2021 18:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ACCURATE NodeJs Developer Salaries 2021]]></title>
-            <link>https://www.stackchief.com/questions/What%20is%20a%20good%20salary%20for%20a%20software%20engineer%3F</link>
-            <guid>https://www.stackchief.com/questions/What%20is%20a%20good%20salary%20for%20a%20software%20engineer%3F</guid>
-            <pubDate>Wed, 03 Mar 2021 21:42:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Yarn 1 manages conflicting package versions]]></title>
-            <link>https://coding.maier.tech/posts/how-yarn-1-manages-conflicting-package-versions/</link>
-            <guid>https://coding.maier.tech/posts/how-yarn-1-manages-conflicting-package-versions/</guid>
-            <pubDate>Wed, 03 Mar 2021 21:27:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GUN - An open source cybersecurity protocol for syncing decentralized graph data. Used by Internet Archive and Hackernoon.]]></title>
-            <link>https://github.com/amark/gun</link>
-            <guid>https://github.com/amark/gun</guid>
-            <pubDate>Wed, 03 Mar 2021 16:42:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How can I inspect memory usage per package in a large node application?]]></title>
-            <link>https://theia-ide.org</link>
-            <guid>https://theia-ide.org</guid>
-            <pubDate>Wed, 03 Mar 2021 04:09:54 GMT</pubDate>
         </item>
     </channel>
 </rss>

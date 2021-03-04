@@ -4,10 +4,16 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Thu, 04 Mar 2021 07:51:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Mar 2021 13:06:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[TypeScript reached 69k stars on GitHub]]></title>
+            <link>https://twitter.com/GitHubTracker/status/1367369294800158720?s=20</link>
+            <guid>https://twitter.com/GitHubTracker/status/1367369294800158720?s=20</guid>
+            <pubDate>Thu, 04 Mar 2021 10:38:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to use TypeScript with AppSync Lambda Resolvers]]></title>
             <link>https://benoitboure.com/how-to-use-typescript-with-appsync-lambda-resolvers</link>
@@ -27,16 +33,16 @@
             <pubDate>Wed, 03 Mar 2021 02:52:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why are we still using ORMs?]]></title>
-            <link>https://blog.codinghorror.com/object-relational-mapping-is-the-vietnam-of-computer-science/</link>
-            <guid>https://blog.codinghorror.com/object-relational-mapping-is-the-vietnam-of-computer-science/</guid>
-            <pubDate>Wed, 03 Mar 2021 14:53:08 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Now we can force const contexts]]></title>
             <link>https://preview.redd.it/5yauy230kmk61.png?width=973&amp;format=png&amp;auto=webp&amp;s=89429f02adf19363d35e539aac46c38f585488b5</link>
             <guid>https://preview.redd.it/5yauy230kmk61.png?width=973&amp;format=png&amp;auto=webp&amp;s=89429f02adf19363d35e539aac46c38f585488b5</guid>
             <pubDate>Tue, 02 Mar 2021 14:30:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why are we still using ORMs?]]></title>
+            <link>https://blog.codinghorror.com/object-relational-mapping-is-the-vietnam-of-computer-science/</link>
+            <guid>https://blog.codinghorror.com/object-relational-mapping-is-the-vietnam-of-computer-science/</guid>
+            <pubDate>Wed, 03 Mar 2021 14:53:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Find missing cases in your switch statements]]></title>

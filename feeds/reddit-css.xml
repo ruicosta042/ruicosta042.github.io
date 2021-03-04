@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Thu, 04 Mar 2021 07:51:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Mar 2021 13:06:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,30 @@
             <link>https://i.redd.it/yy2mu3dm7kk61.gif</link>
             <guid>https://i.redd.it/yy2mu3dm7kk61.gif</guid>
             <pubDate>Thu, 04 Mar 2021 03:47:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stop bootstrap websites from looking the same by Arman Hezarkhani]]></title>
+            <link>https://www.parthean.com/blog/all-bootstrap-sites-look-the-same-heres-how-i-get-around-it</link>
+            <guid>https://www.parthean.com/blog/all-bootstrap-sites-look-the-same-heres-how-i-get-around-it</guid>
+            <pubDate>Thu, 04 Mar 2021 09:09:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Glassmorphism CSS Generator - Glassmorphism Is A Unified Name For The Popular Frosted Glass Aesthetic.]]></title>
+            <link>https://glassmorphism.com/</link>
+            <guid>https://glassmorphism.com/</guid>
+            <pubDate>Thu, 04 Mar 2021 12:52:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How do I make my own link to my website?]]></title>
+            <link>https://www.firstaidph.com</link>
+            <guid>https://www.firstaidph.com</guid>
+            <pubDate>Thu, 04 Mar 2021 12:46:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hide text completely if it overflows]]></title>
+            <link>https://preview.redd.it/dqytb1d6pzk61.png?width=78&amp;format=png&amp;auto=webp&amp;s=9eb127f53fe582d4c8fb60ba1a97063214492187</link>
+            <guid>https://preview.redd.it/dqytb1d6pzk61.png?width=78&amp;format=png&amp;auto=webp&amp;s=9eb127f53fe582d4c8fb60ba1a97063214492187</guid>
+            <pubDate>Thu, 04 Mar 2021 10:37:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to Make an Animated Progress Bar in CSS]]></title>
@@ -85,30 +109,6 @@
             <link>https://www.bennadel.com/blog/3970-using-css-target-pseudo-class-to-toggle-element-display.htm</link>
             <guid>https://www.bennadel.com/blog/3970-using-css-target-pseudo-class-to-toggle-element-display.htm</guid>
             <pubDate>Tue, 02 Mar 2021 10:24:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How To Make PlayStation 5 UI with CSS Animations (35.9 KB GitHub repo with complete source code)]]></title>
-            <link>https://semicolon.dev/tutorial/javascript/ps5-ui-js</link>
-            <guid>https://semicolon.dev/tutorial/javascript/ps5-ui-js</guid>
-            <pubDate>Tue, 02 Mar 2021 20:45:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Safari (iOS) renders symbols very strange]]></title>
-            <link>https://preview.redd.it/0c3rsjtr1ok61.png?width=572&amp;format=png&amp;auto=webp&amp;s=e3aa3750d209d0e09a76c2f4633af827da53ff03</link>
-            <guid>https://preview.redd.it/0c3rsjtr1ok61.png?width=572&amp;format=png&amp;auto=webp&amp;s=e3aa3750d209d0e09a76c2f4633af827da53ff03</guid>
-            <pubDate>Tue, 02 Mar 2021 19:28:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How do I catch parsing errors with nested brackets?]]></title>
-            <link>https://imgur.com/a/ISqv17T</link>
-            <guid>https://imgur.com/a/ISqv17T</guid>
-            <pubDate>Tue, 02 Mar 2021 18:41:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to use container div as scope for bootstrap size classes]]></title>
-            <link>/r/bootstrap/comments/lw8z9a/how_to_use_container_div_as_scope_for_bootstrap/</link>
-            <guid>/r/bootstrap/comments/lw8z9a/how_to_use_container_div_as_scope_for_bootstrap/</guid>
-            <pubDate>Tue, 02 Mar 2021 18:29:03 GMT</pubDate>
         </item>
     </channel>
 </rss>

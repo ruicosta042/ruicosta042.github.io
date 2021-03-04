@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Thu, 04 Mar 2021 07:51:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Mar 2021 13:06:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -33,10 +33,22 @@
             <pubDate>Wed, 03 Mar 2021 22:31:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Created A Marvel Studios Catalogue Website using Hooks, Json Handling, maps, filter, Material Ui, etc.]]></title>
+            <link>https://marvelcatalogue.firebaseapp.com/</link>
+            <guid>https://marvelcatalogue.firebaseapp.com/</guid>
+            <pubDate>Thu, 04 Mar 2021 09:11:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Been learning React the past few months and built a Netflix Clone]]></title>
             <link>https://v.redd.it/9qpzzw0b5mk61</link>
             <guid>https://v.redd.it/9qpzzw0b5mk61</guid>
             <pubDate>Wed, 03 Mar 2021 13:40:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to implement smooth feeling drag and drop interactions?]]></title>
+            <link>https://github.com/Jenyus-Org/JenyusHQ-Prototype</link>
+            <guid>https://github.com/Jenyus-Org/JenyusHQ-Prototype</guid>
+            <pubDate>Thu, 04 Mar 2021 09:01:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hey everyone! I just posted a 4 video series for anyone who is interested in learning GraphQL + React!]]></title>
@@ -49,6 +61,36 @@
             <link>https://reddit.com/link/lwf6n7/video/9ll27tip5pk61/player</link>
             <guid>https://reddit.com/link/lwf6n7/video/9ll27tip5pk61/player</guid>
             <pubDate>Tue, 02 Mar 2021 23:10:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Create Storybook Addon — launching a new kit and in-depth guide]]></title>
+            <link>https://storybook.js.org/blog/create-storybook-addon/</link>
+            <guid>https://storybook.js.org/blog/create-storybook-addon/</guid>
+            <pubDate>Wed, 03 Mar 2021 17:04:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cypress vs. Testing Library?]]></title>
+            <link>https://github.com/testing-library/cypress-testing-library</link>
+            <guid>https://github.com/testing-library/cypress-testing-library</guid>
+            <pubDate>Wed, 03 Mar 2021 23:42:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An open source Roam demo in Homebase React]]></title>
+            <link>https://youtu.be/FdepJejdxW0</link>
+            <guid>https://youtu.be/FdepJejdxW0</guid>
+            <pubDate>Wed, 03 Mar 2021 20:50:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to create React website: useState Hook]]></title>
+            <link>https://youtu.be/DG5FjwBfOWY</link>
+            <guid>https://youtu.be/DG5FjwBfOWY</guid>
+            <pubDate>Thu, 04 Mar 2021 09:46:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Animated Menu with Framer Motion and Tailwind [PT-BR]]]></title>
+            <link>https://www.youtube.com/watch?v=Tq84uogcByM&amp;feature=youtu.be</link>
+            <guid>https://www.youtube.com/watch?v=Tq84uogcByM&amp;feature=youtu.be</guid>
+            <pubDate>Wed, 03 Mar 2021 22:03:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Help wit component which won't render.]]></title>
@@ -69,58 +111,10 @@
             <pubDate>Thu, 04 Mar 2021 01:34:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[An open source Roam demo in Homebase React]]></title>
-            <link>https://youtu.be/FdepJejdxW0</link>
-            <guid>https://youtu.be/FdepJejdxW0</guid>
-            <pubDate>Wed, 03 Mar 2021 20:50:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Animated Menu with Framer Motion and Tailwind [PT-BR]]]></title>
-            <link>https://www.youtube.com/watch?v=Tq84uogcByM&amp;feature=youtu.be</link>
-            <guid>https://www.youtube.com/watch?v=Tq84uogcByM&amp;feature=youtu.be</guid>
-            <pubDate>Wed, 03 Mar 2021 22:03:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Create Storybook Addon — launching a new kit and in-depth guide]]></title>
-            <link>https://storybook.js.org/blog/create-storybook-addon/</link>
-            <guid>https://storybook.js.org/blog/create-storybook-addon/</guid>
-            <pubDate>Wed, 03 Mar 2021 17:04:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cypress vs. Testing Library?]]></title>
-            <link>https://github.com/testing-library/cypress-testing-library</link>
-            <guid>https://github.com/testing-library/cypress-testing-library</guid>
-            <pubDate>Wed, 03 Mar 2021 23:42:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iron Man - Fight Moves & Flight Compilation in 3 minutes hd]]></title>
-            <link>https://www.youtube.com/watch?v=77YKW7ETUIw&amp;t=8s</link>
-            <guid>https://www.youtube.com/watch?v=77YKW7ETUIw&amp;t=8s</guid>
-            <pubDate>Thu, 04 Mar 2021 05:01:40 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Why does React's repo use JS file but with type annotations?]]></title>
             <link>https://ibb.co/nkNnTb3</link>
             <guid>https://ibb.co/nkNnTb3</guid>
             <pubDate>Wed, 03 Mar 2021 22:57:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bored building Todo apps? Here's a tutorial on building a Data Visualization App with React and porting it to Microsoft Teams.]]></title>
-            <link>https://www.digitalprimates.net/blog/automating-the-enterprise-how-to-build-a-data-visualization-app-with-react-and-port-it-to-microsoft-teams/</link>
-            <guid>https://www.digitalprimates.net/blog/automating-the-enterprise-how-to-build-a-data-visualization-app-with-react-and-port-it-to-microsoft-teams/</guid>
-            <pubDate>Wed, 03 Mar 2021 14:11:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Low-Hanging Fruits of Web Security]]></title>
-            <link>https://karmasakshi.medium.com/low-hanging-fruits-of-web-security-58a1016944bb?source=friends_link&amp;sk=766708e3821a989fddc12253b6f814bc</link>
-            <guid>https://karmasakshi.medium.com/low-hanging-fruits-of-web-security-58a1016944bb?source=friends_link&amp;sk=766708e3821a989fddc12253b6f814bc</guid>
-            <pubDate>Wed, 03 Mar 2021 22:35:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I've rebuilt my portfolio. Now it loads in less than 1 sec! Here's how I did it! ⚡]]></title>
-            <link>https://blog.jskoneczny.pl/post/i-ve-rebuilt-my-portfolio-now-it-loads-in-1-sec-here-is-how-i-did-it</link>
-            <guid>https://blog.jskoneczny.pl/post/i-ve-rebuilt-my-portfolio-now-it-loads-in-1-sec-here-is-how-i-did-it</guid>
-            <pubDate>Wed, 03 Mar 2021 20:40:04 GMT</pubDate>
         </item>
     </channel>
 </rss>

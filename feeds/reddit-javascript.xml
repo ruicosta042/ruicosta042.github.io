@@ -4,15 +4,15 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Thu, 04 Mar 2021 13:06:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Mar 2021 19:50:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[jQuery 3.6.0 Released - "We still have our eyes on a jQuery 4.0 release"]]></title>
-            <link>http://blog.jquery.com/2021/03/02/jquery-3-6-0-released/</link>
-            <guid>http://blog.jquery.com/2021/03/02/jquery-3-6-0-released/</guid>
-            <pubDate>Wed, 03 Mar 2021 16:28:58 GMT</pubDate>
+            <title><![CDATA[OkCupid Presents: Modeling UI States in A React Form Component Using A Finite State Machine]]></title>
+            <link>https://tech.okcupid.com/modeling-ui-states-in-react-form-component-using-finite-state-machine/</link>
+            <guid>https://tech.okcupid.com/modeling-ui-states-in-react-form-component-using-finite-state-machine/</guid>
+            <pubDate>Thu, 04 Mar 2021 14:50:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to Build a Clubhouse Clone]]></title>
@@ -21,16 +21,34 @@
             <pubDate>Thu, 04 Mar 2021 07:08:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I've used the pipe() function 2,560 times and I can tell you it's good!]]></title>
-            <link>https://dev.to/ivan7237d/i-ve-used-the-pipe-function-2-560-times-and-i-can-tell-you-it-s-good-4aal</link>
-            <guid>https://dev.to/ivan7237d/i-ve-used-the-pipe-function-2-560-times-and-i-can-tell-you-it-s-good-4aal</guid>
-            <pubDate>Thu, 04 Mar 2021 01:12:21 GMT</pubDate>
+            <title><![CDATA[jQuery 3.6.0 Released - "We still have our eyes on a jQuery 4.0 release"]]></title>
+            <link>http://blog.jquery.com/2021/03/02/jquery-3-6-0-released/</link>
+            <guid>http://blog.jquery.com/2021/03/02/jquery-3-6-0-released/</guid>
+            <pubDate>Wed, 03 Mar 2021 16:28:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Using BigQuery Public Datasets to build an analytical app and research the impact of COVID-19]]></title>
+            <link>https://bigquery-public-datasets.cube.dev</link>
+            <guid>https://bigquery-public-datasets.cube.dev</guid>
+            <pubDate>Thu, 04 Mar 2021 18:20:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Genius or lunacy? A pattern for using Services As DOM Elements (also, custom elements how-to w/ 5 different libraries)]]></title>
             <link>https://vadosware.io/post/sade-pattern-services-as-dom-elements/</link>
             <guid>https://vadosware.io/post/sade-pattern-services-as-dom-elements/</guid>
             <pubDate>Thu, 04 Mar 2021 03:57:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Visual Studio Code February 2021]]></title>
+            <link>https://code.visualstudio.com/updates/v1_54</link>
+            <guid>https://code.visualstudio.com/updates/v1_54</guid>
+            <pubDate>Thu, 04 Mar 2021 18:12:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I've used the pipe() function 2,560 times and I can tell you it's good!]]></title>
+            <link>https://dev.to/ivan7237d/i-ve-used-the-pipe-function-2-560-times-and-i-can-tell-you-it-s-good-4aal</link>
+            <guid>https://dev.to/ivan7237d/i-ve-used-the-pipe-function-2-560-times-and-i-can-tell-you-it-s-good-4aal</guid>
+            <pubDate>Thu, 04 Mar 2021 01:12:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[JavaScript ES2021 Features You Need to Know]]></title>
@@ -121,30 +139,6 @@
             <link>https://codepen.io/getify/full/rNWKzeB</link>
             <guid>https://codepen.io/getify/full/rNWKzeB</guid>
             <pubDate>Wed, 03 Mar 2021 15:24:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The URLPattern API]]></title>
-            <link>https://h3manth.com/new/blog/2021/urlpattern-api/</link>
-            <guid>https://h3manth.com/new/blog/2021/urlpattern-api/</guid>
-            <pubDate>Wed, 03 Mar 2021 15:01:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Archives from Node Module Of The Week]]></title>
-            <link>https://h3manth.com/nmotw/</link>
-            <guid>https://h3manth.com/nmotw/</guid>
-            <pubDate>Wed, 03 Mar 2021 14:17:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OrbitDB - Peer-to-Peer Databases for the Decentralized Web]]></title>
-            <link>https://github.com/orbitdb/orbit-db</link>
-            <guid>https://github.com/orbitdb/orbit-db</guid>
-            <pubDate>Tue, 02 Mar 2021 16:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scratching my own itch: a JavaScript slide show for full screen looping GIFs and MP4s]]></title>
-            <link>https://christianheilmann.com/2021/02/25/scratching-my-own-itch-a-javascript-slide-show-for-full-screen-looping-gifs-and-mp4s/</link>
-            <guid>https://christianheilmann.com/2021/02/25/scratching-my-own-itch-a-javascript-slide-show-for-full-screen-looping-gifs-and-mp4s/</guid>
-            <pubDate>Wed, 03 Mar 2021 03:55:02 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Thu, 04 Mar 2021 13:06:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Mar 2021 19:50:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,10 +21,22 @@
             <pubDate>Thu, 04 Mar 2021 05:39:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[datablocks - A Node Based Editor for Working with Data]]></title>
-            <link>https://webkid.io/blog/datablocks-node-based-editor-data-processing-visualization/</link>
-            <guid>https://webkid.io/blog/datablocks-node-based-editor-data-processing-visualization/</guid>
-            <pubDate>Wed, 03 Mar 2021 10:49:25 GMT</pubDate>
+            <title><![CDATA[6 Ways to Create Objects in Javascript — Intro to Object & Prototype]]></title>
+            <link>https://beforesemicolon.medium.com/6-ways-to-create-objects-in-javascript-intro-to-object-prototype-5fe8dc657071</link>
+            <guid>https://beforesemicolon.medium.com/6-ways-to-create-objects-in-javascript-intro-to-object-prototype-5fe8dc657071</guid>
+            <pubDate>Thu, 04 Mar 2021 18:27:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Streaming Video Server With Node.js]]></title>
+            <link>https://youtu.be/hUeib7Ko8qQ</link>
+            <guid>https://youtu.be/hUeib7Ko8qQ</guid>
+            <pubDate>Thu, 04 Mar 2021 13:41:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Unable to send email]]></title>
+            <link>https://74.125.130.108:587</link>
+            <guid>https://74.125.130.108:587</guid>
+            <pubDate>Thu, 04 Mar 2021 13:07:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fastify : An Alternative to Express for Backend | Complete Crash Course]]></title>
@@ -33,10 +45,10 @@
             <pubDate>Thu, 04 Mar 2021 04:45:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How To update Node js to the latest version on Ubuntu Linux]]></title>
-            <link>https://www.youtube.com/watch?v=IjJxHfWiz9Y&amp;ab_channel=AsimCode</link>
-            <guid>https://www.youtube.com/watch?v=IjJxHfWiz9Y&amp;ab_channel=AsimCode</guid>
-            <pubDate>Thu, 04 Mar 2021 10:19:43 GMT</pubDate>
+            <title><![CDATA[datablocks - A Node Based Editor for Working with Data]]></title>
+            <link>https://webkid.io/blog/datablocks-node-based-editor-data-processing-visualization/</link>
+            <guid>https://webkid.io/blog/datablocks-node-based-editor-data-processing-visualization/</guid>
+            <pubDate>Wed, 03 Mar 2021 10:49:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Securing a privately consumed REST API]]></title>
@@ -49,6 +61,12 @@
             <link>https://github.com/kinshuksri25/atlasChroma</link>
             <guid>https://github.com/kinshuksri25/atlasChroma</guid>
             <pubDate>Thu, 04 Mar 2021 06:47:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How To update Node js to the latest version on Ubuntu Linux]]></title>
+            <link>https://www.youtube.com/watch?v=IjJxHfWiz9Y&amp;ab_channel=AsimCode</link>
+            <guid>https://www.youtube.com/watch?v=IjJxHfWiz9Y&amp;ab_channel=AsimCode</guid>
+            <pubDate>Thu, 04 Mar 2021 10:19:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Run Git Commands with Node.js | Dev Extent]]></title>
@@ -67,24 +85,6 @@
             <link>https://blog.supercharged.dev/how-to-log-express-http-requests-using-morgan-with-style</link>
             <guid>https://blog.supercharged.dev/how-to-log-express-http-requests-using-morgan-with-style</guid>
             <pubDate>Wed, 03 Mar 2021 03:17:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GUN - An open source cybersecurity protocol for syncing decentralized graph data. Used by Internet Archive and Hackernoon.]]></title>
-            <link>https://github.com/amark/gun</link>
-            <guid>https://github.com/amark/gun</guid>
-            <pubDate>Wed, 03 Mar 2021 16:42:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[an open source and pure Node.js RPC framework project]]></title>
-            <link>https://github.com/ZhyMC/jigsaw-rpc</link>
-            <guid>https://github.com/ZhyMC/jigsaw-rpc</guid>
-            <pubDate>Wed, 03 Mar 2021 11:20:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Node + node-fetch + https leads to error request to example.com failed, reason: unable to verify the first certificate]]></title>
-            <link>https://www.npmjs.com/package/ssl-root-cas#unable-to-verify-the-first-certificate</link>
-            <guid>https://www.npmjs.com/package/ssl-root-cas#unable-to-verify-the-first-certificate</guid>
-            <pubDate>Wed, 03 Mar 2021 18:48:44 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Thu, 04 Mar 2021 13:06:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Mar 2021 19:50:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,10 +21,40 @@
             <pubDate>Mon, 01 Mar 2021 15:56:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[React Exercises With Detailed Solutions]]></title>
+            <link>https://v.redd.it/zfscv6p601l61</link>
+            <guid>https://v.redd.it/zfscv6p601l61</guid>
+            <pubDate>Thu, 04 Mar 2021 15:00:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I made a simple mobile-first MERN app to keep track of online stuff I want to view later. Used Material UI for the interface & Context API for state management.]]></title>
+            <link>https://v.redd.it/60il4gggo0l61</link>
+            <guid>https://v.redd.it/60il4gggo0l61</guid>
+            <pubDate>Thu, 04 Mar 2021 14:00:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reflectly Tabbar - “Can it be done in React Native?”]]></title>
+            <link>https://www.youtube.com/watch?v=B52na2LxQu4</link>
+            <guid>https://www.youtube.com/watch?v=B52na2LxQu4</guid>
+            <pubDate>Thu, 04 Mar 2021 16:16:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I created a browser extension using React, r-beautiful-DND and Chakra UI to manage tabs and notes(https://www.tabExtend.com)]]></title>
             <link>https://www.youtube.com/watch?v=mDcytkiJOqg</link>
             <guid>https://www.youtube.com/watch?v=mDcytkiJOqg</guid>
             <pubDate>Wed, 03 Mar 2021 12:04:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[i have built a collection of React Components with Tailwind css]]></title>
+            <link>https://kimia-ui.vercel.app/</link>
+            <guid>https://kimia-ui.vercel.app/</guid>
+            <pubDate>Thu, 04 Mar 2021 19:18:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React 17 DOM tree inside of React 16.2 DOM]]></title>
+            <link>https://github.com/reactjs/react-gradual-upgrade-demo/</link>
+            <guid>https://github.com/reactjs/react-gradual-upgrade-demo/</guid>
+            <pubDate>Thu, 04 Mar 2021 19:09:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[This is our geospactial/chart visualization dashboard builder. 100% React + Typescript + NextJS]]></title>
@@ -33,88 +63,58 @@
             <pubDate>Wed, 03 Mar 2021 22:31:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[I was wondering how Redux works and started building my own version. This video includes createStore API and what goes under the hood. Any feedback would be appreciated. 🚀]]></title>
+            <link>https://youtu.be/OS8oCMZCKno</link>
+            <guid>https://youtu.be/OS8oCMZCKno</guid>
+            <pubDate>Thu, 04 Mar 2021 18:54:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How can I animate sections with 100vh and overflow hidden?]]></title>
+            <link>https://codesandbox.io/s/affectionate-merkle-1czks?file=/src/App.js</link>
+            <guid>https://codesandbox.io/s/affectionate-merkle-1czks?file=/src/App.js</guid>
+            <pubDate>Thu, 04 Mar 2021 17:35:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Help SVG in React learning path]]></title>
+            <link>https://www.canstockphoto.com/factory-automated-production-line-vector-51587724.html</link>
+            <guid>https://www.canstockphoto.com/factory-automated-production-line-vector-51587724.html</guid>
+            <pubDate>Thu, 04 Mar 2021 16:36:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can someone help me with this code?]]></title>
+            <link>https://stackoverflow.com/questions/66478083/using-react-forms-with-autocomplete-mui-component</link>
+            <guid>https://stackoverflow.com/questions/66478083/using-react-forms-with-autocomplete-mui-component</guid>
+            <pubDate>Thu, 04 Mar 2021 15:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Just launched an Open Source GraphQL API Aggregator, looking for beta-testers!]]></title>
+            <link>https://www.graphql-portal.com</link>
+            <guid>https://www.graphql-portal.com</guid>
+            <pubDate>Thu, 04 Mar 2021 15:23:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Created A Marvel Studios Catalogue Website using Hooks, Json Handling, maps, filter, Material Ui, etc.]]></title>
             <link>https://marvelcatalogue.firebaseapp.com/</link>
             <guid>https://marvelcatalogue.firebaseapp.com/</guid>
             <pubDate>Thu, 04 Mar 2021 09:11:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How do I make my react app pretty?]]></title>
+            <link>https://v2.grommet.io/</link>
+            <guid>https://v2.grommet.io/</guid>
+            <pubDate>Thu, 04 Mar 2021 14:50:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CSR, SSR and SSG in Next.JS [PT-BR]]]></title>
+            <link>https://youtu.be/4lGfwffGcx0</link>
+            <guid>https://youtu.be/4lGfwffGcx0</guid>
+            <pubDate>Thu, 04 Mar 2021 14:05:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Been learning React the past few months and built a Netflix Clone]]></title>
             <link>https://v.redd.it/9qpzzw0b5mk61</link>
             <guid>https://v.redd.it/9qpzzw0b5mk61</guid>
             <pubDate>Wed, 03 Mar 2021 13:40:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to implement smooth feeling drag and drop interactions?]]></title>
-            <link>https://github.com/Jenyus-Org/JenyusHQ-Prototype</link>
-            <guid>https://github.com/Jenyus-Org/JenyusHQ-Prototype</guid>
-            <pubDate>Thu, 04 Mar 2021 09:01:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hey everyone! I just posted a 4 video series for anyone who is interested in learning GraphQL + React!]]></title>
-            <link>https://www.youtube.com/playlist?list=PLpPqplz6dKxXRJLbOLozaQCB5Py4CEpzS</link>
-            <guid>https://www.youtube.com/playlist?list=PLpPqplz6dKxXRJLbOLozaQCB5Py4CEpzS</guid>
-            <pubDate>Wed, 03 Mar 2021 17:21:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My first React project: A mood detector based on your recently played songs on Spotify.]]></title>
-            <link>https://reddit.com/link/lwf6n7/video/9ll27tip5pk61/player</link>
-            <guid>https://reddit.com/link/lwf6n7/video/9ll27tip5pk61/player</guid>
-            <pubDate>Tue, 02 Mar 2021 23:10:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Create Storybook Addon — launching a new kit and in-depth guide]]></title>
-            <link>https://storybook.js.org/blog/create-storybook-addon/</link>
-            <guid>https://storybook.js.org/blog/create-storybook-addon/</guid>
-            <pubDate>Wed, 03 Mar 2021 17:04:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cypress vs. Testing Library?]]></title>
-            <link>https://github.com/testing-library/cypress-testing-library</link>
-            <guid>https://github.com/testing-library/cypress-testing-library</guid>
-            <pubDate>Wed, 03 Mar 2021 23:42:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An open source Roam demo in Homebase React]]></title>
-            <link>https://youtu.be/FdepJejdxW0</link>
-            <guid>https://youtu.be/FdepJejdxW0</guid>
-            <pubDate>Wed, 03 Mar 2021 20:50:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to create React website: useState Hook]]></title>
-            <link>https://youtu.be/DG5FjwBfOWY</link>
-            <guid>https://youtu.be/DG5FjwBfOWY</guid>
-            <pubDate>Thu, 04 Mar 2021 09:46:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Animated Menu with Framer Motion and Tailwind [PT-BR]]]></title>
-            <link>https://www.youtube.com/watch?v=Tq84uogcByM&amp;feature=youtu.be</link>
-            <guid>https://www.youtube.com/watch?v=Tq84uogcByM&amp;feature=youtu.be</guid>
-            <pubDate>Wed, 03 Mar 2021 22:03:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Help wit component which won't render.]]></title>
-            <link>https://gist.github.com/polydevuk/65768eafb98bc77d4cf644c167a83f8d</link>
-            <guid>https://gist.github.com/polydevuk/65768eafb98bc77d4cf644c167a83f8d</guid>
-            <pubDate>Thu, 04 Mar 2021 01:43:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Masked DNS forwarding breaks mobile website.]]></title>
-            <link>/r/learnwebdev/comments/lx9isz/masked_subdomain_forwarding_breaks_mobile_website/</link>
-            <guid>/r/learnwebdev/comments/lx9isz/masked_subdomain_forwarding_breaks_mobile_website/</guid>
-            <pubDate>Thu, 04 Mar 2021 01:39:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Could you please give me some advice on how to improve this code?]]></title>
-            <link>https://github.com/philipromeo/radarroom/blob/master/frontend/src/Home/Components/InputBar.js</link>
-            <guid>https://github.com/philipromeo/radarroom/blob/master/frontend/src/Home/Components/InputBar.js</guid>
-            <pubDate>Thu, 04 Mar 2021 01:34:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why does React's repo use JS file but with type annotations?]]></title>
-            <link>https://ibb.co/nkNnTb3</link>
-            <guid>https://ibb.co/nkNnTb3</guid>
-            <pubDate>Wed, 03 Mar 2021 22:57:18 GMT</pubDate>
         </item>
     </channel>
 </rss>

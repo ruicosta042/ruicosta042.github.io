@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Thu, 04 Mar 2021 13:06:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Mar 2021 19:50:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -25,6 +25,30 @@
             <link>https://glassmorphism.com/</link>
             <guid>https://glassmorphism.com/</guid>
             <pubDate>Thu, 04 Mar 2021 12:52:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Navbar "sliding" from top instead of appearing]]></title>
+            <link>https://preview.redd.it/tcgy4yru82l61.png?width=393&amp;format=png&amp;auto=webp&amp;s=9d853e24a448aefc46cd08e287afeb39a6246116</link>
+            <guid>https://preview.redd.it/tcgy4yru82l61.png?width=393&amp;format=png&amp;auto=webp&amp;s=9d853e24a448aefc46cd08e287afeb39a6246116</guid>
+            <pubDate>Thu, 04 Mar 2021 19:11:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Complete CSS Flex Tutorial]]></title>
+            <link>https://semicolon.dev/tutorial/css/complete-css-flex-tutorial</link>
+            <guid>https://semicolon.dev/tutorial/css/complete-css-flex-tutorial</guid>
+            <pubDate>Thu, 04 Mar 2021 19:08:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Having issues with making containers fill up the dead space]]></title>
+            <link>https://imgur.com/gallery/3KwMK5d</link>
+            <guid>https://imgur.com/gallery/3KwMK5d</guid>
+            <pubDate>Thu, 04 Mar 2021 16:40:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[HELP] Customize Vuetify date picker]]></title>
+            <link>https://codepen.io/klmt/pen/abBjvda?editors=1100</link>
+            <guid>https://codepen.io/klmt/pen/abBjvda?editors=1100</guid>
+            <pubDate>Thu, 04 Mar 2021 13:20:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How do I make my own link to my website?]]></title>
@@ -91,24 +115,6 @@
             <link>https://planflow.dev/blog/how-to-get-better-at-css/</link>
             <guid>https://planflow.dev/blog/how-to-get-better-at-css/</guid>
             <pubDate>Wed, 03 Mar 2021 09:23:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🤣Scenes...!!🤣]]></title>
-            <link>https://reddit.com/link/lwm4r3/video/m387s8fa0rk61/player</link>
-            <guid>https://reddit.com/link/lwm4r3/video/m387s8fa0rk61/player</guid>
-            <pubDate>Wed, 03 Mar 2021 05:23:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HTML, CSS, & Bootstrap - Certification Course for Beginners]]></title>
-            <link>https://www.myfreeonlinecourses.com/2021/03/100-off-html-css-bootstrap.html</link>
-            <guid>https://www.myfreeonlinecourses.com/2021/03/100-off-html-css-bootstrap.html</guid>
-            <pubDate>Tue, 02 Mar 2021 23:47:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ben Nadel: Using CSS :target Pseudo-Class To Toggle Element Display]]></title>
-            <link>https://www.bennadel.com/blog/3970-using-css-target-pseudo-class-to-toggle-element-display.htm</link>
-            <guid>https://www.bennadel.com/blog/3970-using-css-target-pseudo-class-to-toggle-element-display.htm</guid>
-            <pubDate>Tue, 02 Mar 2021 10:24:55 GMT</pubDate>
         </item>
     </channel>
 </rss>

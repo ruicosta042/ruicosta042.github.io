@@ -4,16 +4,10 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Fri, 05 Mar 2021 13:06:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Mar 2021 19:50:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
-        <item>
-            <title><![CDATA[Stop Using Icon Fonts by Michael Irigoyen]]></title>
-            <link>https://www.irigoyen.dev/blog/2021/02/17/stop-using-icon-fonts/</link>
-            <guid>https://www.irigoyen.dev/blog/2021/02/17/stop-using-icon-fonts/</guid>
-            <pubDate>Fri, 05 Mar 2021 12:54:09 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Diving into the ::before and ::after Pseudo-Elements]]></title>
             <link>https://codersblock.com/blog/diving-into-the-before-and-after-pseudo-elements/</link>
@@ -21,10 +15,40 @@
             <pubDate>Fri, 05 Mar 2021 12:33:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Turntable in CSS and JS for playing music from YouTube]]></title>
+            <link>https://thomaspark.co/projects/needledrop/</link>
+            <guid>https://thomaspark.co/projects/needledrop/</guid>
+            <pubDate>Fri, 05 Mar 2021 16:27:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Complete Guide To SCSS/SASS]]></title>
+            <link>https://jstutorial.medium.com/the-complete-guide-to-scss-sass-49ac053fcde5</link>
+            <guid>https://jstutorial.medium.com/the-complete-guide-to-scss-sass-49ac053fcde5</guid>
+            <pubDate>Fri, 05 Mar 2021 17:53:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[thead duplicating]]></title>
+            <link>https://plnkr.co/edit/lWk6Yd?preview</link>
+            <guid>https://plnkr.co/edit/lWk6Yd?preview</guid>
+            <pubDate>Fri, 05 Mar 2021 16:23:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Quick Interactive Guide to CSS Flex Box]]></title>
+            <link>https://fjolt.com/article/a-guide-to-css-flexbox</link>
+            <guid>https://fjolt.com/article/a-guide-to-css-flexbox</guid>
+            <pubDate>Fri, 05 Mar 2021 15:13:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[🎬Login & Registration Form Using HTML & CSS & JS]]></title>
             <link>https://youtu.be/I5_T547tHf0</link>
             <guid>https://youtu.be/I5_T547tHf0</guid>
             <pubDate>Thu, 04 Mar 2021 22:38:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stop Using Icon Fonts by Michael Irigoyen]]></title>
+            <link>https://www.irigoyen.dev/blog/2021/02/17/stop-using-icon-fonts/</link>
+            <guid>https://www.irigoyen.dev/blog/2021/02/17/stop-using-icon-fonts/</guid>
+            <pubDate>Fri, 05 Mar 2021 12:54:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Can someone help with a gradient background??]]></title>
@@ -39,16 +63,16 @@
             <pubDate>Fri, 05 Mar 2021 05:21:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I made an animated sewing triptych entirely in HTML + CSS (no JS). Pretty proud of myself 😊]]></title>
-            <link>https://i.redd.it/yy2mu3dm7kk61.gif</link>
-            <guid>https://i.redd.it/yy2mu3dm7kk61.gif</guid>
-            <pubDate>Thu, 04 Mar 2021 03:47:29 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Sped up my page load time from over 15 seconds to under 2 seconds but my Page Speed Insights score went from 59 down to 7]]></title>
             <link>https://www.nicoles3dvirtualtours.com</link>
             <guid>https://www.nicoles3dvirtualtours.com</guid>
             <pubDate>Fri, 05 Mar 2021 04:53:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I made an animated sewing triptych entirely in HTML + CSS (no JS). Pretty proud of myself 😊]]></title>
+            <link>https://i.redd.it/yy2mu3dm7kk61.gif</link>
+            <guid>https://i.redd.it/yy2mu3dm7kk61.gif</guid>
+            <pubDate>Thu, 04 Mar 2021 03:47:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Glassmorphism CSS Generator - Glassmorphism Is A Unified Name For The Popular Frosted Glass Aesthetic.]]></title>
@@ -93,28 +117,10 @@
             <pubDate>Thu, 04 Mar 2021 13:20:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How do I make my own link to my website?]]></title>
-            <link>https://www.firstaidph.com</link>
-            <guid>https://www.firstaidph.com</guid>
-            <pubDate>Thu, 04 Mar 2021 12:46:47 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Hide text completely if it overflows]]></title>
             <link>https://preview.redd.it/dqytb1d6pzk61.png?width=78&amp;format=png&amp;auto=webp&amp;s=9eb127f53fe582d4c8fb60ba1a97063214492187</link>
             <guid>https://preview.redd.it/dqytb1d6pzk61.png?width=78&amp;format=png&amp;auto=webp&amp;s=9eb127f53fe582d4c8fb60ba1a97063214492187</guid>
             <pubDate>Thu, 04 Mar 2021 10:37:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Make an Animated Progress Bar in CSS]]></title>
-            <link>https://www.webtips.dev/how-to-make-an-animated-progress-bar-in-css</link>
-            <guid>https://www.webtips.dev/how-to-make-an-animated-progress-bar-in-css</guid>
-            <pubDate>Wed, 03 Mar 2021 19:49:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hover with sliding Text Animation effect]]></title>
-            <link>https://www.codingflicks.com/2021/02/image-hover-with-sliding-text-animation-effect.html</link>
-            <guid>https://www.codingflicks.com/2021/02/image-hover-with-sliding-text-animation-effect.html</guid>
-            <pubDate>Thu, 04 Mar 2021 07:04:41 GMT</pubDate>
         </item>
     </channel>
 </rss>

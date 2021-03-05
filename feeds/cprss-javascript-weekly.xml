@@ -4,10 +4,238 @@
         <title>JavaScript Weekly</title>
         <link>https://javascriptweekly.com/</link>
         <description>A newsletter of JavaScript articles, news and cool projects</description>
-        <lastBuildDate>Fri, 05 Mar 2021 13:06:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Mar 2021 19:50:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[jQuery 3.6.0 Released]]></title>
+            <link>https://javascriptweekly.com/link/104286/rss</link>
+            <guid>https://javascriptweekly.com/link/104286/rss</guid>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[V8 (and Chrome) to Get Faster Release Cycle]]></title>
+            <link>https://javascriptweekly.com/link/104291/rss</link>
+            <guid>https://javascriptweekly.com/link/104291/rss</guid>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[speeding up its release cycle]]></title>
+            <link>https://javascriptweekly.com/link/104292/rss</link>
+            <guid>https://javascriptweekly.com/link/104292/rss</guid>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Get Your Free SPOTcon 2021 Tickets Today]]></title>
+            <link>https://javascriptweekly.com/link/104290/rss</link>
+            <guid>https://javascriptweekly.com/link/104290/rss</guid>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gatsby 3.0 Released]]></title>
+            <link>https://javascriptweekly.com/link/104293/rss</link>
+            <guid>https://javascriptweekly.com/link/104293/rss</guid>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gatsby Hosting]]></title>
+            <link>https://javascriptweekly.com/link/104294/rss</link>
+            <guid>https://javascriptweekly.com/link/104294/rss</guid>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Electron 12.0.0 Released]]></title>
+            <link>https://javascriptweekly.com/link/104287/rss</link>
+            <guid>https://javascriptweekly.com/link/104287/rss</guid>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Neutralino]]></title>
+            <link>https://javascriptweekly.com/link/104288/rss</link>
+            <guid>https://javascriptweekly.com/link/104288/rss</guid>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tauri]]></title>
+            <link>https://javascriptweekly.com/link/104289/rss</link>
+            <guid>https://javascriptweekly.com/link/104289/rss</guid>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[latest version of VS Code]]></title>
+            <link>https://javascriptweekly.com/link/104295/rss</link>
+            <guid>https://javascriptweekly.com/link/104295/rss</guid>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[adding missing function declarations]]></title>
+            <link>https://javascriptweekly.com/link/104296/rss</link>
+            <guid>https://javascriptweekly.com/link/104296/rss</guid>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vue 3 + TypeScript course]]></title>
+            <link>https://javascriptweekly.com/link/104297/rss</link>
+            <guid>https://javascriptweekly.com/link/104297/rss</guid>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[latest programming language rankings report]]></title>
+            <link>https://javascriptweekly.com/link/104298/rss</link>
+            <guid>https://javascriptweekly.com/link/104298/rss</guid>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Deno 1.8]]></title>
+            <link>https://javascriptweekly.com/link/104299/rss</link>
+            <guid>https://javascriptweekly.com/link/104299/rss</guid>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Full Time Front-end Software Engineer (Remote)]]></title>
+            <link>https://javascriptweekly.com/link/104300/rss</link>
+            <guid>https://javascriptweekly.com/link/104300/rss</guid>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Build a Space Invaders Clone in JavaScript]]></title>
+            <link>https://javascriptweekly.com/link/104319/rss</link>
+            <guid>https://javascriptweekly.com/link/104319/rss</guid>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Building a Discord Bot Using Discord.js]]></title>
+            <link>https://javascriptweekly.com/link/104303/rss</link>
+            <guid>https://javascriptweekly.com/link/104303/rss</guid>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Discord.js]]></title>
+            <link>https://javascriptweekly.com/link/104304/rss</link>
+            <guid>https://javascriptweekly.com/link/104304/rss</guid>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breakpoints and console.log Is the Past, Time Travel Is the Future]]></title>
+            <link>https://javascriptweekly.com/link/104305/rss</link>
+            <guid>https://javascriptweekly.com/link/104305/rss</guid>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Serving Dynamic Meta Tags to Bots and Crawlers using Firebase and Cloudflare Workers]]></title>
+            <link>https://javascriptweekly.com/link/104306/rss</link>
+            <guid>https://javascriptweekly.com/link/104306/rss</guid>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CSS-in-JS Support in DevTools]]></title>
+            <link>https://javascriptweekly.com/link/104307/rss</link>
+            <guid>https://javascriptweekly.com/link/104307/rss</guid>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DevTools]]></title>
+            <link>https://javascriptweekly.com/link/104308/rss</link>
+            <guid>https://javascriptweekly.com/link/104308/rss</guid>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Complete Guide to Angular Security]]></title>
+            <link>https://javascriptweekly.com/link/104324/rss</link>
+            <guid>https://javascriptweekly.com/link/104324/rss</guid>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How an Anti-TypeScript “JavaScript Developer” Became a Fan]]></title>
+            <link>https://javascriptweekly.com/link/104310/rss</link>
+            <guid>https://javascriptweekly.com/link/104310/rss</guid>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Build a Video Chat Service with JavaScript, WebRTC, and Okta]]></title>
+            <link>https://javascriptweekly.com/link/104309/rss</link>
+            <guid>https://javascriptweekly.com/link/104309/rss</guid>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Darker Side of JS: Three Features You Never Want to Use]]></title>
+            <link>https://javascriptweekly.com/link/104311/rss</link>
+            <guid>https://javascriptweekly.com/link/104311/rss</guid>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['I've Used The pipe() Function 2,560 Times and I Can Tell You It's Good']]></title>
+            <link>https://javascriptweekly.com/link/104320/rss</link>
+            <guid>https://javascriptweekly.com/link/104320/rss</guid>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shepherd: Guide Your Users Through a Tour of Your App]]></title>
+            <link>https://javascriptweekly.com/link/104312/rss</link>
+            <guid>https://javascriptweekly.com/link/104312/rss</guid>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OrbitDB: Peer to Peer Databases for the Decentralized Web]]></title>
+            <link>https://javascriptweekly.com/link/104313/rss</link>
+            <guid>https://javascriptweekly.com/link/104313/rss</guid>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[here’s an introductory guide]]></title>
+            <link>https://javascriptweekly.com/link/104314/rss</link>
+            <guid>https://javascriptweekly.com/link/104314/rss</guid>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Enhance Front-end Performance by Rapidly Resolving JavaScript Errors]]></title>
+            <link>https://javascriptweekly.com/link/104315/rss</link>
+            <guid>https://javascriptweekly.com/link/104315/rss</guid>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Swiper: A Modern Mobile Touch Slider]]></title>
+            <link>https://javascriptweekly.com/link/104321/rss</link>
+            <guid>https://javascriptweekly.com/link/104321/rss</guid>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[web-minecraft: A Minecraft Client Written in JavaScript]]></title>
+            <link>https://javascriptweekly.com/link/104322/rss</link>
+            <guid>https://javascriptweekly.com/link/104322/rss</guid>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Node 15.11.0]]></title>
+            <link>https://javascriptweekly.com/link/104316/rss</link>
+            <guid>https://javascriptweekly.com/link/104316/rss</guid>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jQuery 3.6.0]]></title>
+            <link>https://javascriptweekly.com/link/104317/rss</link>
+            <guid>https://javascriptweekly.com/link/104317/rss</guid>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Aurelia 2 Alpha 1]]></title>
+            <link>https://javascriptweekly.com/link/104318/rss</link>
+            <guid>https://javascriptweekly.com/link/104318/rss</guid>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pixi.js 6.0]]></title>
+            <link>https://javascriptweekly.com/link/104323/rss</link>
+            <guid>https://javascriptweekly.com/link/104323/rss</guid>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[date-fns 2.19.0]]></title>
+            <link>https://javascriptweekly.com/link/104325/rss</link>
+            <guid>https://javascriptweekly.com/link/104325/rss</guid>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[JavaScript Performance Beyond Bundle Size]]></title>
             <link>https://javascriptweekly.com/link/103863/rss</link>
@@ -865,258 +1093,6 @@
             <link>https://javascriptweekly.com/link/103123/rss</link>
             <guid>https://javascriptweekly.com/link/103123/rss</guid>
             <pubDate>Fri, 12 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Making GitHub’s New Homepage Fast and Performant]]></title>
-            <link>https://javascriptweekly.com/link/102686/rss</link>
-            <guid>https://javascriptweekly.com/link/102686/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don't Use Functions As Callbacks Unless They're Designed for It]]></title>
-            <link>https://javascriptweekly.com/link/102651/rss</link>
-            <guid>https://javascriptweekly.com/link/102651/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fast, Reliable Feature Management for the Modern Enterprise]]></title>
-            <link>https://javascriptweekly.com/link/102652/rss</link>
-            <guid>https://javascriptweekly.com/link/102652/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[npm 7 Now Generally Available]]></title>
-            <link>https://javascriptweekly.com/link/102653/rss</link>
-            <guid>https://javascriptweekly.com/link/102653/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[presenting npm 7.0.0 post]]></title>
-            <link>https://javascriptweekly.com/link/102654/rss</link>
-            <guid>https://javascriptweekly.com/link/102654/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[workspaces]]></title>
-            <link>https://javascriptweekly.com/link/102655/rss</link>
-            <guid>https://javascriptweekly.com/link/102655/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[automatically installing peer dependencies]]></title>
-            <link>https://javascriptweekly.com/link/102656/rss</link>
-            <guid>https://javascriptweekly.com/link/102656/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The V8 v8.9 Branch]]></title>
-            <link>https://javascriptweekly.com/link/102657/rss</link>
-            <guid>https://javascriptweekly.com/link/102657/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Homebrew 3.0 is out]]></title>
-            <link>https://javascriptweekly.com/link/102659/rss</link>
-            <guid>https://javascriptweekly.com/link/102659/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[a new VS Code release]]></title>
-            <link>https://javascriptweekly.com/link/102660/rss</link>
-            <guid>https://javascriptweekly.com/link/102660/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[support for Vue 3.]]></title>
-            <link>https://javascriptweekly.com/link/102687/rss</link>
-            <guid>https://javascriptweekly.com/link/102687/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[More info here.]]></title>
-            <link>https://javascriptweekly.com/link/102658/rss</link>
-            <guid>https://javascriptweekly.com/link/102658/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Full-Stack Web Engineer]]></title>
-            <link>https://javascriptweekly.com/link/102661/rss</link>
-            <guid>https://javascriptweekly.com/link/102661/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[website]]></title>
-            <link>https://javascriptweekly.com/link/102662/rss</link>
-            <guid>https://javascriptweekly.com/link/102662/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Using Vue 3 with Electron to Build a Desktop App]]></title>
-            <link>https://javascriptweekly.com/link/102665/rss</link>
-            <guid>https://javascriptweekly.com/link/102665/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How JavaScript Can Now Be Executed in Oracle Database]]></title>
-            <link>https://javascriptweekly.com/link/102688/rss</link>
-            <guid>https://javascriptweekly.com/link/102688/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[version 21c]]></title>
-            <link>https://javascriptweekly.com/link/102689/rss</link>
-            <guid>https://javascriptweekly.com/link/102689/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Access your Database from React Server Components with Ease]]></title>
-            <link>https://javascriptweekly.com/link/102667/rss</link>
-            <guid>https://javascriptweekly.com/link/102667/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dynamic Static Typing in TypeScript]]></title>
-            <link>https://javascriptweekly.com/link/102666/rss</link>
-            <guid>https://javascriptweekly.com/link/102666/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Discussing Next Gen Bundlers with Jason Miller and Fred Schott]]></title>
-            <link>https://javascriptweekly.com/link/102690/rss</link>
-            <guid>https://javascriptweekly.com/link/102690/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Is Gatsby.js, and Why Is It a Big Deal?]]></title>
-            <link>https://javascriptweekly.com/link/102668/rss</link>
-            <guid>https://javascriptweekly.com/link/102668/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Buildkite Helps You Deliver Software Quickly and Securely at Any Scale]]></title>
-            <link>https://javascriptweekly.com/link/102678/rss</link>
-            <guid>https://javascriptweekly.com/link/102678/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Using the Web Serial API with RxJS for Two-Way Reactive Communication with Serial Hardware]]></title>
-            <link>https://javascriptweekly.com/link/102691/rss</link>
-            <guid>https://javascriptweekly.com/link/102691/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lazy Loading Routes in Vue with webpack Dynamic Comments]]></title>
-            <link>https://javascriptweekly.com/link/102669/rss</link>
-            <guid>https://javascriptweekly.com/link/102669/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HTML Form Validation in Cypress]]></title>
-            <link>https://javascriptweekly.com/link/102670/rss</link>
-            <guid>https://javascriptweekly.com/link/102670/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Building Server-Side Rendering for React Apps on AWS Lambda]]></title>
-            <link>https://javascriptweekly.com/link/102692/rss</link>
-            <guid>https://javascriptweekly.com/link/102692/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vuex 4.0 Released: State Management Mechanism for Vue 3 Apps]]></title>
-            <link>https://javascriptweekly.com/link/102671/rss</link>
-            <guid>https://javascriptweekly.com/link/102671/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[full 4.0 release notes]]></title>
-            <link>https://javascriptweekly.com/link/102672/rss</link>
-            <guid>https://javascriptweekly.com/link/102672/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[autoComplete.js 8.3: A Simple Pure Vanilla Auto Completion Library]]></title>
-            <link>https://javascriptweekly.com/link/102673/rss</link>
-            <guid>https://javascriptweekly.com/link/102673/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[a live demo here]]></title>
-            <link>https://javascriptweekly.com/link/102674/rss</link>
-            <guid>https://javascriptweekly.com/link/102674/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[eslint-config-auto: Automatically Configure ESLint Based on Project Dependencies]]></title>
-            <link>https://javascriptweekly.com/link/102676/rss</link>
-            <guid>https://javascriptweekly.com/link/102676/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wallaby’s Test Profiler Helped Us Make Jest Tests Run 5x Faster]]></title>
-            <link>https://javascriptweekly.com/link/102675/rss</link>
-            <guid>https://javascriptweekly.com/link/102675/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[redaxios: The Axios API, as an 800 Byte Fetch Wrapper]]></title>
-            <link>https://javascriptweekly.com/link/102677/rss</link>
-            <guid>https://javascriptweekly.com/link/102677/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[v8go: Execute JavaScript from Go(lang)]]></title>
-            <link>https://javascriptweekly.com/link/102679/rss</link>
-            <guid>https://javascriptweekly.com/link/102679/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[our Go newsletter]]></title>
-            <link>https://javascriptweekly.com/link/102680/rss</link>
-            <guid>https://javascriptweekly.com/link/102680/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Five React Native Libraries You Might Have Missed]]></title>
-            <link>https://javascriptweekly.com/link/102681/rss</link>
-            <guid>https://javascriptweekly.com/link/102681/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[react-ultimate-resume: Your 21st Century Resume]]></title>
-            <link>https://javascriptweekly.com/link/102693/rss</link>
-            <guid>https://javascriptweekly.com/link/102693/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Node 15.8.0]]></title>
-            <link>https://javascriptweekly.com/link/102682/rss</link>
-            <guid>https://javascriptweekly.com/link/102682/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Karma 6.1]]></title>
-            <link>https://javascriptweekly.com/link/102694/rss</link>
-            <guid>https://javascriptweekly.com/link/102694/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Highcharts 9.0]]></title>
-            <link>https://javascriptweekly.com/link/102683/rss</link>
-            <guid>https://javascriptweekly.com/link/102683/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cypress 6.4.0]]></title>
-            <link>https://javascriptweekly.com/link/102684/rss</link>
-            <guid>https://javascriptweekly.com/link/102684/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[json5 2.2]]></title>
-            <link>https://javascriptweekly.com/link/102685/rss</link>
-            <guid>https://javascriptweekly.com/link/102685/rss</guid>
-            <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

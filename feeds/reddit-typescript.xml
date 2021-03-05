@@ -4,21 +4,21 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Fri, 05 Mar 2021 13:06:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Mar 2021 19:50:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
-        <item>
-            <title><![CDATA[TypeScript reached 69k stars on GitHub]]></title>
-            <link>https://twitter.com/GitHubTracker/status/1367369294800158720?s=20</link>
-            <guid>https://twitter.com/GitHubTracker/status/1367369294800158720?s=20</guid>
-            <pubDate>Thu, 04 Mar 2021 10:38:27 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Why isn't typescript warning me this?]]></title>
             <link>https://preview.redd.it/hx9u1u4v47l61.png?width=754&amp;format=png&amp;auto=webp&amp;s=322249da306c820f50c9b1efbaf5e50fdc274e23</link>
             <guid>https://preview.redd.it/hx9u1u4v47l61.png?width=754&amp;format=png&amp;auto=webp&amp;s=322249da306c820f50c9b1efbaf5e50fdc274e23</guid>
             <pubDate>Fri, 05 Mar 2021 11:45:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TypeScript reached 69k stars on GitHub]]></title>
+            <link>https://twitter.com/GitHubTracker/status/1367369294800158720?s=20</link>
+            <guid>https://twitter.com/GitHubTracker/status/1367369294800158720?s=20</guid>
+            <pubDate>Thu, 04 Mar 2021 10:38:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TypeScript Migration Strategy (from JavaScript)]]></title>

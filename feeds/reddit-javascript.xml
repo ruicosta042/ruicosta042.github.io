@@ -4,15 +4,15 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Fri, 05 Mar 2021 13:06:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Mar 2021 19:50:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Best practices can slow your application down - Stack Overflow Blog]]></title>
-            <link>https://stackoverflow.blog/2021/03/03/best-practices-can-slow-your-application-down/?cb=1&amp;_ga=2.59137965.1896951118.1612191539-1580324989.1592833157</link>
-            <guid>https://stackoverflow.blog/2021/03/03/best-practices-can-slow-your-application-down/?cb=1&amp;_ga=2.59137965.1896951118.1612191539-1580324989.1592833157</guid>
-            <pubDate>Fri, 05 Mar 2021 08:48:00 GMT</pubDate>
+            <title><![CDATA[How I built offline mode in Liftosaur]]></title>
+            <link>https://www.liftosaur.com/blog/posts/offline-mode-in-liftosaur/</link>
+            <guid>https://www.liftosaur.com/blog/posts/offline-mode-in-liftosaur/</guid>
+            <pubDate>Fri, 05 Mar 2021 18:52:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[OkCupid Presents: Modeling UI States in A React Form Component Using A Finite State Machine]]></title>
@@ -21,16 +21,22 @@
             <pubDate>Thu, 04 Mar 2021 14:50:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Visual Studio Code February 2021]]></title>
+            <link>https://code.visualstudio.com/updates/v1_54</link>
+            <guid>https://code.visualstudio.com/updates/v1_54</guid>
+            <pubDate>Thu, 04 Mar 2021 18:12:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[date-fns: one of the most popular date libraries backed by black hat world]]></title>
             <link>https://date-fns.org/</link>
             <guid>https://date-fns.org/</guid>
             <pubDate>Fri, 05 Mar 2021 12:06:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Visual Studio Code February 2021]]></title>
-            <link>https://code.visualstudio.com/updates/v1_54</link>
-            <guid>https://code.visualstudio.com/updates/v1_54</guid>
-            <pubDate>Thu, 04 Mar 2021 18:12:20 GMT</pubDate>
+            <title><![CDATA[Is the Biggest Source of Bugs of All Time Killing Your Productivity?]]></title>
+            <link>https://suzdalnitski.medium.com/terrible-coding-mistake-aa1fbebd83b4</link>
+            <guid>https://suzdalnitski.medium.com/terrible-coding-mistake-aa1fbebd83b4</guid>
+            <pubDate>Fri, 05 Mar 2021 16:19:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to Build a Clubhouse Clone]]></title>
@@ -87,6 +93,12 @@
             <pubDate>Wed, 03 Mar 2021 04:15:22 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Needle - a full featured dependency injection library]]></title>
+            <link>https://github.com/morganstanley/needle</link>
+            <guid>https://github.com/morganstanley/needle</guid>
+            <pubDate>Wed, 03 Mar 2021 19:56:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Launching an Addon Kit and in-depth guide for Storybook]]></title>
             <link>https://storybook.js.org/blog/create-storybook-addon/</link>
             <guid>https://storybook.js.org/blog/create-storybook-addon/</guid>
@@ -105,12 +117,6 @@
             <pubDate>Wed, 03 Mar 2021 07:59:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Needle - a full featured dependency injection library]]></title>
-            <link>https://github.com/morganstanley/needle</link>
-            <guid>https://github.com/morganstanley/needle</guid>
-            <pubDate>Wed, 03 Mar 2021 19:56:33 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[High-level WebGL. Low-level tags.]]></title>
             <link>https://hugodaniel.com/posts/high-level-webgl-low-level-tags/</link>
             <guid>https://hugodaniel.com/posts/high-level-webgl-low-level-tags/</guid>
@@ -127,12 +133,6 @@
             <link>http://psteeleidem.com/the-javascript-templating-landscape/</link>
             <guid>http://psteeleidem.com/the-javascript-templating-landscape/</guid>
             <pubDate>Wed, 03 Mar 2021 19:32:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fast, smooth React Data Grid]]></title>
-            <link>https://grid.glideapps.com</link>
-            <guid>https://grid.glideapps.com</guid>
-            <pubDate>Tue, 02 Mar 2021 15:44:30 GMT</pubDate>
         </item>
     </channel>
 </rss>

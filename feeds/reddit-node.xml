@@ -4,21 +4,45 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Fri, 05 Mar 2021 07:52:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Mar 2021 13:06:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Okta Buys Cloud Security Startup Auth0 For $6.5B]]></title>
-            <link>https://www.thetechee.com/2021/03/okta-buys-cloud-security-startup-auth0.html</link>
-            <guid>https://www.thetechee.com/2021/03/okta-buys-cloud-security-startup-auth0.html</guid>
-            <pubDate>Thu, 04 Mar 2021 05:17:02 GMT</pubDate>
+            <title><![CDATA[Here are Core Node modules you must know as a Nodejs Developer]]></title>
+            <link>https://towardsdev.com/here-are-core-node-modules-you-must-know-as-a-nodejs-developer-19ef7679e20f</link>
+            <guid>https://towardsdev.com/here-are-core-node-modules-you-must-know-as-a-nodejs-developer-19ef7679e20f</guid>
+            <pubDate>Fri, 05 Mar 2021 08:36:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[http to https redirect issues]]></title>
+            <link>https://www.npmjs.com/package/ssl-express-www</link>
+            <guid>https://www.npmjs.com/package/ssl-express-www</guid>
+            <pubDate>Fri, 05 Mar 2021 12:34:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An open source and pure Node.js remote calling framework project]]></title>
+            <link>https://github.com/zhymc/jigsaw-rpc</link>
+            <guid>https://github.com/zhymc/jigsaw-rpc</guid>
+            <pubDate>Fri, 05 Mar 2021 11:28:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Design Patterns for Authorizing User In Service]]></title>
+            <link>/r/Nestjs_framework/comments/ly99mq/design_patterns_for_authorizing_user_in_service/</link>
+            <guid>/r/Nestjs_framework/comments/ly99mq/design_patterns_for_authorizing_user_in_service/</guid>
+            <pubDate>Fri, 05 Mar 2021 10:45:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[6 Ways to Create Objects in Javascript — Intro to Object & Prototype]]></title>
             <link>https://beforesemicolon.medium.com/6-ways-to-create-objects-in-javascript-intro-to-object-prototype-5fe8dc657071</link>
             <guid>https://beforesemicolon.medium.com/6-ways-to-create-objects-in-javascript-intro-to-object-prototype-5fe8dc657071</guid>
             <pubDate>Thu, 04 Mar 2021 18:27:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Okta Buys Cloud Security Startup Auth0 For $6.5B]]></title>
+            <link>https://www.thetechee.com/2021/03/okta-buys-cloud-security-startup-auth0.html</link>
+            <guid>https://www.thetechee.com/2021/03/okta-buys-cloud-security-startup-auth0.html</guid>
+            <pubDate>Thu, 04 Mar 2021 05:17:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[fs.promises.readFile is 40% slower than fs.readFile]]></title>
@@ -31,12 +55,6 @@
             <link>/r/AskProgramming/comments/lxvh2r/flutter_and_node_js_subscribing_to_updates_from/</link>
             <guid>/r/AskProgramming/comments/lxvh2r/flutter_and_node_js_subscribing_to_updates_from/</guid>
             <pubDate>Thu, 04 Mar 2021 21:11:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Streaming Video Server With Node.js]]></title>
-            <link>https://youtu.be/hUeib7Ko8qQ</link>
-            <guid>https://youtu.be/hUeib7Ko8qQ</guid>
-            <pubDate>Thu, 04 Mar 2021 13:41:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Unable to send email]]></title>
@@ -57,16 +75,10 @@
             <pubDate>Wed, 03 Mar 2021 10:49:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Securing a privately consumed REST API]]></title>
-            <link>/r/webdev/comments/lvbcgw/securing_a_privately_consumed_rest_api/</link>
-            <guid>/r/webdev/comments/lvbcgw/securing_a_privately_consumed_rest_api/</guid>
-            <pubDate>Thu, 04 Mar 2021 03:41:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Am I following the NODEJS principles correctly?]]></title>
-            <link>https://github.com/kinshuksri25/atlasChroma</link>
-            <guid>https://github.com/kinshuksri25/atlasChroma</guid>
-            <pubDate>Thu, 04 Mar 2021 06:47:18 GMT</pubDate>
+            <title><![CDATA[Streaming Video Server With Node.js]]></title>
+            <link>https://youtu.be/hUeib7Ko8qQ</link>
+            <guid>https://youtu.be/hUeib7Ko8qQ</guid>
+            <pubDate>Thu, 04 Mar 2021 13:41:15 GMT</pubDate>
         </item>
     </channel>
 </rss>

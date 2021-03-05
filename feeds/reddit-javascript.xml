@@ -4,15 +4,27 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Fri, 05 Mar 2021 07:52:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Mar 2021 13:06:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Best practices can slow your application down - Stack Overflow Blog]]></title>
+            <link>https://stackoverflow.blog/2021/03/03/best-practices-can-slow-your-application-down/?cb=1&amp;_ga=2.59137965.1896951118.1612191539-1580324989.1592833157</link>
+            <guid>https://stackoverflow.blog/2021/03/03/best-practices-can-slow-your-application-down/?cb=1&amp;_ga=2.59137965.1896951118.1612191539-1580324989.1592833157</guid>
+            <pubDate>Fri, 05 Mar 2021 08:48:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[OkCupid Presents: Modeling UI States in A React Form Component Using A Finite State Machine]]></title>
             <link>https://tech.okcupid.com/modeling-ui-states-in-react-form-component-using-finite-state-machine/</link>
             <guid>https://tech.okcupid.com/modeling-ui-states-in-react-form-component-using-finite-state-machine/</guid>
             <pubDate>Thu, 04 Mar 2021 14:50:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[date-fns: one of the most popular date libraries backed by black hat world]]></title>
+            <link>https://date-fns.org/</link>
+            <guid>https://date-fns.org/</guid>
+            <pubDate>Fri, 05 Mar 2021 12:06:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Visual Studio Code February 2021]]></title>
@@ -121,18 +133,6 @@
             <link>https://grid.glideapps.com</link>
             <guid>https://grid.glideapps.com</guid>
             <pubDate>Tue, 02 Mar 2021 15:44:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Changelog: swc v1.2.50 | swc]]></title>
-            <link>https://swc.rs/blog/2021/03/03/swc-1.2.50</link>
-            <guid>https://swc.rs/blog/2021/03/03/swc-1.2.50</guid>
-            <pubDate>Wed, 03 Mar 2021 12:18:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scalable JSON processing using fs/promises, Async and Oboe]]></title>
-            <link>https://dev.to/kgilpin/scalable-json-processing-using-fs-promises-async-and-oboe-4den</link>
-            <guid>https://dev.to/kgilpin/scalable-json-processing-using-fs-promises-async-and-oboe-4den</guid>
-            <pubDate>Wed, 03 Mar 2021 12:19:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

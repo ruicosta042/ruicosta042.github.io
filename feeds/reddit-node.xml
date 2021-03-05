@@ -4,7 +4,7 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Thu, 04 Mar 2021 19:50:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Mar 2021 07:52:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,16 +15,22 @@
             <pubDate>Thu, 04 Mar 2021 05:17:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[6 Ways to Create Objects in Javascript — Intro to Object & Prototype]]></title>
+            <link>https://beforesemicolon.medium.com/6-ways-to-create-objects-in-javascript-intro-to-object-prototype-5fe8dc657071</link>
+            <guid>https://beforesemicolon.medium.com/6-ways-to-create-objects-in-javascript-intro-to-object-prototype-5fe8dc657071</guid>
+            <pubDate>Thu, 04 Mar 2021 18:27:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[fs.promises.readFile is 40% slower than fs.readFile]]></title>
             <link>https://github.com/nodejs/node/issues/37583</link>
             <guid>https://github.com/nodejs/node/issues/37583</guid>
             <pubDate>Thu, 04 Mar 2021 05:39:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[6 Ways to Create Objects in Javascript — Intro to Object & Prototype]]></title>
-            <link>https://beforesemicolon.medium.com/6-ways-to-create-objects-in-javascript-intro-to-object-prototype-5fe8dc657071</link>
-            <guid>https://beforesemicolon.medium.com/6-ways-to-create-objects-in-javascript-intro-to-object-prototype-5fe8dc657071</guid>
-            <pubDate>Thu, 04 Mar 2021 18:27:41 GMT</pubDate>
+            <title><![CDATA[Flutter and Node JS, subscribing to updates from the Backend]]></title>
+            <link>/r/AskProgramming/comments/lxvh2r/flutter_and_node_js_subscribing_to_updates_from/</link>
+            <guid>/r/AskProgramming/comments/lxvh2r/flutter_and_node_js_subscribing_to_updates_from/</guid>
+            <pubDate>Thu, 04 Mar 2021 21:11:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Streaming Video Server With Node.js]]></title>
@@ -61,30 +67,6 @@
             <link>https://github.com/kinshuksri25/atlasChroma</link>
             <guid>https://github.com/kinshuksri25/atlasChroma</guid>
             <pubDate>Thu, 04 Mar 2021 06:47:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How To update Node js to the latest version on Ubuntu Linux]]></title>
-            <link>https://www.youtube.com/watch?v=IjJxHfWiz9Y&amp;ab_channel=AsimCode</link>
-            <guid>https://www.youtube.com/watch?v=IjJxHfWiz9Y&amp;ab_channel=AsimCode</guid>
-            <pubDate>Thu, 04 Mar 2021 10:19:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Run Git Commands with Node.js | Dev Extent]]></title>
-            <link>https://www.devextent.com/run-git-command-nodejs/</link>
-            <guid>https://www.devextent.com/run-git-command-nodejs/</guid>
-            <pubDate>Thu, 04 Mar 2021 03:21:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Top 5 NodeJS videos in 2020]]></title>
-            <link>https://blog.meetupfeed.io/nodejs-top5-meetup-videos-2020/</link>
-            <guid>https://blog.meetupfeed.io/nodejs-top5-meetup-videos-2020/</guid>
-            <pubDate>Wed, 03 Mar 2021 23:49:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to log express HTTP requests using morgan with style?]]></title>
-            <link>https://blog.supercharged.dev/how-to-log-express-http-requests-using-morgan-with-style</link>
-            <guid>https://blog.supercharged.dev/how-to-log-express-http-requests-using-morgan-with-style</guid>
-            <pubDate>Wed, 03 Mar 2021 03:17:51 GMT</pubDate>
         </item>
     </channel>
 </rss>

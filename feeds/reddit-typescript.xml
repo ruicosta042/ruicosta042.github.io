@@ -4,7 +4,7 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Thu, 04 Mar 2021 19:50:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Mar 2021 07:52:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,16 +15,16 @@
             <pubDate>Thu, 04 Mar 2021 10:38:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[6 Ways to Create Objects in Javascript — Intro to Object & Prototype]]></title>
-            <link>https://beforesemicolon.medium.com/6-ways-to-create-objects-in-javascript-intro-to-object-prototype-5fe8dc657071</link>
-            <guid>https://beforesemicolon.medium.com/6-ways-to-create-objects-in-javascript-intro-to-object-prototype-5fe8dc657071</guid>
-            <pubDate>Thu, 04 Mar 2021 18:28:09 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[TypeScript Migration Strategy (from JavaScript)]]></title>
             <link>https://www.youtube.com/watch?v=v3lI29trIN8&amp;feature=share</link>
             <guid>https://www.youtube.com/watch?v=v3lI29trIN8&amp;feature=share</guid>
             <pubDate>Thu, 04 Mar 2021 18:09:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[6 Ways to Create Objects in Javascript — Intro to Object & Prototype]]></title>
+            <link>https://beforesemicolon.medium.com/6-ways-to-create-objects-in-javascript-intro-to-object-prototype-5fe8dc657071</link>
+            <guid>https://beforesemicolon.medium.com/6-ways-to-create-objects-in-javascript-intro-to-object-prototype-5fe8dc657071</guid>
+            <pubDate>Thu, 04 Mar 2021 18:28:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to use TypeScript with AppSync Lambda Resolvers]]></title>
@@ -97,12 +97,6 @@
             <link>https://github.com/snyk/snyk</link>
             <guid>https://github.com/snyk/snyk</guid>
             <pubDate>Mon, 01 Mar 2021 03:24:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Just found out that you can't trust the TS transpiler with union types. A more complicated version of this made it to production and robbed me of my sanity...]]></title>
-            <link>https://www.typescriptlang.org/play?#code/GYVwdgxgLglg9mABAWwKYGd0FUAOAVAC1QEEAnUgQwE8AKC8gLkTMqoB50pSYwBzRAD6IwIZACNUpAHwBKJgDc4MACaIA3gFgAUIl2J6pAHQ4Q6AjQDMMgNzaAvtu0QEnRJ2590TFtQ5cevFKIALyIANoA5MBwcBEANIgRYvQRALq2WmiYuIQk5NQ07gHoNo5azmCuXm7+fCE1HrzoYQBM6U4ucAA2qIZdcLyFhlBwADJwAO6SAMIU6Kg0MjLaQA</link>
-            <guid>https://www.typescriptlang.org/play?#code/GYVwdgxgLglg9mABAWwKYGd0FUAOAVAC1QEEAnUgQwE8AKC8gLkTMqoB50pSYwBzRAD6IwIZACNUpAHwBKJgDc4MACaIA3gFgAUIl2J6pAHQ4Q6AjQDMMgNzaAvtu0QEnRJ2590TFtQ5cevFKIALyIANoA5MBwcBEANIgRYvQRALq2WmiYuIQk5NQ07gHoNo5azmCuXm7+fCE1HrzoYQBM6U4ucAA2qIZdcLyFhlBwADJwAO6SAMIU6Kg0MjLaQA</guid>
-            <pubDate>Sat, 27 Feb 2021 15:30:40 GMT</pubDate>
         </item>
     </channel>
 </rss>

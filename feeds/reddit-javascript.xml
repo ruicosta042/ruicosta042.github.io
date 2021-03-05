@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Thu, 04 Mar 2021 19:50:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Mar 2021 07:52:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,16 +15,16 @@
             <pubDate>Thu, 04 Mar 2021 14:50:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Visual Studio Code February 2021]]></title>
+            <link>https://code.visualstudio.com/updates/v1_54</link>
+            <guid>https://code.visualstudio.com/updates/v1_54</guid>
+            <pubDate>Thu, 04 Mar 2021 18:12:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How to Build a Clubhouse Clone]]></title>
             <link>https://javascript.plainenglish.io/how-to-create-an-app-like-clubhouse-eeb2382da03e</link>
             <guid>https://javascript.plainenglish.io/how-to-create-an-app-like-clubhouse-eeb2382da03e</guid>
             <pubDate>Thu, 04 Mar 2021 07:08:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jQuery 3.6.0 Released - "We still have our eyes on a jQuery 4.0 release"]]></title>
-            <link>http://blog.jquery.com/2021/03/02/jquery-3-6-0-released/</link>
-            <guid>http://blog.jquery.com/2021/03/02/jquery-3-6-0-released/</guid>
-            <pubDate>Wed, 03 Mar 2021 16:28:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Using BigQuery Public Datasets to build an analytical app and research the impact of COVID-19]]></title>
@@ -33,16 +33,16 @@
             <pubDate>Thu, 04 Mar 2021 18:20:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[jQuery 3.6.0 Released - "We still have our eyes on a jQuery 4.0 release"]]></title>
+            <link>http://blog.jquery.com/2021/03/02/jquery-3-6-0-released/</link>
+            <guid>http://blog.jquery.com/2021/03/02/jquery-3-6-0-released/</guid>
+            <pubDate>Wed, 03 Mar 2021 16:28:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Genius or lunacy? A pattern for using Services As DOM Elements (also, custom elements how-to w/ 5 different libraries)]]></title>
             <link>https://vadosware.io/post/sade-pattern-services-as-dom-elements/</link>
             <guid>https://vadosware.io/post/sade-pattern-services-as-dom-elements/</guid>
             <pubDate>Thu, 04 Mar 2021 03:57:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Visual Studio Code February 2021]]></title>
-            <link>https://code.visualstudio.com/updates/v1_54</link>
-            <guid>https://code.visualstudio.com/updates/v1_54</guid>
-            <pubDate>Thu, 04 Mar 2021 18:12:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I've used the pipe() function 2,560 times and I can tell you it's good!]]></title>
@@ -93,16 +93,16 @@
             <pubDate>Wed, 03 Mar 2021 07:59:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[High-level WebGL. Low-level tags.]]></title>
-            <link>https://hugodaniel.com/posts/high-level-webgl-low-level-tags/</link>
-            <guid>https://hugodaniel.com/posts/high-level-webgl-low-level-tags/</guid>
-            <pubDate>Wed, 03 Mar 2021 16:28:37 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Needle - a full featured dependency injection library]]></title>
             <link>https://github.com/morganstanley/needle</link>
             <guid>https://github.com/morganstanley/needle</guid>
             <pubDate>Wed, 03 Mar 2021 19:56:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[High-level WebGL. Low-level tags.]]></title>
+            <link>https://hugodaniel.com/posts/high-level-webgl-low-level-tags/</link>
+            <guid>https://hugodaniel.com/posts/high-level-webgl-low-level-tags/</guid>
+            <pubDate>Wed, 03 Mar 2021 16:28:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Halftone Mirror (Webcam Required)]]></title>
@@ -123,22 +123,16 @@
             <pubDate>Tue, 02 Mar 2021 15:44:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scalable JSON processing using fs/promises, Async and Oboe]]></title>
-            <link>https://dev.to/kgilpin/scalable-json-processing-using-fs-promises-async-and-oboe-4den</link>
-            <guid>https://dev.to/kgilpin/scalable-json-processing-using-fs-promises-async-and-oboe-4den</guid>
-            <pubDate>Wed, 03 Mar 2021 12:19:56 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Changelog: swc v1.2.50 | swc]]></title>
             <link>https://swc.rs/blog/2021/03/03/swc-1.2.50</link>
             <guid>https://swc.rs/blog/2021/03/03/swc-1.2.50</guid>
             <pubDate>Wed, 03 Mar 2021 12:18:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[An experiment: JS + CSS tooltip on checkbox/radio that displays aria-label text]]></title>
-            <link>https://codepen.io/getify/full/rNWKzeB</link>
-            <guid>https://codepen.io/getify/full/rNWKzeB</guid>
-            <pubDate>Wed, 03 Mar 2021 15:24:34 GMT</pubDate>
+            <title><![CDATA[Scalable JSON processing using fs/promises, Async and Oboe]]></title>
+            <link>https://dev.to/kgilpin/scalable-json-processing-using-fs-promises-async-and-oboe-4den</link>
+            <guid>https://dev.to/kgilpin/scalable-json-processing-using-fs-promises-async-and-oboe-4den</guid>
+            <pubDate>Wed, 03 Mar 2021 12:19:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

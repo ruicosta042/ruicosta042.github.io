@@ -4,16 +4,10 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Sat, 06 Mar 2021 13:03:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Mar 2021 19:45:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
-        <item>
-            <title><![CDATA[Announcing Svelte NodeGUI, a lightweight Electron alternative with native UI, based on Node.js!]]></title>
-            <link>https://github.com/nodegui/svelte-nodegui</link>
-            <guid>https://github.com/nodegui/svelte-nodegui</guid>
-            <pubDate>Fri, 05 Mar 2021 20:25:27 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Getting started with speech-to-text transcriptions with AssemblyAI, JavaScript and Node.js]]></title>
             <link>https://www.assemblyai.com/blog/getting-started-with-speech-to-text-transcriptions-with-assemblyai-javascript-and-node-js</link>
@@ -27,16 +21,40 @@
             <pubDate>Sat, 06 Mar 2021 05:21:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[It takes 3GB's to download 846MB's data?]]></title>
-            <link>https://www.npmjs.com/package/download</link>
-            <guid>https://www.npmjs.com/package/download</guid>
-            <pubDate>Sat, 06 Mar 2021 09:52:42 GMT</pubDate>
+            <title><![CDATA[Announcing Svelte NodeGUI, a lightweight Electron alternative with native UI, based on Node.js!]]></title>
+            <link>https://github.com/nodegui/svelte-nodegui</link>
+            <guid>https://github.com/nodegui/svelte-nodegui</guid>
+            <pubDate>Fri, 05 Mar 2021 20:25:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What tech stack is needed to create this type of game??]]></title>
+            <link>https://preview.redd.it/nhm598lnjgl61.jpg?width=589&amp;format=pjpg&amp;auto=webp&amp;s=e1f2433540e160beade1afb77598dd634afbdcaa</link>
+            <guid>https://preview.redd.it/nhm598lnjgl61.jpg?width=589&amp;format=pjpg&amp;auto=webp&amp;s=e1f2433540e160beade1afb77598dd634afbdcaa</guid>
+            <pubDate>Sat, 06 Mar 2021 19:16:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Free NestJS Tutorial in German]]></title>
+            <link>https://www.youtube.com/watch?v=9xlfZUYiO4g</link>
+            <guid>https://www.youtube.com/watch?v=9xlfZUYiO4g</guid>
+            <pubDate>Sat, 06 Mar 2021 17:23:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Socket.io + React - UserList updates on another user connection, but not on self connection.]]></title>
+            <link>https://preview.redd.it/mbpjwzdymfl61.png?width=1004&amp;format=png&amp;auto=webp&amp;s=8fc10190847f0ec3e9001d76ec2f090f66bd4d61</link>
+            <guid>https://preview.redd.it/mbpjwzdymfl61.png?width=1004&amp;format=png&amp;auto=webp&amp;s=8fc10190847f0ec3e9001d76ec2f090f66bd4d61</guid>
+            <pubDate>Sat, 06 Mar 2021 16:12:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Set vs WeakSet vs Array in Javascript]]></title>
             <link>https://youtu.be/M_UF-Y7JdCY</link>
             <guid>https://youtu.be/M_UF-Y7JdCY</guid>
             <pubDate>Sat, 06 Mar 2021 00:20:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It takes 3GB's to download 846MB's data?]]></title>
+            <link>https://www.npmjs.com/package/download</link>
+            <guid>https://www.npmjs.com/package/download</guid>
+            <pubDate>Sat, 06 Mar 2021 09:52:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Here are Core Node modules you must know as a Nodejs Developer]]></title>
@@ -61,30 +79,6 @@
             <link>http://www.spync.se</link>
             <guid>http://www.spync.se</guid>
             <pubDate>Sat, 06 Mar 2021 00:55:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fetch Shared Data in Next.js With Single Request]]></title>
-            <link>https://medium.com/@akellbl4/fetch-shared-data-in-next-js-with-single-request-833433fa8ed1?source=friends_link&amp;sk=27cf795d55a0add65aca53be299d5ac6</link>
-            <guid>https://medium.com/@akellbl4/fetch-shared-data-in-next-js-with-single-request-833433fa8ed1?source=friends_link&amp;sk=27cf795d55a0add65aca53be299d5ac6</guid>
-            <pubDate>Fri, 05 Mar 2021 22:41:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[http to https redirect issues]]></title>
-            <link>https://www.npmjs.com/package/ssl-express-www</link>
-            <guid>https://www.npmjs.com/package/ssl-express-www</guid>
-            <pubDate>Fri, 05 Mar 2021 12:34:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An open source and pure Node.js remote calling framework project]]></title>
-            <link>https://github.com/zhymc/jigsaw-rpc</link>
-            <guid>https://github.com/zhymc/jigsaw-rpc</guid>
-            <pubDate>Fri, 05 Mar 2021 11:28:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to slice an SVG image into 2 separate units?]]></title>
-            <link>https://preview.redd.it/r9db2yqji9l61.jpg?width=1603&amp;format=pjpg&amp;auto=webp&amp;s=c220064eb4d96e54cf5347e8bf200075b8db37e8</link>
-            <guid>https://preview.redd.it/r9db2yqji9l61.jpg?width=1603&amp;format=pjpg&amp;auto=webp&amp;s=c220064eb4d96e54cf5347e8bf200075b8db37e8</guid>
-            <pubDate>Fri, 05 Mar 2021 19:37:59 GMT</pubDate>
         </item>
     </channel>
 </rss>

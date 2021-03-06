@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sat, 06 Mar 2021 13:03:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Mar 2021 19:45:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -19,6 +19,12 @@
             <link>https://jsfiddle.net/Luktwrdm/</link>
             <guid>https://jsfiddle.net/Luktwrdm/</guid>
             <pubDate>Mon, 01 Mar 2021 15:56:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I just published my app using ionic on the app store. It's a game to practice and learn the guitar fretboard layout]]></title>
+            <link>https://www.youtube.com/watch?v=x8gsRTMO_FA</link>
+            <guid>https://www.youtube.com/watch?v=x8gsRTMO_FA</guid>
+            <pubDate>Sat, 06 Mar 2021 17:34:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Generate PDF from React.js code client-side]]></title>
@@ -39,52 +45,28 @@
             <pubDate>Fri, 05 Mar 2021 18:27:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Just another form validation for react but using client side form validation.]]></title>
-            <link>https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation</link>
-            <guid>https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation</guid>
-            <pubDate>Sat, 06 Mar 2021 10:15:23 GMT</pubDate>
+            <title><![CDATA[PopCritic]]></title>
+            <link>https://popcritic.web.app</link>
+            <guid>https://popcritic.web.app</guid>
+            <pubDate>Sat, 06 Mar 2021 16:50:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My first open source project! MyDrive, a Node.js/React based Cloud Storage Solution (Similar To Google Drive).]]></title>
+            <link>https://v.redd.it/v4pm36lhv2l41</link>
+            <guid>https://v.redd.it/v4pm36lhv2l41</guid>
+            <pubDate>Sat, 06 Mar 2021 16:09:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Use React Developer Tools ?]]></title>
+            <link>https://youtu.be/hfhhicy_QAc</link>
+            <guid>https://youtu.be/hfhhicy_QAc</guid>
+            <pubDate>Sat, 06 Mar 2021 14:14:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[4 months into programing - Looking for a mentor with Node and React experience to help me prepare for the job market]]></title>
             <link>http://www.spync.se</link>
             <guid>http://www.spync.se</guid>
             <pubDate>Sat, 06 Mar 2021 08:43:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Low-Level Charts in React]]></title>
-            <link>https://blog.asayer.io/low-level-charts-in-react</link>
-            <guid>https://blog.asayer.io/low-level-charts-in-react</guid>
-            <pubDate>Fri, 05 Mar 2021 11:29:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Embla Carousel - Brand new documentation website built with GatsbyJs]]></title>
-            <link>https://www.embla-carousel.com</link>
-            <guid>https://www.embla-carousel.com</guid>
-            <pubDate>Fri, 05 Mar 2021 08:29:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I am building a React Express SaaS boilerplate! Let me know how it looks.]]></title>
-            <link>https://userocket.herokuapp.com/</link>
-            <guid>https://userocket.herokuapp.com/</guid>
-            <pubDate>Sat, 06 Mar 2021 05:18:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rechart + Socket.io going realtime]]></title>
-            <link>https://gist.github.com/WOLFIEEEE/b9b424bf619b34d05241e537611f4647</link>
-            <guid>https://gist.github.com/WOLFIEEEE/b9b424bf619b34d05241e537611f4647</guid>
-            <pubDate>Sat, 06 Mar 2021 04:23:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Looking for a Python bs4 alternative in React(JavaScript?)]]></title>
-            <link>https://www.npmjs.com/package/jssoup</link>
-            <guid>https://www.npmjs.com/package/jssoup</guid>
-            <pubDate>Sat, 06 Mar 2021 00:15:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React Exercises With Detailed Solutions]]></title>
-            <link>https://v.redd.it/zfscv6p601l61</link>
-            <guid>https://v.redd.it/zfscv6p601l61</guid>
-            <pubDate>Thu, 04 Mar 2021 15:00:54 GMT</pubDate>
         </item>
     </channel>
 </rss>

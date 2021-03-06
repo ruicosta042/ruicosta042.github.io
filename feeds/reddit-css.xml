@@ -4,15 +4,33 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Sat, 06 Mar 2021 13:03:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Mar 2021 19:45:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Full Page: 20 Advanced CSS & HTML techniques: clip-path, @property, aspect-ratio and blend-mode]]></title>
+            <link>https://v.redd.it/a15hw4k4ofl61</link>
+            <guid>https://v.redd.it/a15hw4k4ofl61</guid>
+            <pubDate>Sat, 06 Mar 2021 16:20:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My attempt at a single div challenge (1 div, no JS, all CSS, see comments for CodePen!)]]></title>
             <link>https://i.redd.it/xmojwfovv9l61.gif</link>
             <guid>https://i.redd.it/xmojwfovv9l61.gif</guid>
             <pubDate>Fri, 05 Mar 2021 20:52:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How To Create Search Box using Only HTML & CSS | Awesome CSS Search Box Using Only HTML & CSS]]></title>
+            <link>https://youtu.be/GsWrYK6rQMA</link>
+            <guid>https://youtu.be/GsWrYK6rQMA</guid>
+            <pubDate>Sat, 06 Mar 2021 18:24:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Don't use Tailwind for your Design System]]></title>
+            <link>https://sancho.dev/blog/tailwind-and-design-systems/</link>
+            <guid>https://sancho.dev/blog/tailwind-and-design-systems/</guid>
+            <pubDate>Sat, 06 Mar 2021 15:28:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Turntable in CSS and JS for playing music from YouTube]]></title>
@@ -97,24 +115,6 @@
             <link>https://www.parthean.com/blog/all-bootstrap-sites-look-the-same-heres-how-i-get-around-it</link>
             <guid>https://www.parthean.com/blog/all-bootstrap-sites-look-the-same-heres-how-i-get-around-it</guid>
             <pubDate>Thu, 04 Mar 2021 09:09:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🎬Login & Registration Form Using HTML & CSS & JS]]></title>
-            <link>https://youtu.be/I5_T547tHf0</link>
-            <guid>https://youtu.be/I5_T547tHf0</guid>
-            <pubDate>Thu, 04 Mar 2021 22:37:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Navbar "sliding" from top instead of appearing]]></title>
-            <link>https://preview.redd.it/tcgy4yru82l61.png?width=393&amp;format=png&amp;auto=webp&amp;s=9d853e24a448aefc46cd08e287afeb39a6246116</link>
-            <guid>https://preview.redd.it/tcgy4yru82l61.png?width=393&amp;format=png&amp;auto=webp&amp;s=9d853e24a448aefc46cd08e287afeb39a6246116</guid>
-            <pubDate>Thu, 04 Mar 2021 19:11:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Complete CSS Flex Tutorial]]></title>
-            <link>https://semicolon.dev/tutorial/css/complete-css-flex-tutorial</link>
-            <guid>https://semicolon.dev/tutorial/css/complete-css-flex-tutorial</guid>
-            <pubDate>Thu, 04 Mar 2021 19:08:42 GMT</pubDate>
         </item>
     </channel>
 </rss>

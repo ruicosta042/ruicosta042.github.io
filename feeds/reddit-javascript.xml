@@ -4,21 +4,21 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sat, 06 Mar 2021 13:03:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Mar 2021 19:45:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
-        <item>
-            <title><![CDATA[Announcing Svelte NodeGUI, a lightweight Electron alternative with native UI, based on Node.js!]]></title>
-            <link>https://github.com/nodegui/svelte-nodegui</link>
-            <guid>https://github.com/nodegui/svelte-nodegui</guid>
-            <pubDate>Fri, 05 Mar 2021 20:16:11 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[I wrote a tiny generator runner that transparently concludes yielded promises, iterators, and effects, making your async flows cancellable and testable.]]></title>
             <link>https://github.com/dmaevsky/conclure</link>
             <guid>https://github.com/dmaevsky/conclure</guid>
             <pubDate>Sat, 06 Mar 2021 12:38:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Announcing Svelte NodeGUI, a lightweight Electron alternative with native UI, based on Node.js!]]></title>
+            <link>https://github.com/nodegui/svelte-nodegui</link>
+            <guid>https://github.com/nodegui/svelte-nodegui</guid>
+            <pubDate>Fri, 05 Mar 2021 20:16:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Getting started with speech-to-text transcriptions with AssemblyAI, JavaScript and Node.js]]></title>
@@ -31,12 +31,6 @@
             <link>https://www.liftosaur.com/blog/posts/offline-mode-in-liftosaur/</link>
             <guid>https://www.liftosaur.com/blog/posts/offline-mode-in-liftosaur/</guid>
             <pubDate>Fri, 05 Mar 2021 18:52:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Embla Carousel - Brand new documentation website built with GatsbyJs]]></title>
-            <link>https://www.embla-carousel.com/</link>
-            <guid>https://www.embla-carousel.com/</guid>
-            <pubDate>Sat, 06 Mar 2021 05:57:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Makerwork 006 includes an open source Javascript alternative to Clubhouse, Twitter Spaces and similar audio spaces.]]></title>
@@ -133,6 +127,12 @@
             <link>https://usedevbook.com/</link>
             <guid>https://usedevbook.com/</guid>
             <pubDate>Wed, 03 Mar 2021 04:15:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Needle - a full featured dependency injection library]]></title>
+            <link>https://github.com/morganstanley/needle</link>
+            <guid>https://github.com/morganstanley/needle</guid>
+            <pubDate>Wed, 03 Mar 2021 19:56:33 GMT</pubDate>
         </item>
     </channel>
 </rss>

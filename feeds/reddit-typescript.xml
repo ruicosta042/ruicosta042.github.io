@@ -4,7 +4,7 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Sat, 06 Mar 2021 13:03:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Mar 2021 19:45:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -27,16 +27,16 @@
             <pubDate>Thu, 04 Mar 2021 10:38:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[TypeScript Migration Strategy (from JavaScript)]]></title>
-            <link>https://www.youtube.com/watch?v=v3lI29trIN8&amp;feature=share</link>
-            <guid>https://www.youtube.com/watch?v=v3lI29trIN8&amp;feature=share</guid>
-            <pubDate>Thu, 04 Mar 2021 18:09:55 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[6 Ways to Create Objects in Javascript — Intro to Object & Prototype]]></title>
             <link>https://beforesemicolon.medium.com/6-ways-to-create-objects-in-javascript-intro-to-object-prototype-5fe8dc657071</link>
             <guid>https://beforesemicolon.medium.com/6-ways-to-create-objects-in-javascript-intro-to-object-prototype-5fe8dc657071</guid>
             <pubDate>Thu, 04 Mar 2021 18:28:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TypeScript Migration Strategy (from JavaScript)]]></title>
+            <link>https://www.youtube.com/watch?v=v3lI29trIN8&amp;feature=share</link>
+            <guid>https://www.youtube.com/watch?v=v3lI29trIN8&amp;feature=share</guid>
+            <pubDate>Thu, 04 Mar 2021 18:09:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to use TypeScript with AppSync Lambda Resolvers]]></title>
@@ -85,12 +85,6 @@
             <link>https://www.youtube.com/watch?v=qRhMPseLNRI&amp;feature=emb_logo</link>
             <guid>https://www.youtube.com/watch?v=qRhMPseLNRI&amp;feature=emb_logo</guid>
             <pubDate>Mon, 01 Mar 2021 16:42:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Type Classes in TS pt.2/2]]></title>
-            <link>https://www.youtube.com/watch?v=u4xejli1zSc</link>
-            <guid>https://www.youtube.com/watch?v=u4xejli1zSc</guid>
-            <pubDate>Mon, 01 Mar 2021 18:20:15 GMT</pubDate>
         </item>
     </channel>
 </rss>

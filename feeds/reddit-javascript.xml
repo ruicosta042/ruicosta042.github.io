@@ -4,15 +4,45 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Fri, 05 Mar 2021 19:50:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Mar 2021 07:47:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Announcing Svelte NodeGUI, a lightweight Electron alternative with native UI, based on Node.js!]]></title>
+            <link>https://github.com/nodegui/svelte-nodegui</link>
+            <guid>https://github.com/nodegui/svelte-nodegui</guid>
+            <pubDate>Fri, 05 Mar 2021 20:16:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How I built offline mode in Liftosaur]]></title>
             <link>https://www.liftosaur.com/blog/posts/offline-mode-in-liftosaur/</link>
             <guid>https://www.liftosaur.com/blog/posts/offline-mode-in-liftosaur/</guid>
             <pubDate>Fri, 05 Mar 2021 18:52:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Embla Carousel - Brand new documentation website built with GatsbyJs]]></title>
+            <link>https://www.embla-carousel.com/</link>
+            <guid>https://www.embla-carousel.com/</guid>
+            <pubDate>Sat, 06 Mar 2021 05:57:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Makerwork 006 includes an open source Javascript alternative to Clubhouse, Twitter Spaces and similar audio spaces.]]></title>
+            <link>https://makerwork.substack.com/p/makerwork006</link>
+            <guid>https://makerwork.substack.com/p/makerwork006</guid>
+            <pubDate>Sat, 06 Mar 2021 02:18:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AWS JS SDK v3 first impressions]]></title>
+            <link>https://advancedweb.hu/aws-js-sdk-v3-first-impressions/</link>
+            <guid>https://advancedweb.hu/aws-js-sdk-v3-first-impressions/</guid>
+            <pubDate>Sat, 06 Mar 2021 05:53:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Deploy a Powerful Virtual Event in Record Time]]></title>
+            <link>https://olgaagilitycms.medium.com/how-to-deploy-a-powerful-virtual-event-in-record-time-with-next-js-and-agility-cms-5acfecb74fcc</link>
+            <guid>https://olgaagilitycms.medium.com/how-to-deploy-a-powerful-virtual-event-in-record-time-with-next-js-and-agility-cms-5acfecb74fcc</guid>
+            <pubDate>Fri, 05 Mar 2021 19:58:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[OkCupid Presents: Modeling UI States in A React Form Component Using A Finite State Machine]]></title>
@@ -103,36 +133,6 @@
             <link>https://storybook.js.org/blog/create-storybook-addon/</link>
             <guid>https://storybook.js.org/blog/create-storybook-addon/</guid>
             <pubDate>Wed, 03 Mar 2021 17:03:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GUN - An open source cybersecurity protocol for syncing decentralized graph data. Used by Internet Archive and Hackernoon.]]></title>
-            <link>https://github.com/amark/gun</link>
-            <guid>https://github.com/amark/gun</guid>
-            <pubDate>Wed, 03 Mar 2021 16:42:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Building A LMS In JavaScript: What I Have Accomplished In Two Years]]></title>
-            <link>https://rajatsx.medium.com/building-a-lms-what-i-have-accomplished-in-two-years-69d671434f70</link>
-            <guid>https://rajatsx.medium.com/building-a-lms-what-i-have-accomplished-in-two-years-69d671434f70</guid>
-            <pubDate>Wed, 03 Mar 2021 07:59:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[High-level WebGL. Low-level tags.]]></title>
-            <link>https://hugodaniel.com/posts/high-level-webgl-low-level-tags/</link>
-            <guid>https://hugodaniel.com/posts/high-level-webgl-low-level-tags/</guid>
-            <pubDate>Wed, 03 Mar 2021 16:28:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Halftone Mirror (Webcam Required)]]></title>
-            <link>https://codepen.io/JoshuaVB/pen/BaQxNOL</link>
-            <guid>https://codepen.io/JoshuaVB/pen/BaQxNOL</guid>
-            <pubDate>Wed, 03 Mar 2021 19:39:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The JavaScript Templating Landscape | Patrick Steele-Idem]]></title>
-            <link>http://psteeleidem.com/the-javascript-templating-landscape/</link>
-            <guid>http://psteeleidem.com/the-javascript-templating-landscape/</guid>
-            <pubDate>Wed, 03 Mar 2021 19:32:57 GMT</pubDate>
         </item>
     </channel>
 </rss>

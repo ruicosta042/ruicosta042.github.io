@@ -4,10 +4,22 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Fri, 05 Mar 2021 19:50:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Mar 2021 07:47:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[My attempt at a single div challenge (1 div, no JS, all CSS, see comments for CodePen!)]]></title>
+            <link>https://i.redd.it/xmojwfovv9l61.gif</link>
+            <guid>https://i.redd.it/xmojwfovv9l61.gif</guid>
+            <pubDate>Fri, 05 Mar 2021 20:52:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Turntable in CSS and JS for playing music from YouTube]]></title>
+            <link>https://thomaspark.co/projects/needledrop/</link>
+            <guid>https://thomaspark.co/projects/needledrop/</guid>
+            <pubDate>Fri, 05 Mar 2021 16:27:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Diving into the ::before and ::after Pseudo-Elements]]></title>
             <link>https://codersblock.com/blog/diving-into-the-before-and-after-pseudo-elements/</link>
@@ -15,10 +27,16 @@
             <pubDate>Fri, 05 Mar 2021 12:33:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Turntable in CSS and JS for playing music from YouTube]]></title>
-            <link>https://thomaspark.co/projects/needledrop/</link>
-            <guid>https://thomaspark.co/projects/needledrop/</guid>
-            <pubDate>Fri, 05 Mar 2021 16:27:06 GMT</pubDate>
+            <title><![CDATA[For some reason, there's blue in this code. I'm not sure why, and I don't think it's connected to RBGA/Hexcode [CSS]]]></title>
+            <link>https://www.dropbox.com/s/d0eyzvxixzu94ve/Falling%20Ash%20%28gif%29%20-%20189911.css?dl=1</link>
+            <guid>https://www.dropbox.com/s/d0eyzvxixzu94ve/Falling%20Ash%20%28gif%29%20-%20189911.css?dl=1</guid>
+            <pubDate>Sat, 06 Mar 2021 03:11:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is the secret to understand and make the url() with base64 image work?]]></title>
+            <link>https://codepen.io/mscarvalho/pen/LYVzrYK</link>
+            <guid>https://codepen.io/mscarvalho/pen/LYVzrYK</guid>
+            <pubDate>Fri, 05 Mar 2021 21:08:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Complete Guide To SCSS/SASS]]></title>
@@ -63,12 +81,6 @@
             <pubDate>Fri, 05 Mar 2021 05:21:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sped up my page load time from over 15 seconds to under 2 seconds but my Page Speed Insights score went from 59 down to 7]]></title>
-            <link>https://www.nicoles3dvirtualtours.com</link>
-            <guid>https://www.nicoles3dvirtualtours.com</guid>
-            <pubDate>Fri, 05 Mar 2021 04:53:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[I made an animated sewing triptych entirely in HTML + CSS (no JS). Pretty proud of myself 😊]]></title>
             <link>https://i.redd.it/yy2mu3dm7kk61.gif</link>
             <guid>https://i.redd.it/yy2mu3dm7kk61.gif</guid>
@@ -109,18 +121,6 @@
             <link>https://imgur.com/gallery/3KwMK5d</link>
             <guid>https://imgur.com/gallery/3KwMK5d</guid>
             <pubDate>Thu, 04 Mar 2021 16:40:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[HELP] Customize Vuetify date picker]]></title>
-            <link>https://codepen.io/klmt/pen/abBjvda?editors=1100</link>
-            <guid>https://codepen.io/klmt/pen/abBjvda?editors=1100</guid>
-            <pubDate>Thu, 04 Mar 2021 13:20:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hide text completely if it overflows]]></title>
-            <link>https://preview.redd.it/dqytb1d6pzk61.png?width=78&amp;format=png&amp;auto=webp&amp;s=9eb127f53fe582d4c8fb60ba1a97063214492187</link>
-            <guid>https://preview.redd.it/dqytb1d6pzk61.png?width=78&amp;format=png&amp;auto=webp&amp;s=9eb127f53fe582d4c8fb60ba1a97063214492187</guid>
-            <pubDate>Thu, 04 Mar 2021 10:37:48 GMT</pubDate>
         </item>
     </channel>
 </rss>

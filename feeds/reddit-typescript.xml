@@ -4,7 +4,7 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Fri, 05 Mar 2021 19:50:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Mar 2021 07:47:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -85,12 +85,6 @@
             <link>https://www.youtube.com/watch?v=u4xejli1zSc</link>
             <guid>https://www.youtube.com/watch?v=u4xejli1zSc</guid>
             <pubDate>Mon, 01 Mar 2021 18:20:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Handle Events with LitElement and TypeScript]]></title>
-            <link>https://labs.thisdot.co/blog/how-to-handle-events-with-litelement-and-typescript</link>
-            <guid>https://labs.thisdot.co/blog/how-to-handle-events-with-litelement-and-typescript</guid>
-            <pubDate>Mon, 01 Mar 2021 11:22:33 GMT</pubDate>
         </item>
     </channel>
 </rss>

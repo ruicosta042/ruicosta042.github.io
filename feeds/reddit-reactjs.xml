@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Fri, 05 Mar 2021 19:50:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Mar 2021 07:47:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,6 +21,24 @@
             <pubDate>Mon, 01 Mar 2021 15:56:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Generate PDF from React.js code client-side]]></title>
+            <link>https://typeful.co/privacy-policy?ref=reddit/r/webdev</link>
+            <guid>https://typeful.co/privacy-policy?ref=reddit/r/webdev</guid>
+            <pubDate>Fri, 05 Mar 2021 20:25:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Expenses | Complete User Authentication (Sign Up & Sign In)]]></title>
+            <link>https://youtu.be/FBLjixmAEN4</link>
+            <guid>https://youtu.be/FBLjixmAEN4</guid>
+            <pubDate>Fri, 05 Mar 2021 18:27:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We open-sourced a React component for building split views like in VS Code]]></title>
+            <link>https://usedevbook.com/</link>
+            <guid>https://usedevbook.com/</guid>
+            <pubDate>Fri, 05 Mar 2021 23:41:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Low-Level Charts in React]]></title>
             <link>https://blog.asayer.io/low-level-charts-in-react</link>
             <guid>https://blog.asayer.io/low-level-charts-in-react</guid>
@@ -33,10 +51,22 @@
             <pubDate>Fri, 05 Mar 2021 08:29:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[35+ free React templates and themes you should use in 2021]]></title>
-            <link>https://hashnode.com/post/35-free-react-templates-and-themes-you-should-use-in-2021-cklw9iu7c022b56s1ezgz033j</link>
-            <guid>https://hashnode.com/post/35-free-react-templates-and-themes-you-should-use-in-2021-cklw9iu7c022b56s1ezgz033j</guid>
-            <pubDate>Fri, 05 Mar 2021 12:20:43 GMT</pubDate>
+            <title><![CDATA[I am building a React Express SaaS boilerplate! Let me know how it looks.]]></title>
+            <link>https://userocket.herokuapp.com/</link>
+            <guid>https://userocket.herokuapp.com/</guid>
+            <pubDate>Sat, 06 Mar 2021 05:18:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rechart + Socket.io going realtime]]></title>
+            <link>https://gist.github.com/WOLFIEEEE/b9b424bf619b34d05241e537611f4647</link>
+            <guid>https://gist.github.com/WOLFIEEEE/b9b424bf619b34d05241e537611f4647</guid>
+            <pubDate>Sat, 06 Mar 2021 04:23:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Looking for a Python bs4 alternative in React(JavaScript?)]]></title>
+            <link>https://www.npmjs.com/package/jssoup</link>
+            <guid>https://www.npmjs.com/package/jssoup</guid>
+            <pubDate>Sat, 06 Mar 2021 00:15:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[React Exercises With Detailed Solutions]]></title>
@@ -45,16 +75,10 @@
             <pubDate>Thu, 04 Mar 2021 15:00:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Expenses | Complete User Authentication (Sign Up & Sign In)]]></title>
-            <link>https://youtu.be/FBLjixmAEN4</link>
-            <guid>https://youtu.be/FBLjixmAEN4</guid>
-            <pubDate>Fri, 05 Mar 2021 18:27:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Making our React Single Page work in 3 App stores]]></title>
-            <link>https://nesbtesh.medium.com/pwas-one-code-base-3-app-stores-30cecbee07b7</link>
-            <guid>https://nesbtesh.medium.com/pwas-one-code-base-3-app-stores-30cecbee07b7</guid>
-            <pubDate>Fri, 05 Mar 2021 19:14:33 GMT</pubDate>
+            <title><![CDATA[35+ free React templates and themes you should use in 2021]]></title>
+            <link>https://hashnode.com/post/35-free-react-templates-and-themes-you-should-use-in-2021-cklw9iu7c022b56s1ezgz033j</link>
+            <guid>https://hashnode.com/post/35-free-react-templates-and-themes-you-should-use-in-2021-cklw9iu7c022b56s1ezgz033j</guid>
+            <pubDate>Fri, 05 Mar 2021 12:20:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Animated Swipe Button - Reanimated v2 | React Native Tutorial ⚛️]]></title>
@@ -63,34 +87,10 @@
             <pubDate>Fri, 05 Mar 2021 18:34:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to move from one page to another?]]></title>
-            <link>https://imgur.com/a/XWG46uZ</link>
-            <guid>https://imgur.com/a/XWG46uZ</guid>
-            <pubDate>Fri, 05 Mar 2021 18:06:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Quick Intro To ReactJS React Fire #3 - Adding State Management With Redux Toolkit]]></title>
-            <link>https://www.youtube.com/watch?v=YmHEzjglRMk</link>
-            <guid>https://www.youtube.com/watch?v=YmHEzjglRMk</guid>
-            <pubDate>Fri, 05 Mar 2021 17:57:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NextJs data fetching using SWR and getStaticProps]]></title>
-            <link>https://www.youtube.com/watch?v=O2s_LvqQQgM</link>
-            <guid>https://www.youtube.com/watch?v=O2s_LvqQQgM</guid>
-            <pubDate>Fri, 05 Mar 2021 13:19:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New React app to create fantasy football leagues from past seasons: fantaseasons.com]]></title>
-            <link>https://fantaseasons.com/</link>
-            <guid>https://fantaseasons.com/</guid>
-            <pubDate>Fri, 05 Mar 2021 13:05:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Best library for a resizeable element?]]></title>
-            <link>https://gyazo.com/5659084d93512002108b2875e01fccf9</link>
-            <guid>https://gyazo.com/5659084d93512002108b2875e01fccf9</guid>
-            <pubDate>Fri, 05 Mar 2021 16:33:23 GMT</pubDate>
+            <title><![CDATA[Quiz Game | React, Redux Saga, Redux Toolkit & Tailwind CSS]]></title>
+            <link>https://youtu.be/C9g-Zhsd_FE</link>
+            <guid>https://youtu.be/C9g-Zhsd_FE</guid>
+            <pubDate>Fri, 05 Mar 2021 20:20:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

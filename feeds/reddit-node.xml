@@ -4,21 +4,33 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Fri, 05 Mar 2021 19:50:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Mar 2021 07:47:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Announcing Svelte NodeGUI, a lightweight Electron alternative with native UI, based on Node.js!]]></title>
+            <link>https://github.com/nodegui/svelte-nodegui</link>
+            <guid>https://github.com/nodegui/svelte-nodegui</guid>
+            <pubDate>Fri, 05 Mar 2021 20:25:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I am building a Node.js Express React boilerplate for SaaS. It comes with built-in authentication, user management, billing and more. Please take a look!]]></title>
+            <link>https://userocket.herokuapp.com/</link>
+            <guid>https://userocket.herokuapp.com/</guid>
+            <pubDate>Sat, 06 Mar 2021 05:21:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Set vs WeakSet vs Array in Javascript]]></title>
+            <link>https://youtu.be/M_UF-Y7JdCY</link>
+            <guid>https://youtu.be/M_UF-Y7JdCY</guid>
+            <pubDate>Sat, 06 Mar 2021 00:20:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Here are Core Node modules you must know as a Nodejs Developer]]></title>
             <link>https://towardsdev.com/here-are-core-node-modules-you-must-know-as-a-nodejs-developer-19ef7679e20f</link>
             <guid>https://towardsdev.com/here-are-core-node-modules-you-must-know-as-a-nodejs-developer-19ef7679e20f</guid>
             <pubDate>Fri, 05 Mar 2021 08:36:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[http to https redirect issues]]></title>
-            <link>https://www.npmjs.com/package/ssl-express-www</link>
-            <guid>https://www.npmjs.com/package/ssl-express-www</guid>
-            <pubDate>Fri, 05 Mar 2021 12:34:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Handling GraphQL API Authentication using Auth0 with Hasura Actions]]></title>
@@ -27,10 +39,28 @@
             <pubDate>Fri, 05 Mar 2021 19:40:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to slice an SVG image into 2 separate units?]]></title>
-            <link>https://preview.redd.it/r9db2yqji9l61.jpg?width=1603&amp;format=pjpg&amp;auto=webp&amp;s=c220064eb4d96e54cf5347e8bf200075b8db37e8</link>
-            <guid>https://preview.redd.it/r9db2yqji9l61.jpg?width=1603&amp;format=pjpg&amp;auto=webp&amp;s=c220064eb4d96e54cf5347e8bf200075b8db37e8</guid>
-            <pubDate>Fri, 05 Mar 2021 19:37:59 GMT</pubDate>
+            <title><![CDATA[Animated Swipe Button - Reanimated v2 | React Native Tutorial ⚛️]]></title>
+            <link>https://youtu.be/rseiP75qn0Y</link>
+            <guid>https://youtu.be/rseiP75qn0Y</guid>
+            <pubDate>Sat, 06 Mar 2021 01:03:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[4 months into programing - Looking for a mentor with Node and React experience to help me prepare for the job market]]></title>
+            <link>http://www.spync.se</link>
+            <guid>http://www.spync.se</guid>
+            <pubDate>Sat, 06 Mar 2021 00:55:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fetch Shared Data in Next.js With Single Request]]></title>
+            <link>https://medium.com/@akellbl4/fetch-shared-data-in-next-js-with-single-request-833433fa8ed1?source=friends_link&amp;sk=27cf795d55a0add65aca53be299d5ac6</link>
+            <guid>https://medium.com/@akellbl4/fetch-shared-data-in-next-js-with-single-request-833433fa8ed1?source=friends_link&amp;sk=27cf795d55a0add65aca53be299d5ac6</guid>
+            <pubDate>Fri, 05 Mar 2021 22:41:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[http to https redirect issues]]></title>
+            <link>https://www.npmjs.com/package/ssl-express-www</link>
+            <guid>https://www.npmjs.com/package/ssl-express-www</guid>
+            <pubDate>Fri, 05 Mar 2021 12:34:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[An open source and pure Node.js remote calling framework project]]></title>
@@ -39,52 +69,16 @@
             <pubDate>Fri, 05 Mar 2021 11:28:17 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How to slice an SVG image into 2 separate units?]]></title>
+            <link>https://preview.redd.it/r9db2yqji9l61.jpg?width=1603&amp;format=pjpg&amp;auto=webp&amp;s=c220064eb4d96e54cf5347e8bf200075b8db37e8</link>
+            <guid>https://preview.redd.it/r9db2yqji9l61.jpg?width=1603&amp;format=pjpg&amp;auto=webp&amp;s=c220064eb4d96e54cf5347e8bf200075b8db37e8</guid>
+            <pubDate>Fri, 05 Mar 2021 19:37:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Design Patterns for Authorizing User In Service]]></title>
             <link>/r/Nestjs_framework/comments/ly99mq/design_patterns_for_authorizing_user_in_service/</link>
             <guid>/r/Nestjs_framework/comments/ly99mq/design_patterns_for_authorizing_user_in_service/</guid>
             <pubDate>Fri, 05 Mar 2021 10:45:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Example of Parking Lot Tracking - Proxy of a REST opendata API]]></title>
-            <link>https://playground.scaledynamics.com/?snippet=60099f2885c335e1155d45ae</link>
-            <guid>https://playground.scaledynamics.com/?snippet=60099f2885c335e1155d45ae</guid>
-            <pubDate>Fri, 05 Mar 2021 14:00:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[6 Ways to Create Objects in Javascript — Intro to Object & Prototype]]></title>
-            <link>https://beforesemicolon.medium.com/6-ways-to-create-objects-in-javascript-intro-to-object-prototype-5fe8dc657071</link>
-            <guid>https://beforesemicolon.medium.com/6-ways-to-create-objects-in-javascript-intro-to-object-prototype-5fe8dc657071</guid>
-            <pubDate>Thu, 04 Mar 2021 18:27:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Okta Buys Cloud Security Startup Auth0 For $6.5B]]></title>
-            <link>https://www.thetechee.com/2021/03/okta-buys-cloud-security-startup-auth0.html</link>
-            <guid>https://www.thetechee.com/2021/03/okta-buys-cloud-security-startup-auth0.html</guid>
-            <pubDate>Thu, 04 Mar 2021 05:17:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Guys what's happening ? do you have ant idea ?]]></title>
-            <link>https://preview.redd.it/8oz7ire0u7l61.png?width=929&amp;format=png&amp;auto=webp&amp;s=8dfee2037b3d4abcb2e59bd441695497a62e2cd4</link>
-            <guid>https://preview.redd.it/8oz7ire0u7l61.png?width=929&amp;format=png&amp;auto=webp&amp;s=8dfee2037b3d4abcb2e59bd441695497a62e2cd4</guid>
-            <pubDate>Fri, 05 Mar 2021 13:58:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[fs.promises.readFile is 40% slower than fs.readFile]]></title>
-            <link>https://github.com/nodejs/node/issues/37583</link>
-            <guid>https://github.com/nodejs/node/issues/37583</guid>
-            <pubDate>Thu, 04 Mar 2021 05:39:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Flutter and Node JS, subscribing to updates from the Backend]]></title>
-            <link>/r/AskProgramming/comments/lxvh2r/flutter_and_node_js_subscribing_to_updates_from/</link>
-            <guid>/r/AskProgramming/comments/lxvh2r/flutter_and_node_js_subscribing_to_updates_from/</guid>
-            <pubDate>Thu, 04 Mar 2021 21:11:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Unable to send email]]></title>
-            <link>https://74.125.130.108:587</link>
-            <guid>https://74.125.130.108:587</guid>
-            <pubDate>Thu, 04 Mar 2021 13:07:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

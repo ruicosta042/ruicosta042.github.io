@@ -4,10 +4,16 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Sat, 06 Mar 2021 07:47:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Mar 2021 13:03:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[ServiceBox - Type Safe Web Services for Node]]></title>
+            <link>https://github.com/sinclairzx81/servicebox</link>
+            <guid>https://github.com/sinclairzx81/servicebox</guid>
+            <pubDate>Sat, 06 Mar 2021 08:52:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why isn't typescript warning me this?]]></title>
             <link>https://preview.redd.it/hx9u1u4v47l61.png?width=754&amp;format=png&amp;auto=webp&amp;s=322249da306c820f50c9b1efbaf5e50fdc274e23</link>

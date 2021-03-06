@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sat, 06 Mar 2021 07:47:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Mar 2021 13:03:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,18 @@
             <link>https://github.com/nodegui/svelte-nodegui</link>
             <guid>https://github.com/nodegui/svelte-nodegui</guid>
             <pubDate>Fri, 05 Mar 2021 20:16:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I wrote a tiny generator runner that transparently concludes yielded promises, iterators, and effects, making your async flows cancellable and testable.]]></title>
+            <link>https://github.com/dmaevsky/conclure</link>
+            <guid>https://github.com/dmaevsky/conclure</guid>
+            <pubDate>Sat, 06 Mar 2021 12:38:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting started with speech-to-text transcriptions with AssemblyAI, JavaScript and Node.js]]></title>
+            <link>https://www.assemblyai.com/blog/getting-started-with-speech-to-text-transcriptions-with-assemblyai-javascript-and-node-js</link>
+            <guid>https://www.assemblyai.com/blog/getting-started-with-speech-to-text-transcriptions-with-assemblyai-javascript-and-node-js</guid>
+            <pubDate>Sat, 06 Mar 2021 09:24:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How I built offline mode in Liftosaur]]></title>
@@ -121,18 +133,6 @@
             <link>https://usedevbook.com/</link>
             <guid>https://usedevbook.com/</guid>
             <pubDate>Wed, 03 Mar 2021 04:15:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Needle - a full featured dependency injection library]]></title>
-            <link>https://github.com/morganstanley/needle</link>
-            <guid>https://github.com/morganstanley/needle</guid>
-            <pubDate>Wed, 03 Mar 2021 19:56:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Launching an Addon Kit and in-depth guide for Storybook]]></title>
-            <link>https://storybook.js.org/blog/create-storybook-addon/</link>
-            <guid>https://storybook.js.org/blog/create-storybook-addon/</guid>
-            <pubDate>Wed, 03 Mar 2021 17:03:24 GMT</pubDate>
         </item>
     </channel>
 </rss>

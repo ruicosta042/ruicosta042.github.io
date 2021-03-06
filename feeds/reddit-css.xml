@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Sat, 06 Mar 2021 07:47:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Mar 2021 13:03:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -115,12 +115,6 @@
             <link>https://semicolon.dev/tutorial/css/complete-css-flex-tutorial</link>
             <guid>https://semicolon.dev/tutorial/css/complete-css-flex-tutorial</guid>
             <pubDate>Thu, 04 Mar 2021 19:08:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Having issues with making containers fill up the dead space]]></title>
-            <link>https://imgur.com/gallery/3KwMK5d</link>
-            <guid>https://imgur.com/gallery/3KwMK5d</guid>
-            <pubDate>Thu, 04 Mar 2021 16:40:41 GMT</pubDate>
         </item>
     </channel>
 </rss>

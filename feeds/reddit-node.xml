@@ -4,7 +4,7 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Sat, 06 Mar 2021 07:47:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Mar 2021 13:03:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,22 @@
             <pubDate>Fri, 05 Mar 2021 20:25:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Getting started with speech-to-text transcriptions with AssemblyAI, JavaScript and Node.js]]></title>
+            <link>https://www.assemblyai.com/blog/getting-started-with-speech-to-text-transcriptions-with-assemblyai-javascript-and-node-js</link>
+            <guid>https://www.assemblyai.com/blog/getting-started-with-speech-to-text-transcriptions-with-assemblyai-javascript-and-node-js</guid>
+            <pubDate>Sat, 06 Mar 2021 09:24:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I am building a Node.js Express React boilerplate for SaaS. It comes with built-in authentication, user management, billing and more. Please take a look!]]></title>
             <link>https://userocket.herokuapp.com/</link>
             <guid>https://userocket.herokuapp.com/</guid>
             <pubDate>Sat, 06 Mar 2021 05:21:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It takes 3GB's to download 846MB's data?]]></title>
+            <link>https://www.npmjs.com/package/download</link>
+            <guid>https://www.npmjs.com/package/download</guid>
+            <pubDate>Sat, 06 Mar 2021 09:52:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Set vs WeakSet vs Array in Javascript]]></title>
@@ -73,12 +85,6 @@
             <link>https://preview.redd.it/r9db2yqji9l61.jpg?width=1603&amp;format=pjpg&amp;auto=webp&amp;s=c220064eb4d96e54cf5347e8bf200075b8db37e8</link>
             <guid>https://preview.redd.it/r9db2yqji9l61.jpg?width=1603&amp;format=pjpg&amp;auto=webp&amp;s=c220064eb4d96e54cf5347e8bf200075b8db37e8</guid>
             <pubDate>Fri, 05 Mar 2021 19:37:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Design Patterns for Authorizing User In Service]]></title>
-            <link>/r/Nestjs_framework/comments/ly99mq/design_patterns_for_authorizing_user_in_service/</link>
-            <guid>/r/Nestjs_framework/comments/ly99mq/design_patterns_for_authorizing_user_in_service/</guid>
-            <pubDate>Fri, 05 Mar 2021 10:45:06 GMT</pubDate>
         </item>
     </channel>
 </rss>

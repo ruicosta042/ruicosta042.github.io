@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Sun, 07 Mar 2021 07:47:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Mar 2021 13:02:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,18 @@
             <link>https://v.redd.it/a15hw4k4ofl61</link>
             <guid>https://v.redd.it/a15hw4k4ofl61</guid>
             <pubDate>Sat, 06 Mar 2021 16:20:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing Flexboxplus.css (Feedback requested)]]></title>
+            <link>https://github.com/Jerome-Saltmarsh/flexbox-plus</link>
+            <guid>https://github.com/Jerome-Saltmarsh/flexbox-plus</guid>
+            <pubDate>Sun, 07 Mar 2021 10:00:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Styling child component from a parent in Angular]]></title>
+            <link>https://michalmuszynski.com/blog/styling-child-component-from-parent-in-angular/</link>
+            <guid>https://michalmuszynski.com/blog/styling-child-component-from-parent-in-angular/</guid>
+            <pubDate>Sun, 07 Mar 2021 10:59:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[getting rid of white bar at the bottom]]></title>
@@ -91,18 +103,6 @@
             <link>https://plnkr.co/edit/lWk6Yd?preview</link>
             <guid>https://plnkr.co/edit/lWk6Yd?preview</guid>
             <pubDate>Fri, 05 Mar 2021 16:23:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Quick Interactive Guide to CSS Flex Box]]></title>
-            <link>https://fjolt.com/article/a-guide-to-css-flexbox</link>
-            <guid>https://fjolt.com/article/a-guide-to-css-flexbox</guid>
-            <pubDate>Fri, 05 Mar 2021 15:13:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🎬Login & Registration Form Using HTML & CSS & JS]]></title>
-            <link>https://youtu.be/I5_T547tHf0</link>
-            <guid>https://youtu.be/I5_T547tHf0</guid>
-            <pubDate>Thu, 04 Mar 2021 22:38:26 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,34 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Sun, 07 Mar 2021 07:47:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Mar 2021 13:02:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[SSO Authentication middleware with NTLM/Kerberos on Windows]]></title>
+            <link>https://github.com/jlguenego/node-expose-sspi</link>
+            <guid>https://github.com/jlguenego/node-expose-sspi</guid>
+            <pubDate>Sun, 07 Mar 2021 12:59:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Using NPM To Install A Specific Version Of A Node.js Package]]></title>
+            <link>https://www.whitesourcesoftware.com/free-developer-tools/blog/npm-install-specific-version/</link>
+            <guid>https://www.whitesourcesoftware.com/free-developer-tools/blog/npm-install-specific-version/</guid>
+            <pubDate>Sun, 07 Mar 2021 08:14:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[node.js jobs - Start Working Remotely]]></title>
+            <link>https://startworkingremotely.com/jobs?q=node.js</link>
+            <guid>https://startworkingremotely.com/jobs?q=node.js</guid>
+            <pubDate>Sun, 07 Mar 2021 09:32:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Building REST API with Express, TypeScript - Part 4: Jest and unit testing]]></title>
+            <link>https://rsbh.dev/blog/rest-api-express-typescript-jest-testing</link>
+            <guid>https://rsbh.dev/blog/rest-api-express-typescript-jest-testing</guid>
+            <pubDate>Sun, 07 Mar 2021 08:38:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A way to host an API with DB for demo purposes.]]></title>
             <link>https://swapi.dev/</link>
@@ -55,18 +79,6 @@
             <link>https://github.com/ehmicky/terminal-theme</link>
             <guid>https://github.com/ehmicky/terminal-theme</guid>
             <pubDate>Sat, 06 Mar 2021 21:22:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Free NestJS Tutorial in German]]></title>
-            <link>https://www.youtube.com/watch?v=9xlfZUYiO4g</link>
-            <guid>https://www.youtube.com/watch?v=9xlfZUYiO4g</guid>
-            <pubDate>Sat, 06 Mar 2021 17:23:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Socket.io + React - UserList updates on another user connection, but not on self connection.]]></title>
-            <link>https://preview.redd.it/mbpjwzdymfl61.png?width=1004&amp;format=png&amp;auto=webp&amp;s=8fc10190847f0ec3e9001d76ec2f090f66bd4d61</link>
-            <guid>https://preview.redd.it/mbpjwzdymfl61.png?width=1004&amp;format=png&amp;auto=webp&amp;s=8fc10190847f0ec3e9001d76ec2f090f66bd4d61</guid>
-            <pubDate>Sat, 06 Mar 2021 16:12:26 GMT</pubDate>
         </item>
     </channel>
 </rss>

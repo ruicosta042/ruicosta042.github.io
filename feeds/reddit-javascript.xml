@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sun, 07 Mar 2021 07:47:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Mar 2021 13:02:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,22 +15,34 @@
             <pubDate>Sat, 06 Mar 2021 12:38:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[[AskJS] JS table library that doesn't mix design and data?]]></title>
+            <link>https://jqueryui.com/</link>
+            <guid>https://jqueryui.com/</guid>
+            <pubDate>Sun, 07 Mar 2021 11:20:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Peripheral Communication using React Native BLE (Bluetooth Low Energy)]]></title>
             <link>https://novalagung.medium.com/react-native-bluetooth-low-energy-peripheral-communication-e7cb93abf69</link>
             <guid>https://novalagung.medium.com/react-native-bluetooth-low-energy-peripheral-communication-e7cb93abf69</guid>
             <pubDate>Sun, 07 Mar 2021 02:41:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Announcing Svelte NodeGUI, a lightweight Electron alternative with native UI, based on Node.js!]]></title>
-            <link>https://github.com/nodegui/svelte-nodegui</link>
-            <guid>https://github.com/nodegui/svelte-nodegui</guid>
-            <pubDate>Fri, 05 Mar 2021 20:16:11 GMT</pubDate>
+            <title><![CDATA[How To Use Rest Parameters & Spread Syntax In JavaScript]]></title>
+            <link>https://www.codebro.org/2021/03/07/how-to-use-rest-parameters-spread-syntax-in-javascript/</link>
+            <guid>https://www.codebro.org/2021/03/07/how-to-use-rest-parameters-spread-syntax-in-javascript/</guid>
+            <pubDate>Sun, 07 Mar 2021 10:46:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[AskJS] confusions about how images are transferred via HTTP and handled in JavaScript]]></title>
             <link>https://stackoverflow.com/questions/50248329/fetch-image-from-api/50248437#50248437</link>
             <guid>https://stackoverflow.com/questions/50248329/fetch-image-from-api/50248437#50248437</guid>
             <pubDate>Sat, 06 Mar 2021 21:56:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Announcing Svelte NodeGUI, a lightweight Electron alternative with native UI, based on Node.js!]]></title>
+            <link>https://github.com/nodegui/svelte-nodegui</link>
+            <guid>https://github.com/nodegui/svelte-nodegui</guid>
+            <pubDate>Fri, 05 Mar 2021 20:16:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Getting started with speech-to-text transcriptions with AssemblyAI, JavaScript and Node.js]]></title>
@@ -45,16 +57,16 @@
             <pubDate>Fri, 05 Mar 2021 18:52:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AWS JS SDK v3 first impressions]]></title>
-            <link>https://advancedweb.hu/aws-js-sdk-v3-first-impressions/</link>
-            <guid>https://advancedweb.hu/aws-js-sdk-v3-first-impressions/</guid>
-            <pubDate>Sat, 06 Mar 2021 05:53:54 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Makerwork 006 includes an open source Javascript alternative to Clubhouse, Twitter Spaces and similar audio spaces.]]></title>
             <link>https://makerwork.substack.com/p/makerwork006</link>
             <guid>https://makerwork.substack.com/p/makerwork006</guid>
             <pubDate>Sat, 06 Mar 2021 02:18:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AWS JS SDK v3 first impressions]]></title>
+            <link>https://advancedweb.hu/aws-js-sdk-v3-first-impressions/</link>
+            <guid>https://advancedweb.hu/aws-js-sdk-v3-first-impressions/</guid>
+            <pubDate>Sat, 06 Mar 2021 05:53:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to Deploy a Powerful Virtual Event in Record Time]]></title>
@@ -127,12 +139,6 @@
             <link>https://www.syncfusion.com/blogs/post/bind-remote-data-and-enable-virtual-scrolling-in-javascript-pivot-table.aspx</link>
             <guid>https://www.syncfusion.com/blogs/post/bind-remote-data-and-enable-virtual-scrolling-in-javascript-pivot-table.aspx</guid>
             <pubDate>Thu, 04 Mar 2021 12:15:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Announcing our new Free Forever plan Payload, a Node / TypeScript headless CMS]]></title>
-            <link>https://payloadcms.com/blog/free-forever</link>
-            <guid>https://payloadcms.com/blog/free-forever</guid>
-            <pubDate>Wed, 03 Mar 2021 16:54:32 GMT</pubDate>
         </item>
     </channel>
 </rss>

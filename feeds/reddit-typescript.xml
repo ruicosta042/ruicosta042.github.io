@@ -4,10 +4,16 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Sun, 07 Mar 2021 07:47:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Mar 2021 13:02:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[WIP: NES emulator written in TypeScript/React.js]]></title>
+            <link>https://github.com/ognis1205/nests</link>
+            <guid>https://github.com/ognis1205/nests</guid>
+            <pubDate>Sun, 07 Mar 2021 07:48:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ServiceBox - Type Safe Web Services for Node]]></title>
             <link>https://github.com/sinclairzx81/servicebox</link>

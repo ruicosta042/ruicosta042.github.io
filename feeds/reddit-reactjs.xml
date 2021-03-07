@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sun, 07 Mar 2021 07:47:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Mar 2021 13:02:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -33,16 +33,52 @@
             <pubDate>Sat, 06 Mar 2021 17:34:50 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[I made Reddish - A simple reddit clone w/ MERN stack + Redux for state management. Github repo & live links in comments.]]></title>
+            <link>https://v.redd.it/s1vgdivdell61</link>
+            <guid>https://v.redd.it/s1vgdivdell61</guid>
+            <pubDate>Sun, 07 Mar 2021 11:38:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I made a webcam streaming software that streams your webcam via LAN with React, Electron, Express]]></title>
+            <link>https://github.com/artuncolak/local-cam</link>
+            <guid>https://github.com/artuncolak/local-cam</guid>
+            <pubDate>Sun, 07 Mar 2021 12:38:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Login Modal Popup - ReactJS, TypeScript Tutorial - #1 Basic Modal]]></title>
+            <link>https://youtube.com/watch?v=xSWkArLGkR4&amp;feature=share</link>
+            <guid>https://youtube.com/watch?v=xSWkArLGkR4&amp;feature=share</guid>
+            <pubDate>Sun, 07 Mar 2021 12:03:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA["Advanced" GraphQL + ApolloClient Tutorial. Filtering a list with InMemoryCache]]></title>
             <link>https://youtu.be/9xFq0r-8NA4</link>
             <guid>https://youtu.be/9xFq0r-8NA4</guid>
             <pubDate>Sat, 06 Mar 2021 23:00:47 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Is there an eslint rule to catch implicitAnys in TypeScript useCallbacks?]]></title>
+            <link>https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/react/index.d.ts#L1105</link>
+            <guid>https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/react/index.d.ts#L1105</guid>
+            <pubDate>Sun, 07 Mar 2021 09:49:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[react jobs - Start Working Remotely]]></title>
+            <link>https://startworkingremotely.com/jobs?q=react</link>
+            <guid>https://startworkingremotely.com/jobs?q=react</guid>
+            <pubDate>Sun, 07 Mar 2021 09:32:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[next-plugin-query-cache — build-time cache for Next.js]]></title>
             <link>https://github.com/ricokahler/next-plugin-query-cache</link>
             <guid>https://github.com/ricokahler/next-plugin-query-cache</guid>
             <pubDate>Sat, 06 Mar 2021 19:50:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The most basic test (React Testing Library with Jest) returns "was not wrapped in act(...)" error]]></title>
+            <link>https://usehooks.com/useAsync/</link>
+            <guid>https://usehooks.com/useAsync/</guid>
+            <pubDate>Sun, 07 Mar 2021 08:50:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I built a movie review website using material UI and React]]></title>
@@ -85,18 +121,6 @@
             <link>https://v.redd.it/v4pm36lhv2l41</link>
             <guid>https://v.redd.it/v4pm36lhv2l41</guid>
             <pubDate>Sat, 06 Mar 2021 16:09:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[There is no faster way to create a styled & typed React component.]]></title>
-            <link>https://reddit.com/link/lzbkg4/video/w9rcovez6hl61/player</link>
-            <guid>https://reddit.com/link/lzbkg4/video/w9rcovez6hl61/player</guid>
-            <pubDate>Sat, 06 Mar 2021 21:27:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Expenses | Complete User Authentication (Sign Up & Sign In)]]></title>
-            <link>https://youtu.be/FBLjixmAEN4</link>
-            <guid>https://youtu.be/FBLjixmAEN4</guid>
-            <pubDate>Fri, 05 Mar 2021 18:27:46 GMT</pubDate>
         </item>
     </channel>
 </rss>

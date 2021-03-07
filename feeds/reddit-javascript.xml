@@ -4,21 +4,15 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sun, 07 Mar 2021 13:02:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Mar 2021 19:45:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[I wrote a tiny generator runner that transparently concludes yielded promises, iterators, and effects, making your async flows cancellable and testable.]]></title>
-            <link>https://github.com/dmaevsky/conclure</link>
-            <guid>https://github.com/dmaevsky/conclure</guid>
-            <pubDate>Sat, 06 Mar 2021 12:38:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AskJS] JS table library that doesn't mix design and data?]]></title>
-            <link>https://jqueryui.com/</link>
-            <guid>https://jqueryui.com/</guid>
-            <pubDate>Sun, 07 Mar 2021 11:20:52 GMT</pubDate>
+            <title><![CDATA[Porting Kotlin Coroutines library to JavaScript]]></title>
+            <link>https://github.com/zirman/suspenders-js</link>
+            <guid>https://github.com/zirman/suspenders-js</guid>
+            <pubDate>Sun, 07 Mar 2021 15:31:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Peripheral Communication using React Native BLE (Bluetooth Low Energy)]]></title>
@@ -27,16 +21,16 @@
             <pubDate>Sun, 07 Mar 2021 02:41:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How To Use Rest Parameters & Spread Syntax In JavaScript]]></title>
-            <link>https://www.codebro.org/2021/03/07/how-to-use-rest-parameters-spread-syntax-in-javascript/</link>
-            <guid>https://www.codebro.org/2021/03/07/how-to-use-rest-parameters-spread-syntax-in-javascript/</guid>
-            <pubDate>Sun, 07 Mar 2021 10:46:56 GMT</pubDate>
+            <title><![CDATA[I wrote a tiny generator runner that transparently concludes yielded promises, iterators, and effects, making your async flows cancellable and testable.]]></title>
+            <link>https://github.com/dmaevsky/conclure</link>
+            <guid>https://github.com/dmaevsky/conclure</guid>
+            <pubDate>Sat, 06 Mar 2021 12:38:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[AskJS] confusions about how images are transferred via HTTP and handled in JavaScript]]></title>
-            <link>https://stackoverflow.com/questions/50248329/fetch-image-from-api/50248437#50248437</link>
-            <guid>https://stackoverflow.com/questions/50248329/fetch-image-from-api/50248437#50248437</guid>
-            <pubDate>Sat, 06 Mar 2021 21:56:11 GMT</pubDate>
+            <title><![CDATA[Why to have a Service-Controller architecture for every backend app?]]></title>
+            <link>https://codersingh27.medium.com/why-to-have-a-service-controller-architecture-for-every-backend-app-96b4f053525</link>
+            <guid>https://codersingh27.medium.com/why-to-have-a-service-controller-architecture-for-every-backend-app-96b4f053525</guid>
+            <pubDate>Sun, 07 Mar 2021 18:15:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Announcing Svelte NodeGUI, a lightweight Electron alternative with native UI, based on Node.js!]]></title>

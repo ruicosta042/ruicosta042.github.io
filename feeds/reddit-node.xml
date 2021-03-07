@@ -4,10 +4,22 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Sun, 07 Mar 2021 13:02:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Mar 2021 19:45:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Set List level operations(Union, Intersection, Difference) and Static Set]]></title>
+            <link>https://youtu.be/_dw4QE78nqc</link>
+            <guid>https://youtu.be/_dw4QE78nqc</guid>
+            <pubDate>Sun, 07 Mar 2021 19:18:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I built a simple unit test runner for small projects and plugins]]></title>
+            <link>https://www.npmjs.com/package/kequtest</link>
+            <guid>https://www.npmjs.com/package/kequtest</guid>
+            <pubDate>Sun, 07 Mar 2021 18:46:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SSO Authentication middleware with NTLM/Kerberos on Windows]]></title>
             <link>https://github.com/jlguenego/node-expose-sspi</link>
@@ -15,22 +27,22 @@
             <pubDate>Sun, 07 Mar 2021 12:59:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Using NPM To Install A Specific Version Of A Node.js Package]]></title>
-            <link>https://www.whitesourcesoftware.com/free-developer-tools/blog/npm-install-specific-version/</link>
-            <guid>https://www.whitesourcesoftware.com/free-developer-tools/blog/npm-install-specific-version/</guid>
-            <pubDate>Sun, 07 Mar 2021 08:14:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[node.js jobs - Start Working Remotely]]></title>
-            <link>https://startworkingremotely.com/jobs?q=node.js</link>
-            <guid>https://startworkingremotely.com/jobs?q=node.js</guid>
-            <pubDate>Sun, 07 Mar 2021 09:32:34 GMT</pubDate>
+            <title><![CDATA[Node.js based WebSocket memory leak]]></title>
+            <link>https://Stackoverflow.com</link>
+            <guid>https://Stackoverflow.com</guid>
+            <pubDate>Sun, 07 Mar 2021 18:50:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Building REST API with Express, TypeScript - Part 4: Jest and unit testing]]></title>
             <link>https://rsbh.dev/blog/rest-api-express-typescript-jest-testing</link>
             <guid>https://rsbh.dev/blog/rest-api-express-typescript-jest-testing</guid>
             <pubDate>Sun, 07 Mar 2021 08:38:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Docker tutorial - What is Docker and how Docker works]]></title>
+            <link>https://youtu.be/GSw9OHOloOY</link>
+            <guid>https://youtu.be/GSw9OHOloOY</guid>
+            <pubDate>Sat, 06 Mar 2021 21:15:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A way to host an API with DB for demo purposes.]]></title>
@@ -45,16 +57,22 @@
             <pubDate>Sun, 07 Mar 2021 07:19:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Docker tutorial - What is Docker and how Docker works]]></title>
-            <link>https://youtu.be/GSw9OHOloOY</link>
-            <guid>https://youtu.be/GSw9OHOloOY</guid>
-            <pubDate>Sat, 06 Mar 2021 21:15:42 GMT</pubDate>
+            <title><![CDATA[Using NPM To Install A Specific Version Of A Node.js Package]]></title>
+            <link>https://www.whitesourcesoftware.com/free-developer-tools/blog/npm-install-specific-version/</link>
+            <guid>https://www.whitesourcesoftware.com/free-developer-tools/blog/npm-install-specific-version/</guid>
+            <pubDate>Sun, 07 Mar 2021 08:14:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Getting started with speech-to-text transcriptions with AssemblyAI, JavaScript and Node.js]]></title>
             <link>https://www.assemblyai.com/blog/getting-started-with-speech-to-text-transcriptions-with-assemblyai-javascript-and-node-js</link>
             <guid>https://www.assemblyai.com/blog/getting-started-with-speech-to-text-transcriptions-with-assemblyai-javascript-and-node-js</guid>
             <pubDate>Sat, 06 Mar 2021 09:24:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[node.js jobs - Start Working Remotely]]></title>
+            <link>https://startworkingremotely.com/jobs?q=node.js</link>
+            <guid>https://startworkingremotely.com/jobs?q=node.js</guid>
+            <pubDate>Sun, 07 Mar 2021 09:32:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Build APIs You Won't Hate In Node Js]]></title>
@@ -67,18 +85,6 @@
             <link>https://userocket.herokuapp.com/</link>
             <guid>https://userocket.herokuapp.com/</guid>
             <pubDate>Sat, 06 Mar 2021 05:21:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Announcing Svelte NodeGUI, a lightweight Electron alternative with native UI, based on Node.js!]]></title>
-            <link>https://github.com/nodegui/svelte-nodegui</link>
-            <guid>https://github.com/nodegui/svelte-nodegui</guid>
-            <pubDate>Fri, 05 Mar 2021 20:25:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Use a color theme for your code's terminal output]]></title>
-            <link>https://github.com/ehmicky/terminal-theme</link>
-            <guid>https://github.com/ehmicky/terminal-theme</guid>
-            <pubDate>Sat, 06 Mar 2021 21:22:41 GMT</pubDate>
         </item>
     </channel>
 </rss>

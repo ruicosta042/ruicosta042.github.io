@@ -4,10 +4,16 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Sun, 07 Mar 2021 13:02:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Mar 2021 19:45:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[How to build a login page with page transition // HTML & CSS in-depth]]></title>
+            <link>https://youtu.be/RYkC7FHsOnk</link>
+            <guid>https://youtu.be/RYkC7FHsOnk</guid>
+            <pubDate>Sun, 07 Mar 2021 13:07:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Full Page: 20 Advanced CSS & HTML techniques: clip-path, @property, aspect-ratio and blend-mode]]></title>
             <link>https://v.redd.it/a15hw4k4ofl61</link>
@@ -97,12 +103,6 @@
             <link>https://www.irigoyen.dev/blog/2021/02/17/stop-using-icon-fonts/</link>
             <guid>https://www.irigoyen.dev/blog/2021/02/17/stop-using-icon-fonts/</guid>
             <pubDate>Fri, 05 Mar 2021 12:54:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[thead duplicating]]></title>
-            <link>https://plnkr.co/edit/lWk6Yd?preview</link>
-            <guid>https://plnkr.co/edit/lWk6Yd?preview</guid>
-            <pubDate>Fri, 05 Mar 2021 16:23:28 GMT</pubDate>
         </item>
     </channel>
 </rss>

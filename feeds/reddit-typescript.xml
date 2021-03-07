@@ -4,7 +4,7 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Sun, 07 Mar 2021 13:02:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Mar 2021 19:46:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,12 @@
             <link>https://github.com/ognis1205/nests</link>
             <guid>https://github.com/ognis1205/nests</guid>
             <pubDate>Sun, 07 Mar 2021 07:48:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why am I getting linting errors?]]></title>
+            <link>https://www.typescriptlang.org/play?#code/GYVwdgxgLglg9mABAKQMoHkByAFAhgJwGcBTAHgBVFiAPKYsAE0MShAAcAbYgPgAoA3AFyJCUfDDABzADQsAnm2LDyASmFoseIsQBKxVvjDkFZct0QBvAFCJbLfHMs27LiAlEs4eg0gC8KDEwAOjYCEgEVAG5nF1sYYEReKBM4BKgvfRBDRF9cxAAiUXEpfJVEfEzs9O8ssGjYu3jE5MVUzxrs3P98sBAAWwAjYnxS8sqkavH6hsQmpJS0jJ8cvPyBuDguXDBRiuXJn2mGqAALfDgAd0QAUXxz-F4euChENpbiETEJSUReweHEOtNsRtqUjogAL6ICC4KAQE5OGYsM6XG53OAPJ4vEjiXAcGAAL1wAy4YJikKsEKsVneLHYXByBSK33yiAAPgU-kMRuyCkCtjtorSNDgwrpxsZFBQqLR6Ew6ZweDlyZQaHRGMxCl8SogAPyfYo-QQqmXq+U9frc1n6rkA40uVWyjV8jYC62A10gpD2uxgYj8YaRIA</link>
+            <guid>https://www.typescriptlang.org/play?#code/GYVwdgxgLglg9mABAKQMoHkByAFAhgJwGcBTAHgBVFiAPKYsAE0MShAAcAbYgPgAoA3AFyJCUfDDABzADQsAnm2LDyASmFoseIsQBKxVvjDkFZct0QBvAFCJbLfHMs27LiAlEs4eg0gC8KDEwAOjYCEgEVAG5nF1sYYEReKBM4BKgvfRBDRF9cxAAiUXEpfJVEfEzs9O8ssGjYu3jE5MVUzxrs3P98sBAAWwAjYnxS8sqkavH6hsQmpJS0jJ8cvPyBuDguXDBRiuXJn2mGqAALfDgAd0QAUXxz-F4euChENpbiETEJSUReweHEOtNsRtqUjogAL6ICC4KAQE5OGYsM6XG53OAPJ4vEjiXAcGAAL1wAy4YJikKsEKsVneLHYXByBSK33yiAAPgU-kMRuyCkCtjtorSNDgwrpxsZFBQqLR6Ew6ZweDlyZQaHRGMxCl8SogAPyfYo-QQqmXq+U9frc1n6rkA40uVWyjV8jYC62A10gpD2uxgYj8YaRIA</guid>
+            <pubDate>Sun, 07 Mar 2021 15:13:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ServiceBox - Type Safe Web Services for Node]]></title>
@@ -91,12 +97,6 @@
             <link>https://www.youtube.com/watch?v=8N_P-l5Kukk</link>
             <guid>https://www.youtube.com/watch?v=8N_P-l5Kukk</guid>
             <pubDate>Tue, 02 Mar 2021 10:58:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Full End to End Typescript with Adonis.js and Next.js]]></title>
-            <link>https://www.youtube.com/watch?v=qRhMPseLNRI&amp;feature=emb_logo</link>
-            <guid>https://www.youtube.com/watch?v=qRhMPseLNRI&amp;feature=emb_logo</guid>
-            <pubDate>Mon, 01 Mar 2021 16:42:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

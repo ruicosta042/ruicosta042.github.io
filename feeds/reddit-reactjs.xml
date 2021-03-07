@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sun, 07 Mar 2021 13:02:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Mar 2021 19:46:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -27,28 +27,64 @@
             <pubDate>Sun, 07 Mar 2021 05:48:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I just published my app using ionic on the app store. It's a game to practice and learn the guitar fretboard layout]]></title>
-            <link>https://www.youtube.com/watch?v=x8gsRTMO_FA</link>
-            <guid>https://www.youtube.com/watch?v=x8gsRTMO_FA</guid>
-            <pubDate>Sat, 06 Mar 2021 17:34:50 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[I made Reddish - A simple reddit clone w/ MERN stack + Redux for state management. Github repo & live links in comments.]]></title>
             <link>https://v.redd.it/s1vgdivdell61</link>
             <guid>https://v.redd.it/s1vgdivdell61</guid>
             <pubDate>Sun, 07 Mar 2021 11:38:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I made a webcam streaming software that streams your webcam via LAN with React, Electron, Express]]></title>
-            <link>https://github.com/artuncolak/local-cam</link>
-            <guid>https://github.com/artuncolak/local-cam</guid>
-            <pubDate>Sun, 07 Mar 2021 12:38:35 GMT</pubDate>
+            <title><![CDATA[I just published my app using ionic on the app store. It's a game to practice and learn the guitar fretboard layout]]></title>
+            <link>https://www.youtube.com/watch?v=x8gsRTMO_FA</link>
+            <guid>https://www.youtube.com/watch?v=x8gsRTMO_FA</guid>
+            <pubDate>Sat, 06 Mar 2021 17:34:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to deploy React to S3 with a Github Actions deployment pipeline (all configured using Terraform)]]></title>
+            <link>https://andyjones.co/articles/react-aws-terraform-github-actions/</link>
+            <guid>https://andyjones.co/articles/react-aws-terraform-github-actions/</guid>
+            <pubDate>Sun, 07 Mar 2021 19:02:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Login Modal Popup - ReactJS, TypeScript Tutorial - #1 Basic Modal]]></title>
             <link>https://youtube.com/watch?v=xSWkArLGkR4&amp;feature=share</link>
             <guid>https://youtube.com/watch?v=xSWkArLGkR4&amp;feature=share</guid>
             <pubDate>Sun, 07 Mar 2021 12:03:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[react-select menu not showing on click?]]></title>
+            <link>https://react-select.com/home</link>
+            <guid>https://react-select.com/home</guid>
+            <pubDate>Sun, 07 Mar 2021 18:00:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elements of MVC in React - Revised]]></title>
+            <link>https://medium.com/swlh/elements-of-mvc-in-react-9382de427c09?source=friends_link&amp;sk=98f396f9c1456bef8b074d12c88a5b77</link>
+            <guid>https://medium.com/swlh/elements-of-mvc-in-react-9382de427c09?source=friends_link&amp;sk=98f396f9c1456bef8b074d12c88a5b77</guid>
+            <pubDate>Sun, 07 Mar 2021 16:08:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[react jobs - Start Working Remotely]]></title>
+            <link>https://startworkingremotely.com/jobs?q=react</link>
+            <guid>https://startworkingremotely.com/jobs?q=react</guid>
+            <pubDate>Sun, 07 Mar 2021 09:32:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Auto-Scroll to the Next Section]]></title>
+            <link>https://www.9thwonder.com/</link>
+            <guid>https://www.9thwonder.com/</guid>
+            <pubDate>Sun, 07 Mar 2021 15:19:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Green Lounge a simple recipe app builds with react, redux, and firebase.]]></title>
+            <link>https://github.com/aumtuhin/The-Green-Lounge</link>
+            <guid>https://github.com/aumtuhin/The-Green-Lounge</guid>
+            <pubDate>Sun, 07 Mar 2021 13:35:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I made a webcam streaming software that streams your webcam via LAN with React, Electron, Express]]></title>
+            <link>https://github.com/artuncolak/local-cam</link>
+            <guid>https://github.com/artuncolak/local-cam</guid>
+            <pubDate>Sun, 07 Mar 2021 12:38:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA["Advanced" GraphQL + ApolloClient Tutorial. Filtering a list with InMemoryCache]]></title>
@@ -63,12 +99,6 @@
             <pubDate>Sun, 07 Mar 2021 09:49:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[react jobs - Start Working Remotely]]></title>
-            <link>https://startworkingremotely.com/jobs?q=react</link>
-            <guid>https://startworkingremotely.com/jobs?q=react</guid>
-            <pubDate>Sun, 07 Mar 2021 09:32:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[next-plugin-query-cache — build-time cache for Next.js]]></title>
             <link>https://github.com/ricokahler/next-plugin-query-cache</link>
             <guid>https://github.com/ricokahler/next-plugin-query-cache</guid>
@@ -79,48 +109,6 @@
             <link>https://usehooks.com/useAsync/</link>
             <guid>https://usehooks.com/useAsync/</guid>
             <pubDate>Sun, 07 Mar 2021 08:50:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I built a movie review website using material UI and React]]></title>
-            <link>https://popcritic.web.app/</link>
-            <guid>https://popcritic.web.app/</guid>
-            <pubDate>Sun, 07 Mar 2021 07:13:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TabMerger v2.0.0 - A Huge Step Forward In My Development Career!]]></title>
-            <link>https://youtu.be/buu6iot1wcg</link>
-            <guid>https://youtu.be/buu6iot1wcg</guid>
-            <pubDate>Sun, 07 Mar 2021 04:45:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PopCritic - Movies Reviewed by people, for people]]></title>
-            <link>https://popcritic.web.app/</link>
-            <guid>https://popcritic.web.app/</guid>
-            <pubDate>Sun, 07 Mar 2021 04:39:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Generate PDF from React.js code client-side]]></title>
-            <link>https://typeful.co/privacy-policy?ref=reddit/r/webdev</link>
-            <guid>https://typeful.co/privacy-policy?ref=reddit/r/webdev</guid>
-            <pubDate>Fri, 05 Mar 2021 20:25:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We open-sourced a React component for building split views like in VS Code]]></title>
-            <link>https://usedevbook.com/</link>
-            <guid>https://usedevbook.com/</guid>
-            <pubDate>Fri, 05 Mar 2021 23:41:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tutorial: Just created a very basic ReactJS tutorial to illustrate how to do a responsive web app. Hope you like it.]]></title>
-            <link>https://youtu.be/PHMIO35LL54</link>
-            <guid>https://youtu.be/PHMIO35LL54</guid>
-            <pubDate>Sat, 06 Mar 2021 22:25:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My first open source project! MyDrive, a Node.js/React based Cloud Storage Solution (Similar To Google Drive).]]></title>
-            <link>https://v.redd.it/v4pm36lhv2l41</link>
-            <guid>https://v.redd.it/v4pm36lhv2l41</guid>
-            <pubDate>Sat, 06 Mar 2021 16:09:34 GMT</pubDate>
         </item>
     </channel>
 </rss>

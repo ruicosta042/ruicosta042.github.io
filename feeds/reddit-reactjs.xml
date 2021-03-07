@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sat, 06 Mar 2021 19:45:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Mar 2021 07:47:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,10 +21,46 @@
             <pubDate>Mon, 01 Mar 2021 15:56:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[I built a documentation website with the help of Docusaurus and React.]]></title>
+            <link>https://v.redd.it/i9xtewktccl61</link>
+            <guid>https://v.redd.it/i9xtewktccl61</guid>
+            <pubDate>Sun, 07 Mar 2021 05:48:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I just published my app using ionic on the app store. It's a game to practice and learn the guitar fretboard layout]]></title>
             <link>https://www.youtube.com/watch?v=x8gsRTMO_FA</link>
             <guid>https://www.youtube.com/watch?v=x8gsRTMO_FA</guid>
             <pubDate>Sat, 06 Mar 2021 17:34:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["Advanced" GraphQL + ApolloClient Tutorial. Filtering a list with InMemoryCache]]></title>
+            <link>https://youtu.be/9xFq0r-8NA4</link>
+            <guid>https://youtu.be/9xFq0r-8NA4</guid>
+            <pubDate>Sat, 06 Mar 2021 23:00:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[next-plugin-query-cache — build-time cache for Next.js]]></title>
+            <link>https://github.com/ricokahler/next-plugin-query-cache</link>
+            <guid>https://github.com/ricokahler/next-plugin-query-cache</guid>
+            <pubDate>Sat, 06 Mar 2021 19:50:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I built a movie review website using material UI and React]]></title>
+            <link>https://popcritic.web.app/</link>
+            <guid>https://popcritic.web.app/</guid>
+            <pubDate>Sun, 07 Mar 2021 07:13:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TabMerger v2.0.0 - A Huge Step Forward In My Development Career!]]></title>
+            <link>https://youtu.be/buu6iot1wcg</link>
+            <guid>https://youtu.be/buu6iot1wcg</guid>
+            <pubDate>Sun, 07 Mar 2021 04:45:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PopCritic - Movies Reviewed by people, for people]]></title>
+            <link>https://popcritic.web.app/</link>
+            <guid>https://popcritic.web.app/</guid>
+            <pubDate>Sun, 07 Mar 2021 04:39:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Generate PDF from React.js code client-side]]></title>
@@ -39,16 +75,10 @@
             <pubDate>Fri, 05 Mar 2021 23:41:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Expenses | Complete User Authentication (Sign Up & Sign In)]]></title>
-            <link>https://youtu.be/FBLjixmAEN4</link>
-            <guid>https://youtu.be/FBLjixmAEN4</guid>
-            <pubDate>Fri, 05 Mar 2021 18:27:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PopCritic]]></title>
-            <link>https://popcritic.web.app</link>
-            <guid>https://popcritic.web.app</guid>
-            <pubDate>Sat, 06 Mar 2021 16:50:30 GMT</pubDate>
+            <title><![CDATA[Tutorial: Just created a very basic ReactJS tutorial to illustrate how to do a responsive web app. Hope you like it.]]></title>
+            <link>https://youtu.be/PHMIO35LL54</link>
+            <guid>https://youtu.be/PHMIO35LL54</guid>
+            <pubDate>Sat, 06 Mar 2021 22:25:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[My first open source project! MyDrive, a Node.js/React based Cloud Storage Solution (Similar To Google Drive).]]></title>
@@ -57,16 +87,16 @@
             <pubDate>Sat, 06 Mar 2021 16:09:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to Use React Developer Tools ?]]></title>
-            <link>https://youtu.be/hfhhicy_QAc</link>
-            <guid>https://youtu.be/hfhhicy_QAc</guid>
-            <pubDate>Sat, 06 Mar 2021 14:14:11 GMT</pubDate>
+            <title><![CDATA[There is no faster way to create a styled & typed React component.]]></title>
+            <link>https://reddit.com/link/lzbkg4/video/w9rcovez6hl61/player</link>
+            <guid>https://reddit.com/link/lzbkg4/video/w9rcovez6hl61/player</guid>
+            <pubDate>Sat, 06 Mar 2021 21:27:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[4 months into programing - Looking for a mentor with Node and React experience to help me prepare for the job market]]></title>
-            <link>http://www.spync.se</link>
-            <guid>http://www.spync.se</guid>
-            <pubDate>Sat, 06 Mar 2021 08:43:54 GMT</pubDate>
+            <title><![CDATA[Expenses | Complete User Authentication (Sign Up & Sign In)]]></title>
+            <link>https://youtu.be/FBLjixmAEN4</link>
+            <guid>https://youtu.be/FBLjixmAEN4</guid>
+            <pubDate>Fri, 05 Mar 2021 18:27:46 GMT</pubDate>
         </item>
     </channel>
 </rss>

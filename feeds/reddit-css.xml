@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Sat, 06 Mar 2021 19:45:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Mar 2021 07:47:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,22 +15,40 @@
             <pubDate>Sat, 06 Mar 2021 16:20:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[getting rid of white bar at the bottom]]></title>
+            <link>https://preview.redd.it/txocynf31il61.png?width=1919&amp;format=png&amp;auto=webp&amp;s=c1ca2a073fd171463afd81cbb7d04b918851a1c9</link>
+            <guid>https://preview.redd.it/txocynf31il61.png?width=1919&amp;format=png&amp;auto=webp&amp;s=c1ca2a073fd171463afd81cbb7d04b918851a1c9</guid>
+            <pubDate>Sun, 07 Mar 2021 00:23:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How can I put the links below the logo in this code pen (mobile) (750px)?]]></title>
+            <link>https://codepen.io/leo_developer_18/full/vYyrGBz</link>
+            <guid>https://codepen.io/leo_developer_18/full/vYyrGBz</guid>
+            <pubDate>Sun, 07 Mar 2021 00:30:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Table inherits wrong font color from... nowhere?]]></title>
+            <link>https://pastebin.com/cq54ZHxP</link>
+            <guid>https://pastebin.com/cq54ZHxP</guid>
+            <pubDate>Sat, 06 Mar 2021 23:24:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[My attempt at a single div challenge (1 div, no JS, all CSS, see comments for CodePen!)]]></title>
             <link>https://i.redd.it/xmojwfovv9l61.gif</link>
             <guid>https://i.redd.it/xmojwfovv9l61.gif</guid>
             <pubDate>Fri, 05 Mar 2021 20:52:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How To Create Search Box using Only HTML & CSS | Awesome CSS Search Box Using Only HTML & CSS]]></title>
-            <link>https://youtu.be/GsWrYK6rQMA</link>
-            <guid>https://youtu.be/GsWrYK6rQMA</guid>
-            <pubDate>Sat, 06 Mar 2021 18:24:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Don't use Tailwind for your Design System]]></title>
             <link>https://sancho.dev/blog/tailwind-and-design-systems/</link>
             <guid>https://sancho.dev/blog/tailwind-and-design-systems/</guid>
             <pubDate>Sat, 06 Mar 2021 15:28:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How To Create Search Box using Only HTML & CSS | Awesome CSS Search Box Using Only HTML & CSS]]></title>
+            <link>https://youtu.be/GsWrYK6rQMA</link>
+            <guid>https://youtu.be/GsWrYK6rQMA</guid>
+            <pubDate>Sat, 06 Mar 2021 18:24:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Turntable in CSS and JS for playing music from YouTube]]></title>
@@ -63,6 +81,12 @@
             <pubDate>Fri, 05 Mar 2021 17:53:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Stop Using Icon Fonts by Michael Irigoyen]]></title>
+            <link>https://www.irigoyen.dev/blog/2021/02/17/stop-using-icon-fonts/</link>
+            <guid>https://www.irigoyen.dev/blog/2021/02/17/stop-using-icon-fonts/</guid>
+            <pubDate>Fri, 05 Mar 2021 12:54:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[thead duplicating]]></title>
             <link>https://plnkr.co/edit/lWk6Yd?preview</link>
             <guid>https://plnkr.co/edit/lWk6Yd?preview</guid>
@@ -79,42 +103,6 @@
             <link>https://youtu.be/I5_T547tHf0</link>
             <guid>https://youtu.be/I5_T547tHf0</guid>
             <pubDate>Thu, 04 Mar 2021 22:38:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stop Using Icon Fonts by Michael Irigoyen]]></title>
-            <link>https://www.irigoyen.dev/blog/2021/02/17/stop-using-icon-fonts/</link>
-            <guid>https://www.irigoyen.dev/blog/2021/02/17/stop-using-icon-fonts/</guid>
-            <pubDate>Fri, 05 Mar 2021 12:54:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can someone help with a gradient background??]]></title>
-            <link>https://www.keaganlueck.com/new-homepage.html</link>
-            <guid>https://www.keaganlueck.com/new-homepage.html</guid>
-            <pubDate>Fri, 05 Mar 2021 02:43:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Help needed : make a nested content scrollable, whose height is not known]]></title>
-            <link>http://jsfiddle.net/7zxq64d3/1/</link>
-            <guid>http://jsfiddle.net/7zxq64d3/1/</guid>
-            <pubDate>Fri, 05 Mar 2021 05:21:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I made an animated sewing triptych entirely in HTML + CSS (no JS). Pretty proud of myself 😊]]></title>
-            <link>https://i.redd.it/yy2mu3dm7kk61.gif</link>
-            <guid>https://i.redd.it/yy2mu3dm7kk61.gif</guid>
-            <pubDate>Thu, 04 Mar 2021 03:47:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Glassmorphism CSS Generator - Glassmorphism Is A Unified Name For The Popular Frosted Glass Aesthetic.]]></title>
-            <link>https://glassmorphism.com/</link>
-            <guid>https://glassmorphism.com/</guid>
-            <pubDate>Thu, 04 Mar 2021 12:52:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stop bootstrap websites from looking the same by Arman Hezarkhani]]></title>
-            <link>https://www.parthean.com/blog/all-bootstrap-sites-look-the-same-heres-how-i-get-around-it</link>
-            <guid>https://www.parthean.com/blog/all-bootstrap-sites-look-the-same-heres-how-i-get-around-it</guid>
-            <pubDate>Thu, 04 Mar 2021 09:09:28 GMT</pubDate>
         </item>
     </channel>
 </rss>

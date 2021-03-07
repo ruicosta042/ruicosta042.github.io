@@ -4,7 +4,7 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Sat, 06 Mar 2021 19:45:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Mar 2021 07:47:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,12 @@
             <link>https://github.com/sinclairzx81/servicebox</link>
             <guid>https://github.com/sinclairzx81/servicebox</guid>
             <pubDate>Sat, 06 Mar 2021 08:52:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Build APIs You Won't Hate In Node Js]]></title>
+            <link>https://github.com/kutia-software-company/express-typescript-starter</link>
+            <guid>https://github.com/kutia-software-company/express-typescript-starter</guid>
+            <pubDate>Sun, 07 Mar 2021 00:43:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why isn't typescript warning me this?]]></title>

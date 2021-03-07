@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sat, 06 Mar 2021 19:45:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Mar 2021 07:47:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,22 @@
             <pubDate>Sat, 06 Mar 2021 12:38:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Peripheral Communication using React Native BLE (Bluetooth Low Energy)]]></title>
+            <link>https://novalagung.medium.com/react-native-bluetooth-low-energy-peripheral-communication-e7cb93abf69</link>
+            <guid>https://novalagung.medium.com/react-native-bluetooth-low-energy-peripheral-communication-e7cb93abf69</guid>
+            <pubDate>Sun, 07 Mar 2021 02:41:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Announcing Svelte NodeGUI, a lightweight Electron alternative with native UI, based on Node.js!]]></title>
             <link>https://github.com/nodegui/svelte-nodegui</link>
             <guid>https://github.com/nodegui/svelte-nodegui</guid>
             <pubDate>Fri, 05 Mar 2021 20:16:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AskJS] confusions about how images are transferred via HTTP and handled in JavaScript]]></title>
+            <link>https://stackoverflow.com/questions/50248329/fetch-image-from-api/50248437#50248437</link>
+            <guid>https://stackoverflow.com/questions/50248329/fetch-image-from-api/50248437#50248437</guid>
+            <pubDate>Sat, 06 Mar 2021 21:56:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Getting started with speech-to-text transcriptions with AssemblyAI, JavaScript and Node.js]]></title>
@@ -33,16 +45,16 @@
             <pubDate>Fri, 05 Mar 2021 18:52:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Makerwork 006 includes an open source Javascript alternative to Clubhouse, Twitter Spaces and similar audio spaces.]]></title>
-            <link>https://makerwork.substack.com/p/makerwork006</link>
-            <guid>https://makerwork.substack.com/p/makerwork006</guid>
-            <pubDate>Sat, 06 Mar 2021 02:18:44 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[AWS JS SDK v3 first impressions]]></title>
             <link>https://advancedweb.hu/aws-js-sdk-v3-first-impressions/</link>
             <guid>https://advancedweb.hu/aws-js-sdk-v3-first-impressions/</guid>
             <pubDate>Sat, 06 Mar 2021 05:53:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Makerwork 006 includes an open source Javascript alternative to Clubhouse, Twitter Spaces and similar audio spaces.]]></title>
+            <link>https://makerwork.substack.com/p/makerwork006</link>
+            <guid>https://makerwork.substack.com/p/makerwork006</guid>
+            <pubDate>Sat, 06 Mar 2021 02:18:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to Deploy a Powerful Virtual Event in Record Time]]></title>
@@ -121,18 +133,6 @@
             <link>https://payloadcms.com/blog/free-forever</link>
             <guid>https://payloadcms.com/blog/free-forever</guid>
             <pubDate>Wed, 03 Mar 2021 16:54:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We made an app for search in JavaScript web stack docs, Stack Overflow, and code on GitHub. Now we will make it extensible]]></title>
-            <link>https://usedevbook.com/</link>
-            <guid>https://usedevbook.com/</guid>
-            <pubDate>Wed, 03 Mar 2021 04:15:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Needle - a full featured dependency injection library]]></title>
-            <link>https://github.com/morganstanley/needle</link>
-            <guid>https://github.com/morganstanley/needle</guid>
-            <pubDate>Wed, 03 Mar 2021 19:56:33 GMT</pubDate>
         </item>
     </channel>
 </rss>

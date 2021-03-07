@@ -4,15 +4,39 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Sat, 06 Mar 2021 19:45:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Mar 2021 07:47:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[A way to host an API with DB for demo purposes.]]></title>
+            <link>https://swapi.dev/</link>
+            <guid>https://swapi.dev/</guid>
+            <pubDate>Sun, 07 Mar 2021 07:31:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scaling your Nodejs application with Zero Downtime deployment]]></title>
+            <link>https://cloudnweb.dev/2021/03/scaling-nodejs-zero-downtime</link>
+            <guid>https://cloudnweb.dev/2021/03/scaling-nodejs-zero-downtime</guid>
+            <pubDate>Sun, 07 Mar 2021 07:19:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Docker tutorial - What is Docker and how Docker works]]></title>
+            <link>https://youtu.be/GSw9OHOloOY</link>
+            <guid>https://youtu.be/GSw9OHOloOY</guid>
+            <pubDate>Sat, 06 Mar 2021 21:15:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting started with speech-to-text transcriptions with AssemblyAI, JavaScript and Node.js]]></title>
             <link>https://www.assemblyai.com/blog/getting-started-with-speech-to-text-transcriptions-with-assemblyai-javascript-and-node-js</link>
             <guid>https://www.assemblyai.com/blog/getting-started-with-speech-to-text-transcriptions-with-assemblyai-javascript-and-node-js</guid>
             <pubDate>Sat, 06 Mar 2021 09:24:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Build APIs You Won't Hate In Node Js]]></title>
+            <link>https://github.com/kutia-software-company/express-typescript-starter</link>
+            <guid>https://github.com/kutia-software-company/express-typescript-starter</guid>
+            <pubDate>Sun, 07 Mar 2021 00:36:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I am building a Node.js Express React boilerplate for SaaS. It comes with built-in authentication, user management, billing and more. Please take a look!]]></title>
@@ -27,10 +51,10 @@
             <pubDate>Fri, 05 Mar 2021 20:25:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What tech stack is needed to create this type of game??]]></title>
-            <link>https://preview.redd.it/nhm598lnjgl61.jpg?width=589&amp;format=pjpg&amp;auto=webp&amp;s=e1f2433540e160beade1afb77598dd634afbdcaa</link>
-            <guid>https://preview.redd.it/nhm598lnjgl61.jpg?width=589&amp;format=pjpg&amp;auto=webp&amp;s=e1f2433540e160beade1afb77598dd634afbdcaa</guid>
-            <pubDate>Sat, 06 Mar 2021 19:16:25 GMT</pubDate>
+            <title><![CDATA[Use a color theme for your code's terminal output]]></title>
+            <link>https://github.com/ehmicky/terminal-theme</link>
+            <guid>https://github.com/ehmicky/terminal-theme</guid>
+            <pubDate>Sat, 06 Mar 2021 21:22:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Free NestJS Tutorial in German]]></title>
@@ -43,42 +67,6 @@
             <link>https://preview.redd.it/mbpjwzdymfl61.png?width=1004&amp;format=png&amp;auto=webp&amp;s=8fc10190847f0ec3e9001d76ec2f090f66bd4d61</link>
             <guid>https://preview.redd.it/mbpjwzdymfl61.png?width=1004&amp;format=png&amp;auto=webp&amp;s=8fc10190847f0ec3e9001d76ec2f090f66bd4d61</guid>
             <pubDate>Sat, 06 Mar 2021 16:12:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Set vs WeakSet vs Array in Javascript]]></title>
-            <link>https://youtu.be/M_UF-Y7JdCY</link>
-            <guid>https://youtu.be/M_UF-Y7JdCY</guid>
-            <pubDate>Sat, 06 Mar 2021 00:20:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It takes 3GB's to download 846MB's data?]]></title>
-            <link>https://www.npmjs.com/package/download</link>
-            <guid>https://www.npmjs.com/package/download</guid>
-            <pubDate>Sat, 06 Mar 2021 09:52:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Here are Core Node modules you must know as a Nodejs Developer]]></title>
-            <link>https://towardsdev.com/here-are-core-node-modules-you-must-know-as-a-nodejs-developer-19ef7679e20f</link>
-            <guid>https://towardsdev.com/here-are-core-node-modules-you-must-know-as-a-nodejs-developer-19ef7679e20f</guid>
-            <pubDate>Fri, 05 Mar 2021 08:36:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Handling GraphQL API Authentication using Auth0 with Hasura Actions]]></title>
-            <link>https://soshace.com/handling-graphql-api-authentication-using-auth0-with-hasura-actions/</link>
-            <guid>https://soshace.com/handling-graphql-api-authentication-using-auth0-with-hasura-actions/</guid>
-            <pubDate>Fri, 05 Mar 2021 19:40:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Animated Swipe Button - Reanimated v2 | React Native Tutorial ⚛️]]></title>
-            <link>https://youtu.be/rseiP75qn0Y</link>
-            <guid>https://youtu.be/rseiP75qn0Y</guid>
-            <pubDate>Sat, 06 Mar 2021 01:03:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[4 months into programing - Looking for a mentor with Node and React experience to help me prepare for the job market]]></title>
-            <link>http://www.spync.se</link>
-            <guid>http://www.spync.se</guid>
-            <pubDate>Sat, 06 Mar 2021 00:55:17 GMT</pubDate>
         </item>
     </channel>
 </rss>

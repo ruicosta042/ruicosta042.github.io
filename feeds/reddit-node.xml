@@ -4,10 +4,16 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Mon, 08 Mar 2021 07:52:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Mar 2021 13:06:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[NodeJS C++ client node-firebird-libfbclient v.0.1.5 released with a few fixes.]]></title>
+            <link>https://www.npmjs.com/package/firebird/v/0.1.5</link>
+            <guid>https://www.npmjs.com/package/firebird/v/0.1.5</guid>
+            <pubDate>Mon, 08 Mar 2021 09:05:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Node.js based WebSocket memory leak]]></title>
             <link>https://stackoverflow.com/</link>
@@ -55,24 +61,6 @@
             <link>https://cloudnweb.dev/2021/03/scaling-nodejs-zero-downtime</link>
             <guid>https://cloudnweb.dev/2021/03/scaling-nodejs-zero-downtime</guid>
             <pubDate>Sun, 07 Mar 2021 07:19:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Using NPM To Install A Specific Version Of A Node.js Package]]></title>
-            <link>https://www.whitesourcesoftware.com/free-developer-tools/blog/npm-install-specific-version/</link>
-            <guid>https://www.whitesourcesoftware.com/free-developer-tools/blog/npm-install-specific-version/</guid>
-            <pubDate>Sun, 07 Mar 2021 08:14:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting started with speech-to-text transcriptions with AssemblyAI, JavaScript and Node.js]]></title>
-            <link>https://www.assemblyai.com/blog/getting-started-with-speech-to-text-transcriptions-with-assemblyai-javascript-and-node-js</link>
-            <guid>https://www.assemblyai.com/blog/getting-started-with-speech-to-text-transcriptions-with-assemblyai-javascript-and-node-js</guid>
-            <pubDate>Sat, 06 Mar 2021 09:24:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[node.js jobs - Start Working Remotely]]></title>
-            <link>https://startworkingremotely.com/jobs?q=node.js</link>
-            <guid>https://startworkingremotely.com/jobs?q=node.js</guid>
-            <pubDate>Sun, 07 Mar 2021 09:32:34 GMT</pubDate>
         </item>
     </channel>
 </rss>

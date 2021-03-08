@@ -4,7 +4,7 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Mon, 08 Mar 2021 07:52:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Mar 2021 13:06:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,12 @@
             <link>https://jenyus.web.app/blog/2021-03-07-nestjs-starter</link>
             <guid>https://jenyus.web.app/blog/2021-03-07-nestjs-starter</guid>
             <pubDate>Mon, 08 Mar 2021 00:46:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to write a React Component in TypeScript]]></title>
+            <link>https://kentcdodds.com/blog/how-to-write-a-react-component-in-typescript</link>
+            <guid>https://kentcdodds.com/blog/how-to-write-a-react-component-in-typescript</guid>
+            <pubDate>Mon, 08 Mar 2021 12:55:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why am I getting linting errors?]]></title>

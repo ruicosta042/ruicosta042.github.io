@@ -4,21 +4,21 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Mon, 08 Mar 2021 07:52:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Mar 2021 13:06:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Your /r/javascript recap for the week of March 01 - March 07]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Mon, 08 Mar 2021 10:04:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Taro - a lightweight 3D game engine for the web]]></title>
             <link>https://github.com/Cloud9c/taro</link>
             <guid>https://github.com/Cloud9c/taro</guid>
             <pubDate>Mon, 08 Mar 2021 06:00:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Porting Kotlin Coroutines library to JavaScript]]></title>
-            <link>https://github.com/zirman/suspenders-js</link>
-            <guid>https://github.com/zirman/suspenders-js</guid>
-            <pubDate>Sun, 07 Mar 2021 15:31:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ECMAScript - Introducing Dynamic Imports in ES2020 (ES11)]]></title>
@@ -27,10 +27,22 @@
             <pubDate>Mon, 08 Mar 2021 07:33:41 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Porting Kotlin Coroutines library to JavaScript]]></title>
+            <link>https://github.com/zirman/suspenders-js</link>
+            <guid>https://github.com/zirman/suspenders-js</guid>
+            <pubDate>Sun, 07 Mar 2021 15:31:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Turbo Showcase - fundamental JS server-side interaction achieved with no custom JavaScript]]></title>
             <link>https://turbo-showcase.herokuapp.com/</link>
             <guid>https://turbo-showcase.herokuapp.com/</guid>
             <pubDate>Sun, 07 Mar 2021 23:00:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mobx Reaction Control - wrapper enabling dynamic Mobx reactivity control]]></title>
+            <link>https://github.com/lukigarazus/mobx-reaction-control</link>
+            <guid>https://github.com/lukigarazus/mobx-reaction-control</guid>
+            <pubDate>Mon, 08 Mar 2021 09:08:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jquery Drag and Drop Builder!]]></title>
@@ -121,18 +133,6 @@
             <link>https://suzdalnitski.medium.com/terrible-coding-mistake-aa1fbebd83b4</link>
             <guid>https://suzdalnitski.medium.com/terrible-coding-mistake-aa1fbebd83b4</guid>
             <pubDate>Fri, 05 Mar 2021 16:19:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Build a Clubhouse Clone]]></title>
-            <link>https://javascript.plainenglish.io/how-to-create-an-app-like-clubhouse-eeb2382da03e</link>
-            <guid>https://javascript.plainenglish.io/how-to-create-an-app-like-clubhouse-eeb2382da03e</guid>
-            <pubDate>Thu, 04 Mar 2021 07:08:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Using BigQuery Public Datasets to build an analytical app and research the impact of COVID-19]]></title>
-            <link>https://bigquery-public-datasets.cube.dev/</link>
-            <guid>https://bigquery-public-datasets.cube.dev/</guid>
-            <pubDate>Thu, 04 Mar 2021 18:20:39 GMT</pubDate>
         </item>
     </channel>
 </rss>

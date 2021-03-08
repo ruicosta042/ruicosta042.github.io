@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Mon, 08 Mar 2021 07:52:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Mar 2021 13:06:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,12 @@
             <link>http://thegreatgatsbytour.com/</link>
             <guid>http://thegreatgatsbytour.com/</guid>
             <pubDate>Mon, 08 Mar 2021 05:26:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Exploring @property and its Animating Powers]]></title>
+            <link>https://css-tricks.com/exploring-property-and-its-animating-powers/</link>
+            <guid>https://css-tricks.com/exploring-property-and-its-animating-powers/</guid>
+            <pubDate>Mon, 08 Mar 2021 10:28:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Introducing Flexboxplus.css (Feedback requested)]]></title>
@@ -43,12 +49,6 @@
             <link>https://codersblock.com/blog/diving-into-the-before-and-after-pseudo-elements/</link>
             <guid>https://codersblock.com/blog/diving-into-the-before-and-after-pseudo-elements/</guid>
             <pubDate>Fri, 05 Mar 2021 12:33:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Complete Guide To SCSS/SASS]]></title>
-            <link>https://jstutorial.medium.com/the-complete-guide-to-scss-sass-49ac053fcde5</link>
-            <guid>https://jstutorial.medium.com/the-complete-guide-to-scss-sass-49ac053fcde5</guid>
-            <pubDate>Fri, 05 Mar 2021 17:53:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

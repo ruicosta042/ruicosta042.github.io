@@ -4,16 +4,10 @@
         <title>Frontend Focus</title>
         <link>https://frontendfoc.us/</link>
         <description>A once–weekly roundup of the best front-end news, articles and tutorials. HTML, CSS, WebGL, Canvas, browser tech, and more.</description>
-        <lastBuildDate>Sun, 07 Mar 2021 19:45:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Mar 2021 07:52:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
-        <item>
-            <title><![CDATA[Read on the web]]></title>
-            <link>https://frontendfoc.us/link/104017/rss</link>
-            <guid>https://frontendfoc.us/link/104017/rss</guid>
-            <pubDate>Wed, 03 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Diving into the ::before and ::after Pseudo-Elements]]></title>
             <link>https://frontendfoc.us/link/104018/rss</link>
@@ -231,12 +225,6 @@
             <pubDate>Wed, 03 Mar 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Read on the web]]></title>
-            <link>https://frontendfoc.us/link/103612/rss</link>
-            <guid>https://frontendfoc.us/link/103612/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Create Responsive Image Effects with CSS Gradients and aspect-ratio]]></title>
             <link>https://frontendfoc.us/link/103613/rss</link>
             <guid>https://frontendfoc.us/link/103613/rss</guid>
@@ -441,12 +429,6 @@
             <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Read on the web]]></title>
-            <link>https://frontendfoc.us/link/103156/rss</link>
-            <guid>https://frontendfoc.us/link/103156/rss</guid>
-            <pubDate>Wed, 17 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[What Saul Bass Can Teach Us About Web Design]]></title>
             <link>https://frontendfoc.us/link/103157/rss</link>
             <guid>https://frontendfoc.us/link/103157/rss</guid>
@@ -591,12 +573,6 @@
             <pubDate>Wed, 17 Feb 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Full Time Front-end Software Engineer (Remote)]]></title>
-            <link>https://frontendfoc.us/link/103180/rss</link>
-            <guid>https://frontendfoc.us/link/103180/rss</guid>
-            <pubDate>Wed, 17 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Hiring Remote Mid-Level / Senior Full Stack Engineer in North America]]></title>
             <link>https://frontendfoc.us/link/103181/rss</link>
             <guid>https://frontendfoc.us/link/103181/rss</guid>
@@ -673,12 +649,6 @@
             <link>https://frontendfoc.us/link/103194/rss</link>
             <guid>https://frontendfoc.us/link/103194/rss</guid>
             <pubDate>Wed, 17 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Read on the web]]></title>
-            <link>https://frontendfoc.us/link/102805/rss</link>
-            <guid>https://frontendfoc.us/link/102805/rss</guid>
-            <pubDate>Wed, 10 Feb 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Easings.net]]></title>

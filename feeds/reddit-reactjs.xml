@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sun, 07 Mar 2021 19:46:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Mar 2021 07:52:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,94 +21,52 @@
             <pubDate>Mon, 01 Mar 2021 15:56:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I built a documentation website with the help of Docusaurus and React.]]></title>
-            <link>https://v.redd.it/i9xtewktccl61</link>
-            <guid>https://v.redd.it/i9xtewktccl61</guid>
-            <pubDate>Sun, 07 Mar 2021 05:48:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I made Reddish - A simple reddit clone w/ MERN stack + Redux for state management. Github repo & live links in comments.]]></title>
-            <link>https://v.redd.it/s1vgdivdell61</link>
-            <guid>https://v.redd.it/s1vgdivdell61</guid>
-            <pubDate>Sun, 07 Mar 2021 11:38:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I just published my app using ionic on the app store. It's a game to practice and learn the guitar fretboard layout]]></title>
-            <link>https://www.youtube.com/watch?v=x8gsRTMO_FA</link>
-            <guid>https://www.youtube.com/watch?v=x8gsRTMO_FA</guid>
-            <pubDate>Sat, 06 Mar 2021 17:34:50 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[How to deploy React to S3 with a Github Actions deployment pipeline (all configured using Terraform)]]></title>
             <link>https://andyjones.co/articles/react-aws-terraform-github-actions/</link>
             <guid>https://andyjones.co/articles/react-aws-terraform-github-actions/</guid>
             <pubDate>Sun, 07 Mar 2021 19:02:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Login Modal Popup - ReactJS, TypeScript Tutorial - #1 Basic Modal]]></title>
-            <link>https://youtube.com/watch?v=xSWkArLGkR4&amp;feature=share</link>
-            <guid>https://youtube.com/watch?v=xSWkArLGkR4&amp;feature=share</guid>
-            <pubDate>Sun, 07 Mar 2021 12:03:08 GMT</pubDate>
+            <title><![CDATA[use-pagination-firestore: A typed, non-cumulative pagination hook for Firestore]]></title>
+            <link>https://www.npmjs.com/package/use-pagination-firestore</link>
+            <guid>https://www.npmjs.com/package/use-pagination-firestore</guid>
+            <pubDate>Mon, 08 Mar 2021 01:40:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[react-select menu not showing on click?]]></title>
-            <link>https://react-select.com/home</link>
-            <guid>https://react-select.com/home</guid>
-            <pubDate>Sun, 07 Mar 2021 18:00:26 GMT</pubDate>
+            <title><![CDATA[Bootstrap Element is a primitive component with utility classes and auto-completion a la "styled" inline props]]></title>
+            <link>https://www.npmjs.com/package/@orizens/react-be</link>
+            <guid>https://www.npmjs.com/package/@orizens/react-be</guid>
+            <pubDate>Mon, 08 Mar 2021 00:58:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Elements of MVC in React - Revised]]></title>
-            <link>https://medium.com/swlh/elements-of-mvc-in-react-9382de427c09?source=friends_link&amp;sk=98f396f9c1456bef8b074d12c88a5b77</link>
-            <guid>https://medium.com/swlh/elements-of-mvc-in-react-9382de427c09?source=friends_link&amp;sk=98f396f9c1456bef8b074d12c88a5b77</guid>
-            <pubDate>Sun, 07 Mar 2021 16:08:25 GMT</pubDate>
+            <title><![CDATA[React.js + Plotly.js newby]]></title>
+            <link>https://this.state.data/</link>
+            <guid>https://this.state.data/</guid>
+            <pubDate>Mon, 08 Mar 2021 05:39:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[react jobs - Start Working Remotely]]></title>
-            <link>https://startworkingremotely.com/jobs?q=react</link>
-            <guid>https://startworkingremotely.com/jobs?q=react</guid>
-            <pubDate>Sun, 07 Mar 2021 09:32:05 GMT</pubDate>
+            <title><![CDATA[orval - react-query code generation for OpenAPI / Swagger specs]]></title>
+            <link>https://github.com/anymaniax/orval</link>
+            <guid>https://github.com/anymaniax/orval</guid>
+            <pubDate>Sun, 07 Mar 2021 21:04:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Auto-Scroll to the Next Section]]></title>
-            <link>https://www.9thwonder.com/</link>
-            <guid>https://www.9thwonder.com/</guid>
-            <pubDate>Sun, 07 Mar 2021 15:19:00 GMT</pubDate>
+            <title><![CDATA[Reactjs Issue]]></title>
+            <link>https://stackoverflow.com/questions/66524555/realtime-chart-in-reactjs</link>
+            <guid>https://stackoverflow.com/questions/66524555/realtime-chart-in-reactjs</guid>
+            <pubDate>Mon, 08 Mar 2021 05:09:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Green Lounge a simple recipe app builds with react, redux, and firebase.]]></title>
-            <link>https://github.com/aumtuhin/The-Green-Lounge</link>
-            <guid>https://github.com/aumtuhin/The-Green-Lounge</guid>
-            <pubDate>Sun, 07 Mar 2021 13:35:46 GMT</pubDate>
+            <title><![CDATA[Tortoise and the hare game typing edition!]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Sun, 07 Mar 2021 22:27:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I made a webcam streaming software that streams your webcam via LAN with React, Electron, Express]]></title>
-            <link>https://github.com/artuncolak/local-cam</link>
-            <guid>https://github.com/artuncolak/local-cam</guid>
-            <pubDate>Sun, 07 Mar 2021 12:38:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Advanced" GraphQL + ApolloClient Tutorial. Filtering a list with InMemoryCache]]></title>
-            <link>https://youtu.be/9xFq0r-8NA4</link>
-            <guid>https://youtu.be/9xFq0r-8NA4</guid>
-            <pubDate>Sat, 06 Mar 2021 23:00:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is there an eslint rule to catch implicitAnys in TypeScript useCallbacks?]]></title>
-            <link>https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/react/index.d.ts#L1105</link>
-            <guid>https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/react/index.d.ts#L1105</guid>
-            <pubDate>Sun, 07 Mar 2021 09:49:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[next-plugin-query-cache — build-time cache for Next.js]]></title>
-            <link>https://github.com/ricokahler/next-plugin-query-cache</link>
-            <guid>https://github.com/ricokahler/next-plugin-query-cache</guid>
-            <pubDate>Sat, 06 Mar 2021 19:50:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The most basic test (React Testing Library with Jest) returns "was not wrapped in act(...)" error]]></title>
-            <link>https://usehooks.com/useAsync/</link>
-            <guid>https://usehooks.com/useAsync/</guid>
-            <pubDate>Sun, 07 Mar 2021 08:50:31 GMT</pubDate>
+            <title><![CDATA[Documentation on ReactJS in HTML]]></title>
+            <link>https://github.com/sambernhardt/ipad-cursor</link>
+            <guid>https://github.com/sambernhardt/ipad-cursor</guid>
+            <pubDate>Sun, 07 Mar 2021 22:17:30 GMT</pubDate>
         </item>
     </channel>
 </rss>

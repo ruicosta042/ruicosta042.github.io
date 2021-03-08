@@ -4,15 +4,15 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Sun, 07 Mar 2021 19:46:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Mar 2021 07:52:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[WIP: NES emulator written in TypeScript/React.js]]></title>
-            <link>https://github.com/ognis1205/nests</link>
-            <guid>https://github.com/ognis1205/nests</guid>
-            <pubDate>Sun, 07 Mar 2021 07:48:24 GMT</pubDate>
+            <title><![CDATA[Setting up a Hybrid REST & GraphQL API with NestJS and MikroORM]]></title>
+            <link>https://jenyus.web.app/blog/2021-03-07-nestjs-starter</link>
+            <guid>https://jenyus.web.app/blog/2021-03-07-nestjs-starter</guid>
+            <pubDate>Mon, 08 Mar 2021 00:46:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why am I getting linting errors?]]></title>
@@ -33,12 +33,6 @@
             <pubDate>Sun, 07 Mar 2021 00:43:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why isn't typescript warning me this?]]></title>
-            <link>https://preview.redd.it/hx9u1u4v47l61.png?width=754&amp;format=png&amp;auto=webp&amp;s=322249da306c820f50c9b1efbaf5e50fdc274e23</link>
-            <guid>https://preview.redd.it/hx9u1u4v47l61.png?width=754&amp;format=png&amp;auto=webp&amp;s=322249da306c820f50c9b1efbaf5e50fdc274e23</guid>
-            <pubDate>Fri, 05 Mar 2021 11:45:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[TypeScript reached 69k stars on GitHub]]></title>
             <link>https://twitter.com/GitHubTracker/status/1367369294800158720?s=20</link>
             <guid>https://twitter.com/GitHubTracker/status/1367369294800158720?s=20</guid>
@@ -51,12 +45,6 @@
             <pubDate>Thu, 04 Mar 2021 18:28:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[TypeScript Migration Strategy (from JavaScript)]]></title>
-            <link>https://www.youtube.com/watch?v=v3lI29trIN8&amp;feature=share</link>
-            <guid>https://www.youtube.com/watch?v=v3lI29trIN8&amp;feature=share</guid>
-            <pubDate>Thu, 04 Mar 2021 18:09:55 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[How to use TypeScript with AppSync Lambda Resolvers]]></title>
             <link>https://benoitboure.com/how-to-use-typescript-with-appsync-lambda-resolvers</link>
             <guid>https://benoitboure.com/how-to-use-typescript-with-appsync-lambda-resolvers</guid>
@@ -64,8 +52,8 @@
         </item>
         <item>
             <title><![CDATA[A brand new TypeScript Open-Source project is looking for beta-testers]]></title>
-            <link>https://www.graphql-portal.com</link>
-            <guid>https://www.graphql-portal.com</guid>
+            <link>https://www.graphql-portal.com/</link>
+            <guid>https://www.graphql-portal.com/</guid>
             <pubDate>Thu, 04 Mar 2021 15:15:46 GMT</pubDate>
         </item>
         <item>
@@ -88,15 +76,9 @@
         </item>
         <item>
             <title><![CDATA[Now we can force const contexts]]></title>
-            <link>https://preview.redd.it/5yauy230kmk61.png?width=973&amp;format=png&amp;auto=webp&amp;s=89429f02adf19363d35e539aac46c38f585488b5</link>
-            <guid>https://preview.redd.it/5yauy230kmk61.png?width=973&amp;format=png&amp;auto=webp&amp;s=89429f02adf19363d35e539aac46c38f585488b5</guid>
+            <link>https://github.com/millsp/ts-toolbelt</link>
+            <guid>https://github.com/millsp/ts-toolbelt</guid>
             <pubDate>Tue, 02 Mar 2021 14:30:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Find missing cases in your switch statements]]></title>
-            <link>https://www.youtube.com/watch?v=8N_P-l5Kukk</link>
-            <guid>https://www.youtube.com/watch?v=8N_P-l5Kukk</guid>
-            <pubDate>Tue, 02 Mar 2021 10:58:06 GMT</pubDate>
         </item>
     </channel>
 </rss>

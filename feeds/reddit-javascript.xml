@@ -4,15 +4,51 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sun, 07 Mar 2021 19:45:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Mar 2021 07:52:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Taro - a lightweight 3D game engine for the web]]></title>
+            <link>https://github.com/Cloud9c/taro</link>
+            <guid>https://github.com/Cloud9c/taro</guid>
+            <pubDate>Mon, 08 Mar 2021 06:00:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Porting Kotlin Coroutines library to JavaScript]]></title>
             <link>https://github.com/zirman/suspenders-js</link>
             <guid>https://github.com/zirman/suspenders-js</guid>
             <pubDate>Sun, 07 Mar 2021 15:31:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ECMAScript - Introducing Dynamic Imports in ES2020 (ES11)]]></title>
+            <link>https://nitayneeman.com/posts/introducing-dynamic-imports-in-ecmascript-2020/</link>
+            <guid>https://nitayneeman.com/posts/introducing-dynamic-imports-in-ecmascript-2020/</guid>
+            <pubDate>Mon, 08 Mar 2021 07:33:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Turbo Showcase - fundamental JS server-side interaction achieved with no custom JavaScript]]></title>
+            <link>https://turbo-showcase.herokuapp.com/</link>
+            <guid>https://turbo-showcase.herokuapp.com/</guid>
+            <pubDate>Sun, 07 Mar 2021 23:00:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jquery Drag and Drop Builder!]]></title>
+            <link>https://github.com/spaceyour/dragerweb</link>
+            <guid>https://github.com/spaceyour/dragerweb</guid>
+            <pubDate>Mon, 08 Mar 2021 07:14:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kataw An insane fast Javascript toolchain supporting both Javascript and Typescript.]]></title>
+            <link>https://github.com/kataw/kataw</link>
+            <guid>https://github.com/kataw/kataw</guid>
+            <pubDate>Sun, 07 Mar 2021 21:20:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Killblanks Use pre-rendering and skeleton screen to solve page white screen problem]]></title>
+            <link>https://warpcgd.github.io/killblanks</link>
+            <guid>https://warpcgd.github.io/killblanks</guid>
+            <pubDate>Mon, 08 Mar 2021 03:33:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Peripheral Communication using React Native BLE (Bluetooth Low Energy)]]></title>
@@ -25,12 +61,6 @@
             <link>https://github.com/dmaevsky/conclure</link>
             <guid>https://github.com/dmaevsky/conclure</guid>
             <pubDate>Sat, 06 Mar 2021 12:38:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why to have a Service-Controller architecture for every backend app?]]></title>
-            <link>https://codersingh27.medium.com/why-to-have-a-service-controller-architecture-for-every-backend-app-96b4f053525</link>
-            <guid>https://codersingh27.medium.com/why-to-have-a-service-controller-architecture-for-every-backend-app-96b4f053525</guid>
-            <pubDate>Sun, 07 Mar 2021 18:15:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Announcing Svelte NodeGUI, a lightweight Electron alternative with native UI, based on Node.js!]]></title>
@@ -100,39 +130,9 @@
         </item>
         <item>
             <title><![CDATA[Using BigQuery Public Datasets to build an analytical app and research the impact of COVID-19]]></title>
-            <link>https://bigquery-public-datasets.cube.dev</link>
-            <guid>https://bigquery-public-datasets.cube.dev</guid>
+            <link>https://bigquery-public-datasets.cube.dev/</link>
+            <guid>https://bigquery-public-datasets.cube.dev/</guid>
             <pubDate>Thu, 04 Mar 2021 18:20:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jQuery 3.6.0 Released - "We still have our eyes on a jQuery 4.0 release"]]></title>
-            <link>http://blog.jquery.com/2021/03/02/jquery-3-6-0-released/</link>
-            <guid>http://blog.jquery.com/2021/03/02/jquery-3-6-0-released/</guid>
-            <pubDate>Wed, 03 Mar 2021 16:28:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Genius or lunacy? A pattern for using Services As DOM Elements (also, custom elements how-to w/ 5 different libraries)]]></title>
-            <link>https://vadosware.io/post/sade-pattern-services-as-dom-elements/</link>
-            <guid>https://vadosware.io/post/sade-pattern-services-as-dom-elements/</guid>
-            <pubDate>Thu, 04 Mar 2021 03:57:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I've used the pipe() function 2,560 times and I can tell you it's good!]]></title>
-            <link>https://dev.to/ivan7237d/i-ve-used-the-pipe-function-2-560-times-and-i-can-tell-you-it-s-good-4aal</link>
-            <guid>https://dev.to/ivan7237d/i-ve-used-the-pipe-function-2-560-times-and-i-can-tell-you-it-s-good-4aal</guid>
-            <pubDate>Thu, 04 Mar 2021 01:12:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JavaScript ES2021 Features You Need to Know]]></title>
-            <link>https://towardsdev.com/javascript-es2021-features-d864eccad081</link>
-            <guid>https://towardsdev.com/javascript-es2021-features-d864eccad081</guid>
-            <pubDate>Wed, 03 Mar 2021 14:18:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Bind Remote Data and Enable Virtual Scrolling in JavaScript Pivot Table]]></title>
-            <link>https://www.syncfusion.com/blogs/post/bind-remote-data-and-enable-virtual-scrolling-in-javascript-pivot-table.aspx</link>
-            <guid>https://www.syncfusion.com/blogs/post/bind-remote-data-and-enable-virtual-scrolling-in-javascript-pivot-table.aspx</guid>
-            <pubDate>Thu, 04 Mar 2021 12:15:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

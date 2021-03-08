@@ -4,7 +4,7 @@
         <title>JavaScript Weekly</title>
         <link>https://javascriptweekly.com/</link>
         <description>A newsletter of JavaScript articles, news and cool projects</description>
-        <lastBuildDate>Sun, 07 Mar 2021 19:45:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Mar 2021 07:52:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -90,12 +90,6 @@
             <title><![CDATA[Deno 1.8]]></title>
             <link>https://javascriptweekly.com/link/104299/rss</link>
             <guid>https://javascriptweekly.com/link/104299/rss</guid>
-            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Full Time Front-end Software Engineer (Remote)]]></title>
-            <link>https://javascriptweekly.com/link/104300/rss</link>
-            <guid>https://javascriptweekly.com/link/104300/rss</guid>
             <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
         </item>
         <item>

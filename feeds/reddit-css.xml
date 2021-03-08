@@ -4,21 +4,15 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Sun, 07 Mar 2021 19:45:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Mar 2021 07:52:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[How to build a login page with page transition // HTML & CSS in-depth]]></title>
-            <link>https://youtu.be/RYkC7FHsOnk</link>
-            <guid>https://youtu.be/RYkC7FHsOnk</guid>
-            <pubDate>Sun, 07 Mar 2021 13:07:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Full Page: 20 Advanced CSS & HTML techniques: clip-path, @property, aspect-ratio and blend-mode]]></title>
-            <link>https://v.redd.it/a15hw4k4ofl61</link>
-            <guid>https://v.redd.it/a15hw4k4ofl61</guid>
-            <pubDate>Sat, 06 Mar 2021 16:20:05 GMT</pubDate>
+            <title><![CDATA[Why is the text decoration:none not working for the button in this site?]]></title>
+            <link>http://thegreatgatsbytour.com/</link>
+            <guid>http://thegreatgatsbytour.com/</guid>
+            <pubDate>Mon, 08 Mar 2021 05:26:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Introducing Flexboxplus.css (Feedback requested)]]></title>
@@ -33,40 +27,10 @@
             <pubDate>Sun, 07 Mar 2021 10:59:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[getting rid of white bar at the bottom]]></title>
-            <link>https://preview.redd.it/txocynf31il61.png?width=1919&amp;format=png&amp;auto=webp&amp;s=c1ca2a073fd171463afd81cbb7d04b918851a1c9</link>
-            <guid>https://preview.redd.it/txocynf31il61.png?width=1919&amp;format=png&amp;auto=webp&amp;s=c1ca2a073fd171463afd81cbb7d04b918851a1c9</guid>
-            <pubDate>Sun, 07 Mar 2021 00:23:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How can I put the links below the logo in this code pen (mobile) (750px)?]]></title>
-            <link>https://codepen.io/leo_developer_18/full/vYyrGBz</link>
-            <guid>https://codepen.io/leo_developer_18/full/vYyrGBz</guid>
-            <pubDate>Sun, 07 Mar 2021 00:30:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Table inherits wrong font color from... nowhere?]]></title>
-            <link>https://pastebin.com/cq54ZHxP</link>
-            <guid>https://pastebin.com/cq54ZHxP</guid>
-            <pubDate>Sat, 06 Mar 2021 23:24:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My attempt at a single div challenge (1 div, no JS, all CSS, see comments for CodePen!)]]></title>
-            <link>https://i.redd.it/xmojwfovv9l61.gif</link>
-            <guid>https://i.redd.it/xmojwfovv9l61.gif</guid>
-            <pubDate>Fri, 05 Mar 2021 20:52:44 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Don't use Tailwind for your Design System]]></title>
             <link>https://sancho.dev/blog/tailwind-and-design-systems/</link>
             <guid>https://sancho.dev/blog/tailwind-and-design-systems/</guid>
             <pubDate>Sat, 06 Mar 2021 15:28:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How To Create Search Box using Only HTML & CSS | Awesome CSS Search Box Using Only HTML & CSS]]></title>
-            <link>https://youtu.be/GsWrYK6rQMA</link>
-            <guid>https://youtu.be/GsWrYK6rQMA</guid>
-            <pubDate>Sat, 06 Mar 2021 18:24:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Turntable in CSS and JS for playing music from YouTube]]></title>
@@ -81,28 +45,10 @@
             <pubDate>Fri, 05 Mar 2021 12:33:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[For some reason, there's blue in this code. I'm not sure why, and I don't think it's connected to RBGA/Hexcode [CSS]]]></title>
-            <link>https://www.dropbox.com/s/d0eyzvxixzu94ve/Falling%20Ash%20%28gif%29%20-%20189911.css?dl=1</link>
-            <guid>https://www.dropbox.com/s/d0eyzvxixzu94ve/Falling%20Ash%20%28gif%29%20-%20189911.css?dl=1</guid>
-            <pubDate>Sat, 06 Mar 2021 03:11:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is the secret to understand and make the url() with base64 image work?]]></title>
-            <link>https://codepen.io/mscarvalho/pen/LYVzrYK</link>
-            <guid>https://codepen.io/mscarvalho/pen/LYVzrYK</guid>
-            <pubDate>Fri, 05 Mar 2021 21:08:32 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Complete Guide To SCSS/SASS]]></title>
             <link>https://jstutorial.medium.com/the-complete-guide-to-scss-sass-49ac053fcde5</link>
             <guid>https://jstutorial.medium.com/the-complete-guide-to-scss-sass-49ac053fcde5</guid>
             <pubDate>Fri, 05 Mar 2021 17:53:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stop Using Icon Fonts by Michael Irigoyen]]></title>
-            <link>https://www.irigoyen.dev/blog/2021/02/17/stop-using-icon-fonts/</link>
-            <guid>https://www.irigoyen.dev/blog/2021/02/17/stop-using-icon-fonts/</guid>
-            <pubDate>Fri, 05 Mar 2021 12:54:09 GMT</pubDate>
         </item>
     </channel>
 </rss>

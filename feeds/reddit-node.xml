@@ -4,15 +4,15 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Sun, 07 Mar 2021 19:45:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Mar 2021 07:52:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Set List level operations(Union, Intersection, Difference) and Static Set]]></title>
-            <link>https://youtu.be/_dw4QE78nqc</link>
-            <guid>https://youtu.be/_dw4QE78nqc</guid>
-            <pubDate>Sun, 07 Mar 2021 19:18:52 GMT</pubDate>
+            <title><![CDATA[Node.js based WebSocket memory leak]]></title>
+            <link>https://stackoverflow.com/</link>
+            <guid>https://stackoverflow.com/</guid>
+            <pubDate>Sun, 07 Mar 2021 18:50:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I built a simple unit test runner for small projects and plugins]]></title>
@@ -21,28 +21,28 @@
             <pubDate>Sun, 07 Mar 2021 18:46:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[I want to make a clear command but the error log sais: TypeError: Cannot read property 'execute' of undefined. Can someone explain to me what to do? Thanks!]]></title>
+            <link>https://message.author.bot/</link>
+            <guid>https://message.author.bot/</guid>
+            <pubDate>Sun, 07 Mar 2021 23:03:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How do I run an environment executable with parameters?]]></title>
+            <link>https://github.com/nilaoda/N_m3u8DL-CLI/blob/master/README_ENG.md</link>
+            <guid>https://github.com/nilaoda/N_m3u8DL-CLI/blob/master/README_ENG.md</guid>
+            <pubDate>Sun, 07 Mar 2021 20:06:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[SSO Authentication middleware with NTLM/Kerberos on Windows]]></title>
             <link>https://github.com/jlguenego/node-expose-sspi</link>
             <guid>https://github.com/jlguenego/node-expose-sspi</guid>
             <pubDate>Sun, 07 Mar 2021 12:59:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Node.js based WebSocket memory leak]]></title>
-            <link>https://Stackoverflow.com</link>
-            <guid>https://Stackoverflow.com</guid>
-            <pubDate>Sun, 07 Mar 2021 18:50:53 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Building REST API with Express, TypeScript - Part 4: Jest and unit testing]]></title>
             <link>https://rsbh.dev/blog/rest-api-express-typescript-jest-testing</link>
             <guid>https://rsbh.dev/blog/rest-api-express-typescript-jest-testing</guid>
             <pubDate>Sun, 07 Mar 2021 08:38:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Docker tutorial - What is Docker and how Docker works]]></title>
-            <link>https://youtu.be/GSw9OHOloOY</link>
-            <guid>https://youtu.be/GSw9OHOloOY</guid>
-            <pubDate>Sat, 06 Mar 2021 21:15:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A way to host an API with DB for demo purposes.]]></title>
@@ -73,18 +73,6 @@
             <link>https://startworkingremotely.com/jobs?q=node.js</link>
             <guid>https://startworkingremotely.com/jobs?q=node.js</guid>
             <pubDate>Sun, 07 Mar 2021 09:32:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Build APIs You Won't Hate In Node Js]]></title>
-            <link>https://github.com/kutia-software-company/express-typescript-starter</link>
-            <guid>https://github.com/kutia-software-company/express-typescript-starter</guid>
-            <pubDate>Sun, 07 Mar 2021 00:36:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I am building a Node.js Express React boilerplate for SaaS. It comes with built-in authentication, user management, billing and more. Please take a look!]]></title>
-            <link>https://userocket.herokuapp.com/</link>
-            <guid>https://userocket.herokuapp.com/</guid>
-            <pubDate>Sat, 06 Mar 2021 05:21:42 GMT</pubDate>
         </item>
     </channel>
 </rss>

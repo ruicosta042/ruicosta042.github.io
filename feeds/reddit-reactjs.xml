@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Mon, 08 Mar 2021 13:06:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Mar 2021 19:46:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -27,6 +27,24 @@
             <pubDate>Mon, 08 Mar 2021 10:24:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How to write a React Component in TypeScript]]></title>
+            <link>https://kentcdodds.com/blog/how-to-write-a-react-component-in-typescript</link>
+            <guid>https://kentcdodds.com/blog/how-to-write-a-react-component-in-typescript</guid>
+            <pubDate>Mon, 08 Mar 2021 12:54:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to dynamically create new state, functions, and onChanges to use as props when mapping components?]]></title>
+            <link>https://stackoverflow.com/questions/66522022/how-to-dynamically-create-state-functions-and-onchanges-to-use-as-props-when-m</link>
+            <guid>https://stackoverflow.com/questions/66522022/how-to-dynamically-create-state-functions-and-onchanges-to-use-as-props-when-m</guid>
+            <pubDate>Mon, 08 Mar 2021 13:35:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When imperative is better than declarative in React]]></title>
+            <link>https://academy.esveo.com/en/blog/O5/</link>
+            <guid>https://academy.esveo.com/en/blog/O5/</guid>
+            <pubDate>Mon, 08 Mar 2021 17:14:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How to deploy React to S3 with a Github Actions deployment pipeline (all configured using Terraform)]]></title>
             <link>https://andyjones.co/articles/react-aws-terraform-github-actions/</link>
             <guid>https://andyjones.co/articles/react-aws-terraform-github-actions/</guid>
@@ -39,16 +57,34 @@
             <pubDate>Mon, 08 Mar 2021 01:40:03 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How to create a VSCode extension using React]]></title>
+            <link>https://iskenxan.medium.com/how-to-create-a-vscode-extension-using-react-3325a502461e?source=friends_link&amp;sk=9608f834430a122c1edf44dcdd25234e</link>
+            <guid>https://iskenxan.medium.com/how-to-create-a-vscode-extension-using-react-3325a502461e?source=friends_link&amp;sk=9608f834430a122c1edf44dcdd25234e</guid>
+            <pubDate>Mon, 08 Mar 2021 13:50:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can we talk about specifics when changing between portrait and landscape?]]></title>
+            <link>http://www.tanksironcladmeats.com/</link>
+            <guid>http://www.tanksironcladmeats.com/</guid>
+            <pubDate>Mon, 08 Mar 2021 17:29:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[React CSStransition or react-spring]]></title>
             <link>https://stackoverflow.com/questions/66522350/react-csstransition-or-react-spring-in-map</link>
             <guid>https://stackoverflow.com/questions/66522350/react-csstransition-or-react-spring-in-map</guid>
             <pubDate>Mon, 08 Mar 2021 09:22:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to write a React Component in TypeScript]]></title>
-            <link>https://kentcdodds.com/blog/how-to-write-a-react-component-in-typescript</link>
-            <guid>https://kentcdodds.com/blog/how-to-write-a-react-component-in-typescript</guid>
-            <pubDate>Mon, 08 Mar 2021 12:54:36 GMT</pubDate>
+            <title><![CDATA[A simple yet beautiful contact card]]></title>
+            <link>https://github.com/xanaDev/contact-card</link>
+            <guid>https://github.com/xanaDev/contact-card</guid>
+            <pubDate>Mon, 08 Mar 2021 14:52:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Add E2E tests to ensure that your main features are working]]></title>
+            <link>https://www.brunoquaresma.dev/add-e2e-tests-to-ensure-that-your-main-features-are-working/</link>
+            <guid>https://www.brunoquaresma.dev/add-e2e-tests-to-ensure-that-your-main-features-are-working/</guid>
+            <pubDate>Mon, 08 Mar 2021 14:26:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[React.js + Plotly.js newby]]></title>
@@ -67,18 +103,6 @@
             <link>https://www.npmjs.com/package/@orizens/react-be</link>
             <guid>https://www.npmjs.com/package/@orizens/react-be</guid>
             <pubDate>Mon, 08 Mar 2021 00:58:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reactjs Issue]]></title>
-            <link>https://stackoverflow.com/questions/66524555/realtime-chart-in-reactjs</link>
-            <guid>https://stackoverflow.com/questions/66524555/realtime-chart-in-reactjs</guid>
-            <pubDate>Mon, 08 Mar 2021 05:09:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tortoise and the hare game typing edition!]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Sun, 07 Mar 2021 22:27:45 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,21 +4,45 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Mon, 08 Mar 2021 13:06:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Mar 2021 19:46:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
-        <item>
-            <title><![CDATA[Setting up a Hybrid REST & GraphQL API with NestJS and MikroORM]]></title>
-            <link>https://jenyus.web.app/blog/2021-03-07-nestjs-starter</link>
-            <guid>https://jenyus.web.app/blog/2021-03-07-nestjs-starter</guid>
-            <pubDate>Mon, 08 Mar 2021 00:46:25 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[How to write a React Component in TypeScript]]></title>
             <link>https://kentcdodds.com/blog/how-to-write-a-react-component-in-typescript</link>
             <guid>https://kentcdodds.com/blog/how-to-write-a-react-component-in-typescript</guid>
             <pubDate>Mon, 08 Mar 2021 12:55:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Creating a Scientific Pitch Notation Type using template literal types]]></title>
+            <link>https://madewithlove.com/blog/software-engineering/creating-a-scientific-pitch-notation-type-using-template-literal-types/</link>
+            <guid>https://madewithlove.com/blog/software-engineering/creating-a-scientific-pitch-notation-type-using-template-literal-types/</guid>
+            <pubDate>Mon, 08 Mar 2021 19:18:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Key Remapping is very funky]]></title>
+            <link>https://www.typescriptlang.org/docs/handbook/2/mapped-types.html#key-remapping-via-as</link>
+            <guid>https://www.typescriptlang.org/docs/handbook/2/mapped-types.html#key-remapping-via-as</guid>
+            <pubDate>Mon, 08 Mar 2021 17:49:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Types unable to descriminate each other?]]></title>
+            <link>https://www.typescriptlang.org/play?#code/C4TwDgpgBAIlC8AoKUA+UDaByAhgGzAAscsAaKAb3yJwC4oBnYAJwEsA7AcwF9yA6AQEECxAMIB7dsAhSMAXTnI0mLACMIwEuQrrN9Jmy68oAvgCENOCVJnB5ilOmyccAW1dbKL93UYsOPPwCAOJuHtbSsgqIiKCQUMI0EbYIUAAU7ACururMyjAAlLHg0BaayVKpaQYB+UVx0KE+FcBVquLieBA47HUxDVAAkuwAZhDMADwAKlAQAB6RACYMsBgADHIAfAhKcPNLKxhTQXwcY3kASnJQAPxQF1D07BAAbuMA3DEAxpJMUGfjRLEejDc4TXAiEjbeCYKiQ+i4LDGAAcck+iB+7D+1GIVVMvlB43BOKhBXo2BJZBMAkJkwhNCwm2u8G2FMhVPxigxv1ai3ocBh2F0nh0lgRqiRpCUbIZ2hJCJIxgAzHIpSgSWk4TQEcxJVAAKwFKVyIA</link>
+            <guid>https://www.typescriptlang.org/play?#code/C4TwDgpgBAIlC8AoKUA+UDaByAhgGzAAscsAaKAb3yJwC4oBnYAJwEsA7AcwF9yA6AQEECxAMIB7dsAhSMAXTnI0mLACMIwEuQrrN9Jmy68oAvgCENOCVJnB5ilOmyccAW1dbKL93UYsOPPwCAOJuHtbSsgqIiKCQUMI0EbYIUAAU7ACururMyjAAlLHg0BaayVKpaQYB+UVx0KE+FcBVquLieBA47HUxDVAAkuwAZhDMADwAKlAQAB6RACYMsBgADHIAfAhKcPNLKxhTQXwcY3kASnJQAPxQF1D07BAAbuMA3DEAxpJMUGfjRLEejDc4TXAiEjbeCYKiQ+i4LDGAAcck+iB+7D+1GIVVMvlB43BOKhBXo2BJZBMAkJkwhNCwm2u8G2FMhVPxigxv1ai3ocBh2F0nh0lgRqiRpCUbIZ2hJCJIxgAzHIpSgSWk4TQEcxJVAAKwFKVyIA</guid>
+            <pubDate>Mon, 08 Mar 2021 17:24:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Jenyus Optimizes Relationships in GraphQL APIs | Jenyus Org]]></title>
+            <link>http://jenyus.web.app/blog/2021-03-08-graphql-utils</link>
+            <guid>http://jenyus.web.app/blog/2021-03-08-graphql-utils</guid>
+            <pubDate>Mon, 08 Mar 2021 15:22:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Setting up a Hybrid REST & GraphQL API with NestJS and MikroORM]]></title>
+            <link>https://jenyus.web.app/blog/2021-03-07-nestjs-starter</link>
+            <guid>https://jenyus.web.app/blog/2021-03-07-nestjs-starter</guid>
+            <pubDate>Mon, 08 Mar 2021 00:46:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why am I getting linting errors?]]></title>
@@ -73,18 +97,6 @@
             <link>https://github.com/prisma/prisma</link>
             <guid>https://github.com/prisma/prisma</guid>
             <pubDate>Wed, 03 Mar 2021 02:52:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why are we still using ORMs?]]></title>
-            <link>https://blog.codinghorror.com/object-relational-mapping-is-the-vietnam-of-computer-science/</link>
-            <guid>https://blog.codinghorror.com/object-relational-mapping-is-the-vietnam-of-computer-science/</guid>
-            <pubDate>Wed, 03 Mar 2021 14:53:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Now we can force const contexts]]></title>
-            <link>https://github.com/millsp/ts-toolbelt</link>
-            <guid>https://github.com/millsp/ts-toolbelt</guid>
-            <pubDate>Tue, 02 Mar 2021 14:30:21 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,15 +4,51 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Mon, 08 Mar 2021 13:06:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Mar 2021 19:46:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[I never studied CS but I implemented Heap, Trie, QuickSelect, SkipList and more CS algorithms and data structures in NodeJS.]]></title>
+            <link>https://github.com/i5ik/cs.js</link>
+            <guid>https://github.com/i5ik/cs.js</guid>
+            <pubDate>Mon, 08 Mar 2021 13:12:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NodeJS C++ client node-firebird-libfbclient v.0.1.5 released with a few fixes.]]></title>
             <link>https://www.npmjs.com/package/firebird/v/0.1.5</link>
             <guid>https://www.npmjs.com/package/firebird/v/0.1.5</guid>
             <pubDate>Mon, 08 Mar 2021 09:05:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[API with NestJS #31. Two-factor authentication]]></title>
+            <link>https://wanago.io/2021/03/08/api-nestjs-two-factor-authentication/</link>
+            <guid>https://wanago.io/2021/03/08/api-nestjs-two-factor-authentication/</guid>
+            <pubDate>Mon, 08 Mar 2021 17:18:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Death of a Node.js Process]]></title>
+            <link>https://thomashunter.name/posts/2021-03-08-the-death-of-a-nodejs-process</link>
+            <guid>https://thomashunter.name/posts/2021-03-08-the-death-of-a-nodejs-process</guid>
+            <pubDate>Mon, 08 Mar 2021 16:22:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My first Node Project - a simple timestamp microservice]]></title>
+            <link>https://github.com/KuthumiPepple/timestamp-microservice</link>
+            <guid>https://github.com/KuthumiPepple/timestamp-microservice</guid>
+            <pubDate>Mon, 08 Mar 2021 15:33:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MongoStore express-session and socket.io problems]]></title>
+            <link>https://socket.io/</link>
+            <guid>https://socket.io/</guid>
+            <pubDate>Mon, 08 Mar 2021 15:17:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AWS Lambda and Java Spring Boot: Getting Started]]></title>
+            <link>https://epsagon.com/blog/aws-lambda-and-java-spring-boot-getting-started/</link>
+            <guid>https://epsagon.com/blog/aws-lambda-and-java-spring-boot-getting-started/</guid>
+            <pubDate>Mon, 08 Mar 2021 14:52:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Node.js based WebSocket memory leak]]></title>
@@ -25,42 +61,6 @@
             <link>https://www.npmjs.com/package/kequtest</link>
             <guid>https://www.npmjs.com/package/kequtest</guid>
             <pubDate>Sun, 07 Mar 2021 18:46:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I want to make a clear command but the error log sais: TypeError: Cannot read property 'execute' of undefined. Can someone explain to me what to do? Thanks!]]></title>
-            <link>https://message.author.bot/</link>
-            <guid>https://message.author.bot/</guid>
-            <pubDate>Sun, 07 Mar 2021 23:03:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How do I run an environment executable with parameters?]]></title>
-            <link>https://github.com/nilaoda/N_m3u8DL-CLI/blob/master/README_ENG.md</link>
-            <guid>https://github.com/nilaoda/N_m3u8DL-CLI/blob/master/README_ENG.md</guid>
-            <pubDate>Sun, 07 Mar 2021 20:06:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SSO Authentication middleware with NTLM/Kerberos on Windows]]></title>
-            <link>https://github.com/jlguenego/node-expose-sspi</link>
-            <guid>https://github.com/jlguenego/node-expose-sspi</guid>
-            <pubDate>Sun, 07 Mar 2021 12:59:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Building REST API with Express, TypeScript - Part 4: Jest and unit testing]]></title>
-            <link>https://rsbh.dev/blog/rest-api-express-typescript-jest-testing</link>
-            <guid>https://rsbh.dev/blog/rest-api-express-typescript-jest-testing</guid>
-            <pubDate>Sun, 07 Mar 2021 08:38:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A way to host an API with DB for demo purposes.]]></title>
-            <link>https://swapi.dev/</link>
-            <guid>https://swapi.dev/</guid>
-            <pubDate>Sun, 07 Mar 2021 07:31:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scaling your Nodejs application with Zero Downtime deployment]]></title>
-            <link>https://cloudnweb.dev/2021/03/scaling-nodejs-zero-downtime</link>
-            <guid>https://cloudnweb.dev/2021/03/scaling-nodejs-zero-downtime</guid>
-            <pubDate>Sun, 07 Mar 2021 07:19:37 GMT</pubDate>
         </item>
     </channel>
 </rss>

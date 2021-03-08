@@ -4,15 +4,39 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Mon, 08 Mar 2021 13:06:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Mar 2021 19:46:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[An Interactive Guide to CSS Grid]]></title>
+            <link>https://fjolt.com/article/a-guide-to-css-grid</link>
+            <guid>https://fjolt.com/article/a-guide-to-css-grid</guid>
+            <pubDate>Mon, 08 Mar 2021 13:41:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[You want enabling CSS selectors, not disabling ones]]></title>
+            <link>https://www.silvestar.codes/articles/you-want-a-single-enabling-selector-not-the-one-that-disables-the-rule-of-the-previous-one/</link>
+            <guid>https://www.silvestar.codes/articles/you-want-a-single-enabling-selector-not-the-one-that-disables-the-rule-of-the-previous-one/</guid>
+            <pubDate>Mon, 08 Mar 2021 15:02:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why is the text decoration:none not working for the button in this site?]]></title>
             <link>http://thegreatgatsbytour.com/</link>
             <guid>http://thegreatgatsbytour.com/</guid>
             <pubDate>Mon, 08 Mar 2021 05:26:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Best Font Loading Strategies and How to Execute Them]]></title>
+            <link>https://css-tricks.com/the-best-font-loading-strategies-and-how-to-execute-them/</link>
+            <guid>https://css-tricks.com/the-best-font-loading-strategies-and-how-to-execute-them/</guid>
+            <pubDate>Mon, 08 Mar 2021 14:58:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Complete HTML&CSS Bootcamp 2021: Zero to Hero HTML&CSS]]></title>
+            <link>https://www.myfreeonlinecourses.com/2021/03/100-off-complete-html-bootcamp-2021.html</link>
+            <guid>https://www.myfreeonlinecourses.com/2021/03/100-off-complete-html-bootcamp-2021.html</guid>
+            <pubDate>Mon, 08 Mar 2021 14:35:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Exploring @property and its Animating Powers]]></title>
@@ -37,18 +61,6 @@
             <link>https://sancho.dev/blog/tailwind-and-design-systems/</link>
             <guid>https://sancho.dev/blog/tailwind-and-design-systems/</guid>
             <pubDate>Sat, 06 Mar 2021 15:28:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turntable in CSS and JS for playing music from YouTube]]></title>
-            <link>https://thomaspark.co/projects/needledrop/</link>
-            <guid>https://thomaspark.co/projects/needledrop/</guid>
-            <pubDate>Fri, 05 Mar 2021 16:27:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Diving into the ::before and ::after Pseudo-Elements]]></title>
-            <link>https://codersblock.com/blog/diving-into-the-before-and-after-pseudo-elements/</link>
-            <guid>https://codersblock.com/blog/diving-into-the-before-and-after-pseudo-elements/</guid>
-            <pubDate>Fri, 05 Mar 2021 12:33:16 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Mon, 08 Mar 2021 13:06:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Mar 2021 19:46:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -27,22 +27,46 @@
             <pubDate>Mon, 08 Mar 2021 07:33:41 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Intellij Live Template for console.log that will Improve your Daily Development Life]]></title>
+            <link>https://betterprogramming.pub/intellij-live-template-for-console-log-that-will-improve-your-daily-development-life-ef1320a8fe81</link>
+            <guid>https://betterprogramming.pub/intellij-live-template-for-console-log-that-will-improve-your-daily-development-life-ef1320a8fe81</guid>
+            <pubDate>Mon, 08 Mar 2021 16:15:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Porting Kotlin Coroutines library to JavaScript]]></title>
             <link>https://github.com/zirman/suspenders-js</link>
             <guid>https://github.com/zirman/suspenders-js</guid>
             <pubDate>Sun, 07 Mar 2021 15:31:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Turbo Showcase - fundamental JS server-side interaction achieved with no custom JavaScript]]></title>
-            <link>https://turbo-showcase.herokuapp.com/</link>
-            <guid>https://turbo-showcase.herokuapp.com/</guid>
-            <pubDate>Sun, 07 Mar 2021 23:00:12 GMT</pubDate>
+            <title><![CDATA[[AskJS] What do people think of Ramda or other functional libraries for JS?]]></title>
+            <link>https://ramdajs.com/</link>
+            <guid>https://ramdajs.com/</guid>
+            <pubDate>Mon, 08 Mar 2021 16:26:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Web Development Collaboration - Better, Faster | zipBoard]]></title>
+            <link>https://www.zipboard.co/web-development-collaboration/</link>
+            <guid>https://www.zipboard.co/web-development-collaboration/</guid>
+            <pubDate>Mon, 08 Mar 2021 15:12:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Peripheral Communication with React Native BLE (Bluetooth Low Energy)]]></title>
+            <link>https://javascript.plainenglish.io/react-native-bluetooth-low-energy-peripheral-communication-e7cb93abf69</link>
+            <guid>https://javascript.plainenglish.io/react-native-bluetooth-low-energy-peripheral-communication-e7cb93abf69</guid>
+            <pubDate>Mon, 08 Mar 2021 14:50:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mobx Reaction Control - wrapper enabling dynamic Mobx reactivity control]]></title>
             <link>https://github.com/lukigarazus/mobx-reaction-control</link>
             <guid>https://github.com/lukigarazus/mobx-reaction-control</guid>
             <pubDate>Mon, 08 Mar 2021 09:08:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Turbo Showcase - fundamental JS server-side interaction achieved with no custom JavaScript]]></title>
+            <link>https://turbo-showcase.herokuapp.com/</link>
+            <guid>https://turbo-showcase.herokuapp.com/</guid>
+            <pubDate>Sun, 07 Mar 2021 23:00:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jquery Drag and Drop Builder!]]></title>
@@ -121,18 +145,6 @@
             <link>https://code.visualstudio.com/updates/v1_54</link>
             <guid>https://code.visualstudio.com/updates/v1_54</guid>
             <pubDate>Thu, 04 Mar 2021 18:12:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[date-fns: one of the most popular date libraries backed by black hat world]]></title>
-            <link>https://date-fns.org/</link>
-            <guid>https://date-fns.org/</guid>
-            <pubDate>Fri, 05 Mar 2021 12:06:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is the Biggest Source of Bugs of All Time Killing Your Productivity?]]></title>
-            <link>https://suzdalnitski.medium.com/terrible-coding-mistake-aa1fbebd83b4</link>
-            <guid>https://suzdalnitski.medium.com/terrible-coding-mistake-aa1fbebd83b4</guid>
-            <pubDate>Fri, 05 Mar 2021 16:19:43 GMT</pubDate>
         </item>
     </channel>
 </rss>

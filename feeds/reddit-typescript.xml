@@ -4,7 +4,7 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Mon, 08 Mar 2021 19:46:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Mar 2021 07:48:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,22 +21,22 @@
             <pubDate>Mon, 08 Mar 2021 19:18:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Key Remapping is very funky]]></title>
-            <link>https://www.typescriptlang.org/docs/handbook/2/mapped-types.html#key-remapping-via-as</link>
-            <guid>https://www.typescriptlang.org/docs/handbook/2/mapped-types.html#key-remapping-via-as</guid>
-            <pubDate>Mon, 08 Mar 2021 17:49:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Types unable to descriminate each other?]]></title>
-            <link>https://www.typescriptlang.org/play?#code/C4TwDgpgBAIlC8AoKUA+UDaByAhgGzAAscsAaKAb3yJwC4oBnYAJwEsA7AcwF9yA6AQEECxAMIB7dsAhSMAXTnI0mLACMIwEuQrrN9Jmy68oAvgCENOCVJnB5ilOmyccAW1dbKL93UYsOPPwCAOJuHtbSsgqIiKCQUMI0EbYIUAAU7ACururMyjAAlLHg0BaayVKpaQYB+UVx0KE+FcBVquLieBA47HUxDVAAkuwAZhDMADwAKlAQAB6RACYMsBgADHIAfAhKcPNLKxhTQXwcY3kASnJQAPxQF1D07BAAbuMA3DEAxpJMUGfjRLEejDc4TXAiEjbeCYKiQ+i4LDGAAcck+iB+7D+1GIVVMvlB43BOKhBXo2BJZBMAkJkwhNCwm2u8G2FMhVPxigxv1ai3ocBh2F0nh0lgRqiRpCUbIZ2hJCJIxgAzHIpSgSWk4TQEcxJVAAKwFKVyIA</link>
-            <guid>https://www.typescriptlang.org/play?#code/C4TwDgpgBAIlC8AoKUA+UDaByAhgGzAAscsAaKAb3yJwC4oBnYAJwEsA7AcwF9yA6AQEECxAMIB7dsAhSMAXTnI0mLACMIwEuQrrN9Jmy68oAvgCENOCVJnB5ilOmyccAW1dbKL93UYsOPPwCAOJuHtbSsgqIiKCQUMI0EbYIUAAU7ACururMyjAAlLHg0BaayVKpaQYB+UVx0KE+FcBVquLieBA47HUxDVAAkuwAZhDMADwAKlAQAB6RACYMsBgADHIAfAhKcPNLKxhTQXwcY3kASnJQAPxQF1D07BAAbuMA3DEAxpJMUGfjRLEejDc4TXAiEjbeCYKiQ+i4LDGAAcck+iB+7D+1GIVVMvlB43BOKhBXo2BJZBMAkJkwhNCwm2u8G2FMhVPxigxv1ai3ocBh2F0nh0lgRqiRpCUbIZ2hJCJIxgAzHIpSgSWk4TQEcxJVAAKwFKVyIA</guid>
-            <pubDate>Mon, 08 Mar 2021 17:24:43 GMT</pubDate>
+            <title><![CDATA[interface props]]></title>
+            <link>https://material-ui.com/components/drawers/</link>
+            <guid>https://material-ui.com/components/drawers/</guid>
+            <pubDate>Tue, 09 Mar 2021 00:57:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Jenyus Optimizes Relationships in GraphQL APIs | Jenyus Org]]></title>
             <link>http://jenyus.web.app/blog/2021-03-08-graphql-utils</link>
             <guid>http://jenyus.web.app/blog/2021-03-08-graphql-utils</guid>
             <pubDate>Mon, 08 Mar 2021 15:22:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Types unable to descriminate each other?]]></title>
+            <link>https://www.typescriptlang.org/play?#code/C4TwDgpgBAIlC8AoKUA+UDaByAhgGzAAscsAaKAb3yJwC4oBnYAJwEsA7AcwF9yA6AQEECxAMIB7dsAhSMAXTnI0mLACMIwEuQrrN9Jmy68oAvgCENOCVJnB5ilOmyccAW1dbKL93UYsOPPwCAOJuHtbSsgqIiKCQUMI0EbYIUAAU7ACururMyjAAlLHg0BaayVKpaQYB+UVx0KE+FcBVquLieBA47HUxDVAAkuwAZhDMADwAKlAQAB6RACYMsBgADHIAfAhKcPNLKxhTQXwcY3kASnJQAPxQF1D07BAAbuMA3DEAxpJMUGfjRLEejDc4TXAiEjbeCYKiQ+i4LDGAAcck+iB+7D+1GIVVMvlB43BOKhBXo2BJZBMAkJkwhNCwm2u8G2FMhVPxigxv1ai3ocBh2F0nh0lgRqiRpCUbIZ2hJCJIxgAzHIpSgSWk4TQEcxJVAAKwFKVyIA</link>
+            <guid>https://www.typescriptlang.org/play?#code/C4TwDgpgBAIlC8AoKUA+UDaByAhgGzAAscsAaKAb3yJwC4oBnYAJwEsA7AcwF9yA6AQEECxAMIB7dsAhSMAXTnI0mLACMIwEuQrrN9Jmy68oAvgCENOCVJnB5ilOmyccAW1dbKL93UYsOPPwCAOJuHtbSsgqIiKCQUMI0EbYIUAAU7ACururMyjAAlLHg0BaayVKpaQYB+UVx0KE+FcBVquLieBA47HUxDVAAkuwAZhDMADwAKlAQAB6RACYMsBgADHIAfAhKcPNLKxhTQXwcY3kASnJQAPxQF1D07BAAbuMA3DEAxpJMUGfjRLEejDc4TXAiEjbeCYKiQ+i4LDGAAcck+iB+7D+1GIVVMvlB43BOKhBXo2BJZBMAkJkwhNCwm2u8G2FMhVPxigxv1ai3ocBh2F0nh0lgRqiRpCUbIZ2hJCJIxgAzHIpSgSWk4TQEcxJVAAKwFKVyIA</guid>
+            <pubDate>Mon, 08 Mar 2021 17:24:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Setting up a Hybrid REST & GraphQL API with NestJS and MikroORM]]></title>

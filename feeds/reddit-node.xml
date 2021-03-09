@@ -4,15 +4,33 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Mon, 08 Mar 2021 19:46:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Mar 2021 07:48:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Unit Testing Node.js + Mongoose Using Jest]]></title>
+            <link>https://javascript.plainenglish.io/unit-testing-node-js-mongoose-using-jest-106a39b8393d</link>
+            <guid>https://javascript.plainenglish.io/unit-testing-node-js-mongoose-using-jest-106a39b8393d</guid>
+            <pubDate>Tue, 09 Mar 2021 04:35:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I never studied CS but I implemented Heap, Trie, QuickSelect, SkipList and more CS algorithms and data structures in NodeJS.]]></title>
             <link>https://github.com/i5ik/cs.js</link>
             <guid>https://github.com/i5ik/cs.js</guid>
             <pubDate>Mon, 08 Mar 2021 13:12:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why was "request" deprecated from the node ecosphere?]]></title>
+            <link>https://github.com/request/request</link>
+            <guid>https://github.com/request/request</guid>
+            <pubDate>Tue, 09 Mar 2021 00:16:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Best Way to Approach Realtime App that Recieves data from another app]]></title>
+            <link>https://socket.io/</link>
+            <guid>https://socket.io/</guid>
+            <pubDate>Mon, 08 Mar 2021 20:24:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NodeJS C++ client node-firebird-libfbclient v.0.1.5 released with a few fixes.]]></title>
@@ -37,30 +55,6 @@
             <link>https://github.com/KuthumiPepple/timestamp-microservice</link>
             <guid>https://github.com/KuthumiPepple/timestamp-microservice</guid>
             <pubDate>Mon, 08 Mar 2021 15:33:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MongoStore express-session and socket.io problems]]></title>
-            <link>https://socket.io/</link>
-            <guid>https://socket.io/</guid>
-            <pubDate>Mon, 08 Mar 2021 15:17:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AWS Lambda and Java Spring Boot: Getting Started]]></title>
-            <link>https://epsagon.com/blog/aws-lambda-and-java-spring-boot-getting-started/</link>
-            <guid>https://epsagon.com/blog/aws-lambda-and-java-spring-boot-getting-started/</guid>
-            <pubDate>Mon, 08 Mar 2021 14:52:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Node.js based WebSocket memory leak]]></title>
-            <link>https://stackoverflow.com/</link>
-            <guid>https://stackoverflow.com/</guid>
-            <pubDate>Sun, 07 Mar 2021 18:50:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I built a simple unit test runner for small projects and plugins]]></title>
-            <link>https://www.npmjs.com/package/kequtest</link>
-            <guid>https://www.npmjs.com/package/kequtest</guid>
-            <pubDate>Sun, 07 Mar 2021 18:46:34 GMT</pubDate>
         </item>
     </channel>
 </rss>

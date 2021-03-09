@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Mon, 08 Mar 2021 19:46:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Mar 2021 07:48:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,34 @@
             <pubDate>Mon, 08 Mar 2021 13:41:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Complete CSS Flex Tutorial]]></title>
+            <link>https://semicolon.dev/tutorial/css/complete-css-flex-tutorial</link>
+            <guid>https://semicolon.dev/tutorial/css/complete-css-flex-tutorial</guid>
+            <pubDate>Mon, 08 Mar 2021 23:55:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Responsive page works on bigger 1080p monitor, but fails on smaller 1080p laptops.]]></title>
+            <link>https://github.com/DenzelDb/CSS-question/tree/master/site%20test</link>
+            <guid>https://github.com/DenzelDb/CSS-question/tree/master/site%20test</guid>
+            <pubDate>Mon, 08 Mar 2021 22:00:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A very hands-on approach to styling web applications with TailwindCSS]]></title>
+            <link>https://tsh.io/blog/tailwind-css-tutorial/</link>
+            <guid>https://tsh.io/blog/tailwind-css-tutorial/</guid>
+            <pubDate>Mon, 08 Mar 2021 20:31:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[You want enabling CSS selectors, not disabling ones]]></title>
             <link>https://www.silvestar.codes/articles/you-want-a-single-enabling-selector-not-the-one-that-disables-the-rule-of-the-previous-one/</link>
             <guid>https://www.silvestar.codes/articles/you-want-a-single-enabling-selector-not-the-one-that-disables-the-rule-of-the-previous-one/</guid>
             <pubDate>Mon, 08 Mar 2021 15:02:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Simple Ways to Fake Masonry in CSS]]></title>
+            <link>https://www.webtips.dev/masonry-in-css</link>
+            <guid>https://www.webtips.dev/masonry-in-css</guid>
+            <pubDate>Mon, 08 Mar 2021 20:21:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why is the text decoration:none not working for the button in this site?]]></title>
@@ -55,12 +79,6 @@
             <link>https://michalmuszynski.com/blog/styling-child-component-from-parent-in-angular/</link>
             <guid>https://michalmuszynski.com/blog/styling-child-component-from-parent-in-angular/</guid>
             <pubDate>Sun, 07 Mar 2021 10:59:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don't use Tailwind for your Design System]]></title>
-            <link>https://sancho.dev/blog/tailwind-and-design-systems/</link>
-            <guid>https://sancho.dev/blog/tailwind-and-design-systems/</guid>
-            <pubDate>Sat, 06 Mar 2021 15:28:13 GMT</pubDate>
         </item>
     </channel>
 </rss>

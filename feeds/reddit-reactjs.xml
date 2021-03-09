@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Mon, 08 Mar 2021 19:46:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Mar 2021 07:48:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,10 +21,34 @@
             <pubDate>Mon, 01 Mar 2021 15:56:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[I made a list of 70+ open-source clones of sites like Airbnb, Tiktok, Netflix, Spotify etc. See their code, demo, tech stack, & github stars.]]></title>
+            <link>https://github.com/GorvGoyl/Clone-Wars</link>
+            <guid>https://github.com/GorvGoyl/Clone-Wars</guid>
+            <pubDate>Tue, 09 Mar 2021 07:08:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Building a SaaS in one week: How I built OnlineOrNot (Next.js/React, Tailwind, GraphQL, TypeScript)]]></title>
             <link>https://onlineornot.com/building-saas-in-one-week-how-built-onlineornot</link>
             <guid>https://onlineornot.com/building-saas-in-one-week-how-built-onlineornot</guid>
             <pubDate>Mon, 08 Mar 2021 10:24:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Built a neat bitcoin price tracker.]]></title>
+            <link>https://jae-young.com/btc/</link>
+            <guid>https://jae-young.com/btc/</guid>
+            <pubDate>Mon, 08 Mar 2021 23:16:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How I built TesolHub(Job board for Tesol teachers) with CRA/React, Tailwind, GraphQL, TypeScript, Algolia]]></title>
+            <link>https://tesolhub.co/</link>
+            <guid>https://tesolhub.co/</guid>
+            <pubDate>Tue, 09 Mar 2021 05:23:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Understanding Suspense-ful coding in React]]></title>
+            <link>https://blog.zack.computer/suspenseful-coding-in-react</link>
+            <guid>https://blog.zack.computer/suspenseful-coding-in-react</guid>
+            <pubDate>Tue, 09 Mar 2021 07:04:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to write a React Component in TypeScript]]></title>
@@ -33,22 +57,34 @@
             <pubDate>Mon, 08 Mar 2021 12:54:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to dynamically create new state, functions, and onChanges to use as props when mapping components?]]></title>
-            <link>https://stackoverflow.com/questions/66522022/how-to-dynamically-create-state-functions-and-onchanges-to-use-as-props-when-m</link>
-            <guid>https://stackoverflow.com/questions/66522022/how-to-dynamically-create-state-functions-and-onchanges-to-use-as-props-when-m</guid>
-            <pubDate>Mon, 08 Mar 2021 13:35:40 GMT</pubDate>
+            <title><![CDATA[Checkout my npm package for comments section]]></title>
+            <link>https://www.npmjs.com/package/react-comments-section</link>
+            <guid>https://www.npmjs.com/package/react-comments-section</guid>
+            <pubDate>Tue, 09 Mar 2021 06:12:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[When imperative is better than declarative in React]]></title>
-            <link>https://academy.esveo.com/en/blog/O5/</link>
-            <guid>https://academy.esveo.com/en/blog/O5/</guid>
-            <pubDate>Mon, 08 Mar 2021 17:14:26 GMT</pubDate>
+            <title><![CDATA[REACT REFRESH APP - My attempt at creating an app environment from scratch.]]></title>
+            <link>https://github.com/umeshmk/react-refresh-app</link>
+            <guid>https://github.com/umeshmk/react-refresh-app</guid>
+            <pubDate>Tue, 09 Mar 2021 05:33:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[how to handle large records in primereact multiselect?]]></title>
+            <link>https://www.primefaces.org/primereact/showcase/#/multiselect</link>
+            <guid>https://www.primefaces.org/primereact/showcase/#/multiselect</guid>
+            <pubDate>Mon, 08 Mar 2021 21:32:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to deploy React to S3 with a Github Actions deployment pipeline (all configured using Terraform)]]></title>
             <link>https://andyjones.co/articles/react-aws-terraform-github-actions/</link>
             <guid>https://andyjones.co/articles/react-aws-terraform-github-actions/</guid>
             <pubDate>Sun, 07 Mar 2021 19:02:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to dynamically create new state, functions, and onChanges to use as props when mapping components?]]></title>
+            <link>https://stackoverflow.com/questions/66522022/how-to-dynamically-create-state-functions-and-onchanges-to-use-as-props-when-m</link>
+            <guid>https://stackoverflow.com/questions/66522022/how-to-dynamically-create-state-functions-and-onchanges-to-use-as-props-when-m</guid>
+            <pubDate>Mon, 08 Mar 2021 13:35:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[use-pagination-firestore: A typed, non-cumulative pagination hook for Firestore]]></title>
@@ -67,42 +103,6 @@
             <link>http://www.tanksironcladmeats.com/</link>
             <guid>http://www.tanksironcladmeats.com/</guid>
             <pubDate>Mon, 08 Mar 2021 17:29:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React CSStransition or react-spring]]></title>
-            <link>https://stackoverflow.com/questions/66522350/react-csstransition-or-react-spring-in-map</link>
-            <guid>https://stackoverflow.com/questions/66522350/react-csstransition-or-react-spring-in-map</guid>
-            <pubDate>Mon, 08 Mar 2021 09:22:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A simple yet beautiful contact card]]></title>
-            <link>https://github.com/xanaDev/contact-card</link>
-            <guid>https://github.com/xanaDev/contact-card</guid>
-            <pubDate>Mon, 08 Mar 2021 14:52:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Add E2E tests to ensure that your main features are working]]></title>
-            <link>https://www.brunoquaresma.dev/add-e2e-tests-to-ensure-that-your-main-features-are-working/</link>
-            <guid>https://www.brunoquaresma.dev/add-e2e-tests-to-ensure-that-your-main-features-are-working/</guid>
-            <pubDate>Mon, 08 Mar 2021 14:26:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React.js + Plotly.js newby]]></title>
-            <link>https://this.state.data/</link>
-            <guid>https://this.state.data/</guid>
-            <pubDate>Mon, 08 Mar 2021 05:39:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[orval - react-query code generation for OpenAPI / Swagger specs]]></title>
-            <link>https://github.com/anymaniax/orval</link>
-            <guid>https://github.com/anymaniax/orval</guid>
-            <pubDate>Sun, 07 Mar 2021 21:04:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bootstrap Element is a primitive component with utility classes and auto-completion a la "styled" inline props]]></title>
-            <link>https://www.npmjs.com/package/@orizens/react-be</link>
-            <guid>https://www.npmjs.com/package/@orizens/react-be</guid>
-            <pubDate>Mon, 08 Mar 2021 00:58:33 GMT</pubDate>
         </item>
     </channel>
 </rss>

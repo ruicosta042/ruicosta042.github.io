@@ -4,7 +4,7 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Tue, 09 Mar 2021 07:48:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Mar 2021 13:07:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -19,6 +19,18 @@
             <link>https://github.com/i5ik/cs.js</link>
             <guid>https://github.com/i5ik/cs.js</guid>
             <pubDate>Mon, 08 Mar 2021 13:12:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What's the Average Node.js Developer Salary in the USA, Europe and in other countries of the world]]></title>
+            <link>https://ddi-dev.com/blog/programming/average-node-js-developer-salary-in-the-usa-europe-and-in-other-countries/</link>
+            <guid>https://ddi-dev.com/blog/programming/average-node-js-developer-salary-in-the-usa-europe-and-in-other-countries/</guid>
+            <pubDate>Tue, 09 Mar 2021 12:42:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Extracting notes of a slide from a ppt file]]></title>
+            <link>https://smallpdf.com/blog/how-to-save-powerpoint-as-pdf-with-notes</link>
+            <guid>https://smallpdf.com/blog/how-to-save-powerpoint-as-pdf-with-notes</guid>
+            <pubDate>Tue, 09 Mar 2021 10:54:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why was "request" deprecated from the node ecosphere?]]></title>
@@ -49,12 +61,6 @@
             <link>https://thomashunter.name/posts/2021-03-08-the-death-of-a-nodejs-process</link>
             <guid>https://thomashunter.name/posts/2021-03-08-the-death-of-a-nodejs-process</guid>
             <pubDate>Mon, 08 Mar 2021 16:22:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My first Node Project - a simple timestamp microservice]]></title>
-            <link>https://github.com/KuthumiPepple/timestamp-microservice</link>
-            <guid>https://github.com/KuthumiPepple/timestamp-microservice</guid>
-            <pubDate>Mon, 08 Mar 2021 15:33:17 GMT</pubDate>
         </item>
     </channel>
 </rss>

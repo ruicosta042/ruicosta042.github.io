@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Tue, 09 Mar 2021 07:48:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Mar 2021 13:07:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,22 @@
             <pubDate>Mon, 08 Mar 2021 10:04:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Stoxy, a reactive State Management API equipped with Web Components]]></title>
+            <link>https://stoxy.dev/</link>
+            <guid>https://stoxy.dev/</guid>
+            <pubDate>Tue, 09 Mar 2021 12:27:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Taro - a lightweight 3D game engine for the web]]></title>
             <link>https://github.com/Cloud9c/taro</link>
             <guid>https://github.com/Cloud9c/taro</guid>
             <pubDate>Mon, 08 Mar 2021 06:00:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stop Wasting Your Life Chasing Bugs, With This Simple Kickass Technique.]]></title>
+            <link>https://suzdalnitski.medium.com/terrible-coding-mistake-aa1fbebd83b4</link>
+            <guid>https://suzdalnitski.medium.com/terrible-coding-mistake-aa1fbebd83b4</guid>
+            <pubDate>Tue, 09 Mar 2021 11:18:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[AskJS] What do people think of Ramda or other functional libraries for JS?]]></title>

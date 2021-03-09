@@ -4,7 +4,7 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Tue, 09 Mar 2021 07:48:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Mar 2021 13:07:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -91,12 +91,6 @@
             <link>https://wim-jongeneel.medium.com/create-a-sharepoint-file-picker-in-react-with-microsoft-graph-and-fluent-ui-8653e3342942?source=friends_link&amp;sk=65a8a47ce20996b0e8571e72d7b272c0</link>
             <guid>https://wim-jongeneel.medium.com/create-a-sharepoint-file-picker-in-react-with-microsoft-graph-and-fluent-ui-8653e3342942?source=friends_link&amp;sk=65a8a47ce20996b0e8571e72d7b272c0</guid>
             <pubDate>Wed, 03 Mar 2021 22:30:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TypeORM - it's not what you think.]]></title>
-            <link>https://github.com/prisma/prisma</link>
-            <guid>https://github.com/prisma/prisma</guid>
-            <pubDate>Wed, 03 Mar 2021 02:52:05 GMT</pubDate>
         </item>
     </channel>
 </rss>

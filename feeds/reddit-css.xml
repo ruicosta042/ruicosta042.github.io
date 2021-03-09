@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Tue, 09 Mar 2021 07:48:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Mar 2021 13:07:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -27,16 +27,16 @@
             <pubDate>Mon, 08 Mar 2021 22:00:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A very hands-on approach to styling web applications with TailwindCSS]]></title>
-            <link>https://tsh.io/blog/tailwind-css-tutorial/</link>
-            <guid>https://tsh.io/blog/tailwind-css-tutorial/</guid>
-            <pubDate>Mon, 08 Mar 2021 20:31:46 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[You want enabling CSS selectors, not disabling ones]]></title>
             <link>https://www.silvestar.codes/articles/you-want-a-single-enabling-selector-not-the-one-that-disables-the-rule-of-the-previous-one/</link>
             <guid>https://www.silvestar.codes/articles/you-want-a-single-enabling-selector-not-the-one-that-disables-the-rule-of-the-previous-one/</guid>
             <pubDate>Mon, 08 Mar 2021 15:02:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A very hands-on approach to styling web applications with TailwindCSS]]></title>
+            <link>https://tsh.io/blog/tailwind-css-tutorial/</link>
+            <guid>https://tsh.io/blog/tailwind-css-tutorial/</guid>
+            <pubDate>Mon, 08 Mar 2021 20:31:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Simple Ways to Fake Masonry in CSS]]></title>

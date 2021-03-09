@@ -4,10 +4,16 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Tue, 09 Mar 2021 13:07:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Mar 2021 19:46:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[CSS not functional with my live server code.]]></title>
+            <link>https://codeshare.io/217JDB</link>
+            <guid>https://codeshare.io/217JDB</guid>
+            <pubDate>Tue, 09 Mar 2021 14:44:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[An Interactive Guide to CSS Grid]]></title>
             <link>https://fjolt.com/article/a-guide-to-css-grid</link>
@@ -15,16 +21,16 @@
             <pubDate>Mon, 08 Mar 2021 13:41:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Complete CSS Flex Tutorial]]></title>
-            <link>https://semicolon.dev/tutorial/css/complete-css-flex-tutorial</link>
-            <guid>https://semicolon.dev/tutorial/css/complete-css-flex-tutorial</guid>
-            <pubDate>Mon, 08 Mar 2021 23:55:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Responsive page works on bigger 1080p monitor, but fails on smaller 1080p laptops.]]></title>
             <link>https://github.com/DenzelDb/CSS-question/tree/master/site%20test</link>
             <guid>https://github.com/DenzelDb/CSS-question/tree/master/site%20test</guid>
             <pubDate>Mon, 08 Mar 2021 22:00:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Complete CSS Flex Tutorial]]></title>
+            <link>https://semicolon.dev/tutorial/css/complete-css-flex-tutorial</link>
+            <guid>https://semicolon.dev/tutorial/css/complete-css-flex-tutorial</guid>
+            <pubDate>Mon, 08 Mar 2021 23:55:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[You want enabling CSS selectors, not disabling ones]]></title>
@@ -73,12 +79,6 @@
             <link>https://github.com/Jerome-Saltmarsh/flexbox-plus</link>
             <guid>https://github.com/Jerome-Saltmarsh/flexbox-plus</guid>
             <pubDate>Sun, 07 Mar 2021 10:00:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Styling child component from a parent in Angular]]></title>
-            <link>https://michalmuszynski.com/blog/styling-child-component-from-parent-in-angular/</link>
-            <guid>https://michalmuszynski.com/blog/styling-child-component-from-parent-in-angular/</guid>
-            <pubDate>Sun, 07 Mar 2021 10:59:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Tue, 09 Mar 2021 13:07:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Mar 2021 19:46:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -79,18 +79,6 @@
             <link>https://benoitboure.com/how-to-use-typescript-with-appsync-lambda-resolvers</link>
             <guid>https://benoitboure.com/how-to-use-typescript-with-appsync-lambda-resolvers</guid>
             <pubDate>Thu, 04 Mar 2021 05:04:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A brand new TypeScript Open-Source project is looking for beta-testers]]></title>
-            <link>https://www.graphql-portal.com/</link>
-            <guid>https://www.graphql-portal.com/</guid>
-            <pubDate>Thu, 04 Mar 2021 15:15:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Create a SharePoint File Picker in React with Microsoft Graph and Fluent UI]]></title>
-            <link>https://wim-jongeneel.medium.com/create-a-sharepoint-file-picker-in-react-with-microsoft-graph-and-fluent-ui-8653e3342942?source=friends_link&amp;sk=65a8a47ce20996b0e8571e72d7b272c0</link>
-            <guid>https://wim-jongeneel.medium.com/create-a-sharepoint-file-picker-in-react-with-microsoft-graph-and-fluent-ui-8653e3342942?source=friends_link&amp;sk=65a8a47ce20996b0e8571e72d7b272c0</guid>
-            <pubDate>Wed, 03 Mar 2021 22:30:51 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Tue, 09 Mar 2021 13:07:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Mar 2021 19:46:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,12 @@
             <link>https://javascript.plainenglish.io/unit-testing-node-js-mongoose-using-jest-106a39b8393d</link>
             <guid>https://javascript.plainenglish.io/unit-testing-node-js-mongoose-using-jest-106a39b8393d</guid>
             <pubDate>Tue, 09 Mar 2021 04:35:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Looking for backend devs for low-code product interview]]></title>
+            <link>https://docs.google.com/forms/d/e/1FAIpQLSfpGwDnKxigNclFNxX_r7tK1WOpgeWWmuKVP4LdnTlCigcr0w/viewform</link>
+            <guid>https://docs.google.com/forms/d/e/1FAIpQLSfpGwDnKxigNclFNxX_r7tK1WOpgeWWmuKVP4LdnTlCigcr0w/viewform</guid>
+            <pubDate>Tue, 09 Mar 2021 16:08:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I never studied CS but I implemented Heap, Trie, QuickSelect, SkipList and more CS algorithms and data structures in NodeJS.]]></title>
@@ -55,12 +61,6 @@
             <link>https://wanago.io/2021/03/08/api-nestjs-two-factor-authentication/</link>
             <guid>https://wanago.io/2021/03/08/api-nestjs-two-factor-authentication/</guid>
             <pubDate>Mon, 08 Mar 2021 17:18:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Death of a Node.js Process]]></title>
-            <link>https://thomashunter.name/posts/2021-03-08-the-death-of-a-nodejs-process</link>
-            <guid>https://thomashunter.name/posts/2021-03-08-the-death-of-a-nodejs-process</guid>
-            <pubDate>Mon, 08 Mar 2021 16:22:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

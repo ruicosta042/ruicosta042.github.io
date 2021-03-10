@@ -4,10 +4,22 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Wed, 10 Mar 2021 13:02:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Mar 2021 19:50:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Building serverless applications got a whole lot easier - Webiny 5.0 is now live. DynamoDB support, VPC deployment, Elasticsearch, and much more.]]></title>
+            <link>https://www.producthunt.com/posts/webiny-5-0#Serverless</link>
+            <guid>https://www.producthunt.com/posts/webiny-5-0#Serverless</guid>
+            <pubDate>Wed, 10 Mar 2021 13:16:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I made a Node.js implementation of the Gothinkster Realworld project (Koa/Typescript/TypeORM)]]></title>
+            <link>https://github.com/eflem00/koa-boilerplate</link>
+            <guid>https://github.com/eflem00/koa-boilerplate</guid>
+            <pubDate>Wed, 10 Mar 2021 19:32:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Node.js Lesson 17: Timers, Differences from Browser, ref and ref]]></title>
             <link>https://soshace.com/node-js-lessons-timers-ref/</link>
@@ -21,10 +33,34 @@
             <pubDate>Wed, 10 Mar 2021 11:37:50 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Email & password authentication with accounts-js and Apollo Server]]></title>
+            <link>https://www.apollographql.com/blog/email-password-authentication-with-accounts-js-and-apollo-server/</link>
+            <guid>https://www.apollographql.com/blog/email-password-authentication-with-accounts-js-and-apollo-server/</guid>
+            <pubDate>Wed, 10 Mar 2021 16:46:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Amazon EKS: Deploying a NodeJS app using Docker and K8s on AWS]]></title>
             <link>https://techblog.geekyants.com/amazon-eks-deploying-a-nodejs-app-using-docker-and-k8s-on-aws</link>
             <guid>https://techblog.geekyants.com/amazon-eks-deploying-a-nodejs-app-using-docker-and-k8s-on-aws</guid>
             <pubDate>Wed, 10 Mar 2021 07:48:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Socket.io 2.3.0 vulnerability]]></title>
+            <link>https://socket.io/</link>
+            <guid>https://socket.io/</guid>
+            <pubDate>Wed, 10 Mar 2021 14:42:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Powerful Caching with Redis for Node.js Applications]]></title>
+            <link>https://blog.appsignal.com/2021/03/10/powerful-caching-with-redis-for-nodejs-applications.html</link>
+            <guid>https://blog.appsignal.com/2021/03/10/powerful-caching-with-redis-for-nodejs-applications.html</guid>
+            <pubDate>Wed, 10 Mar 2021 13:56:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Efficient Ways to Clone objects in JavaScript in 2021]]></title>
+            <link>https://javascript.plainenglish.io/the-most-efficient-ways-to-clone-objects-in-javascript-2021-c8e4d04096a5</link>
+            <guid>https://javascript.plainenglish.io/the-most-efficient-ways-to-clone-objects-in-javascript-2021-c8e4d04096a5</guid>
+            <pubDate>Wed, 10 Mar 2021 13:16:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nodejs vs Python – Which is the Best Option for Web App Development?]]></title>
@@ -55,42 +91,6 @@
             <link>https://developer.apple.com/forums/thread/675689</link>
             <guid>https://developer.apple.com/forums/thread/675689</guid>
             <pubDate>Wed, 10 Mar 2021 03:22:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Unit Testing Node.js + Mongoose Using Jest]]></title>
-            <link>https://javascript.plainenglish.io/unit-testing-node-js-mongoose-using-jest-106a39b8393d</link>
-            <guid>https://javascript.plainenglish.io/unit-testing-node-js-mongoose-using-jest-106a39b8393d</guid>
-            <pubDate>Tue, 09 Mar 2021 04:35:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hiring Snr NodeJS/React Dev in Sydney]]></title>
-            <link>https://faethm.bamboohr.com/jobs/view.php?id=75</link>
-            <guid>https://faethm.bamboohr.com/jobs/view.php?id=75</guid>
-            <pubDate>Tue, 09 Mar 2021 22:52:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Important array methods in JavaScript - HtoStudios]]></title>
-            <link>https://www.htostudios.com/articles/Important-array-methods-in-javascript/</link>
-            <guid>https://www.htostudios.com/articles/Important-array-methods-in-javascript/</guid>
-            <pubDate>Wed, 10 Mar 2021 01:47:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FEDAI: A helper bot/userbot for WhatsApp! With ton of features.]]></title>
-            <link>https://github.com/MuhammedKpln/Fedai-userbot</link>
-            <guid>https://github.com/MuhammedKpln/Fedai-userbot</guid>
-            <pubDate>Tue, 09 Mar 2021 21:58:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Moving from Salesforce Commerce Cloud to Microservices-Based Commerce]]></title>
-            <link>https://resources.fabric.inc/blog/salesforce-commerce-to-microservices</link>
-            <guid>https://resources.fabric.inc/blog/salesforce-commerce-to-microservices</guid>
-            <pubDate>Tue, 09 Mar 2021 21:09:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Looking for backend devs for low-code product interview]]></title>
-            <link>https://docs.google.com/forms/d/e/1FAIpQLSfpGwDnKxigNclFNxX_r7tK1WOpgeWWmuKVP4LdnTlCigcr0w/viewform</link>
-            <guid>https://docs.google.com/forms/d/e/1FAIpQLSfpGwDnKxigNclFNxX_r7tK1WOpgeWWmuKVP4LdnTlCigcr0w/viewform</guid>
-            <pubDate>Tue, 09 Mar 2021 16:08:34 GMT</pubDate>
         </item>
     </channel>
 </rss>

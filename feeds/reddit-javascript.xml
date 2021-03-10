@@ -4,10 +4,28 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Wed, 10 Mar 2021 13:02:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Mar 2021 19:50:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Introducing Necktie – a simple and small (~ 3kB) DOM binding tool]]></title>
+            <link>https://github.com/leshniak/necktie</link>
+            <guid>https://github.com/leshniak/necktie</guid>
+            <pubDate>Wed, 10 Mar 2021 12:33:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SHOWOFF - I made a note-taking extension for Firefox in JS]]></title>
+            <link>https://addons.mozilla.org/en-US/firefox/addon/local-note/</link>
+            <guid>https://addons.mozilla.org/en-US/firefox/addon/local-note/</guid>
+            <pubDate>Wed, 10 Mar 2021 18:09:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ts-audio v0.45 is out!]]></title>
+            <link>https://github.com/EvandroLG/ts-audio/releases/tag/v0.4.7</link>
+            <guid>https://github.com/EvandroLG/ts-audio/releases/tag/v0.4.7</guid>
+            <pubDate>Wed, 10 Mar 2021 11:22:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[React authentication, simplified]]></title>
             <link>https://davidwalsh.name/react-authentication-2</link>
@@ -21,10 +39,22 @@
             <pubDate>Tue, 09 Mar 2021 17:49:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Email & password authentication with accounts-js and Apollo Server]]></title>
+            <link>https://www.apollographql.com/blog/email-password-authentication-with-accounts-js-and-apollo-server/</link>
+            <guid>https://www.apollographql.com/blog/email-password-authentication-with-accounts-js-and-apollo-server/</guid>
+            <pubDate>Wed, 10 Mar 2021 16:45:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Stoxy, a reactive State Management API equipped with Web Components]]></title>
             <link>https://stoxy.dev/</link>
             <guid>https://stoxy.dev/</guid>
             <pubDate>Tue, 09 Mar 2021 12:27:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Node.js native ESM support for Underscore.js, available for tryout through npm install underscore@preview]]></title>
+            <link>https://github.com/jashkenas/underscore/pull/2914</link>
+            <guid>https://github.com/jashkenas/underscore/pull/2914</guid>
+            <pubDate>Wed, 10 Mar 2021 03:11:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jest website upgraded to Docusaurus v2]]></title>
@@ -39,24 +69,6 @@
             <pubDate>Tue, 09 Mar 2021 16:33:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Introducing Necktie – a simple and small (~ 3kB) DOM binding tool]]></title>
-            <link>https://github.com/leshniak/necktie</link>
-            <guid>https://github.com/leshniak/necktie</guid>
-            <pubDate>Wed, 10 Mar 2021 12:33:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Node.js native ESM support for Underscore.js, available for tryout through npm install underscore@preview]]></title>
-            <link>https://github.com/jashkenas/underscore/pull/2914</link>
-            <guid>https://github.com/jashkenas/underscore/pull/2914</guid>
-            <pubDate>Wed, 10 Mar 2021 03:11:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ts-audio v0.45 is out!]]></title>
-            <link>https://github.com/EvandroLG/ts-audio/releases/tag/v0.4.7</link>
-            <guid>https://github.com/EvandroLG/ts-audio/releases/tag/v0.4.7</guid>
-            <pubDate>Wed, 10 Mar 2021 11:22:36 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Releasing Docusaurus v2 i18n: translate your docs websites easily!]]></title>
             <link>https://v2.docusaurus.io/blog/2021/03/09/releasing-docusaurus-i18n</link>
             <guid>https://v2.docusaurus.io/blog/2021/03/09/releasing-docusaurus-i18n</guid>
@@ -67,12 +79,6 @@
             <link>https://www.smashingmagazine.com/2021/03/modeling-graphql-api-blog-webiny-serverless-cms/</link>
             <guid>https://www.smashingmagazine.com/2021/03/modeling-graphql-api-blog-webiny-serverless-cms/</guid>
             <pubDate>Tue, 09 Mar 2021 17:22:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Angular, React, Vue: JavaScript frameworks compared]]></title>
-            <link>https://www.infoworld.com/article/3606737/angular-react-vue-javascript-frameworks-compared.html</link>
-            <guid>https://www.infoworld.com/article/3606737/angular-react-vue-javascript-frameworks-compared.html</guid>
-            <pubDate>Tue, 09 Mar 2021 18:59:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Supercharge JavaScript with WebAssembly - Free Meetup - March 11, Noon ET (GMT -5)]]></title>
@@ -87,10 +93,10 @@
             <pubDate>Tue, 09 Mar 2021 21:43:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Important array methods in JavaScript - HtoStudios]]></title>
-            <link>https://www.htostudios.com/articles/Important-array-methods-in-javascript/</link>
-            <guid>https://www.htostudios.com/articles/Important-array-methods-in-javascript/</guid>
-            <pubDate>Wed, 10 Mar 2021 01:40:21 GMT</pubDate>
+            <title><![CDATA[Angular, React, Vue: JavaScript frameworks compared]]></title>
+            <link>https://www.infoworld.com/article/3606737/angular-react-vue-javascript-frameworks-compared.html</link>
+            <guid>https://www.infoworld.com/article/3606737/angular-react-vue-javascript-frameworks-compared.html</guid>
+            <pubDate>Tue, 09 Mar 2021 18:59:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Taro - a lightweight 3D game engine for the web]]></title>
@@ -109,12 +115,6 @@
             <link>https://nitayneeman.com/posts/introducing-dynamic-imports-in-ecmascript-2020/</link>
             <guid>https://nitayneeman.com/posts/introducing-dynamic-imports-in-ecmascript-2020/</guid>
             <pubDate>Mon, 08 Mar 2021 07:33:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stop Wasting Your Life Chasing Bugs, With This Simple Kickass Technique.]]></title>
-            <link>https://suzdalnitski.medium.com/terrible-coding-mistake-aa1fbebd83b4</link>
-            <guid>https://suzdalnitski.medium.com/terrible-coding-mistake-aa1fbebd83b4</guid>
-            <pubDate>Tue, 09 Mar 2021 11:18:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Porting Kotlin Coroutines library to JavaScript]]></title>

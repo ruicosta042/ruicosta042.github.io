@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Tue, 09 Mar 2021 19:46:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Mar 2021 07:48:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -67,18 +67,6 @@
             <link>https://www.myfreeonlinecourses.com/2021/03/100-off-complete-html-bootcamp-2021.html</link>
             <guid>https://www.myfreeonlinecourses.com/2021/03/100-off-complete-html-bootcamp-2021.html</guid>
             <pubDate>Mon, 08 Mar 2021 14:35:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Exploring @property and its Animating Powers]]></title>
-            <link>https://css-tricks.com/exploring-property-and-its-animating-powers/</link>
-            <guid>https://css-tricks.com/exploring-property-and-its-animating-powers/</guid>
-            <pubDate>Mon, 08 Mar 2021 10:28:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introducing Flexboxplus.css (Feedback requested)]]></title>
-            <link>https://github.com/Jerome-Saltmarsh/flexbox-plus</link>
-            <guid>https://github.com/Jerome-Saltmarsh/flexbox-plus</guid>
-            <pubDate>Sun, 07 Mar 2021 10:00:19 GMT</pubDate>
         </item>
     </channel>
 </rss>

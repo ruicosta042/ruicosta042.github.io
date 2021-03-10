@@ -4,10 +4,28 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Tue, 09 Mar 2021 19:46:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Mar 2021 07:48:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Relay adds support for Typescript]]></title>
+            <link>https://relay.dev/blog/2021/03/09/introducing-relay-hooks/</link>
+            <guid>https://relay.dev/blog/2021/03/09/introducing-relay-hooks/</guid>
+            <pubDate>Wed, 10 Mar 2021 02:06:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[typed-react-form: A fast, completely type-checked React form builder.]]></title>
+            <link>https://github.com/CodeStix/typed-react-form</link>
+            <guid>https://github.com/CodeStix/typed-react-form</guid>
+            <pubDate>Tue, 09 Mar 2021 22:33:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[User-defined type guards in TypeScript]]></title>
+            <link>https://gcollazo.com/user-defined-type-guards-in-typescript/</link>
+            <guid>https://gcollazo.com/user-defined-type-guards-in-typescript/</guid>
+            <pubDate>Wed, 10 Mar 2021 01:53:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to write a React Component in TypeScript]]></title>
             <link>https://kentcdodds.com/blog/how-to-write-a-react-component-in-typescript</link>
@@ -67,18 +85,6 @@
             <link>https://twitter.com/GitHubTracker/status/1367369294800158720?s=20</link>
             <guid>https://twitter.com/GitHubTracker/status/1367369294800158720?s=20</guid>
             <pubDate>Thu, 04 Mar 2021 10:38:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[6 Ways to Create Objects in Javascript — Intro to Object & Prototype]]></title>
-            <link>https://beforesemicolon.medium.com/6-ways-to-create-objects-in-javascript-intro-to-object-prototype-5fe8dc657071</link>
-            <guid>https://beforesemicolon.medium.com/6-ways-to-create-objects-in-javascript-intro-to-object-prototype-5fe8dc657071</guid>
-            <pubDate>Thu, 04 Mar 2021 18:28:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to use TypeScript with AppSync Lambda Resolvers]]></title>
-            <link>https://benoitboure.com/how-to-use-typescript-with-appsync-lambda-resolvers</link>
-            <guid>https://benoitboure.com/how-to-use-typescript-with-appsync-lambda-resolvers</guid>
-            <pubDate>Thu, 04 Mar 2021 05:04:21 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,15 +4,57 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Tue, 09 Mar 2021 19:46:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Mar 2021 07:48:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[FIX - Error: Node Sass does not yet support your current environment: OS X 64-bit with Unsupported runtime (88)]]></title>
+            <link>https://blog.marclucraft.co.uk/revealjs-setup-error-fix</link>
+            <guid>https://blog.marclucraft.co.uk/revealjs-setup-error-fix</guid>
+            <pubDate>Wed, 10 Mar 2021 06:43:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Powerful logging with Pino and AsyncLocalStorage in Node.js]]></title>
+            <link>https://maximorlov.com/logging-with-pino-and-asynclocalstorage-in-nodejs/</link>
+            <guid>https://maximorlov.com/logging-with-pino-and-asynclocalstorage-in-nodejs/</guid>
+            <pubDate>Tue, 09 Mar 2021 22:43:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Image Upload from Mobile to AWS S3]]></title>
+            <link>https://developer.apple.com/forums/thread/675689</link>
+            <guid>https://developer.apple.com/forums/thread/675689</guid>
+            <pubDate>Wed, 10 Mar 2021 03:22:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Unit Testing Node.js + Mongoose Using Jest]]></title>
             <link>https://javascript.plainenglish.io/unit-testing-node-js-mongoose-using-jest-106a39b8393d</link>
             <guid>https://javascript.plainenglish.io/unit-testing-node-js-mongoose-using-jest-106a39b8393d</guid>
             <pubDate>Tue, 09 Mar 2021 04:35:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Important array methods in JavaScript - HtoStudios]]></title>
+            <link>https://www.htostudios.com/articles/Important-array-methods-in-javascript/</link>
+            <guid>https://www.htostudios.com/articles/Important-array-methods-in-javascript/</guid>
+            <pubDate>Wed, 10 Mar 2021 01:47:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hiring Snr NodeJS/React Dev in Sydney]]></title>
+            <link>https://faethm.bamboohr.com/jobs/view.php?id=75</link>
+            <guid>https://faethm.bamboohr.com/jobs/view.php?id=75</guid>
+            <pubDate>Tue, 09 Mar 2021 22:52:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FEDAI: A helper bot/userbot for WhatsApp! With ton of features.]]></title>
+            <link>https://github.com/MuhammedKpln/Fedai-userbot</link>
+            <guid>https://github.com/MuhammedKpln/Fedai-userbot</guid>
+            <pubDate>Tue, 09 Mar 2021 21:58:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Moving from Salesforce Commerce Cloud to Microservices-Based Commerce]]></title>
+            <link>https://resources.fabric.inc/blog/salesforce-commerce-to-microservices</link>
+            <guid>https://resources.fabric.inc/blog/salesforce-commerce-to-microservices</guid>
+            <pubDate>Tue, 09 Mar 2021 21:09:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Looking for backend devs for low-code product interview]]></title>
@@ -37,30 +79,6 @@
             <link>https://smallpdf.com/blog/how-to-save-powerpoint-as-pdf-with-notes</link>
             <guid>https://smallpdf.com/blog/how-to-save-powerpoint-as-pdf-with-notes</guid>
             <pubDate>Tue, 09 Mar 2021 10:54:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why was "request" deprecated from the node ecosphere?]]></title>
-            <link>https://github.com/request/request</link>
-            <guid>https://github.com/request/request</guid>
-            <pubDate>Tue, 09 Mar 2021 00:16:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Best Way to Approach Realtime App that Recieves data from another app]]></title>
-            <link>https://socket.io/</link>
-            <guid>https://socket.io/</guid>
-            <pubDate>Mon, 08 Mar 2021 20:24:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NodeJS C++ client node-firebird-libfbclient v.0.1.5 released with a few fixes.]]></title>
-            <link>https://www.npmjs.com/package/firebird/v/0.1.5</link>
-            <guid>https://www.npmjs.com/package/firebird/v/0.1.5</guid>
-            <pubDate>Mon, 08 Mar 2021 09:05:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[API with NestJS #31. Two-factor authentication]]></title>
-            <link>https://wanago.io/2021/03/08/api-nestjs-two-factor-authentication/</link>
-            <guid>https://wanago.io/2021/03/08/api-nestjs-two-factor-authentication/</guid>
-            <pubDate>Mon, 08 Mar 2021 17:18:30 GMT</pubDate>
         </item>
     </channel>
 </rss>

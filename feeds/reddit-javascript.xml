@@ -4,16 +4,10 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Wed, 10 Mar 2021 07:48:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Mar 2021 13:02:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
-        <item>
-            <title><![CDATA[Your /r/javascript recap for the week of March 01 - March 07]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Mon, 08 Mar 2021 10:04:49 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[React authentication, simplified]]></title>
             <link>https://davidwalsh.name/react-authentication-2</link>
@@ -33,22 +27,34 @@
             <pubDate>Tue, 09 Mar 2021 12:27:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Webpack 5 and next-gen tooling for Storybook]]></title>
-            <link>https://storybook.js.org/blog/storybook-for-webpack-5/</link>
-            <guid>https://storybook.js.org/blog/storybook-for-webpack-5/</guid>
-            <pubDate>Tue, 09 Mar 2021 16:33:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Jest website upgraded to Docusaurus v2]]></title>
             <link>https://jestjs.io/blog/2021/03/09/jest-website-upgrade</link>
             <guid>https://jestjs.io/blog/2021/03/09/jest-website-upgrade</guid>
             <pubDate>Tue, 09 Mar 2021 20:29:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Webpack 5 and next-gen tooling for Storybook]]></title>
+            <link>https://storybook.js.org/blog/storybook-for-webpack-5/</link>
+            <guid>https://storybook.js.org/blog/storybook-for-webpack-5/</guid>
+            <pubDate>Tue, 09 Mar 2021 16:33:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing Necktie – a simple and small (~ 3kB) DOM binding tool]]></title>
+            <link>https://github.com/leshniak/necktie</link>
+            <guid>https://github.com/leshniak/necktie</guid>
+            <pubDate>Wed, 10 Mar 2021 12:33:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Node.js native ESM support for Underscore.js, available for tryout through npm install underscore@preview]]></title>
             <link>https://github.com/jashkenas/underscore/pull/2914</link>
             <guid>https://github.com/jashkenas/underscore/pull/2914</guid>
             <pubDate>Wed, 10 Mar 2021 03:11:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ts-audio v0.45 is out!]]></title>
+            <link>https://github.com/EvandroLG/ts-audio/releases/tag/v0.4.7</link>
+            <guid>https://github.com/EvandroLG/ts-audio/releases/tag/v0.4.7</guid>
+            <pubDate>Wed, 10 Mar 2021 11:22:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Releasing Docusaurus v2 i18n: translate your docs websites easily!]]></title>
@@ -63,12 +69,6 @@
             <pubDate>Tue, 09 Mar 2021 17:22:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I designed and coded this online puzzlebox in JavaScript with some jquery for animations. (Not for mobile, requires right-clicking.) I made use of SHA-hashes to not leave the solution to the different puzzles visible in the code.]]></title>
-            <link>https://fubargames.se/gears/</link>
-            <guid>https://fubargames.se/gears/</guid>
-            <pubDate>Wed, 10 Mar 2021 01:09:41 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Angular, React, Vue: JavaScript frameworks compared]]></title>
             <link>https://www.infoworld.com/article/3606737/angular-react-vue-javascript-frameworks-compared.html</link>
             <guid>https://www.infoworld.com/article/3606737/angular-react-vue-javascript-frameworks-compared.html</guid>
@@ -81,16 +81,16 @@
             <pubDate>Tue, 09 Mar 2021 14:40:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Important array methods in JavaScript - HtoStudios]]></title>
-            <link>https://www.htostudios.com/articles/Important-array-methods-in-javascript/</link>
-            <guid>https://www.htostudios.com/articles/Important-array-methods-in-javascript/</guid>
-            <pubDate>Wed, 10 Mar 2021 01:40:21 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[AI-powered surveillance for businesses.]]></title>
             <link>http://github.com/MarcoSteinke/Security-Cam</link>
             <guid>http://github.com/MarcoSteinke/Security-Cam</guid>
             <pubDate>Tue, 09 Mar 2021 21:43:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Important array methods in JavaScript - HtoStudios]]></title>
+            <link>https://www.htostudios.com/articles/Important-array-methods-in-javascript/</link>
+            <guid>https://www.htostudios.com/articles/Important-array-methods-in-javascript/</guid>
+            <pubDate>Wed, 10 Mar 2021 01:40:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Taro - a lightweight 3D game engine for the web]]></title>
@@ -123,6 +123,12 @@
             <pubDate>Sun, 07 Mar 2021 15:31:38 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Your /r/javascript recap for the week of March 01 - March 07]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Mon, 08 Mar 2021 10:04:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Mobx Reaction Control - wrapper enabling dynamic Mobx reactivity control]]></title>
             <link>https://github.com/lukigarazus/mobx-reaction-control</link>
             <guid>https://github.com/lukigarazus/mobx-reaction-control</guid>
@@ -133,18 +139,6 @@
             <link>https://turbo-showcase.herokuapp.com/</link>
             <guid>https://turbo-showcase.herokuapp.com/</guid>
             <pubDate>Sun, 07 Mar 2021 23:00:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kataw An insane fast Javascript toolchain supporting both Javascript and Typescript.]]></title>
-            <link>https://github.com/kataw/kataw</link>
-            <guid>https://github.com/kataw/kataw</guid>
-            <pubDate>Sun, 07 Mar 2021 21:20:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Killblanks Use pre-rendering and skeleton screen to solve page white screen problem]]></title>
-            <link>https://warpcgd.github.io/killblanks</link>
-            <guid>https://warpcgd.github.io/killblanks</guid>
-            <pubDate>Mon, 08 Mar 2021 03:33:53 GMT</pubDate>
         </item>
     </channel>
 </rss>

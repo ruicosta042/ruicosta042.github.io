@@ -4,21 +4,51 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Wed, 10 Mar 2021 07:48:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Mar 2021 13:02:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[FIX - Error: Node Sass does not yet support your current environment: OS X 64-bit with Unsupported runtime (88)]]></title>
-            <link>https://blog.marclucraft.co.uk/revealjs-setup-error-fix</link>
-            <guid>https://blog.marclucraft.co.uk/revealjs-setup-error-fix</guid>
-            <pubDate>Wed, 10 Mar 2021 06:43:20 GMT</pubDate>
+            <title><![CDATA[Node.js Lesson 17: Timers, Differences from Browser, ref and ref]]></title>
+            <link>https://soshace.com/node-js-lessons-timers-ref/</link>
+            <guid>https://soshace.com/node-js-lessons-timers-ref/</guid>
+            <pubDate>Wed, 10 Mar 2021 09:01:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Writing CommonJs modules]]></title>
+            <link>https://gist.github.com/weirdyang/41ebcea1cf76836f732788c2f07a3f6e</link>
+            <guid>https://gist.github.com/weirdyang/41ebcea1cf76836f732788c2f07a3f6e</guid>
+            <pubDate>Wed, 10 Mar 2021 11:37:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Amazon EKS: Deploying a NodeJS app using Docker and K8s on AWS]]></title>
+            <link>https://techblog.geekyants.com/amazon-eks-deploying-a-nodejs-app-using-docker-and-k8s-on-aws</link>
+            <guid>https://techblog.geekyants.com/amazon-eks-deploying-a-nodejs-app-using-docker-and-k8s-on-aws</guid>
+            <pubDate>Wed, 10 Mar 2021 07:48:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nodejs vs Python – Which is the Best Option for Web App Development?]]></title>
+            <link>https://www.tekkiwebsolutions.com/blog/nodejs-vs-python/</link>
+            <guid>https://www.tekkiwebsolutions.com/blog/nodejs-vs-python/</guid>
+            <pubDate>Wed, 10 Mar 2021 10:42:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Powerful logging with Pino and AsyncLocalStorage in Node.js]]></title>
             <link>https://maximorlov.com/logging-with-pino-and-asynclocalstorage-in-nodejs/</link>
             <guid>https://maximorlov.com/logging-with-pino-and-asynclocalstorage-in-nodejs/</guid>
             <pubDate>Tue, 09 Mar 2021 22:43:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Foal framework - Configuration, environment variables and type safety]]></title>
+            <link>https://foalts.org/</link>
+            <guid>https://foalts.org/</guid>
+            <pubDate>Wed, 10 Mar 2021 09:31:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FIX - Error: Node Sass does not yet support your current environment: OS X 64-bit with Unsupported runtime (88)]]></title>
+            <link>https://blog.marclucraft.co.uk/revealjs-setup-error-fix</link>
+            <guid>https://blog.marclucraft.co.uk/revealjs-setup-error-fix</guid>
+            <pubDate>Wed, 10 Mar 2021 06:43:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Image Upload from Mobile to AWS S3]]></title>
@@ -33,16 +63,16 @@
             <pubDate>Tue, 09 Mar 2021 04:35:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Important array methods in JavaScript - HtoStudios]]></title>
-            <link>https://www.htostudios.com/articles/Important-array-methods-in-javascript/</link>
-            <guid>https://www.htostudios.com/articles/Important-array-methods-in-javascript/</guid>
-            <pubDate>Wed, 10 Mar 2021 01:47:24 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Hiring Snr NodeJS/React Dev in Sydney]]></title>
             <link>https://faethm.bamboohr.com/jobs/view.php?id=75</link>
             <guid>https://faethm.bamboohr.com/jobs/view.php?id=75</guid>
             <pubDate>Tue, 09 Mar 2021 22:52:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Important array methods in JavaScript - HtoStudios]]></title>
+            <link>https://www.htostudios.com/articles/Important-array-methods-in-javascript/</link>
+            <guid>https://www.htostudios.com/articles/Important-array-methods-in-javascript/</guid>
+            <pubDate>Wed, 10 Mar 2021 01:47:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[FEDAI: A helper bot/userbot for WhatsApp! With ton of features.]]></title>
@@ -61,24 +91,6 @@
             <link>https://docs.google.com/forms/d/e/1FAIpQLSfpGwDnKxigNclFNxX_r7tK1WOpgeWWmuKVP4LdnTlCigcr0w/viewform</link>
             <guid>https://docs.google.com/forms/d/e/1FAIpQLSfpGwDnKxigNclFNxX_r7tK1WOpgeWWmuKVP4LdnTlCigcr0w/viewform</guid>
             <pubDate>Tue, 09 Mar 2021 16:08:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I never studied CS but I implemented Heap, Trie, QuickSelect, SkipList and more CS algorithms and data structures in NodeJS.]]></title>
-            <link>https://github.com/i5ik/cs.js</link>
-            <guid>https://github.com/i5ik/cs.js</guid>
-            <pubDate>Mon, 08 Mar 2021 13:12:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What's the Average Node.js Developer Salary in the USA, Europe and in other countries of the world]]></title>
-            <link>https://ddi-dev.com/blog/programming/average-node-js-developer-salary-in-the-usa-europe-and-in-other-countries/</link>
-            <guid>https://ddi-dev.com/blog/programming/average-node-js-developer-salary-in-the-usa-europe-and-in-other-countries/</guid>
-            <pubDate>Tue, 09 Mar 2021 12:42:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Extracting notes of a slide from a ppt file]]></title>
-            <link>https://smallpdf.com/blog/how-to-save-powerpoint-as-pdf-with-notes</link>
-            <guid>https://smallpdf.com/blog/how-to-save-powerpoint-as-pdf-with-notes</guid>
-            <pubDate>Tue, 09 Mar 2021 10:54:15 GMT</pubDate>
         </item>
     </channel>
 </rss>

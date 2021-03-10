@@ -4,10 +4,22 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Wed, 10 Mar 2021 07:48:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Mar 2021 13:02:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Programmatically Generate Images with CSS Painting API]]></title>
+            <link>https://blog.bitsrc.io/programmatically-generate-images-with-css-painting-api-3b1a860dae3b</link>
+            <guid>https://blog.bitsrc.io/programmatically-generate-images-with-css-painting-api-3b1a860dae3b</guid>
+            <pubDate>Wed, 10 Mar 2021 12:57:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Conic.css - nice, simple conic gradients]]></title>
+            <link>https://conic.style/</link>
+            <guid>https://conic.style/</guid>
+            <pubDate>Wed, 10 Mar 2021 12:54:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[CSS not functional with my live server code.]]></title>
             <link>https://codeshare.io/217JDB</link>
@@ -49,24 +61,6 @@
             <link>https://www.webtips.dev/masonry-in-css</link>
             <guid>https://www.webtips.dev/masonry-in-css</guid>
             <pubDate>Mon, 08 Mar 2021 20:21:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why is the text decoration:none not working for the button in this site?]]></title>
-            <link>http://thegreatgatsbytour.com/</link>
-            <guid>http://thegreatgatsbytour.com/</guid>
-            <pubDate>Mon, 08 Mar 2021 05:26:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Best Font Loading Strategies and How to Execute Them]]></title>
-            <link>https://css-tricks.com/the-best-font-loading-strategies-and-how-to-execute-them/</link>
-            <guid>https://css-tricks.com/the-best-font-loading-strategies-and-how-to-execute-them/</guid>
-            <pubDate>Mon, 08 Mar 2021 14:58:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Complete HTML&CSS Bootcamp 2021: Zero to Hero HTML&CSS]]></title>
-            <link>https://www.myfreeonlinecourses.com/2021/03/100-off-complete-html-bootcamp-2021.html</link>
-            <guid>https://www.myfreeonlinecourses.com/2021/03/100-off-complete-html-bootcamp-2021.html</guid>
-            <pubDate>Mon, 08 Mar 2021 14:35:08 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Thu, 11 Mar 2021 07:46:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Mar 2021 13:03:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,16 +15,28 @@
             <pubDate>Thu, 11 Mar 2021 06:26:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to launch a Serverless function on AWS - Cloud Kinetics]]></title>
-            <link>https://www.cloud-kinetics.com/how-to-launch-a-serverless-function-on-aws/</link>
-            <guid>https://www.cloud-kinetics.com/how-to-launch-a-serverless-function-on-aws/</guid>
-            <pubDate>Thu, 11 Mar 2021 05:51:32 GMT</pubDate>
+            <title><![CDATA[Websocket Integration with Node]]></title>
+            <link>https://www.surekhatech.com/blog/websocket-integration-with-node</link>
+            <guid>https://www.surekhatech.com/blog/websocket-integration-with-node</guid>
+            <pubDate>Thu, 11 Mar 2021 10:09:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A new web-based puppeteer REPL that runs all in your browser]]></title>
             <link>https://foo.com/</link>
             <guid>https://foo.com/</guid>
             <pubDate>Wed, 10 Mar 2021 23:27:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to launch a Serverless function on AWS - Cloud Kinetics]]></title>
+            <link>https://www.cloud-kinetics.com/how-to-launch-a-serverless-function-on-aws/</link>
+            <guid>https://www.cloud-kinetics.com/how-to-launch-a-serverless-function-on-aws/</guid>
+            <pubDate>Thu, 11 Mar 2021 05:51:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NEEDED HELP]]></title>
+            <link>https://github.com/Rob--W/cors-anywhere</link>
+            <guid>https://github.com/Rob--W/cors-anywhere</guid>
+            <pubDate>Thu, 11 Mar 2021 11:52:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Building serverless applications got a whole lot easier - Webiny 5.0 is now live. DynamoDB support, VPC deployment, Elasticsearch, and much more.]]></title>
@@ -43,42 +55,6 @@
             <link>https://github.com/eflem00/koa-boilerplate</link>
             <guid>https://github.com/eflem00/koa-boilerplate</guid>
             <pubDate>Wed, 10 Mar 2021 19:32:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Node.js Lesson 17: Timers, Differences from Browser, ref and ref]]></title>
-            <link>https://soshace.com/node-js-lessons-timers-ref/</link>
-            <guid>https://soshace.com/node-js-lessons-timers-ref/</guid>
-            <pubDate>Wed, 10 Mar 2021 09:01:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Writing CommonJs modules]]></title>
-            <link>https://gist.github.com/weirdyang/41ebcea1cf76836f732788c2f07a3f6e</link>
-            <guid>https://gist.github.com/weirdyang/41ebcea1cf76836f732788c2f07a3f6e</guid>
-            <pubDate>Wed, 10 Mar 2021 11:37:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Email & password authentication with accounts-js and Apollo Server]]></title>
-            <link>https://www.apollographql.com/blog/email-password-authentication-with-accounts-js-and-apollo-server/</link>
-            <guid>https://www.apollographql.com/blog/email-password-authentication-with-accounts-js-and-apollo-server/</guid>
-            <pubDate>Wed, 10 Mar 2021 16:46:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Amazon EKS: Deploying a NodeJS app using Docker and K8s on AWS]]></title>
-            <link>https://techblog.geekyants.com/amazon-eks-deploying-a-nodejs-app-using-docker-and-k8s-on-aws</link>
-            <guid>https://techblog.geekyants.com/amazon-eks-deploying-a-nodejs-app-using-docker-and-k8s-on-aws</guid>
-            <pubDate>Wed, 10 Mar 2021 07:48:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Socket.io 2.3.0 vulnerability]]></title>
-            <link>https://socket.io/</link>
-            <guid>https://socket.io/</guid>
-            <pubDate>Wed, 10 Mar 2021 14:42:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Powerful Caching with Redis for Node.js Applications]]></title>
-            <link>https://blog.appsignal.com/2021/03/10/powerful-caching-with-redis-for-nodejs-applications.html</link>
-            <guid>https://blog.appsignal.com/2021/03/10/powerful-caching-with-redis-for-nodejs-applications.html</guid>
-            <pubDate>Wed, 10 Mar 2021 13:56:46 GMT</pubDate>
         </item>
     </channel>
 </rss>

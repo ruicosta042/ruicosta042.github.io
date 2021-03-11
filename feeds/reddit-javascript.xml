@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Thu, 11 Mar 2021 07:46:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Mar 2021 13:03:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,12 @@
             <link>https://dev.to/hemanth/updates-from-the-81st-meeting-of-tc39-2b3p</link>
             <guid>https://dev.to/hemanth/updates-from-the-81st-meeting-of-tc39-2b3p</guid>
             <pubDate>Thu, 11 Mar 2021 01:23:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Raycasting in JavaScript]]></title>
+            <link>https://github.com/ahuth/raycast</link>
+            <guid>https://github.com/ahuth/raycast</guid>
+            <pubDate>Thu, 11 Mar 2021 06:19:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Introducing Necktie – a simple and small (~ 3kB) DOM binding tool]]></title>
@@ -27,16 +33,16 @@
             <pubDate>Wed, 10 Mar 2021 22:54:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Most common mistakes new JavaScript developers make]]></title>
+            <link>https://www.akmittal.dev/posts/common-mistakes-javascripts-begineers-make/</link>
+            <guid>https://www.akmittal.dev/posts/common-mistakes-javascripts-begineers-make/</guid>
+            <pubDate>Thu, 11 Mar 2021 12:22:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[[AskJS] Do you secure your APIs from sensitive data exposure?]]></title>
             <link>https://peterdev.pl/2021/03/10/too-much-rest-will-harm-you-dont-blindly-follow-it/</link>
             <guid>https://peterdev.pl/2021/03/10/too-much-rest-will-harm-you-dont-blindly-follow-it/</guid>
             <pubDate>Wed, 10 Mar 2021 20:32:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Raycasting in JavaScript]]></title>
-            <link>https://github.com/ahuth/raycast</link>
-            <guid>https://github.com/ahuth/raycast</guid>
-            <pubDate>Thu, 11 Mar 2021 06:19:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ts-audio v0.45 is out!]]></title>
@@ -63,28 +69,22 @@
             <pubDate>Wed, 10 Mar 2021 01:26:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Introducing Snippy - A snippet manager Chrome extension for developers]]></title>
-            <link>https://trysnippy.com/</link>
-            <guid>https://trysnippy.com/</guid>
-            <pubDate>Wed, 10 Mar 2021 21:20:55 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Email & password authentication with accounts-js and Apollo Server]]></title>
             <link>https://www.apollographql.com/blog/email-password-authentication-with-accounts-js-and-apollo-server/</link>
             <guid>https://www.apollographql.com/blog/email-password-authentication-with-accounts-js-and-apollo-server/</guid>
             <pubDate>Wed, 10 Mar 2021 16:45:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Introducing Snippy - A snippet manager Chrome extension for developers]]></title>
+            <link>https://trysnippy.com/</link>
+            <guid>https://trysnippy.com/</guid>
+            <pubDate>Wed, 10 Mar 2021 21:20:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Introducing Relay Hooks: Improved React APIs for Relay]]></title>
             <link>https://developers.facebook.com/blog/post/2021/03/09/introducing-relay-hooks-improved-react-apis-relay/</link>
             <guid>https://developers.facebook.com/blog/post/2021/03/09/introducing-relay-hooks-improved-react-apis-relay/</guid>
             <pubDate>Tue, 09 Mar 2021 17:49:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stoxy, a reactive State Management API equipped with Web Components]]></title>
-            <link>https://stoxy.dev/</link>
-            <guid>https://stoxy.dev/</guid>
-            <pubDate>Tue, 09 Mar 2021 12:27:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Node.js native ESM support for Underscore.js, available for tryout through npm install underscore@preview]]></title>
@@ -97,6 +97,12 @@
             <link>https://jestjs.io/blog/2021/03/09/jest-website-upgrade</link>
             <guid>https://jestjs.io/blog/2021/03/09/jest-website-upgrade</guid>
             <pubDate>Tue, 09 Mar 2021 20:29:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stoxy, a reactive State Management API equipped with Web Components]]></title>
+            <link>https://stoxy.dev/</link>
+            <guid>https://stoxy.dev/</guid>
+            <pubDate>Tue, 09 Mar 2021 12:27:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Webpack 5 and next-gen tooling for Storybook]]></title>
@@ -145,12 +151,6 @@
             <link>https://ramdajs.com/</link>
             <guid>https://ramdajs.com/</guid>
             <pubDate>Mon, 08 Mar 2021 16:26:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ECMAScript - Introducing Dynamic Imports in ES2020 (ES11)]]></title>
-            <link>https://nitayneeman.com/posts/introducing-dynamic-imports-in-ecmascript-2020/</link>
-            <guid>https://nitayneeman.com/posts/introducing-dynamic-imports-in-ecmascript-2020/</guid>
-            <pubDate>Mon, 08 Mar 2021 07:33:41 GMT</pubDate>
         </item>
     </channel>
 </rss>

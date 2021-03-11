@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Thu, 11 Mar 2021 07:46:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Mar 2021 13:03:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,6 +21,30 @@
             <pubDate>Mon, 01 Mar 2021 15:56:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Understanding React state can be difficult for developers new to React. Let's make it easier! A simple and easy-to-follow breakdown.]]></title>
+            <link>https://kieranroberts.hashnode.dev/react-state-a-simple-and-easy-to-follow-breakdown</link>
+            <guid>https://kieranroberts.hashnode.dev/react-state-a-simple-and-easy-to-follow-breakdown</guid>
+            <pubDate>Thu, 11 Mar 2021 09:39:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Implement SAML SSO with SPAs?]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Thu, 11 Mar 2021 10:26:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React Snapshot Testing With Jest: An Introduction With Examples]]></title>
+            <link>https://blog.asayer.io/react-snapshot-testing-with-jest-an-introduction-with-examples</link>
+            <guid>https://blog.asayer.io/react-snapshot-testing-with-jest-an-introduction-with-examples</guid>
+            <pubDate>Thu, 11 Mar 2021 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Best React meetup videos from February]]></title>
+            <link>https://blog.meetupfeed.io/react-meetup-videos-feb-2021/</link>
+            <guid>https://blog.meetupfeed.io/react-meetup-videos-feb-2021/</guid>
+            <pubDate>Thu, 11 Mar 2021 09:27:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Globux - A global state manager that let you read and update the the whole state from all your components. 90% less code to write in compare to Redux]]></title>
             <link>https://github.com/reduxjs/redux/tree/master/examples/todos</link>
             <guid>https://github.com/reduxjs/redux/tree/master/examples/todos</guid>
@@ -33,12 +57,6 @@
             <pubDate>Thu, 11 Mar 2021 03:31:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Live Data should be Simple | React + GraphQL Solution]]></title>
-            <link>https://www.kaviarjs.com/blog/2021/03/10/live-data-should-be-simple/</link>
-            <guid>https://www.kaviarjs.com/blog/2021/03/10/live-data-should-be-simple/</guid>
-            <pubDate>Thu, 11 Mar 2021 03:31:16 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Newbie - using react-testing-library with redux]]></title>
             <link>https://gyazo.com/8f5fa9f32fafa88ccbfeb6cc23306ff5</link>
             <guid>https://gyazo.com/8f5fa9f32fafa88ccbfeb6cc23306ff5</guid>
@@ -49,36 +67,6 @@
             <link>https://chat-ecdc8.web.app/</link>
             <guid>https://chat-ecdc8.web.app/</guid>
             <pubDate>Wed, 10 Mar 2021 14:29:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is there anything to be aware of when considering Next.js?]]></title>
-            <link>https://mxstbr.com/thoughts/tech-choice-regrets-at-spectrum/</link>
-            <guid>https://mxstbr.com/thoughts/tech-choice-regrets-at-spectrum/</guid>
-            <pubDate>Thu, 11 Mar 2021 00:33:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Realtime Chat App Project (e.g. React + socket.io)]]></title>
-            <link>https://bigsondev.com/projects/realtime-chat-project/</link>
-            <guid>https://bigsondev.com/projects/realtime-chat-project/</guid>
-            <pubDate>Wed, 10 Mar 2021 13:21:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React, Antd based Math printable worksheet generator (Addition, Subtraction, Multiplication, Division).]]></title>
-            <link>https://worksheets.smanne.com/</link>
-            <guid>https://worksheets.smanne.com/</guid>
-            <pubDate>Wed, 10 Mar 2021 14:46:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Firefox Add-on/Extension - Note Taking App]]></title>
-            <link>https://addons.mozilla.org/en-US/firefox/addon/local-note/</link>
-            <guid>https://addons.mozilla.org/en-US/firefox/addon/local-note/</guid>
-            <pubDate>Wed, 10 Mar 2021 18:10:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I made a list of 70+ open-source clones of sites like Airbnb, Tiktok, Netflix, Spotify etc. See their code, demo, tech stack, & github stars.]]></title>
-            <link>https://github.com/GorvGoyl/Clone-Wars</link>
-            <guid>https://github.com/GorvGoyl/Clone-Wars</guid>
-            <pubDate>Tue, 09 Mar 2021 07:08:49 GMT</pubDate>
         </item>
     </channel>
 </rss>

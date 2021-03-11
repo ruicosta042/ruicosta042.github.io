@@ -4,7 +4,7 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Thu, 11 Mar 2021 13:03:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Mar 2021 19:47:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,18 @@
             <link>https://popcritic.web.app/</link>
             <guid>https://popcritic.web.app/</guid>
             <pubDate>Thu, 11 Mar 2021 06:26:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Feedback/Suggestions for project]]></title>
+            <link>https://zyndicate.app/</link>
+            <guid>https://zyndicate.app/</guid>
+            <pubDate>Thu, 11 Mar 2021 14:00:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Authorize to oAuth without a frontend.]]></title>
+            <link>https://www.npmjs.com/package/axios-oauth-client</link>
+            <guid>https://www.npmjs.com/package/axios-oauth-client</guid>
+            <pubDate>Thu, 11 Mar 2021 19:29:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Websocket Integration with Node]]></title>
@@ -33,28 +45,22 @@
             <pubDate>Thu, 11 Mar 2021 05:51:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NEEDED HELP]]></title>
-            <link>https://github.com/Rob--W/cors-anywhere</link>
-            <guid>https://github.com/Rob--W/cors-anywhere</guid>
-            <pubDate>Thu, 11 Mar 2021 11:52:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Building serverless applications got a whole lot easier - Webiny 5.0 is now live. DynamoDB support, VPC deployment, Elasticsearch, and much more.]]></title>
             <link>https://www.producthunt.com/posts/webiny-5-0#Serverless</link>
             <guid>https://www.producthunt.com/posts/webiny-5-0#Serverless</guid>
             <pubDate>Wed, 10 Mar 2021 13:16:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[NEEDED HELP]]></title>
+            <link>https://github.com/Rob--W/cors-anywhere</link>
+            <guid>https://github.com/Rob--W/cors-anywhere</guid>
+            <pubDate>Thu, 11 Mar 2021 11:52:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[CRM System Rate Limiting Overview]]></title>
             <link>https://www.grouparoo.com/blog/crm-system-rate-limiting</link>
             <guid>https://www.grouparoo.com/blog/crm-system-rate-limiting</guid>
             <pubDate>Thu, 11 Mar 2021 01:49:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I made a Node.js implementation of the Gothinkster Realworld project (Koa/Typescript/TypeORM)]]></title>
-            <link>https://github.com/eflem00/koa-boilerplate</link>
-            <guid>https://github.com/eflem00/koa-boilerplate</guid>
-            <pubDate>Wed, 10 Mar 2021 19:32:37 GMT</pubDate>
         </item>
     </channel>
 </rss>

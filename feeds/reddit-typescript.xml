@@ -4,21 +4,21 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Thu, 11 Mar 2021 13:03:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Mar 2021 19:47:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
-        <item>
-            <title><![CDATA[Kysely - A type-safe and autocompletion-friendly typescript SQL query builder for node.js]]></title>
-            <link>https://github.com/koskimas/kysely</link>
-            <guid>https://github.com/koskimas/kysely</guid>
-            <pubDate>Wed, 10 Mar 2021 14:26:29 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[[Talk] Sharing Typescript Types between your Frontend and Backend]]></title>
             <link>https://github.com/evantahler/pokemon-typescript</link>
             <guid>https://github.com/evantahler/pokemon-typescript</guid>
             <pubDate>Thu, 11 Mar 2021 02:09:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kysely - A type-safe and autocompletion-friendly typescript SQL query builder for node.js]]></title>
+            <link>https://github.com/koskimas/kysely</link>
+            <guid>https://github.com/koskimas/kysely</guid>
+            <pubDate>Wed, 10 Mar 2021 14:26:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Relay adds support for Typescript]]></title>

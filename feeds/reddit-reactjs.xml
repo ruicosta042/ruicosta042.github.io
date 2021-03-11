@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Thu, 11 Mar 2021 13:03:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Mar 2021 19:47:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -27,46 +27,28 @@
             <pubDate>Thu, 11 Mar 2021 09:39:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to Implement SAML SSO with SPAs?]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Thu, 11 Mar 2021 10:26:24 GMT</pubDate>
+            <title><![CDATA[A composable event calendar in React!]]></title>
+            <link>https://github.com/zackify/react-calendar</link>
+            <guid>https://github.com/zackify/react-calendar</guid>
+            <pubDate>Thu, 11 Mar 2021 13:21:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React Snapshot Testing With Jest: An Introduction With Examples]]></title>
-            <link>https://blog.asayer.io/react-snapshot-testing-with-jest-an-introduction-with-examples</link>
-            <guid>https://blog.asayer.io/react-snapshot-testing-with-jest-an-introduction-with-examples</guid>
-            <pubDate>Thu, 11 Mar 2021 10:00:00 GMT</pubDate>
+            <title><![CDATA[Whats the difference between @tyepscript ESLint rules and the same ESLint rule]]></title>
+            <link>https://github.com/typescript-eslint/typescript-eslint</link>
+            <guid>https://github.com/typescript-eslint/typescript-eslint</guid>
+            <pubDate>Thu, 11 Mar 2021 18:09:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Best React meetup videos from February]]></title>
-            <link>https://blog.meetupfeed.io/react-meetup-videos-feb-2021/</link>
-            <guid>https://blog.meetupfeed.io/react-meetup-videos-feb-2021/</guid>
-            <pubDate>Thu, 11 Mar 2021 09:27:36 GMT</pubDate>
+            <title><![CDATA[Server not on save need help]]></title>
+            <link>http://localhost:3000/</link>
+            <guid>http://localhost:3000/</guid>
+            <pubDate>Thu, 11 Mar 2021 17:41:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Globux - A global state manager that let you read and update the the whole state from all your components. 90% less code to write in compare to Redux]]></title>
-            <link>https://github.com/reduxjs/redux/tree/master/examples/todos</link>
-            <guid>https://github.com/reduxjs/redux/tree/master/examples/todos</guid>
-            <pubDate>Wed, 10 Mar 2021 20:23:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Unmounting component when it's out of viewport inside infinite scroll list]]></title>
-            <link>https://www.npmjs.com/package/react-intersection-observer</link>
-            <guid>https://www.npmjs.com/package/react-intersection-observer</guid>
-            <pubDate>Thu, 11 Mar 2021 03:31:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Newbie - using react-testing-library with redux]]></title>
-            <link>https://gyazo.com/8f5fa9f32fafa88ccbfeb6cc23306ff5</link>
-            <guid>https://gyazo.com/8f5fa9f32fafa88ccbfeb6cc23306ff5</guid>
-            <pubDate>Thu, 11 Mar 2021 03:21:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I built a chat app using react after 1 month of learning]]></title>
-            <link>https://chat-ecdc8.web.app/</link>
-            <guid>https://chat-ecdc8.web.app/</guid>
-            <pubDate>Wed, 10 Mar 2021 14:29:01 GMT</pubDate>
+            <title><![CDATA[I need to get the 'prominent' color from an image URL, and the package I tried to use (color.js) said I have to have CORS enabled, and I've never heard of CORS before]]></title>
+            <link>https://www.npmjs.com/package/color.js</link>
+            <guid>https://www.npmjs.com/package/color.js</guid>
+            <pubDate>Thu, 11 Mar 2021 16:05:19 GMT</pubDate>
         </item>
     </channel>
 </rss>

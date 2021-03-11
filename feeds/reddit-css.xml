@@ -4,10 +4,16 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Thu, 11 Mar 2021 13:03:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Mar 2021 19:47:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Create Responsive Image Effects With CSS Gradients And aspect-ratio]]></title>
+            <link>https://www.smashingmagazine.com/2021/02/responsive-image-effects-css-gradients-aspect-ratio/</link>
+            <guid>https://www.smashingmagazine.com/2021/02/responsive-image-effects-css-gradients-aspect-ratio/</guid>
+            <pubDate>Thu, 11 Mar 2021 13:17:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Swiper - The Most Modern Mobile Touch Slider]]></title>
             <link>https://swiperjs.com/</link>
@@ -15,10 +21,10 @@
             <pubDate>Thu, 11 Mar 2021 13:01:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The best classless CSS frameworks in 2021]]></title>
-            <link>https://www.skypack.dev/blog/2021/03/the-best-classless-css-frameworks-in-2021/</link>
-            <guid>https://www.skypack.dev/blog/2021/03/the-best-classless-css-frameworks-in-2021/</guid>
-            <pubDate>Thu, 11 Mar 2021 12:59:52 GMT</pubDate>
+            <title><![CDATA[An Overview of the Current Future State of CSS Selectors]]></title>
+            <link>https://fjolt.com/article/css-future-selectors</link>
+            <guid>https://fjolt.com/article/css-future-selectors</guid>
+            <pubDate>Thu, 11 Mar 2021 15:33:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Digging Into CSS Logical Properties]]></title>
@@ -31,6 +37,12 @@
             <link>https://semicolon.dev/tutorial/css/learn-css-flex-patterns-in-10-minutes?vx</link>
             <guid>https://semicolon.dev/tutorial/css/learn-css-flex-patterns-in-10-minutes?vx</guid>
             <pubDate>Thu, 11 Mar 2021 04:11:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The best classless CSS frameworks in 2021]]></title>
+            <link>https://www.skypack.dev/blog/2021/03/the-best-classless-css-frameworks-in-2021/</link>
+            <guid>https://www.skypack.dev/blog/2021/03/the-best-classless-css-frameworks-in-2021/</guid>
+            <pubDate>Thu, 11 Mar 2021 12:59:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Conic.css - nice, simple conic gradients]]></title>

@@ -4,21 +4,21 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Wed, 10 Mar 2021 19:50:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Mar 2021 07:46:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Learn Common CSS Flex Patterns In 10 Minutes]]></title>
+            <link>https://semicolon.dev/tutorial/css/learn-css-flex-patterns-in-10-minutes?vx</link>
+            <guid>https://semicolon.dev/tutorial/css/learn-css-flex-patterns-in-10-minutes?vx</guid>
+            <pubDate>Thu, 11 Mar 2021 04:11:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Complete HTML , CSS , Bootstrap :Build Hands On Projects]]></title>
             <link>https://www.myfreeonlinecourses.com/2021/03/100-off-complete-html-css-bootstrap.html</link>
             <guid>https://www.myfreeonlinecourses.com/2021/03/100-off-complete-html-css-bootstrap.html</guid>
             <pubDate>Wed, 10 Mar 2021 19:19:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Raven / Holy Albatross+ & Mysteriously Unchanging Font-Sizes Using Custom Properties]]></title>
-            <link>https://css-tricks.com/the-raven-technique-one-step-closer-to-container-queries/</link>
-            <guid>https://css-tricks.com/the-raven-technique-one-step-closer-to-container-queries/</guid>
-            <pubDate>Wed, 10 Mar 2021 16:41:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Conic.css - nice, simple conic gradients]]></title>
@@ -27,40 +27,16 @@
             <pubDate>Wed, 10 Mar 2021 12:54:38 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Raven / Holy Albatross+ & Mysteriously Unchanging Font-Sizes Using Custom Properties]]></title>
+            <link>https://css-tricks.com/the-raven-technique-one-step-closer-to-container-queries/</link>
+            <guid>https://css-tricks.com/the-raven-technique-one-step-closer-to-container-queries/</guid>
+            <pubDate>Wed, 10 Mar 2021 16:41:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Programmatically Generate Images with CSS Painting API]]></title>
             <link>https://blog.bitsrc.io/programmatically-generate-images-with-css-painting-api-3b1a860dae3b</link>
             <guid>https://blog.bitsrc.io/programmatically-generate-images-with-css-painting-api-3b1a860dae3b</guid>
             <pubDate>Wed, 10 Mar 2021 12:57:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CSS not functional with my live server code.]]></title>
-            <link>https://codeshare.io/217JDB</link>
-            <guid>https://codeshare.io/217JDB</guid>
-            <pubDate>Tue, 09 Mar 2021 14:44:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An Interactive Guide to CSS Grid]]></title>
-            <link>https://fjolt.com/article/a-guide-to-css-grid</link>
-            <guid>https://fjolt.com/article/a-guide-to-css-grid</guid>
-            <pubDate>Mon, 08 Mar 2021 13:41:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Responsive page works on bigger 1080p monitor, but fails on smaller 1080p laptops.]]></title>
-            <link>https://github.com/DenzelDb/CSS-question/tree/master/site%20test</link>
-            <guid>https://github.com/DenzelDb/CSS-question/tree/master/site%20test</guid>
-            <pubDate>Mon, 08 Mar 2021 22:00:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Complete CSS Flex Tutorial]]></title>
-            <link>https://semicolon.dev/tutorial/css/complete-css-flex-tutorial</link>
-            <guid>https://semicolon.dev/tutorial/css/complete-css-flex-tutorial</guid>
-            <pubDate>Mon, 08 Mar 2021 23:55:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[You want enabling CSS selectors, not disabling ones]]></title>
-            <link>https://www.silvestar.codes/articles/you-want-a-single-enabling-selector-not-the-one-that-disables-the-rule-of-the-previous-one/</link>
-            <guid>https://www.silvestar.codes/articles/you-want-a-single-enabling-selector-not-the-one-that-disables-the-rule-of-the-previous-one/</guid>
-            <pubDate>Mon, 08 Mar 2021 15:02:18 GMT</pubDate>
         </item>
     </channel>
 </rss>

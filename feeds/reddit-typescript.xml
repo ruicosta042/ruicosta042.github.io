@@ -4,7 +4,7 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Wed, 10 Mar 2021 19:50:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Mar 2021 07:46:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,12 @@
             <link>https://github.com/koskimas/kysely</link>
             <guid>https://github.com/koskimas/kysely</guid>
             <pubDate>Wed, 10 Mar 2021 14:26:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[Talk] Sharing Typescript Types between your Frontend and Backend]]></title>
+            <link>https://github.com/evantahler/pokemon-typescript</link>
+            <guid>https://github.com/evantahler/pokemon-typescript</guid>
+            <pubDate>Thu, 11 Mar 2021 02:09:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Relay adds support for Typescript]]></title>
@@ -85,18 +91,6 @@
             <link>https://jenyus.web.app/blog/2021-03-07-nestjs-starter</link>
             <guid>https://jenyus.web.app/blog/2021-03-07-nestjs-starter</guid>
             <pubDate>Mon, 08 Mar 2021 00:46:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why am I getting linting errors?]]></title>
-            <link>https://www.typescriptlang.org/play?#code/GYVwdgxgLglg9mABAKQMoHkByAFAhgJwGcBTAHgBVFiAPKYsAE0MShAAcAbYgPgAoA3AFyJCUfDDABzADQsAnm2LDyASmFoseIsQBKxVvjDkFZct0QBvAFCJbLfHMs27LiAlEs4eg0gC8KDEwAOjYCEgEVAG5nF1sYYEReKBM4BKgvfRBDRF9cxAAiUXEpfJVEfEzs9O8ssGjYu3jE5MVUzxrs3P98sBAAWwAjYnxS8sqkavH6hsQmpJS0jJ8cvPyBuDguXDBRiuXJn2mGqAALfDgAd0QAUXxz-F4euChENpbiETEJSUReweHEOtNsRtqUjogAL6ICC4KAQE5OGYsM6XG53OAPJ4vEjiXAcGAAL1wAy4YJikKsEKsVneLHYXByBSK33yiAAPgU-kMRuyCkCtjtorSNDgwrpxsZFBQqLR6Ew6ZweDlyZQaHRGMxCl8SogAPyfYo-QQqmXq+U9frc1n6rkA40uVWyjV8jYC62A10gpD2uxgYj8YaRIA</link>
-            <guid>https://www.typescriptlang.org/play?#code/GYVwdgxgLglg9mABAKQMoHkByAFAhgJwGcBTAHgBVFiAPKYsAE0MShAAcAbYgPgAoA3AFyJCUfDDABzADQsAnm2LDyASmFoseIsQBKxVvjDkFZct0QBvAFCJbLfHMs27LiAlEs4eg0gC8KDEwAOjYCEgEVAG5nF1sYYEReKBM4BKgvfRBDRF9cxAAiUXEpfJVEfEzs9O8ssGjYu3jE5MVUzxrs3P98sBAAWwAjYnxS8sqkavH6hsQmpJS0jJ8cvPyBuDguXDBRiuXJn2mGqAALfDgAd0QAUXxz-F4euChENpbiETEJSUReweHEOtNsRtqUjogAL6ICC4KAQE5OGYsM6XG53OAPJ4vEjiXAcGAAL1wAy4YJikKsEKsVneLHYXByBSK33yiAAPgU-kMRuyCkCtjtorSNDgwrpxsZFBQqLR6Ew6ZweDlyZQaHRGMxCl8SogAPyfYo-QQqmXq+U9frc1n6rkA40uVWyjV8jYC62A10gpD2uxgYj8YaRIA</guid>
-            <pubDate>Sun, 07 Mar 2021 15:13:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ServiceBox - Type Safe Web Services for Node]]></title>
-            <link>https://github.com/sinclairzx81/servicebox</link>
-            <guid>https://github.com/sinclairzx81/servicebox</guid>
-            <pubDate>Sat, 06 Mar 2021 08:52:13 GMT</pubDate>
         </item>
     </channel>
 </rss>

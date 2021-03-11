@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Wed, 10 Mar 2021 19:50:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Mar 2021 07:46:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,28 +21,40 @@
             <pubDate>Mon, 01 Mar 2021 15:56:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Globux - A global state manager that let you read and update the the whole state from all your components. 90% less code to write in compare to Redux]]></title>
+            <link>https://github.com/reduxjs/redux/tree/master/examples/todos</link>
+            <guid>https://github.com/reduxjs/redux/tree/master/examples/todos</guid>
+            <pubDate>Wed, 10 Mar 2021 20:23:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Unmounting component when it's out of viewport inside infinite scroll list]]></title>
+            <link>https://www.npmjs.com/package/react-intersection-observer</link>
+            <guid>https://www.npmjs.com/package/react-intersection-observer</guid>
+            <pubDate>Thu, 11 Mar 2021 03:31:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Live Data should be Simple | React + GraphQL Solution]]></title>
+            <link>https://www.kaviarjs.com/blog/2021/03/10/live-data-should-be-simple/</link>
+            <guid>https://www.kaviarjs.com/blog/2021/03/10/live-data-should-be-simple/</guid>
+            <pubDate>Thu, 11 Mar 2021 03:31:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Newbie - using react-testing-library with redux]]></title>
+            <link>https://gyazo.com/8f5fa9f32fafa88ccbfeb6cc23306ff5</link>
+            <guid>https://gyazo.com/8f5fa9f32fafa88ccbfeb6cc23306ff5</guid>
+            <pubDate>Thu, 11 Mar 2021 03:21:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I built a chat app using react after 1 month of learning]]></title>
             <link>https://chat-ecdc8.web.app/</link>
             <guid>https://chat-ecdc8.web.app/</guid>
             <pubDate>Wed, 10 Mar 2021 14:29:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Firefox Add-on/Extension - Note Taking App]]></title>
-            <link>https://addons.mozilla.org/en-US/firefox/addon/local-note/</link>
-            <guid>https://addons.mozilla.org/en-US/firefox/addon/local-note/</guid>
-            <pubDate>Wed, 10 Mar 2021 18:10:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React, Antd based Math printable worksheet generator (Addition, Subtraction, Multiplication, Division).]]></title>
-            <link>https://worksheets.smanne.com/</link>
-            <guid>https://worksheets.smanne.com/</guid>
-            <pubDate>Wed, 10 Mar 2021 14:46:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I made a list of 70+ open-source clones of sites like Airbnb, Tiktok, Netflix, Spotify etc. See their code, demo, tech stack, & github stars.]]></title>
-            <link>https://github.com/GorvGoyl/Clone-Wars</link>
-            <guid>https://github.com/GorvGoyl/Clone-Wars</guid>
-            <pubDate>Tue, 09 Mar 2021 07:08:49 GMT</pubDate>
+            <title><![CDATA[Is there anything to be aware of when considering Next.js?]]></title>
+            <link>https://mxstbr.com/thoughts/tech-choice-regrets-at-spectrum/</link>
+            <guid>https://mxstbr.com/thoughts/tech-choice-regrets-at-spectrum/</guid>
+            <pubDate>Thu, 11 Mar 2021 00:33:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Realtime Chat App Project (e.g. React + socket.io)]]></title>
@@ -51,34 +63,22 @@
             <pubDate>Wed, 10 Mar 2021 13:21:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Prismjs: does importing the syntax for all languages increase the bundles size]]></title>
-            <link>https://github.com/EllisMin/gatsby-blog-mdx/blob/442d1135de794a9950293278b2ecbb2eda5e883a/gatsby-browser.js</link>
-            <guid>https://github.com/EllisMin/gatsby-blog-mdx/blob/442d1135de794a9950293278b2ecbb2eda5e883a/gatsby-browser.js</guid>
-            <pubDate>Wed, 10 Mar 2021 18:22:06 GMT</pubDate>
+            <title><![CDATA[React, Antd based Math printable worksheet generator (Addition, Subtraction, Multiplication, Division).]]></title>
+            <link>https://worksheets.smanne.com/</link>
+            <guid>https://worksheets.smanne.com/</guid>
+            <pubDate>Wed, 10 Mar 2021 14:46:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Formst - Customizable forms for React using MST]]></title>
-            <link>https://formst.geekyants.com/</link>
-            <guid>https://formst.geekyants.com/</guid>
-            <pubDate>Wed, 10 Mar 2021 13:11:07 GMT</pubDate>
+            <title><![CDATA[Firefox Add-on/Extension - Note Taking App]]></title>
+            <link>https://addons.mozilla.org/en-US/firefox/addon/local-note/</link>
+            <guid>https://addons.mozilla.org/en-US/firefox/addon/local-note/</guid>
+            <pubDate>Wed, 10 Mar 2021 18:10:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fancy interactive data visualization]]></title>
-            <link>https://royalconstellations.visualcinnamon.com/</link>
-            <guid>https://royalconstellations.visualcinnamon.com/</guid>
-            <pubDate>Wed, 10 Mar 2021 15:54:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Efficient React editing with vim-surround]]></title>
-            <link>https://medium.com/ingeniouslysimple/efficient-react-editing-with-vim-surround-f586d56f6d48?source=friends_link&amp;sk=4e864d74477b8d60f3f4386232cef5ef</link>
-            <guid>https://medium.com/ingeniouslysimple/efficient-react-editing-with-vim-surround-f586d56f6d48?source=friends_link&amp;sk=4e864d74477b8d60f3f4386232cef5ef</guid>
-            <pubDate>Wed, 10 Mar 2021 15:03:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introducing Relay Hooks: Improved React APIs for Relay]]></title>
-            <link>https://developers.facebook.com/blog/post/2021/03/09/introducing-relay-hooks-improved-react-apis-relay/</link>
-            <guid>https://developers.facebook.com/blog/post/2021/03/09/introducing-relay-hooks-improved-react-apis-relay/</guid>
-            <pubDate>Tue, 09 Mar 2021 17:34:09 GMT</pubDate>
+            <title><![CDATA[I made a list of 70+ open-source clones of sites like Airbnb, Tiktok, Netflix, Spotify etc. See their code, demo, tech stack, & github stars.]]></title>
+            <link>https://github.com/GorvGoyl/Clone-Wars</link>
+            <guid>https://github.com/GorvGoyl/Clone-Wars</guid>
+            <pubDate>Tue, 09 Mar 2021 07:08:49 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,28 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Thu, 11 Mar 2021 19:47:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Mar 2021 07:48:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[How to fix Error from chokidar (C:\): Error: EBUSY: resource busy or locked]]></title>
+            <link>https://github.com/guiyep/react-select-virtualized#readme</link>
+            <guid>https://github.com/guiyep/react-select-virtualized#readme</guid>
+            <pubDate>Fri, 12 Mar 2021 04:23:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Javascript News 1st Week(Mar) – jQuery 3.6.0 Released, Deno 1.8 Released, React DnD v14.0 released - The ArrowFn]]></title>
+            <link>https://thearrowfn.com/javascript-news-1st-weekmar-jquery-3-6-0-released-deno-1-8-released-react-dnd-v14-0-released/</link>
+            <guid>https://thearrowfn.com/javascript-news-1st-weekmar-jquery-3-6-0-released-deno-1-8-released-react-dnd-v14-0-released/</guid>
+            <pubDate>Fri, 12 Mar 2021 05:30:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Authorize to oAuth without a frontend.]]></title>
+            <link>https://www.npmjs.com/package/axios-oauth-client</link>
+            <guid>https://www.npmjs.com/package/axios-oauth-client</guid>
+            <pubDate>Thu, 11 Mar 2021 19:29:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I built a movie review website using material UI and React and Node Backend]]></title>
             <link>https://popcritic.web.app/</link>
@@ -19,12 +37,6 @@
             <link>https://zyndicate.app/</link>
             <guid>https://zyndicate.app/</guid>
             <pubDate>Thu, 11 Mar 2021 14:00:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Authorize to oAuth without a frontend.]]></title>
-            <link>https://www.npmjs.com/package/axios-oauth-client</link>
-            <guid>https://www.npmjs.com/package/axios-oauth-client</guid>
-            <pubDate>Thu, 11 Mar 2021 19:29:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Websocket Integration with Node]]></title>
@@ -43,24 +55,6 @@
             <link>https://www.cloud-kinetics.com/how-to-launch-a-serverless-function-on-aws/</link>
             <guid>https://www.cloud-kinetics.com/how-to-launch-a-serverless-function-on-aws/</guid>
             <pubDate>Thu, 11 Mar 2021 05:51:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Building serverless applications got a whole lot easier - Webiny 5.0 is now live. DynamoDB support, VPC deployment, Elasticsearch, and much more.]]></title>
-            <link>https://www.producthunt.com/posts/webiny-5-0#Serverless</link>
-            <guid>https://www.producthunt.com/posts/webiny-5-0#Serverless</guid>
-            <pubDate>Wed, 10 Mar 2021 13:16:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NEEDED HELP]]></title>
-            <link>https://github.com/Rob--W/cors-anywhere</link>
-            <guid>https://github.com/Rob--W/cors-anywhere</guid>
-            <pubDate>Thu, 11 Mar 2021 11:52:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CRM System Rate Limiting Overview]]></title>
-            <link>https://www.grouparoo.com/blog/crm-system-rate-limiting</link>
-            <guid>https://www.grouparoo.com/blog/crm-system-rate-limiting</guid>
-            <pubDate>Thu, 11 Mar 2021 01:49:37 GMT</pubDate>
         </item>
     </channel>
 </rss>

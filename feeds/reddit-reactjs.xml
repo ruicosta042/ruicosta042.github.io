@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Thu, 11 Mar 2021 19:47:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Mar 2021 07:48:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -27,28 +27,34 @@
             <pubDate>Thu, 11 Mar 2021 09:39:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Unable to center the `Dialog/Modal` from `@headlessui/react` that uses React Portal with Tailwind CSS?]]></title>
+            <link>https://tailwindui.com/components/application-ui/overlays/modals</link>
+            <guid>https://tailwindui.com/components/application-ui/overlays/modals</guid>
+            <pubDate>Fri, 12 Mar 2021 06:22:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fix Error from chokidar (C:\): Error: EBUSY while installing a package]]></title>
+            <link>https://github.com/guiyep/react-select-virtualized#readme</link>
+            <guid>https://github.com/guiyep/react-select-virtualized#readme</guid>
+            <pubDate>Fri, 12 Mar 2021 03:03:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A composable event calendar in React!]]></title>
             <link>https://github.com/zackify/react-calendar</link>
             <guid>https://github.com/zackify/react-calendar</guid>
             <pubDate>Thu, 11 Mar 2021 13:21:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Whats the difference between @tyepscript ESLint rules and the same ESLint rule]]></title>
-            <link>https://github.com/typescript-eslint/typescript-eslint</link>
-            <guid>https://github.com/typescript-eslint/typescript-eslint</guid>
-            <pubDate>Thu, 11 Mar 2021 18:09:20 GMT</pubDate>
+            <title><![CDATA[Axios Async and NextJS help please!]]></title>
+            <link>https://gyazo.com/a1b329d8ce140f954c87e6908f27db62</link>
+            <guid>https://gyazo.com/a1b329d8ce140f954c87e6908f27db62</guid>
+            <pubDate>Thu, 11 Mar 2021 21:23:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Server not on save need help]]></title>
-            <link>http://localhost:3000/</link>
-            <guid>http://localhost:3000/</guid>
-            <pubDate>Thu, 11 Mar 2021 17:41:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I need to get the 'prominent' color from an image URL, and the package I tried to use (color.js) said I have to have CORS enabled, and I've never heard of CORS before]]></title>
-            <link>https://www.npmjs.com/package/color.js</link>
-            <guid>https://www.npmjs.com/package/color.js</guid>
-            <pubDate>Thu, 11 Mar 2021 16:05:19 GMT</pubDate>
+            <title><![CDATA[Need help on react/microservices issue]]></title>
+            <link>https://stackoverflow.com/questions/66573345/react-ionic-spotify-authorization-redirection</link>
+            <guid>https://stackoverflow.com/questions/66573345/react-ionic-spotify-authorization-redirection</guid>
+            <pubDate>Thu, 11 Mar 2021 19:49:47 GMT</pubDate>
         </item>
     </channel>
 </rss>

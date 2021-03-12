@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Thu, 11 Mar 2021 19:47:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Mar 2021 07:48:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,16 +15,34 @@
             <pubDate>Thu, 11 Mar 2021 13:17:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[height overflows for flex item using tailwind]]></title>
+            <link>https://play.tailwindcss.com/8qZLzPfLMl</link>
+            <guid>https://play.tailwindcss.com/8qZLzPfLMl</guid>
+            <pubDate>Fri, 12 Mar 2021 04:08:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Swiper - The Most Modern Mobile Touch Slider]]></title>
             <link>https://swiperjs.com/</link>
             <guid>https://swiperjs.com/</guid>
             <pubDate>Thu, 11 Mar 2021 13:01:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Could someone help me with this: Why does Django causes my materialize link to appear blue when I hover over them?]]></title>
+            <link>https://stackoverflow.com/questions/66562148/why-does-django-causes-my-materialize-link-to-appear-blue-when-i-hover-over-them</link>
+            <guid>https://stackoverflow.com/questions/66562148/why-does-django-causes-my-materialize-link-to-appear-blue-when-i-hover-over-them</guid>
+            <pubDate>Thu, 11 Mar 2021 20:32:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[An Overview of the Current Future State of CSS Selectors]]></title>
             <link>https://fjolt.com/article/css-future-selectors</link>
             <guid>https://fjolt.com/article/css-future-selectors</guid>
             <pubDate>Thu, 11 Mar 2021 15:33:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[100% OFF] Bootstrap From Scratch - Fast and Responsive Web Development]]></title>
+            <link>https://www.myfreeonlinecourses.com/2021/02/100-off-bootstrap-from-scratch-fast-and.html</link>
+            <guid>https://www.myfreeonlinecourses.com/2021/02/100-off-bootstrap-from-scratch-fast-and.html</guid>
+            <pubDate>Thu, 11 Mar 2021 20:06:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Digging Into CSS Logical Properties]]></title>
@@ -55,18 +73,6 @@
             <link>https://www.myfreeonlinecourses.com/2021/03/100-off-complete-html-css-bootstrap.html</link>
             <guid>https://www.myfreeonlinecourses.com/2021/03/100-off-complete-html-css-bootstrap.html</guid>
             <pubDate>Wed, 10 Mar 2021 19:19:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Programmatically Generate Images with CSS Painting API]]></title>
-            <link>https://blog.bitsrc.io/programmatically-generate-images-with-css-painting-api-3b1a860dae3b</link>
-            <guid>https://blog.bitsrc.io/programmatically-generate-images-with-css-painting-api-3b1a860dae3b</guid>
-            <pubDate>Wed, 10 Mar 2021 12:57:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Raven / Holy Albatross+ & Mysteriously Unchanging Font-Sizes Using Custom Properties]]></title>
-            <link>https://css-tricks.com/the-raven-technique-one-step-closer-to-container-queries/</link>
-            <guid>https://css-tricks.com/the-raven-technique-one-step-closer-to-container-queries/</guid>
-            <pubDate>Wed, 10 Mar 2021 16:41:54 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,22 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Thu, 11 Mar 2021 19:47:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Mar 2021 07:48:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[I created a Typescript-first alternative to Lodash (primarily for Deno but no reason it can't be Nodified). Looking for feedback/forks/contributions]]></title>
+            <link>https://github.com/brianboyko/denodash</link>
+            <guid>https://github.com/brianboyko/denodash</guid>
+            <pubDate>Fri, 12 Mar 2021 06:42:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Art of Type Programming]]></title>
+            <link>https://mistlog.medium.com/the-art-of-type-programming-cfd933bdfff7</link>
+            <guid>https://mistlog.medium.com/the-art-of-type-programming-cfd933bdfff7</guid>
+            <pubDate>Thu, 11 Mar 2021 22:42:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[Talk] Sharing Typescript Types between your Frontend and Backend]]></title>
             <link>https://github.com/evantahler/pokemon-typescript</link>
@@ -39,16 +51,16 @@
             <pubDate>Wed, 10 Mar 2021 01:53:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Node.JS - Foal framework - Configuration, environment variables and type safety]]></title>
-            <link>https://foalts.org/</link>
-            <guid>https://foalts.org/</guid>
-            <pubDate>Wed, 10 Mar 2021 09:31:24 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[typed-react-form: A fast, completely type-checked React form builder.]]></title>
             <link>https://github.com/CodeStix/typed-react-form</link>
             <guid>https://github.com/CodeStix/typed-react-form</guid>
             <pubDate>Tue, 09 Mar 2021 22:33:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Node.JS - Foal framework - Configuration, environment variables and type safety]]></title>
+            <link>https://foalts.org/</link>
+            <guid>https://foalts.org/</guid>
+            <pubDate>Wed, 10 Mar 2021 09:31:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Web Development Services for a Music Tech Company]]></title>
@@ -67,30 +79,6 @@
             <link>https://madewithlove.com/blog/software-engineering/creating-a-scientific-pitch-notation-type-using-template-literal-types/</link>
             <guid>https://madewithlove.com/blog/software-engineering/creating-a-scientific-pitch-notation-type-using-template-literal-types/</guid>
             <pubDate>Mon, 08 Mar 2021 19:18:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[interface props]]></title>
-            <link>https://material-ui.com/components/drawers/</link>
-            <guid>https://material-ui.com/components/drawers/</guid>
-            <pubDate>Tue, 09 Mar 2021 00:57:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Types unable to descriminate each other?]]></title>
-            <link>https://www.typescriptlang.org/play?#code/C4TwDgpgBAIlC8AoKUA+UDaByAhgGzAAscsAaKAb3yJwC4oBnYAJwEsA7AcwF9yA6AQEECxAMIB7dsAhSMAXTnI0mLACMIwEuQrrN9Jmy68oAvgCENOCVJnB5ilOmyccAW1dbKL93UYsOPPwCAOJuHtbSsgqIiKCQUMI0EbYIUAAU7ACururMyjAAlLHg0BaayVKpaQYB+UVx0KE+FcBVquLieBA47HUxDVAAkuwAZhDMADwAKlAQAB6RACYMsBgADHIAfAhKcPNLKxhTQXwcY3kASnJQAPxQF1D07BAAbuMA3DEAxpJMUGfjRLEejDc4TXAiEjbeCYKiQ+i4LDGAAcck+iB+7D+1GIVVMvlB43BOKhBXo2BJZBMAkJkwhNCwm2u8G2FMhVPxigxv1ai3ocBh2F0nh0lgRqiRpCUbIZ2hJCJIxgAzHIpSgSWk4TQEcxJVAAKwFKVyIA</link>
-            <guid>https://www.typescriptlang.org/play?#code/C4TwDgpgBAIlC8AoKUA+UDaByAhgGzAAscsAaKAb3yJwC4oBnYAJwEsA7AcwF9yA6AQEECxAMIB7dsAhSMAXTnI0mLACMIwEuQrrN9Jmy68oAvgCENOCVJnB5ilOmyccAW1dbKL93UYsOPPwCAOJuHtbSsgqIiKCQUMI0EbYIUAAU7ACururMyjAAlLHg0BaayVKpaQYB+UVx0KE+FcBVquLieBA47HUxDVAAkuwAZhDMADwAKlAQAB6RACYMsBgADHIAfAhKcPNLKxhTQXwcY3kASnJQAPxQF1D07BAAbuMA3DEAxpJMUGfjRLEejDc4TXAiEjbeCYKiQ+i4LDGAAcck+iB+7D+1GIVVMvlB43BOKhBXo2BJZBMAkJkwhNCwm2u8G2FMhVPxigxv1ai3ocBh2F0nh0lgRqiRpCUbIZ2hJCJIxgAzHIpSgSWk4TQEcxJVAAKwFKVyIA</guid>
-            <pubDate>Mon, 08 Mar 2021 17:24:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Jenyus Optimizes Relationships in GraphQL APIs | Jenyus Org]]></title>
-            <link>http://jenyus.web.app/blog/2021-03-08-graphql-utils</link>
-            <guid>http://jenyus.web.app/blog/2021-03-08-graphql-utils</guid>
-            <pubDate>Mon, 08 Mar 2021 15:22:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Setting up a Hybrid REST & GraphQL API with NestJS and MikroORM]]></title>
-            <link>https://jenyus.web.app/blog/2021-03-07-nestjs-starter</link>
-            <guid>https://jenyus.web.app/blog/2021-03-07-nestjs-starter</guid>
-            <pubDate>Mon, 08 Mar 2021 00:46:25 GMT</pubDate>
         </item>
     </channel>
 </rss>

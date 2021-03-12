@@ -4,10 +4,28 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Fri, 12 Mar 2021 13:07:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Mar 2021 19:54:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[System fonts don’t have to be ugly]]></title>
+            <link>https://iainbean.com/posts/2021/system-fonts-dont-have-to-be-ugly/</link>
+            <guid>https://iainbean.com/posts/2021/system-fonts-dont-have-to-be-ugly/</guid>
+            <pubDate>Fri, 12 Mar 2021 13:58:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Imagining native skip links]]></title>
+            <link>https://kittygiraudel.com/2021/03/07/imagining-native-skip-links/</link>
+            <guid>https://kittygiraudel.com/2021/03/07/imagining-native-skip-links/</guid>
+            <pubDate>Fri, 12 Mar 2021 14:03:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Help with trouble with div:before please?]]></title>
+            <link>https://jsfiddle.net/JGHunter/safn6kjm/3/</link>
+            <guid>https://jsfiddle.net/JGHunter/safn6kjm/3/</guid>
+            <pubDate>Fri, 12 Mar 2021 16:43:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Create Responsive Image Effects With CSS Gradients And aspect-ratio]]></title>
             <link>https://www.smashingmagazine.com/2021/02/responsive-image-effects-css-gradients-aspect-ratio/</link>
@@ -61,18 +79,6 @@
             <link>https://www.skypack.dev/blog/2021/03/the-best-classless-css-frameworks-in-2021/</link>
             <guid>https://www.skypack.dev/blog/2021/03/the-best-classless-css-frameworks-in-2021/</guid>
             <pubDate>Thu, 11 Mar 2021 12:59:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Conic.css - nice, simple conic gradients]]></title>
-            <link>https://conic.style/</link>
-            <guid>https://conic.style/</guid>
-            <pubDate>Wed, 10 Mar 2021 12:54:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Complete HTML , CSS , Bootstrap :Build Hands On Projects]]></title>
-            <link>https://www.myfreeonlinecourses.com/2021/03/100-off-complete-html-css-bootstrap.html</link>
-            <guid>https://www.myfreeonlinecourses.com/2021/03/100-off-complete-html-css-bootstrap.html</guid>
-            <pubDate>Wed, 10 Mar 2021 19:19:21 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Fri, 12 Mar 2021 07:48:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Mar 2021 13:07:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,18 @@
             <link>https://github.com/brianboyko/denodash</link>
             <guid>https://github.com/brianboyko/denodash</guid>
             <pubDate>Fri, 12 Mar 2021 06:42:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GitHub Action to annotate tsc errors]]></title>
+            <link>https://github.com/reviewdog/reviewdog</link>
+            <guid>https://github.com/reviewdog/reviewdog</guid>
+            <pubDate>Fri, 12 Mar 2021 12:40:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Convert typescript functions to cli automatically. I published in npm a package that does that.]]></title>
+            <link>https://github.com/lillallol/fn-to-cli/tree/master/example</link>
+            <guid>https://github.com/lillallol/fn-to-cli/tree/master/example</guid>
+            <pubDate>Thu, 11 Mar 2021 23:35:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Art of Type Programming]]></title>
@@ -67,18 +79,6 @@
             <link>https://upsilonit.com/cases/web-development-services-for-a-music-tech-company</link>
             <guid>https://upsilonit.com/cases/web-development-services-for-a-music-tech-company</guid>
             <pubDate>Wed, 10 Mar 2021 09:45:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to write a React Component in TypeScript]]></title>
-            <link>https://kentcdodds.com/blog/how-to-write-a-react-component-in-typescript</link>
-            <guid>https://kentcdodds.com/blog/how-to-write-a-react-component-in-typescript</guid>
-            <pubDate>Mon, 08 Mar 2021 12:55:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Creating a Scientific Pitch Notation Type using template literal types]]></title>
-            <link>https://madewithlove.com/blog/software-engineering/creating-a-scientific-pitch-notation-type-using-template-literal-types/</link>
-            <guid>https://madewithlove.com/blog/software-engineering/creating-a-scientific-pitch-notation-type-using-template-literal-types/</guid>
-            <pubDate>Mon, 08 Mar 2021 19:18:34 GMT</pubDate>
         </item>
     </channel>
 </rss>

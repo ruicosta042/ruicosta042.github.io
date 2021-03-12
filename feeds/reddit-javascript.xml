@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Fri, 12 Mar 2021 07:48:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Mar 2021 13:07:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,10 +21,22 @@
             <pubDate>Thu, 11 Mar 2021 19:23:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Cool data visualization with React]]></title>
+            <link>https://medium.com/gooddata-developers/gooddata-ui-opensource-react-data-visualization-library-7c7d2727d49b</link>
+            <guid>https://medium.com/gooddata-developers/gooddata-ui-opensource-react-data-visualization-library-7c7d2727d49b</guid>
+            <pubDate>Fri, 12 Mar 2021 11:09:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Add Voice Recognition to React Native Without Adding the Cloud]]></title>
             <link>https://medium.com/picovoice/add-voice-recognition-to-react-native-without-adding-the-cloud-af9e299336e4</link>
             <guid>https://medium.com/picovoice/add-voice-recognition-to-react-native-without-adding-the-cloud-af9e299336e4</guid>
             <pubDate>Thu, 11 Mar 2021 14:53:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Uploading files to AssemblyAI using Node.js and JavaScript]]></title>
+            <link>https://www.assemblyai.com/blog/uploading-files-to-assemblyai-using-node-js-and-javascript</link>
+            <guid>https://www.assemblyai.com/blog/uploading-files-to-assemblyai-using-node-js-and-javascript</guid>
+            <pubDate>Fri, 12 Mar 2021 12:31:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[simple-git-hooks: pre-commit hook manager with 0 dependencies, great performance, and without license problems (in contrast with husky 5)]]></title>
@@ -33,16 +45,16 @@
             <pubDate>Thu, 11 Mar 2021 14:06:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Application Development | Software Development | Server Management]]></title>
-            <link>http://gortnm.in/</link>
-            <guid>http://gortnm.in/</guid>
-            <pubDate>Fri, 12 Mar 2021 06:46:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Updates from the 81st meeting of TC39]]></title>
             <link>https://dev.to/hemanth/updates-from-the-81st-meeting-of-tc39-2b3p</link>
             <guid>https://dev.to/hemanth/updates-from-the-81st-meeting-of-tc39-2b3p</guid>
             <pubDate>Thu, 11 Mar 2021 01:23:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Application Development | Software Development | Server Management]]></title>
+            <link>http://gortnm.in/</link>
+            <guid>http://gortnm.in/</guid>
+            <pubDate>Fri, 12 Mar 2021 06:46:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[AskJS] Post-interview feedback on NodeJS code exercise]]></title>
@@ -63,10 +75,10 @@
             <pubDate>Thu, 11 Mar 2021 20:14:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Are coding bootcamps still worth it?? 💻 Yes or No]]></title>
-            <link>https://www.joinclubhouse.com/event/rMw0yXem</link>
-            <guid>https://www.joinclubhouse.com/event/rMw0yXem</guid>
-            <pubDate>Fri, 12 Mar 2021 00:26:28 GMT</pubDate>
+            <title><![CDATA[Use Vim as a JavaScript IDE]]></title>
+            <link>https://spacevim.org/use-vim-as-a-javascript-ide/</link>
+            <guid>https://spacevim.org/use-vim-as-a-javascript-ide/</guid>
+            <pubDate>Thu, 11 Mar 2021 15:48:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Raycasting in JavaScript]]></title>
@@ -75,10 +87,10 @@
             <pubDate>Thu, 11 Mar 2021 06:19:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Use Vim as a JavaScript IDE]]></title>
-            <link>https://spacevim.org/use-vim-as-a-javascript-ide/</link>
-            <guid>https://spacevim.org/use-vim-as-a-javascript-ide/</guid>
-            <pubDate>Thu, 11 Mar 2021 15:48:33 GMT</pubDate>
+            <title><![CDATA[Are coding bootcamps still worth it?? 💻 Yes or No]]></title>
+            <link>https://www.joinclubhouse.com/event/rMw0yXem</link>
+            <guid>https://www.joinclubhouse.com/event/rMw0yXem</guid>
+            <pubDate>Fri, 12 Mar 2021 00:26:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Introducing Necktie – a simple and small (~ 3kB) DOM binding tool]]></title>
@@ -139,18 +151,6 @@
             <link>https://jestjs.io/blog/2021/03/09/jest-website-upgrade</link>
             <guid>https://jestjs.io/blog/2021/03/09/jest-website-upgrade</guid>
             <pubDate>Tue, 09 Mar 2021 20:29:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stoxy, a reactive State Management API equipped with Web Components]]></title>
-            <link>https://stoxy.dev/</link>
-            <guid>https://stoxy.dev/</guid>
-            <pubDate>Tue, 09 Mar 2021 12:27:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Webpack 5 and next-gen tooling for Storybook]]></title>
-            <link>https://storybook.js.org/blog/storybook-for-webpack-5/</link>
-            <guid>https://storybook.js.org/blog/storybook-for-webpack-5/</guid>
-            <pubDate>Tue, 09 Mar 2021 16:33:49 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,34 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Fri, 12 Mar 2021 07:48:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Mar 2021 13:07:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Measuring the performance in Node(JS)]]></title>
+            <link>https://blog.nikhilcm.com/measuring-the-performance-in-nodejs</link>
+            <guid>https://blog.nikhilcm.com/measuring-the-performance-in-nodejs</guid>
+            <pubDate>Fri, 12 Mar 2021 08:09:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Simple Twitter Bot Tutorial With Node.js Part 2: Deploy to Server and Schedule Tweets]]></title>
+            <link>https://blog.shahednasser.com/simple-twitter-bot-tutorial-with-node-part-2/</link>
+            <guid>https://blog.shahednasser.com/simple-twitter-bot-tutorial-with-node-part-2/</guid>
+            <pubDate>Fri, 12 Mar 2021 11:44:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Simple Twitter Bot Tutorial with Node.js]]></title>
+            <link>https://blog.shahednasser.com/simple-twitter-bot-tutorial-with-node-js/</link>
+            <guid>https://blog.shahednasser.com/simple-twitter-bot-tutorial-with-node-js/</guid>
+            <pubDate>Fri, 12 Mar 2021 13:01:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Uploading files to AssemblyAI using Node.js and JavaScript]]></title>
+            <link>https://www.assemblyai.com/blog/uploading-files-to-assemblyai-using-node-js-and-javascript</link>
+            <guid>https://www.assemblyai.com/blog/uploading-files-to-assemblyai-using-node-js-and-javascript</guid>
+            <pubDate>Fri, 12 Mar 2021 12:31:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to fix Error from chokidar (C:\): Error: EBUSY: resource busy or locked]]></title>
             <link>https://github.com/guiyep/react-select-virtualized#readme</link>
@@ -43,18 +67,6 @@
             <link>https://www.surekhatech.com/blog/websocket-integration-with-node</link>
             <guid>https://www.surekhatech.com/blog/websocket-integration-with-node</guid>
             <pubDate>Thu, 11 Mar 2021 10:09:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A new web-based puppeteer REPL that runs all in your browser]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Wed, 10 Mar 2021 23:27:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to launch a Serverless function on AWS - Cloud Kinetics]]></title>
-            <link>https://www.cloud-kinetics.com/how-to-launch-a-serverless-function-on-aws/</link>
-            <guid>https://www.cloud-kinetics.com/how-to-launch-a-serverless-function-on-aws/</guid>
-            <pubDate>Thu, 11 Mar 2021 05:51:32 GMT</pubDate>
         </item>
     </channel>
 </rss>

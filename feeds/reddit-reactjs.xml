@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Fri, 12 Mar 2021 07:48:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Mar 2021 13:07:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,10 +21,40 @@
             <pubDate>Mon, 01 Mar 2021 15:56:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[As the creator of "why-did-you-render" I would like to ask you if and how do you use it?]]></title>
+            <link>https://github.com/welldone-software/why-did-you-render</link>
+            <guid>https://github.com/welldone-software/why-did-you-render</guid>
+            <pubDate>Fri, 12 Mar 2021 11:21:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Simple todo app made with next and firebase]]></title>
+            <link>https://github.com/hellosoftware-io/next-firebase-todo</link>
+            <guid>https://github.com/hellosoftware-io/next-firebase-todo</guid>
+            <pubDate>Fri, 12 Mar 2021 10:54:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Understanding React state can be difficult for developers new to React. Let's make it easier! A simple and easy-to-follow breakdown.]]></title>
             <link>https://kieranroberts.hashnode.dev/react-state-a-simple-and-easy-to-follow-breakdown</link>
             <guid>https://kieranroberts.hashnode.dev/react-state-a-simple-and-easy-to-follow-breakdown</guid>
             <pubDate>Thu, 11 Mar 2021 09:39:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I need help with building interactive svg map wep app!]]></title>
+            <link>https://mintrud.gov.ru/2025/atlas</link>
+            <guid>https://mintrud.gov.ru/2025/atlas</guid>
+            <pubDate>Fri, 12 Mar 2021 08:15:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cool data visualization with React]]></title>
+            <link>https://medium.com/gooddata-developers/gooddata-ui-opensource-react-data-visualization-library-7c7d2727d49b</link>
+            <guid>https://medium.com/gooddata-developers/gooddata-ui-opensource-react-data-visualization-library-7c7d2727d49b</guid>
+            <pubDate>Fri, 12 Mar 2021 10:44:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dynamic variable in JSX tag not updating]]></title>
+            <link>https://focuscam.netlify.app/</link>
+            <guid>https://focuscam.netlify.app/</guid>
+            <pubDate>Fri, 12 Mar 2021 10:23:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Unable to center the `Dialog/Modal` from `@headlessui/react` that uses React Portal with Tailwind CSS?]]></title>
@@ -43,18 +73,6 @@
             <link>https://github.com/zackify/react-calendar</link>
             <guid>https://github.com/zackify/react-calendar</guid>
             <pubDate>Thu, 11 Mar 2021 13:21:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Axios Async and NextJS help please!]]></title>
-            <link>https://gyazo.com/a1b329d8ce140f954c87e6908f27db62</link>
-            <guid>https://gyazo.com/a1b329d8ce140f954c87e6908f27db62</guid>
-            <pubDate>Thu, 11 Mar 2021 21:23:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Need help on react/microservices issue]]></title>
-            <link>https://stackoverflow.com/questions/66573345/react-ionic-spotify-authorization-redirection</link>
-            <guid>https://stackoverflow.com/questions/66573345/react-ionic-spotify-authorization-redirection</guid>
-            <pubDate>Thu, 11 Mar 2021 19:49:47 GMT</pubDate>
         </item>
     </channel>
 </rss>

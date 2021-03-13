@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sat, 13 Mar 2021 13:02:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Mar 2021 19:45:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,46 +21,58 @@
             <pubDate>Mon, 01 Mar 2021 15:56:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Reducers and State Machines]]></title>
+            <link>https://en.wikipedia.org/wiki/Frequency_illusion</link>
+            <guid>https://en.wikipedia.org/wiki/Frequency_illusion</guid>
+            <pubDate>Sat, 13 Mar 2021 16:48:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Just published my first front-end library - Simate : A (sim)ple st(ate) management tool]]></title>
+            <link>https://github.com/ceoshikhar/simate</link>
+            <guid>https://github.com/ceoshikhar/simate</guid>
+            <pubDate>Sat, 13 Mar 2021 19:43:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to create and change multiple index elements.]]></title>
+            <link>https://ushagalaxy.surge.sh/</link>
+            <guid>https://ushagalaxy.surge.sh/</guid>
+            <pubDate>Sat, 13 Mar 2021 19:35:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Material UI Drawer Component not defined]]></title>
+            <link>https://material-ui.com/components/drawers/</link>
+            <guid>https://material-ui.com/components/drawers/</guid>
+            <pubDate>Sat, 13 Mar 2021 18:49:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[As the creator of "why-did-you-render" I would like to ask you if and how do you use it?]]></title>
             <link>https://github.com/welldone-software/why-did-you-render</link>
             <guid>https://github.com/welldone-software/why-did-you-render</guid>
             <pubDate>Fri, 12 Mar 2021 11:21:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Jest testing useInterval React Hook not working]]></title>
+            <link>https://stackoverflow.com/questions/66614656/jest-testing-useinterval-react-hook-not-working</link>
+            <guid>https://stackoverflow.com/questions/66614656/jest-testing-useinterval-react-hook-not-working</guid>
+            <pubDate>Sat, 13 Mar 2021 14:33:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pass state to another page -> Scroll down and add class to the an element based on calculations]]></title>
+            <link>https://share.getcloudapp.com/7Kup5l6z</link>
+            <guid>https://share.getcloudapp.com/7Kup5l6z</guid>
+            <pubDate>Sat, 13 Mar 2021 14:09:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to style SVG tags `linearGradient` the Tailwind way when using `fill="url(#a)"`?]]></title>
+            <link>https://twitter.com/adamwathan</link>
+            <guid>https://twitter.com/adamwathan</guid>
+            <pubDate>Sat, 13 Mar 2021 13:37:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I developed this memory game while learning ReactJS]]></title>
             <link>https://www.kobadoo.com/</link>
             <guid>https://www.kobadoo.com/</guid>
             <pubDate>Fri, 12 Mar 2021 20:31:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Need feedback on my first react project]]></title>
-            <link>https://www.bit.ly/blskapp</link>
-            <guid>https://www.bit.ly/blskapp</guid>
-            <pubDate>Sat, 13 Mar 2021 05:31:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React Redux won't find new route]]></title>
-            <link>https://gist.github.com/kmartin62/a2dd7fecb64a3cf578558424e1b1615c</link>
-            <guid>https://gist.github.com/kmartin62/a2dd7fecb64a3cf578558424e1b1615c</guid>
-            <pubDate>Fri, 12 Mar 2021 22:58:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React Bricks CMS tutorial is complete: win a prize!]]></title>
-            <link>https://reactbricks.com/learn/welcome</link>
-            <guid>https://reactbricks.com/learn/welcome</guid>
-            <pubDate>Fri, 12 Mar 2021 22:19:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How I Built My Site (with Perfect Lighthouse Score)]]></title>
-            <link>https://torbet.co/posts/Build-This-Site</link>
-            <guid>https://torbet.co/posts/Build-This-Site</guid>
-            <pubDate>Fri, 12 Mar 2021 16:08:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From Redux to MobX]]></title>
-            <link>https://frypizzabox.medium.com/from-redux-to-mobx-a-smooth-experiment-9eeb6248f58e?source=friends_link&amp;sk=4be190b19fb4e0c287ce83ef4720f24c</link>
-            <guid>https://frypizzabox.medium.com/from-redux-to-mobx-a-smooth-experiment-9eeb6248f58e?source=friends_link&amp;sk=4be190b19fb4e0c287ce83ef4720f24c</guid>
-            <pubDate>Fri, 12 Mar 2021 19:10:14 GMT</pubDate>
         </item>
     </channel>
 </rss>

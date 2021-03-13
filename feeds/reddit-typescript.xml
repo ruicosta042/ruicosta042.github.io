@@ -4,21 +4,21 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Sat, 13 Mar 2021 13:02:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Mar 2021 19:45:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
-        <item>
-            <title><![CDATA[Integrating TypeScript with Webpack]]></title>
-            <link>https://medium.com/jspoint/integrating-typescript-with-webpack-4534e840a02b</link>
-            <guid>https://medium.com/jspoint/integrating-typescript-with-webpack-4534e840a02b</guid>
-            <pubDate>Sat, 13 Mar 2021 12:56:09 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Typescript clients for invoking Protobuf services over HTTP]]></title>
             <link>https://github.com/einride/protoc-gen-typescript-http</link>
             <guid>https://github.com/einride/protoc-gen-typescript-http</guid>
             <pubDate>Sat, 13 Mar 2021 12:02:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Integrating TypeScript with Webpack]]></title>
+            <link>https://medium.com/jspoint/integrating-typescript-with-webpack-4534e840a02b</link>
+            <guid>https://medium.com/jspoint/integrating-typescript-with-webpack-4534e840a02b</guid>
+            <pubDate>Sat, 13 Mar 2021 12:56:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I created a Typescript-first alternative to Lodash (primarily for Deno but no reason it can't be Nodified). Looking for feedback/forks/contributions]]></title>

@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sat, 13 Mar 2021 13:02:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Mar 2021 19:45:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,16 +15,28 @@
             <pubDate>Thu, 11 Mar 2021 14:02:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[moovie.js Movie focused HTML5 Player]]></title>
+            <link>https://github.com/BMSVieira/moovie.js</link>
+            <guid>https://github.com/BMSVieira/moovie.js</guid>
+            <pubDate>Sat, 13 Mar 2021 12:00:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The only JavaScript loop benchmark that matters for the most of us.]]></title>
+            <link>https://javascript.plainenglish.io/the-only-javascript-loop-benchmark-that-matters-for-the-most-of-us-77ec819eb23e?source=friends_link&amp;sk=ca8b956e0faae6852aaec916ab3034dd</link>
+            <guid>https://javascript.plainenglish.io/the-only-javascript-loop-benchmark-that-matters-for-the-most-of-us-77ec819eb23e?source=friends_link&amp;sk=ca8b956e0faae6852aaec916ab3034dd</guid>
+            <pubDate>Sat, 13 Mar 2021 14:40:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[TwoWayGallery (JS Image Gallery)]]></title>
             <link>https://github.com/maximzaika/TwoWayGallery</link>
             <guid>https://github.com/maximzaika/TwoWayGallery</guid>
             <pubDate>Sat, 13 Mar 2021 10:46:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[moovie.js Movie focused HTML5 Player]]></title>
-            <link>https://github.com/BMSVieira/moovie.js</link>
-            <guid>https://github.com/BMSVieira/moovie.js</guid>
-            <pubDate>Sat, 13 Mar 2021 12:00:42 GMT</pubDate>
+            <title><![CDATA[Drag and drop for Vue.js made with vue.js (poc)]]></title>
+            <link>https://supraniti.github.io/vue-dnd-zone/</link>
+            <guid>https://supraniti.github.io/vue-dnd-zone/</guid>
+            <pubDate>Sat, 13 Mar 2021 15:16:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[GitHub's Web Component collection.]]></title>
@@ -33,16 +45,22 @@
             <pubDate>Fri, 12 Mar 2021 17:45:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Multi-Tenant Analytics with Auth0 and Cube.js, the complete guide]]></title>
-            <link>https://multi-tenant-analytics.cube.dev/</link>
-            <guid>https://multi-tenant-analytics.cube.dev/</guid>
-            <pubDate>Fri, 12 Mar 2021 17:51:43 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[time-series-generator: a library for generating time series]]></title>
             <link>https://github.com/hieunc229/time-series-generator</link>
             <guid>https://github.com/hieunc229/time-series-generator</guid>
             <pubDate>Sat, 13 Mar 2021 07:44:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Just published my first front-end library - Simate : A (sim)ple st(ate) management tool]]></title>
+            <link>https://github.com/ceoshikhar/simate</link>
+            <guid>https://github.com/ceoshikhar/simate</guid>
+            <pubDate>Sat, 13 Mar 2021 19:41:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Multi-Tenant Analytics with Auth0 and Cube.js, the complete guide]]></title>
+            <link>https://multi-tenant-analytics.cube.dev/</link>
+            <guid>https://multi-tenant-analytics.cube.dev/</guid>
+            <pubDate>Fri, 12 Mar 2021 17:51:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I made simple JS game.]]></title>
@@ -133,18 +151,6 @@
             <link>https://dev.to/loreanvictor/reactive-programming-with-react-23dk</link>
             <guid>https://dev.to/loreanvictor/reactive-programming-with-react-23dk</guid>
             <pubDate>Thu, 11 Mar 2021 16:14:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zero Dependency, Vanilla JavaScript Tag Editor]]></title>
-            <link>https://github.com/jcubic/tagger</link>
-            <guid>https://github.com/jcubic/tagger</guid>
-            <pubDate>Thu, 11 Mar 2021 20:14:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Use Vim as a JavaScript IDE]]></title>
-            <link>https://spacevim.org/use-vim-as-a-javascript-ide/</link>
-            <guid>https://spacevim.org/use-vim-as-a-javascript-ide/</guid>
-            <pubDate>Thu, 11 Mar 2021 15:48:33 GMT</pubDate>
         </item>
     </channel>
 </rss>

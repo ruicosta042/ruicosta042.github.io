@@ -4,10 +4,16 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Sat, 13 Mar 2021 07:48:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Mar 2021 13:02:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[How to implement pagination with mongoose and keep the search query when paging?]]></title>
+            <link>https://stackoverflow.com/questions/66613372/how-to-implement-pagination-with-mongoose-and-keep-the-search-query-when-paging</link>
+            <guid>https://stackoverflow.com/questions/66613372/how-to-implement-pagination-with-mongoose-and-keep-the-search-query-when-paging</guid>
+            <pubDate>Sat, 13 Mar 2021 12:32:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Simple Twitter Bot Tutorial With Node.js Part 2: Deploy to Server and Schedule Tweets]]></title>
             <link>https://blog.shahednasser.com/simple-twitter-bot-tutorial-with-node-part-2/</link>
@@ -63,16 +69,16 @@
             <pubDate>Fri, 12 Mar 2021 17:33:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[i wanna create a meet app like zoom/google meet and i dont know how to add the share screen function]]></title>
-            <link>https://socket.io/</link>
-            <guid>https://socket.io/</guid>
-            <pubDate>Fri, 12 Mar 2021 13:23:55 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Sending data from node.js backend to show on hover cards with less code]]></title>
             <link>https://playground.scaledynamics.com/?snippet=60099f3985c335e1155d45af</link>
             <guid>https://playground.scaledynamics.com/?snippet=60099f3985c335e1155d45af</guid>
             <pubDate>Fri, 12 Mar 2021 13:59:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[i wanna create a meet app like zoom/google meet and i dont know how to add the share screen function]]></title>
+            <link>https://socket.io/</link>
+            <guid>https://socket.io/</guid>
+            <pubDate>Fri, 12 Mar 2021 13:23:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Question on Node install: where are the repos?]]></title>

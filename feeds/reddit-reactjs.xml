@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sat, 13 Mar 2021 07:48:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Mar 2021 13:02:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -57,10 +57,10 @@
             <pubDate>Fri, 12 Mar 2021 16:08:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Property assignment expected' when using Object.entries]]></title>
-            <link>https://api.mapbox.com/geocoding/v5/mapbox.places/$%7Baddress%7D.json?limit=2&amp;access_token=$%7Bprocess.env.MAPBOX_KEY%7D%5C%60%60</link>
-            <guid>https://api.mapbox.com/geocoding/v5/mapbox.places/$%7Baddress%7D.json?limit=2&amp;access_token=$%7Bprocess.env.MAPBOX_KEY%7D%5C%60%60</guid>
-            <pubDate>Fri, 12 Mar 2021 16:20:12 GMT</pubDate>
+            <title><![CDATA[From Redux to MobX]]></title>
+            <link>https://frypizzabox.medium.com/from-redux-to-mobx-a-smooth-experiment-9eeb6248f58e?source=friends_link&amp;sk=4be190b19fb4e0c287ce83ef4720f24c</link>
+            <guid>https://frypizzabox.medium.com/from-redux-to-mobx-a-smooth-experiment-9eeb6248f58e?source=friends_link&amp;sk=4be190b19fb4e0c287ce83ef4720f24c</guid>
+            <pubDate>Fri, 12 Mar 2021 19:10:14 GMT</pubDate>
         </item>
     </channel>
 </rss>

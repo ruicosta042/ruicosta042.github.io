@@ -4,7 +4,7 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Fri, 12 Mar 2021 19:54:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Mar 2021 07:48:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,18 @@
             <link>https://blog.shahednasser.com/simple-twitter-bot-tutorial-with-node-part-2/</link>
             <guid>https://blog.shahednasser.com/simple-twitter-bot-tutorial-with-node-part-2/</guid>
             <pubDate>Fri, 12 Mar 2021 11:44:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Support Multiple languages in your nestJs applications with nestjs-localization]]></title>
+            <link>https://www.npmjs.com/package/@squareboat/nestjs-localization</link>
+            <guid>https://www.npmjs.com/package/@squareboat/nestjs-localization</guid>
+            <pubDate>Sat, 13 Mar 2021 07:45:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Basic Serverless Typeahead Search with Cloudflare Workers]]></title>
+            <link>https://theleakycauldronblog.com/blog/serverless-typeahead-search-cloudflare-workers</link>
+            <guid>https://theleakycauldronblog.com/blog/serverless-typeahead-search-cloudflare-workers</guid>
+            <pubDate>Fri, 12 Mar 2021 21:44:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Measuring the performance in Node(JS)]]></title>
@@ -27,18 +39,6 @@
             <pubDate>Fri, 12 Mar 2021 18:36:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Most Popular Databases – 2006/2021]]></title>
-            <link>https://statisticsanddata.org/data/the-most-popular-databases-2006-2021/</link>
-            <guid>https://statisticsanddata.org/data/the-most-popular-databases-2006-2021/</guid>
-            <pubDate>Fri, 12 Mar 2021 17:52:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[Typescript] Custom Type on express.js Request object]]></title>
-            <link>https://codesandbox.io/s/node-express-server-forked-d554x?file=/src/index.ts:398-404</link>
-            <guid>https://codesandbox.io/s/node-express-server-forked-d554x?file=/src/index.ts:398-404</guid>
-            <pubDate>Fri, 12 Mar 2021 17:33:46 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Uploading files to AssemblyAI using Node.js and JavaScript]]></title>
             <link>https://www.assemblyai.com/blog/uploading-files-to-assemblyai-using-node-js-and-javascript</link>
             <guid>https://www.assemblyai.com/blog/uploading-files-to-assemblyai-using-node-js-and-javascript</guid>
@@ -51,16 +51,28 @@
             <pubDate>Fri, 12 Mar 2021 14:18:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sending data from node.js backend to show on hover cards with less code]]></title>
-            <link>https://playground.scaledynamics.com/?snippet=60099f3985c335e1155d45af</link>
-            <guid>https://playground.scaledynamics.com/?snippet=60099f3985c335e1155d45af</guid>
-            <pubDate>Fri, 12 Mar 2021 13:59:13 GMT</pubDate>
+            <title><![CDATA[The Most Popular Databases – 2006/2021]]></title>
+            <link>https://statisticsanddata.org/data/the-most-popular-databases-2006-2021/</link>
+            <guid>https://statisticsanddata.org/data/the-most-popular-databases-2006-2021/</guid>
+            <pubDate>Fri, 12 Mar 2021 17:52:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[Typescript] Custom Type on express.js Request object]]></title>
+            <link>https://codesandbox.io/s/node-express-server-forked-d554x?file=/src/index.ts:398-404</link>
+            <guid>https://codesandbox.io/s/node-express-server-forked-d554x?file=/src/index.ts:398-404</guid>
+            <pubDate>Fri, 12 Mar 2021 17:33:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[i wanna create a meet app like zoom/google meet and i dont know how to add the share screen function]]></title>
             <link>https://socket.io/</link>
             <guid>https://socket.io/</guid>
             <pubDate>Fri, 12 Mar 2021 13:23:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sending data from node.js backend to show on hover cards with less code]]></title>
+            <link>https://playground.scaledynamics.com/?snippet=60099f3985c335e1155d45af</link>
+            <guid>https://playground.scaledynamics.com/?snippet=60099f3985c335e1155d45af</guid>
+            <pubDate>Fri, 12 Mar 2021 13:59:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Question on Node install: where are the repos?]]></title>
@@ -73,36 +85,6 @@
             <link>https://blog.shahednasser.com/simple-twitter-bot-tutorial-with-node-js/</link>
             <guid>https://blog.shahednasser.com/simple-twitter-bot-tutorial-with-node-js/</guid>
             <pubDate>Fri, 12 Mar 2021 13:01:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to fix Error from chokidar (C:\): Error: EBUSY: resource busy or locked]]></title>
-            <link>https://github.com/guiyep/react-select-virtualized#readme</link>
-            <guid>https://github.com/guiyep/react-select-virtualized#readme</guid>
-            <pubDate>Fri, 12 Mar 2021 04:23:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Javascript News 1st Week(Mar) – jQuery 3.6.0 Released, Deno 1.8 Released, React DnD v14.0 released - The ArrowFn]]></title>
-            <link>https://thearrowfn.com/javascript-news-1st-weekmar-jquery-3-6-0-released-deno-1-8-released-react-dnd-v14-0-released/</link>
-            <guid>https://thearrowfn.com/javascript-news-1st-weekmar-jquery-3-6-0-released-deno-1-8-released-react-dnd-v14-0-released/</guid>
-            <pubDate>Fri, 12 Mar 2021 05:30:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Authorize to oAuth without a frontend.]]></title>
-            <link>https://www.npmjs.com/package/axios-oauth-client</link>
-            <guid>https://www.npmjs.com/package/axios-oauth-client</guid>
-            <pubDate>Thu, 11 Mar 2021 19:29:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I built a movie review website using material UI and React and Node Backend]]></title>
-            <link>https://popcritic.web.app/</link>
-            <guid>https://popcritic.web.app/</guid>
-            <pubDate>Thu, 11 Mar 2021 06:26:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Feedback/Suggestions for project]]></title>
-            <link>https://zyndicate.app/</link>
-            <guid>https://zyndicate.app/</guid>
-            <pubDate>Thu, 11 Mar 2021 14:00:17 GMT</pubDate>
         </item>
     </channel>
 </rss>

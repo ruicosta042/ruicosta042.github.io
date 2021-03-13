@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Fri, 12 Mar 2021 19:54:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Mar 2021 07:48:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -27,28 +27,28 @@
             <pubDate>Fri, 12 Mar 2021 11:21:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[From Redux to MobX]]></title>
-            <link>https://frypizzabox.medium.com/from-redux-to-mobx-a-smooth-experiment-9eeb6248f58e?source=friends_link&amp;sk=4be190b19fb4e0c287ce83ef4720f24c</link>
-            <guid>https://frypizzabox.medium.com/from-redux-to-mobx-a-smooth-experiment-9eeb6248f58e?source=friends_link&amp;sk=4be190b19fb4e0c287ce83ef4720f24c</guid>
-            <pubDate>Fri, 12 Mar 2021 19:10:14 GMT</pubDate>
+            <title><![CDATA[I developed this memory game while learning ReactJS]]></title>
+            <link>https://www.kobadoo.com/</link>
+            <guid>https://www.kobadoo.com/</guid>
+            <pubDate>Fri, 12 Mar 2021 20:31:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Simple todo app made with next and firebase]]></title>
-            <link>https://github.com/hellosoftware-io/next-firebase-todo</link>
-            <guid>https://github.com/hellosoftware-io/next-firebase-todo</guid>
-            <pubDate>Fri, 12 Mar 2021 10:54:21 GMT</pubDate>
+            <title><![CDATA[Need feedback on my first react project]]></title>
+            <link>https://www.bit.ly/blskapp</link>
+            <guid>https://www.bit.ly/blskapp</guid>
+            <pubDate>Sat, 13 Mar 2021 05:31:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React hooks conditional rendering from child to parent components]]></title>
-            <link>https://apple-example.com/</link>
-            <guid>https://apple-example.com/</guid>
-            <pubDate>Fri, 12 Mar 2021 17:00:02 GMT</pubDate>
+            <title><![CDATA[React Redux won't find new route]]></title>
+            <link>https://gist.github.com/kmartin62/a2dd7fecb64a3cf578558424e1b1615c</link>
+            <guid>https://gist.github.com/kmartin62/a2dd7fecb64a3cf578558424e1b1615c</guid>
+            <pubDate>Fri, 12 Mar 2021 22:58:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Property assignment expected' when using Object.entries]]></title>
-            <link>https://api.mapbox.com/geocoding/v5/mapbox.places/$%7Baddress%7D.json?limit=2&amp;access_token=$%7Bprocess.env.MAPBOX_KEY%7D%5C%60%60</link>
-            <guid>https://api.mapbox.com/geocoding/v5/mapbox.places/$%7Baddress%7D.json?limit=2&amp;access_token=$%7Bprocess.env.MAPBOX_KEY%7D%5C%60%60</guid>
-            <pubDate>Fri, 12 Mar 2021 16:20:12 GMT</pubDate>
+            <title><![CDATA[React Bricks CMS tutorial is complete: win a prize!]]></title>
+            <link>https://reactbricks.com/learn/welcome</link>
+            <guid>https://reactbricks.com/learn/welcome</guid>
+            <pubDate>Fri, 12 Mar 2021 22:19:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How I Built My Site (with Perfect Lighthouse Score)]]></title>
@@ -57,28 +57,10 @@
             <pubDate>Fri, 12 Mar 2021 16:08:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[what is the better course become an expert with react? I found theses:]]></title>
-            <link>https://t.co/ttAZGQWgaI?amp=1</link>
-            <guid>https://t.co/ttAZGQWgaI?amp=1</guid>
-            <pubDate>Fri, 12 Mar 2021 15:03:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React Router Nested Routes. I need help please.]]></title>
-            <link>https://ibb.co/Qjkfw8f</link>
-            <guid>https://ibb.co/Qjkfw8f</guid>
-            <pubDate>Fri, 12 Mar 2021 14:45:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Understanding React state can be difficult for developers new to React. Let's make it easier! A simple and easy-to-follow breakdown.]]></title>
-            <link>https://kieranroberts.hashnode.dev/react-state-a-simple-and-easy-to-follow-breakdown</link>
-            <guid>https://kieranroberts.hashnode.dev/react-state-a-simple-and-easy-to-follow-breakdown</guid>
-            <pubDate>Thu, 11 Mar 2021 09:39:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Code snippet for location tracking by IP address using React, Leaflet and Warp function]]></title>
-            <link>https://playground.scaledynamics.com/?snippet=015c0b63-9965-4c2c-8600-ef45a58beabd</link>
-            <guid>https://playground.scaledynamics.com/?snippet=015c0b63-9965-4c2c-8600-ef45a58beabd</guid>
-            <pubDate>Fri, 12 Mar 2021 13:59:21 GMT</pubDate>
+            <title><![CDATA['Property assignment expected' when using Object.entries]]></title>
+            <link>https://api.mapbox.com/geocoding/v5/mapbox.places/$%7Baddress%7D.json?limit=2&amp;access_token=$%7Bprocess.env.MAPBOX_KEY%7D%5C%60%60</link>
+            <guid>https://api.mapbox.com/geocoding/v5/mapbox.places/$%7Baddress%7D.json?limit=2&amp;access_token=$%7Bprocess.env.MAPBOX_KEY%7D%5C%60%60</guid>
+            <pubDate>Fri, 12 Mar 2021 16:20:12 GMT</pubDate>
         </item>
     </channel>
 </rss>

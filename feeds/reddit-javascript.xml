@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Fri, 12 Mar 2021 19:54:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Mar 2021 07:48:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,16 +15,16 @@
             <pubDate>Thu, 11 Mar 2021 14:02:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[GitHub's Web Component collection.]]></title>
+            <link>https://github.com/github/github-elements</link>
+            <guid>https://github.com/github/github-elements</guid>
+            <pubDate>Fri, 12 Mar 2021 17:45:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Multi-Tenant Analytics with Auth0 and Cube.js, the complete guide]]></title>
             <link>https://multi-tenant-analytics.cube.dev/</link>
             <guid>https://multi-tenant-analytics.cube.dev/</guid>
             <pubDate>Fri, 12 Mar 2021 17:51:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cool data visualization with React]]></title>
-            <link>https://medium.com/gooddata-developers/gooddata-ui-opensource-react-data-visualization-library-7c7d2727d49b</link>
-            <guid>https://medium.com/gooddata-developers/gooddata-ui-opensource-react-data-visualization-library-7c7d2727d49b</guid>
-            <pubDate>Fri, 12 Mar 2021 11:09:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I made simple JS game.]]></title>
@@ -33,10 +33,16 @@
             <pubDate>Fri, 12 Mar 2021 15:24:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[GitHub's Web Component collection.]]></title>
-            <link>https://github.com/github/github-elements</link>
-            <guid>https://github.com/github/github-elements</guid>
-            <pubDate>Fri, 12 Mar 2021 17:45:33 GMT</pubDate>
+            <title><![CDATA[Cool data visualization with React]]></title>
+            <link>https://medium.com/gooddata-developers/gooddata-ui-opensource-react-data-visualization-library-7c7d2727d49b</link>
+            <guid>https://medium.com/gooddata-developers/gooddata-ui-opensource-react-data-visualization-library-7c7d2727d49b</guid>
+            <pubDate>Fri, 12 Mar 2021 11:09:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[time-series-generator: a library for generating time series]]></title>
+            <link>https://github.com/hieunc229/time-series-generator</link>
+            <guid>https://github.com/hieunc229/time-series-generator</guid>
+            <pubDate>Sat, 13 Mar 2021 07:44:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[JS Proposal Temporal is now stage 3]]></title>
@@ -45,16 +51,28 @@
             <pubDate>Thu, 11 Mar 2021 19:23:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ember.js in 2021 – a beacon of productivity]]></title>
+            <link>https://simplabs.com/blog/2021/03/12/Ember.js-in-2021---a-beacon-of-productivity/</link>
+            <guid>https://simplabs.com/blog/2021/03/12/Ember.js-in-2021---a-beacon-of-productivity/</guid>
+            <pubDate>Fri, 12 Mar 2021 14:22:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Javascript for optimizers: Changing element hierarchy - GrowthPenguin]]></title>
             <link>https://jeroenwiersma.com/javascript-for-optimizers-changing-element-hierarchy/</link>
             <guid>https://jeroenwiersma.com/javascript-for-optimizers-changing-element-hierarchy/</guid>
             <pubDate>Fri, 12 Mar 2021 19:03:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ember.js in 2021 – a beacon of productivity]]></title>
-            <link>https://simplabs.com/blog/2021/03/12/Ember.js-in-2021---a-beacon-of-productivity/</link>
-            <guid>https://simplabs.com/blog/2021/03/12/Ember.js-in-2021---a-beacon-of-productivity/</guid>
-            <pubDate>Fri, 12 Mar 2021 14:22:04 GMT</pubDate>
+            <title><![CDATA[Urpflanze Core: Typescript library for genarate 2d shapes]]></title>
+            <link>https://github.com/urpflanze-org/core</link>
+            <guid>https://github.com/urpflanze-org/core</guid>
+            <pubDate>Fri, 12 Mar 2021 21:13:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A brief introduction to functional programming concepts in JavaScript !!!]]></title>
+            <link>https://dev.to/bryaneduardoga/a-brief-introduction-to-functional-programming-concepts-in-javascript-5bg9</link>
+            <guid>https://dev.to/bryaneduardoga/a-brief-introduction-to-functional-programming-concepts-in-javascript-5bg9</guid>
+            <pubDate>Fri, 12 Mar 2021 20:03:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Create and share QR codes with Swedish football statistics]]></title>
@@ -81,12 +99,6 @@
             <pubDate>Thu, 11 Mar 2021 14:06:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Have you encountered of having JavaScript Fatigue? I have a useful insight of what i think about it.]]></title>
-            <link>https://aiscenblue.medium.com/my-javascript-fatigue-c12552095d9a</link>
-            <guid>https://aiscenblue.medium.com/my-javascript-fatigue-c12552095d9a</guid>
-            <pubDate>Fri, 12 Mar 2021 13:15:11 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[[AskJS] Post-interview feedback on NodeJS code exercise]]></title>
             <link>https://github.com/evanbechtol/catapult</link>
             <guid>https://github.com/evanbechtol/catapult</guid>
@@ -97,6 +109,12 @@
             <link>https://dev.to/hemanth/updates-from-the-81st-meeting-of-tc39-2b3p</link>
             <guid>https://dev.to/hemanth/updates-from-the-81st-meeting-of-tc39-2b3p</guid>
             <pubDate>Thu, 11 Mar 2021 01:23:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Have you encountered of having JavaScript Fatigue? I have a useful insight of what i think about it.]]></title>
+            <link>https://aiscenblue.medium.com/my-javascript-fatigue-c12552095d9a</link>
+            <guid>https://aiscenblue.medium.com/my-javascript-fatigue-c12552095d9a</guid>
+            <pubDate>Fri, 12 Mar 2021 13:15:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Reactive Programming with React]]></title>
@@ -111,46 +129,22 @@
             <pubDate>Thu, 11 Mar 2021 20:14:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Use Vim as a JavaScript IDE]]></title>
-            <link>https://spacevim.org/use-vim-as-a-javascript-ide/</link>
-            <guid>https://spacevim.org/use-vim-as-a-javascript-ide/</guid>
-            <pubDate>Thu, 11 Mar 2021 15:48:33 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Raycasting in JavaScript]]></title>
             <link>https://github.com/ahuth/raycast</link>
             <guid>https://github.com/ahuth/raycast</guid>
             <pubDate>Thu, 11 Mar 2021 06:19:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Use Vim as a JavaScript IDE]]></title>
+            <link>https://spacevim.org/use-vim-as-a-javascript-ide/</link>
+            <guid>https://spacevim.org/use-vim-as-a-javascript-ide/</guid>
+            <pubDate>Thu, 11 Mar 2021 15:48:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Introducing Necktie – a simple and small (~ 3kB) DOM binding tool]]></title>
             <link>https://github.com/leshniak/necktie</link>
             <guid>https://github.com/leshniak/necktie</guid>
             <pubDate>Wed, 10 Mar 2021 12:33:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Back to Basics: Building a HackerNews Clone with Marko]]></title>
-            <link>https://dev.to/ryansolid/back-to-basics-building-a-hackernews-clone-with-marko-mj</link>
-            <guid>https://dev.to/ryansolid/back-to-basics-building-a-hackernews-clone-with-marko-mj</guid>
-            <pubDate>Wed, 10 Mar 2021 22:54:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Semaphore - a modern UI for Ansible]]></title>
-            <link>https://github.com/ansible-semaphore/semaphore</link>
-            <guid>https://github.com/ansible-semaphore/semaphore</guid>
-            <pubDate>Thu, 11 Mar 2021 01:42:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ts-audio v0.45 is out!]]></title>
-            <link>https://github.com/EvandroLG/ts-audio/releases/tag/v0.4.7</link>
-            <guid>https://github.com/EvandroLG/ts-audio/releases/tag/v0.4.7</guid>
-            <pubDate>Wed, 10 Mar 2021 11:22:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CRM System Rate Limiting Overview]]></title>
-            <link>https://www.grouparoo.com/blog/crm-system-rate-limiting</link>
-            <guid>https://www.grouparoo.com/blog/crm-system-rate-limiting</guid>
-            <pubDate>Thu, 11 Mar 2021 01:47:12 GMT</pubDate>
         </item>
     </channel>
 </rss>

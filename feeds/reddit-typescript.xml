@@ -4,10 +4,16 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Sat, 13 Mar 2021 19:45:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Mar 2021 07:48:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[The Art of Type Programming]]></title>
+            <link>https://itnext.io/the-art-of-type-programming-cfd933bdfff7</link>
+            <guid>https://itnext.io/the-art-of-type-programming-cfd933bdfff7</guid>
+            <pubDate>Sun, 14 Mar 2021 04:01:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Typescript clients for invoking Protobuf services over HTTP]]></title>
             <link>https://github.com/einride/protoc-gen-typescript-http</link>
@@ -79,12 +85,6 @@
             <link>https://github.com/CodeStix/typed-react-form</link>
             <guid>https://github.com/CodeStix/typed-react-form</guid>
             <pubDate>Tue, 09 Mar 2021 22:33:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Node.JS - Foal framework - Configuration, environment variables and type safety]]></title>
-            <link>https://foalts.org/</link>
-            <guid>https://foalts.org/</guid>
-            <pubDate>Wed, 10 Mar 2021 09:31:24 GMT</pubDate>
         </item>
     </channel>
 </rss>

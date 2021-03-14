@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sat, 13 Mar 2021 19:45:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Mar 2021 07:48:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,22 +21,40 @@
             <pubDate>Mon, 01 Mar 2021 15:56:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[I made a real-time collaborative editor like google docs but for coding interview]]></title>
+            <link>https://caucus-app.herokuapp.com/</link>
+            <guid>https://caucus-app.herokuapp.com/</guid>
+            <pubDate>Sun, 14 Mar 2021 07:37:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spent a few hours and built a reddit search engine using the pushift.io API, this allows you to see all the non deleted and deleted posts of any subreddit/user]]></title>
+            <link>https://henrybalassiano.github.io/reddit-search-engine/</link>
+            <guid>https://henrybalassiano.github.io/reddit-search-engine/</guid>
+            <pubDate>Sat, 13 Mar 2021 22:34:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Help with business card]]></title>
+            <link>https://www.tonybatts.com/</link>
+            <guid>https://www.tonybatts.com/</guid>
+            <pubDate>Sat, 13 Mar 2021 22:55:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Reducers and State Machines]]></title>
             <link>https://en.wikipedia.org/wiki/Frequency_illusion</link>
             <guid>https://en.wikipedia.org/wiki/Frequency_illusion</guid>
             <pubDate>Sat, 13 Mar 2021 16:48:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Generating typescript clients for invoking protobuf services over HTTP]]></title>
+            <link>https://github.com/einride/protoc-gen-typescript-http</link>
+            <guid>https://github.com/einride/protoc-gen-typescript-http</guid>
+            <pubDate>Sat, 13 Mar 2021 20:34:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Just published my first front-end library - Simate : A (sim)ple st(ate) management tool]]></title>
             <link>https://github.com/ceoshikhar/simate</link>
             <guid>https://github.com/ceoshikhar/simate</guid>
             <pubDate>Sat, 13 Mar 2021 19:43:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to create and change multiple index elements.]]></title>
-            <link>https://ushagalaxy.surge.sh/</link>
-            <guid>https://ushagalaxy.surge.sh/</guid>
-            <pubDate>Sat, 13 Mar 2021 19:35:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Material UI Drawer Component not defined]]></title>
@@ -49,30 +67,6 @@
             <link>https://github.com/welldone-software/why-did-you-render</link>
             <guid>https://github.com/welldone-software/why-did-you-render</guid>
             <pubDate>Fri, 12 Mar 2021 11:21:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jest testing useInterval React Hook not working]]></title>
-            <link>https://stackoverflow.com/questions/66614656/jest-testing-useinterval-react-hook-not-working</link>
-            <guid>https://stackoverflow.com/questions/66614656/jest-testing-useinterval-react-hook-not-working</guid>
-            <pubDate>Sat, 13 Mar 2021 14:33:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pass state to another page -> Scroll down and add class to the an element based on calculations]]></title>
-            <link>https://share.getcloudapp.com/7Kup5l6z</link>
-            <guid>https://share.getcloudapp.com/7Kup5l6z</guid>
-            <pubDate>Sat, 13 Mar 2021 14:09:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to style SVG tags `linearGradient` the Tailwind way when using `fill="url(#a)"`?]]></title>
-            <link>https://twitter.com/adamwathan</link>
-            <guid>https://twitter.com/adamwathan</guid>
-            <pubDate>Sat, 13 Mar 2021 13:37:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I developed this memory game while learning ReactJS]]></title>
-            <link>https://www.kobadoo.com/</link>
-            <guid>https://www.kobadoo.com/</guid>
-            <pubDate>Fri, 12 Mar 2021 20:31:59 GMT</pubDate>
         </item>
     </channel>
 </rss>

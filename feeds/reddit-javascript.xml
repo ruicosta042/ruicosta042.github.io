@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sat, 13 Mar 2021 19:45:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Mar 2021 07:48:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -27,10 +27,34 @@
             <pubDate>Sat, 13 Mar 2021 14:40:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[fastify-vite@1.0.7: added support for vueuse/head]]></title>
+            <link>https://github.com/galvez/fastify-vite/releases/tag/v1.0.7</link>
+            <guid>https://github.com/galvez/fastify-vite/releases/tag/v1.0.7</guid>
+            <pubDate>Sun, 14 Mar 2021 04:53:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[goodtimer - setTimeouts for humans + timer functionality]]></title>
+            <link>https://github.com/nickpalenchar/goodtimer</link>
+            <guid>https://github.com/nickpalenchar/goodtimer</guid>
+            <pubDate>Sat, 13 Mar 2021 23:59:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Build a react-router clone from scratch]]></title>
+            <link>https://dev.to/thomascullen/build-a-react-router-clone-from-scratch-38dp</link>
+            <guid>https://dev.to/thomascullen/build-a-react-router-clone-from-scratch-38dp</guid>
+            <pubDate>Sat, 13 Mar 2021 23:19:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[TwoWayGallery (JS Image Gallery)]]></title>
             <link>https://github.com/maximzaika/TwoWayGallery</link>
             <guid>https://github.com/maximzaika/TwoWayGallery</guid>
             <pubDate>Sat, 13 Mar 2021 10:46:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React App with WebSockets implemented inside WebWorker]]></title>
+            <link>https://jpsam7.medium.com/react-app-with-websocket-implemented-inside-webworker-aba6374e54f0</link>
+            <guid>https://jpsam7.medium.com/react-app-with-websocket-implemented-inside-webworker-aba6374e54f0</guid>
+            <pubDate>Sat, 13 Mar 2021 22:14:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Drag and drop for Vue.js made with vue.js (poc)]]></title>
@@ -39,16 +63,16 @@
             <pubDate>Sat, 13 Mar 2021 15:16:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[GitHub's Web Component collection.]]></title>
-            <link>https://github.com/github/github-elements</link>
-            <guid>https://github.com/github/github-elements</guid>
-            <pubDate>Fri, 12 Mar 2021 17:45:33 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[time-series-generator: a library for generating time series]]></title>
             <link>https://github.com/hieunc229/time-series-generator</link>
             <guid>https://github.com/hieunc229/time-series-generator</guid>
             <pubDate>Sat, 13 Mar 2021 07:44:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GitHub's Web Component collection.]]></title>
+            <link>https://github.com/github/github-elements</link>
+            <guid>https://github.com/github/github-elements</guid>
+            <pubDate>Fri, 12 Mar 2021 17:45:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Just published my first front-end library - Simate : A (sim)ple st(ate) management tool]]></title>
@@ -75,16 +99,16 @@
             <pubDate>Fri, 12 Mar 2021 11:09:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[JS Proposal Temporal is now stage 3]]></title>
-            <link>https://github.com/tc39/proposal-temporal/pull/1440</link>
-            <guid>https://github.com/tc39/proposal-temporal/pull/1440</guid>
-            <pubDate>Thu, 11 Mar 2021 19:23:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ember.js in 2021 – a beacon of productivity]]></title>
             <link>https://simplabs.com/blog/2021/03/12/Ember.js-in-2021---a-beacon-of-productivity/</link>
             <guid>https://simplabs.com/blog/2021/03/12/Ember.js-in-2021---a-beacon-of-productivity/</guid>
             <pubDate>Fri, 12 Mar 2021 14:22:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[JS Proposal Temporal is now stage 3]]></title>
+            <link>https://github.com/tc39/proposal-temporal/pull/1440</link>
+            <guid>https://github.com/tc39/proposal-temporal/pull/1440</guid>
+            <pubDate>Thu, 11 Mar 2021 19:23:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Javascript for optimizers: Changing element hierarchy - GrowthPenguin]]></title>
@@ -111,46 +135,22 @@
             <pubDate>Fri, 12 Mar 2021 16:24:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Uploading files to AssemblyAI using Node.js and JavaScript]]></title>
-            <link>https://www.assemblyai.com/blog/uploading-files-to-assemblyai-using-node-js-and-javascript</link>
-            <guid>https://www.assemblyai.com/blog/uploading-files-to-assemblyai-using-node-js-and-javascript</guid>
-            <pubDate>Fri, 12 Mar 2021 12:31:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Add Voice Recognition to React Native Without Adding the Cloud]]></title>
             <link>https://medium.com/picovoice/add-voice-recognition-to-react-native-without-adding-the-cloud-af9e299336e4</link>
             <guid>https://medium.com/picovoice/add-voice-recognition-to-react-native-without-adding-the-cloud-af9e299336e4</guid>
             <pubDate>Thu, 11 Mar 2021 14:53:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Uploading files to AssemblyAI using Node.js and JavaScript]]></title>
+            <link>https://www.assemblyai.com/blog/uploading-files-to-assemblyai-using-node-js-and-javascript</link>
+            <guid>https://www.assemblyai.com/blog/uploading-files-to-assemblyai-using-node-js-and-javascript</guid>
+            <pubDate>Fri, 12 Mar 2021 12:31:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[simple-git-hooks: pre-commit hook manager with 0 dependencies, great performance, and without license problems (in contrast with husky 5)]]></title>
             <link>https://github.com/toplenboren/simple-git-hooks</link>
             <guid>https://github.com/toplenboren/simple-git-hooks</guid>
             <pubDate>Thu, 11 Mar 2021 14:06:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AskJS] Post-interview feedback on NodeJS code exercise]]></title>
-            <link>https://github.com/evanbechtol/catapult</link>
-            <guid>https://github.com/evanbechtol/catapult</guid>
-            <pubDate>Thu, 11 Mar 2021 22:48:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Updates from the 81st meeting of TC39]]></title>
-            <link>https://dev.to/hemanth/updates-from-the-81st-meeting-of-tc39-2b3p</link>
-            <guid>https://dev.to/hemanth/updates-from-the-81st-meeting-of-tc39-2b3p</guid>
-            <pubDate>Thu, 11 Mar 2021 01:23:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Have you encountered of having JavaScript Fatigue? I have a useful insight of what i think about it.]]></title>
-            <link>https://aiscenblue.medium.com/my-javascript-fatigue-c12552095d9a</link>
-            <guid>https://aiscenblue.medium.com/my-javascript-fatigue-c12552095d9a</guid>
-            <pubDate>Fri, 12 Mar 2021 13:15:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reactive Programming with React]]></title>
-            <link>https://dev.to/loreanvictor/reactive-programming-with-react-23dk</link>
-            <guid>https://dev.to/loreanvictor/reactive-programming-with-react-23dk</guid>
-            <pubDate>Thu, 11 Mar 2021 16:14:39 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,28 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Sat, 13 Mar 2021 19:45:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Mar 2021 07:48:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Loan App [Typescript] based off Mono Banking API]]></title>
+            <link>http://mono.co/</link>
+            <guid>http://mono.co/</guid>
+            <pubDate>Sat, 13 Mar 2021 19:21:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A guide to creating nodejs npm package and publish on npm | e Avni Tech]]></title>
+            <link>https://eavnitech.com/blog/a-guide-to-create-nodejs-npm-package-and-publish-on-npm</link>
+            <guid>https://eavnitech.com/blog/a-guide-to-create-nodejs-npm-package-and-publish-on-npm</guid>
+            <pubDate>Sun, 14 Mar 2021 02:58:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to auto update record with knex.js and MySQL]]></title>
+            <link>https://stackoverflow.com/questions/36728899/knex-js-auto-update-trigger</link>
+            <guid>https://stackoverflow.com/questions/36728899/knex-js-auto-update-trigger</guid>
+            <pubDate>Sat, 13 Mar 2021 21:04:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to implement pagination with mongoose and keep the search query when paging?]]></title>
             <link>https://stackoverflow.com/questions/66613372/how-to-implement-pagination-with-mongoose-and-keep-the-search-query-when-paging</link>
@@ -15,16 +33,16 @@
             <pubDate>Sat, 13 Mar 2021 12:32:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[A loan app is written in React [Typescript] using the mono.co API]]></title>
+            <link>https://github.com/Bojale-Labs/Mono-Zero</link>
+            <guid>https://github.com/Bojale-Labs/Mono-Zero</guid>
+            <pubDate>Sat, 13 Mar 2021 21:08:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[New to node having issue with connecting to server]]></title>
             <link>https://betterprogramming.pub/build-a-chat-app-in-node-js-with-room-functionality-6ebbd4b19133</link>
             <guid>https://betterprogramming.pub/build-a-chat-app-in-node-js-with-room-functionality-6ebbd4b19133</guid>
             <pubDate>Sat, 13 Mar 2021 19:25:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Loan App [Typescript] based off Mono Banking API]]></title>
-            <link>http://mono.co/</link>
-            <guid>http://mono.co/</guid>
-            <pubDate>Sat, 13 Mar 2021 19:21:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Simple Twitter Bot Tutorial With Node.js Part 2: Deploy to Server and Schedule Tweets]]></title>
@@ -67,24 +85,6 @@
             <link>https://foo.com/</link>
             <guid>https://foo.com/</guid>
             <pubDate>Fri, 12 Mar 2021 14:18:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Most Popular Databases – 2006/2021]]></title>
-            <link>https://statisticsanddata.org/data/the-most-popular-databases-2006-2021/</link>
-            <guid>https://statisticsanddata.org/data/the-most-popular-databases-2006-2021/</guid>
-            <pubDate>Fri, 12 Mar 2021 17:52:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[Typescript] Custom Type on express.js Request object]]></title>
-            <link>https://codesandbox.io/s/node-express-server-forked-d554x?file=/src/index.ts:398-404</link>
-            <guid>https://codesandbox.io/s/node-express-server-forked-d554x?file=/src/index.ts:398-404</guid>
-            <pubDate>Fri, 12 Mar 2021 17:33:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sending data from node.js backend to show on hover cards with less code]]></title>
-            <link>https://playground.scaledynamics.com/?snippet=60099f3985c335e1155d45af</link>
-            <guid>https://playground.scaledynamics.com/?snippet=60099f3985c335e1155d45af</guid>
-            <pubDate>Fri, 12 Mar 2021 13:59:13 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sun, 14 Mar 2021 13:02:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Mar 2021 19:46:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -33,6 +33,12 @@
             <pubDate>Sun, 14 Mar 2021 07:37:50 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[GlobX - Lightweight & powerful state management for busy people. 90% less code to write in compare to Redux. I took the Redux todo example cloned it and reimplemented it in GlobX . I saved about 90% of the code. GlobX let you change and read any part of the store from every component.]]></title>
+            <link>https://globx.js.org/</link>
+            <guid>https://globx.js.org/</guid>
+            <pubDate>Sun, 14 Mar 2021 16:36:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[React custom hooks: returning a ref from hook vs passing the ref as hooks argument]]></title>
             <link>https://stackoverflow.com/questions/66615493/react-custom-hooks-returning-a-ref-from-hook-vs-passing-the-ref-as-hooks-argume</link>
             <guid>https://stackoverflow.com/questions/66615493/react-custom-hooks-returning-a-ref-from-hook-vs-passing-the-ref-as-hooks-argume</guid>
@@ -49,24 +55,6 @@
             <link>https://atomizedobjects.com/blog/react/how-to-use-formik-in-react/</link>
             <guid>https://atomizedobjects.com/blog/react/how-to-use-formik-in-react/</guid>
             <pubDate>Sun, 14 Mar 2021 11:24:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reducers and State Machines]]></title>
-            <link>https://en.wikipedia.org/wiki/Frequency_illusion</link>
-            <guid>https://en.wikipedia.org/wiki/Frequency_illusion</guid>
-            <pubDate>Sat, 13 Mar 2021 16:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Help with business card]]></title>
-            <link>https://www.tonybatts.com/</link>
-            <guid>https://www.tonybatts.com/</guid>
-            <pubDate>Sat, 13 Mar 2021 22:55:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spent a few hours and built a reddit search engine using the pushift.io API, this allows you to see all the non deleted and deleted posts of any subreddit/user]]></title>
-            <link>https://henrybalassiano.github.io/reddit-search-engine/</link>
-            <guid>https://henrybalassiano.github.io/reddit-search-engine/</guid>
-            <pubDate>Sat, 13 Mar 2021 22:34:33 GMT</pubDate>
         </item>
     </channel>
 </rss>

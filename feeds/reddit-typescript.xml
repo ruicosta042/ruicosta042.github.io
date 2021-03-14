@@ -4,15 +4,27 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Sun, 14 Mar 2021 13:02:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Mar 2021 19:46:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[The Complete Guide to Immutability in TypeScript]]></title>
+            <link>https://levelup.gitconnected.com/the-complete-guide-to-immutability-in-typescript-99154f859fdb</link>
+            <guid>https://levelup.gitconnected.com/the-complete-guide-to-immutability-in-typescript-99154f859fdb</guid>
+            <pubDate>Sun, 14 Mar 2021 17:53:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Art of Type Programming]]></title>
             <link>https://itnext.io/the-art-of-type-programming-cfd933bdfff7</link>
             <guid>https://itnext.io/the-art-of-type-programming-cfd933bdfff7</guid>
             <pubDate>Sun, 14 Mar 2021 04:01:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Using GraphQL Code Generator to create a great developer experience with Typescript and GraphQL]]></title>
+            <link>https://djangoshelton.medium.com/using-graphql-code-generator-to-create-a-great-developer-experience-with-typescript-and-graphql-30e30261b75</link>
+            <guid>https://djangoshelton.medium.com/using-graphql-code-generator-to-create-a-great-developer-experience-with-typescript-and-graphql-30e30261b75</guid>
+            <pubDate>Sun, 14 Mar 2021 19:14:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Typescript clients for invoking Protobuf services over HTTP]]></title>
@@ -61,24 +73,6 @@
             <link>https://github.com/koskimas/kysely</link>
             <guid>https://github.com/koskimas/kysely</guid>
             <pubDate>Wed, 10 Mar 2021 14:26:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Relay adds support for Typescript]]></title>
-            <link>https://relay.dev/blog/2021/03/09/introducing-relay-hooks/</link>
-            <guid>https://relay.dev/blog/2021/03/09/introducing-relay-hooks/</guid>
-            <pubDate>Wed, 10 Mar 2021 02:06:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Release ts-audio v0.4.7]]></title>
-            <link>https://github.com/EvandroLG/ts-audio/releases/tag/v0.4.7</link>
-            <guid>https://github.com/EvandroLG/ts-audio/releases/tag/v0.4.7</guid>
-            <pubDate>Wed, 10 Mar 2021 11:23:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[User-defined type guards in TypeScript]]></title>
-            <link>https://gcollazo.com/user-defined-type-guards-in-typescript/</link>
-            <guid>https://gcollazo.com/user-defined-type-guards-in-typescript/</guid>
-            <pubDate>Wed, 10 Mar 2021 01:53:12 GMT</pubDate>
         </item>
     </channel>
 </rss>

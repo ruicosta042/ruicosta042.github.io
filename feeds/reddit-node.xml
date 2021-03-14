@@ -4,21 +4,21 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Sun, 14 Mar 2021 07:48:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Mar 2021 13:02:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
-        <item>
-            <title><![CDATA[Loan App [Typescript] based off Mono Banking API]]></title>
-            <link>http://mono.co/</link>
-            <guid>http://mono.co/</guid>
-            <pubDate>Sat, 13 Mar 2021 19:21:57 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[A guide to creating nodejs npm package and publish on npm | e Avni Tech]]></title>
             <link>https://eavnitech.com/blog/a-guide-to-create-nodejs-npm-package-and-publish-on-npm</link>
             <guid>https://eavnitech.com/blog/a-guide-to-create-nodejs-npm-package-and-publish-on-npm</guid>
             <pubDate>Sun, 14 Mar 2021 02:58:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Loan App [Typescript] based off Mono Banking API]]></title>
+            <link>http://mono.co/</link>
+            <guid>http://mono.co/</guid>
+            <pubDate>Sat, 13 Mar 2021 19:21:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to auto update record with knex.js and MySQL]]></title>
@@ -73,18 +73,6 @@
             <link>https://multi-tenant-analytics.cube.dev/</link>
             <guid>https://multi-tenant-analytics.cube.dev/</guid>
             <pubDate>Fri, 12 Mar 2021 18:36:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Uploading files to AssemblyAI using Node.js and JavaScript]]></title>
-            <link>https://www.assemblyai.com/blog/uploading-files-to-assemblyai-using-node-js-and-javascript</link>
-            <guid>https://www.assemblyai.com/blog/uploading-files-to-assemblyai-using-node-js-and-javascript</guid>
-            <pubDate>Fri, 12 Mar 2021 12:31:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DevOps Roadmap 2021: How to become a DevOps Engineer?]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Fri, 12 Mar 2021 14:18:26 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sun, 14 Mar 2021 07:48:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Mar 2021 13:02:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,22 +21,34 @@
             <pubDate>Mon, 01 Mar 2021 15:56:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Folder structure of some huge, well known projects]]></title>
+            <link>https://slashgear.github.io/react-redux-pitfalls-and-best-pratices/</link>
+            <guid>https://slashgear.github.io/react-redux-pitfalls-and-best-pratices/</guid>
+            <pubDate>Sun, 14 Mar 2021 08:24:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I made a real-time collaborative editor like google docs but for coding interview]]></title>
             <link>https://caucus-app.herokuapp.com/</link>
             <guid>https://caucus-app.herokuapp.com/</guid>
             <pubDate>Sun, 14 Mar 2021 07:37:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Spent a few hours and built a reddit search engine using the pushift.io API, this allows you to see all the non deleted and deleted posts of any subreddit/user]]></title>
-            <link>https://henrybalassiano.github.io/reddit-search-engine/</link>
-            <guid>https://henrybalassiano.github.io/reddit-search-engine/</guid>
-            <pubDate>Sat, 13 Mar 2021 22:34:33 GMT</pubDate>
+            <title><![CDATA[React custom hooks: returning a ref from hook vs passing the ref as hooks argument]]></title>
+            <link>https://stackoverflow.com/questions/66615493/react-custom-hooks-returning-a-ref-from-hook-vs-passing-the-ref-as-hooks-argume</link>
+            <guid>https://stackoverflow.com/questions/66615493/react-custom-hooks-returning-a-ref-from-hook-vs-passing-the-ref-as-hooks-argume</guid>
+            <pubDate>Sun, 14 Mar 2021 09:29:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Help with business card]]></title>
-            <link>https://www.tonybatts.com/</link>
-            <guid>https://www.tonybatts.com/</guid>
-            <pubDate>Sat, 13 Mar 2021 22:55:38 GMT</pubDate>
+            <title><![CDATA[An Easy Guide to Testing React Hooks]]></title>
+            <link>https://blog.asayer.io/an-easy-guide-to-testing-react-hooks</link>
+            <guid>https://blog.asayer.io/an-easy-guide-to-testing-react-hooks</guid>
+            <pubDate>Sun, 14 Mar 2021 11:45:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to use Formik in React]]></title>
+            <link>https://atomizedobjects.com/blog/react/how-to-use-formik-in-react/</link>
+            <guid>https://atomizedobjects.com/blog/react/how-to-use-formik-in-react/</guid>
+            <pubDate>Sun, 14 Mar 2021 11:24:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Reducers and State Machines]]></title>
@@ -45,28 +57,16 @@
             <pubDate>Sat, 13 Mar 2021 16:48:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Generating typescript clients for invoking protobuf services over HTTP]]></title>
-            <link>https://github.com/einride/protoc-gen-typescript-http</link>
-            <guid>https://github.com/einride/protoc-gen-typescript-http</guid>
-            <pubDate>Sat, 13 Mar 2021 20:34:12 GMT</pubDate>
+            <title><![CDATA[Help with business card]]></title>
+            <link>https://www.tonybatts.com/</link>
+            <guid>https://www.tonybatts.com/</guid>
+            <pubDate>Sat, 13 Mar 2021 22:55:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Just published my first front-end library - Simate : A (sim)ple st(ate) management tool]]></title>
-            <link>https://github.com/ceoshikhar/simate</link>
-            <guid>https://github.com/ceoshikhar/simate</guid>
-            <pubDate>Sat, 13 Mar 2021 19:43:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Material UI Drawer Component not defined]]></title>
-            <link>https://material-ui.com/components/drawers/</link>
-            <guid>https://material-ui.com/components/drawers/</guid>
-            <pubDate>Sat, 13 Mar 2021 18:49:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[As the creator of "why-did-you-render" I would like to ask you if and how do you use it?]]></title>
-            <link>https://github.com/welldone-software/why-did-you-render</link>
-            <guid>https://github.com/welldone-software/why-did-you-render</guid>
-            <pubDate>Fri, 12 Mar 2021 11:21:09 GMT</pubDate>
+            <title><![CDATA[Spent a few hours and built a reddit search engine using the pushift.io API, this allows you to see all the non deleted and deleted posts of any subreddit/user]]></title>
+            <link>https://henrybalassiano.github.io/reddit-search-engine/</link>
+            <guid>https://henrybalassiano.github.io/reddit-search-engine/</guid>
+            <pubDate>Sat, 13 Mar 2021 22:34:33 GMT</pubDate>
         </item>
     </channel>
 </rss>

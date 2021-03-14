@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sun, 14 Mar 2021 07:48:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Mar 2021 13:02:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,24 @@
             <link>https://forms.gle/SDRYKayxb8s7PX9w9</link>
             <guid>https://forms.gle/SDRYKayxb8s7PX9w9</guid>
             <pubDate>Thu, 11 Mar 2021 14:02:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[versionem - Simple and straightforward automated semantic versioning integrated to changelog generation]]></title>
+            <link>https://github.com/henriquehbr/versionem</link>
+            <guid>https://github.com/henriquehbr/versionem</guid>
+            <pubDate>Sun, 14 Mar 2021 07:57:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Modern Javascript - II]]></title>
+            <link>https://dev.to/sinhapiyush/modern-javascript-ii-2h34</link>
+            <guid>https://dev.to/sinhapiyush/modern-javascript-ii-2h34</guid>
+            <pubDate>Sun, 14 Mar 2021 10:38:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[goodtimer - setTimeouts for humans + timer functionality]]></title>
+            <link>https://github.com/nickpalenchar/goodtimer</link>
+            <guid>https://github.com/nickpalenchar/goodtimer</guid>
+            <pubDate>Sat, 13 Mar 2021 23:59:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[moovie.js Movie focused HTML5 Player]]></title>
@@ -27,16 +45,28 @@
             <pubDate>Sat, 13 Mar 2021 14:40:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Use Cases and Requirements for Web Packages]]></title>
+            <link>https://wicg.github.io/webpackage/draft-yasskin-wpack-use-cases.html</link>
+            <guid>https://wicg.github.io/webpackage/draft-yasskin-wpack-use-cases.html</guid>
+            <pubDate>Sun, 14 Mar 2021 09:48:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I build a front-end "framework". Nothing fancy. Just plain old HTML and ES]]></title>
+            <link>https://github.com/i5ik/exoteric.js.git</link>
+            <guid>https://github.com/i5ik/exoteric.js.git</guid>
+            <pubDate>Sun, 14 Mar 2021 12:38:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[fastify-vite@1.0.7: added support for vueuse/head]]></title>
             <link>https://github.com/galvez/fastify-vite/releases/tag/v1.0.7</link>
             <guid>https://github.com/galvez/fastify-vite/releases/tag/v1.0.7</guid>
             <pubDate>Sun, 14 Mar 2021 04:53:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[goodtimer - setTimeouts for humans + timer functionality]]></title>
-            <link>https://github.com/nickpalenchar/goodtimer</link>
-            <guid>https://github.com/nickpalenchar/goodtimer</guid>
-            <pubDate>Sat, 13 Mar 2021 23:59:30 GMT</pubDate>
+            <title><![CDATA[order-book-heatmap.js - a low latency heatmap visualizing rapid changes in live markets, built with D3 & WS]]></title>
+            <link>https://github.com/Elenchev/order-book-heatmap</link>
+            <guid>https://github.com/Elenchev/order-book-heatmap</guid>
+            <pubDate>Sun, 14 Mar 2021 12:01:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Build a react-router clone from scratch]]></title>
@@ -45,16 +75,22 @@
             <pubDate>Sat, 13 Mar 2021 23:19:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[TwoWayGallery (JS Image Gallery)]]></title>
-            <link>https://github.com/maximzaika/TwoWayGallery</link>
-            <guid>https://github.com/maximzaika/TwoWayGallery</guid>
-            <pubDate>Sat, 13 Mar 2021 10:46:33 GMT</pubDate>
+            <title><![CDATA[Modern Javascript - I]]></title>
+            <link>https://dev.to/sinhapiyush/modern-javascript-1jk3</link>
+            <guid>https://dev.to/sinhapiyush/modern-javascript-1jk3</guid>
+            <pubDate>Sun, 14 Mar 2021 10:35:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[React App with WebSockets implemented inside WebWorker]]></title>
             <link>https://jpsam7.medium.com/react-app-with-websocket-implemented-inside-webworker-aba6374e54f0</link>
             <guid>https://jpsam7.medium.com/react-app-with-websocket-implemented-inside-webworker-aba6374e54f0</guid>
             <pubDate>Sat, 13 Mar 2021 22:14:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TwoWayGallery (JS Image Gallery)]]></title>
+            <link>https://github.com/maximzaika/TwoWayGallery</link>
+            <guid>https://github.com/maximzaika/TwoWayGallery</guid>
+            <pubDate>Sat, 13 Mar 2021 10:46:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Drag and drop for Vue.js made with vue.js (poc)]]></title>
@@ -115,42 +151,6 @@
             <link>https://jeroenwiersma.com/javascript-for-optimizers-changing-element-hierarchy/</link>
             <guid>https://jeroenwiersma.com/javascript-for-optimizers-changing-element-hierarchy/</guid>
             <pubDate>Fri, 12 Mar 2021 19:03:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Urpflanze Core: Typescript library for genarate 2d shapes]]></title>
-            <link>https://github.com/urpflanze-org/core</link>
-            <guid>https://github.com/urpflanze-org/core</guid>
-            <pubDate>Fri, 12 Mar 2021 21:13:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A brief introduction to functional programming concepts in JavaScript !!!]]></title>
-            <link>https://dev.to/bryaneduardoga/a-brief-introduction-to-functional-programming-concepts-in-javascript-5bg9</link>
-            <guid>https://dev.to/bryaneduardoga/a-brief-introduction-to-functional-programming-concepts-in-javascript-5bg9</guid>
-            <pubDate>Fri, 12 Mar 2021 20:03:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Create and share QR codes with Swedish football statistics]]></title>
-            <link>https://allsvenskan.netlify.app/</link>
-            <guid>https://allsvenskan.netlify.app/</guid>
-            <pubDate>Fri, 12 Mar 2021 16:24:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Add Voice Recognition to React Native Without Adding the Cloud]]></title>
-            <link>https://medium.com/picovoice/add-voice-recognition-to-react-native-without-adding-the-cloud-af9e299336e4</link>
-            <guid>https://medium.com/picovoice/add-voice-recognition-to-react-native-without-adding-the-cloud-af9e299336e4</guid>
-            <pubDate>Thu, 11 Mar 2021 14:53:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Uploading files to AssemblyAI using Node.js and JavaScript]]></title>
-            <link>https://www.assemblyai.com/blog/uploading-files-to-assemblyai-using-node-js-and-javascript</link>
-            <guid>https://www.assemblyai.com/blog/uploading-files-to-assemblyai-using-node-js-and-javascript</guid>
-            <pubDate>Fri, 12 Mar 2021 12:31:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[simple-git-hooks: pre-commit hook manager with 0 dependencies, great performance, and without license problems (in contrast with husky 5)]]></title>
-            <link>https://github.com/toplenboren/simple-git-hooks</link>
-            <guid>https://github.com/toplenboren/simple-git-hooks</guid>
-            <pubDate>Thu, 11 Mar 2021 14:06:44 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Sun, 14 Mar 2021 07:48:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Mar 2021 13:02:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -79,12 +79,6 @@
             <link>https://gcollazo.com/user-defined-type-guards-in-typescript/</link>
             <guid>https://gcollazo.com/user-defined-type-guards-in-typescript/</guid>
             <pubDate>Wed, 10 Mar 2021 01:53:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[typed-react-form: A fast, completely type-checked React form builder.]]></title>
-            <link>https://github.com/CodeStix/typed-react-form</link>
-            <guid>https://github.com/CodeStix/typed-react-form</guid>
-            <pubDate>Tue, 09 Mar 2021 22:33:08 GMT</pubDate>
         </item>
     </channel>
 </rss>

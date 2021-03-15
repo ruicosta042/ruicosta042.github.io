@@ -4,10 +4,28 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Mon, 15 Mar 2021 13:06:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Mar 2021 19:50:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[CSS defines functions to repeat gradients]]></title>
+            <link>https://www.stefanjudis.com/today-i-learned/css-defines-functions-to-repeat-gradients/</link>
+            <guid>https://www.stefanjudis.com/today-i-learned/css-defines-functions-to-repeat-gradients/</guid>
+            <pubDate>Mon, 15 Mar 2021 14:07:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Animated Day and Night Toggle Switch]]></title>
+            <link>https://www.webtips.dev/how-to-make-an-animated-day-and-night-toggle-switch</link>
+            <guid>https://www.webtips.dev/how-to-make-an-animated-day-and-night-toggle-switch</guid>
+            <pubDate>Mon, 15 Mar 2021 17:21:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Three lines of CSS to center anything horizontally and vertically]]></title>
+            <link>https://www.amitmerchant.com/three-lines-of-css-to-center-anything-horizontally-and-vertically/</link>
+            <guid>https://www.amitmerchant.com/three-lines-of-css-to-center-anything-horizontally-and-vertically/</guid>
+            <pubDate>Mon, 15 Mar 2021 17:27:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to use HTML with CSS inside SVG]]></title>
             <link>https://www.amitmerchant.com/how-to-use-html-in-svg-using-foreignobject/</link>
@@ -55,12 +73,6 @@
             <link>https://jsfiddle.net/z7mLju92/</link>
             <guid>https://jsfiddle.net/z7mLju92/</guid>
             <pubDate>Sat, 13 Mar 2021 18:55:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[System fonts don’t have to be ugly]]></title>
-            <link>https://iainbean.com/posts/2021/system-fonts-dont-have-to-be-ugly/</link>
-            <guid>https://iainbean.com/posts/2021/system-fonts-dont-have-to-be-ugly/</guid>
-            <pubDate>Fri, 12 Mar 2021 13:58:51 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,16 +4,10 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Mon, 15 Mar 2021 13:06:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Mar 2021 19:50:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
-        <item>
-            <title><![CDATA[Who's Hiring? [March 2021]]]></title>
-            <link>https://news.ycombinator.com/item?id=21683554</link>
-            <guid>https://news.ycombinator.com/item?id=21683554</guid>
-            <pubDate>Mon, 01 Mar 2021 15:56:50 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Beginner's Thread / Easy Questions (March 2021)]]></title>
             <link>https://jsfiddle.net/Luktwrdm/</link>
@@ -21,10 +15,10 @@
             <pubDate>Mon, 01 Mar 2021 15:56:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[From the eyes of a junior developer — Adding Loading fields on Redux sucks (sometimes)]]></title>
-            <link>https://tagdiwalaviral.medium.com/from-the-eyes-of-a-junior-developer-adding-loading-fields-on-redux-sucks-sometimes-acb1c042fe7a</link>
-            <guid>https://tagdiwalaviral.medium.com/from-the-eyes-of-a-junior-developer-adding-loading-fields-on-redux-sucks-sometimes-acb1c042fe7a</guid>
-            <pubDate>Mon, 15 Mar 2021 09:48:27 GMT</pubDate>
+            <title><![CDATA[What Would Happen If You Mutated Your React Redux State?]]></title>
+            <link>https://blog.bam.tech/developer-news/what-would-happen-if-you-mutated-your-react-redux-state</link>
+            <guid>https://blog.bam.tech/developer-news/what-would-happen-if-you-mutated-your-react-redux-state</guid>
+            <pubDate>Mon, 15 Mar 2021 14:02:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[7 Ways to Debug Jest Tests in Terminal]]></title>
@@ -33,52 +27,64 @@
             <pubDate>Mon, 15 Mar 2021 11:22:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Just-In-Time: The Next Generation of Tailwind CSS – Tailwind CSS]]></title>
+            <link>https://blog.tailwindcss.com/just-in-time-the-next-generation-of-tailwind-css</link>
+            <guid>https://blog.tailwindcss.com/just-in-time-the-next-generation-of-tailwind-css</guid>
+            <pubDate>Mon, 15 Mar 2021 19:19:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[25.33% Reduction in First Load JS with NextJS Dynamic Imports]]></title>
+            <link>https://thekevinwang.com/2021/03/15/reduce-first-load-js/</link>
+            <guid>https://thekevinwang.com/2021/03/15/reduce-first-load-js/</guid>
+            <pubDate>Mon, 15 Mar 2021 14:27:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Just got resizable columns working on my react-virtualized MultiGrid, here's how...]]></title>
             <link>https://github.com/man-group/dtale</link>
             <guid>https://github.com/man-group/dtale</guid>
             <pubDate>Mon, 15 Mar 2021 11:10:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Reactive Programming with React]]></title>
-            <link>https://dev.to/loreanvictor/reactive-programming-with-react-23dk</link>
-            <guid>https://dev.to/loreanvictor/reactive-programming-with-react-23dk</guid>
-            <pubDate>Mon, 15 Mar 2021 08:27:31 GMT</pubDate>
+            <title><![CDATA[From the eyes of a junior developer — Adding Loading fields on Redux sucks (sometimes)]]></title>
+            <link>https://tagdiwalaviral.medium.com/from-the-eyes-of-a-junior-developer-adding-loading-fields-on-redux-sucks-sometimes-acb1c042fe7a</link>
+            <guid>https://tagdiwalaviral.medium.com/from-the-eyes-of-a-junior-developer-adding-loading-fields-on-redux-sucks-sometimes-acb1c042fe7a</guid>
+            <pubDate>Mon, 15 Mar 2021 09:48:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Folder structure of some huge, well known projects]]></title>
-            <link>https://slashgear.github.io/react-redux-pitfalls-and-best-pratices/</link>
-            <guid>https://slashgear.github.io/react-redux-pitfalls-and-best-pratices/</guid>
-            <pubDate>Sun, 14 Mar 2021 08:24:56 GMT</pubDate>
+            <title><![CDATA[TLDR of the Internet]]></title>
+            <link>https://tldroftheinternet.herokuapp.com/</link>
+            <guid>https://tldroftheinternet.herokuapp.com/</guid>
+            <pubDate>Mon, 15 Mar 2021 14:30:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Is there a way to Jest test and spy on Web Notification API?]]></title>
-            <link>https://stackoverflow.com/questions/66631725/is-there-a-way-to-jest-test-and-spy-on-web-notification-api</link>
-            <guid>https://stackoverflow.com/questions/66631725/is-there-a-way-to-jest-test-and-spy-on-web-notification-api</guid>
-            <pubDate>Mon, 15 Mar 2021 02:43:46 GMT</pubDate>
+            <title><![CDATA[Jest vs. Cypress Questionare]]></title>
+            <link>https://forms.gle/knCU91FRFEWD2s327</link>
+            <guid>https://forms.gle/knCU91FRFEWD2s327</guid>
+            <pubDate>Mon, 15 Mar 2021 18:13:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dynamic Form Generation Using Java Objects]]></title>
-            <link>https://bitbucket.org/CodingCrayons/aspectfaces/wiki/Home</link>
-            <guid>https://bitbucket.org/CodingCrayons/aspectfaces/wiki/Home</guid>
-            <pubDate>Mon, 15 Mar 2021 02:34:32 GMT</pubDate>
+            <title><![CDATA[Is it possible to save page number in primereact datatable?]]></title>
+            <link>https://www.primefaces.org/primereact/showcase/#/datatable/filter</link>
+            <guid>https://www.primefaces.org/primereact/showcase/#/datatable/filter</guid>
+            <pubDate>Mon, 15 Mar 2021 19:45:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fetch Shared Data in Next.js With Single Request]]></title>
-            <link>https://medium.com/@akellbl4/fetch-shared-data-in-next-js-with-single-request-833433fa8ed1?source=friends_link&amp;sk=27cf795d55a0add65aca53be299d5ac6</link>
-            <guid>https://medium.com/@akellbl4/fetch-shared-data-in-next-js-with-single-request-833433fa8ed1?source=friends_link&amp;sk=27cf795d55a0add65aca53be299d5ac6</guid>
-            <pubDate>Sun, 14 Mar 2021 22:08:29 GMT</pubDate>
+            <title><![CDATA[Open source UI Design Language and React UI library made by #Synerise team]]></title>
+            <link>https://reactjsexample.com/a-ui-design-language-and-react-ui-library-for-synerise-components/</link>
+            <guid>https://reactjsexample.com/a-ui-design-language-and-react-ui-library-for-synerise-components/</guid>
+            <pubDate>Mon, 15 Mar 2021 18:02:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[HOW DO I FIX THIS ERROR]]></title>
-            <link>http://yarnpkg.com/</link>
-            <guid>http://yarnpkg.com/</guid>
-            <pubDate>Mon, 15 Mar 2021 09:43:55 GMT</pubDate>
+            <title><![CDATA[Planning for change / Staying flexible to accommodate special cases anywhere]]></title>
+            <link>https://github.com/kentcdodds/use-deep-compare-effect/blob/main/src/index.ts#L33</link>
+            <guid>https://github.com/kentcdodds/use-deep-compare-effect/blob/main/src/index.ts#L33</guid>
+            <pubDate>Mon, 15 Mar 2021 16:32:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I made a real-time collaborative editor like google docs but for coding interview]]></title>
-            <link>https://caucus-app.herokuapp.com/</link>
-            <guid>https://caucus-app.herokuapp.com/</guid>
-            <pubDate>Sun, 14 Mar 2021 07:37:50 GMT</pubDate>
+            <title><![CDATA[Look ma, no Hooks!]]></title>
+            <link>https://github.com/kapolos/react-godfather</link>
+            <guid>https://github.com/kapolos/react-godfather</guid>
+            <pubDate>Mon, 15 Mar 2021 16:19:40 GMT</pubDate>
         </item>
     </channel>
 </rss>

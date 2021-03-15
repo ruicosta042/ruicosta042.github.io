@@ -4,7 +4,7 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Mon, 15 Mar 2021 13:06:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Mar 2021 19:50:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,40 @@
             <pubDate>Mon, 15 Mar 2021 08:34:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Managing date and time with PostgreSQL and TypeORM]]></title>
+            <link>https://wanago.io/2021/03/15/postgresql-typeorm-date-time/</link>
+            <guid>https://wanago.io/2021/03/15/postgresql-typeorm-date-time/</guid>
+            <pubDate>Mon, 15 Mar 2021 18:52:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Angular, JavaScript, CSS, Html, NodeJS quick overview...]]></title>
+            <link>https://www.tutorialslogic.com/node-js?v.lat.v</link>
+            <guid>https://www.tutorialslogic.com/node-js?v.lat.v</guid>
+            <pubDate>Mon, 15 Mar 2021 18:40:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Server-Sent (Push) Events in NodeJS]]></title>
+            <link>https://moinism.medium.com/using-nodejs-for-uni-directional-event-streaming-sse-c80538e6e82e</link>
+            <guid>https://moinism.medium.com/using-nodejs-for-uni-directional-event-streaming-sse-c80538e6e82e</guid>
+            <pubDate>Mon, 15 Mar 2021 15:23:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[7 Ways to Debug Jest Tests in Terminal]]></title>
             <link>https://pragmaticpineapple.com/7-ways-to-debug-jest-tests-in-terminal/</link>
             <guid>https://pragmaticpineapple.com/7-ways-to-debug-jest-tests-in-terminal/</guid>
             <pubDate>Mon, 15 Mar 2021 11:25:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Error "Invalid header value char"/"HPE_INVALID_HEADER_TOKEN" using 'follow-redirects' package]]></title>
+            <link>https://www.npmjs.com/package/follow-redirects</link>
+            <guid>https://www.npmjs.com/package/follow-redirects</guid>
+            <pubDate>Mon, 15 Mar 2021 16:25:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I'm giving away full access to Nodejs Express React boilerplate for SaaS.]]></title>
+            <link>https://userocket.herokuapp.com/</link>
+            <guid>https://userocket.herokuapp.com/</guid>
+            <pubDate>Mon, 15 Mar 2021 18:59:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fluent JSON validator -- an easy-to-use and flexible JSON object validator with a nice builder pattern API!]]></title>
@@ -67,18 +97,6 @@
             <link>https://kk.je/nodejs-libraries-for-game-bot-development/</link>
             <guid>https://kk.je/nodejs-libraries-for-game-bot-development/</guid>
             <pubDate>Sun, 14 Mar 2021 20:05:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Loan App [Typescript] based off Mono Banking API]]></title>
-            <link>http://mono.co/</link>
-            <guid>http://mono.co/</guid>
-            <pubDate>Sat, 13 Mar 2021 19:21:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to auto update record with knex.js and MySQL]]></title>
-            <link>https://stackoverflow.com/questions/36728899/knex-js-auto-update-trigger</link>
-            <guid>https://stackoverflow.com/questions/36728899/knex-js-auto-update-trigger</guid>
-            <pubDate>Sat, 13 Mar 2021 21:04:20 GMT</pubDate>
         </item>
     </channel>
 </rss>

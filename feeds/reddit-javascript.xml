@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Mon, 15 Mar 2021 13:06:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Mar 2021 19:50:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,12 @@
             <link>https://foo.com/</link>
             <guid>https://foo.com/</guid>
             <pubDate>Mon, 15 Mar 2021 09:04:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[web-minecraft: Minecraft client written in Javascript]]></title>
+            <link>https://web-minecraft.herokuapp.com/</link>
+            <guid>https://web-minecraft.herokuapp.com/</guid>
+            <pubDate>Mon, 15 Mar 2021 11:58:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[useEncapsulation]]></title>
@@ -27,22 +33,10 @@
             <pubDate>Sun, 14 Mar 2021 19:14:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[web-minecraft: Minecraft client written in Javascript]]></title>
-            <link>https://web-minecraft.herokuapp.com/</link>
-            <guid>https://web-minecraft.herokuapp.com/</guid>
-            <pubDate>Mon, 15 Mar 2021 11:58:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Attend the JSNation online event for free! More info in the comment]]></title>
-            <link>https://live.jsnation.com/</link>
-            <guid>https://live.jsnation.com/</guid>
-            <pubDate>Mon, 15 Mar 2021 09:29:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Best Practices for JAMStack Projects in Production at Scale]]></title>
-            <link>https://hasura.io/blog/best-practices-jamstack-projects-production-scale/</link>
-            <guid>https://hasura.io/blog/best-practices-jamstack-projects-production-scale/</guid>
-            <pubDate>Mon, 15 Mar 2021 10:20:22 GMT</pubDate>
+            <title><![CDATA[A look at the CSS Paint API]]></title>
+            <link>https://www.webtips.dev/how-to-make-dynamic-backgrounds-with-the-css-paint-api</link>
+            <guid>https://www.webtips.dev/how-to-make-dynamic-backgrounds-with-the-css-paint-api</guid>
+            <pubDate>Mon, 15 Mar 2021 16:54:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Generate a PDF in JS Summary and comparison of libraries]]></title>
@@ -51,10 +45,46 @@
             <pubDate>Mon, 15 Mar 2021 11:48:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Write code. Not too much. Mostly functions.]]></title>
-            <link>https://www.brandonsmith.ninja/blog/write-code-not-too-much-mostly-functions</link>
-            <guid>https://www.brandonsmith.ninja/blog/write-code-not-too-much-mostly-functions</guid>
-            <pubDate>Sun, 14 Mar 2021 23:16:09 GMT</pubDate>
+            <title><![CDATA[Quick, zero-setup, persistent State management with Stoxy]]></title>
+            <link>https://dev.to/matsuuu/quick-zero-setup-persistent-state-management-with-stoxy-5f2i</link>
+            <guid>https://dev.to/matsuuu/quick-zero-setup-persistent-state-management-with-stoxy-5f2i</guid>
+            <pubDate>Mon, 15 Mar 2021 19:15:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[svgj: convert .svg into jsx 40x faster than svgr & an esbuild plugin to import svg as jsx]]></title>
+            <link>https://github.com/Jarred-Sumner/svgj</link>
+            <guid>https://github.com/Jarred-Sumner/svgj</guid>
+            <pubDate>Mon, 15 Mar 2021 19:07:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Speech Synthesis on Firefox is broken]]></title>
+            <link>https://bugzilla.mozilla.org/show_bug.cgi?id=1666703</link>
+            <guid>https://bugzilla.mozilla.org/show_bug.cgi?id=1666703</guid>
+            <pubDate>Mon, 15 Mar 2021 18:38:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The #1 tip to familiarize with new JavaScript Codebases]]></title>
+            <link>https://www.kevinpeters.net/the-fastest-way-to-understand-new-code-bases</link>
+            <guid>https://www.kevinpeters.net/the-fastest-way-to-understand-new-code-bases</guid>
+            <pubDate>Mon, 15 Mar 2021 14:40:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Building a Rejection Hotline with Twilio]]></title>
+            <link>https://leemartin.dev/building-a-rejection-hotline-with-twilio-for-peach-prc-49f426a90664</link>
+            <guid>https://leemartin.dev/building-a-rejection-hotline-with-twilio-for-peach-prc-49f426a90664</guid>
+            <pubDate>Mon, 15 Mar 2021 14:08:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Typescript declaration generator for svelte with typescript]]></title>
+            <link>https://github.com/andrelmlins/svelte-dts</link>
+            <guid>https://github.com/andrelmlins/svelte-dts</guid>
+            <pubDate>Mon, 15 Mar 2021 17:50:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[V8 Deep Dives] Understanding Array Internals]]></title>
+            <link>https://apechkurov.medium.com/v8-deep-dives-understanding-array-internals-5b17d7a28ecc</link>
+            <guid>https://apechkurov.medium.com/v8-deep-dives-understanding-array-internals-5b17d7a28ecc</guid>
+            <pubDate>Mon, 15 Mar 2021 16:27:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Micro library for batch running promises]]></title>
@@ -69,12 +99,6 @@
             <pubDate>Mon, 15 Mar 2021 02:33:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Draw Stuffs to Canvas Easily with JSX (or XML)]]></title>
-            <link>https://dev.to/thorx86/draw-canvas-with-jsx-or-xml-2b74</link>
-            <guid>https://dev.to/thorx86/draw-canvas-with-jsx-or-xml-2b74</guid>
-            <pubDate>Mon, 15 Mar 2021 06:03:13 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[7 Ways to Debug Jest Tests in Terminal]]></title>
             <link>https://pragmaticpineapple.com/7-ways-to-debug-jest-tests-in-terminal/</link>
             <guid>https://pragmaticpineapple.com/7-ways-to-debug-jest-tests-in-terminal/</guid>
@@ -87,28 +111,10 @@
             <pubDate>Mon, 15 Mar 2021 07:20:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Reduce Your Cloud Spend and Improve Performance with AWS gp3 EBS Volumes - DevGraph]]></title>
-            <link>https://www.devgraph.com/2021/03/11/reduce-your-cloud-spend-and-improve-performance-with-aws-gp3-ebs-volumes/?reddit</link>
-            <guid>https://www.devgraph.com/2021/03/11/reduce-your-cloud-spend-and-improve-performance-with-aws-gp3-ebs-volumes/?reddit</guid>
-            <pubDate>Mon, 15 Mar 2021 09:42:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SQLfuzz new release with postgres support]]></title>
-            <link>https://github.com/PumpkinSeed/sqlfuzz</link>
-            <guid>https://github.com/PumpkinSeed/sqlfuzz</guid>
-            <pubDate>Sun, 14 Mar 2021 14:17:56 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[versionem - Simple and straightforward automated semantic versioning integrated to changelog generation]]></title>
             <link>https://github.com/henriquehbr/versionem</link>
             <guid>https://github.com/henriquehbr/versionem</guid>
             <pubDate>Sun, 14 Mar 2021 07:57:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Separation of logic and template in React using a "high order hook"]]></title>
-            <link>https://yuval.hashnode.dev/separation-of-logic-and-template-in-react-using-a-high-order-hook-ckm3qhtno0293ugs163rs1yvt</link>
-            <guid>https://yuval.hashnode.dev/separation-of-logic-and-template-in-react-using-a-high-order-hook-ckm3qhtno0293ugs163rs1yvt</guid>
-            <pubDate>Mon, 15 Mar 2021 04:18:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[order-book-heatmap.js - a low latency heatmap visualizing rapid changes in live markets, built with D3 & WS]]></title>
@@ -117,16 +123,10 @@
             <pubDate>Sun, 14 Mar 2021 12:01:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[10 JavaScript array functions you should start using today]]></title>
-            <link>https://geshan.com.np/blog/2021/03/javascript-array-functions/</link>
-            <guid>https://geshan.com.np/blog/2021/03/javascript-array-functions/</guid>
-            <pubDate>Mon, 15 Mar 2021 11:26:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React vs. Vue in 2021: Best JavaScript Framework]]></title>
-            <link>https://evrone.com/react-vs-vue</link>
-            <guid>https://evrone.com/react-vs-vue</guid>
-            <pubDate>Mon, 15 Mar 2021 10:14:17 GMT</pubDate>
+            <title><![CDATA[Draw Stuffs to Canvas Easily with JSX (or XML)]]></title>
+            <link>https://dev.to/thorx86/draw-canvas-with-jsx-or-xml-2b74</link>
+            <guid>https://dev.to/thorx86/draw-canvas-with-jsx-or-xml-2b74</guid>
+            <pubDate>Mon, 15 Mar 2021 06:03:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Modern Javascript - II]]></title>
@@ -135,28 +135,22 @@
             <pubDate>Sun, 14 Mar 2021 10:38:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[eBook] From Programmer To Engineer]]></title>
-            <link>https://fromprogrammertoengineer.com/</link>
-            <guid>https://fromprogrammertoengineer.com/</guid>
-            <pubDate>Mon, 15 Mar 2021 01:57:41 GMT</pubDate>
+            <title><![CDATA[OOP Design Patterns Considered Harmful]]></title>
+            <link>https://suzdalnitski.com/oop-design-patterns-bd2c4fb3014c</link>
+            <guid>https://suzdalnitski.com/oop-design-patterns-bd2c4fb3014c</guid>
+            <pubDate>Mon, 15 Mar 2021 14:21:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Separation of logic and template in React using a "high order hook"]]></title>
+            <link>https://yuval.hashnode.dev/separation-of-logic-and-template-in-react-using-a-high-order-hook-ckm3qhtno0293ugs163rs1yvt</link>
+            <guid>https://yuval.hashnode.dev/separation-of-logic-and-template-in-react-using-a-high-order-hook-ckm3qhtno0293ugs163rs1yvt</guid>
+            <pubDate>Mon, 15 Mar 2021 04:18:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I build a front-end "framework". Nothing fancy. Just plain old HTML and ES]]></title>
             <link>https://github.com/i5ik/exoteric.js.git</link>
             <guid>https://github.com/i5ik/exoteric.js.git</guid>
             <pubDate>Sun, 14 Mar 2021 12:38:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[goodtimer - setTimeouts for humans + timer functionality]]></title>
-            <link>https://github.com/nickpalenchar/goodtimer</link>
-            <guid>https://github.com/nickpalenchar/goodtimer</guid>
-            <pubDate>Sat, 13 Mar 2021 23:59:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why serverless fits side-projects perfectly]]></title>
-            <link>https://swizec.com/blog/why-serverless-fits-side-projects-perfectly</link>
-            <guid>https://swizec.com/blog/why-serverless-fits-side-projects-perfectly</guid>
-            <pubDate>Sun, 14 Mar 2021 17:40:37 GMT</pubDate>
         </item>
     </channel>
 </rss>

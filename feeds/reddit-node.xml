@@ -4,15 +4,33 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Mon, 15 Mar 2021 07:47:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Mar 2021 13:06:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Maintaining REST API Documentation with Node.js]]></title>
+            <link>https://medium.com/pipedrive-engineering/maintaining-rest-api-documentation-with-node-js-part-i-65e9700e3b30?source=friends_link&amp;sk=1c6a1d476a3927ee4519cdabd28fd527</link>
+            <guid>https://medium.com/pipedrive-engineering/maintaining-rest-api-documentation-with-node-js-part-i-65e9700e3b30?source=friends_link&amp;sk=1c6a1d476a3927ee4519cdabd28fd527</guid>
+            <pubDate>Mon, 15 Mar 2021 08:34:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[7 Ways to Debug Jest Tests in Terminal]]></title>
+            <link>https://pragmaticpineapple.com/7-ways-to-debug-jest-tests-in-terminal/</link>
+            <guid>https://pragmaticpineapple.com/7-ways-to-debug-jest-tests-in-terminal/</guid>
+            <pubDate>Mon, 15 Mar 2021 11:25:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fluent JSON validator -- an easy-to-use and flexible JSON object validator with a nice builder pattern API!]]></title>
             <link>https://github.com/Semmu/fluent-json-validator</link>
             <guid>https://github.com/Semmu/fluent-json-validator</guid>
             <pubDate>Sun, 14 Mar 2021 15:13:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10 JavaScript array functions you should start using today -- Node.js example]]></title>
+            <link>https://geshan.com.np/blog/2021/03/javascript-array-functions/</link>
+            <guid>https://geshan.com.np/blog/2021/03/javascript-array-functions/</guid>
+            <pubDate>Mon, 15 Mar 2021 11:26:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[low.js | Node.js for microcontrollers]]></title>
@@ -27,16 +45,16 @@
             <pubDate>Sun, 14 Mar 2021 15:26:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Architecture suggestion for creating mid-size web application / service]]></title>
-            <link>https://asp.net/</link>
-            <guid>https://asp.net/</guid>
-            <pubDate>Sun, 14 Mar 2021 14:58:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Node JS boilerplate app with 3 layered architecture, separate loaders, event emitters for background jobs, jest for testing.]]></title>
             <link>https://github.com/shanshaji/nodejs-starter</link>
             <guid>https://github.com/shanshaji/nodejs-starter</guid>
             <pubDate>Mon, 15 Mar 2021 02:07:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Architecture suggestion for creating mid-size web application / service]]></title>
+            <link>https://asp.net/</link>
+            <guid>https://asp.net/</guid>
+            <pubDate>Sun, 14 Mar 2021 14:58:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A guide to creating nodejs npm package and publish on npm | e Avni Tech]]></title>
@@ -61,18 +79,6 @@
             <link>https://stackoverflow.com/questions/36728899/knex-js-auto-update-trigger</link>
             <guid>https://stackoverflow.com/questions/36728899/knex-js-auto-update-trigger</guid>
             <pubDate>Sat, 13 Mar 2021 21:04:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to implement pagination with mongoose and keep the search query when paging?]]></title>
-            <link>https://stackoverflow.com/questions/66613372/how-to-implement-pagination-with-mongoose-and-keep-the-search-query-when-paging</link>
-            <guid>https://stackoverflow.com/questions/66613372/how-to-implement-pagination-with-mongoose-and-keep-the-search-query-when-paging</guid>
-            <pubDate>Sat, 13 Mar 2021 12:32:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A loan app is written in React [Typescript] using the mono.co API]]></title>
-            <link>https://github.com/Bojale-Labs/Mono-Zero</link>
-            <guid>https://github.com/Bojale-Labs/Mono-Zero</guid>
-            <pubDate>Sat, 13 Mar 2021 21:08:46 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Mon, 15 Mar 2021 07:47:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Mar 2021 13:06:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -19,6 +19,30 @@
             <link>https://jsfiddle.net/Luktwrdm/</link>
             <guid>https://jsfiddle.net/Luktwrdm/</guid>
             <pubDate>Mon, 01 Mar 2021 15:56:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[From the eyes of a junior developer — Adding Loading fields on Redux sucks (sometimes)]]></title>
+            <link>https://tagdiwalaviral.medium.com/from-the-eyes-of-a-junior-developer-adding-loading-fields-on-redux-sucks-sometimes-acb1c042fe7a</link>
+            <guid>https://tagdiwalaviral.medium.com/from-the-eyes-of-a-junior-developer-adding-loading-fields-on-redux-sucks-sometimes-acb1c042fe7a</guid>
+            <pubDate>Mon, 15 Mar 2021 09:48:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[7 Ways to Debug Jest Tests in Terminal]]></title>
+            <link>https://pragmaticpineapple.com/7-ways-to-debug-jest-tests-in-terminal/</link>
+            <guid>https://pragmaticpineapple.com/7-ways-to-debug-jest-tests-in-terminal/</guid>
+            <pubDate>Mon, 15 Mar 2021 11:22:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Just got resizable columns working on my react-virtualized MultiGrid, here's how...]]></title>
+            <link>https://github.com/man-group/dtale</link>
+            <guid>https://github.com/man-group/dtale</guid>
+            <pubDate>Mon, 15 Mar 2021 11:10:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reactive Programming with React]]></title>
+            <link>https://dev.to/loreanvictor/reactive-programming-with-react-23dk</link>
+            <guid>https://dev.to/loreanvictor/reactive-programming-with-react-23dk</guid>
+            <pubDate>Mon, 15 Mar 2021 08:27:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Folder structure of some huge, well known projects]]></title>
@@ -45,16 +69,16 @@
             <pubDate>Sun, 14 Mar 2021 22:08:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[HOW DO I FIX THIS ERROR]]></title>
+            <link>http://yarnpkg.com/</link>
+            <guid>http://yarnpkg.com/</guid>
+            <pubDate>Mon, 15 Mar 2021 09:43:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I made a real-time collaborative editor like google docs but for coding interview]]></title>
             <link>https://caucus-app.herokuapp.com/</link>
             <guid>https://caucus-app.herokuapp.com/</guid>
             <pubDate>Sun, 14 Mar 2021 07:37:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GlobX - Lightweight & powerful state management for busy people. 90% less code to write in compare to Redux. I took the Redux todo example cloned it and reimplemented it in GlobX . I saved about 90% of the code. GlobX let you change and read any part of the store from every component.]]></title>
-            <link>https://globx.js.org/</link>
-            <guid>https://globx.js.org/</guid>
-            <pubDate>Sun, 14 Mar 2021 16:36:04 GMT</pubDate>
         </item>
     </channel>
 </rss>

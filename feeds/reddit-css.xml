@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Mon, 15 Mar 2021 07:47:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Mar 2021 13:06:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,12 @@
             <link>https://www.amitmerchant.com/how-to-use-html-in-svg-using-foreignobject/</link>
             <guid>https://www.amitmerchant.com/how-to-use-html-in-svg-using-foreignobject/</guid>
             <pubDate>Sun, 14 Mar 2021 21:13:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CSS Flexbox: how to keep items in position using wrap and justify content]]></title>
+            <link>https://jsfiddle.net/r5h2an6k/6/</link>
+            <guid>https://jsfiddle.net/r5h2an6k/6/</guid>
+            <pubDate>Mon, 15 Mar 2021 11:10:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Simple CSS Loader Animation]]></title>

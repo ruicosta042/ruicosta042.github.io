@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sun, 14 Mar 2021 19:46:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Mar 2021 07:47:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -27,6 +27,24 @@
             <pubDate>Sun, 14 Mar 2021 08:24:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Is there a way to Jest test and spy on Web Notification API?]]></title>
+            <link>https://stackoverflow.com/questions/66631725/is-there-a-way-to-jest-test-and-spy-on-web-notification-api</link>
+            <guid>https://stackoverflow.com/questions/66631725/is-there-a-way-to-jest-test-and-spy-on-web-notification-api</guid>
+            <pubDate>Mon, 15 Mar 2021 02:43:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dynamic Form Generation Using Java Objects]]></title>
+            <link>https://bitbucket.org/CodingCrayons/aspectfaces/wiki/Home</link>
+            <guid>https://bitbucket.org/CodingCrayons/aspectfaces/wiki/Home</guid>
+            <pubDate>Mon, 15 Mar 2021 02:34:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fetch Shared Data in Next.js With Single Request]]></title>
+            <link>https://medium.com/@akellbl4/fetch-shared-data-in-next-js-with-single-request-833433fa8ed1?source=friends_link&amp;sk=27cf795d55a0add65aca53be299d5ac6</link>
+            <guid>https://medium.com/@akellbl4/fetch-shared-data-in-next-js-with-single-request-833433fa8ed1?source=friends_link&amp;sk=27cf795d55a0add65aca53be299d5ac6</guid>
+            <pubDate>Sun, 14 Mar 2021 22:08:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I made a real-time collaborative editor like google docs but for coding interview]]></title>
             <link>https://caucus-app.herokuapp.com/</link>
             <guid>https://caucus-app.herokuapp.com/</guid>
@@ -37,24 +55,6 @@
             <link>https://globx.js.org/</link>
             <guid>https://globx.js.org/</guid>
             <pubDate>Sun, 14 Mar 2021 16:36:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React custom hooks: returning a ref from hook vs passing the ref as hooks argument]]></title>
-            <link>https://stackoverflow.com/questions/66615493/react-custom-hooks-returning-a-ref-from-hook-vs-passing-the-ref-as-hooks-argume</link>
-            <guid>https://stackoverflow.com/questions/66615493/react-custom-hooks-returning-a-ref-from-hook-vs-passing-the-ref-as-hooks-argume</guid>
-            <pubDate>Sun, 14 Mar 2021 09:29:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An Easy Guide to Testing React Hooks]]></title>
-            <link>https://blog.asayer.io/an-easy-guide-to-testing-react-hooks</link>
-            <guid>https://blog.asayer.io/an-easy-guide-to-testing-react-hooks</guid>
-            <pubDate>Sun, 14 Mar 2021 11:45:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to use Formik in React]]></title>
-            <link>https://atomizedobjects.com/blog/react/how-to-use-formik-in-react/</link>
-            <guid>https://atomizedobjects.com/blog/react/how-to-use-formik-in-react/</guid>
-            <pubDate>Sun, 14 Mar 2021 11:24:34 GMT</pubDate>
         </item>
     </channel>
 </rss>

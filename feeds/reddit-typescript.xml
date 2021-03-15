@@ -4,7 +4,7 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Sun, 14 Mar 2021 19:46:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Mar 2021 07:47:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,16 +15,28 @@
             <pubDate>Sun, 14 Mar 2021 17:53:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Art of Type Programming]]></title>
-            <link>https://itnext.io/the-art-of-type-programming-cfd933bdfff7</link>
-            <guid>https://itnext.io/the-art-of-type-programming-cfd933bdfff7</guid>
-            <pubDate>Sun, 14 Mar 2021 04:01:10 GMT</pubDate>
+            <title><![CDATA[Introduction to NestJS for NodeJS Developers | Jenyus Org]]></title>
+            <link>http://jenyus.web.app/blog/2021-03-14-introduction-to-nestjs-for-nodejs-developers</link>
+            <guid>http://jenyus.web.app/blog/2021-03-14-introduction-to-nestjs-for-nodejs-developers</guid>
+            <pubDate>Sun, 14 Mar 2021 20:01:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Auto Reggol - An automatic logging utility]]></title>
+            <link>https://www.npmjs.com/package/autoreggol</link>
+            <guid>https://www.npmjs.com/package/autoreggol</guid>
+            <pubDate>Sun, 14 Mar 2021 21:43:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Using GraphQL Code Generator to create a great developer experience with Typescript and GraphQL]]></title>
             <link>https://djangoshelton.medium.com/using-graphql-code-generator-to-create-a-great-developer-experience-with-typescript-and-graphql-30e30261b75</link>
             <guid>https://djangoshelton.medium.com/using-graphql-code-generator-to-create-a-great-developer-experience-with-typescript-and-graphql-30e30261b75</guid>
             <pubDate>Sun, 14 Mar 2021 19:14:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Art of Type Programming]]></title>
+            <link>https://itnext.io/the-art-of-type-programming-cfd933bdfff7</link>
+            <guid>https://itnext.io/the-art-of-type-programming-cfd933bdfff7</guid>
+            <pubDate>Sun, 14 Mar 2021 04:01:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Typescript clients for invoking Protobuf services over HTTP]]></title>

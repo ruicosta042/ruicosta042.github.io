@@ -4,21 +4,33 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Sun, 14 Mar 2021 19:45:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Mar 2021 07:47:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Dark Mode for Lazy People, with 3 lines of CSS]]></title>
-            <link>https://fjolt.com/article/darkmode-for-lazy-people</link>
-            <guid>https://fjolt.com/article/darkmode-for-lazy-people</guid>
-            <pubDate>Sat, 13 Mar 2021 21:27:26 GMT</pubDate>
+            <title><![CDATA[How to use HTML with CSS inside SVG]]></title>
+            <link>https://www.amitmerchant.com/how-to-use-html-in-svg-using-foreignobject/</link>
+            <guid>https://www.amitmerchant.com/how-to-use-html-in-svg-using-foreignobject/</guid>
+            <pubDate>Sun, 14 Mar 2021 21:13:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Simple CSS Loader Animation]]></title>
+            <link>https://www.codingflicks.com/2021/03/creative-loader-animation-using-html-css.html</link>
+            <guid>https://www.codingflicks.com/2021/03/creative-loader-animation-using-html-css.html</guid>
+            <pubDate>Mon, 15 Mar 2021 01:16:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why I Don't Like Tailwind CSS]]></title>
             <link>https://www.aleksandrhovhannisyan.com/blog/why-i-dont-like-tailwind-css/</link>
             <guid>https://www.aleksandrhovhannisyan.com/blog/why-i-dont-like-tailwind-css/</guid>
             <pubDate>Sat, 13 Mar 2021 13:53:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dark Mode for Lazy People, with 3 lines of CSS]]></title>
+            <link>https://fjolt.com/article/darkmode-for-lazy-people</link>
+            <guid>https://fjolt.com/article/darkmode-for-lazy-people</guid>
+            <pubDate>Sat, 13 Mar 2021 21:27:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[CSS Auditing Tools]]></title>
@@ -43,24 +55,6 @@
             <link>https://iainbean.com/posts/2021/system-fonts-dont-have-to-be-ugly/</link>
             <guid>https://iainbean.com/posts/2021/system-fonts-dont-have-to-be-ugly/</guid>
             <pubDate>Fri, 12 Mar 2021 13:58:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Imagining native skip links]]></title>
-            <link>https://kittygiraudel.com/2021/03/07/imagining-native-skip-links/</link>
-            <guid>https://kittygiraudel.com/2021/03/07/imagining-native-skip-links/</guid>
-            <pubDate>Fri, 12 Mar 2021 14:03:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Help with trouble with div:before please?]]></title>
-            <link>https://jsfiddle.net/JGHunter/safn6kjm/3/</link>
-            <guid>https://jsfiddle.net/JGHunter/safn6kjm/3/</guid>
-            <pubDate>Fri, 12 Mar 2021 16:43:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Create Responsive Image Effects With CSS Gradients And aspect-ratio]]></title>
-            <link>https://www.smashingmagazine.com/2021/02/responsive-image-effects-css-gradients-aspect-ratio/</link>
-            <guid>https://www.smashingmagazine.com/2021/02/responsive-image-effects-css-gradients-aspect-ratio/</guid>
-            <pubDate>Thu, 11 Mar 2021 13:17:40 GMT</pubDate>
         </item>
     </channel>
 </rss>

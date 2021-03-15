@@ -4,7 +4,7 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Sun, 14 Mar 2021 19:45:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Mar 2021 07:47:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -33,10 +33,22 @@
             <pubDate>Sun, 14 Mar 2021 14:58:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Node JS boilerplate app with 3 layered architecture, separate loaders, event emitters for background jobs, jest for testing.]]></title>
+            <link>https://github.com/shanshaji/nodejs-starter</link>
+            <guid>https://github.com/shanshaji/nodejs-starter</guid>
+            <pubDate>Mon, 15 Mar 2021 02:07:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A guide to creating nodejs npm package and publish on npm | e Avni Tech]]></title>
             <link>https://eavnitech.com/blog/a-guide-to-create-nodejs-npm-package-and-publish-on-npm</link>
             <guid>https://eavnitech.com/blog/a-guide-to-create-nodejs-npm-package-and-publish-on-npm</guid>
             <pubDate>Sun, 14 Mar 2021 02:58:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NodeJS libraries for game bot development]]></title>
+            <link>https://kk.je/nodejs-libraries-for-game-bot-development/</link>
+            <guid>https://kk.je/nodejs-libraries-for-game-bot-development/</guid>
+            <pubDate>Sun, 14 Mar 2021 20:05:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Loan App [Typescript] based off Mono Banking API]]></title>
@@ -61,18 +73,6 @@
             <link>https://github.com/Bojale-Labs/Mono-Zero</link>
             <guid>https://github.com/Bojale-Labs/Mono-Zero</guid>
             <pubDate>Sat, 13 Mar 2021 21:08:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New to node having issue with connecting to server]]></title>
-            <link>https://betterprogramming.pub/build-a-chat-app-in-node-js-with-room-functionality-6ebbd4b19133</link>
-            <guid>https://betterprogramming.pub/build-a-chat-app-in-node-js-with-room-functionality-6ebbd4b19133</guid>
-            <pubDate>Sat, 13 Mar 2021 19:25:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Simple Twitter Bot Tutorial With Node.js Part 2: Deploy to Server and Schedule Tweets]]></title>
-            <link>https://blog.shahednasser.com/simple-twitter-bot-tutorial-with-node-part-2/</link>
-            <guid>https://blog.shahednasser.com/simple-twitter-bot-tutorial-with-node-part-2/</guid>
-            <pubDate>Fri, 12 Mar 2021 11:44:55 GMT</pubDate>
         </item>
     </channel>
 </rss>

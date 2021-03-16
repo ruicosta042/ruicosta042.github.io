@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Tue, 16 Mar 2021 13:08:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Mar 2021 19:46:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,42 @@
             <link>https://www.smashingmagazine.com/2021/03/css-auditing-tools/</link>
             <guid>https://www.smashingmagazine.com/2021/03/css-auditing-tools/</guid>
             <pubDate>Tue, 16 Mar 2021 09:04:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Turbo CSS - write class names, the CSS is auto-generated for you]]></title>
+            <link>https://boomla.com/turbo-css</link>
+            <guid>https://boomla.com/turbo-css</guid>
+            <pubDate>Tue, 16 Mar 2021 15:08:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tailwind-jit]]></title>
+            <link>https://blog.tailwindcss.com/just-in-time-the-next-generation-of-tailwind-css</link>
+            <guid>https://blog.tailwindcss.com/just-in-time-the-next-generation-of-tailwind-css</guid>
+            <pubDate>Tue, 16 Mar 2021 19:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Turbo CSS - a CSS Framework that is a programming language]]></title>
+            <link>https://boomla.com/turbo-css</link>
+            <guid>https://boomla.com/turbo-css</guid>
+            <pubDate>Tue, 16 Mar 2021 18:34:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hypercolor - Tailwind CSS Gradient Palette]]></title>
+            <link>https://hypercolor.dev/</link>
+            <guid>https://hypercolor.dev/</guid>
+            <pubDate>Tue, 16 Mar 2021 13:51:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Any idea how to stop content going out of website?]]></title>
+            <link>https://stackoverflow.com/questions/66656052/how-to-stop-content-going-out-of-website?noredirect=1#comment117830786_66656052</link>
+            <guid>https://stackoverflow.com/questions/66656052/how-to-stop-content-going-out-of-website?noredirect=1#comment117830786_66656052</guid>
+            <pubDate>Tue, 16 Mar 2021 13:41:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[Help] Static sidebar with Navbar and Main]]></title>
+            <link>https://docs.python.org/3/</link>
+            <guid>https://docs.python.org/3/</guid>
+            <pubDate>Tue, 16 Mar 2021 13:11:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[CSS defines functions to repeat gradients]]></title>
@@ -49,30 +85,6 @@
             <link>https://www.codingflicks.com/2021/03/creative-loader-animation-using-html-css.html</link>
             <guid>https://www.codingflicks.com/2021/03/creative-loader-animation-using-html-css.html</guid>
             <pubDate>Mon, 15 Mar 2021 01:16:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why I Don't Like Tailwind CSS]]></title>
-            <link>https://www.aleksandrhovhannisyan.com/blog/why-i-dont-like-tailwind-css/</link>
-            <guid>https://www.aleksandrhovhannisyan.com/blog/why-i-dont-like-tailwind-css/</guid>
-            <pubDate>Sat, 13 Mar 2021 13:53:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dark Mode for Lazy People, with 3 lines of CSS]]></title>
-            <link>https://fjolt.com/article/darkmode-for-lazy-people</link>
-            <guid>https://fjolt.com/article/darkmode-for-lazy-people</guid>
-            <pubDate>Sat, 13 Mar 2021 21:27:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CSS Auditing Tools]]></title>
-            <link>https://www.smashingmagazine.com/2021/03/css-auditing-tools/</link>
-            <guid>https://www.smashingmagazine.com/2021/03/css-auditing-tools/</guid>
-            <pubDate>Sun, 14 Mar 2021 03:55:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Browsing all possible css attributes and usually am excited at first just to find out it's a draft most of the time - how does this whole w3c specification stuff work?]]></title>
-            <link>https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Keyword_index</link>
-            <guid>https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Keyword_index</guid>
-            <pubDate>Sat, 13 Mar 2021 13:40:59 GMT</pubDate>
         </item>
     </channel>
 </rss>

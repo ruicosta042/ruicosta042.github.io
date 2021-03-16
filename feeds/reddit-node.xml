@@ -4,15 +4,33 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Tue, 16 Mar 2021 13:08:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Mar 2021 19:46:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Hassle-Free Database Migrations with Prisma Migrate]]></title>
+            <link>https://www.prisma.io/blog/prisma-migrate-ga-b5eno5g08d0b</link>
+            <guid>https://www.prisma.io/blog/prisma-migrate-ga-b5eno5g08d0b</guid>
+            <pubDate>Tue, 16 Mar 2021 17:24:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hey Devs - I manage finance transformation projects, I put this business management tool together]]></title>
             <link>https://www.completeit.app/</link>
             <guid>https://www.completeit.app/</guid>
             <pubDate>Tue, 16 Mar 2021 08:19:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TLDR of the Internet]]></title>
+            <link>https://tldroftheinternet.herokuapp.com/</link>
+            <guid>https://tldroftheinternet.herokuapp.com/</guid>
+            <pubDate>Tue, 16 Mar 2021 16:15:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting Started with Z-SHELL. The terminal that the cool boys and girls use]]></title>
+            <link>https://javascript.plainenglish.io/getting-started-with-z-shell-d92f072430bc</link>
+            <guid>https://javascript.plainenglish.io/getting-started-with-z-shell-d92f072430bc</guid>
+            <pubDate>Tue, 16 Mar 2021 09:21:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Throwing without try-catch-hell]]></title>
@@ -39,16 +57,10 @@
             <pubDate>Mon, 15 Mar 2021 18:52:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to make transactions in Nest.js]]></title>
-            <link>https://medium.com/@alphamikle/how-to-make-transactions-in-nest-js-9bff9b2b02af?source=friends_link&amp;sk=20ca5adcf244a9db856d83fb5bc6b6ce</link>
-            <guid>https://medium.com/@alphamikle/how-to-make-transactions-in-nest-js-9bff9b2b02af?source=friends_link&amp;sk=20ca5adcf244a9db856d83fb5bc6b6ce</guid>
-            <pubDate>Tue, 16 Mar 2021 09:36:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting Started with Z-SHELL. The terminal that the cool boys and girls use]]></title>
-            <link>https://javascript.plainenglish.io/getting-started-with-z-shell-d92f072430bc</link>
-            <guid>https://javascript.plainenglish.io/getting-started-with-z-shell-d92f072430bc</guid>
-            <pubDate>Tue, 16 Mar 2021 09:21:05 GMT</pubDate>
+            <title><![CDATA[use-css-transition - Like a cross between transition-group and react-spring.]]></title>
+            <link>https://github.com/jwalton/use-css-transition</link>
+            <guid>https://github.com/jwalton/use-css-transition</guid>
+            <pubDate>Tue, 16 Mar 2021 16:03:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Should I install nodejs using Chocolatey ? And why the error below ?.]]></title>
@@ -57,16 +69,16 @@
             <pubDate>Tue, 16 Mar 2021 02:51:13 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How to make transactions in Nest.js]]></title>
+            <link>https://medium.com/@alphamikle/how-to-make-transactions-in-nest-js-9bff9b2b02af?source=friends_link&amp;sk=20ca5adcf244a9db856d83fb5bc6b6ce</link>
+            <guid>https://medium.com/@alphamikle/how-to-make-transactions-in-nest-js-9bff9b2b02af?source=friends_link&amp;sk=20ca5adcf244a9db856d83fb5bc6b6ce</guid>
+            <pubDate>Tue, 16 Mar 2021 09:36:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Download NxShell 1.0.1]]></title>
             <link>https://www.softpedia.com/get/Programming/Other-Programming-Files/NxShell.shtml</link>
             <guid>https://www.softpedia.com/get/Programming/Other-Programming-Files/NxShell.shtml</guid>
             <pubDate>Tue, 16 Mar 2021 12:24:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting Started with Z-SHELL. The terminal that the cool boys and girls use]]></title>
-            <link>https://javascript.plainenglish.io/getting-started-with-z-shell-d92f072430bc</link>
-            <guid>https://javascript.plainenglish.io/getting-started-with-z-shell-d92f072430bc</guid>
-            <pubDate>Tue, 16 Mar 2021 11:43:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[serverless boilerplate]]></title>
@@ -91,18 +103,6 @@
             <link>https://www.tutorialslogic.com/node-js?v.lat.v</link>
             <guid>https://www.tutorialslogic.com/node-js?v.lat.v</guid>
             <pubDate>Mon, 15 Mar 2021 18:40:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Error "Invalid header value char"/"HPE_INVALID_HEADER_TOKEN" using 'follow-redirects' package]]></title>
-            <link>https://www.npmjs.com/package/follow-redirects</link>
-            <guid>https://www.npmjs.com/package/follow-redirects</guid>
-            <pubDate>Mon, 15 Mar 2021 16:25:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[7 Ways to Debug Jest Tests in Terminal]]></title>
-            <link>https://pragmaticpineapple.com/7-ways-to-debug-jest-tests-in-terminal/</link>
-            <guid>https://pragmaticpineapple.com/7-ways-to-debug-jest-tests-in-terminal/</guid>
-            <pubDate>Mon, 15 Mar 2021 11:25:45 GMT</pubDate>
         </item>
     </channel>
 </rss>

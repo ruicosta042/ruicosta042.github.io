@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Tue, 16 Mar 2021 13:08:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Mar 2021 19:46:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,12 @@
             <link>https://foo.com/</link>
             <guid>https://foo.com/</guid>
             <pubDate>Mon, 15 Mar 2021 09:04:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[reddit-hyped-stocks - A web application to explore currently hyped stocks on Reddit]]></title>
+            <link>https://github.com/lukstei/reddit-hyped-stocks</link>
+            <guid>https://github.com/lukstei/reddit-hyped-stocks</guid>
+            <pubDate>Tue, 16 Mar 2021 15:53:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Just-In-Time: The Next Generation of Tailwind CSS]]></title>
@@ -27,16 +33,34 @@
             <pubDate>Tue, 16 Mar 2021 01:57:03 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[PanvasJS - a JavaScript library for working with the HTML canvas | making animations, simulations, and game development in the browser much easier]]></title>
+            <link>https://github.com/leptr/panvasjs/</link>
+            <guid>https://github.com/leptr/panvasjs/</guid>
+            <pubDate>Tue, 16 Mar 2021 16:37:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[scrapinghub/splash Splash - A javascript rendering service]]></title>
+            <link>https://github.com/scrapinghub/splash</link>
+            <guid>https://github.com/scrapinghub/splash</guid>
+            <pubDate>Tue, 16 Mar 2021 19:25:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[temp-color : Scale temperature (°C /°F) to RGB color]]></title>
             <link>https://github.com/szymslo/temp-color</link>
             <guid>https://github.com/szymslo/temp-color</guid>
             <pubDate>Tue, 16 Mar 2021 11:43:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How I made my Resume, based on Commandos game]]></title>
-            <link>https://dev.to/vivirenremoto/how-i-made-my-resume-based-on-commandos-game-35j</link>
-            <guid>https://dev.to/vivirenremoto/how-i-made-my-resume-based-on-commandos-game-35j</guid>
-            <pubDate>Tue, 16 Mar 2021 11:16:45 GMT</pubDate>
+            <title><![CDATA[What is the Javascript Call Stack and how does it get Exceeded]]></title>
+            <link>https://browntreelabs.com/the-call-stack-and-how-it-gets-exceeded/</link>
+            <guid>https://browntreelabs.com/the-call-stack-and-how-it-gets-exceeded/</guid>
+            <pubDate>Tue, 16 Mar 2021 17:08:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10 Things 2020 has taught me]]></title>
+            <link>https://dev.to/joakimunge/10-things-2020-has-taught-me-nfj</link>
+            <guid>https://dev.to/joakimunge/10-things-2020-has-taught-me-nfj</guid>
+            <pubDate>Tue, 16 Mar 2021 17:04:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rethinking the JavaScript ternary operator]]></title>
@@ -63,22 +87,10 @@
             <pubDate>Sun, 14 Mar 2021 23:17:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What it means to “Know how to Code”]]></title>
-            <link>http://writing.andrewritchie.info/tech/coding/2021/03/15/what-it-means-to-learn-to-code.html?foo=bar</link>
-            <guid>http://writing.andrewritchie.info/tech/coding/2021/03/15/what-it-means-to-learn-to-code.html?foo=bar</guid>
-            <pubDate>Tue, 16 Mar 2021 00:52:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Generate a PDF in JS Summary and comparison of libraries]]></title>
             <link>https://dev.to/handdot/generate-a-pdf-in-js-summary-and-comparison-of-libraries-3k0p</link>
             <guid>https://dev.to/handdot/generate-a-pdf-in-js-summary-and-comparison-of-libraries-3k0p</guid>
             <pubDate>Mon, 15 Mar 2021 11:48:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The #1 tip to familiarize with new JavaScript Codebases]]></title>
-            <link>https://www.kevinpeters.net/the-fastest-way-to-understand-new-code-bases</link>
-            <guid>https://www.kevinpeters.net/the-fastest-way-to-understand-new-code-bases</guid>
-            <pubDate>Mon, 15 Mar 2021 14:40:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Building a Rejection Hotline with Twilio]]></title>
@@ -133,18 +145,6 @@
             <link>https://pragmaticpineapple.com/7-ways-to-debug-jest-tests-in-terminal/</link>
             <guid>https://pragmaticpineapple.com/7-ways-to-debug-jest-tests-in-terminal/</guid>
             <pubDate>Mon, 15 Mar 2021 11:26:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sharing Images, Canvas and HTML using the Web Share API]]></title>
-            <link>https://blog.kaiserapps.com/sharing-images-using-the-web-share-api/</link>
-            <guid>https://blog.kaiserapps.com/sharing-images-using-the-web-share-api/</guid>
-            <pubDate>Mon, 15 Mar 2021 07:20:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[versionem - Simple and straightforward automated semantic versioning integrated to changelog generation]]></title>
-            <link>https://github.com/henriquehbr/versionem</link>
-            <guid>https://github.com/henriquehbr/versionem</guid>
-            <pubDate>Sun, 14 Mar 2021 07:57:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

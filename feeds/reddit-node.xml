@@ -4,16 +4,10 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Mon, 15 Mar 2021 19:50:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Mar 2021 07:47:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
-        <item>
-            <title><![CDATA[Maintaining REST API Documentation with Node.js]]></title>
-            <link>https://medium.com/pipedrive-engineering/maintaining-rest-api-documentation-with-node-js-part-i-65e9700e3b30?source=friends_link&amp;sk=1c6a1d476a3927ee4519cdabd28fd527</link>
-            <guid>https://medium.com/pipedrive-engineering/maintaining-rest-api-documentation-with-node-js-part-i-65e9700e3b30?source=friends_link&amp;sk=1c6a1d476a3927ee4519cdabd28fd527</guid>
-            <pubDate>Mon, 15 Mar 2021 08:34:27 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Managing date and time with PostgreSQL and TypeORM]]></title>
             <link>https://wanago.io/2021/03/15/postgresql-typeorm-date-time/</link>
@@ -21,10 +15,34 @@
             <pubDate>Mon, 15 Mar 2021 18:52:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Angular, JavaScript, CSS, Html, NodeJS quick overview...]]></title>
-            <link>https://www.tutorialslogic.com/node-js?v.lat.v</link>
-            <guid>https://www.tutorialslogic.com/node-js?v.lat.v</guid>
-            <pubDate>Mon, 15 Mar 2021 18:40:28 GMT</pubDate>
+            <title><![CDATA[Pure Node.js remote calling framework]]></title>
+            <link>https://github.com/ZhyMC/jigsaw-rpc</link>
+            <guid>https://github.com/ZhyMC/jigsaw-rpc</guid>
+            <pubDate>Tue, 16 Mar 2021 03:07:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Should I learn graphql or PostgreSQL first]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Tue, 16 Mar 2021 02:57:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Should I install nodejs using Chocolatey ? And why the error below ?.]]></title>
+            <link>https://github.com/coreybutler/nvm-windows/releases</link>
+            <guid>https://github.com/coreybutler/nvm-windows/releases</guid>
+            <pubDate>Tue, 16 Mar 2021 02:51:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[serverless boilerplate]]></title>
+            <link>https://github.com/collierrgbsitisfise/serverless-bonk-template</link>
+            <guid>https://github.com/collierrgbsitisfise/serverless-bonk-template</guid>
+            <pubDate>Mon, 15 Mar 2021 20:20:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Throwing without try-catch-hell]]></title>
+            <link>https://github.com/UniAuth/http-exception-transformer</link>
+            <guid>https://github.com/UniAuth/http-exception-transformer</guid>
+            <pubDate>Tue, 16 Mar 2021 07:13:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Server-Sent (Push) Events in NodeJS]]></title>
@@ -33,10 +51,16 @@
             <pubDate>Mon, 15 Mar 2021 15:23:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[7 Ways to Debug Jest Tests in Terminal]]></title>
-            <link>https://pragmaticpineapple.com/7-ways-to-debug-jest-tests-in-terminal/</link>
-            <guid>https://pragmaticpineapple.com/7-ways-to-debug-jest-tests-in-terminal/</guid>
-            <pubDate>Mon, 15 Mar 2021 11:25:45 GMT</pubDate>
+            <title><![CDATA[Maintaining REST API Documentation with Node.js]]></title>
+            <link>https://medium.com/pipedrive-engineering/maintaining-rest-api-documentation-with-node-js-part-i-65e9700e3b30?source=friends_link&amp;sk=1c6a1d476a3927ee4519cdabd28fd527</link>
+            <guid>https://medium.com/pipedrive-engineering/maintaining-rest-api-documentation-with-node-js-part-i-65e9700e3b30?source=friends_link&amp;sk=1c6a1d476a3927ee4519cdabd28fd527</guid>
+            <pubDate>Mon, 15 Mar 2021 08:34:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Angular, JavaScript, CSS, Html, NodeJS quick overview...]]></title>
+            <link>https://www.tutorialslogic.com/node-js?v.lat.v</link>
+            <guid>https://www.tutorialslogic.com/node-js?v.lat.v</guid>
+            <pubDate>Mon, 15 Mar 2021 18:40:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Error "Invalid header value char"/"HPE_INVALID_HEADER_TOKEN" using 'follow-redirects' package]]></title>
@@ -45,10 +69,10 @@
             <pubDate>Mon, 15 Mar 2021 16:25:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I'm giving away full access to Nodejs Express React boilerplate for SaaS.]]></title>
-            <link>https://userocket.herokuapp.com/</link>
-            <guid>https://userocket.herokuapp.com/</guid>
-            <pubDate>Mon, 15 Mar 2021 18:59:25 GMT</pubDate>
+            <title><![CDATA[7 Ways to Debug Jest Tests in Terminal]]></title>
+            <link>https://pragmaticpineapple.com/7-ways-to-debug-jest-tests-in-terminal/</link>
+            <guid>https://pragmaticpineapple.com/7-ways-to-debug-jest-tests-in-terminal/</guid>
+            <pubDate>Mon, 15 Mar 2021 11:25:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fluent JSON validator -- an easy-to-use and flexible JSON object validator with a nice builder pattern API!]]></title>
@@ -63,34 +87,16 @@
             <pubDate>Mon, 15 Mar 2021 11:26:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[I'm giving away full access to Nodejs Express React boilerplate for SaaS.]]></title>
+            <link>https://userocket.herokuapp.com/</link>
+            <guid>https://userocket.herokuapp.com/</guid>
+            <pubDate>Mon, 15 Mar 2021 18:59:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[low.js | Node.js for microcontrollers]]></title>
             <link>https://www.neonious.com/lowjs/</link>
             <guid>https://www.neonious.com/lowjs/</guid>
             <pubDate>Sun, 14 Mar 2021 17:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Amplication – Instantly Generate Node.js Apps with GraphQL and REST API]]></title>
-            <link>https://github.com/amplication/amplication</link>
-            <guid>https://github.com/amplication/amplication</guid>
-            <pubDate>Sun, 14 Mar 2021 15:26:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Node JS boilerplate app with 3 layered architecture, separate loaders, event emitters for background jobs, jest for testing.]]></title>
-            <link>https://github.com/shanshaji/nodejs-starter</link>
-            <guid>https://github.com/shanshaji/nodejs-starter</guid>
-            <pubDate>Mon, 15 Mar 2021 02:07:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Architecture suggestion for creating mid-size web application / service]]></title>
-            <link>https://asp.net/</link>
-            <guid>https://asp.net/</guid>
-            <pubDate>Sun, 14 Mar 2021 14:58:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A guide to creating nodejs npm package and publish on npm | e Avni Tech]]></title>
-            <link>https://eavnitech.com/blog/a-guide-to-create-nodejs-npm-package-and-publish-on-npm</link>
-            <guid>https://eavnitech.com/blog/a-guide-to-create-nodejs-npm-package-and-publish-on-npm</guid>
-            <pubDate>Sun, 14 Mar 2021 02:58:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NodeJS libraries for game bot development]]></title>

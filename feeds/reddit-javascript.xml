@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Mon, 15 Mar 2021 19:50:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Mar 2021 07:47:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,22 +15,22 @@
             <pubDate>Mon, 15 Mar 2021 09:04:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[web-minecraft: Minecraft client written in Javascript]]></title>
-            <link>https://web-minecraft.herokuapp.com/</link>
-            <guid>https://web-minecraft.herokuapp.com/</guid>
-            <pubDate>Mon, 15 Mar 2021 11:58:04 GMT</pubDate>
+            <title><![CDATA[Just-In-Time: The Next Generation of Tailwind CSS]]></title>
+            <link>https://blog.tailwindcss.com/just-in-time-the-next-generation-of-tailwind-css</link>
+            <guid>https://blog.tailwindcss.com/just-in-time-the-next-generation-of-tailwind-css</guid>
+            <pubDate>Tue, 16 Mar 2021 01:06:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[useEncapsulation]]></title>
-            <link>https://kyleshevlin.com/use-encapsulation/</link>
-            <guid>https://kyleshevlin.com/use-encapsulation/</guid>
-            <pubDate>Sun, 14 Mar 2021 23:17:06 GMT</pubDate>
+            <title><![CDATA[{} + [] is not 0]]></title>
+            <link>https://evinsellin.medium.com/object-plus-array-is-not-zero-ec4db710e7a5</link>
+            <guid>https://evinsellin.medium.com/object-plus-array-is-not-zero-ec4db710e7a5</guid>
+            <pubDate>Tue, 16 Mar 2021 01:57:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Using GraphQL Code Generator to create a great developer experience with Typescript and GraphQL]]></title>
-            <link>https://djangoshelton.medium.com/using-graphql-code-generator-to-create-a-great-developer-experience-with-typescript-and-graphql-30e30261b75</link>
-            <guid>https://djangoshelton.medium.com/using-graphql-code-generator-to-create-a-great-developer-experience-with-typescript-and-graphql-30e30261b75</guid>
-            <pubDate>Sun, 14 Mar 2021 19:14:18 GMT</pubDate>
+            <title><![CDATA[Rethinking the JavaScript ternary operator]]></title>
+            <link>https://jrsinclair.com/articles/2021/rethinking-the-javascript-ternary-operator/</link>
+            <guid>https://jrsinclair.com/articles/2021/rethinking-the-javascript-ternary-operator/</guid>
+            <pubDate>Mon, 15 Mar 2021 21:04:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A look at the CSS Paint API]]></title>
@@ -39,10 +39,40 @@
             <pubDate>Mon, 15 Mar 2021 16:54:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[useEncapsulation]]></title>
+            <link>https://kyleshevlin.com/use-encapsulation/</link>
+            <guid>https://kyleshevlin.com/use-encapsulation/</guid>
+            <pubDate>Sun, 14 Mar 2021 23:17:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What it means to “Know how to Code”]]></title>
+            <link>http://writing.andrewritchie.info/tech/coding/2021/03/15/what-it-means-to-learn-to-code.html?foo=bar</link>
+            <guid>http://writing.andrewritchie.info/tech/coding/2021/03/15/what-it-means-to-learn-to-code.html?foo=bar</guid>
+            <pubDate>Tue, 16 Mar 2021 00:52:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Generate a PDF in JS Summary and comparison of libraries]]></title>
             <link>https://dev.to/handdot/generate-a-pdf-in-js-summary-and-comparison-of-libraries-3k0p</link>
             <guid>https://dev.to/handdot/generate-a-pdf-in-js-summary-and-comparison-of-libraries-3k0p</guid>
             <pubDate>Mon, 15 Mar 2021 11:48:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The #1 tip to familiarize with new JavaScript Codebases]]></title>
+            <link>https://www.kevinpeters.net/the-fastest-way-to-understand-new-code-bases</link>
+            <guid>https://www.kevinpeters.net/the-fastest-way-to-understand-new-code-bases</guid>
+            <pubDate>Mon, 15 Mar 2021 14:40:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Using GraphQL Code Generator to create a great developer experience with Typescript and GraphQL]]></title>
+            <link>https://djangoshelton.medium.com/using-graphql-code-generator-to-create-a-great-developer-experience-with-typescript-and-graphql-30e30261b75</link>
+            <guid>https://djangoshelton.medium.com/using-graphql-code-generator-to-create-a-great-developer-experience-with-typescript-and-graphql-30e30261b75</guid>
+            <pubDate>Sun, 14 Mar 2021 19:14:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Building a Rejection Hotline with Twilio]]></title>
+            <link>https://leemartin.dev/building-a-rejection-hotline-with-twilio-for-peach-prc-49f426a90664</link>
+            <guid>https://leemartin.dev/building-a-rejection-hotline-with-twilio-for-peach-prc-49f426a90664</guid>
+            <pubDate>Mon, 15 Mar 2021 14:08:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Quick, zero-setup, persistent State management with Stoxy]]></title>
@@ -55,24 +85,6 @@
             <link>https://github.com/Jarred-Sumner/svgj</link>
             <guid>https://github.com/Jarred-Sumner/svgj</guid>
             <pubDate>Mon, 15 Mar 2021 19:07:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Speech Synthesis on Firefox is broken]]></title>
-            <link>https://bugzilla.mozilla.org/show_bug.cgi?id=1666703</link>
-            <guid>https://bugzilla.mozilla.org/show_bug.cgi?id=1666703</guid>
-            <pubDate>Mon, 15 Mar 2021 18:38:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The #1 tip to familiarize with new JavaScript Codebases]]></title>
-            <link>https://www.kevinpeters.net/the-fastest-way-to-understand-new-code-bases</link>
-            <guid>https://www.kevinpeters.net/the-fastest-way-to-understand-new-code-bases</guid>
-            <pubDate>Mon, 15 Mar 2021 14:40:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Building a Rejection Hotline with Twilio]]></title>
-            <link>https://leemartin.dev/building-a-rejection-hotline-with-twilio-for-peach-prc-49f426a90664</link>
-            <guid>https://leemartin.dev/building-a-rejection-hotline-with-twilio-for-peach-prc-49f426a90664</guid>
-            <pubDate>Mon, 15 Mar 2021 14:08:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Typescript declaration generator for svelte with typescript]]></title>
@@ -133,24 +145,6 @@
             <link>https://dev.to/sinhapiyush/modern-javascript-ii-2h34</link>
             <guid>https://dev.to/sinhapiyush/modern-javascript-ii-2h34</guid>
             <pubDate>Sun, 14 Mar 2021 10:38:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OOP Design Patterns Considered Harmful]]></title>
-            <link>https://suzdalnitski.com/oop-design-patterns-bd2c4fb3014c</link>
-            <guid>https://suzdalnitski.com/oop-design-patterns-bd2c4fb3014c</guid>
-            <pubDate>Mon, 15 Mar 2021 14:21:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Separation of logic and template in React using a "high order hook"]]></title>
-            <link>https://yuval.hashnode.dev/separation-of-logic-and-template-in-react-using-a-high-order-hook-ckm3qhtno0293ugs163rs1yvt</link>
-            <guid>https://yuval.hashnode.dev/separation-of-logic-and-template-in-react-using-a-high-order-hook-ckm3qhtno0293ugs163rs1yvt</guid>
-            <pubDate>Mon, 15 Mar 2021 04:18:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I build a front-end "framework". Nothing fancy. Just plain old HTML and ES]]></title>
-            <link>https://github.com/i5ik/exoteric.js.git</link>
-            <guid>https://github.com/i5ik/exoteric.js.git</guid>
-            <pubDate>Sun, 14 Mar 2021 12:38:35 GMT</pubDate>
         </item>
     </channel>
 </rss>

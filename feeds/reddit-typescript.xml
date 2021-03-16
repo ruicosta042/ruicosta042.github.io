@@ -4,10 +4,16 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Mon, 15 Mar 2021 19:50:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Mar 2021 07:47:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[How to extract proper intersection type from an array?]]></title>
+            <link>https://www.typescriptlang.org/play?#code/JYOwLgpgTgZghgYwgAgILIN4Chm+QZwHsBbCANTgBsAuAsKUAcwG4sBfLLUSWRFAIUw48RUgHkwAC2gUadBiBbtOlCGGQAPWugBkyQQF5MbVqvUBPbcj2HjptcgBeVm8iMYTnBIRD513ylUEMGAfKwBtAF1rfWQotziNABpkcxTHSNZvX3UYYCg-AFFVYgSAoJCfcIAGTNwAenq0GP4sbL9kKiIAMXyikoTGNV6CsAAKcohg0JAASmYGptasRuQACUIAd2QwQmRiOABrFClgfGQYEGQoNQBXKCuwcwAHFF1Y0D8IOAATZEIYLEAPxYGC3EDTHzIIZgEZ+AA8ABUAHxjOBQKC0RFRWZY7B4a53B6dDE1TLsIA</link>
+            <guid>https://www.typescriptlang.org/play?#code/JYOwLgpgTgZghgYwgAgILIN4Chm+QZwHsBbCANTgBsAuAsKUAcwG4sBfLLUSWRFAIUw48RUgHkwAC2gUadBiBbtOlCGGQAPWugBkyQQF5MbVqvUBPbcj2HjptcgBeVm8iMYTnBIRD513ylUEMGAfKwBtAF1rfWQotziNABpkcxTHSNZvX3UYYCg-AFFVYgSAoJCfcIAGTNwAenq0GP4sbL9kKiIAMXyikoTGNV6CsAAKcohg0JAASmYGptasRuQACUIAd2QwQmRiOABrFClgfGQYEGQoNQBXKCuwcwAHFF1Y0D8IOAATZEIYLEAPxYGC3EDTHzIIZgEZ+AA8ABUAHxjOBQKC0RFRWZY7B4a53B6dDE1TLsIA</guid>
+            <pubDate>Tue, 16 Mar 2021 00:48:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Complete Guide to Immutability in TypeScript]]></title>
             <link>https://levelup.gitconnected.com/the-complete-guide-to-immutability-in-typescript-99154f859fdb</link>
@@ -79,12 +85,6 @@
             <link>https://mistlog.medium.com/the-art-of-type-programming-cfd933bdfff7</link>
             <guid>https://mistlog.medium.com/the-art-of-type-programming-cfd933bdfff7</guid>
             <pubDate>Thu, 11 Mar 2021 22:42:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[Talk] Sharing Typescript Types between your Frontend and Backend]]></title>
-            <link>https://github.com/evantahler/pokemon-typescript</link>
-            <guid>https://github.com/evantahler/pokemon-typescript</guid>
-            <pubDate>Thu, 11 Mar 2021 02:09:38 GMT</pubDate>
         </item>
     </channel>
 </rss>

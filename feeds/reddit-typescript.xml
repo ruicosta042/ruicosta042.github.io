@@ -4,7 +4,7 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Tue, 16 Mar 2021 07:47:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Mar 2021 13:08:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -79,12 +79,6 @@
             <link>https://github.com/lillallol/fn-to-cli/tree/master/example</link>
             <guid>https://github.com/lillallol/fn-to-cli/tree/master/example</guid>
             <pubDate>Thu, 11 Mar 2021 23:35:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Art of Type Programming]]></title>
-            <link>https://mistlog.medium.com/the-art-of-type-programming-cfd933bdfff7</link>
-            <guid>https://mistlog.medium.com/the-art-of-type-programming-cfd933bdfff7</guid>
-            <pubDate>Thu, 11 Mar 2021 22:42:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

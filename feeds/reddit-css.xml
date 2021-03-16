@@ -4,10 +4,16 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Tue, 16 Mar 2021 07:47:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Mar 2021 13:08:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[CSS Auditing Tools]]></title>
+            <link>https://www.smashingmagazine.com/2021/03/css-auditing-tools/</link>
+            <guid>https://www.smashingmagazine.com/2021/03/css-auditing-tools/</guid>
+            <pubDate>Tue, 16 Mar 2021 09:04:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[CSS defines functions to repeat gradients]]></title>
             <link>https://www.stefanjudis.com/today-i-learned/css-defines-functions-to-repeat-gradients/</link>
@@ -67,12 +73,6 @@
             <link>https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Keyword_index</link>
             <guid>https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Keyword_index</guid>
             <pubDate>Sat, 13 Mar 2021 13:40:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Need help understanding svg rotation]]></title>
-            <link>https://jsfiddle.net/z7mLju92/</link>
-            <guid>https://jsfiddle.net/z7mLju92/</guid>
-            <pubDate>Sat, 13 Mar 2021 18:55:08 GMT</pubDate>
         </item>
     </channel>
 </rss>

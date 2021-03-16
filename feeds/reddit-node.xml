@@ -4,15 +4,21 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Tue, 16 Mar 2021 07:47:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Mar 2021 13:08:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Managing date and time with PostgreSQL and TypeORM]]></title>
-            <link>https://wanago.io/2021/03/15/postgresql-typeorm-date-time/</link>
-            <guid>https://wanago.io/2021/03/15/postgresql-typeorm-date-time/</guid>
-            <pubDate>Mon, 15 Mar 2021 18:52:35 GMT</pubDate>
+            <title><![CDATA[Hey Devs - I manage finance transformation projects, I put this business management tool together]]></title>
+            <link>https://www.completeit.app/</link>
+            <guid>https://www.completeit.app/</guid>
+            <pubDate>Tue, 16 Mar 2021 08:19:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Throwing without try-catch-hell]]></title>
+            <link>https://github.com/UniAuth/http-exception-transformer</link>
+            <guid>https://github.com/UniAuth/http-exception-transformer</guid>
+            <pubDate>Tue, 16 Mar 2021 07:13:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pure Node.js remote calling framework]]></title>
@@ -27,22 +33,46 @@
             <pubDate>Tue, 16 Mar 2021 02:57:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Managing date and time with PostgreSQL and TypeORM]]></title>
+            <link>https://wanago.io/2021/03/15/postgresql-typeorm-date-time/</link>
+            <guid>https://wanago.io/2021/03/15/postgresql-typeorm-date-time/</guid>
+            <pubDate>Mon, 15 Mar 2021 18:52:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to make transactions in Nest.js]]></title>
+            <link>https://medium.com/@alphamikle/how-to-make-transactions-in-nest-js-9bff9b2b02af?source=friends_link&amp;sk=20ca5adcf244a9db856d83fb5bc6b6ce</link>
+            <guid>https://medium.com/@alphamikle/how-to-make-transactions-in-nest-js-9bff9b2b02af?source=friends_link&amp;sk=20ca5adcf244a9db856d83fb5bc6b6ce</guid>
+            <pubDate>Tue, 16 Mar 2021 09:36:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting Started with Z-SHELL. The terminal that the cool boys and girls use]]></title>
+            <link>https://javascript.plainenglish.io/getting-started-with-z-shell-d92f072430bc</link>
+            <guid>https://javascript.plainenglish.io/getting-started-with-z-shell-d92f072430bc</guid>
+            <pubDate>Tue, 16 Mar 2021 09:21:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Should I install nodejs using Chocolatey ? And why the error below ?.]]></title>
             <link>https://github.com/coreybutler/nvm-windows/releases</link>
             <guid>https://github.com/coreybutler/nvm-windows/releases</guid>
             <pubDate>Tue, 16 Mar 2021 02:51:13 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Download NxShell 1.0.1]]></title>
+            <link>https://www.softpedia.com/get/Programming/Other-Programming-Files/NxShell.shtml</link>
+            <guid>https://www.softpedia.com/get/Programming/Other-Programming-Files/NxShell.shtml</guid>
+            <pubDate>Tue, 16 Mar 2021 12:24:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting Started with Z-SHELL. The terminal that the cool boys and girls use]]></title>
+            <link>https://javascript.plainenglish.io/getting-started-with-z-shell-d92f072430bc</link>
+            <guid>https://javascript.plainenglish.io/getting-started-with-z-shell-d92f072430bc</guid>
+            <pubDate>Tue, 16 Mar 2021 11:43:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[serverless boilerplate]]></title>
             <link>https://github.com/collierrgbsitisfise/serverless-bonk-template</link>
             <guid>https://github.com/collierrgbsitisfise/serverless-bonk-template</guid>
             <pubDate>Mon, 15 Mar 2021 20:20:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Throwing without try-catch-hell]]></title>
-            <link>https://github.com/UniAuth/http-exception-transformer</link>
-            <guid>https://github.com/UniAuth/http-exception-transformer</guid>
-            <pubDate>Tue, 16 Mar 2021 07:13:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Server-Sent (Push) Events in NodeJS]]></title>
@@ -73,36 +103,6 @@
             <link>https://pragmaticpineapple.com/7-ways-to-debug-jest-tests-in-terminal/</link>
             <guid>https://pragmaticpineapple.com/7-ways-to-debug-jest-tests-in-terminal/</guid>
             <pubDate>Mon, 15 Mar 2021 11:25:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fluent JSON validator -- an easy-to-use and flexible JSON object validator with a nice builder pattern API!]]></title>
-            <link>https://github.com/Semmu/fluent-json-validator</link>
-            <guid>https://github.com/Semmu/fluent-json-validator</guid>
-            <pubDate>Sun, 14 Mar 2021 15:13:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10 JavaScript array functions you should start using today -- Node.js example]]></title>
-            <link>https://geshan.com.np/blog/2021/03/javascript-array-functions/</link>
-            <guid>https://geshan.com.np/blog/2021/03/javascript-array-functions/</guid>
-            <pubDate>Mon, 15 Mar 2021 11:26:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I'm giving away full access to Nodejs Express React boilerplate for SaaS.]]></title>
-            <link>https://userocket.herokuapp.com/</link>
-            <guid>https://userocket.herokuapp.com/</guid>
-            <pubDate>Mon, 15 Mar 2021 18:59:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[low.js | Node.js for microcontrollers]]></title>
-            <link>https://www.neonious.com/lowjs/</link>
-            <guid>https://www.neonious.com/lowjs/</guid>
-            <pubDate>Sun, 14 Mar 2021 17:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NodeJS libraries for game bot development]]></title>
-            <link>https://kk.je/nodejs-libraries-for-game-bot-development/</link>
-            <guid>https://kk.je/nodejs-libraries-for-game-bot-development/</guid>
-            <pubDate>Sun, 14 Mar 2021 20:05:18 GMT</pubDate>
         </item>
     </channel>
 </rss>

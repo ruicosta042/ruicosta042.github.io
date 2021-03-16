@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Tue, 16 Mar 2021 07:47:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Mar 2021 13:08:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -27,10 +27,28 @@
             <pubDate>Tue, 16 Mar 2021 01:57:03 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[temp-color : Scale temperature (°C /°F) to RGB color]]></title>
+            <link>https://github.com/szymslo/temp-color</link>
+            <guid>https://github.com/szymslo/temp-color</guid>
+            <pubDate>Tue, 16 Mar 2021 11:43:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How I made my Resume, based on Commandos game]]></title>
+            <link>https://dev.to/vivirenremoto/how-i-made-my-resume-based-on-commandos-game-35j</link>
+            <guid>https://dev.to/vivirenremoto/how-i-made-my-resume-based-on-commandos-game-35j</guid>
+            <pubDate>Tue, 16 Mar 2021 11:16:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Rethinking the JavaScript ternary operator]]></title>
             <link>https://jrsinclair.com/articles/2021/rethinking-the-javascript-ternary-operator/</link>
             <guid>https://jrsinclair.com/articles/2021/rethinking-the-javascript-ternary-operator/</guid>
             <pubDate>Mon, 15 Mar 2021 21:04:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Error Cause in Javascript]]></title>
+            <link>https://dev.to/hemanth/error-cause-in-javascript-425d</link>
+            <guid>https://dev.to/hemanth/error-cause-in-javascript-425d</guid>
+            <pubDate>Tue, 16 Mar 2021 12:37:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A look at the CSS Paint API]]></title>
@@ -63,16 +81,16 @@
             <pubDate>Mon, 15 Mar 2021 14:40:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Using GraphQL Code Generator to create a great developer experience with Typescript and GraphQL]]></title>
-            <link>https://djangoshelton.medium.com/using-graphql-code-generator-to-create-a-great-developer-experience-with-typescript-and-graphql-30e30261b75</link>
-            <guid>https://djangoshelton.medium.com/using-graphql-code-generator-to-create-a-great-developer-experience-with-typescript-and-graphql-30e30261b75</guid>
-            <pubDate>Sun, 14 Mar 2021 19:14:18 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Building a Rejection Hotline with Twilio]]></title>
             <link>https://leemartin.dev/building-a-rejection-hotline-with-twilio-for-peach-prc-49f426a90664</link>
             <guid>https://leemartin.dev/building-a-rejection-hotline-with-twilio-for-peach-prc-49f426a90664</guid>
             <pubDate>Mon, 15 Mar 2021 14:08:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Using GraphQL Code Generator to create a great developer experience with Typescript and GraphQL]]></title>
+            <link>https://djangoshelton.medium.com/using-graphql-code-generator-to-create-a-great-developer-experience-with-typescript-and-graphql-30e30261b75</link>
+            <guid>https://djangoshelton.medium.com/using-graphql-code-generator-to-create-a-great-developer-experience-with-typescript-and-graphql-30e30261b75</guid>
+            <pubDate>Sun, 14 Mar 2021 19:14:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Quick, zero-setup, persistent State management with Stoxy]]></title>
@@ -127,24 +145,6 @@
             <link>https://github.com/henriquehbr/versionem</link>
             <guid>https://github.com/henriquehbr/versionem</guid>
             <pubDate>Sun, 14 Mar 2021 07:57:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[order-book-heatmap.js - a low latency heatmap visualizing rapid changes in live markets, built with D3 & WS]]></title>
-            <link>https://github.com/Elenchev/order-book-heatmap</link>
-            <guid>https://github.com/Elenchev/order-book-heatmap</guid>
-            <pubDate>Sun, 14 Mar 2021 12:01:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Draw Stuffs to Canvas Easily with JSX (or XML)]]></title>
-            <link>https://dev.to/thorx86/draw-canvas-with-jsx-or-xml-2b74</link>
-            <guid>https://dev.to/thorx86/draw-canvas-with-jsx-or-xml-2b74</guid>
-            <pubDate>Mon, 15 Mar 2021 06:03:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Modern Javascript - II]]></title>
-            <link>https://dev.to/sinhapiyush/modern-javascript-ii-2h34</link>
-            <guid>https://dev.to/sinhapiyush/modern-javascript-ii-2h34</guid>
-            <pubDate>Sun, 14 Mar 2021 10:38:16 GMT</pubDate>
         </item>
     </channel>
 </rss>

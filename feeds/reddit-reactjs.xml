@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Tue, 16 Mar 2021 07:47:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Mar 2021 13:08:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,10 +21,10 @@
             <pubDate>Mon, 15 Mar 2021 19:19:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What Would Happen If You Mutated Your React Redux State?]]></title>
-            <link>https://blog.bam.tech/developer-news/what-would-happen-if-you-mutated-your-react-redux-state</link>
-            <guid>https://blog.bam.tech/developer-news/what-would-happen-if-you-mutated-your-react-redux-state</guid>
-            <pubDate>Mon, 15 Mar 2021 14:02:56 GMT</pubDate>
+            <title><![CDATA[I made a Personal Blog using Next.js. Can anyone suggest me improvement or feedback on performance of your experience loading this site?]]></title>
+            <link>https://krehwell.com/</link>
+            <guid>https://krehwell.com/</guid>
+            <pubDate>Tue, 16 Mar 2021 10:04:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[React Clean Code for Beginners]]></title>
@@ -33,10 +33,28 @@
             <pubDate>Tue, 16 Mar 2021 04:14:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Can React state management get any simpler than this?]]></title>
-            <link>https://dev.to/arnelenero/can-react-state-management-get-any-simpler-than-this-2o90</link>
-            <guid>https://dev.to/arnelenero/can-react-state-management-get-any-simpler-than-this-2o90</guid>
-            <pubDate>Tue, 16 Mar 2021 07:26:05 GMT</pubDate>
+            <title><![CDATA[JWT Authentication Best Practices]]></title>
+            <link>https://blog.asayer.io/jwt-authentication-best-practices</link>
+            <guid>https://blog.asayer.io/jwt-authentication-best-practices</guid>
+            <pubDate>Tue, 16 Mar 2021 12:45:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Would Happen If You Mutated Your React Redux State?]]></title>
+            <link>https://blog.bam.tech/developer-news/what-would-happen-if-you-mutated-your-react-redux-state</link>
+            <guid>https://blog.bam.tech/developer-news/what-would-happen-if-you-mutated-your-react-redux-state</guid>
+            <pubDate>Mon, 15 Mar 2021 14:02:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Creating and serving a monorepo React app using Yarn workspace, TypeScript, esbuild, and Express]]></title>
+            <link>https://halftheopposite.dev/post/app-yarn-typescript-esbuild-part-1</link>
+            <guid>https://halftheopposite.dev/post/app-yarn-typescript-esbuild-part-1</guid>
+            <pubDate>Tue, 16 Mar 2021 09:03:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Passing icons as props in a consistent way using React]]></title>
+            <link>https://ozzie.sh/passing-icons-as-props-in-a-consistent-way-using-react</link>
+            <guid>https://ozzie.sh/passing-icons-as-props-in-a-consistent-way-using-react</guid>
+            <pubDate>Tue, 16 Mar 2021 08:04:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[7 Ways to Debug Jest Tests in Terminal]]></title>
@@ -61,12 +79,6 @@
             <link>https://stackoverflow.com/questions/17653384/refused-to-execute-inline-script-because-it-violates-the-following-content-secur</link>
             <guid>https://stackoverflow.com/questions/17653384/refused-to-execute-inline-script-because-it-violates-the-following-content-secur</guid>
             <pubDate>Tue, 16 Mar 2021 02:58:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From the eyes of a junior developer — Adding Loading fields on Redux sucks (sometimes)]]></title>
-            <link>https://tagdiwalaviral.medium.com/from-the-eyes-of-a-junior-developer-adding-loading-fields-on-redux-sucks-sometimes-acb1c042fe7a</link>
-            <guid>https://tagdiwalaviral.medium.com/from-the-eyes-of-a-junior-developer-adding-loading-fields-on-redux-sucks-sometimes-acb1c042fe7a</guid>
-            <pubDate>Mon, 15 Mar 2021 09:48:27 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Wed, 17 Mar 2021 07:48:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Mar 2021 13:03:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,12 @@
             <link>https://foo.com/</link>
             <guid>https://foo.com/</guid>
             <pubDate>Mon, 15 Mar 2021 09:04:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Copenhagen: Free, lightweight, open source and hackable code editor for the web]]></title>
+            <link>https://copenhagen.autocode.com/</link>
+            <guid>https://copenhagen.autocode.com/</guid>
+            <pubDate>Wed, 17 Mar 2021 07:39:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[An interactive map to learn RxJS]]></title>
@@ -27,16 +33,22 @@
             <pubDate>Tue, 16 Mar 2021 21:18:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Principles of Developer Experience]]></title>
+            <link>https://cpojer.net/posts/principles-of-devx</link>
+            <guid>https://cpojer.net/posts/principles-of-devx</guid>
+            <pubDate>Wed, 17 Mar 2021 09:11:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AskJS] Quokka Js support for React]]></title>
+            <link>https://github.com/Prodesed/quokka-example</link>
+            <guid>https://github.com/Prodesed/quokka-example</guid>
+            <pubDate>Wed, 17 Mar 2021 08:41:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What is the Javascript Call Stack and how does it get Exceeded]]></title>
             <link>https://browntreelabs.com/the-call-stack-and-how-it-gets-exceeded/</link>
             <guid>https://browntreelabs.com/the-call-stack-and-how-it-gets-exceeded/</guid>
             <pubDate>Tue, 16 Mar 2021 17:08:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Copenhagen: Free, lightweight, open source and hackable code editor for the web]]></title>
-            <link>https://copenhagen.autocode.com/</link>
-            <guid>https://copenhagen.autocode.com/</guid>
-            <pubDate>Wed, 17 Mar 2021 07:39:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Interactive data visualizations with KendoReact and GoodData]]></title>
@@ -57,16 +69,16 @@
             <pubDate>Tue, 16 Mar 2021 01:06:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[{} + [] is not 0]]></title>
-            <link>https://evinsellin.medium.com/object-plus-array-is-not-zero-ec4db710e7a5</link>
-            <guid>https://evinsellin.medium.com/object-plus-array-is-not-zero-ec4db710e7a5</guid>
-            <pubDate>Tue, 16 Mar 2021 01:57:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[30 Days of React JS: Solving 30 Problems in 30 Days!]]></title>
             <link>https://events.praveen.science/30-days-of-react/</link>
             <guid>https://events.praveen.science/30-days-of-react/</guid>
             <pubDate>Wed, 17 Mar 2021 01:13:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[{} + [] is not 0]]></title>
+            <link>https://evinsellin.medium.com/object-plus-array-is-not-zero-ec4db710e7a5</link>
+            <guid>https://evinsellin.medium.com/object-plus-array-is-not-zero-ec4db710e7a5</guid>
+            <pubDate>Tue, 16 Mar 2021 01:57:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Modern Javascript - III]]></title>
@@ -127,18 +139,6 @@
             <link>https://leemartin.dev/building-a-rejection-hotline-with-twilio-for-peach-prc-49f426a90664</link>
             <guid>https://leemartin.dev/building-a-rejection-hotline-with-twilio-for-peach-prc-49f426a90664</guid>
             <pubDate>Mon, 15 Mar 2021 14:08:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Using GraphQL Code Generator to create a great developer experience with Typescript and GraphQL]]></title>
-            <link>https://djangoshelton.medium.com/using-graphql-code-generator-to-create-a-great-developer-experience-with-typescript-and-graphql-30e30261b75</link>
-            <guid>https://djangoshelton.medium.com/using-graphql-code-generator-to-create-a-great-developer-experience-with-typescript-and-graphql-30e30261b75</guid>
-            <pubDate>Sun, 14 Mar 2021 19:14:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[V8 Deep Dives] Understanding Array Internals]]></title>
-            <link>https://apechkurov.medium.com/v8-deep-dives-understanding-array-internals-5b17d7a28ecc</link>
-            <guid>https://apechkurov.medium.com/v8-deep-dives-understanding-array-internals-5b17d7a28ecc</guid>
-            <pubDate>Mon, 15 Mar 2021 16:27:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

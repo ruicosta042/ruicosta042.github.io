@@ -4,7 +4,7 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Wed, 17 Mar 2021 07:48:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Mar 2021 13:03:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,18 @@
             <link>https://copenhagen.autocode.com/</link>
             <guid>https://copenhagen.autocode.com/</guid>
             <pubDate>Wed, 17 Mar 2021 07:41:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I created an experimental word processor using web technologies.]]></title>
+            <link>https://github.com/adrian-kriegel/goma/</link>
+            <guid>https://github.com/adrian-kriegel/goma/</guid>
+            <pubDate>Wed, 17 Mar 2021 10:08:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Principles of Developer Experience]]></title>
+            <link>https://cpojer.net/posts/principles-of-devx</link>
+            <guid>https://cpojer.net/posts/principles-of-devx</guid>
+            <pubDate>Wed, 17 Mar 2021 09:12:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hassle-Free Database Migrations with Prisma Migrate]]></title>
@@ -91,18 +103,6 @@
             <link>https://github.com/coreybutler/nvm-windows/releases</link>
             <guid>https://github.com/coreybutler/nvm-windows/releases</guid>
             <pubDate>Tue, 16 Mar 2021 02:51:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Download NxShell 1.0.1]]></title>
-            <link>https://www.softpedia.com/get/Programming/Other-Programming-Files/NxShell.shtml</link>
-            <guid>https://www.softpedia.com/get/Programming/Other-Programming-Files/NxShell.shtml</guid>
-            <pubDate>Tue, 16 Mar 2021 12:24:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[serverless boilerplate]]></title>
-            <link>https://github.com/collierrgbsitisfise/serverless-bonk-template</link>
-            <guid>https://github.com/collierrgbsitisfise/serverless-bonk-template</guid>
-            <pubDate>Mon, 15 Mar 2021 20:20:07 GMT</pubDate>
         </item>
     </channel>
 </rss>

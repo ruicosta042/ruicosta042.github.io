@@ -4,10 +4,16 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Wed, 17 Mar 2021 07:48:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Mar 2021 13:03:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[CSS Generators]]></title>
+            <link>https://www.smashingmagazine.com/2021/03/css-generators/</link>
+            <guid>https://www.smashingmagazine.com/2021/03/css-generators/</guid>
+            <pubDate>Wed, 17 Mar 2021 10:05:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tailwind-jit]]></title>
             <link>https://blog.tailwindcss.com/just-in-time-the-next-generation-of-tailwind-css</link>

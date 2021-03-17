@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Tue, 16 Mar 2021 19:46:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Mar 2021 07:48:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,40 @@
             <pubDate>Mon, 15 Mar 2021 09:04:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[reddit-hyped-stocks - A web application to explore currently hyped stocks on Reddit]]></title>
-            <link>https://github.com/lukstei/reddit-hyped-stocks</link>
-            <guid>https://github.com/lukstei/reddit-hyped-stocks</guid>
-            <pubDate>Tue, 16 Mar 2021 15:53:58 GMT</pubDate>
+            <title><![CDATA[An interactive map to learn RxJS]]></title>
+            <link>https://www.elialotti.com/it/roadmap/rxjs</link>
+            <guid>https://www.elialotti.com/it/roadmap/rxjs</guid>
+            <pubDate>Tue, 16 Mar 2021 21:33:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Generate a TOTP code from a QR image for 2FA]]></title>
+            <link>https://github.com/thomaschaplin/image-to-totp</link>
+            <guid>https://github.com/thomaschaplin/image-to-totp</guid>
+            <pubDate>Tue, 16 Mar 2021 21:18:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is the Javascript Call Stack and how does it get Exceeded]]></title>
+            <link>https://browntreelabs.com/the-call-stack-and-how-it-gets-exceeded/</link>
+            <guid>https://browntreelabs.com/the-call-stack-and-how-it-gets-exceeded/</guid>
+            <pubDate>Tue, 16 Mar 2021 17:08:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Copenhagen: Free, lightweight, open source and hackable code editor for the web]]></title>
+            <link>https://copenhagen.autocode.com/</link>
+            <guid>https://copenhagen.autocode.com/</guid>
+            <pubDate>Wed, 17 Mar 2021 07:39:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Interactive data visualizations with KendoReact and GoodData]]></title>
+            <link>https://community.gooddata.com/apis-and-sdks-20/the-gooddata-kendoreact-integration-237</link>
+            <guid>https://community.gooddata.com/apis-and-sdks-20/the-gooddata-kendoreact-integration-237</guid>
+            <pubDate>Wed, 17 Mar 2021 06:36:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[JSON Formatter, Validator & Path Finder]]></title>
+            <link>https://jsonformatter.jsonparseronline.com/</link>
+            <guid>https://jsonformatter.jsonparseronline.com/</guid>
+            <pubDate>Wed, 17 Mar 2021 05:36:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Just-In-Time: The Next Generation of Tailwind CSS]]></title>
@@ -33,16 +63,16 @@
             <pubDate>Tue, 16 Mar 2021 01:57:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[PanvasJS - a JavaScript library for working with the HTML canvas | making animations, simulations, and game development in the browser much easier]]></title>
-            <link>https://github.com/leptr/panvasjs/</link>
-            <guid>https://github.com/leptr/panvasjs/</guid>
-            <pubDate>Tue, 16 Mar 2021 16:37:25 GMT</pubDate>
+            <title><![CDATA[30 Days of React JS: Solving 30 Problems in 30 Days!]]></title>
+            <link>https://events.praveen.science/30-days-of-react/</link>
+            <guid>https://events.praveen.science/30-days-of-react/</guid>
+            <pubDate>Wed, 17 Mar 2021 01:13:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[scrapinghub/splash Splash - A javascript rendering service]]></title>
-            <link>https://github.com/scrapinghub/splash</link>
-            <guid>https://github.com/scrapinghub/splash</guid>
-            <pubDate>Tue, 16 Mar 2021 19:25:42 GMT</pubDate>
+            <title><![CDATA[Modern Javascript - III]]></title>
+            <link>https://dev.to/sinhapiyush/modern-javascript-iii-2opm</link>
+            <guid>https://dev.to/sinhapiyush/modern-javascript-iii-2opm</guid>
+            <pubDate>Tue, 16 Mar 2021 23:11:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[temp-color : Scale temperature (°C /°F) to RGB color]]></title>
@@ -51,16 +81,10 @@
             <pubDate>Tue, 16 Mar 2021 11:43:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What is the Javascript Call Stack and how does it get Exceeded]]></title>
-            <link>https://browntreelabs.com/the-call-stack-and-how-it-gets-exceeded/</link>
-            <guid>https://browntreelabs.com/the-call-stack-and-how-it-gets-exceeded/</guid>
-            <pubDate>Tue, 16 Mar 2021 17:08:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10 Things 2020 has taught me]]></title>
-            <link>https://dev.to/joakimunge/10-things-2020-has-taught-me-nfj</link>
-            <guid>https://dev.to/joakimunge/10-things-2020-has-taught-me-nfj</guid>
-            <pubDate>Tue, 16 Mar 2021 17:04:18 GMT</pubDate>
+            <title><![CDATA[PanvasJS - a JavaScript library for working with the HTML canvas | making animations, simulations, and game development in the browser much easier]]></title>
+            <link>https://github.com/leptr/panvasjs/</link>
+            <guid>https://github.com/leptr/panvasjs/</guid>
+            <pubDate>Tue, 16 Mar 2021 16:37:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rethinking the JavaScript ternary operator]]></title>
@@ -93,6 +117,12 @@
             <pubDate>Mon, 15 Mar 2021 11:48:22 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The #1 tip to familiarize with new JavaScript Codebases]]></title>
+            <link>https://www.kevinpeters.net/the-fastest-way-to-understand-new-code-bases</link>
+            <guid>https://www.kevinpeters.net/the-fastest-way-to-understand-new-code-bases</guid>
+            <pubDate>Mon, 15 Mar 2021 14:40:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Building a Rejection Hotline with Twilio]]></title>
             <link>https://leemartin.dev/building-a-rejection-hotline-with-twilio-for-peach-prc-49f426a90664</link>
             <guid>https://leemartin.dev/building-a-rejection-hotline-with-twilio-for-peach-prc-49f426a90664</guid>
@@ -105,46 +135,10 @@
             <pubDate>Sun, 14 Mar 2021 19:14:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Quick, zero-setup, persistent State management with Stoxy]]></title>
-            <link>https://dev.to/matsuuu/quick-zero-setup-persistent-state-management-with-stoxy-5f2i</link>
-            <guid>https://dev.to/matsuuu/quick-zero-setup-persistent-state-management-with-stoxy-5f2i</guid>
-            <pubDate>Mon, 15 Mar 2021 19:15:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[svgj: convert .svg into jsx 40x faster than svgr & an esbuild plugin to import svg as jsx]]></title>
-            <link>https://github.com/Jarred-Sumner/svgj</link>
-            <guid>https://github.com/Jarred-Sumner/svgj</guid>
-            <pubDate>Mon, 15 Mar 2021 19:07:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Typescript declaration generator for svelte with typescript]]></title>
-            <link>https://github.com/andrelmlins/svelte-dts</link>
-            <guid>https://github.com/andrelmlins/svelte-dts</guid>
-            <pubDate>Mon, 15 Mar 2021 17:50:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[[V8 Deep Dives] Understanding Array Internals]]></title>
             <link>https://apechkurov.medium.com/v8-deep-dives-understanding-array-internals-5b17d7a28ecc</link>
             <guid>https://apechkurov.medium.com/v8-deep-dives-understanding-array-internals-5b17d7a28ecc</guid>
             <pubDate>Mon, 15 Mar 2021 16:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Micro library for batch running promises]]></title>
-            <link>https://github.com/barelyhuman/conch</link>
-            <guid>https://github.com/barelyhuman/conch</guid>
-            <pubDate>Mon, 15 Mar 2021 03:47:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[URL as an Application state]]></title>
-            <link>https://dev.to/bring2dip/url-as-an-application-state-58fe</link>
-            <guid>https://dev.to/bring2dip/url-as-an-application-state-58fe</guid>
-            <pubDate>Mon, 15 Mar 2021 02:33:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[7 Ways to Debug Jest Tests in Terminal]]></title>
-            <link>https://pragmaticpineapple.com/7-ways-to-debug-jest-tests-in-terminal/</link>
-            <guid>https://pragmaticpineapple.com/7-ways-to-debug-jest-tests-in-terminal/</guid>
-            <pubDate>Mon, 15 Mar 2021 11:26:53 GMT</pubDate>
         </item>
     </channel>
 </rss>

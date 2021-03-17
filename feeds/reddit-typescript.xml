@@ -4,10 +4,16 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Tue, 16 Mar 2021 19:46:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Mar 2021 07:48:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Supercharge your GraphQL APIs GraphQL-Utils.]]></title>
+            <link>https://jenyus-org.github.io/graphql-utils/</link>
+            <guid>https://jenyus-org.github.io/graphql-utils/</guid>
+            <pubDate>Tue, 16 Mar 2021 22:38:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to extract proper intersection type from an array?]]></title>
             <link>https://www.typescriptlang.org/play?#code/JYOwLgpgTgZghgYwgAgILIN4Chm+QZwHsBbCANTgBsAuAsKUAcwG4sBfLLUSWRFAIUw48RUgHkwAC2gUadBiBbtOlCGGQAPWugBkyQQF5MbVqvUBPbcj2HjptcgBeVm8iMYTnBIRD513ylUEMGAfKwBtAF1rfWQotziNABpkcxTHSNZvX3UYYCg-AFFVYgSAoJCfcIAGTNwAenq0GP4sbL9kKiIAMXyikoTGNV6CsAAKcohg0JAASmYGptasRuQACUIAd2QwQmRiOABrFClgfGQYEGQoNQBXKCuwcwAHFF1Y0D8IOAATZEIYLEAPxYGC3EDTHzIIZgEZ+AA8ABUAHxjOBQKC0RFRWZY7B4a53B6dDE1TLsIA</link>
@@ -73,12 +79,6 @@
             <link>https://github.com/reviewdog/reviewdog</link>
             <guid>https://github.com/reviewdog/reviewdog</guid>
             <pubDate>Fri, 12 Mar 2021 12:40:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Convert typescript functions to cli automatically. I published in npm a package that does that.]]></title>
-            <link>https://github.com/lillallol/fn-to-cli/tree/master/example</link>
-            <guid>https://github.com/lillallol/fn-to-cli/tree/master/example</guid>
-            <pubDate>Thu, 11 Mar 2021 23:35:13 GMT</pubDate>
         </item>
     </channel>
 </rss>

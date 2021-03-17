@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Tue, 16 Mar 2021 19:46:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Mar 2021 07:48:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,46 @@
             <pubDate>Mon, 01 Mar 2021 15:56:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How to Build Accordion In React From Scratch Without Using Any External Library]]></title>
+            <link>https://yogeshchavan.hashnode.dev/how-to-build-accordion-in-react-from-scratch-without-using-any-external-library</link>
+            <guid>https://yogeshchavan.hashnode.dev/how-to-build-accordion-in-react-from-scratch-without-using-any-external-library</guid>
+            <pubDate>Wed, 17 Mar 2021 06:39:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[JWT Authentication Best Practices]]></title>
             <link>https://blog.asayer.io/jwt-authentication-best-practices</link>
             <guid>https://blog.asayer.io/jwt-authentication-best-practices</guid>
             <pubDate>Tue, 16 Mar 2021 12:45:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[useConstant - what's the benefit?]]></title>
+            <link>https://github.com/Andarist/use-constant/blob/master/src/index.ts</link>
+            <guid>https://github.com/Andarist/use-constant/blob/master/src/index.ts</guid>
+            <pubDate>Wed, 17 Mar 2021 06:00:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How do I convert Boop animation from React Spring to Framer Motion?]]></title>
+            <link>https://www.joshwcomeau.com/react/boop/</link>
+            <guid>https://www.joshwcomeau.com/react/boop/</guid>
+            <pubDate>Wed, 17 Mar 2021 07:34:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Deploying to Kubernetes]]></title>
+            <link>http://localhost/static/js/main.chunk.js</link>
+            <guid>http://localhost/static/js/main.chunk.js</guid>
+            <pubDate>Wed, 17 Mar 2021 07:24:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PrimeReact UI 6.2.0 Adds Grouping for Selects and an Exciting Roadmap to V7]]></title>
+            <link>https://primetek.hashnode.dev/primereact-620-adds-grouping-for-selects</link>
+            <guid>https://primetek.hashnode.dev/primereact-620-adds-grouping-for-selects</guid>
+            <pubDate>Wed, 17 Mar 2021 07:23:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Code: Interactive data visualizations with KendoReact and GoodData]]></title>
+            <link>https://community.gooddata.com/apis-and-sdks-20/the-gooddata-kendoreact-integration-237</link>
+            <guid>https://community.gooddata.com/apis-and-sdks-20/the-gooddata-kendoreact-integration-237</guid>
+            <pubDate>Wed, 17 Mar 2021 06:34:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I made a Personal Blog using Next.js. Can anyone suggest me improvement or feedback on performance of your experience loading this site?]]></title>
@@ -33,6 +69,12 @@
             <pubDate>Tue, 16 Mar 2021 15:21:07 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Made my First Full Stack App with React !]]></title>
+            <link>https://people-u-admire.netlify.app/</link>
+            <guid>https://people-u-admire.netlify.app/</guid>
+            <pubDate>Tue, 16 Mar 2021 19:51:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[React Clean Code for Beginners]]></title>
             <link>https://luisarbezerra.com/react-clean-code-for-beginners</link>
             <guid>https://luisarbezerra.com/react-clean-code-for-beginners</guid>
@@ -45,28 +87,22 @@
             <pubDate>Mon, 15 Mar 2021 19:19:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[react-envs: Bundles server's environment variables into your React app]]></title>
+            <link>https://github.com/garronej/react-envs</link>
+            <guid>https://github.com/garronej/react-envs</guid>
+            <pubDate>Tue, 16 Mar 2021 20:47:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Creating and serving a monorepo React app using Yarn workspace, TypeScript, esbuild, and Express]]></title>
             <link>https://halftheopposite.dev/post/app-yarn-typescript-esbuild-part-1</link>
             <guid>https://halftheopposite.dev/post/app-yarn-typescript-esbuild-part-1</guid>
             <pubDate>Tue, 16 Mar 2021 09:03:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What Would Happen If You Mutated Your React Redux State?]]></title>
-            <link>https://blog.bam.tech/developer-news/what-would-happen-if-you-mutated-your-react-redux-state</link>
-            <guid>https://blog.bam.tech/developer-news/what-would-happen-if-you-mutated-your-react-redux-state</guid>
-            <pubDate>Mon, 15 Mar 2021 14:02:56 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[React.js (Typescript) STARTER]]></title>
             <link>https://fast-modular-project.com/starters/starter-reacjs-nestjs-mysql</link>
             <guid>https://fast-modular-project.com/starters/starter-reacjs-nestjs-mysql</guid>
             <pubDate>Tue, 16 Mar 2021 13:31:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Passing icons as props in a consistent way using React]]></title>
-            <link>https://ozzie.sh/passing-icons-as-props-in-a-consistent-way-using-react</link>
-            <guid>https://ozzie.sh/passing-icons-as-props-in-a-consistent-way-using-react</guid>
-            <pubDate>Tue, 16 Mar 2021 08:04:19 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,16 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Wed, 17 Mar 2021 13:03:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Mar 2021 19:46:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[[gist] createNamespacedEnum: A small utility function to create namespaced enums in typescript, where the return type is a literal reflection of the returned enum value itself]]></title>
+            <link>https://gist.github.com/tvler/45a471f9ca1255734d8066551f84f604</link>
+            <guid>https://gist.github.com/tvler/45a471f9ca1255734d8066551f84f604</guid>
+            <pubDate>Wed, 17 Mar 2021 15:08:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Supercharge your GraphQL APIs GraphQL-Utils.]]></title>
             <link>https://jenyus-org.github.io/graphql-utils/</link>

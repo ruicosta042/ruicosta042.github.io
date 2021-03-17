@@ -4,7 +4,7 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Wed, 17 Mar 2021 13:03:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Mar 2021 19:46:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,12 @@
             <link>https://copenhagen.autocode.com/</link>
             <guid>https://copenhagen.autocode.com/</guid>
             <pubDate>Wed, 17 Mar 2021 07:41:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tool/environment for SDK development?]]></title>
+            <link>https://www.postman.com/</link>
+            <guid>https://www.postman.com/</guid>
+            <pubDate>Wed, 17 Mar 2021 15:52:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I created an experimental word processor using web technologies.]]></title>
@@ -39,6 +45,12 @@
             <pubDate>Wed, 17 Mar 2021 06:23:03 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Create an interactive course to teach programming in 2021]]></title>
+            <link>https://codedamn.com/news/make-interactive-programming-course</link>
+            <guid>https://codedamn.com/news/make-interactive-programming-course</guid>
+            <pubDate>Wed, 17 Mar 2021 13:47:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Newbie, Express.js - Combining results from different SQL tables]]></title>
             <link>https://gyazo.com/6f325a94b4c4d81737d82859d549477e</link>
             <guid>https://gyazo.com/6f325a94b4c4d81737d82859d549477e</guid>
@@ -61,48 +73,6 @@
             <link>https://github.com/UniAuth/http-exception-transformer</link>
             <guid>https://github.com/UniAuth/http-exception-transformer</guid>
             <pubDate>Tue, 16 Mar 2021 07:13:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to make transactions in Nest.js]]></title>
-            <link>https://medium.com/@alphamikle/how-to-make-transactions-in-nest-js-9bff9b2b02af?source=friends_link&amp;sk=20ca5adcf244a9db856d83fb5bc6b6ce</link>
-            <guid>https://medium.com/@alphamikle/how-to-make-transactions-in-nest-js-9bff9b2b02af?source=friends_link&amp;sk=20ca5adcf244a9db856d83fb5bc6b6ce</guid>
-            <pubDate>Tue, 16 Mar 2021 09:36:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pure Node.js remote calling framework]]></title>
-            <link>https://github.com/ZhyMC/jigsaw-rpc</link>
-            <guid>https://github.com/ZhyMC/jigsaw-rpc</guid>
-            <pubDate>Tue, 16 Mar 2021 03:07:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Should I learn graphql or PostgreSQL first]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Tue, 16 Mar 2021 02:57:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting Started with Z-SHELL. The terminal that the cool boys and girls use]]></title>
-            <link>https://javascript.plainenglish.io/getting-started-with-z-shell-d92f072430bc</link>
-            <guid>https://javascript.plainenglish.io/getting-started-with-z-shell-d92f072430bc</guid>
-            <pubDate>Tue, 16 Mar 2021 09:21:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Managing date and time with PostgreSQL and TypeORM]]></title>
-            <link>https://wanago.io/2021/03/15/postgresql-typeorm-date-time/</link>
-            <guid>https://wanago.io/2021/03/15/postgresql-typeorm-date-time/</guid>
-            <pubDate>Mon, 15 Mar 2021 18:52:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[use-css-transition - Like a cross between transition-group and react-spring.]]></title>
-            <link>https://github.com/jwalton/use-css-transition</link>
-            <guid>https://github.com/jwalton/use-css-transition</guid>
-            <pubDate>Tue, 16 Mar 2021 16:03:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Should I install nodejs using Chocolatey ? And why the error below ?.]]></title>
-            <link>https://github.com/coreybutler/nvm-windows/releases</link>
-            <guid>https://github.com/coreybutler/nvm-windows/releases</guid>
-            <pubDate>Tue, 16 Mar 2021 02:51:13 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Wed, 17 Mar 2021 13:03:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Mar 2021 19:46:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,28 +21,46 @@
             <pubDate>Wed, 17 Mar 2021 07:39:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Exporting Design Tokens From Figma With Style Dictionary (Automating the Handoff From Designers to Platforms)]]></title>
+            <link>https://www.michaelmang.dev/blog/exporting-design-tokens-from-figma-with-style-dictionary</link>
+            <guid>https://www.michaelmang.dev/blog/exporting-design-tokens-from-figma-with-style-dictionary</guid>
+            <pubDate>Wed, 17 Mar 2021 16:01:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Storybook for Svelte revamped]]></title>
+            <link>https://storybook.js.org/blog/storybook-for-svelte/</link>
+            <guid>https://storybook.js.org/blog/storybook-for-svelte/</guid>
+            <pubDate>Wed, 17 Mar 2021 17:16:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to easily sync with multiple v-models in Vue 3 using Composition API]]></title>
+            <link>https://theroadtoenterprise.com/blog/how-to-easily-sync-with-multiple-v-models-in-vue-3-using-composition-api</link>
+            <guid>https://theroadtoenterprise.com/blog/how-to-easily-sync-with-multiple-v-models-in-vue-3-using-composition-api</guid>
+            <pubDate>Wed, 17 Mar 2021 17:23:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[V8 release v9.0]]></title>
+            <link>https://v8.dev/blog/v8-release-90</link>
+            <guid>https://v8.dev/blog/v8-release-90</guid>
+            <pubDate>Wed, 17 Mar 2021 16:45:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[An interactive map to learn RxJS]]></title>
             <link>https://www.elialotti.com/it/roadmap/rxjs</link>
             <guid>https://www.elialotti.com/it/roadmap/rxjs</guid>
             <pubDate>Tue, 16 Mar 2021 21:33:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[NZip: Encrypt files from browser]]></title>
+            <link>https://www.nzip.net/</link>
+            <guid>https://www.nzip.net/</guid>
+            <pubDate>Wed, 17 Mar 2021 17:56:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Generate a TOTP code from a QR image for 2FA]]></title>
             <link>https://github.com/thomaschaplin/image-to-totp</link>
             <guid>https://github.com/thomaschaplin/image-to-totp</guid>
             <pubDate>Tue, 16 Mar 2021 21:18:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Principles of Developer Experience]]></title>
-            <link>https://cpojer.net/posts/principles-of-devx</link>
-            <guid>https://cpojer.net/posts/principles-of-devx</guid>
-            <pubDate>Wed, 17 Mar 2021 09:11:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AskJS] Quokka Js support for React]]></title>
-            <link>https://github.com/Prodesed/quokka-example</link>
-            <guid>https://github.com/Prodesed/quokka-example</guid>
-            <pubDate>Wed, 17 Mar 2021 08:41:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What is the Javascript Call Stack and how does it get Exceeded]]></title>
@@ -69,16 +87,16 @@
             <pubDate>Tue, 16 Mar 2021 01:06:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[30 Days of React JS: Solving 30 Problems in 30 Days!]]></title>
-            <link>https://events.praveen.science/30-days-of-react/</link>
-            <guid>https://events.praveen.science/30-days-of-react/</guid>
-            <pubDate>Wed, 17 Mar 2021 01:13:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[{} + [] is not 0]]></title>
             <link>https://evinsellin.medium.com/object-plus-array-is-not-zero-ec4db710e7a5</link>
             <guid>https://evinsellin.medium.com/object-plus-array-is-not-zero-ec4db710e7a5</guid>
             <pubDate>Tue, 16 Mar 2021 01:57:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[30 Days of React JS: Solving 30 Problems in 30 Days!]]></title>
+            <link>https://events.praveen.science/30-days-of-react/</link>
+            <guid>https://events.praveen.science/30-days-of-react/</guid>
+            <pubDate>Wed, 17 Mar 2021 01:13:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Modern Javascript - III]]></title>
@@ -127,18 +145,6 @@
             <link>https://dev.to/handdot/generate-a-pdf-in-js-summary-and-comparison-of-libraries-3k0p</link>
             <guid>https://dev.to/handdot/generate-a-pdf-in-js-summary-and-comparison-of-libraries-3k0p</guid>
             <pubDate>Mon, 15 Mar 2021 11:48:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The #1 tip to familiarize with new JavaScript Codebases]]></title>
-            <link>https://www.kevinpeters.net/the-fastest-way-to-understand-new-code-bases</link>
-            <guid>https://www.kevinpeters.net/the-fastest-way-to-understand-new-code-bases</guid>
-            <pubDate>Mon, 15 Mar 2021 14:40:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Building a Rejection Hotline with Twilio]]></title>
-            <link>https://leemartin.dev/building-a-rejection-hotline-with-twilio-for-peach-prc-49f426a90664</link>
-            <guid>https://leemartin.dev/building-a-rejection-hotline-with-twilio-for-peach-prc-49f426a90664</guid>
-            <pubDate>Mon, 15 Mar 2021 14:08:59 GMT</pubDate>
         </item>
     </channel>
 </rss>

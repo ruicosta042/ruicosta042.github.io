@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Wed, 17 Mar 2021 13:03:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Mar 2021 19:46:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,18 @@
             <link>https://www.smashingmagazine.com/2021/03/css-generators/</link>
             <guid>https://www.smashingmagazine.com/2021/03/css-generators/</guid>
             <pubDate>Wed, 17 Mar 2021 10:05:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Complete CSS Animation Tutorial]]></title>
+            <link>https://semicolon.dev/tutorial/css/css-animation-tutorial?css</link>
+            <guid>https://semicolon.dev/tutorial/css/css-animation-tutorial?css</guid>
+            <pubDate>Wed, 17 Mar 2021 16:16:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Skeleton Loaders in CSS]]></title>
+            <link>https://www.webtips.dev/how-to-create-skeleton-loaders-in-css</link>
+            <guid>https://www.webtips.dev/how-to-create-skeleton-loaders-in-css</guid>
+            <pubDate>Wed, 17 Mar 2021 15:32:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tailwind-jit]]></title>
@@ -45,16 +57,16 @@
             <pubDate>Tue, 16 Mar 2021 18:34:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Any idea how to stop content going out of website?]]></title>
-            <link>https://stackoverflow.com/questions/66656052/how-to-stop-content-going-out-of-website?noredirect=1#comment117830786_66656052</link>
-            <guid>https://stackoverflow.com/questions/66656052/how-to-stop-content-going-out-of-website?noredirect=1#comment117830786_66656052</guid>
-            <pubDate>Tue, 16 Mar 2021 13:41:51 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[[Help] Static sidebar with Navbar and Main]]></title>
             <link>https://docs.python.org/3/</link>
             <guid>https://docs.python.org/3/</guid>
             <pubDate>Tue, 16 Mar 2021 13:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Any idea how to stop content going out of website?]]></title>
+            <link>https://stackoverflow.com/questions/66656052/how-to-stop-content-going-out-of-website?noredirect=1#comment117830786_66656052</link>
+            <guid>https://stackoverflow.com/questions/66656052/how-to-stop-content-going-out-of-website?noredirect=1#comment117830786_66656052</guid>
+            <pubDate>Tue, 16 Mar 2021 13:41:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[CSS defines functions to repeat gradients]]></title>
@@ -85,12 +97,6 @@
             <link>https://jsfiddle.net/r5h2an6k/6/</link>
             <guid>https://jsfiddle.net/r5h2an6k/6/</guid>
             <pubDate>Mon, 15 Mar 2021 11:10:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Simple CSS Loader Animation]]></title>
-            <link>https://www.codingflicks.com/2021/03/creative-loader-animation-using-html-css.html</link>
-            <guid>https://www.codingflicks.com/2021/03/creative-loader-animation-using-html-css.html</guid>
-            <pubDate>Mon, 15 Mar 2021 01:16:19 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,15 +4,27 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Thu, 18 Mar 2021 07:47:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Mar 2021 13:03:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Did You Know About the :has CSS Selector?]]></title>
+            <link>https://css-tricks.com/did-you-know-about-the-has-css-selector/</link>
+            <guid>https://css-tricks.com/did-you-know-about-the-has-css-selector/</guid>
+            <pubDate>Thu, 18 Mar 2021 11:23:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[All about micro interactions by Thatcher Snyder]]></title>
             <link>https://www.parthean.com/blog/lets-talk-about-microinteractions</link>
             <guid>https://www.parthean.com/blog/lets-talk-about-microinteractions</guid>
             <pubDate>Wed, 17 Mar 2021 20:03:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Drawing Decorative Lines with CSS]]></title>
+            <link>https://pqina.nl/blog/drawing-decorative-lines-with-css/</link>
+            <guid>https://pqina.nl/blog/drawing-decorative-lines-with-css/</guid>
+            <pubDate>Thu, 18 Mar 2021 12:14:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[12 Creative Footer Design Examples]]></title>
@@ -25,6 +37,12 @@
             <link>https://www.lambdatest.com/blog/how-to-use-aspect-ratio-css-property/?utm_source=Reddit&amp;utm_medium=blog&amp;utm_campaign=PM-180221-1&amp;utm_term=OrganicPosting</link>
             <guid>https://www.lambdatest.com/blog/how-to-use-aspect-ratio-css-property/?utm_source=Reddit&amp;utm_medium=blog&amp;utm_campaign=PM-180221-1&amp;utm_term=OrganicPosting</guid>
             <pubDate>Thu, 18 Mar 2021 07:13:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I Recreated a Bootstrap Website with Tailwind CSS, And Here Are The Differences]]></title>
+            <link>https://blog.shahednasser.com/i-recreated-a-bootstrap-website-with-tailwindcss/</link>
+            <guid>https://blog.shahednasser.com/i-recreated-a-bootstrap-website-with-tailwindcss/</guid>
+            <pubDate>Thu, 18 Mar 2021 09:17:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[CSS Generators]]></title>
@@ -79,24 +97,6 @@
             <link>https://boomla.com/turbo-css</link>
             <guid>https://boomla.com/turbo-css</guid>
             <pubDate>Tue, 16 Mar 2021 18:34:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[Help] Static sidebar with Navbar and Main]]></title>
-            <link>https://docs.python.org/3/</link>
-            <guid>https://docs.python.org/3/</guid>
-            <pubDate>Tue, 16 Mar 2021 13:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Any idea how to stop content going out of website?]]></title>
-            <link>https://stackoverflow.com/questions/66656052/how-to-stop-content-going-out-of-website?noredirect=1#comment117830786_66656052</link>
-            <guid>https://stackoverflow.com/questions/66656052/how-to-stop-content-going-out-of-website?noredirect=1#comment117830786_66656052</guid>
-            <pubDate>Tue, 16 Mar 2021 13:41:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CSS defines functions to repeat gradients]]></title>
-            <link>https://www.stefanjudis.com/today-i-learned/css-defines-functions-to-repeat-gradients/</link>
-            <guid>https://www.stefanjudis.com/today-i-learned/css-defines-functions-to-repeat-gradients/</guid>
-            <pubDate>Mon, 15 Mar 2021 14:07:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

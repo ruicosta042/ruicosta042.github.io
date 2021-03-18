@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Thu, 18 Mar 2021 07:48:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Mar 2021 13:03:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,16 +15,34 @@
             <pubDate>Wed, 17 Mar 2021 22:03:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Clio: A functional, distributed programming language that compiles to JavaScript]]></title>
+            <link>https://github.com/clio-lang/clio</link>
+            <guid>https://github.com/clio-lang/clio</guid>
+            <pubDate>Thu, 18 Mar 2021 12:32:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[V8 release v9.0]]></title>
             <link>https://v8.dev/blog/v8-release-90</link>
             <guid>https://v8.dev/blog/v8-release-90</guid>
             <pubDate>Wed, 17 Mar 2021 16:45:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[prismarine-web-client : A minecraft client in the browser built from PrismarineJS modules]]></title>
+            <link>https://github.com/PrismarineJS/prismarine-web-client</link>
+            <guid>https://github.com/PrismarineJS/prismarine-web-client</guid>
+            <pubDate>Thu, 18 Mar 2021 12:28:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Creating a Github profile search component in htmx]]></title>
             <link>https://dev.to/rajasegar/creating-a-github-profile-search-component-in-htmx-1pl5</link>
             <guid>https://dev.to/rajasegar/creating-a-github-profile-search-component-in-htmx-1pl5</guid>
             <pubDate>Thu, 18 Mar 2021 06:36:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Storybook for Svelte revamped]]></title>
+            <link>https://storybook.js.org/blog/storybook-for-svelte/</link>
+            <guid>https://storybook.js.org/blog/storybook-for-svelte/</guid>
+            <pubDate>Wed, 17 Mar 2021 17:16:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Copenhagen: Free, lightweight, open source and hackable code editor for the web]]></title>
@@ -37,12 +55,6 @@
             <link>https://www.michaelmang.dev/blog/exporting-design-tokens-from-figma-with-style-dictionary</link>
             <guid>https://www.michaelmang.dev/blog/exporting-design-tokens-from-figma-with-style-dictionary</guid>
             <pubDate>Wed, 17 Mar 2021 16:01:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Storybook for Svelte revamped]]></title>
-            <link>https://storybook.js.org/blog/storybook-for-svelte/</link>
-            <guid>https://storybook.js.org/blog/storybook-for-svelte/</guid>
-            <pubDate>Wed, 17 Mar 2021 17:16:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I built a COVID-19 vaccination tracker, showing all the relevant information using world-map, table, and charts. It also includes a rough forcasting feature to estimate how much more time it'll take untill 70% or 100% vaccination. (source in the comments)]]></title>
@@ -115,18 +127,6 @@
             <link>https://blog.tailwindcss.com/just-in-time-the-next-generation-of-tailwind-css</link>
             <guid>https://blog.tailwindcss.com/just-in-time-the-next-generation-of-tailwind-css</guid>
             <pubDate>Tue, 16 Mar 2021 01:06:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[{} + [] is not 0]]></title>
-            <link>https://evinsellin.medium.com/object-plus-array-is-not-zero-ec4db710e7a5</link>
-            <guid>https://evinsellin.medium.com/object-plus-array-is-not-zero-ec4db710e7a5</guid>
-            <pubDate>Tue, 16 Mar 2021 01:57:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[30 Days of React JS: Solving 30 Problems in 30 Days!]]></title>
-            <link>https://events.praveen.science/30-days-of-react/</link>
-            <guid>https://events.praveen.science/30-days-of-react/</guid>
-            <pubDate>Wed, 17 Mar 2021 01:13:25 GMT</pubDate>
         </item>
     </channel>
 </rss>

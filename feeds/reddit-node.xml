@@ -4,16 +4,10 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Thu, 18 Mar 2021 07:48:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Mar 2021 13:03:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
-        <item>
-            <title><![CDATA[Using async/await inside loops in JavaScript]]></title>
-            <link>https://shadidhaque.medium.com/using-async-await-inside-loops-in-javascript-5b0ccc9f0ef4</link>
-            <guid>https://shadidhaque.medium.com/using-async-await-inside-loops-in-javascript-5b0ccc9f0ef4</guid>
-            <pubDate>Wed, 17 Mar 2021 22:09:45 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Contributing to Node.js Core]]></title>
             <link>https://nestedquotes.ca/articles/nodejs-core-contribution/</link>
@@ -21,16 +15,28 @@
             <pubDate>Thu, 18 Mar 2021 06:09:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Copenhagen: Free, lightweight, open source and hackable code editor for the web]]></title>
-            <link>https://copenhagen.autocode.com/</link>
-            <guid>https://copenhagen.autocode.com/</guid>
-            <pubDate>Wed, 17 Mar 2021 07:41:06 GMT</pubDate>
+            <title><![CDATA[What is necessity of unit tests?]]></title>
+            <link>https://martinfowler.com/articles/practical-test-pyramid.html</link>
+            <guid>https://martinfowler.com/articles/practical-test-pyramid.html</guid>
+            <pubDate>Thu, 18 Mar 2021 11:31:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Using async/await inside loops in JavaScript]]></title>
+            <link>https://shadidhaque.medium.com/using-async-await-inside-loops-in-javascript-5b0ccc9f0ef4</link>
+            <guid>https://shadidhaque.medium.com/using-async-await-inside-loops-in-javascript-5b0ccc9f0ef4</guid>
+            <pubDate>Wed, 17 Mar 2021 22:09:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Node v15.12.0 (Current)]]></title>
             <link>https://nodejs.org/en/blog/release/v15.12.0/</link>
             <guid>https://nodejs.org/en/blog/release/v15.12.0/</guid>
             <pubDate>Wed, 17 Mar 2021 22:48:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Copenhagen: Free, lightweight, open source and hackable code editor for the web]]></title>
+            <link>https://copenhagen.autocode.com/</link>
+            <guid>https://copenhagen.autocode.com/</guid>
+            <pubDate>Wed, 17 Mar 2021 07:41:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tool/environment for SDK development?]]></title>
@@ -61,18 +67,6 @@
             <link>https://www.devgraph.com/2021/03/15/running-cron-jobs-in-container-environments/?Reddit</link>
             <guid>https://www.devgraph.com/2021/03/15/running-cron-jobs-in-container-environments/?Reddit</guid>
             <pubDate>Wed, 17 Mar 2021 06:23:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Create an interactive course to teach programming in 2021]]></title>
-            <link>https://codedamn.com/news/make-interactive-programming-course</link>
-            <guid>https://codedamn.com/news/make-interactive-programming-course</guid>
-            <pubDate>Wed, 17 Mar 2021 13:47:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Newbie, Express.js - Combining results from different SQL tables]]></title>
-            <link>https://gyazo.com/6f325a94b4c4d81737d82859d549477e</link>
-            <guid>https://gyazo.com/6f325a94b4c4d81737d82859d549477e</guid>
-            <pubDate>Wed, 17 Mar 2021 02:15:27 GMT</pubDate>
         </item>
     </channel>
 </rss>

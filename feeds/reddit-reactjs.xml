@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Thu, 18 Mar 2021 07:48:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Mar 2021 13:03:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,34 @@
             <pubDate>Mon, 01 Mar 2021 15:56:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Bedrock - modern full-stack Next.js & GraphQL boilerplate]]></title>
+            <link>https://blog.graphqleditor.com/bedrock/</link>
+            <guid>https://blog.graphqleditor.com/bedrock/</guid>
+            <pubDate>Thu, 18 Mar 2021 11:23:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React.js Can't perform a React state update on an unmounted component Error]]></title>
+            <link>https://jsfiddle.net/nzw6ag2t/</link>
+            <guid>https://jsfiddle.net/nzw6ag2t/</guid>
+            <pubDate>Thu, 18 Mar 2021 11:00:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I made 30+ project using React / Nextjs as frontend and various stacks as a Backend(MongoDB,Nodejs,Express,Firebase,Airtable,Prisma...). Please feel free to check em out.]]></title>
             <link>https://pramit-marattha.github.io/fullstack-react-timeline/</link>
             <guid>https://pramit-marattha.github.io/fullstack-react-timeline/</guid>
             <pubDate>Wed, 17 Mar 2021 08:26:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chatter. The latest reactJS coding challenge in react-coding-challenges on GitHub.]]></title>
+            <link>https://dev.to/alexgurr/chatter-the-latest-reactjs-coding-challenge-in-react-coding-challenges-on-github-1kn4</link>
+            <guid>https://dev.to/alexgurr/chatter-the-latest-reactjs-coding-challenge-in-react-coding-challenges-on-github-1kn4</guid>
+            <pubDate>Thu, 18 Mar 2021 08:04:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I made an image sharing social media web app]]></title>
+            <link>https://uplora.netlify.app/</link>
+            <guid>https://uplora.netlify.app/</guid>
+            <pubDate>Thu, 18 Mar 2021 11:50:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I created my first video with React and Remotion]]></title>
@@ -27,10 +51,22 @@
             <pubDate>Thu, 18 Mar 2021 00:02:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[I published my first react library, check it out!]]></title>
+            <link>https://github.com/baymac/material-ui-cron</link>
+            <guid>https://github.com/baymac/material-ui-cron</guid>
+            <pubDate>Thu, 18 Mar 2021 07:45:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Super Smash Bros Character Selection Screen]]></title>
             <link>https://jokude.github.io/super-smash-bros-ui/</link>
             <guid>https://jokude.github.io/super-smash-bros-ui/</guid>
             <pubDate>Thu, 18 Mar 2021 03:36:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How I started React Bricks: an article from the past]]></title>
+            <link>https://reactbricks.com/</link>
+            <guid>https://reactbricks.com/</guid>
+            <pubDate>Thu, 18 Mar 2021 10:58:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[React implementation of Conway‘s Game of Life with Next.js and CSS Grid]]></title>
@@ -39,22 +75,10 @@
             <pubDate>Wed, 17 Mar 2021 22:36:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I published my first react library, check it out!]]></title>
-            <link>https://github.com/baymac/material-ui-cron</link>
-            <guid>https://github.com/baymac/material-ui-cron</guid>
-            <pubDate>Thu, 18 Mar 2021 07:45:17 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[I've made a free list of remote reactjs jobs which all have a social / environmental impact]]></title>
             <link>https://sdgs.un.org/goals</link>
             <guid>https://sdgs.un.org/goals</guid>
             <pubDate>Wed, 17 Mar 2021 17:05:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Build Accordion In React From Scratch Without Using Any External Library]]></title>
-            <link>https://yogeshchavan.hashnode.dev/how-to-build-accordion-in-react-from-scratch-without-using-any-external-library</link>
-            <guid>https://yogeshchavan.hashnode.dev/how-to-build-accordion-in-react-from-scratch-without-using-any-external-library</guid>
-            <pubDate>Wed, 17 Mar 2021 06:39:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[My first video (for ReactBricks.com) created with React and Remotion!]]></title>
@@ -63,34 +87,16 @@
             <pubDate>Thu, 18 Mar 2021 00:05:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How to Build Accordion In React From Scratch Without Using Any External Library]]></title>
+            <link>https://yogeshchavan.hashnode.dev/how-to-build-accordion-in-react-from-scratch-without-using-any-external-library</link>
+            <guid>https://yogeshchavan.hashnode.dev/how-to-build-accordion-in-react-from-scratch-without-using-any-external-library</guid>
+            <pubDate>Wed, 17 Mar 2021 06:39:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Simple Nonogram/Picross game]]></title>
             <link>https://jokude.github.io/react-nonogram/#/</link>
             <guid>https://jokude.github.io/react-nonogram/#/</guid>
             <pubDate>Thu, 18 Mar 2021 03:43:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3D Printed React Logo (with LEDs)]]></title>
-            <link>https://twitter.com/ryanlanciaux/status/1372193748797562880</link>
-            <guid>https://twitter.com/ryanlanciaux/status/1372193748797562880</guid>
-            <pubDate>Wed, 17 Mar 2021 18:50:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introduction to State Machines with XState and React]]></title>
-            <link>https://www.udemy.com/course/introduction-to-state-machines-with-xstate-and-react</link>
-            <guid>https://www.udemy.com/course/introduction-to-state-machines-with-xstate-and-react</guid>
-            <pubDate>Wed, 17 Mar 2021 19:52:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Simplest intelligent auto adjustable open-source React Carousel :D (]]></title>
-            <link>https://rerousel.netlify.app/</link>
-            <guid>https://rerousel.netlify.app/</guid>
-            <pubDate>Wed, 17 Mar 2021 13:18:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why isn't there a React visual builder that actually looks good? It's like I can either get a really nice-looking static web builder with a CMS or I can get a React web builder but it looks like Bootstrap and there isn't a way to customize.]]></title>
-            <link>https://retool.com/</link>
-            <guid>https://retool.com/</guid>
-            <pubDate>Thu, 18 Mar 2021 00:44:38 GMT</pubDate>
         </item>
     </channel>
 </rss>

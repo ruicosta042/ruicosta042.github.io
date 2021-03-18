@@ -4,10 +4,16 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Thu, 18 Mar 2021 07:48:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Mar 2021 13:03:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[A pastebin-like platform where you can easily paste code and import it as a module in our NPM projects]]></title>
+            <link>https://boomm.io/p</link>
+            <guid>https://boomm.io/p</guid>
+            <pubDate>Thu, 18 Mar 2021 10:11:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[gist] createNamespacedEnum: A small utility function to create namespaced enums in typescript, where the return type is a literal reflection of the returned enum value itself]]></title>
             <link>https://gist.github.com/tvler/45a471f9ca1255734d8066551f84f604</link>
@@ -73,18 +79,6 @@
             <link>https://medium.com/jspoint/integrating-typescript-with-webpack-4534e840a02b</link>
             <guid>https://medium.com/jspoint/integrating-typescript-with-webpack-4534e840a02b</guid>
             <pubDate>Sat, 13 Mar 2021 12:56:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I created a Typescript-first alternative to Lodash (primarily for Deno but no reason it can't be Nodified). Looking for feedback/forks/contributions]]></title>
-            <link>https://github.com/brianboyko/denodash</link>
-            <guid>https://github.com/brianboyko/denodash</guid>
-            <pubDate>Fri, 12 Mar 2021 06:42:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GitHub Action to annotate tsc errors]]></title>
-            <link>https://github.com/reviewdog/reviewdog</link>
-            <guid>https://github.com/reviewdog/reviewdog</guid>
-            <pubDate>Fri, 12 Mar 2021 12:40:44 GMT</pubDate>
         </item>
     </channel>
 </rss>

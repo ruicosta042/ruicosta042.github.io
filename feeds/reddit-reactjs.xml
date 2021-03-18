@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Thu, 18 Mar 2021 13:03:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Mar 2021 19:46:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,22 +15,28 @@
             <pubDate>Mon, 01 Mar 2021 15:56:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Is "Thinking In React" outdated?]]></title>
+            <link>https://reactjs.org/docs/thinking-in-react.html</link>
+            <guid>https://reactjs.org/docs/thinking-in-react.html</guid>
+            <pubDate>Thu, 18 Mar 2021 13:30:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bedrock - modern full-stack Next.js & GraphQL boilerplate]]></title>
             <link>https://blog.graphqleditor.com/bedrock/</link>
             <guid>https://blog.graphqleditor.com/bedrock/</guid>
             <pubDate>Thu, 18 Mar 2021 11:23:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React.js Can't perform a React state update on an unmounted component Error]]></title>
-            <link>https://jsfiddle.net/nzw6ag2t/</link>
-            <guid>https://jsfiddle.net/nzw6ag2t/</guid>
-            <pubDate>Thu, 18 Mar 2021 11:00:07 GMT</pubDate>
+            <title><![CDATA[Learn how Next.js improves SEO(w/ React)]]></title>
+            <link>https://medium.com/eincode/learn-how-next-js-improves-seo-dae1441e276b</link>
+            <guid>https://medium.com/eincode/learn-how-next-js-improves-seo-dae1441e276b</guid>
+            <pubDate>Thu, 18 Mar 2021 17:12:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I made 30+ project using React / Nextjs as frontend and various stacks as a Backend(MongoDB,Nodejs,Express,Firebase,Airtable,Prisma...). Please feel free to check em out.]]></title>
-            <link>https://pramit-marattha.github.io/fullstack-react-timeline/</link>
-            <guid>https://pramit-marattha.github.io/fullstack-react-timeline/</guid>
-            <pubDate>Wed, 17 Mar 2021 08:26:52 GMT</pubDate>
+            <title><![CDATA[My project to debug and visualize Python code by using a combination of conventional static analysis tools and the attention based AI model. - Please ask me any questions!]]></title>
+            <link>https://metabob.com/gh/galt2x/sherlock?utm_source=Reddit&amp;utm_medium=Reddit%20Post&amp;utm_campaign=Reddit%20Post%20(r%2Freactjs</link>
+            <guid>https://metabob.com/gh/galt2x/sherlock?utm_source=Reddit&amp;utm_medium=Reddit%20Post&amp;utm_campaign=Reddit%20Post%20(r%2Freactjs</guid>
+            <pubDate>Thu, 18 Mar 2021 18:20:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chatter. The latest reactJS coding challenge in react-coding-challenges on GitHub.]]></title>
@@ -39,22 +45,16 @@
             <pubDate>Thu, 18 Mar 2021 08:04:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I made an image sharing social media web app]]></title>
-            <link>https://uplora.netlify.app/</link>
-            <guid>https://uplora.netlify.app/</guid>
-            <pubDate>Thu, 18 Mar 2021 11:50:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I created my first video with React and Remotion]]></title>
-            <link>https://reactbricks.com/features</link>
-            <guid>https://reactbricks.com/features</guid>
-            <pubDate>Thu, 18 Mar 2021 00:02:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[I published my first react library, check it out!]]></title>
             <link>https://github.com/baymac/material-ui-cron</link>
             <guid>https://github.com/baymac/material-ui-cron</guid>
             <pubDate>Thu, 18 Mar 2021 07:45:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I made 30+ project using React / Nextjs as frontend and various stacks as a Backend(MongoDB,Nodejs,Express,Firebase,Airtable,Prisma...). Please feel free to check em out.]]></title>
+            <link>https://pramit-marattha.github.io/fullstack-react-timeline/</link>
+            <guid>https://pramit-marattha.github.io/fullstack-react-timeline/</guid>
+            <pubDate>Wed, 17 Mar 2021 08:26:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Super Smash Bros Character Selection Screen]]></title>
@@ -63,40 +63,40 @@
             <pubDate>Thu, 18 Mar 2021 03:36:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How I started React Bricks: an article from the past]]></title>
-            <link>https://reactbricks.com/</link>
-            <guid>https://reactbricks.com/</guid>
-            <pubDate>Thu, 18 Mar 2021 10:58:22 GMT</pubDate>
+            <title><![CDATA[How React isn't reactive, and why you shouldn't care]]></title>
+            <link>https://dev.to/ryansolid/how-react-isn-t-reactive-and-why-you-shouldn-t-care-152m</link>
+            <guid>https://dev.to/ryansolid/how-react-isn-t-reactive-and-why-you-shouldn-t-care-152m</guid>
+            <pubDate>Thu, 18 Mar 2021 16:31:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React implementation of Conway‘s Game of Life with Next.js and CSS Grid]]></title>
-            <link>https://github.com/leodr/react-game-of-life/</link>
-            <guid>https://github.com/leodr/react-game-of-life/</guid>
-            <pubDate>Wed, 17 Mar 2021 22:36:14 GMT</pubDate>
+            <title><![CDATA[phaser or react developer looking for collab]]></title>
+            <link>https://prugg.me/</link>
+            <guid>https://prugg.me/</guid>
+            <pubDate>Thu, 18 Mar 2021 16:20:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I've made a free list of remote reactjs jobs which all have a social / environmental impact]]></title>
-            <link>https://sdgs.un.org/goals</link>
-            <guid>https://sdgs.un.org/goals</guid>
-            <pubDate>Wed, 17 Mar 2021 17:05:01 GMT</pubDate>
+            <title><![CDATA[CRA Service Worker Customization/Configurations]]></title>
+            <link>https://create-react-app.dev/docs/making-a-progressive-web-app/#offline-first-considerations</link>
+            <guid>https://create-react-app.dev/docs/making-a-progressive-web-app/#offline-first-considerations</guid>
+            <pubDate>Thu, 18 Mar 2021 15:41:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[My first video (for ReactBricks.com) created with React and Remotion!]]></title>
+            <title><![CDATA[any downsides to installing eslint globally?]]></title>
+            <link>https://www.npmjs.com/package/eslint-plugin-react</link>
+            <guid>https://www.npmjs.com/package/eslint-plugin-react</guid>
+            <pubDate>Thu, 18 Mar 2021 15:40:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I created my first video with React and Remotion]]></title>
             <link>https://reactbricks.com/features</link>
             <guid>https://reactbricks.com/features</guid>
-            <pubDate>Thu, 18 Mar 2021 00:05:40 GMT</pubDate>
+            <pubDate>Thu, 18 Mar 2021 00:02:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to Build Accordion In React From Scratch Without Using Any External Library]]></title>
-            <link>https://yogeshchavan.hashnode.dev/how-to-build-accordion-in-react-from-scratch-without-using-any-external-library</link>
-            <guid>https://yogeshchavan.hashnode.dev/how-to-build-accordion-in-react-from-scratch-without-using-any-external-library</guid>
-            <pubDate>Wed, 17 Mar 2021 06:39:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Simple Nonogram/Picross game]]></title>
-            <link>https://jokude.github.io/react-nonogram/#/</link>
-            <guid>https://jokude.github.io/react-nonogram/#/</guid>
-            <pubDate>Thu, 18 Mar 2021 03:43:36 GMT</pubDate>
+            <title><![CDATA[Can't perform a React state update on an unmounted component.]]></title>
+            <link>https://jsfiddle.net/nzw6ag2t/</link>
+            <guid>https://jsfiddle.net/nzw6ag2t/</guid>
+            <pubDate>Thu, 18 Mar 2021 15:00:11 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,27 +4,15 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Thu, 18 Mar 2021 13:03:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Mar 2021 19:46:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
-        <item>
-            <title><![CDATA[isoworker - universal multithreading with main-thread dependencies, 6kB]]></title>
-            <link>https://github.com/101arrowz/isoworker</link>
-            <guid>https://github.com/101arrowz/isoworker</guid>
-            <pubDate>Wed, 17 Mar 2021 22:03:59 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Clio: A functional, distributed programming language that compiles to JavaScript]]></title>
             <link>https://github.com/clio-lang/clio</link>
             <guid>https://github.com/clio-lang/clio</guid>
             <pubDate>Thu, 18 Mar 2021 12:32:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[V8 release v9.0]]></title>
-            <link>https://v8.dev/blog/v8-release-90</link>
-            <guid>https://v8.dev/blog/v8-release-90</guid>
-            <pubDate>Wed, 17 Mar 2021 16:45:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[prismarine-web-client : A minecraft client in the browser built from PrismarineJS modules]]></title>
@@ -33,16 +21,40 @@
             <pubDate>Thu, 18 Mar 2021 12:28:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[isoworker - universal multithreading with main-thread dependencies, 6kB]]></title>
+            <link>https://github.com/101arrowz/isoworker</link>
+            <guid>https://github.com/101arrowz/isoworker</guid>
+            <pubDate>Wed, 17 Mar 2021 22:03:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How React isn't reactive, and why you shouldn't care]]></title>
+            <link>https://dev.to/ryansolid/how-react-isn-t-reactive-and-why-you-shouldn-t-care-152m</link>
+            <guid>https://dev.to/ryansolid/how-react-isn-t-reactive-and-why-you-shouldn-t-care-152m</guid>
+            <pubDate>Thu, 18 Mar 2021 16:31:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MobX-State-Tree + RxJS = ?]]></title>
+            <link>https://github.com/runjuu/mst-effect</link>
+            <guid>https://github.com/runjuu/mst-effect</guid>
+            <pubDate>Thu, 18 Mar 2021 14:53:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[V8 release v9.0]]></title>
+            <link>https://v8.dev/blog/v8-release-90</link>
+            <guid>https://v8.dev/blog/v8-release-90</guid>
+            <pubDate>Wed, 17 Mar 2021 16:45:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[js-confetti: lightweight zero-config open-source JavaScript library for confetti without any dependencies]]></title>
+            <link>https://github.com/loonywizard/js-confetti</link>
+            <guid>https://github.com/loonywizard/js-confetti</guid>
+            <pubDate>Thu, 18 Mar 2021 16:35:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Creating a Github profile search component in htmx]]></title>
             <link>https://dev.to/rajasegar/creating-a-github-profile-search-component-in-htmx-1pl5</link>
             <guid>https://dev.to/rajasegar/creating-a-github-profile-search-component-in-htmx-1pl5</guid>
             <pubDate>Thu, 18 Mar 2021 06:36:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Storybook for Svelte revamped]]></title>
-            <link>https://storybook.js.org/blog/storybook-for-svelte/</link>
-            <guid>https://storybook.js.org/blog/storybook-for-svelte/</guid>
-            <pubDate>Wed, 17 Mar 2021 17:16:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Copenhagen: Free, lightweight, open source and hackable code editor for the web]]></title>
@@ -55,6 +67,12 @@
             <link>https://www.michaelmang.dev/blog/exporting-design-tokens-from-figma-with-style-dictionary</link>
             <guid>https://www.michaelmang.dev/blog/exporting-design-tokens-from-figma-with-style-dictionary</guid>
             <pubDate>Wed, 17 Mar 2021 16:01:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Storybook for Svelte revamped]]></title>
+            <link>https://storybook.js.org/blog/storybook-for-svelte/</link>
+            <guid>https://storybook.js.org/blog/storybook-for-svelte/</guid>
+            <pubDate>Wed, 17 Mar 2021 17:16:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I built a COVID-19 vaccination tracker, showing all the relevant information using world-map, table, and charts. It also includes a rough forcasting feature to estimate how much more time it'll take untill 70% or 100% vaccination. (source in the comments)]]></title>
@@ -97,36 +115,6 @@
             <link>https://www.elialotti.com/it/roadmap/rxjs</link>
             <guid>https://www.elialotti.com/it/roadmap/rxjs</guid>
             <pubDate>Tue, 16 Mar 2021 21:33:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Generate a TOTP code from a QR image for 2FA]]></title>
-            <link>https://github.com/thomaschaplin/image-to-totp</link>
-            <guid>https://github.com/thomaschaplin/image-to-totp</guid>
-            <pubDate>Tue, 16 Mar 2021 21:18:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is the Javascript Call Stack and how does it get Exceeded]]></title>
-            <link>https://browntreelabs.com/the-call-stack-and-how-it-gets-exceeded/</link>
-            <guid>https://browntreelabs.com/the-call-stack-and-how-it-gets-exceeded/</guid>
-            <pubDate>Tue, 16 Mar 2021 17:08:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Interactive data visualizations with KendoReact and GoodData]]></title>
-            <link>https://community.gooddata.com/apis-and-sdks-20/the-gooddata-kendoreact-integration-237</link>
-            <guid>https://community.gooddata.com/apis-and-sdks-20/the-gooddata-kendoreact-integration-237</guid>
-            <pubDate>Wed, 17 Mar 2021 06:36:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JSON Formatter, Validator & Path Finder]]></title>
-            <link>https://jsonformatter.jsonparseronline.com/</link>
-            <guid>https://jsonformatter.jsonparseronline.com/</guid>
-            <pubDate>Wed, 17 Mar 2021 05:36:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Just-In-Time: The Next Generation of Tailwind CSS]]></title>
-            <link>https://blog.tailwindcss.com/just-in-time-the-next-generation-of-tailwind-css</link>
-            <guid>https://blog.tailwindcss.com/just-in-time-the-next-generation-of-tailwind-css</guid>
-            <pubDate>Tue, 16 Mar 2021 01:06:17 GMT</pubDate>
         </item>
     </channel>
 </rss>

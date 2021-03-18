@@ -4,7 +4,7 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Thu, 18 Mar 2021 13:03:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Mar 2021 19:46:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -55,18 +55,6 @@
             <link>https://cpojer.net/posts/principles-of-devx</link>
             <guid>https://cpojer.net/posts/principles-of-devx</guid>
             <pubDate>Wed, 17 Mar 2021 09:12:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hassle-Free Database Migrations with Prisma Migrate]]></title>
-            <link>https://www.prisma.io/blog/prisma-migrate-ga-b5eno5g08d0b</link>
-            <guid>https://www.prisma.io/blog/prisma-migrate-ga-b5eno5g08d0b</guid>
-            <pubDate>Tue, 16 Mar 2021 17:24:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to run Cron Jobs in Container Environments? DevGraph]]></title>
-            <link>https://www.devgraph.com/2021/03/15/running-cron-jobs-in-container-environments/?Reddit</link>
-            <guid>https://www.devgraph.com/2021/03/15/running-cron-jobs-in-container-environments/?Reddit</guid>
-            <pubDate>Wed, 17 Mar 2021 06:23:03 GMT</pubDate>
         </item>
     </channel>
 </rss>

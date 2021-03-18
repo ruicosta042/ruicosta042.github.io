@@ -4,7 +4,7 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Thu, 18 Mar 2021 13:03:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Mar 2021 19:46:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,12 @@
             <link>https://boomm.io/p</link>
             <guid>https://boomm.io/p</guid>
             <pubDate>Thu, 18 Mar 2021 10:11:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mapping TypeScript's Type System to JSON Schema]]></title>
+            <link>https://github.com/sinclairzx81/typebox</link>
+            <guid>https://github.com/sinclairzx81/typebox</guid>
+            <pubDate>Thu, 18 Mar 2021 18:20:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[gist] createNamespacedEnum: A small utility function to create namespaced enums in typescript, where the return type is a literal reflection of the returned enum value itself]]></title>
@@ -37,6 +43,12 @@
             <link>https://levelup.gitconnected.com/the-complete-guide-to-immutability-in-typescript-99154f859fdb</link>
             <guid>https://levelup.gitconnected.com/the-complete-guide-to-immutability-in-typescript-99154f859fdb</guid>
             <pubDate>Sun, 14 Mar 2021 17:53:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Want to help build a TypeScript best practices site?]]></title>
+            <link>http://tstherightway.com/</link>
+            <guid>http://tstherightway.com/</guid>
+            <pubDate>Mon, 15 Mar 2021 10:54:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Introduction to NestJS for NodeJS Developers | Jenyus Org]]></title>
@@ -67,18 +79,6 @@
             <link>https://itnext.io/the-art-of-type-programming-cfd933bdfff7</link>
             <guid>https://itnext.io/the-art-of-type-programming-cfd933bdfff7</guid>
             <pubDate>Sun, 14 Mar 2021 04:01:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Typescript clients for invoking Protobuf services over HTTP]]></title>
-            <link>https://github.com/einride/protoc-gen-typescript-http</link>
-            <guid>https://github.com/einride/protoc-gen-typescript-http</guid>
-            <pubDate>Sat, 13 Mar 2021 12:02:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Integrating TypeScript with Webpack]]></title>
-            <link>https://medium.com/jspoint/integrating-typescript-with-webpack-4534e840a02b</link>
-            <guid>https://medium.com/jspoint/integrating-typescript-with-webpack-4534e840a02b</guid>
-            <pubDate>Sat, 13 Mar 2021 12:56:09 GMT</pubDate>
         </item>
     </channel>
 </rss>

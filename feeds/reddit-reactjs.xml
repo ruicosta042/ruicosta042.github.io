@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Wed, 17 Mar 2021 19:46:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Mar 2021 07:48:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,10 +21,28 @@
             <pubDate>Wed, 17 Mar 2021 08:26:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to Build Accordion In React From Scratch Without Using Any External Library]]></title>
-            <link>https://yogeshchavan.hashnode.dev/how-to-build-accordion-in-react-from-scratch-without-using-any-external-library</link>
-            <guid>https://yogeshchavan.hashnode.dev/how-to-build-accordion-in-react-from-scratch-without-using-any-external-library</guid>
-            <pubDate>Wed, 17 Mar 2021 06:39:05 GMT</pubDate>
+            <title><![CDATA[I created my first video with React and Remotion]]></title>
+            <link>https://reactbricks.com/features</link>
+            <guid>https://reactbricks.com/features</guid>
+            <pubDate>Thu, 18 Mar 2021 00:02:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Super Smash Bros Character Selection Screen]]></title>
+            <link>https://jokude.github.io/super-smash-bros-ui/</link>
+            <guid>https://jokude.github.io/super-smash-bros-ui/</guid>
+            <pubDate>Thu, 18 Mar 2021 03:36:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React implementation of Conway‘s Game of Life with Next.js and CSS Grid]]></title>
+            <link>https://github.com/leodr/react-game-of-life/</link>
+            <guid>https://github.com/leodr/react-game-of-life/</guid>
+            <pubDate>Wed, 17 Mar 2021 22:36:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I published my first react library, check it out!]]></title>
+            <link>https://github.com/baymac/material-ui-cron</link>
+            <guid>https://github.com/baymac/material-ui-cron</guid>
+            <pubDate>Thu, 18 Mar 2021 07:45:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I've made a free list of remote reactjs jobs which all have a social / environmental impact]]></title>
@@ -33,16 +51,22 @@
             <pubDate>Wed, 17 Mar 2021 17:05:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Simplest intelligent auto adjustable open-source React Carousel :D (]]></title>
-            <link>https://rerousel.netlify.app/</link>
-            <guid>https://rerousel.netlify.app/</guid>
-            <pubDate>Wed, 17 Mar 2021 13:18:30 GMT</pubDate>
+            <title><![CDATA[How to Build Accordion In React From Scratch Without Using Any External Library]]></title>
+            <link>https://yogeshchavan.hashnode.dev/how-to-build-accordion-in-react-from-scratch-without-using-any-external-library</link>
+            <guid>https://yogeshchavan.hashnode.dev/how-to-build-accordion-in-react-from-scratch-without-using-any-external-library</guid>
+            <pubDate>Wed, 17 Mar 2021 06:39:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Items not showing in array, but are being rendered]]></title>
-            <link>https://codesandbox.io/s/rl6xe</link>
-            <guid>https://codesandbox.io/s/rl6xe</guid>
-            <pubDate>Wed, 17 Mar 2021 19:03:03 GMT</pubDate>
+            <title><![CDATA[My first video (for ReactBricks.com) created with React and Remotion!]]></title>
+            <link>https://reactbricks.com/features</link>
+            <guid>https://reactbricks.com/features</guid>
+            <pubDate>Thu, 18 Mar 2021 00:05:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Simple Nonogram/Picross game]]></title>
+            <link>https://jokude.github.io/react-nonogram/#/</link>
+            <guid>https://jokude.github.io/react-nonogram/#/</guid>
+            <pubDate>Thu, 18 Mar 2021 03:43:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[3D Printed React Logo (with LEDs)]]></title>
@@ -51,46 +75,22 @@
             <pubDate>Wed, 17 Mar 2021 18:50:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[Solved]: making a simple list app in React using flexbox!]]></title>
-            <link>https://6ary.medium.com/how-to-react-vertical-scrolling-list-grid-with-flexbox-714a61a07c9?sk=57bf20095cbf633131025083f1b17551</link>
-            <guid>https://6ary.medium.com/how-to-react-vertical-scrolling-list-grid-with-flexbox-714a61a07c9?sk=57bf20095cbf633131025083f1b17551</guid>
-            <pubDate>Wed, 17 Mar 2021 14:36:03 GMT</pubDate>
+            <title><![CDATA[Introduction to State Machines with XState and React]]></title>
+            <link>https://www.udemy.com/course/introduction-to-state-machines-with-xstate-and-react</link>
+            <guid>https://www.udemy.com/course/introduction-to-state-machines-with-xstate-and-react</guid>
+            <pubDate>Wed, 17 Mar 2021 19:52:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[JWT Authentication Best Practices]]></title>
-            <link>https://blog.asayer.io/jwt-authentication-best-practices</link>
-            <guid>https://blog.asayer.io/jwt-authentication-best-practices</guid>
-            <pubDate>Tue, 16 Mar 2021 12:45:01 GMT</pubDate>
+            <title><![CDATA[Simplest intelligent auto adjustable open-source React Carousel :D (]]></title>
+            <link>https://rerousel.netlify.app/</link>
+            <guid>https://rerousel.netlify.app/</guid>
+            <pubDate>Wed, 17 Mar 2021 13:18:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[formts - type-safe, declarative and performant react form & validation library]]></title>
-            <link>https://github.com/VirtusLab/formts</link>
-            <guid>https://github.com/VirtusLab/formts</guid>
-            <pubDate>Wed, 17 Mar 2021 14:09:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hey guys am new to nextjs...I want to create a Form component where users can input a city to get current weather andget a forecast...How can i pass the json in the OnSubmit to a chid component?...]]></title>
-            <link>http://api.weatherapi.com/v1/current.json?key=2626bb280087465496b34227211901&amp;q=$%7Bcity%7D%5C%60</link>
-            <guid>http://api.weatherapi.com/v1/current.json?key=2626bb280087465496b34227211901&amp;q=$%7Bcity%7D%5C%60</guid>
-            <pubDate>Wed, 17 Mar 2021 17:05:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Principles of Developer Experience]]></title>
-            <link>https://cpojer.net/posts/principles-of-devx</link>
-            <guid>https://cpojer.net/posts/principles-of-devx</guid>
-            <pubDate>Wed, 17 Mar 2021 09:12:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React JS With Ant Design Carousel]]></title>
-            <link>https://codesandbox.io/s/vstb1?file=/index.js</link>
-            <guid>https://codesandbox.io/s/vstb1?file=/index.js</guid>
-            <pubDate>Wed, 17 Mar 2021 12:49:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Making HTTP get request with reactjs]]></title>
-            <link>https://docs.microsoft.com/en-us/graph/api/profilephoto-get?view=graph-rest-1.0</link>
-            <guid>https://docs.microsoft.com/en-us/graph/api/profilephoto-get?view=graph-rest-1.0</guid>
-            <pubDate>Wed, 17 Mar 2021 14:14:27 GMT</pubDate>
+            <title><![CDATA[Why isn't there a React visual builder that actually looks good? It's like I can either get a really nice-looking static web builder with a CMS or I can get a React web builder but it looks like Bootstrap and there isn't a way to customize.]]></title>
+            <link>https://retool.com/</link>
+            <guid>https://retool.com/</guid>
+            <pubDate>Thu, 18 Mar 2021 00:44:38 GMT</pubDate>
         </item>
     </channel>
 </rss>

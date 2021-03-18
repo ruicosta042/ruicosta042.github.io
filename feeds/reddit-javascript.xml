@@ -4,15 +4,27 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Wed, 17 Mar 2021 19:46:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Mar 2021 07:48:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Your /r/javascript recap for the week of March 08 - March 14]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Mon, 15 Mar 2021 09:04:44 GMT</pubDate>
+            <title><![CDATA[isoworker - universal multithreading with main-thread dependencies, 6kB]]></title>
+            <link>https://github.com/101arrowz/isoworker</link>
+            <guid>https://github.com/101arrowz/isoworker</guid>
+            <pubDate>Wed, 17 Mar 2021 22:03:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[V8 release v9.0]]></title>
+            <link>https://v8.dev/blog/v8-release-90</link>
+            <guid>https://v8.dev/blog/v8-release-90</guid>
+            <pubDate>Wed, 17 Mar 2021 16:45:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Creating a Github profile search component in htmx]]></title>
+            <link>https://dev.to/rajasegar/creating-a-github-profile-search-component-in-htmx-1pl5</link>
+            <guid>https://dev.to/rajasegar/creating-a-github-profile-search-component-in-htmx-1pl5</guid>
+            <pubDate>Thu, 18 Mar 2021 06:36:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Copenhagen: Free, lightweight, open source and hackable code editor for the web]]></title>
@@ -33,28 +45,46 @@
             <pubDate>Wed, 17 Mar 2021 17:16:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[I built a COVID-19 vaccination tracker, showing all the relevant information using world-map, table, and charts. It also includes a rough forcasting feature to estimate how much more time it'll take untill 70% or 100% vaccination. (source in the comments)]]></title>
+            <link>https://covid-19-vaccination-tracker.github.io/</link>
+            <guid>https://covid-19-vaccination-tracker.github.io/</guid>
+            <pubDate>Wed, 17 Mar 2021 23:10:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Search and seek to specific words in youtube videos]]></title>
+            <link>https://moizahmedd.github.io/youtubesearch/</link>
+            <guid>https://moizahmedd.github.io/youtubesearch/</guid>
+            <pubDate>Wed, 17 Mar 2021 23:13:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I built an open-source movie review website using material UI and React]]></title>
+            <link>https://github.com/theabbie/PopCritic</link>
+            <guid>https://github.com/theabbie/PopCritic</guid>
+            <pubDate>Thu, 18 Mar 2021 06:08:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Contributing to Node.js Core]]></title>
+            <link>https://nestedquotes.ca/articles/nodejs-core-contribution/</link>
+            <guid>https://nestedquotes.ca/articles/nodejs-core-contribution/</guid>
+            <pubDate>Wed, 17 Mar 2021 21:05:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An Open Source Recursive Kanban]]></title>
+            <link>https://github.com/hpennington/kanception</link>
+            <guid>https://github.com/hpennington/kanception</guid>
+            <pubDate>Thu, 18 Mar 2021 01:55:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How to easily sync with multiple v-models in Vue 3 using Composition API]]></title>
             <link>https://theroadtoenterprise.com/blog/how-to-easily-sync-with-multiple-v-models-in-vue-3-using-composition-api</link>
             <guid>https://theroadtoenterprise.com/blog/how-to-easily-sync-with-multiple-v-models-in-vue-3-using-composition-api</guid>
             <pubDate>Wed, 17 Mar 2021 17:23:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[V8 release v9.0]]></title>
-            <link>https://v8.dev/blog/v8-release-90</link>
-            <guid>https://v8.dev/blog/v8-release-90</guid>
-            <pubDate>Wed, 17 Mar 2021 16:45:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[An interactive map to learn RxJS]]></title>
             <link>https://www.elialotti.com/it/roadmap/rxjs</link>
             <guid>https://www.elialotti.com/it/roadmap/rxjs</guid>
             <pubDate>Tue, 16 Mar 2021 21:33:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NZip: Encrypt files from browser]]></title>
-            <link>https://www.nzip.net/</link>
-            <guid>https://www.nzip.net/</guid>
-            <pubDate>Wed, 17 Mar 2021 17:56:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Generate a TOTP code from a QR image for 2FA]]></title>
@@ -97,54 +127,6 @@
             <link>https://events.praveen.science/30-days-of-react/</link>
             <guid>https://events.praveen.science/30-days-of-react/</guid>
             <pubDate>Wed, 17 Mar 2021 01:13:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Modern Javascript - III]]></title>
-            <link>https://dev.to/sinhapiyush/modern-javascript-iii-2opm</link>
-            <guid>https://dev.to/sinhapiyush/modern-javascript-iii-2opm</guid>
-            <pubDate>Tue, 16 Mar 2021 23:11:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[temp-color : Scale temperature (°C /°F) to RGB color]]></title>
-            <link>https://github.com/szymslo/temp-color</link>
-            <guid>https://github.com/szymslo/temp-color</guid>
-            <pubDate>Tue, 16 Mar 2021 11:43:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PanvasJS - a JavaScript library for working with the HTML canvas | making animations, simulations, and game development in the browser much easier]]></title>
-            <link>https://github.com/leptr/panvasjs/</link>
-            <guid>https://github.com/leptr/panvasjs/</guid>
-            <pubDate>Tue, 16 Mar 2021 16:37:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rethinking the JavaScript ternary operator]]></title>
-            <link>https://jrsinclair.com/articles/2021/rethinking-the-javascript-ternary-operator/</link>
-            <guid>https://jrsinclair.com/articles/2021/rethinking-the-javascript-ternary-operator/</guid>
-            <pubDate>Mon, 15 Mar 2021 21:04:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Error Cause in Javascript]]></title>
-            <link>https://dev.to/hemanth/error-cause-in-javascript-425d</link>
-            <guid>https://dev.to/hemanth/error-cause-in-javascript-425d</guid>
-            <pubDate>Tue, 16 Mar 2021 12:37:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A look at the CSS Paint API]]></title>
-            <link>https://www.webtips.dev/how-to-make-dynamic-backgrounds-with-the-css-paint-api</link>
-            <guid>https://www.webtips.dev/how-to-make-dynamic-backgrounds-with-the-css-paint-api</guid>
-            <pubDate>Mon, 15 Mar 2021 16:54:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[useEncapsulation]]></title>
-            <link>https://kyleshevlin.com/use-encapsulation/</link>
-            <guid>https://kyleshevlin.com/use-encapsulation/</guid>
-            <pubDate>Sun, 14 Mar 2021 23:17:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Generate a PDF in JS Summary and comparison of libraries]]></title>
-            <link>https://dev.to/handdot/generate-a-pdf-in-js-summary-and-comparison-of-libraries-3k0p</link>
-            <guid>https://dev.to/handdot/generate-a-pdf-in-js-summary-and-comparison-of-libraries-3k0p</guid>
-            <pubDate>Mon, 15 Mar 2021 11:48:22 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Fri, 19 Mar 2021 13:08:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Mar 2021 19:46:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,28 @@
             <pubDate>Fri, 19 Mar 2021 01:01:50 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['Programing languages pack' Mask by DesignOG]]></title>
+            <link>https://www.redbubble.com/i/mask/Programing-languages-pack-by-DesignOG/73900954.9G0D8</link>
+            <guid>https://www.redbubble.com/i/mask/Programing-languages-pack-by-DesignOG/73900954.9G0D8</guid>
+            <pubDate>Fri, 19 Mar 2021 18:41:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Send styled automatic patch notes to your discord server, using GitHub actions and webhooks.]]></title>
+            <link>https://github.com/nhevia/discord-styled-releases</link>
+            <guid>https://github.com/nhevia/discord-styled-releases</guid>
+            <pubDate>Fri, 19 Mar 2021 17:57:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Type Safe Event Emitter Pattern]]></title>
             <link>https://thewooleyway.substack.com/p/typescript-event-emitter-pattern</link>
             <guid>https://thewooleyway.substack.com/p/typescript-event-emitter-pattern</guid>
             <pubDate>Fri, 19 Mar 2021 01:36:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Announcing commithelper, a tool to create and lint your commit messages]]></title>
+            <link>https://github.com/jvanbruegge/commithelper</link>
+            <guid>https://github.com/jvanbruegge/commithelper</guid>
+            <pubDate>Fri, 19 Mar 2021 16:34:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Clio: A functional, distributed programming language that compiles to JavaScript]]></title>
@@ -27,22 +45,16 @@
             <pubDate>Thu, 18 Mar 2021 12:32:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Create animated navigation indicator with HTML, CSS, and JS]]></title>
-            <link>https://codeadrian.hashnode.dev/create-animated-navigation-indicator-with-html-css-and-js</link>
-            <guid>https://codeadrian.hashnode.dev/create-animated-navigation-indicator-with-html-css-and-js</guid>
-            <pubDate>Fri, 19 Mar 2021 08:22:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A gentle introduction to typescript and basic types]]></title>
-            <link>https://blog.evansibok.com/introduction-to-typescript-and-its-basic-types</link>
-            <guid>https://blog.evansibok.com/introduction-to-typescript-and-its-basic-types</guid>
-            <pubDate>Fri, 19 Mar 2021 11:15:19 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Documenting Design Tokens With Docusaurus (Adding Visuals To Your Style Dictionary)]]></title>
             <link>https://www.michaelmang.dev/blog/documenting-design-tokens-with-docusaurus</link>
             <guid>https://www.michaelmang.dev/blog/documenting-design-tokens-with-docusaurus</guid>
             <pubDate>Fri, 19 Mar 2021 07:05:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Create animated navigation indicator with HTML, CSS, and JS]]></title>
+            <link>https://codeadrian.hashnode.dev/create-animated-navigation-indicator-with-html-css-and-js</link>
+            <guid>https://codeadrian.hashnode.dev/create-animated-navigation-indicator-with-html-css-and-js</guid>
+            <pubDate>Fri, 19 Mar 2021 08:22:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[prismarine-web-client : A minecraft client in the browser built from PrismarineJS modules]]></title>

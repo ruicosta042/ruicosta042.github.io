@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Fri, 19 Mar 2021 13:08:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Mar 2021 19:46:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,10 +21,40 @@
             <pubDate>Fri, 19 Mar 2021 08:00:03 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Why isn't my JSX conditionally rendering?]]></title>
+            <link>https://stackblitz.com/edit/the-correct-way?file=src%2FContent.js</link>
+            <guid>https://stackblitz.com/edit/the-correct-way?file=src%2FContent.js</guid>
+            <pubDate>Fri, 19 Mar 2021 14:27:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My first React App]]></title>
+            <link>https://cineflix-cd.web.app/</link>
+            <guid>https://cineflix-cd.web.app/</guid>
+            <pubDate>Fri, 19 Mar 2021 15:44:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How could you create a React Native ListView type component for a CSS Grid in React?]]></title>
+            <link>https://stackoverflow.com/a/59062821/6331353</link>
+            <guid>https://stackoverflow.com/a/59062821/6331353</guid>
+            <pubDate>Fri, 19 Mar 2021 18:19:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Resources for learning React ⚛️]]></title>
+            <link>https://dev.to/pavankalyan_nvs/resources-for-learning-react-358m</link>
+            <guid>https://dev.to/pavankalyan_nvs/resources-for-learning-react-358m</guid>
+            <pubDate>Fri, 19 Mar 2021 17:58:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Is "Thinking In React" outdated?]]></title>
             <link>https://reactjs.org/docs/thinking-in-react.html</link>
             <guid>https://reactjs.org/docs/thinking-in-react.html</guid>
             <pubDate>Thu, 18 Mar 2021 13:30:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Made my first react app]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Fri, 19 Mar 2021 15:38:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Undertool - instrument for creating tooltips]]></title>
@@ -33,76 +63,10 @@
             <pubDate>Fri, 19 Mar 2021 12:15:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[Academic] The importance of communication between designers and developers]]></title>
-            <link>https://coventry.onlinesurveys.ac.uk/the-importance-of-communication-between-designers-and-deve</link>
-            <guid>https://coventry.onlinesurveys.ac.uk/the-importance-of-communication-between-designers-and-deve</guid>
-            <pubDate>Fri, 19 Mar 2021 10:41:26 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[We're building Couchers.org, the next platform for couch-surfing: Non-profit. Community-focused. Well-built with a React frontend and Python backend. We're looking for volunteers ahead of our Beta release.]]></title>
             <link>https://couchers.org/solutions/</link>
             <guid>https://couchers.org/solutions/</guid>
             <pubDate>Thu, 18 Mar 2021 23:54:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stale closure: Why did my setState only triggered twice?]]></title>
-            <link>https://codesandbox.io/s/wandering-snowflake-rk1d9?file=/src/App.js:525-543</link>
-            <guid>https://codesandbox.io/s/wandering-snowflake-rk1d9?file=/src/App.js:525-543</guid>
-            <pubDate>Fri, 19 Mar 2021 10:14:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Learn how Next.js improves SEO(w/ React)]]></title>
-            <link>https://medium.com/eincode/learn-how-next-js-improves-seo-dae1441e276b</link>
-            <guid>https://medium.com/eincode/learn-how-next-js-improves-seo-dae1441e276b</guid>
-            <pubDate>Thu, 18 Mar 2021 17:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Benefits of ReactJS and Top Reasons to Choose it for your Project]]></title>
-            <link>https://www.elsner.com/benefits-of-reactjs-and-top-reasons-to-choose-it-for-your-project/</link>
-            <guid>https://www.elsner.com/benefits-of-reactjs-and-top-reasons-to-choose-it-for-your-project/</guid>
-            <pubDate>Fri, 19 Mar 2021 12:14:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I'm getting an array like this [ {name: 'a', value: 'b'}, {name: 'c', value: 'd'}, {name: 'e', value: 'f'} ]. I need to convert this array to a string, like 'a=b/c=d/e=f' to send to an API. How can I do this? I have tried all sorts of Array map tricks and Object.values or keys stuff to no avail.]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Fri, 19 Mar 2021 07:26:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bedrock - modern full-stack Next.js & GraphQL boilerplate]]></title>
-            <link>https://blog.graphqleditor.com/bedrock/</link>
-            <guid>https://blog.graphqleditor.com/bedrock/</guid>
-            <pubDate>Thu, 18 Mar 2021 11:23:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is CRUD?]]></title>
-            <link>https://www.crudful.com/guides/what-is-crud</link>
-            <guid>https://www.crudful.com/guides/what-is-crud</guid>
-            <pubDate>Fri, 19 Mar 2021 09:02:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How React isn't reactive, and why you shouldn't care]]></title>
-            <link>https://dev.to/ryansolid/how-react-isn-t-reactive-and-why-you-shouldn-t-care-152m</link>
-            <guid>https://dev.to/ryansolid/how-react-isn-t-reactive-and-why-you-shouldn-t-care-152m</guid>
-            <pubDate>Thu, 18 Mar 2021 16:31:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My project to debug and visualize Python code by using a combination of conventional static analysis tools and the attention based AI model. - Please ask me any questions!]]></title>
-            <link>https://metabob.com/gh/galt2x/sherlock?utm_source=Reddit&amp;utm_medium=Reddit%20Post&amp;utm_campaign=Reddit%20Post%20(r%2Freactjs</link>
-            <guid>https://metabob.com/gh/galt2x/sherlock?utm_source=Reddit&amp;utm_medium=Reddit%20Post&amp;utm_campaign=Reddit%20Post%20(r%2Freactjs</guid>
-            <pubDate>Thu, 18 Mar 2021 18:20:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gyro-web: Accessing Device Orientation in JavaScript]]></title>
-            <link>https://trekhleb.medium.com/gyro-web-accessing-the-device-orientation-in-javascript-387da43eeb84?source=friends_link&amp;sk=ead5280fae68540e5e13f89d7f8d04c4</link>
-            <guid>https://trekhleb.medium.com/gyro-web-accessing-the-device-orientation-in-javascript-387da43eeb84?source=friends_link&amp;sk=ead5280fae68540e5e13f89d7f8d04c4</guid>
-            <pubDate>Thu, 18 Mar 2021 22:18:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chatter. The latest reactJS coding challenge in react-coding-challenges on GitHub.]]></title>
-            <link>https://dev.to/alexgurr/chatter-the-latest-reactjs-coding-challenge-in-react-coding-challenges-on-github-1kn4</link>
-            <guid>https://dev.to/alexgurr/chatter-the-latest-reactjs-coding-challenge-in-react-coding-challenges-on-github-1kn4</guid>
-            <pubDate>Thu, 18 Mar 2021 08:04:20 GMT</pubDate>
         </item>
     </channel>
 </rss>

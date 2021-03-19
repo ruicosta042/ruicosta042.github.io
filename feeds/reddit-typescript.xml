@@ -4,10 +4,16 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Fri, 19 Mar 2021 13:08:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Mar 2021 19:46:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Template: TypeScript Module is a clonable template repository for authoring a npm module with TypeScript]]></title>
+            <link>https://github.com/lukeed/typescript-module</link>
+            <guid>https://github.com/lukeed/typescript-module</guid>
+            <pubDate>Fri, 19 Mar 2021 07:47:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Type Safe Event Emitter Pattern]]></title>
             <link>https://thewooleyway.substack.com/p/typescript-event-emitter-pattern</link>
@@ -15,16 +21,16 @@
             <pubDate>Fri, 19 Mar 2021 01:42:53 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Recursively set values in object]]></title>
+            <link>https://codesandbox.io/s/typescript-node-forked-0klmy?file=/src/index.ts</link>
+            <guid>https://codesandbox.io/s/typescript-node-forked-0klmy?file=/src/index.ts</guid>
+            <pubDate>Fri, 19 Mar 2021 13:24:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[[Help] Add new properties to an existing type]]></title>
             <link>https://stackblitz.com/edit/typescript-help?file=index.ts</link>
             <guid>https://stackblitz.com/edit/typescript-help?file=index.ts</guid>
             <pubDate>Fri, 19 Mar 2021 08:53:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Template: TypeScript Module is a clonable template repository for authoring a npm module with TypeScript]]></title>
-            <link>https://github.com/lukeed/typescript-module</link>
-            <guid>https://github.com/lukeed/typescript-module</guid>
-            <pubDate>Fri, 19 Mar 2021 07:47:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[Code Review] Can you help me out - trying to create reusable, general purpose monads]]></title>
@@ -67,18 +73,6 @@
             <link>http://tstherightway.com/</link>
             <guid>http://tstherightway.com/</guid>
             <pubDate>Mon, 15 Mar 2021 10:54:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Complete Guide to Immutability in TypeScript]]></title>
-            <link>https://levelup.gitconnected.com/the-complete-guide-to-immutability-in-typescript-99154f859fdb</link>
-            <guid>https://levelup.gitconnected.com/the-complete-guide-to-immutability-in-typescript-99154f859fdb</guid>
-            <pubDate>Sun, 14 Mar 2021 17:53:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introduction to NestJS for NodeJS Developers | Jenyus Org]]></title>
-            <link>http://jenyus.web.app/blog/2021-03-14-introduction-to-nestjs-for-nodejs-developers</link>
-            <guid>http://jenyus.web.app/blog/2021-03-14-introduction-to-nestjs-for-nodejs-developers</guid>
-            <pubDate>Sun, 14 Mar 2021 20:01:54 GMT</pubDate>
         </item>
     </channel>
 </rss>

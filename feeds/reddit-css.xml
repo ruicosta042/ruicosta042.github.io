@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Thu, 18 Mar 2021 19:46:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Mar 2021 07:48:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -97,12 +97,6 @@
             <link>https://hypercolor.dev/</link>
             <guid>https://hypercolor.dev/</guid>
             <pubDate>Tue, 16 Mar 2021 13:51:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turbo CSS - a CSS Framework that is a programming language]]></title>
-            <link>https://boomla.com/turbo-css</link>
-            <guid>https://boomla.com/turbo-css</guid>
-            <pubDate>Tue, 16 Mar 2021 18:34:33 GMT</pubDate>
         </item>
     </channel>
 </rss>

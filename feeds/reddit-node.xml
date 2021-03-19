@@ -4,10 +4,16 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Thu, 18 Mar 2021 19:46:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Mar 2021 07:48:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Javascript News 3rd Week(Mar) – ECMAScript 2021 final set of features, Colourful cheatsheet for AngularJS, React clean code, Non-blocking I/O and how Node uses it - The ArrowFn]]></title>
+            <link>https://thearrowfn.com/javascript-news-3rd-weekmar-ecmascript-2021-final-set-of-features-relay-hooks/</link>
+            <guid>https://thearrowfn.com/javascript-news-3rd-weekmar-ecmascript-2021-final-set-of-features-relay-hooks/</guid>
+            <pubDate>Fri, 19 Mar 2021 05:24:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Contributing to Node.js Core]]></title>
             <link>https://nestedquotes.ca/articles/nodejs-core-contribution/</link>
@@ -37,24 +43,6 @@
             <link>https://copenhagen.autocode.com/</link>
             <guid>https://copenhagen.autocode.com/</guid>
             <pubDate>Wed, 17 Mar 2021 07:41:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tool/environment for SDK development?]]></title>
-            <link>https://www.postman.com/</link>
-            <guid>https://www.postman.com/</guid>
-            <pubDate>Wed, 17 Mar 2021 15:52:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I created an experimental word processor using web technologies.]]></title>
-            <link>https://github.com/adrian-kriegel/goma/</link>
-            <guid>https://github.com/adrian-kriegel/goma/</guid>
-            <pubDate>Wed, 17 Mar 2021 10:08:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Principles of Developer Experience]]></title>
-            <link>https://cpojer.net/posts/principles-of-devx</link>
-            <guid>https://cpojer.net/posts/principles-of-devx</guid>
-            <pubDate>Wed, 17 Mar 2021 09:12:26 GMT</pubDate>
         </item>
     </channel>
 </rss>

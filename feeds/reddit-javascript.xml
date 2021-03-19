@@ -4,10 +4,22 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Thu, 18 Mar 2021 19:46:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Mar 2021 07:48:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[NASA's next generation mission control system is written in JavaScript, and it's open source.]]></title>
+            <link>https://github.com/nasa/openmct</link>
+            <guid>https://github.com/nasa/openmct</guid>
+            <pubDate>Fri, 19 Mar 2021 01:01:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Type Safe Event Emitter Pattern]]></title>
+            <link>https://thewooleyway.substack.com/p/typescript-event-emitter-pattern</link>
+            <guid>https://thewooleyway.substack.com/p/typescript-event-emitter-pattern</guid>
+            <pubDate>Fri, 19 Mar 2021 01:36:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Clio: A functional, distributed programming language that compiles to JavaScript]]></title>
             <link>https://github.com/clio-lang/clio</link>
@@ -21,16 +33,22 @@
             <pubDate>Thu, 18 Mar 2021 12:28:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[isoworker - universal multithreading with main-thread dependencies, 6kB]]></title>
-            <link>https://github.com/101arrowz/isoworker</link>
-            <guid>https://github.com/101arrowz/isoworker</guid>
-            <pubDate>Wed, 17 Mar 2021 22:03:59 GMT</pubDate>
+            <title><![CDATA[Documenting Design Tokens With Docusaurus (Adding Visuals To Your Style Dictionary)]]></title>
+            <link>https://www.michaelmang.dev/blog/documenting-design-tokens-with-docusaurus</link>
+            <guid>https://www.michaelmang.dev/blog/documenting-design-tokens-with-docusaurus</guid>
+            <pubDate>Fri, 19 Mar 2021 07:05:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How React isn't reactive, and why you shouldn't care]]></title>
             <link>https://dev.to/ryansolid/how-react-isn-t-reactive-and-why-you-shouldn-t-care-152m</link>
             <guid>https://dev.to/ryansolid/how-react-isn-t-reactive-and-why-you-shouldn-t-care-152m</guid>
             <pubDate>Thu, 18 Mar 2021 16:31:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[isoworker - universal multithreading with main-thread dependencies, 6kB]]></title>
+            <link>https://github.com/101arrowz/isoworker</link>
+            <guid>https://github.com/101arrowz/isoworker</guid>
+            <pubDate>Wed, 17 Mar 2021 22:03:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MobX-State-Tree + RxJS = ?]]></title>
@@ -57,6 +75,12 @@
             <pubDate>Thu, 18 Mar 2021 06:36:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Storybook for Svelte revamped]]></title>
+            <link>https://storybook.js.org/blog/storybook-for-svelte/</link>
+            <guid>https://storybook.js.org/blog/storybook-for-svelte/</guid>
+            <pubDate>Wed, 17 Mar 2021 17:16:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Copenhagen: Free, lightweight, open source and hackable code editor for the web]]></title>
             <link>https://copenhagen.autocode.com/</link>
             <guid>https://copenhagen.autocode.com/</guid>
@@ -69,28 +93,10 @@
             <pubDate>Wed, 17 Mar 2021 16:01:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Storybook for Svelte revamped]]></title>
-            <link>https://storybook.js.org/blog/storybook-for-svelte/</link>
-            <guid>https://storybook.js.org/blog/storybook-for-svelte/</guid>
-            <pubDate>Wed, 17 Mar 2021 17:16:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I built a COVID-19 vaccination tracker, showing all the relevant information using world-map, table, and charts. It also includes a rough forcasting feature to estimate how much more time it'll take untill 70% or 100% vaccination. (source in the comments)]]></title>
-            <link>https://covid-19-vaccination-tracker.github.io/</link>
-            <guid>https://covid-19-vaccination-tracker.github.io/</guid>
-            <pubDate>Wed, 17 Mar 2021 23:10:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Search and seek to specific words in youtube videos]]></title>
             <link>https://moizahmedd.github.io/youtubesearch/</link>
             <guid>https://moizahmedd.github.io/youtubesearch/</guid>
             <pubDate>Wed, 17 Mar 2021 23:13:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I built an open-source movie review website using material UI and React]]></title>
-            <link>https://github.com/theabbie/PopCritic</link>
-            <guid>https://github.com/theabbie/PopCritic</guid>
-            <pubDate>Thu, 18 Mar 2021 06:08:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Contributing to Node.js Core]]></title>
@@ -115,6 +121,18 @@
             <link>https://www.elialotti.com/it/roadmap/rxjs</link>
             <guid>https://www.elialotti.com/it/roadmap/rxjs</guid>
             <pubDate>Tue, 16 Mar 2021 21:33:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Generate a TOTP code from a QR image for 2FA]]></title>
+            <link>https://github.com/thomaschaplin/image-to-totp</link>
+            <guid>https://github.com/thomaschaplin/image-to-totp</guid>
+            <pubDate>Tue, 16 Mar 2021 21:18:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is the Javascript Call Stack and how does it get Exceeded]]></title>
+            <link>https://browntreelabs.com/the-call-stack-and-how-it-gets-exceeded/</link>
+            <guid>https://browntreelabs.com/the-call-stack-and-how-it-gets-exceeded/</guid>
+            <pubDate>Tue, 16 Mar 2021 17:08:02 GMT</pubDate>
         </item>
     </channel>
 </rss>

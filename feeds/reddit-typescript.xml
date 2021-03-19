@@ -4,21 +4,39 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Thu, 18 Mar 2021 19:46:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Mar 2021 07:48:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[A pastebin-like platform where you can easily paste code and import it as a module in our NPM projects]]></title>
-            <link>https://boomm.io/p</link>
-            <guid>https://boomm.io/p</guid>
-            <pubDate>Thu, 18 Mar 2021 10:11:07 GMT</pubDate>
+            <title><![CDATA[Type Safe Event Emitter Pattern]]></title>
+            <link>https://thewooleyway.substack.com/p/typescript-event-emitter-pattern</link>
+            <guid>https://thewooleyway.substack.com/p/typescript-event-emitter-pattern</guid>
+            <pubDate>Fri, 19 Mar 2021 01:42:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mapping TypeScript's Type System to JSON Schema]]></title>
             <link>https://github.com/sinclairzx81/typebox</link>
             <guid>https://github.com/sinclairzx81/typebox</guid>
             <pubDate>Thu, 18 Mar 2021 18:20:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[Code Review] Can you help me out - trying to create reusable, general purpose monads]]></title>
+            <link>https://gist.github.com/brianboyko/e21f9e94691db5a0924e41b94790495a</link>
+            <guid>https://gist.github.com/brianboyko/e21f9e94691db5a0924e41b94790495a</guid>
+            <pubDate>Fri, 19 Mar 2021 03:55:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Template: TypeScript Module is a clonable template repository for authoring a npm module with TypeScript]]></title>
+            <link>https://github.com/lukeed/typescript-module</link>
+            <guid>https://github.com/lukeed/typescript-module</guid>
+            <pubDate>Fri, 19 Mar 2021 07:47:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A pastebin-like platform where you can easily paste code and import it as a module in our NPM projects]]></title>
+            <link>https://boomm.io/p</link>
+            <guid>https://boomm.io/p</guid>
+            <pubDate>Thu, 18 Mar 2021 10:11:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[gist] createNamespacedEnum: A small utility function to create namespaced enums in typescript, where the return type is a literal reflection of the returned enum value itself]]></title>
@@ -39,16 +57,16 @@
             <pubDate>Tue, 16 Mar 2021 00:48:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Complete Guide to Immutability in TypeScript]]></title>
-            <link>https://levelup.gitconnected.com/the-complete-guide-to-immutability-in-typescript-99154f859fdb</link>
-            <guid>https://levelup.gitconnected.com/the-complete-guide-to-immutability-in-typescript-99154f859fdb</guid>
-            <pubDate>Sun, 14 Mar 2021 17:53:44 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Want to help build a TypeScript best practices site?]]></title>
             <link>http://tstherightway.com/</link>
             <guid>http://tstherightway.com/</guid>
             <pubDate>Mon, 15 Mar 2021 10:54:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Complete Guide to Immutability in TypeScript]]></title>
+            <link>https://levelup.gitconnected.com/the-complete-guide-to-immutability-in-typescript-99154f859fdb</link>
+            <guid>https://levelup.gitconnected.com/the-complete-guide-to-immutability-in-typescript-99154f859fdb</guid>
+            <pubDate>Sun, 14 Mar 2021 17:53:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Introduction to NestJS for NodeJS Developers | Jenyus Org]]></title>
@@ -61,24 +79,6 @@
             <link>https://www.npmjs.com/package/autoreggol</link>
             <guid>https://www.npmjs.com/package/autoreggol</guid>
             <pubDate>Sun, 14 Mar 2021 21:43:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Using GraphQL Code Generator to create a great developer experience with Typescript and GraphQL]]></title>
-            <link>https://djangoshelton.medium.com/using-graphql-code-generator-to-create-a-great-developer-experience-with-typescript-and-graphql-30e30261b75</link>
-            <guid>https://djangoshelton.medium.com/using-graphql-code-generator-to-create-a-great-developer-experience-with-typescript-and-graphql-30e30261b75</guid>
-            <pubDate>Sun, 14 Mar 2021 19:14:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hate bugs? Use This Simple Trick To Become a Kickass Programmer.]]></title>
-            <link>https://suzdalnitski.com/terrible-coding-mistake-aa1fbebd83b4</link>
-            <guid>https://suzdalnitski.com/terrible-coding-mistake-aa1fbebd83b4</guid>
-            <pubDate>Mon, 15 Mar 2021 13:40:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Art of Type Programming]]></title>
-            <link>https://itnext.io/the-art-of-type-programming-cfd933bdfff7</link>
-            <guid>https://itnext.io/the-art-of-type-programming-cfd933bdfff7</guid>
-            <pubDate>Sun, 14 Mar 2021 04:01:10 GMT</pubDate>
         </item>
     </channel>
 </rss>

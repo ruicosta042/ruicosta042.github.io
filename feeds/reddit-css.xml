@@ -4,10 +4,22 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Fri, 19 Mar 2021 07:48:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Mar 2021 13:08:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Issue with grid. Can anybody help?]]></title>
+            <link>http://www.vseppe.gc-m.be/Gip/index.html</link>
+            <guid>http://www.vseppe.gc-m.be/Gip/index.html</guid>
+            <pubDate>Fri, 19 Mar 2021 10:37:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Achieving this shouldn't be this hard???]]></title>
+            <link>https://jsbin.com/fasazixana/1/edit?html,output</link>
+            <guid>https://jsbin.com/fasazixana/1/edit?html,output</guid>
+            <pubDate>Fri, 19 Mar 2021 08:35:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Did You Know About the :has CSS Selector?]]></title>
             <link>https://css-tricks.com/did-you-know-about-the-has-css-selector/</link>
@@ -15,16 +27,16 @@
             <pubDate>Thu, 18 Mar 2021 11:23:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Particles.js is not aligning with the cursor properly?]]></title>
-            <link>https://gyazo.com/2ca87d1748ad0d79acf08f2e21eb4e4f</link>
-            <guid>https://gyazo.com/2ca87d1748ad0d79acf08f2e21eb4e4f</guid>
-            <pubDate>Thu, 18 Mar 2021 18:46:43 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Drawing Decorative Lines with CSS]]></title>
             <link>https://pqina.nl/blog/drawing-decorative-lines-with-css/</link>
             <guid>https://pqina.nl/blog/drawing-decorative-lines-with-css/</guid>
             <pubDate>Thu, 18 Mar 2021 12:14:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Particles.js is not aligning with the cursor properly?]]></title>
+            <link>https://gyazo.com/2ca87d1748ad0d79acf08f2e21eb4e4f</link>
+            <guid>https://gyazo.com/2ca87d1748ad0d79acf08f2e21eb4e4f</guid>
+            <pubDate>Thu, 18 Mar 2021 18:46:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How To Use Aspect-Ratio CSS Property In Responsive Web Designs?]]></title>
@@ -79,24 +91,6 @@
             <link>https://blog.tailwindcss.com/just-in-time-the-next-generation-of-tailwind-css</link>
             <guid>https://blog.tailwindcss.com/just-in-time-the-next-generation-of-tailwind-css</guid>
             <pubDate>Tue, 16 Mar 2021 19:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turbo CSS - write class names, the CSS is auto-generated for you]]></title>
-            <link>https://boomla.com/turbo-css</link>
-            <guid>https://boomla.com/turbo-css</guid>
-            <pubDate>Tue, 16 Mar 2021 15:08:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CSS Auditing Tools]]></title>
-            <link>https://www.smashingmagazine.com/2021/03/css-auditing-tools/</link>
-            <guid>https://www.smashingmagazine.com/2021/03/css-auditing-tools/</guid>
-            <pubDate>Tue, 16 Mar 2021 09:04:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hypercolor - Tailwind CSS Gradient Palette]]></title>
-            <link>https://hypercolor.dev/</link>
-            <guid>https://hypercolor.dev/</guid>
-            <pubDate>Tue, 16 Mar 2021 13:51:42 GMT</pubDate>
         </item>
     </channel>
 </rss>

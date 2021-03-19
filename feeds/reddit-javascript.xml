@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Fri, 19 Mar 2021 07:48:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Mar 2021 13:08:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -27,16 +27,28 @@
             <pubDate>Thu, 18 Mar 2021 12:32:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[prismarine-web-client : A minecraft client in the browser built from PrismarineJS modules]]></title>
-            <link>https://github.com/PrismarineJS/prismarine-web-client</link>
-            <guid>https://github.com/PrismarineJS/prismarine-web-client</guid>
-            <pubDate>Thu, 18 Mar 2021 12:28:27 GMT</pubDate>
+            <title><![CDATA[Create animated navigation indicator with HTML, CSS, and JS]]></title>
+            <link>https://codeadrian.hashnode.dev/create-animated-navigation-indicator-with-html-css-and-js</link>
+            <guid>https://codeadrian.hashnode.dev/create-animated-navigation-indicator-with-html-css-and-js</guid>
+            <pubDate>Fri, 19 Mar 2021 08:22:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A gentle introduction to typescript and basic types]]></title>
+            <link>https://blog.evansibok.com/introduction-to-typescript-and-its-basic-types</link>
+            <guid>https://blog.evansibok.com/introduction-to-typescript-and-its-basic-types</guid>
+            <pubDate>Fri, 19 Mar 2021 11:15:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Documenting Design Tokens With Docusaurus (Adding Visuals To Your Style Dictionary)]]></title>
             <link>https://www.michaelmang.dev/blog/documenting-design-tokens-with-docusaurus</link>
             <guid>https://www.michaelmang.dev/blog/documenting-design-tokens-with-docusaurus</guid>
             <pubDate>Fri, 19 Mar 2021 07:05:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[prismarine-web-client : A minecraft client in the browser built from PrismarineJS modules]]></title>
+            <link>https://github.com/PrismarineJS/prismarine-web-client</link>
+            <guid>https://github.com/PrismarineJS/prismarine-web-client</guid>
+            <pubDate>Thu, 18 Mar 2021 12:28:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How React isn't reactive, and why you shouldn't care]]></title>
@@ -57,16 +69,16 @@
             <pubDate>Thu, 18 Mar 2021 14:53:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[V8 release v9.0]]></title>
-            <link>https://v8.dev/blog/v8-release-90</link>
-            <guid>https://v8.dev/blog/v8-release-90</guid>
-            <pubDate>Wed, 17 Mar 2021 16:45:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[js-confetti: lightweight zero-config open-source JavaScript library for confetti without any dependencies]]></title>
             <link>https://github.com/loonywizard/js-confetti</link>
             <guid>https://github.com/loonywizard/js-confetti</guid>
             <pubDate>Thu, 18 Mar 2021 16:35:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[V8 release v9.0]]></title>
+            <link>https://v8.dev/blog/v8-release-90</link>
+            <guid>https://v8.dev/blog/v8-release-90</guid>
+            <pubDate>Wed, 17 Mar 2021 16:45:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Creating a Github profile search component in htmx]]></title>
@@ -121,18 +133,6 @@
             <link>https://www.elialotti.com/it/roadmap/rxjs</link>
             <guid>https://www.elialotti.com/it/roadmap/rxjs</guid>
             <pubDate>Tue, 16 Mar 2021 21:33:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Generate a TOTP code from a QR image for 2FA]]></title>
-            <link>https://github.com/thomaschaplin/image-to-totp</link>
-            <guid>https://github.com/thomaschaplin/image-to-totp</guid>
-            <pubDate>Tue, 16 Mar 2021 21:18:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is the Javascript Call Stack and how does it get Exceeded]]></title>
-            <link>https://browntreelabs.com/the-call-stack-and-how-it-gets-exceeded/</link>
-            <guid>https://browntreelabs.com/the-call-stack-and-how-it-gets-exceeded/</guid>
-            <pubDate>Tue, 16 Mar 2021 17:08:02 GMT</pubDate>
         </item>
     </channel>
 </rss>

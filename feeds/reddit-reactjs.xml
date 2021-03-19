@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Fri, 19 Mar 2021 07:48:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Mar 2021 13:08:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,40 @@
             <pubDate>Mon, 01 Mar 2021 15:56:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[I wrote an article talking about my experiences creating a Netflix clone using microfrontends]]></title>
+            <link>https://dev.to/dantederuwe/my-experiences-creating-a-netflix-clone-using-microfrontends-1n46</link>
+            <guid>https://dev.to/dantederuwe/my-experiences-creating-a-netflix-clone-using-microfrontends-1n46</guid>
+            <pubDate>Fri, 19 Mar 2021 08:00:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Is "Thinking In React" outdated?]]></title>
             <link>https://reactjs.org/docs/thinking-in-react.html</link>
             <guid>https://reactjs.org/docs/thinking-in-react.html</guid>
             <pubDate>Thu, 18 Mar 2021 13:30:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Undertool - instrument for creating tooltips]]></title>
+            <link>https://clydethecloud.github.io/undertool/</link>
+            <guid>https://clydethecloud.github.io/undertool/</guid>
+            <pubDate>Fri, 19 Mar 2021 12:15:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[Academic] The importance of communication between designers and developers]]></title>
+            <link>https://coventry.onlinesurveys.ac.uk/the-importance-of-communication-between-designers-and-deve</link>
+            <guid>https://coventry.onlinesurveys.ac.uk/the-importance-of-communication-between-designers-and-deve</guid>
+            <pubDate>Fri, 19 Mar 2021 10:41:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We're building Couchers.org, the next platform for couch-surfing: Non-profit. Community-focused. Well-built with a React frontend and Python backend. We're looking for volunteers ahead of our Beta release.]]></title>
+            <link>https://couchers.org/solutions/</link>
+            <guid>https://couchers.org/solutions/</guid>
+            <pubDate>Thu, 18 Mar 2021 23:54:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stale closure: Why did my setState only triggered twice?]]></title>
+            <link>https://codesandbox.io/s/wandering-snowflake-rk1d9?file=/src/App.js:525-543</link>
+            <guid>https://codesandbox.io/s/wandering-snowflake-rk1d9?file=/src/App.js:525-543</guid>
+            <pubDate>Fri, 19 Mar 2021 10:14:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Learn how Next.js improves SEO(w/ React)]]></title>
@@ -27,10 +57,10 @@
             <pubDate>Thu, 18 Mar 2021 17:12:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[We're building Couchers.org, the next platform for couch-surfing: Non-profit. Community-focused. Well-built with a React frontend and Python backend. We're looking for volunteers ahead of our Beta release.]]></title>
-            <link>https://couchers.org/solutions/</link>
-            <guid>https://couchers.org/solutions/</guid>
-            <pubDate>Thu, 18 Mar 2021 23:54:16 GMT</pubDate>
+            <title><![CDATA[Benefits of ReactJS and Top Reasons to Choose it for your Project]]></title>
+            <link>https://www.elsner.com/benefits-of-reactjs-and-top-reasons-to-choose-it-for-your-project/</link>
+            <guid>https://www.elsner.com/benefits-of-reactjs-and-top-reasons-to-choose-it-for-your-project/</guid>
+            <pubDate>Fri, 19 Mar 2021 12:14:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I'm getting an array like this [ {name: 'a', value: 'b'}, {name: 'c', value: 'd'}, {name: 'e', value: 'f'} ]. I need to convert this array to a string, like 'a=b/c=d/e=f' to send to an API. How can I do this? I have tried all sorts of Array map tricks and Object.values or keys stuff to no avail.]]></title>
@@ -43,6 +73,12 @@
             <link>https://blog.graphqleditor.com/bedrock/</link>
             <guid>https://blog.graphqleditor.com/bedrock/</guid>
             <pubDate>Thu, 18 Mar 2021 11:23:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is CRUD?]]></title>
+            <link>https://www.crudful.com/guides/what-is-crud</link>
+            <guid>https://www.crudful.com/guides/what-is-crud</guid>
+            <pubDate>Fri, 19 Mar 2021 09:02:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How React isn't reactive, and why you shouldn't care]]></title>
@@ -67,30 +103,6 @@
             <link>https://dev.to/alexgurr/chatter-the-latest-reactjs-coding-challenge-in-react-coding-challenges-on-github-1kn4</link>
             <guid>https://dev.to/alexgurr/chatter-the-latest-reactjs-coding-challenge-in-react-coding-challenges-on-github-1kn4</guid>
             <pubDate>Thu, 18 Mar 2021 08:04:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I published my first react library, check it out!]]></title>
-            <link>https://github.com/baymac/material-ui-cron</link>
-            <guid>https://github.com/baymac/material-ui-cron</guid>
-            <pubDate>Thu, 18 Mar 2021 07:45:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I made an image sharing social media web app]]></title>
-            <link>https://uplora.netlify.app/</link>
-            <guid>https://uplora.netlify.app/</guid>
-            <pubDate>Thu, 18 Mar 2021 11:50:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Super Smash Bros Character Selection Screen]]></title>
-            <link>https://jokude.github.io/super-smash-bros-ui/</link>
-            <guid>https://jokude.github.io/super-smash-bros-ui/</guid>
-            <pubDate>Thu, 18 Mar 2021 03:36:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I made 30+ project using React / Nextjs as frontend and various stacks as a Backend(MongoDB,Nodejs,Express,Firebase,Airtable,Prisma...). Please feel free to check em out.]]></title>
-            <link>https://pramit-marattha.github.io/fullstack-react-timeline/</link>
-            <guid>https://pramit-marattha.github.io/fullstack-react-timeline/</guid>
-            <pubDate>Wed, 17 Mar 2021 08:26:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sat, 20 Mar 2021 07:48:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Mar 2021 13:02:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,10 +21,22 @@
             <pubDate>Sat, 20 Mar 2021 06:59:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Beginner Questions about React Testing Library]]></title>
+            <link>https://unicorn-escape.surge.sh/</link>
+            <guid>https://unicorn-escape.surge.sh/</guid>
+            <pubDate>Sat, 20 Mar 2021 10:25:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I wrote an article talking about my experiences creating a Netflix clone using microfrontends]]></title>
             <link>https://dev.to/dantederuwe/my-experiences-creating-a-netflix-clone-using-microfrontends-1n46</link>
             <guid>https://dev.to/dantederuwe/my-experiences-creating-a-netflix-clone-using-microfrontends-1n46</guid>
             <pubDate>Fri, 19 Mar 2021 08:00:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How I built a small React app to automatically invite collaborators to a private repo 👌]]></title>
+            <link>https://dev.to/alexgurr/how-i-built-a-small-react-app-to-automatically-invite-collaborators-to-a-private-repo-28f3</link>
+            <guid>https://dev.to/alexgurr/how-i-built-a-small-react-app-to-automatically-invite-collaborators-to-a-private-repo-28f3</guid>
+            <pubDate>Sat, 20 Mar 2021 07:53:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[React Lazy Loading Component with Lazy and Suspense]]></title>
@@ -33,40 +45,58 @@
             <pubDate>Fri, 19 Mar 2021 19:52:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[React Hook Form - What's the point of setValue if it doesn't do validation?]]></title>
+            <link>https://react-hook-form.com/faqs/#Whatifyoudonthaveaccesstoref</link>
+            <guid>https://react-hook-form.com/faqs/#Whatifyoudonthaveaccesstoref</guid>
+            <pubDate>Sat, 20 Mar 2021 08:48:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Heroku Deployment 404 Error]]></title>
+            <link>https://piedev.herokuapp.com/</link>
+            <guid>https://piedev.herokuapp.com/</guid>
+            <pubDate>Sat, 20 Mar 2021 12:16:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Compiled CSS-in-JS | Extract styles from your app & NPM now available]]></title>
+            <link>https://twitter.com/compiledcss/status/1373125637762772996</link>
+            <guid>https://twitter.com/compiledcss/status/1373125637762772996</guid>
+            <pubDate>Sat, 20 Mar 2021 11:50:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is the status of React Server Components?]]></title>
+            <link>https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html</link>
+            <guid>https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html</guid>
+            <pubDate>Sat, 20 Mar 2021 10:42:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Allowing users to edit text/image content]]></title>
             <link>https://draftjs.org/</link>
             <guid>https://draftjs.org/</guid>
             <pubDate>Sat, 20 Mar 2021 04:04:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Higher order components]]></title>
+            <link>https://mindaugasnakr.medium.com/higher-order-components-in-react-223434d5f13</link>
+            <guid>https://mindaugasnakr.medium.com/higher-order-components-in-react-223434d5f13</guid>
+            <pubDate>Sat, 20 Mar 2021 09:52:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to create a Discord/WhatsApp style markdown editor?]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Sat, 20 Mar 2021 08:36:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Complete checklist/roadmap to becoming a frontend developer in 2021]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Sat, 20 Mar 2021 08:20:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[React-Testing-Library - What do you guys use to mock HTTP requests?]]></title>
             <link>https://stackoverflow.com/questions/66576133/request-headers-causing-nock-no-match-for-request?noredirect=1#comment117746773_66576133</link>
             <guid>https://stackoverflow.com/questions/66576133/request-headers-causing-nock-no-match-for-request?noredirect=1#comment117746773_66576133</guid>
             <pubDate>Fri, 19 Mar 2021 22:51:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why isn't my JSX conditionally rendering?]]></title>
-            <link>https://stackblitz.com/edit/the-correct-way?file=src%2FContent.js</link>
-            <guid>https://stackblitz.com/edit/the-correct-way?file=src%2FContent.js</guid>
-            <pubDate>Fri, 19 Mar 2021 14:27:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My first React App]]></title>
-            <link>https://cineflix-cd.web.app/</link>
-            <guid>https://cineflix-cd.web.app/</guid>
-            <pubDate>Fri, 19 Mar 2021 15:44:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Setting up Chakra UI in a Next.js Project]]></title>
-            <link>https://overcompiled.com/blog/0002-nextjs-chakraui-start</link>
-            <guid>https://overcompiled.com/blog/0002-nextjs-chakraui-start</guid>
-            <pubDate>Fri, 19 Mar 2021 22:27:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React native template ⭐️⭐️]]></title>
-            <link>https://github.com/obytes/react-native-template-obytes</link>
-            <guid>https://github.com/obytes/react-native-template-obytes</guid>
-            <pubDate>Fri, 19 Mar 2021 21:17:53 GMT</pubDate>
         </item>
     </channel>
 </rss>

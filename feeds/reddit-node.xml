@@ -4,10 +4,22 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Sat, 20 Mar 2021 07:48:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Mar 2021 13:02:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[The Strictness Principle - Restrict the scope by default. Increase the scope as the need arises.]]></title>
+            <link>https://fagnerbrack.medium.com/the-strictness-principle-9997e483cafb</link>
+            <guid>https://fagnerbrack.medium.com/the-strictness-principle-9997e483cafb</guid>
+            <pubDate>Sat, 20 Mar 2021 06:09:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A pastebin-like platform where you can easily paste code and import it as a module in our NPM projects]]></title>
+            <link>https://boomm.io/p</link>
+            <guid>https://boomm.io/p</guid>
+            <pubDate>Sat, 20 Mar 2021 12:47:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What is a backdoor? Let's build one with Node.js]]></title>
             <link>https://snyk.io/blog/what-is-a-backdoor/</link>
@@ -15,10 +27,10 @@
             <pubDate>Fri, 19 Mar 2021 10:22:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Strictness Principle - Restrict the scope by default. Increase the scope as the need arises.]]></title>
-            <link>https://fagnerbrack.medium.com/the-strictness-principle-9997e483cafb</link>
-            <guid>https://fagnerbrack.medium.com/the-strictness-principle-9997e483cafb</guid>
-            <pubDate>Sat, 20 Mar 2021 06:09:23 GMT</pubDate>
+            <title><![CDATA[How do prevent fs.readdir from returning files that were just deleted through fs.unlink?]]></title>
+            <link>https://github.com/nodejs/node/issues/4760</link>
+            <guid>https://github.com/nodejs/node/issues/4760</guid>
+            <pubDate>Sat, 20 Mar 2021 11:24:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How does the unpacked size affect the minified size of an npm package?]]></title>
@@ -43,18 +55,6 @@
             <link>https://statisticsanddata.org/data/the-most-popular-databases-2006-2021/</link>
             <guid>https://statisticsanddata.org/data/the-most-popular-databases-2006-2021/</guid>
             <pubDate>Fri, 19 Mar 2021 10:21:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Contributing to Node.js Core]]></title>
-            <link>https://nestedquotes.ca/articles/nodejs-core-contribution/</link>
-            <guid>https://nestedquotes.ca/articles/nodejs-core-contribution/</guid>
-            <pubDate>Thu, 18 Mar 2021 06:09:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is necessity of unit tests?]]></title>
-            <link>https://martinfowler.com/articles/practical-test-pyramid.html</link>
-            <guid>https://martinfowler.com/articles/practical-test-pyramid.html</guid>
-            <pubDate>Thu, 18 Mar 2021 11:31:19 GMT</pubDate>
         </item>
     </channel>
 </rss>

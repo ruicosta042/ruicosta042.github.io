@@ -4,10 +4,22 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Sat, 20 Mar 2021 13:02:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Mar 2021 19:46:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[How do I define and use a custom global variable inside of global? (Node)]]></title>
+            <link>https://stackoverflow.com/questions/41717006/node-js-global-variable-and-typescript</link>
+            <guid>https://stackoverflow.com/questions/41717006/node-js-global-variable-and-typescript</guid>
+            <pubDate>Sat, 20 Mar 2021 19:10:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[formts - type-safe, declarative and performant react form & validation library]]></title>
+            <link>https://github.com/VirtusLab/formts</link>
+            <guid>https://github.com/VirtusLab/formts</guid>
+            <pubDate>Sat, 20 Mar 2021 10:43:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Recursively set values in object]]></title>
             <link>https://codesandbox.io/s/typescript-node-forked-0klmy?file=/src/index.ts</link>
@@ -61,12 +73,6 @@
             <link>https://jenyus-org.github.io/graphql-utils/</link>
             <guid>https://jenyus-org.github.io/graphql-utils/</guid>
             <pubDate>Tue, 16 Mar 2021 22:38:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to extract proper intersection type from an array?]]></title>
-            <link>https://www.typescriptlang.org/play?#code/JYOwLgpgTgZghgYwgAgILIN4Chm+QZwHsBbCANTgBsAuAsKUAcwG4sBfLLUSWRFAIUw48RUgHkwAC2gUadBiBbtOlCGGQAPWugBkyQQF5MbVqvUBPbcj2HjptcgBeVm8iMYTnBIRD513ylUEMGAfKwBtAF1rfWQotziNABpkcxTHSNZvX3UYYCg-AFFVYgSAoJCfcIAGTNwAenq0GP4sbL9kKiIAMXyikoTGNV6CsAAKcohg0JAASmYGptasRuQACUIAd2QwQmRiOABrFClgfGQYEGQoNQBXKCuwcwAHFF1Y0D8IOAATZEIYLEAPxYGC3EDTHzIIZgEZ+AA8ABUAHxjOBQKC0RFRWZY7B4a53B6dDE1TLsIA</link>
-            <guid>https://www.typescriptlang.org/play?#code/JYOwLgpgTgZghgYwgAgILIN4Chm+QZwHsBbCANTgBsAuAsKUAcwG4sBfLLUSWRFAIUw48RUgHkwAC2gUadBiBbtOlCGGQAPWugBkyQQF5MbVqvUBPbcj2HjptcgBeVm8iMYTnBIRD513ylUEMGAfKwBtAF1rfWQotziNABpkcxTHSNZvX3UYYCg-AFFVYgSAoJCfcIAGTNwAenq0GP4sbL9kKiIAMXyikoTGNV6CsAAKcohg0JAASmYGptasRuQACUIAd2QwQmRiOABrFClgfGQYEGQoNQBXKCuwcwAHFF1Y0D8IOAATZEIYLEAPxYGC3EDTHzIIZgEZ+AA8ABUAHxjOBQKC0RFRWZY7B4a53B6dDE1TLsIA</guid>
-            <pubDate>Tue, 16 Mar 2021 00:48:46 GMT</pubDate>
         </item>
     </channel>
 </rss>

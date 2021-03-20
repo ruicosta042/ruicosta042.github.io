@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sat, 20 Mar 2021 13:02:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Mar 2021 19:46:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,6 +21,54 @@
             <pubDate>Sat, 20 Mar 2021 06:59:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Design a VS Code dashboard with your own React components]]></title>
+            <link>https://webpack.js.org/concepts/module-federation/</link>
+            <guid>https://webpack.js.org/concepts/module-federation/</guid>
+            <pubDate>Sat, 20 Mar 2021 13:24:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I wrote an article about the different types of State we manage in React.js applications]]></title>
+            <link>https://bobbyhadz.com/blog/react-state-types</link>
+            <guid>https://bobbyhadz.com/blog/react-state-types</guid>
+            <pubDate>Sat, 20 Mar 2021 14:21:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is the status of React Server Components?]]></title>
+            <link>https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html</link>
+            <guid>https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html</guid>
+            <pubDate>Sat, 20 Mar 2021 10:42:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[FamilyRecipe] This is my first reactjs app, let me know what you think]]></title>
+            <link>https://gyazo.com/2171a4509d27396c1ee089e6234b4734</link>
+            <guid>https://gyazo.com/2171a4509d27396c1ee089e6234b4734</guid>
+            <pubDate>Sat, 20 Mar 2021 16:13:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Compiled CSS-in-JS | Extract styles from your app & NPM now available]]></title>
+            <link>https://twitter.com/compiledcss/status/1373125637762772996</link>
+            <guid>https://twitter.com/compiledcss/status/1373125637762772996</guid>
+            <pubDate>Sat, 20 Mar 2021 11:50:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[15+ TailwindCSS Component Libraries that will make your life a bit easier]]></title>
+            <link>https://overcompiled.com/blog/0003-tailwindcss-component-libraries</link>
+            <guid>https://overcompiled.com/blog/0003-tailwindcss-component-libraries</guid>
+            <pubDate>Sat, 20 Mar 2021 15:30:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Toast-ui in react]]></title>
+            <link>https://github.com/nhn/toast-ui.react-image-editor</link>
+            <guid>https://github.com/nhn/toast-ui.react-image-editor</guid>
+            <pubDate>Sat, 20 Mar 2021 15:30:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Framer Motion `easeIn` transition not working on `exit` on a Modal?]]></title>
+            <link>https://codesandbox.io/s/framer-motion-modal-animation-z3ev5?file=/src/Modal.tsx</link>
+            <guid>https://codesandbox.io/s/framer-motion-modal-animation-z3ev5?file=/src/Modal.tsx</guid>
+            <pubDate>Sat, 20 Mar 2021 14:28:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Beginner Questions about React Testing Library]]></title>
             <link>https://unicorn-escape.surge.sh/</link>
             <guid>https://unicorn-escape.surge.sh/</guid>
@@ -31,12 +79,6 @@
             <link>https://dev.to/dantederuwe/my-experiences-creating-a-netflix-clone-using-microfrontends-1n46</link>
             <guid>https://dev.to/dantederuwe/my-experiences-creating-a-netflix-clone-using-microfrontends-1n46</guid>
             <pubDate>Fri, 19 Mar 2021 08:00:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How I built a small React app to automatically invite collaborators to a private repo 👌]]></title>
-            <link>https://dev.to/alexgurr/how-i-built-a-small-react-app-to-automatically-invite-collaborators-to-a-private-repo-28f3</link>
-            <guid>https://dev.to/alexgurr/how-i-built-a-small-react-app-to-automatically-invite-collaborators-to-a-private-repo-28f3</guid>
-            <pubDate>Sat, 20 Mar 2021 07:53:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[React Lazy Loading Component with Lazy and Suspense]]></title>
@@ -57,46 +99,10 @@
             <pubDate>Sat, 20 Mar 2021 12:16:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Compiled CSS-in-JS | Extract styles from your app & NPM now available]]></title>
-            <link>https://twitter.com/compiledcss/status/1373125637762772996</link>
-            <guid>https://twitter.com/compiledcss/status/1373125637762772996</guid>
-            <pubDate>Sat, 20 Mar 2021 11:50:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is the status of React Server Components?]]></title>
-            <link>https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html</link>
-            <guid>https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html</guid>
-            <pubDate>Sat, 20 Mar 2021 10:42:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Allowing users to edit text/image content]]></title>
-            <link>https://draftjs.org/</link>
-            <guid>https://draftjs.org/</guid>
-            <pubDate>Sat, 20 Mar 2021 04:04:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Higher order components]]></title>
-            <link>https://mindaugasnakr.medium.com/higher-order-components-in-react-223434d5f13</link>
-            <guid>https://mindaugasnakr.medium.com/higher-order-components-in-react-223434d5f13</guid>
-            <pubDate>Sat, 20 Mar 2021 09:52:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to create a Discord/WhatsApp style markdown editor?]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Sat, 20 Mar 2021 08:36:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Complete checklist/roadmap to becoming a frontend developer in 2021]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Sat, 20 Mar 2021 08:20:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React-Testing-Library - What do you guys use to mock HTTP requests?]]></title>
-            <link>https://stackoverflow.com/questions/66576133/request-headers-causing-nock-no-match-for-request?noredirect=1#comment117746773_66576133</link>
-            <guid>https://stackoverflow.com/questions/66576133/request-headers-causing-nock-no-match-for-request?noredirect=1#comment117746773_66576133</guid>
-            <pubDate>Fri, 19 Mar 2021 22:51:18 GMT</pubDate>
+            <title><![CDATA[How I built a small React app to automatically invite collaborators to a private repo 👌]]></title>
+            <link>https://dev.to/alexgurr/how-i-built-a-small-react-app-to-automatically-invite-collaborators-to-a-private-repo-28f3</link>
+            <guid>https://dev.to/alexgurr/how-i-built-a-small-react-app-to-automatically-invite-collaborators-to-a-private-repo-28f3</guid>
+            <pubDate>Sat, 20 Mar 2021 07:53:46 GMT</pubDate>
         </item>
     </channel>
 </rss>

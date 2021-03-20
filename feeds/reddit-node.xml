@@ -4,7 +4,7 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Sat, 20 Mar 2021 13:02:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Mar 2021 19:46:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,12 @@
             <link>https://fagnerbrack.medium.com/the-strictness-principle-9997e483cafb</link>
             <guid>https://fagnerbrack.medium.com/the-strictness-principle-9997e483cafb</guid>
             <pubDate>Sat, 20 Mar 2021 06:09:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Simple Twitter Bot with Node.js Tutorial Part 3: Search and Retweet]]></title>
+            <link>https://blog.shahednasser.com/simple-twitter-bot-tutorial-part-3-search-and-retweet/</link>
+            <guid>https://blog.shahednasser.com/simple-twitter-bot-tutorial-part-3-search-and-retweet/</guid>
+            <pubDate>Sat, 20 Mar 2021 14:13:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A pastebin-like platform where you can easily paste code and import it as a module in our NPM projects]]></title>
@@ -43,18 +49,6 @@
             <link>https://www.npmjs.com/package/native-dns</link>
             <guid>https://www.npmjs.com/package/native-dns</guid>
             <pubDate>Fri, 19 Mar 2021 12:05:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Javascript News 3rd Week(Mar) – ECMAScript 2021 final set of features, Colourful cheatsheet for AngularJS, React clean code, Non-blocking I/O and how Node uses it - The ArrowFn]]></title>
-            <link>https://thearrowfn.com/javascript-news-3rd-weekmar-ecmascript-2021-final-set-of-features-relay-hooks/</link>
-            <guid>https://thearrowfn.com/javascript-news-3rd-weekmar-ecmascript-2021-final-set-of-features-relay-hooks/</guid>
-            <pubDate>Fri, 19 Mar 2021 05:24:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Most Popular Databases – 2006/2021]]></title>
-            <link>https://statisticsanddata.org/data/the-most-popular-databases-2006-2021/</link>
-            <guid>https://statisticsanddata.org/data/the-most-popular-databases-2006-2021/</guid>
-            <pubDate>Fri, 19 Mar 2021 10:21:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

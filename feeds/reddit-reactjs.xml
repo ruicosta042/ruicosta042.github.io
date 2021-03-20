@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Fri, 19 Mar 2021 19:46:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Mar 2021 07:48:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,34 @@
             <pubDate>Mon, 01 Mar 2021 15:56:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[I made a sorting visualizer where you can edit the algorithms]]></title>
+            <link>https://github.com/stoicaandrei/sorting-visualizer</link>
+            <guid>https://github.com/stoicaandrei/sorting-visualizer</guid>
+            <pubDate>Sat, 20 Mar 2021 06:59:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I wrote an article talking about my experiences creating a Netflix clone using microfrontends]]></title>
             <link>https://dev.to/dantederuwe/my-experiences-creating-a-netflix-clone-using-microfrontends-1n46</link>
             <guid>https://dev.to/dantederuwe/my-experiences-creating-a-netflix-clone-using-microfrontends-1n46</guid>
             <pubDate>Fri, 19 Mar 2021 08:00:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React Lazy Loading Component with Lazy and Suspense]]></title>
+            <link>https://webomnizz.com/react-lazy-loading-component-with-lazy-and-suspense/</link>
+            <guid>https://webomnizz.com/react-lazy-loading-component-with-lazy-and-suspense/</guid>
+            <pubDate>Fri, 19 Mar 2021 19:52:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Allowing users to edit text/image content]]></title>
+            <link>https://draftjs.org/</link>
+            <guid>https://draftjs.org/</guid>
+            <pubDate>Sat, 20 Mar 2021 04:04:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React-Testing-Library - What do you guys use to mock HTTP requests?]]></title>
+            <link>https://stackoverflow.com/questions/66576133/request-headers-causing-nock-no-match-for-request?noredirect=1#comment117746773_66576133</link>
+            <guid>https://stackoverflow.com/questions/66576133/request-headers-causing-nock-no-match-for-request?noredirect=1#comment117746773_66576133</guid>
+            <pubDate>Fri, 19 Mar 2021 22:51:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why isn't my JSX conditionally rendering?]]></title>
@@ -33,40 +57,16 @@
             <pubDate>Fri, 19 Mar 2021 15:44:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How could you create a React Native ListView type component for a CSS Grid in React?]]></title>
-            <link>https://stackoverflow.com/a/59062821/6331353</link>
-            <guid>https://stackoverflow.com/a/59062821/6331353</guid>
-            <pubDate>Fri, 19 Mar 2021 18:19:42 GMT</pubDate>
+            <title><![CDATA[Setting up Chakra UI in a Next.js Project]]></title>
+            <link>https://overcompiled.com/blog/0002-nextjs-chakraui-start</link>
+            <guid>https://overcompiled.com/blog/0002-nextjs-chakraui-start</guid>
+            <pubDate>Fri, 19 Mar 2021 22:27:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Resources for learning React ⚛️]]></title>
-            <link>https://dev.to/pavankalyan_nvs/resources-for-learning-react-358m</link>
-            <guid>https://dev.to/pavankalyan_nvs/resources-for-learning-react-358m</guid>
-            <pubDate>Fri, 19 Mar 2021 17:58:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is "Thinking In React" outdated?]]></title>
-            <link>https://reactjs.org/docs/thinking-in-react.html</link>
-            <guid>https://reactjs.org/docs/thinking-in-react.html</guid>
-            <pubDate>Thu, 18 Mar 2021 13:30:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Made my first react app]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Fri, 19 Mar 2021 15:38:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Undertool - instrument for creating tooltips]]></title>
-            <link>https://clydethecloud.github.io/undertool/</link>
-            <guid>https://clydethecloud.github.io/undertool/</guid>
-            <pubDate>Fri, 19 Mar 2021 12:15:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We're building Couchers.org, the next platform for couch-surfing: Non-profit. Community-focused. Well-built with a React frontend and Python backend. We're looking for volunteers ahead of our Beta release.]]></title>
-            <link>https://couchers.org/solutions/</link>
-            <guid>https://couchers.org/solutions/</guid>
-            <pubDate>Thu, 18 Mar 2021 23:54:16 GMT</pubDate>
+            <title><![CDATA[React native template ⭐️⭐️]]></title>
+            <link>https://github.com/obytes/react-native-template-obytes</link>
+            <guid>https://github.com/obytes/react-native-template-obytes</guid>
+            <pubDate>Fri, 19 Mar 2021 21:17:53 GMT</pubDate>
         </item>
     </channel>
 </rss>

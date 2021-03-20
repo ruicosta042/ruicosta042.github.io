@@ -4,10 +4,16 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Fri, 19 Mar 2021 19:46:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Mar 2021 07:48:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Recursively set values in object]]></title>
+            <link>https://codesandbox.io/s/typescript-node-forked-0klmy?file=/src/index.ts</link>
+            <guid>https://codesandbox.io/s/typescript-node-forked-0klmy?file=/src/index.ts</guid>
+            <pubDate>Fri, 19 Mar 2021 13:24:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Template: TypeScript Module is a clonable template repository for authoring a npm module with TypeScript]]></title>
             <link>https://github.com/lukeed/typescript-module</link>
@@ -19,12 +25,6 @@
             <link>https://thewooleyway.substack.com/p/typescript-event-emitter-pattern</link>
             <guid>https://thewooleyway.substack.com/p/typescript-event-emitter-pattern</guid>
             <pubDate>Fri, 19 Mar 2021 01:42:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Recursively set values in object]]></title>
-            <link>https://codesandbox.io/s/typescript-node-forked-0klmy?file=/src/index.ts</link>
-            <guid>https://codesandbox.io/s/typescript-node-forked-0klmy?file=/src/index.ts</guid>
-            <pubDate>Fri, 19 Mar 2021 13:24:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[Help] Add new properties to an existing type]]></title>
@@ -67,12 +67,6 @@
             <link>https://www.typescriptlang.org/play?#code/JYOwLgpgTgZghgYwgAgILIN4Chm+QZwHsBbCANTgBsAuAsKUAcwG4sBfLLUSWRFAIUw48RUgHkwAC2gUadBiBbtOlCGGQAPWugBkyQQF5MbVqvUBPbcj2HjptcgBeVm8iMYTnBIRD513ylUEMGAfKwBtAF1rfWQotziNABpkcxTHSNZvX3UYYCg-AFFVYgSAoJCfcIAGTNwAenq0GP4sbL9kKiIAMXyikoTGNV6CsAAKcohg0JAASmYGptasRuQACUIAd2QwQmRiOABrFClgfGQYEGQoNQBXKCuwcwAHFF1Y0D8IOAATZEIYLEAPxYGC3EDTHzIIZgEZ+AA8ABUAHxjOBQKC0RFRWZY7B4a53B6dDE1TLsIA</link>
             <guid>https://www.typescriptlang.org/play?#code/JYOwLgpgTgZghgYwgAgILIN4Chm+QZwHsBbCANTgBsAuAsKUAcwG4sBfLLUSWRFAIUw48RUgHkwAC2gUadBiBbtOlCGGQAPWugBkyQQF5MbVqvUBPbcj2HjptcgBeVm8iMYTnBIRD513ylUEMGAfKwBtAF1rfWQotziNABpkcxTHSNZvX3UYYCg-AFFVYgSAoJCfcIAGTNwAenq0GP4sbL9kKiIAMXyikoTGNV6CsAAKcohg0JAASmYGptasRuQACUIAd2QwQmRiOABrFClgfGQYEGQoNQBXKCuwcwAHFF1Y0D8IOAATZEIYLEAPxYGC3EDTHzIIZgEZ+AA8ABUAHxjOBQKC0RFRWZY7B4a53B6dDE1TLsIA</guid>
             <pubDate>Tue, 16 Mar 2021 00:48:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Want to help build a TypeScript best practices site?]]></title>
-            <link>http://tstherightway.com/</link>
-            <guid>http://tstherightway.com/</guid>
-            <pubDate>Mon, 15 Mar 2021 10:54:03 GMT</pubDate>
         </item>
     </channel>
 </rss>

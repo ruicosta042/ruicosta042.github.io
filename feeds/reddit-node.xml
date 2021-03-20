@@ -4,7 +4,7 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Fri, 19 Mar 2021 19:46:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Mar 2021 07:48:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,22 +15,34 @@
             <pubDate>Fri, 19 Mar 2021 10:22:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Strictness Principle - Restrict the scope by default. Increase the scope as the need arises.]]></title>
+            <link>https://fagnerbrack.medium.com/the-strictness-principle-9997e483cafb</link>
+            <guid>https://fagnerbrack.medium.com/the-strictness-principle-9997e483cafb</guid>
+            <pubDate>Sat, 20 Mar 2021 06:09:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How does the unpacked size affect the minified size of an npm package?]]></title>
+            <link>https://www.npmjs.com/package/@agile-ts/core/v/0.0.12</link>
+            <guid>https://www.npmjs.com/package/@agile-ts/core/v/0.0.12</guid>
+            <pubDate>Sat, 20 Mar 2021 06:00:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Node DNS with DoH]]></title>
             <link>https://www.npmjs.com/package/native-dns</link>
             <guid>https://www.npmjs.com/package/native-dns</guid>
             <pubDate>Fri, 19 Mar 2021 12:05:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Most Popular Databases – 2006/2021]]></title>
-            <link>https://statisticsanddata.org/data/the-most-popular-databases-2006-2021/</link>
-            <guid>https://statisticsanddata.org/data/the-most-popular-databases-2006-2021/</guid>
-            <pubDate>Fri, 19 Mar 2021 10:21:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Javascript News 3rd Week(Mar) – ECMAScript 2021 final set of features, Colourful cheatsheet for AngularJS, React clean code, Non-blocking I/O and how Node uses it - The ArrowFn]]></title>
             <link>https://thearrowfn.com/javascript-news-3rd-weekmar-ecmascript-2021-final-set-of-features-relay-hooks/</link>
             <guid>https://thearrowfn.com/javascript-news-3rd-weekmar-ecmascript-2021-final-set-of-features-relay-hooks/</guid>
             <pubDate>Fri, 19 Mar 2021 05:24:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Most Popular Databases – 2006/2021]]></title>
+            <link>https://statisticsanddata.org/data/the-most-popular-databases-2006-2021/</link>
+            <guid>https://statisticsanddata.org/data/the-most-popular-databases-2006-2021/</guid>
+            <pubDate>Fri, 19 Mar 2021 10:21:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Contributing to Node.js Core]]></title>

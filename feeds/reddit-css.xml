@@ -4,10 +4,16 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Fri, 19 Mar 2021 19:46:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Mar 2021 07:48:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[How do I make the vertical height of cards vary in Materialize CSS?]]></title>
+            <link>https://stackoverflow.com/questions/66714789/how-do-i-make-vertical-height-of-cards-vary-in-materialize-css</link>
+            <guid>https://stackoverflow.com/questions/66714789/how-do-i-make-vertical-height-of-cards-vary-in-materialize-css</guid>
+            <pubDate>Sat, 20 Mar 2021 04:52:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sorted CSS Colors]]></title>
             <link>https://enes.in/sorted-colors/</link>
@@ -85,12 +91,6 @@
             <link>https://www.webtips.dev/how-to-create-skeleton-loaders-in-css</link>
             <guid>https://www.webtips.dev/how-to-create-skeleton-loaders-in-css</guid>
             <pubDate>Wed, 17 Mar 2021 15:32:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Where to delete Menu Tabs?]]></title>
-            <link>https://thegaragekeeper.com/</link>
-            <guid>https://thegaragekeeper.com/</guid>
-            <pubDate>Wed, 17 Mar 2021 19:47:09 GMT</pubDate>
         </item>
     </channel>
 </rss>

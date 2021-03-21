@@ -4,21 +4,33 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sun, 21 Mar 2021 07:48:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Mar 2021 13:08:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Microservices - maybe not - Techblog - Hostmoz]]></title>
-            <link>https://techblog.hostmoz.net/en/microservices-maybe-not/</link>
-            <guid>https://techblog.hostmoz.net/en/microservices-maybe-not/</guid>
-            <pubDate>Sat, 20 Mar 2021 07:15:32 GMT</pubDate>
+            <title><![CDATA[Rate my Javascript portfolio. Quite simple things]]></title>
+            <link>http://www.blackravenstudio.net/javascript/</link>
+            <guid>http://www.blackravenstudio.net/javascript/</guid>
+            <pubDate>Sun, 21 Mar 2021 10:15:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[AskJS] What do you guys feel about boilerplate?]]></title>
             <link>https://github.com/FabienGreard/front-end-rocks-boilerplate</link>
             <guid>https://github.com/FabienGreard/front-end-rocks-boilerplate</guid>
             <pubDate>Sat, 20 Mar 2021 20:49:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Feedback on my portfolio site requested]]></title>
+            <link>https://test3.richey.tech/</link>
+            <guid>https://test3.richey.tech/</guid>
+            <pubDate>Sun, 21 Mar 2021 13:06:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Microservices - maybe not - Techblog - Hostmoz]]></title>
+            <link>https://techblog.hostmoz.net/en/microservices-maybe-not/</link>
+            <guid>https://techblog.hostmoz.net/en/microservices-maybe-not/</guid>
+            <pubDate>Sat, 20 Mar 2021 07:15:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A clock based on Cistercian numerals (with Web Components)]]></title>
@@ -69,16 +81,16 @@
             <pubDate>Fri, 19 Mar 2021 01:01:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Send styled automatic patch notes to your discord server, using GitHub actions and webhooks.]]></title>
-            <link>https://github.com/nhevia/discord-styled-releases</link>
-            <guid>https://github.com/nhevia/discord-styled-releases</guid>
-            <pubDate>Fri, 19 Mar 2021 17:57:19 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Go full-stack in 5min with your first cloud function – compares 3 providers]]></title>
             <link>https://swizec.com/blog/go-full-stack-in-5min-with-your-first-cloud-function</link>
             <guid>https://swizec.com/blog/go-full-stack-in-5min-with-your-first-cloud-function</guid>
             <pubDate>Sat, 20 Mar 2021 14:52:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Send styled automatic patch notes to your discord server, using GitHub actions and webhooks.]]></title>
+            <link>https://github.com/nhevia/discord-styled-releases</link>
+            <guid>https://github.com/nhevia/discord-styled-releases</guid>
+            <pubDate>Fri, 19 Mar 2021 17:57:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Announcing commithelper, a tool to create and lint your commit messages]]></title>
@@ -115,30 +127,6 @@
             <link>https://github.com/PrismarineJS/prismarine-web-client</link>
             <guid>https://github.com/PrismarineJS/prismarine-web-client</guid>
             <pubDate>Thu, 18 Mar 2021 12:28:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How React isn't reactive, and why you shouldn't care]]></title>
-            <link>https://dev.to/ryansolid/how-react-isn-t-reactive-and-why-you-shouldn-t-care-152m</link>
-            <guid>https://dev.to/ryansolid/how-react-isn-t-reactive-and-why-you-shouldn-t-care-152m</guid>
-            <pubDate>Thu, 18 Mar 2021 16:31:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[isoworker - universal multithreading with main-thread dependencies, 6kB]]></title>
-            <link>https://github.com/101arrowz/isoworker</link>
-            <guid>https://github.com/101arrowz/isoworker</guid>
-            <pubDate>Wed, 17 Mar 2021 22:03:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MobX-State-Tree + RxJS = ?]]></title>
-            <link>https://github.com/runjuu/mst-effect</link>
-            <guid>https://github.com/runjuu/mst-effect</guid>
-            <pubDate>Thu, 18 Mar 2021 14:53:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[js-confetti: lightweight zero-config open-source JavaScript library for confetti without any dependencies]]></title>
-            <link>https://github.com/loonywizard/js-confetti</link>
-            <guid>https://github.com/loonywizard/js-confetti</guid>
-            <pubDate>Thu, 18 Mar 2021 16:35:18 GMT</pubDate>
         </item>
     </channel>
 </rss>

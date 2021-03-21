@@ -4,7 +4,7 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Sun, 21 Mar 2021 07:48:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Mar 2021 13:08:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -55,12 +55,6 @@
             <link>https://gist.github.com/brianboyko/e21f9e94691db5a0924e41b94790495a</link>
             <guid>https://gist.github.com/brianboyko/e21f9e94691db5a0924e41b94790495a</guid>
             <pubDate>Fri, 19 Mar 2021 03:55:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mapping TypeScript's Type System to JSON Schema]]></title>
-            <link>https://github.com/sinclairzx81/typebox</link>
-            <guid>https://github.com/sinclairzx81/typebox</guid>
-            <pubDate>Thu, 18 Mar 2021 18:20:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A pastebin-like platform where you can easily paste code and import it as a module in our NPM projects]]></title>

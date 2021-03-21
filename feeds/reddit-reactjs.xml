@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sun, 21 Mar 2021 07:48:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Mar 2021 13:08:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -69,6 +69,12 @@
             <pubDate>Sat, 20 Mar 2021 11:50:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[15+ TailwindCSS Component Libraries that will make your life a bit easier]]></title>
+            <link>https://overcompiled.com/blog/0003-tailwindcss-component-libraries</link>
+            <guid>https://overcompiled.com/blog/0003-tailwindcss-component-libraries</guid>
+            <pubDate>Sat, 20 Mar 2021 15:30:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What is the status of React Server Components?]]></title>
             <link>https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html</link>
             <guid>https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html</guid>
@@ -81,22 +87,10 @@
             <pubDate>Sat, 20 Mar 2021 16:13:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[15+ TailwindCSS Component Libraries that will make your life a bit easier]]></title>
-            <link>https://overcompiled.com/blog/0003-tailwindcss-component-libraries</link>
-            <guid>https://overcompiled.com/blog/0003-tailwindcss-component-libraries</guid>
-            <pubDate>Sat, 20 Mar 2021 15:30:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Toast-ui in react]]></title>
             <link>https://github.com/nhn/toast-ui.react-image-editor</link>
             <guid>https://github.com/nhn/toast-ui.react-image-editor</guid>
             <pubDate>Sat, 20 Mar 2021 15:30:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Framer Motion `easeIn` transition not working on `exit` on a Modal?]]></title>
-            <link>https://codesandbox.io/s/framer-motion-modal-animation-z3ev5?file=/src/Modal.tsx</link>
-            <guid>https://codesandbox.io/s/framer-motion-modal-animation-z3ev5?file=/src/Modal.tsx</guid>
-            <pubDate>Sat, 20 Mar 2021 14:28:50 GMT</pubDate>
         </item>
     </channel>
 </rss>

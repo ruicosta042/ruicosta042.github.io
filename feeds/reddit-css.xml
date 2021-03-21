@@ -4,10 +4,22 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Sun, 21 Mar 2021 07:48:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Mar 2021 13:08:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[How to overlay something on top of a YouTube video?]]></title>
+            <link>https://stackoverflow.com/questions/10422105/add-text-above-html5-video</link>
+            <guid>https://stackoverflow.com/questions/10422105/add-text-above-html5-video</guid>
+            <pubDate>Sun, 21 Mar 2021 09:58:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Left side sticky and right side fixed?]]></title>
+            <link>https://cuberto.com/</link>
+            <guid>https://cuberto.com/</guid>
+            <pubDate>Sun, 21 Mar 2021 08:28:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[CSS framework documentation]]></title>
             <link>https://taniarascia.github.io/primitive/</link>
@@ -55,18 +67,6 @@
             <link>https://gyazo.com/2ca87d1748ad0d79acf08f2e21eb4e4f</link>
             <guid>https://gyazo.com/2ca87d1748ad0d79acf08f2e21eb4e4f</guid>
             <pubDate>Thu, 18 Mar 2021 18:46:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How To Use Aspect-Ratio CSS Property In Responsive Web Designs?]]></title>
-            <link>https://www.lambdatest.com/blog/how-to-use-aspect-ratio-css-property/?utm_source=Reddit&amp;utm_medium=blog&amp;utm_campaign=PM-180221-1&amp;utm_term=OrganicPosting</link>
-            <guid>https://www.lambdatest.com/blog/how-to-use-aspect-ratio-css-property/?utm_source=Reddit&amp;utm_medium=blog&amp;utm_campaign=PM-180221-1&amp;utm_term=OrganicPosting</guid>
-            <pubDate>Thu, 18 Mar 2021 07:13:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[All about micro interactions by Thatcher Snyder]]></title>
-            <link>https://www.parthean.com/blog/lets-talk-about-microinteractions</link>
-            <guid>https://www.parthean.com/blog/lets-talk-about-microinteractions</guid>
-            <pubDate>Wed, 17 Mar 2021 20:03:01 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Sun, 21 Mar 2021 13:08:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Mar 2021 19:50:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,12 @@
             <link>https://stackoverflow.com/questions/10422105/add-text-above-html5-video</link>
             <guid>https://stackoverflow.com/questions/10422105/add-text-above-html5-video</guid>
             <pubDate>Sun, 21 Mar 2021 09:58:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to restrict height of image in my Woocommerce product page]]></title>
+            <link>https://chrisgin.com/product/bennetts-bluff-views/</link>
+            <guid>https://chrisgin.com/product/bennetts-bluff-views/</guid>
+            <pubDate>Sun, 21 Mar 2021 19:24:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Left side sticky and right side fixed?]]></title>
@@ -61,12 +67,6 @@
             <link>https://pqina.nl/blog/drawing-decorative-lines-with-css/</link>
             <guid>https://pqina.nl/blog/drawing-decorative-lines-with-css/</guid>
             <pubDate>Thu, 18 Mar 2021 12:14:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Particles.js is not aligning with the cursor properly?]]></title>
-            <link>https://gyazo.com/2ca87d1748ad0d79acf08f2e21eb4e4f</link>
-            <guid>https://gyazo.com/2ca87d1748ad0d79acf08f2e21eb4e4f</guid>
-            <pubDate>Thu, 18 Mar 2021 18:46:43 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,16 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Sun, 21 Mar 2021 13:08:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Mar 2021 19:50:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Observer Design Pattern Implementation in Typescript]]></title>
+            <link>https://levelup.gitconnected.com/observer-design-pattern-implementation-in-typescript-332477ee5b30</link>
+            <guid>https://levelup.gitconnected.com/observer-design-pattern-implementation-in-typescript-332477ee5b30</guid>
+            <pubDate>Sun, 21 Mar 2021 18:59:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Node + SQL + JWT + TypeScript Starter Template]]></title>
             <link>https://codewithwolf.com/how-to-use-jwt-with-node-express-sqlite-and-typescript</link>

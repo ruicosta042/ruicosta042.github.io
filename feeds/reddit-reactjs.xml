@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sun, 21 Mar 2021 13:08:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Mar 2021 19:50:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,40 @@
             <pubDate>Mon, 01 Mar 2021 15:56:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[I wrote a guide to help you deploy a React app automatically with GitHub Actions, Docker, and Heroku]]></title>
+            <link>https://halftheopposite.dev/post/app-yarn-typescript-esbuild-part-going-further</link>
+            <guid>https://halftheopposite.dev/post/app-yarn-typescript-esbuild-part-going-further</guid>
+            <pubDate>Sun, 21 Mar 2021 15:50:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I finally made my first web application front-to-back using ReactJS as my frontend tech!]]></title>
+            <link>https://www.parcelfriends.com/</link>
+            <guid>https://www.parcelfriends.com/</guid>
+            <pubDate>Sun, 21 Mar 2021 15:28:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I wrote a headless calendar hook, maybe someone else will find it useful.]]></title>
             <link>https://date-fns.org/</link>
             <guid>https://date-fns.org/</guid>
             <pubDate>Sun, 21 Mar 2021 02:57:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Created an article explaining how i am fetching and displaying data from Garmin Connect with Strapi and NextJS.]]></title>
+            <link>https://mxd.codes/articles/fetching-and-storing-activities-from-garmin-connect-with-strapi-and-visualizing-them-with-next-js</link>
+            <guid>https://mxd.codes/articles/fetching-and-storing-activities-from-garmin-connect-with-strapi-and-visualizing-them-with-next-js</guid>
+            <pubDate>Sun, 21 Mar 2021 18:41:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Looking for a bit of help, new to Reactjs]]></title>
+            <link>https://stackoverflow.com/questions/66727457/error-maximum-update-depth-exceeded-this-can-happen-when-a-component-repeatedl</link>
+            <guid>https://stackoverflow.com/questions/66727457/error-maximum-update-depth-exceeded-this-can-happen-when-a-component-repeatedl</guid>
+            <pubDate>Sun, 21 Mar 2021 14:56:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[react gifs tool]]></title>
+            <link>https://github.com/jeetiss/react-gifs</link>
+            <guid>https://github.com/jeetiss/react-gifs</guid>
+            <pubDate>Sun, 21 Mar 2021 13:44:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I made a sorting visualizer where you can edit the algorithms]]></title>
@@ -73,24 +103,6 @@
             <link>https://overcompiled.com/blog/0003-tailwindcss-component-libraries</link>
             <guid>https://overcompiled.com/blog/0003-tailwindcss-component-libraries</guid>
             <pubDate>Sat, 20 Mar 2021 15:30:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is the status of React Server Components?]]></title>
-            <link>https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html</link>
-            <guid>https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html</guid>
-            <pubDate>Sat, 20 Mar 2021 10:42:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[FamilyRecipe] This is my first reactjs app, let me know what you think]]></title>
-            <link>https://gyazo.com/2171a4509d27396c1ee089e6234b4734</link>
-            <guid>https://gyazo.com/2171a4509d27396c1ee089e6234b4734</guid>
-            <pubDate>Sat, 20 Mar 2021 16:13:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Toast-ui in react]]></title>
-            <link>https://github.com/nhn/toast-ui.react-image-editor</link>
-            <guid>https://github.com/nhn/toast-ui.react-image-editor</guid>
-            <pubDate>Sat, 20 Mar 2021 15:30:38 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Sat, 20 Mar 2021 19:45:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Mar 2021 07:48:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -67,24 +67,6 @@
             <link>https://www.parthean.com/blog/lets-talk-about-microinteractions</link>
             <guid>https://www.parthean.com/blog/lets-talk-about-microinteractions</guid>
             <pubDate>Wed, 17 Mar 2021 20:03:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[12 Creative Footer Design Examples]]></title>
-            <link>https://www.codingflicks.com/2021/03/12-creative-footer-css-html-design-examples.html</link>
-            <guid>https://www.codingflicks.com/2021/03/12-creative-footer-css-html-design-examples.html</guid>
-            <pubDate>Thu, 18 Mar 2021 07:37:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I Recreated a Bootstrap Website with Tailwind CSS, And Here Are The Differences]]></title>
-            <link>https://blog.shahednasser.com/i-recreated-a-bootstrap-website-with-tailwindcss/</link>
-            <guid>https://blog.shahednasser.com/i-recreated-a-bootstrap-website-with-tailwindcss/</guid>
-            <pubDate>Thu, 18 Mar 2021 09:17:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CSS Generators]]></title>
-            <link>https://www.smashingmagazine.com/2021/03/css-generators/</link>
-            <guid>https://www.smashingmagazine.com/2021/03/css-generators/</guid>
-            <pubDate>Wed, 17 Mar 2021 10:05:21 GMT</pubDate>
         </item>
     </channel>
 </rss>

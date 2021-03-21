@@ -4,21 +4,39 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Sat, 20 Mar 2021 19:46:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Mar 2021 07:48:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[The Strictness Principle - Restrict the scope by default. Increase the scope as the need arises.]]></title>
-            <link>https://fagnerbrack.medium.com/the-strictness-principle-9997e483cafb</link>
-            <guid>https://fagnerbrack.medium.com/the-strictness-principle-9997e483cafb</guid>
-            <pubDate>Sat, 20 Mar 2021 06:09:23 GMT</pubDate>
+            <title><![CDATA[Node + SQL + JWT + TypeScript Starter Template]]></title>
+            <link>https://codewithwolf.com/how-to-use-jwt-with-node-express-sqlite-and-typescript</link>
+            <guid>https://codewithwolf.com/how-to-use-jwt-with-node-express-sqlite-and-typescript</guid>
+            <pubDate>Sat, 20 Mar 2021 22:02:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A template for p5 + TypeScript projects]]></title>
+            <link>https://github.com/game-ioio/p5-typescript-template</link>
+            <guid>https://github.com/game-ioio/p5-typescript-template</guid>
+            <pubDate>Sun, 21 Mar 2021 07:30:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NAPI wrap question]]></title>
+            <link>https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/C/info/intrdctn.html</link>
+            <guid>https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/C/info/intrdctn.html</guid>
+            <pubDate>Sun, 21 Mar 2021 06:38:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Simple Twitter Bot with Node.js Tutorial Part 3: Search and Retweet]]></title>
             <link>https://blog.shahednasser.com/simple-twitter-bot-tutorial-part-3-search-and-retweet/</link>
             <guid>https://blog.shahednasser.com/simple-twitter-bot-tutorial-part-3-search-and-retweet/</guid>
             <pubDate>Sat, 20 Mar 2021 14:13:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Strictness Principle - Restrict the scope by default. Increase the scope as the need arises.]]></title>
+            <link>https://fagnerbrack.medium.com/the-strictness-principle-9997e483cafb</link>
+            <guid>https://fagnerbrack.medium.com/the-strictness-principle-9997e483cafb</guid>
+            <pubDate>Sat, 20 Mar 2021 06:09:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A pastebin-like platform where you can easily paste code and import it as a module in our NPM projects]]></title>
@@ -43,12 +61,6 @@
             <link>https://www.npmjs.com/package/@agile-ts/core/v/0.0.12</link>
             <guid>https://www.npmjs.com/package/@agile-ts/core/v/0.0.12</guid>
             <pubDate>Sat, 20 Mar 2021 06:00:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Node DNS with DoH]]></title>
-            <link>https://www.npmjs.com/package/native-dns</link>
-            <guid>https://www.npmjs.com/package/native-dns</guid>
-            <pubDate>Fri, 19 Mar 2021 12:05:46 GMT</pubDate>
         </item>
     </channel>
 </rss>

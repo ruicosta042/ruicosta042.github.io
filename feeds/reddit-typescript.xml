@@ -4,10 +4,16 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Sat, 20 Mar 2021 19:46:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Mar 2021 07:48:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Node + SQL + JWT + TypeScript Starter Template]]></title>
+            <link>https://codewithwolf.com/how-to-use-jwt-with-node-express-sqlite-and-typescript</link>
+            <guid>https://codewithwolf.com/how-to-use-jwt-with-node-express-sqlite-and-typescript</guid>
+            <pubDate>Sat, 20 Mar 2021 22:03:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How do I define and use a custom global variable inside of global? (Node)]]></title>
             <link>https://stackoverflow.com/questions/41717006/node-js-global-variable-and-typescript</link>

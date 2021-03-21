@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sat, 20 Mar 2021 19:45:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Mar 2021 07:48:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,34 @@
             <pubDate>Sat, 20 Mar 2021 07:15:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Integrating Design Tokens With Tailwind]]></title>
-            <link>https://www.michaelmang.dev/blog/integrating-design-tokens-with-tailwind</link>
-            <guid>https://www.michaelmang.dev/blog/integrating-design-tokens-with-tailwind</guid>
-            <pubDate>Sat, 20 Mar 2021 16:15:20 GMT</pubDate>
+            <title><![CDATA[[AskJS] What do you guys feel about boilerplate?]]></title>
+            <link>https://github.com/FabienGreard/front-end-rocks-boilerplate</link>
+            <guid>https://github.com/FabienGreard/front-end-rocks-boilerplate</guid>
+            <pubDate>Sat, 20 Mar 2021 20:49:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A clock based on Cistercian numerals (with Web Components)]]></title>
+            <link>https://www.hsablonniere.com/a-clock-based-on-cistercian-numerals--hptit8/</link>
+            <guid>https://www.hsablonniere.com/a-clock-based-on-cistercian-numerals--hptit8/</guid>
+            <pubDate>Sat, 20 Mar 2021 14:43:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Strictness Principle - Restrict the scope by default. Increase the scope as the need arises.]]></title>
+            <link>https://fagnerbrack.medium.com/the-strictness-principle-9997e483cafb</link>
+            <guid>https://fagnerbrack.medium.com/the-strictness-principle-9997e483cafb</guid>
+            <pubDate>Sat, 20 Mar 2021 21:05:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Perfect combo Next & Redux-Saga]]></title>
+            <link>https://romandatsiuk.com/en/blog/post-next-redux-saga/</link>
+            <guid>https://romandatsiuk.com/en/blog/post-next-redux-saga/</guid>
+            <pubDate>Sat, 20 Mar 2021 20:56:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Checkout Upstash: It is the perfect database for the serverless applications thanks to its per-request pricing.]]></title>
+            <link>https://javascript.plainenglish.io/introduction-to-redis-and-caching-with-node-js-using-upstash-88efbe39eea2</link>
+            <guid>https://javascript.plainenglish.io/introduction-to-redis-and-caching-with-node-js-using-upstash-88efbe39eea2</guid>
+            <pubDate>Sun, 21 Mar 2021 06:39:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[‎Advance JS, HTML & CSS Editor, in your pocket ! - JSitor]]></title>
@@ -27,10 +51,10 @@
             <pubDate>Sat, 20 Mar 2021 04:18:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A clock based on Cistercian numerals (with Web Components)]]></title>
-            <link>https://www.hsablonniere.com/a-clock-based-on-cistercian-numerals--hptit8/</link>
-            <guid>https://www.hsablonniere.com/a-clock-based-on-cistercian-numerals--hptit8/</guid>
-            <pubDate>Sat, 20 Mar 2021 14:43:34 GMT</pubDate>
+            <title><![CDATA[Integrating Design Tokens With Tailwind]]></title>
+            <link>https://www.michaelmang.dev/blog/integrating-design-tokens-with-tailwind</link>
+            <guid>https://www.michaelmang.dev/blog/integrating-design-tokens-with-tailwind</guid>
+            <pubDate>Sat, 20 Mar 2021 16:15:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[dev.to] How to create beautiful confetti animations with tsParticles (Vanilla, React, Angular and Vue)]]></title>
@@ -45,16 +69,16 @@
             <pubDate>Fri, 19 Mar 2021 01:01:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Go full-stack in 5min with your first cloud function – compares 3 providers]]></title>
-            <link>https://swizec.com/blog/go-full-stack-in-5min-with-your-first-cloud-function</link>
-            <guid>https://swizec.com/blog/go-full-stack-in-5min-with-your-first-cloud-function</guid>
-            <pubDate>Sat, 20 Mar 2021 14:52:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Send styled automatic patch notes to your discord server, using GitHub actions and webhooks.]]></title>
             <link>https://github.com/nhevia/discord-styled-releases</link>
             <guid>https://github.com/nhevia/discord-styled-releases</guid>
             <pubDate>Fri, 19 Mar 2021 17:57:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Go full-stack in 5min with your first cloud function – compares 3 providers]]></title>
+            <link>https://swizec.com/blog/go-full-stack-in-5min-with-your-first-cloud-function</link>
+            <guid>https://swizec.com/blog/go-full-stack-in-5min-with-your-first-cloud-function</guid>
+            <pubDate>Sat, 20 Mar 2021 14:52:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Announcing commithelper, a tool to create and lint your commit messages]]></title>
@@ -75,16 +99,16 @@
             <pubDate>Thu, 18 Mar 2021 12:32:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Documenting Design Tokens With Docusaurus (Adding Visuals To Your Style Dictionary)]]></title>
-            <link>https://www.michaelmang.dev/blog/documenting-design-tokens-with-docusaurus</link>
-            <guid>https://www.michaelmang.dev/blog/documenting-design-tokens-with-docusaurus</guid>
-            <pubDate>Fri, 19 Mar 2021 07:05:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Create animated navigation indicator with HTML, CSS, and JS]]></title>
             <link>https://codeadrian.hashnode.dev/create-animated-navigation-indicator-with-html-css-and-js</link>
             <guid>https://codeadrian.hashnode.dev/create-animated-navigation-indicator-with-html-css-and-js</guid>
             <pubDate>Fri, 19 Mar 2021 08:22:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Documenting Design Tokens With Docusaurus (Adding Visuals To Your Style Dictionary)]]></title>
+            <link>https://www.michaelmang.dev/blog/documenting-design-tokens-with-docusaurus</link>
+            <guid>https://www.michaelmang.dev/blog/documenting-design-tokens-with-docusaurus</guid>
+            <pubDate>Fri, 19 Mar 2021 07:05:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[prismarine-web-client : A minecraft client in the browser built from PrismarineJS modules]]></title>
@@ -115,30 +139,6 @@
             <link>https://github.com/loonywizard/js-confetti</link>
             <guid>https://github.com/loonywizard/js-confetti</guid>
             <pubDate>Thu, 18 Mar 2021 16:35:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[V8 release v9.0]]></title>
-            <link>https://v8.dev/blog/v8-release-90</link>
-            <guid>https://v8.dev/blog/v8-release-90</guid>
-            <pubDate>Wed, 17 Mar 2021 16:45:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Creating a Github profile search component in htmx]]></title>
-            <link>https://dev.to/rajasegar/creating-a-github-profile-search-component-in-htmx-1pl5</link>
-            <guid>https://dev.to/rajasegar/creating-a-github-profile-search-component-in-htmx-1pl5</guid>
-            <pubDate>Thu, 18 Mar 2021 06:36:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Storybook for Svelte revamped]]></title>
-            <link>https://storybook.js.org/blog/storybook-for-svelte/</link>
-            <guid>https://storybook.js.org/blog/storybook-for-svelte/</guid>
-            <pubDate>Wed, 17 Mar 2021 17:16:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Exporting Design Tokens From Figma With Style Dictionary (Automating the Handoff From Designers to Platforms)]]></title>
-            <link>https://www.michaelmang.dev/blog/exporting-design-tokens-from-figma-with-style-dictionary</link>
-            <guid>https://www.michaelmang.dev/blog/exporting-design-tokens-from-figma-with-style-dictionary</guid>
-            <pubDate>Wed, 17 Mar 2021 16:01:25 GMT</pubDate>
         </item>
     </channel>
 </rss>

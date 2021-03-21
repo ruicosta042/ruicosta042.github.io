@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sat, 20 Mar 2021 19:46:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Mar 2021 07:48:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,22 @@
             <pubDate>Mon, 01 Mar 2021 15:56:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[I wrote a headless calendar hook, maybe someone else will find it useful.]]></title>
+            <link>https://date-fns.org/</link>
+            <guid>https://date-fns.org/</guid>
+            <pubDate>Sun, 21 Mar 2021 02:57:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I made a sorting visualizer where you can edit the algorithms]]></title>
             <link>https://github.com/stoicaandrei/sorting-visualizer</link>
             <guid>https://github.com/stoicaandrei/sorting-visualizer</guid>
             <pubDate>Sat, 20 Mar 2021 06:59:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🆕 Setting up Namecheap domain in Vercel]]></title>
+            <link>https://jorgearuv.dev/setting-up-namecheap-domain-in-vercel</link>
+            <guid>https://jorgearuv.dev/setting-up-namecheap-domain-in-vercel</guid>
+            <pubDate>Sun, 21 Mar 2021 05:31:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Design a VS Code dashboard with your own React components]]></title>
@@ -27,10 +39,34 @@
             <pubDate>Sat, 20 Mar 2021 13:24:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[What is this.$container?]]></title>
+            <link>https://www.npmjs.com/package/react-smooth-scrollbar#get-scrollbar-instance</link>
+            <guid>https://www.npmjs.com/package/react-smooth-scrollbar#get-scrollbar-instance</guid>
+            <pubDate>Sun, 21 Mar 2021 04:33:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to achieve within React the shopify feature that business users can add their own paypal business accounts and private users can pay within the react site to the paypal account of the restaurants? basically the same that shopify has]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Sat, 20 Mar 2021 20:57:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[async updates of react website]]></title>
+            <link>https://socket.io/</link>
+            <guid>https://socket.io/</guid>
+            <pubDate>Sat, 20 Mar 2021 19:46:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I wrote an article about the different types of State we manage in React.js applications]]></title>
             <link>https://bobbyhadz.com/blog/react-state-types</link>
             <guid>https://bobbyhadz.com/blog/react-state-types</guid>
             <pubDate>Sat, 20 Mar 2021 14:21:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Compiled CSS-in-JS | Extract styles from your app & NPM now available]]></title>
+            <link>https://twitter.com/compiledcss/status/1373125637762772996</link>
+            <guid>https://twitter.com/compiledcss/status/1373125637762772996</guid>
+            <pubDate>Sat, 20 Mar 2021 11:50:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What is the status of React Server Components?]]></title>
@@ -43,12 +79,6 @@
             <link>https://gyazo.com/2171a4509d27396c1ee089e6234b4734</link>
             <guid>https://gyazo.com/2171a4509d27396c1ee089e6234b4734</guid>
             <pubDate>Sat, 20 Mar 2021 16:13:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Compiled CSS-in-JS | Extract styles from your app & NPM now available]]></title>
-            <link>https://twitter.com/compiledcss/status/1373125637762772996</link>
-            <guid>https://twitter.com/compiledcss/status/1373125637762772996</guid>
-            <pubDate>Sat, 20 Mar 2021 11:50:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[15+ TailwindCSS Component Libraries that will make your life a bit easier]]></title>
@@ -67,42 +97,6 @@
             <link>https://codesandbox.io/s/framer-motion-modal-animation-z3ev5?file=/src/Modal.tsx</link>
             <guid>https://codesandbox.io/s/framer-motion-modal-animation-z3ev5?file=/src/Modal.tsx</guid>
             <pubDate>Sat, 20 Mar 2021 14:28:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beginner Questions about React Testing Library]]></title>
-            <link>https://unicorn-escape.surge.sh/</link>
-            <guid>https://unicorn-escape.surge.sh/</guid>
-            <pubDate>Sat, 20 Mar 2021 10:25:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I wrote an article talking about my experiences creating a Netflix clone using microfrontends]]></title>
-            <link>https://dev.to/dantederuwe/my-experiences-creating-a-netflix-clone-using-microfrontends-1n46</link>
-            <guid>https://dev.to/dantederuwe/my-experiences-creating-a-netflix-clone-using-microfrontends-1n46</guid>
-            <pubDate>Fri, 19 Mar 2021 08:00:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React Lazy Loading Component with Lazy and Suspense]]></title>
-            <link>https://webomnizz.com/react-lazy-loading-component-with-lazy-and-suspense/</link>
-            <guid>https://webomnizz.com/react-lazy-loading-component-with-lazy-and-suspense/</guid>
-            <pubDate>Fri, 19 Mar 2021 19:52:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React Hook Form - What's the point of setValue if it doesn't do validation?]]></title>
-            <link>https://react-hook-form.com/faqs/#Whatifyoudonthaveaccesstoref</link>
-            <guid>https://react-hook-form.com/faqs/#Whatifyoudonthaveaccesstoref</guid>
-            <pubDate>Sat, 20 Mar 2021 08:48:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Heroku Deployment 404 Error]]></title>
-            <link>https://piedev.herokuapp.com/</link>
-            <guid>https://piedev.herokuapp.com/</guid>
-            <pubDate>Sat, 20 Mar 2021 12:16:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How I built a small React app to automatically invite collaborators to a private repo 👌]]></title>
-            <link>https://dev.to/alexgurr/how-i-built-a-small-react-app-to-automatically-invite-collaborators-to-a-private-repo-28f3</link>
-            <guid>https://dev.to/alexgurr/how-i-built-a-small-react-app-to-automatically-invite-collaborators-to-a-private-repo-28f3</guid>
-            <pubDate>Sat, 20 Mar 2021 07:53:46 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,15 +4,39 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sun, 21 Mar 2021 19:50:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Mar 2021 07:53:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Web based multi-screen apps including drag & drop]]></title>
+            <link>https://tobiasuhlig.medium.com/web-based-multi-screen-apps-including-drag-drop-5e161da6507b?source=friends_link&amp;sk=3c53f7b9cf882a93fb2929c726bd7721</link>
+            <guid>https://tobiasuhlig.medium.com/web-based-multi-screen-apps-including-drag-drop-5e161da6507b?source=friends_link&amp;sk=3c53f7b9cf882a93fb2929c726bd7721</guid>
+            <pubDate>Mon, 22 Mar 2021 07:20:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Switching from WordPress to GatsbyJS]]></title>
             <link>https://thewooleyway.substack.com/p/switching-from-wordpress-to-gatsbyjs</link>
             <guid>https://thewooleyway.substack.com/p/switching-from-wordpress-to-gatsbyjs</guid>
             <pubDate>Sun, 21 Mar 2021 18:05:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Modeling and Reasoning about DOM Events - capturing, bubbling, and reactiveness]]></title>
+            <link>https://world.cs.brown.edu/~sk/Publications/Papers/Published/lckqk-model-reason-dom-events/paper.pdf</link>
+            <guid>https://world.cs.brown.edu/~sk/Publications/Papers/Published/lckqk-model-reason-dom-events/paper.pdf</guid>
+            <pubDate>Sun, 21 Mar 2021 21:05:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cursed Argument Parsing]]></title>
+            <link>https://evan-brass.medium.com/the-most-cursed-javascript-d891e15ab532?sk=5c09884af48f499badce2e97ef46a970</link>
+            <guid>https://evan-brass.medium.com/the-most-cursed-javascript-d891e15ab532?sk=5c09884af48f499badce2e97ef46a970</guid>
+            <pubDate>Sun, 21 Mar 2021 21:31:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My first blog - 5 things to include in your project ASAP]]></title>
+            <link>https://dev.to/lbragile/5-things-to-include-in-your-project-asap-2447</link>
+            <guid>https://dev.to/lbragile/5-things-to-include-in-your-project-asap-2447</guid>
+            <pubDate>Mon, 22 Mar 2021 01:04:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[AskJS] What do you guys feel about boilerplate?]]></title>
@@ -109,36 +133,6 @@
             <link>https://www.michaelmang.dev/blog/documenting-design-tokens-with-docusaurus</link>
             <guid>https://www.michaelmang.dev/blog/documenting-design-tokens-with-docusaurus</guid>
             <pubDate>Fri, 19 Mar 2021 07:05:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[prismarine-web-client : A minecraft client in the browser built from PrismarineJS modules]]></title>
-            <link>https://github.com/PrismarineJS/prismarine-web-client</link>
-            <guid>https://github.com/PrismarineJS/prismarine-web-client</guid>
-            <pubDate>Thu, 18 Mar 2021 12:28:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How React isn't reactive, and why you shouldn't care]]></title>
-            <link>https://dev.to/ryansolid/how-react-isn-t-reactive-and-why-you-shouldn-t-care-152m</link>
-            <guid>https://dev.to/ryansolid/how-react-isn-t-reactive-and-why-you-shouldn-t-care-152m</guid>
-            <pubDate>Thu, 18 Mar 2021 16:31:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[isoworker - universal multithreading with main-thread dependencies, 6kB]]></title>
-            <link>https://github.com/101arrowz/isoworker</link>
-            <guid>https://github.com/101arrowz/isoworker</guid>
-            <pubDate>Wed, 17 Mar 2021 22:03:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MobX-State-Tree + RxJS = ?]]></title>
-            <link>https://github.com/runjuu/mst-effect</link>
-            <guid>https://github.com/runjuu/mst-effect</guid>
-            <pubDate>Thu, 18 Mar 2021 14:53:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[js-confetti: lightweight zero-config open-source JavaScript library for confetti without any dependencies]]></title>
-            <link>https://github.com/loonywizard/js-confetti</link>
-            <guid>https://github.com/loonywizard/js-confetti</guid>
-            <pubDate>Thu, 18 Mar 2021 16:35:18 GMT</pubDate>
         </item>
     </channel>
 </rss>

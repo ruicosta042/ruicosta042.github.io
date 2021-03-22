@@ -4,15 +4,45 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Sun, 21 Mar 2021 19:50:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Mar 2021 07:53:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Neon Enables Embedding Rust Code in Node.js Apps]]></title>
+            <link>https://www.infoq.com/news/2020/10/neon-node-rust-modules/</link>
+            <guid>https://www.infoq.com/news/2020/10/neon-node-rust-modules/</guid>
+            <pubDate>Mon, 22 Mar 2021 06:56:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Angular, JavaScript, CSS, Html, NodeJS quick overview...]]></title>
+            <link>https://www.tutorialslogic.com/angular?ng.12</link>
+            <guid>https://www.tutorialslogic.com/angular?ng.12</guid>
+            <pubDate>Mon, 22 Mar 2021 04:57:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Google OAuth2.0 Authentication — using Node JS and PassportJS]]></title>
             <link>https://medium.com/nerd-for-tech/google-oauth2-0-authentication-using-node-js-and-passportjs-1a77f42b1111</link>
             <guid>https://medium.com/nerd-for-tech/google-oauth2-0-authentication-using-node-js-and-passportjs-1a77f42b1111</guid>
             <pubDate>Sun, 21 Mar 2021 17:48:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[can't stop cron job using node-cron]]></title>
+            <link>https://stackoverflow.com/a/53684854/15088319</link>
+            <guid>https://stackoverflow.com/a/53684854/15088319</guid>
+            <pubDate>Mon, 22 Mar 2021 04:23:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Problem with Graphicsmagick (pdf2pic) in node]]></title>
+            <link>https://www.npmjs.com/package/pdf2pic</link>
+            <guid>https://www.npmjs.com/package/pdf2pic</guid>
+            <pubDate>Sun, 21 Mar 2021 18:59:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Passport.js is still recommended for user authentication ?]]></title>
+            <link>https://github.com/jaredhanson/passport</link>
+            <guid>https://github.com/jaredhanson/passport</guid>
+            <pubDate>Sun, 21 Mar 2021 20:49:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Node + SQL + JWT + TypeScript Starter Template]]></title>
@@ -21,16 +51,10 @@
             <pubDate>Sat, 20 Mar 2021 22:02:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Node app not working after deployment to heroku but works perfectly on local machine]]></title>
-            <link>https://github.com/RyanNicoletti/trello-clone-api</link>
-            <guid>https://github.com/RyanNicoletti/trello-clone-api</guid>
-            <pubDate>Sun, 21 Mar 2021 14:00:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Problem with Graphicsmagick (pdf2pic) in node]]></title>
-            <link>https://www.npmjs.com/package/pdf2pic</link>
-            <guid>https://www.npmjs.com/package/pdf2pic</guid>
-            <pubDate>Sun, 21 Mar 2021 18:59:44 GMT</pubDate>
+            <title><![CDATA[Dockerize your node app for local development]]></title>
+            <link>https://twitter.com/alamhash</link>
+            <guid>https://twitter.com/alamhash</guid>
+            <pubDate>Sun, 21 Mar 2021 20:46:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NAPI wrap question]]></title>
@@ -43,18 +67,6 @@
             <link>https://github.com/game-ioio/p5-typescript-template</link>
             <guid>https://github.com/game-ioio/p5-typescript-template</guid>
             <pubDate>Sun, 21 Mar 2021 07:30:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Simple Twitter Bot with Node.js Tutorial Part 3: Search and Retweet]]></title>
-            <link>https://blog.shahednasser.com/simple-twitter-bot-tutorial-part-3-search-and-retweet/</link>
-            <guid>https://blog.shahednasser.com/simple-twitter-bot-tutorial-part-3-search-and-retweet/</guid>
-            <pubDate>Sat, 20 Mar 2021 14:13:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Strictness Principle - Restrict the scope by default. Increase the scope as the need arises.]]></title>
-            <link>https://fagnerbrack.medium.com/the-strictness-principle-9997e483cafb</link>
-            <guid>https://fagnerbrack.medium.com/the-strictness-principle-9997e483cafb</guid>
-            <pubDate>Sat, 20 Mar 2021 06:09:23 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,22 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Sun, 21 Mar 2021 19:50:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Mar 2021 07:53:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Creative Image Hover Animation]]></title>
+            <link>https://www.codingflicks.com/2021/03/nice-image-hover-overlay-effect.html</link>
+            <guid>https://www.codingflicks.com/2021/03/nice-image-hover-overlay-effect.html</guid>
+            <pubDate>Mon, 22 Mar 2021 03:39:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to restrict height of image in my Woocommerce product page]]></title>
+            <link>https://chrisgin.com/product/bennetts-bluff-views/</link>
+            <guid>https://chrisgin.com/product/bennetts-bluff-views/</guid>
+            <pubDate>Sun, 21 Mar 2021 19:24:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to overlay something on top of a YouTube video?]]></title>
             <link>https://stackoverflow.com/questions/10422105/add-text-above-html5-video</link>
@@ -15,10 +27,16 @@
             <pubDate>Sun, 21 Mar 2021 09:58:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to restrict height of image in my Woocommerce product page]]></title>
-            <link>https://chrisgin.com/product/bennetts-bluff-views/</link>
-            <guid>https://chrisgin.com/product/bennetts-bluff-views/</guid>
-            <pubDate>Sun, 21 Mar 2021 19:24:46 GMT</pubDate>
+            <title><![CDATA[How do I do this?]]></title>
+            <link>https://vimeo.com/519144567</link>
+            <guid>https://vimeo.com/519144567</guid>
+            <pubDate>Sun, 21 Mar 2021 20:03:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yes, here’s the best CSS framework in 2021]]></title>
+            <link>https://medium.com/arieldi/yes-heres-the-best-css-framework-in-2021-2c9eb2ced678?source=friends_link&amp;sk=7bfcc5e13ecc44c981c9d2895bbb461a</link>
+            <guid>https://medium.com/arieldi/yes-heres-the-best-css-framework-in-2021-2c9eb2ced678?source=friends_link&amp;sk=7bfcc5e13ecc44c981c9d2895bbb461a</guid>
+            <pubDate>Sun, 21 Mar 2021 22:18:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Left side sticky and right side fixed?]]></title>
@@ -49,24 +67,6 @@
             <link>https://css-auditors.com/reports/bundesliga-2021-03/</link>
             <guid>https://css-auditors.com/reports/bundesliga-2021-03/</guid>
             <pubDate>Fri, 19 Mar 2021 18:44:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Issue with grid. Can anybody help?]]></title>
-            <link>http://www.vseppe.gc-m.be/Gip/index.html</link>
-            <guid>http://www.vseppe.gc-m.be/Gip/index.html</guid>
-            <pubDate>Fri, 19 Mar 2021 10:37:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Did You Know About the :has CSS Selector?]]></title>
-            <link>https://css-tricks.com/did-you-know-about-the-has-css-selector/</link>
-            <guid>https://css-tricks.com/did-you-know-about-the-has-css-selector/</guid>
-            <pubDate>Thu, 18 Mar 2021 11:23:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Drawing Decorative Lines with CSS]]></title>
-            <link>https://pqina.nl/blog/drawing-decorative-lines-with-css/</link>
-            <guid>https://pqina.nl/blog/drawing-decorative-lines-with-css/</guid>
-            <pubDate>Thu, 18 Mar 2021 12:14:25 GMT</pubDate>
         </item>
     </channel>
 </rss>

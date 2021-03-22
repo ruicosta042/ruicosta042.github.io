@@ -4,7 +4,7 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Sun, 21 Mar 2021 19:50:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Mar 2021 07:53:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -73,12 +73,6 @@
             <link>https://gist.github.com/tvler/45a471f9ca1255734d8066551f84f604</link>
             <guid>https://gist.github.com/tvler/45a471f9ca1255734d8066551f84f604</guid>
             <pubDate>Wed, 17 Mar 2021 15:08:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Supercharge your GraphQL APIs GraphQL-Utils.]]></title>
-            <link>https://jenyus-org.github.io/graphql-utils/</link>
-            <guid>https://jenyus-org.github.io/graphql-utils/</guid>
-            <pubDate>Tue, 16 Mar 2021 22:38:13 GMT</pubDate>
         </item>
     </channel>
 </rss>

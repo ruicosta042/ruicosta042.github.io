@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sun, 21 Mar 2021 19:50:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Mar 2021 07:53:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -27,10 +27,34 @@
             <pubDate>Sun, 21 Mar 2021 15:28:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How to use React’s concurrent mode]]></title>
+            <link>https://www.infoworld.com/article/3610457/how-to-use-reacts-concurrent-mode.html</link>
+            <guid>https://www.infoworld.com/article/3610457/how-to-use-reacts-concurrent-mode.html</guid>
+            <pubDate>Mon, 22 Mar 2021 01:37:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Made a PWA with ReactJS, would love some feedback!]]></title>
+            <link>https://landing.trckrapp.com/</link>
+            <guid>https://landing.trckrapp.com/</guid>
+            <pubDate>Sun, 21 Mar 2021 22:58:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can someone explain to me how useRef is being used in this example?]]></title>
+            <link>https://medium.com/swlh/creating-a-simple-real-time-chat-with-net-core-reactjs-and-signalr-6367dcadd2c6</link>
+            <guid>https://medium.com/swlh/creating-a-simple-real-time-chat-with-net-core-reactjs-and-signalr-6367dcadd2c6</guid>
+            <pubDate>Mon, 22 Mar 2021 03:22:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I wrote a headless calendar hook, maybe someone else will find it useful.]]></title>
             <link>https://date-fns.org/</link>
             <guid>https://date-fns.org/</guid>
             <pubDate>Sun, 21 Mar 2021 02:57:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How can I make a button that tracks the user's reading progress?]]></title>
+            <link>https://www.nocsdegree.com/first-client-freelance-developer/</link>
+            <guid>https://www.nocsdegree.com/first-client-freelance-developer/</guid>
+            <pubDate>Mon, 22 Mar 2021 01:13:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Created an article explaining how i am fetching and displaying data from Garmin Connect with Strapi and NextJS.]]></title>
@@ -39,70 +63,52 @@
             <pubDate>Sun, 21 Mar 2021 18:41:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Looking for a bit of help, new to Reactjs]]></title>
-            <link>https://stackoverflow.com/questions/66727457/error-maximum-update-depth-exceeded-this-can-happen-when-a-component-repeatedl</link>
-            <guid>https://stackoverflow.com/questions/66727457/error-maximum-update-depth-exceeded-this-can-happen-when-a-component-repeatedl</guid>
-            <pubDate>Sun, 21 Mar 2021 14:56:58 GMT</pubDate>
+            <title><![CDATA[My first blog - 5 things to include in your project ASAP]]></title>
+            <link>https://dev.to/lbragile/5-things-to-include-in-your-project-asap-2447</link>
+            <guid>https://dev.to/lbragile/5-things-to-include-in-your-project-asap-2447</guid>
+            <pubDate>Mon, 22 Mar 2021 01:07:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[react gifs tool]]></title>
-            <link>https://github.com/jeetiss/react-gifs</link>
-            <guid>https://github.com/jeetiss/react-gifs</guid>
-            <pubDate>Sun, 21 Mar 2021 13:44:44 GMT</pubDate>
+            <title><![CDATA[Search YouTube songs on Spotify with chrome extension]]></title>
+            <link>https://chrome.google.com/webstore/detail/add-to-spotify/fbfmfpmhahghhicbcjnndadbmjojaonf</link>
+            <guid>https://chrome.google.com/webstore/detail/add-to-spotify/fbfmfpmhahghhicbcjnndadbmjojaonf</guid>
+            <pubDate>Mon, 22 Mar 2021 00:14:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I made a sorting visualizer where you can edit the algorithms]]></title>
-            <link>https://github.com/stoicaandrei/sorting-visualizer</link>
-            <guid>https://github.com/stoicaandrei/sorting-visualizer</guid>
-            <pubDate>Sat, 20 Mar 2021 06:59:56 GMT</pubDate>
+            <title><![CDATA[Material UI breakpoints]]></title>
+            <link>https://material-ui.com/customization/breakpoints/</link>
+            <guid>https://material-ui.com/customization/breakpoints/</guid>
+            <pubDate>Sun, 21 Mar 2021 23:17:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[🆕 Setting up Namecheap domain in Vercel]]></title>
-            <link>https://jorgearuv.dev/setting-up-namecheap-domain-in-vercel</link>
-            <guid>https://jorgearuv.dev/setting-up-namecheap-domain-in-vercel</guid>
-            <pubDate>Sun, 21 Mar 2021 05:31:37 GMT</pubDate>
+            <title><![CDATA[What is the 'extra argument' available to thunks created by createAsyncThunk in Redux, and how can it be used?]]></title>
+            <link>https://redux-toolkit.js.org/api/createAsyncThunk#parameters</link>
+            <guid>https://redux-toolkit.js.org/api/createAsyncThunk#parameters</guid>
+            <pubDate>Sun, 21 Mar 2021 22:57:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Design a VS Code dashboard with your own React components]]></title>
-            <link>https://webpack.js.org/concepts/module-federation/</link>
-            <guid>https://webpack.js.org/concepts/module-federation/</guid>
-            <pubDate>Sat, 20 Mar 2021 13:24:34 GMT</pubDate>
+            <title><![CDATA[How to work with intervals in React hooks]]></title>
+            <link>https://florian-martens.medium.com/how-to-work-with-intervals-in-react-hooks-f29892d650f2</link>
+            <guid>https://florian-martens.medium.com/how-to-work-with-intervals-in-react-hooks-f29892d650f2</guid>
+            <pubDate>Sun, 21 Mar 2021 22:15:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What is this.$container?]]></title>
-            <link>https://www.npmjs.com/package/react-smooth-scrollbar#get-scrollbar-instance</link>
-            <guid>https://www.npmjs.com/package/react-smooth-scrollbar#get-scrollbar-instance</guid>
-            <pubDate>Sun, 21 Mar 2021 04:33:41 GMT</pubDate>
+            <title><![CDATA[I open-sourced a boilerplate for React, Firebase, and Spotify Authorization Code Flow]]></title>
+            <link>https://amfm.me/</link>
+            <guid>https://amfm.me/</guid>
+            <pubDate>Sun, 21 Mar 2021 20:54:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to achieve within React the shopify feature that business users can add their own paypal business accounts and private users can pay within the react site to the paypal account of the restaurants? basically the same that shopify has]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Sat, 20 Mar 2021 20:57:40 GMT</pubDate>
+            <title><![CDATA[I created a PlayStation 5 Project]]></title>
+            <link>https://github.com/Amooryjubran/PlayStation</link>
+            <guid>https://github.com/Amooryjubran/PlayStation</guid>
+            <pubDate>Sun, 21 Mar 2021 19:55:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[async updates of react website]]></title>
-            <link>https://socket.io/</link>
-            <guid>https://socket.io/</guid>
-            <pubDate>Sat, 20 Mar 2021 19:46:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I wrote an article about the different types of State we manage in React.js applications]]></title>
-            <link>https://bobbyhadz.com/blog/react-state-types</link>
-            <guid>https://bobbyhadz.com/blog/react-state-types</guid>
-            <pubDate>Sat, 20 Mar 2021 14:21:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Compiled CSS-in-JS | Extract styles from your app & NPM now available]]></title>
-            <link>https://twitter.com/compiledcss/status/1373125637762772996</link>
-            <guid>https://twitter.com/compiledcss/status/1373125637762772996</guid>
-            <pubDate>Sat, 20 Mar 2021 11:50:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[15+ TailwindCSS Component Libraries that will make your life a bit easier]]></title>
-            <link>https://overcompiled.com/blog/0003-tailwindcss-component-libraries</link>
-            <guid>https://overcompiled.com/blog/0003-tailwindcss-component-libraries</guid>
-            <pubDate>Sat, 20 Mar 2021 15:30:57 GMT</pubDate>
+            <title><![CDATA[The advanced guide to React Context with hooks.]]></title>
+            <link>https://codereviewio.hashnode.dev/the-advanced-guide-to-react-context-with-hooks</link>
+            <guid>https://codereviewio.hashnode.dev/the-advanced-guide-to-react-context-with-hooks</guid>
+            <pubDate>Sun, 21 Mar 2021 21:59:04 GMT</pubDate>
         </item>
     </channel>
 </rss>

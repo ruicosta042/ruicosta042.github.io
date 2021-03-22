@@ -4,10 +4,16 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Mon, 22 Mar 2021 07:53:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Mar 2021 13:05:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Most Popular Backend Frameworks – 2012/2021]]></title>
+            <link>https://statisticsanddata.org/data/most-popular-backend-frameworks-2012-2021/</link>
+            <guid>https://statisticsanddata.org/data/most-popular-backend-frameworks-2012-2021/</guid>
+            <pubDate>Mon, 22 Mar 2021 09:19:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Neon Enables Embedding Rust Code in Node.js Apps]]></title>
             <link>https://www.infoq.com/news/2020/10/neon-node-rust-modules/</link>
@@ -15,10 +21,22 @@
             <pubDate>Mon, 22 Mar 2021 06:56:22 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[I've made a free list of remote jobs with a social / environmental impact that all need your nodejs skills]]></title>
+            <link>https://www.remoteimpact.io/</link>
+            <guid>https://www.remoteimpact.io/</guid>
+            <pubDate>Mon, 22 Mar 2021 12:21:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Angular, JavaScript, CSS, Html, NodeJS quick overview...]]></title>
             <link>https://www.tutorialslogic.com/angular?ng.12</link>
             <guid>https://www.tutorialslogic.com/angular?ng.12</guid>
             <pubDate>Mon, 22 Mar 2021 04:57:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CORS Error SOCKET.IO after Deploy]]></title>
+            <link>https://socket.io/</link>
+            <guid>https://socket.io/</guid>
+            <pubDate>Mon, 22 Mar 2021 08:39:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Google OAuth2.0 Authentication — using Node JS and PassportJS]]></title>
@@ -61,12 +79,6 @@
             <link>https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/C/info/intrdctn.html</link>
             <guid>https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/C/info/intrdctn.html</guid>
             <pubDate>Sun, 21 Mar 2021 06:38:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A template for p5 + TypeScript projects]]></title>
-            <link>https://github.com/game-ioio/p5-typescript-template</link>
-            <guid>https://github.com/game-ioio/p5-typescript-template</guid>
-            <pubDate>Sun, 21 Mar 2021 07:30:09 GMT</pubDate>
         </item>
     </channel>
 </rss>

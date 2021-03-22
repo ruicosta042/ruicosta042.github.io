@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Mon, 22 Mar 2021 07:53:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Mar 2021 13:05:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,6 +21,12 @@
             <pubDate>Sun, 21 Mar 2021 15:50:03 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Efficient way of assigning a numerical value to strings?]]></title>
+            <link>https://codesandbox.io/s/film-ratings-v103-s1f5y</link>
+            <guid>https://codesandbox.io/s/film-ratings-v103-s1f5y</guid>
+            <pubDate>Mon, 22 Mar 2021 11:55:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I finally made my first web application front-to-back using ReactJS as my frontend tech!]]></title>
             <link>https://www.parcelfriends.com/</link>
             <guid>https://www.parcelfriends.com/</guid>
@@ -33,22 +39,28 @@
             <pubDate>Mon, 22 Mar 2021 01:37:47 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['Discover Three.js' put on hold, probably permanently.]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Mon, 22 Mar 2021 12:20:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Made a PWA with ReactJS, would love some feedback!]]></title>
             <link>https://landing.trckrapp.com/</link>
             <guid>https://landing.trckrapp.com/</guid>
             <pubDate>Sun, 21 Mar 2021 22:58:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Can someone explain to me how useRef is being used in this example?]]></title>
-            <link>https://medium.com/swlh/creating-a-simple-real-time-chat-with-net-core-reactjs-and-signalr-6367dcadd2c6</link>
-            <guid>https://medium.com/swlh/creating-a-simple-real-time-chat-with-net-core-reactjs-and-signalr-6367dcadd2c6</guid>
-            <pubDate>Mon, 22 Mar 2021 03:22:16 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[I wrote a headless calendar hook, maybe someone else will find it useful.]]></title>
             <link>https://date-fns.org/</link>
             <guid>https://date-fns.org/</guid>
             <pubDate>Sun, 21 Mar 2021 02:57:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can someone explain to me how useRef is being used in this example?]]></title>
+            <link>https://medium.com/swlh/creating-a-simple-real-time-chat-with-net-core-reactjs-and-signalr-6367dcadd2c6</link>
+            <guid>https://medium.com/swlh/creating-a-simple-real-time-chat-with-net-core-reactjs-and-signalr-6367dcadd2c6</guid>
+            <pubDate>Mon, 22 Mar 2021 03:22:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How can I make a button that tracks the user's reading progress?]]></title>
@@ -63,6 +75,12 @@
             <pubDate>Sun, 21 Mar 2021 18:41:11 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How to work with intervals in React hooks]]></title>
+            <link>https://florian-martens.medium.com/how-to-work-with-intervals-in-react-hooks-f29892d650f2</link>
+            <guid>https://florian-martens.medium.com/how-to-work-with-intervals-in-react-hooks-f29892d650f2</guid>
+            <pubDate>Sun, 21 Mar 2021 22:15:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[My first blog - 5 things to include in your project ASAP]]></title>
             <link>https://dev.to/lbragile/5-things-to-include-in-your-project-asap-2447</link>
             <guid>https://dev.to/lbragile/5-things-to-include-in-your-project-asap-2447</guid>
@@ -73,6 +91,12 @@
             <link>https://chrome.google.com/webstore/detail/add-to-spotify/fbfmfpmhahghhicbcjnndadbmjojaonf</link>
             <guid>https://chrome.google.com/webstore/detail/add-to-spotify/fbfmfpmhahghhicbcjnndadbmjojaonf</guid>
             <pubDate>Mon, 22 Mar 2021 00:14:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I created a PlayStation 5 Project]]></title>
+            <link>https://github.com/Amooryjubran/PlayStation</link>
+            <guid>https://github.com/Amooryjubran/PlayStation</guid>
+            <pubDate>Sun, 21 Mar 2021 19:55:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Material UI breakpoints]]></title>
@@ -87,28 +111,10 @@
             <pubDate>Sun, 21 Mar 2021 22:57:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to work with intervals in React hooks]]></title>
-            <link>https://florian-martens.medium.com/how-to-work-with-intervals-in-react-hooks-f29892d650f2</link>
-            <guid>https://florian-martens.medium.com/how-to-work-with-intervals-in-react-hooks-f29892d650f2</guid>
-            <pubDate>Sun, 21 Mar 2021 22:15:13 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[I open-sourced a boilerplate for React, Firebase, and Spotify Authorization Code Flow]]></title>
             <link>https://amfm.me/</link>
             <guid>https://amfm.me/</guid>
             <pubDate>Sun, 21 Mar 2021 20:54:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I created a PlayStation 5 Project]]></title>
-            <link>https://github.com/Amooryjubran/PlayStation</link>
-            <guid>https://github.com/Amooryjubran/PlayStation</guid>
-            <pubDate>Sun, 21 Mar 2021 19:55:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The advanced guide to React Context with hooks.]]></title>
-            <link>https://codereviewio.hashnode.dev/the-advanced-guide-to-react-context-with-hooks</link>
-            <guid>https://codereviewio.hashnode.dev/the-advanced-guide-to-react-context-with-hooks</guid>
-            <pubDate>Sun, 21 Mar 2021 21:59:04 GMT</pubDate>
         </item>
     </channel>
 </rss>

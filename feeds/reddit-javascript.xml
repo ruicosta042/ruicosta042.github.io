@@ -4,10 +4,16 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Mon, 22 Mar 2021 07:53:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Mar 2021 13:05:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Your /r/javascript recap for the week of March 15 - March 21]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Mon, 22 Mar 2021 09:04:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Web based multi-screen apps including drag & drop]]></title>
             <link>https://tobiasuhlig.medium.com/web-based-multi-screen-apps-including-drag-drop-5e161da6507b?source=friends_link&amp;sk=3c53f7b9cf882a93fb2929c726bd7721</link>
@@ -19,6 +25,18 @@
             <link>https://thewooleyway.substack.com/p/switching-from-wordpress-to-gatsbyjs</link>
             <guid>https://thewooleyway.substack.com/p/switching-from-wordpress-to-gatsbyjs</guid>
             <pubDate>Sun, 21 Mar 2021 18:05:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tdash - a vanilla JS translation solution using WebComponents/CustomElements]]></title>
+            <link>https://github.com/Phamiliarize/tdash</link>
+            <guid>https://github.com/Phamiliarize/tdash</guid>
+            <pubDate>Mon, 22 Mar 2021 12:35:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The 5 Right Ways To Get Started In Web Development]]></title>
+            <link>https://koladechrisksound.hashnode.dev/the-5-right-ways-to-get-started-in-web-development</link>
+            <guid>https://koladechrisksound.hashnode.dev/the-5-right-ways-to-get-started-in-web-development</guid>
+            <pubDate>Mon, 22 Mar 2021 11:19:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Modeling and Reasoning about DOM Events - capturing, bubbling, and reactiveness]]></title>
@@ -121,18 +139,6 @@
             <link>https://github.com/clio-lang/clio</link>
             <guid>https://github.com/clio-lang/clio</guid>
             <pubDate>Thu, 18 Mar 2021 12:32:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Create animated navigation indicator with HTML, CSS, and JS]]></title>
-            <link>https://codeadrian.hashnode.dev/create-animated-navigation-indicator-with-html-css-and-js</link>
-            <guid>https://codeadrian.hashnode.dev/create-animated-navigation-indicator-with-html-css-and-js</guid>
-            <pubDate>Fri, 19 Mar 2021 08:22:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Documenting Design Tokens With Docusaurus (Adding Visuals To Your Style Dictionary)]]></title>
-            <link>https://www.michaelmang.dev/blog/documenting-design-tokens-with-docusaurus</link>
-            <guid>https://www.michaelmang.dev/blog/documenting-design-tokens-with-docusaurus</guid>
-            <pubDate>Fri, 19 Mar 2021 07:05:12 GMT</pubDate>
         </item>
     </channel>
 </rss>

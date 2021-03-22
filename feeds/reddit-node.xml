@@ -4,15 +4,21 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Mon, 22 Mar 2021 13:05:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Mar 2021 19:46:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Most Popular Backend Frameworks – 2012/2021]]></title>
-            <link>https://statisticsanddata.org/data/most-popular-backend-frameworks-2012-2021/</link>
-            <guid>https://statisticsanddata.org/data/most-popular-backend-frameworks-2012-2021/</guid>
-            <pubDate>Mon, 22 Mar 2021 09:19:12 GMT</pubDate>
+            <title><![CDATA[I've made a free list of remote jobs with a social / environmental impact that all need your nodejs skills]]></title>
+            <link>https://www.remoteimpact.io/</link>
+            <guid>https://www.remoteimpact.io/</guid>
+            <pubDate>Mon, 22 Mar 2021 12:21:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Don’t use underscores in your HTTP Headers]]></title>
+            <link>https://www.grouparoo.com/blog/dont-use-underscores-in-http-headers</link>
+            <guid>https://www.grouparoo.com/blog/dont-use-underscores-in-http-headers</guid>
+            <pubDate>Mon, 22 Mar 2021 16:17:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Neon Enables Embedding Rust Code in Node.js Apps]]></title>
@@ -21,10 +27,22 @@
             <pubDate>Mon, 22 Mar 2021 06:56:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I've made a free list of remote jobs with a social / environmental impact that all need your nodejs skills]]></title>
-            <link>https://www.remoteimpact.io/</link>
-            <guid>https://www.remoteimpact.io/</guid>
-            <pubDate>Mon, 22 Mar 2021 12:21:11 GMT</pubDate>
+            <title><![CDATA[Most Popular Backend Frameworks – 2012/2021]]></title>
+            <link>https://statisticsanddata.org/data/most-popular-backend-frameworks-2012-2021/</link>
+            <guid>https://statisticsanddata.org/data/most-popular-backend-frameworks-2012-2021/</guid>
+            <pubDate>Mon, 22 Mar 2021 09:19:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[N react APP under 1 domain without subdomain]]></title>
+            <link>https://mydomain.com/</link>
+            <guid>https://mydomain.com/</guid>
+            <pubDate>Mon, 22 Mar 2021 18:58:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Time intervals with PostgreSQL and TypeORM]]></title>
+            <link>https://wanago.io/2021/03/22/time-intervals-postgresql-typeorm/</link>
+            <guid>https://wanago.io/2021/03/22/time-intervals-postgresql-typeorm/</guid>
+            <pubDate>Mon, 22 Mar 2021 18:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Angular, JavaScript, CSS, Html, NodeJS quick overview...]]></title>
@@ -49,36 +67,6 @@
             <link>https://stackoverflow.com/a/53684854/15088319</link>
             <guid>https://stackoverflow.com/a/53684854/15088319</guid>
             <pubDate>Mon, 22 Mar 2021 04:23:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Problem with Graphicsmagick (pdf2pic) in node]]></title>
-            <link>https://www.npmjs.com/package/pdf2pic</link>
-            <guid>https://www.npmjs.com/package/pdf2pic</guid>
-            <pubDate>Sun, 21 Mar 2021 18:59:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Passport.js is still recommended for user authentication ?]]></title>
-            <link>https://github.com/jaredhanson/passport</link>
-            <guid>https://github.com/jaredhanson/passport</guid>
-            <pubDate>Sun, 21 Mar 2021 20:49:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Node + SQL + JWT + TypeScript Starter Template]]></title>
-            <link>https://codewithwolf.com/how-to-use-jwt-with-node-express-sqlite-and-typescript</link>
-            <guid>https://codewithwolf.com/how-to-use-jwt-with-node-express-sqlite-and-typescript</guid>
-            <pubDate>Sat, 20 Mar 2021 22:02:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dockerize your node app for local development]]></title>
-            <link>https://twitter.com/alamhash</link>
-            <guid>https://twitter.com/alamhash</guid>
-            <pubDate>Sun, 21 Mar 2021 20:46:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NAPI wrap question]]></title>
-            <link>https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/C/info/intrdctn.html</link>
-            <guid>https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/C/info/intrdctn.html</guid>
-            <pubDate>Sun, 21 Mar 2021 06:38:51 GMT</pubDate>
         </item>
     </channel>
 </rss>

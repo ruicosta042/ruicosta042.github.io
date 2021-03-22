@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Mon, 22 Mar 2021 13:05:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Mar 2021 19:46:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,34 @@
             <pubDate>Mon, 01 Mar 2021 15:56:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[I collected around 425 React job positions including remote roles!]]></title>
+            <link>http://arbeitnow.com/react-jobs</link>
+            <guid>http://arbeitnow.com/react-jobs</guid>
+            <pubDate>Mon, 22 Mar 2021 13:47:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I've been working on Nexpenda for almost a year and I would love to hear what people think!]]></title>
+            <link>https://www.nexpenda.com/</link>
+            <guid>https://www.nexpenda.com/</guid>
+            <pubDate>Mon, 22 Mar 2021 15:51:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I wrote a guide to help you deploy a React app automatically with GitHub Actions, Docker, and Heroku]]></title>
             <link>https://halftheopposite.dev/post/app-yarn-typescript-esbuild-part-going-further</link>
             <guid>https://halftheopposite.dev/post/app-yarn-typescript-esbuild-part-going-further</guid>
             <pubDate>Sun, 21 Mar 2021 15:50:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[Academic] The importance of communication between designers and developers (Designers/Developers)]]></title>
+            <link>https://coventry.onlinesurveys.ac.uk/the-importance-of-communication-between-designers-and-deve</link>
+            <guid>https://coventry.onlinesurveys.ac.uk/the-importance-of-communication-between-designers-and-deve</guid>
+            <pubDate>Mon, 22 Mar 2021 19:20:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[N react apps under 1 domain without subdomain]]></title>
+            <link>https://mydomain.com/</link>
+            <guid>https://mydomain.com/</guid>
+            <pubDate>Mon, 22 Mar 2021 18:59:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Efficient way of assigning a numerical value to strings?]]></title>
@@ -27,10 +51,22 @@
             <pubDate>Mon, 22 Mar 2021 11:55:06 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Anybody here use the YouTube data v3 API? need some help.]]></title>
+            <link>https://stackblitz.com/edit/react-8xem4v?file=src%2FContent.js</link>
+            <guid>https://stackblitz.com/edit/react-8xem4v?file=src%2FContent.js</guid>
+            <pubDate>Mon, 22 Mar 2021 15:57:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I finally made my first web application front-to-back using ReactJS as my frontend tech!]]></title>
             <link>https://www.parcelfriends.com/</link>
             <guid>https://www.parcelfriends.com/</guid>
             <pubDate>Sun, 21 Mar 2021 15:28:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Made a PWA with ReactJS, would love some feedback!]]></title>
+            <link>https://landing.trckrapp.com/</link>
+            <guid>https://landing.trckrapp.com/</guid>
+            <pubDate>Sun, 21 Mar 2021 22:58:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to use React’s concurrent mode]]></title>
@@ -45,16 +81,10 @@
             <pubDate>Mon, 22 Mar 2021 12:20:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Made a PWA with ReactJS, would love some feedback!]]></title>
-            <link>https://landing.trckrapp.com/</link>
-            <guid>https://landing.trckrapp.com/</guid>
-            <pubDate>Sun, 21 Mar 2021 22:58:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I wrote a headless calendar hook, maybe someone else will find it useful.]]></title>
-            <link>https://date-fns.org/</link>
-            <guid>https://date-fns.org/</guid>
-            <pubDate>Sun, 21 Mar 2021 02:57:15 GMT</pubDate>
+            <title><![CDATA[simpler state - The simplest app state management for React]]></title>
+            <link>https://github.com/arnelenero/simpler-state</link>
+            <guid>https://github.com/arnelenero/simpler-state</guid>
+            <pubDate>Mon, 22 Mar 2021 15:22:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Can someone explain to me how useRef is being used in this example?]]></title>
@@ -67,54 +97,6 @@
             <link>https://www.nocsdegree.com/first-client-freelance-developer/</link>
             <guid>https://www.nocsdegree.com/first-client-freelance-developer/</guid>
             <pubDate>Mon, 22 Mar 2021 01:13:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Created an article explaining how i am fetching and displaying data from Garmin Connect with Strapi and NextJS.]]></title>
-            <link>https://mxd.codes/articles/fetching-and-storing-activities-from-garmin-connect-with-strapi-and-visualizing-them-with-next-js</link>
-            <guid>https://mxd.codes/articles/fetching-and-storing-activities-from-garmin-connect-with-strapi-and-visualizing-them-with-next-js</guid>
-            <pubDate>Sun, 21 Mar 2021 18:41:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to work with intervals in React hooks]]></title>
-            <link>https://florian-martens.medium.com/how-to-work-with-intervals-in-react-hooks-f29892d650f2</link>
-            <guid>https://florian-martens.medium.com/how-to-work-with-intervals-in-react-hooks-f29892d650f2</guid>
-            <pubDate>Sun, 21 Mar 2021 22:15:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My first blog - 5 things to include in your project ASAP]]></title>
-            <link>https://dev.to/lbragile/5-things-to-include-in-your-project-asap-2447</link>
-            <guid>https://dev.to/lbragile/5-things-to-include-in-your-project-asap-2447</guid>
-            <pubDate>Mon, 22 Mar 2021 01:07:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Search YouTube songs on Spotify with chrome extension]]></title>
-            <link>https://chrome.google.com/webstore/detail/add-to-spotify/fbfmfpmhahghhicbcjnndadbmjojaonf</link>
-            <guid>https://chrome.google.com/webstore/detail/add-to-spotify/fbfmfpmhahghhicbcjnndadbmjojaonf</guid>
-            <pubDate>Mon, 22 Mar 2021 00:14:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I created a PlayStation 5 Project]]></title>
-            <link>https://github.com/Amooryjubran/PlayStation</link>
-            <guid>https://github.com/Amooryjubran/PlayStation</guid>
-            <pubDate>Sun, 21 Mar 2021 19:55:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Material UI breakpoints]]></title>
-            <link>https://material-ui.com/customization/breakpoints/</link>
-            <guid>https://material-ui.com/customization/breakpoints/</guid>
-            <pubDate>Sun, 21 Mar 2021 23:17:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is the 'extra argument' available to thunks created by createAsyncThunk in Redux, and how can it be used?]]></title>
-            <link>https://redux-toolkit.js.org/api/createAsyncThunk#parameters</link>
-            <guid>https://redux-toolkit.js.org/api/createAsyncThunk#parameters</guid>
-            <pubDate>Sun, 21 Mar 2021 22:57:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I open-sourced a boilerplate for React, Firebase, and Spotify Authorization Code Flow]]></title>
-            <link>https://amfm.me/</link>
-            <guid>https://amfm.me/</guid>
-            <pubDate>Sun, 21 Mar 2021 20:54:45 GMT</pubDate>
         </item>
     </channel>
 </rss>

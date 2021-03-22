@@ -4,15 +4,33 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Mon, 22 Mar 2021 13:05:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Mar 2021 19:46:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Official CSS Nesting – the last piece of the puzzle]]></title>
+            <link>https://benfrain.com/official-css-nesting-the-last-piece-of-the-puzzle/</link>
+            <guid>https://benfrain.com/official-css-nesting-the-last-piece-of-the-puzzle/</guid>
+            <pubDate>Mon, 22 Mar 2021 15:09:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Top 10 Animation Libraries – (CSS + JavaScript )]]></title>
+            <link>https://mrezaulkarim.com/top-10-animation-libraries-css-animation-javascript-animation/</link>
+            <guid>https://mrezaulkarim.com/top-10-animation-libraries-css-animation-javascript-animation/</guid>
+            <pubDate>Mon, 22 Mar 2021 14:25:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why We Should Move from CSS to SASS? Beginners]]></title>
             <link>https://frontendz.com/2020/09/18/why-we-should-move-from-css-to-sass-beginners/</link>
             <guid>https://frontendz.com/2020/09/18/why-we-should-move-from-css-to-sass-beginners/</guid>
             <pubDate>Mon, 22 Mar 2021 10:43:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[4 Tools I Wish I Knew About When I Started Learning HTML And CSS.]]></title>
+            <link>https://samdotpy.com/2021/03/22/4-tools-i-wish-i-knew-about-when-i-started-learning-html-and-css/</link>
+            <guid>https://samdotpy.com/2021/03/22/4-tools-i-wish-i-knew-about-when-i-started-learning-html-and-css/</guid>
+            <pubDate>Mon, 22 Mar 2021 14:06:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Creative Image Hover Animation]]></title>
@@ -55,18 +73,6 @@
             <link>https://taniarascia.github.io/primitive/</link>
             <guid>https://taniarascia.github.io/primitive/</guid>
             <pubDate>Sat, 20 Mar 2021 10:53:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sorted CSS Colors]]></title>
-            <link>https://enes.in/sorted-colors/</link>
-            <guid>https://enes.in/sorted-colors/</guid>
-            <pubDate>Fri, 19 Mar 2021 13:26:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How do I make the vertical height of cards vary in Materialize CSS?]]></title>
-            <link>https://stackoverflow.com/questions/66714789/how-do-i-make-vertical-height-of-cards-vary-in-materialize-css</link>
-            <guid>https://stackoverflow.com/questions/66714789/how-do-i-make-vertical-height-of-cards-vary-in-materialize-css</guid>
-            <pubDate>Sat, 20 Mar 2021 04:52:28 GMT</pubDate>
         </item>
     </channel>
 </rss>

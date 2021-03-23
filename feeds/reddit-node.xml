@@ -4,10 +4,16 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Mon, 22 Mar 2021 19:46:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Mar 2021 07:51:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Nodejs with Socket.io , express or both?]]></title>
+            <link>https://socket.io/</link>
+            <guid>https://socket.io/</guid>
+            <pubDate>Tue, 23 Mar 2021 01:25:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I've made a free list of remote jobs with a social / environmental impact that all need your nodejs skills]]></title>
             <link>https://www.remoteimpact.io/</link>
@@ -15,10 +21,34 @@
             <pubDate>Mon, 22 Mar 2021 12:21:11 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Build An App with File Upload and Download Functionality and Image Preview using MERN Stack]]></title>
+            <link>https://blog.yogeshchavan.dev/build-an-app-with-file-upload-and-download-functionality-and-image-preview-using-mern-stack</link>
+            <guid>https://blog.yogeshchavan.dev/build-an-app-with-file-upload-and-download-functionality-and-image-preview-using-mern-stack</guid>
+            <pubDate>Tue, 23 Mar 2021 05:44:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Don’t use underscores in your HTTP Headers]]></title>
             <link>https://www.grouparoo.com/blog/dont-use-underscores-in-http-headers</link>
             <guid>https://www.grouparoo.com/blog/dont-use-underscores-in-http-headers</guid>
             <pubDate>Mon, 22 Mar 2021 16:17:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[npm - Updating libraries]]></title>
+            <link>https://responsivecodex.wordpress.com/2021/03/22/npm-node-package-management/</link>
+            <guid>https://responsivecodex.wordpress.com/2021/03/22/npm-node-package-management/</guid>
+            <pubDate>Tue, 23 Mar 2021 03:51:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[N react APP under 1 domain without subdomain]]></title>
+            <link>https://mydomain.com/</link>
+            <guid>https://mydomain.com/</guid>
+            <pubDate>Mon, 22 Mar 2021 18:58:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Using socket.io and node to handle different games with different boards and rules]]></title>
+            <link>https://socket.io/</link>
+            <guid>https://socket.io/</guid>
+            <pubDate>Mon, 22 Mar 2021 20:57:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Neon Enables Embedding Rust Code in Node.js Apps]]></title>
@@ -31,12 +61,6 @@
             <link>https://statisticsanddata.org/data/most-popular-backend-frameworks-2012-2021/</link>
             <guid>https://statisticsanddata.org/data/most-popular-backend-frameworks-2012-2021/</guid>
             <pubDate>Mon, 22 Mar 2021 09:19:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[N react APP under 1 domain without subdomain]]></title>
-            <link>https://mydomain.com/</link>
-            <guid>https://mydomain.com/</guid>
-            <pubDate>Mon, 22 Mar 2021 18:58:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Time intervals with PostgreSQL and TypeORM]]></title>
@@ -55,18 +79,6 @@
             <link>https://socket.io/</link>
             <guid>https://socket.io/</guid>
             <pubDate>Mon, 22 Mar 2021 08:39:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google OAuth2.0 Authentication — using Node JS and PassportJS]]></title>
-            <link>https://medium.com/nerd-for-tech/google-oauth2-0-authentication-using-node-js-and-passportjs-1a77f42b1111</link>
-            <guid>https://medium.com/nerd-for-tech/google-oauth2-0-authentication-using-node-js-and-passportjs-1a77f42b1111</guid>
-            <pubDate>Sun, 21 Mar 2021 17:48:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[can't stop cron job using node-cron]]></title>
-            <link>https://stackoverflow.com/a/53684854/15088319</link>
-            <guid>https://stackoverflow.com/a/53684854/15088319</guid>
-            <pubDate>Mon, 22 Mar 2021 04:23:35 GMT</pubDate>
         </item>
     </channel>
 </rss>

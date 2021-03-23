@@ -4,10 +4,22 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Mon, 22 Mar 2021 19:46:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Mar 2021 07:51:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[I think I created a monster]]></title>
+            <link>https://mobile.twitter.com/luotojesse/status/1373405056675016711</link>
+            <guid>https://mobile.twitter.com/luotojesse/status/1373405056675016711</guid>
+            <pubDate>Mon, 22 Mar 2021 21:11:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Working with callbacks in TypeScript]]></title>
+            <link>https://catchts.com/callbacks</link>
+            <guid>https://catchts.com/callbacks</guid>
+            <pubDate>Mon, 22 Mar 2021 22:21:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Observer Design Pattern Implementation in Typescript]]></title>
             <link>https://levelup.gitconnected.com/observer-design-pattern-implementation-in-typescript-332477ee5b30</link>
@@ -73,12 +85,6 @@
             <link>https://boomm.io/p</link>
             <guid>https://boomm.io/p</guid>
             <pubDate>Thu, 18 Mar 2021 10:11:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[gist] createNamespacedEnum: A small utility function to create namespaced enums in typescript, where the return type is a literal reflection of the returned enum value itself]]></title>
-            <link>https://gist.github.com/tvler/45a471f9ca1255734d8066551f84f604</link>
-            <guid>https://gist.github.com/tvler/45a471f9ca1255734d8066551f84f604</guid>
-            <pubDate>Wed, 17 Mar 2021 15:08:02 GMT</pubDate>
         </item>
     </channel>
 </rss>

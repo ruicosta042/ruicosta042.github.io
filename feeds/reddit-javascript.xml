@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Tue, 23 Mar 2021 13:11:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Mar 2021 19:46:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,10 @@
             <pubDate>Mon, 22 Mar 2021 09:04:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nicely asking our users to update the app through an XSS attack]]></title>
-            <link>https://blog.usedevbook.com/nicely-asking-our-users-to-update-the-app-through-an-xss-attack/</link>
-            <guid>https://blog.usedevbook.com/nicely-asking-our-users-to-update-the-app-through-an-xss-attack/</guid>
-            <pubDate>Mon, 22 Mar 2021 16:51:25 GMT</pubDate>
+            <title><![CDATA[Send messages between open pages or tabs in same browser]]></title>
+            <link>https://github.com/jcubic/sysend.js</link>
+            <guid>https://github.com/jcubic/sysend.js</guid>
+            <pubDate>Tue, 23 Mar 2021 14:53:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What the hell is Reactive Programming anyway?]]></title>
@@ -27,10 +27,58 @@
             <pubDate>Tue, 23 Mar 2021 08:24:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[New Video Series - Building a Custom, Professionally Designed Website from Scratch with NextJS, TypeScript, and Payload CMS - Ep. 1]]></title>
+            <link>https://payloadcms.com/blog/building-professionally-designed-site-nextjs-typescript-episode-1</link>
+            <guid>https://payloadcms.com/blog/building-professionally-designed-site-nextjs-typescript-episode-1</guid>
+            <pubDate>Tue, 23 Mar 2021 15:20:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Making Your Extension Compatible with Both Chrome and Firefox]]></title>
+            <link>https://blog.shahednasser.com/making-your-extension-compatible-with-both-chrome-and-firefox/</link>
+            <guid>https://blog.shahednasser.com/making-your-extension-compatible-with-both-chrome-and-firefox/</guid>
+            <pubDate>Tue, 23 Mar 2021 16:53:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nicely asking our users to update the app through an XSS attack]]></title>
+            <link>https://blog.usedevbook.com/nicely-asking-our-users-to-update-the-app-through-an-xss-attack/</link>
+            <guid>https://blog.usedevbook.com/nicely-asking-our-users-to-update-the-app-through-an-xss-attack/</guid>
+            <pubDate>Mon, 22 Mar 2021 16:51:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In March, we see Firefox 87]]></title>
+            <link>https://hacks.mozilla.org/2021/03/in-march-we-see-firefox-87/</link>
+            <guid>https://hacks.mozilla.org/2021/03/in-march-we-see-firefox-87/</guid>
+            <pubDate>Tue, 23 Mar 2021 16:02:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I am working on a NodeJS Chatbot Builder Framework]]></title>
+            <link>https://github.com/arnaldobadin/bard</link>
+            <guid>https://github.com/arnaldobadin/bard</guid>
+            <pubDate>Tue, 23 Mar 2021 18:59:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Using Validate.js via a fluent TypeScript interface]]></title>
             <link>https://dev.to/koistya/using-validate-js-via-a-fluent-typescript-interface-3hcm</link>
             <guid>https://dev.to/koistya/using-validate-js-via-a-fluent-typescript-interface-3hcm</guid>
             <pubDate>Tue, 23 Mar 2021 11:26:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Runtime check of dependency injections]]></title>
+            <link>https://www.npmjs.com/package/ioc-check</link>
+            <guid>https://www.npmjs.com/package/ioc-check</guid>
+            <pubDate>Tue, 23 Mar 2021 17:17:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Easily deploy TypeScript project to AWS Lambda using Github Actions]]></title>
+            <link>https://medium.com/aspecto/easily-deploy-typescript-project-to-aws-lambda-using-github-actions-5830c1cc3997</link>
+            <guid>https://medium.com/aspecto/easily-deploy-typescript-project-to-aws-lambda-using-github-actions-5830c1cc3997</guid>
+            <pubDate>Tue, 23 Mar 2021 15:49:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[Blog series] Learning Functional Programming with JavaScript]]></title>
+            <link>https://www.kabisa.nl/tech/my-journey-in-learning-functional-programming/</link>
+            <guid>https://www.kabisa.nl/tech/my-journey-in-learning-functional-programming/</guid>
+            <pubDate>Tue, 23 Mar 2021 13:15:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Web based multi-screen apps including drag & drop]]></title>
@@ -39,22 +87,22 @@
             <pubDate>Mon, 22 Mar 2021 07:20:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Mind Blowing "Nullish Coalescing Operator" and How is it different from Logical OR operator?]]></title>
-            <link>https://dev.to/apoorvtyagi/nullish-coalescing-operator-vs-logical-or-5foe</link>
-            <guid>https://dev.to/apoorvtyagi/nullish-coalescing-operator-vs-logical-or-5foe</guid>
-            <pubDate>Tue, 23 Mar 2021 08:56:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stop Comparing Flutter’s Current Stage With Other Matured Frameworks]]></title>
-            <link>https://betterprogramming.pub/stop-comparing-flutters-current-stage-with-other-matured-frameworks-fcdbcf1e204b</link>
-            <guid>https://betterprogramming.pub/stop-comparing-flutters-current-stage-with-other-matured-frameworks-fcdbcf1e204b</guid>
-            <pubDate>Tue, 23 Mar 2021 03:09:00 GMT</pubDate>
+            <title><![CDATA[[dev.to] The Shocking Immaturity of JavaScript]]></title>
+            <link>https://dev.to/jaredcwhite/the-shocking-immaturity-of-javascript-c70</link>
+            <guid>https://dev.to/jaredcwhite/the-shocking-immaturity-of-javascript-c70</guid>
+            <pubDate>Tue, 23 Mar 2021 15:34:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Callbag JSX: React without the "magic"]]></title>
             <link>https://loreanvictor.github.io/callbag-jsx/</link>
             <guid>https://loreanvictor.github.io/callbag-jsx/</guid>
             <pubDate>Mon, 22 Mar 2021 15:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stop Comparing Flutter’s Current Stage With Other Matured Frameworks]]></title>
+            <link>https://betterprogramming.pub/stop-comparing-flutters-current-stage-with-other-matured-frameworks-fcdbcf1e204b</link>
+            <guid>https://betterprogramming.pub/stop-comparing-flutters-current-stage-with-other-matured-frameworks-fcdbcf1e204b</guid>
+            <pubDate>Tue, 23 Mar 2021 03:09:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Replacing Jest Snapshots With Cypress Screenshots for Testing React Components: An Experiment]]></title>
@@ -75,6 +123,12 @@
             <pubDate>Mon, 22 Mar 2021 15:22:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How to send large SQS/SNS messages with Node.js]]></title>
+            <link>https://www.aspecto.io/blog/how-to-send-large-sqs-sns-messages-with-node-js/</link>
+            <guid>https://www.aspecto.io/blog/how-to-send-large-sqs-sns-messages-with-node-js/</guid>
+            <pubDate>Mon, 22 Mar 2021 16:22:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How to create multi-language newsletter for free using Google Sheets and Localazy]]></title>
             <link>https://towardsdatascience.com/how-to-create-multi-language-newsletter-for-free-using-google-sheets-and-localazy-c85ad2155fbf</link>
             <guid>https://towardsdatascience.com/how-to-create-multi-language-newsletter-for-free-using-google-sheets-and-localazy-c85ad2155fbf</guid>
@@ -93,12 +147,6 @@
             <pubDate>Mon, 22 Mar 2021 17:17:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to send large SQS/SNS messages with Node.js]]></title>
-            <link>https://www.aspecto.io/blog/how-to-send-large-sqs-sns-messages-with-node-js/</link>
-            <guid>https://www.aspecto.io/blog/how-to-send-large-sqs-sns-messages-with-node-js/</guid>
-            <pubDate>Mon, 22 Mar 2021 16:22:24 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Modeling and Reasoning about DOM Events - capturing, bubbling, and reactiveness]]></title>
             <link>https://world.cs.brown.edu/~sk/Publications/Papers/Published/lckqk-model-reason-dom-events/paper.pdf</link>
             <guid>https://world.cs.brown.edu/~sk/Publications/Papers/Published/lckqk-model-reason-dom-events/paper.pdf</guid>
@@ -109,42 +157,6 @@
             <link>https://evan-brass.medium.com/the-most-cursed-javascript-d891e15ab532?sk=5c09884af48f499badce2e97ef46a970</link>
             <guid>https://evan-brass.medium.com/the-most-cursed-javascript-d891e15ab532?sk=5c09884af48f499badce2e97ef46a970</guid>
             <pubDate>Sun, 21 Mar 2021 21:31:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AskJS] What do you guys feel about boilerplate?]]></title>
-            <link>https://github.com/FabienGreard/front-end-rocks-boilerplate</link>
-            <guid>https://github.com/FabienGreard/front-end-rocks-boilerplate</guid>
-            <pubDate>Sat, 20 Mar 2021 20:49:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Microservices - maybe not - Techblog - Hostmoz]]></title>
-            <link>https://techblog.hostmoz.net/en/microservices-maybe-not/</link>
-            <guid>https://techblog.hostmoz.net/en/microservices-maybe-not/</guid>
-            <pubDate>Sat, 20 Mar 2021 07:15:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A clock based on Cistercian numerals (with Web Components)]]></title>
-            <link>https://www.hsablonniere.com/a-clock-based-on-cistercian-numerals--hptit8/</link>
-            <guid>https://www.hsablonniere.com/a-clock-based-on-cistercian-numerals--hptit8/</guid>
-            <pubDate>Sat, 20 Mar 2021 14:43:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Strictness Principle - Restrict the scope by default. Increase the scope as the need arises.]]></title>
-            <link>https://fagnerbrack.medium.com/the-strictness-principle-9997e483cafb</link>
-            <guid>https://fagnerbrack.medium.com/the-strictness-principle-9997e483cafb</guid>
-            <pubDate>Sat, 20 Mar 2021 21:05:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Perfect combo Next & Redux-Saga]]></title>
-            <link>https://romandatsiuk.com/en/blog/post-next-redux-saga/</link>
-            <guid>https://romandatsiuk.com/en/blog/post-next-redux-saga/</guid>
-            <pubDate>Sat, 20 Mar 2021 20:56:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‎Advance JS, HTML & CSS Editor, in your pocket ! - JSitor]]></title>
-            <link>https://apps.apple.com/in/app/jsitor-js-html-css-editor/id1455784773?a</link>
-            <guid>https://apps.apple.com/in/app/jsitor-js-html-css-editor/id1455784773?a</guid>
-            <pubDate>Sat, 20 Mar 2021 04:18:06 GMT</pubDate>
         </item>
     </channel>
 </rss>

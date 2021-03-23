@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Tue, 23 Mar 2021 13:11:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Mar 2021 19:46:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,12 @@
             <link>https://jsfiddle.net/Luktwrdm/</link>
             <guid>https://jsfiddle.net/Luktwrdm/</guid>
             <pubDate>Mon, 01 Mar 2021 15:56:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[One year ago, I created a small library that just hit 10k downloads per week]]></title>
+            <link>https://github.com/astoilkov/use-local-storage-state</link>
+            <guid>https://github.com/astoilkov/use-local-storage-state</guid>
+            <pubDate>Tue, 23 Mar 2021 14:15:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Every use of useEffect should be a custom hook with a damn good name]]></title>
@@ -27,16 +33,58 @@
             <pubDate>Mon, 22 Mar 2021 13:47:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React-Markdown Custom Component Declaration, How Can I Declare in the Renderer to Use a Custom Component?]]></title>
-            <link>https://dzxbosgk90qga.cloudfront.net/fit-in/504x658/n/20190131015240478_fullstack-react-cover-medium%402x.png)%60</link>
-            <guid>https://dzxbosgk90qga.cloudfront.net/fit-in/504x658/n/20190131015240478_fullstack-react-cover-medium%402x.png)%60</guid>
-            <pubDate>Tue, 23 Mar 2021 12:48:48 GMT</pubDate>
+            <title><![CDATA[Share parsed data from an API between components - Redux vs RecoilJS vs RxJs vs React-Query vs Context API vs Local]]></title>
+            <link>https://ibb.co/FJ0kyxW</link>
+            <guid>https://ibb.co/FJ0kyxW</guid>
+            <pubDate>Tue, 23 Mar 2021 18:40:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[using GET to get the phone number of current user]]></title>
             <link>https://docs.microsoft.com/en-us/graph/api/itemphone-get?view=graph-rest-beta&amp;tabs=http</link>
             <guid>https://docs.microsoft.com/en-us/graph/api/itemphone-get?view=graph-rest-beta&amp;tabs=http</guid>
             <pubDate>Tue, 23 Mar 2021 12:40:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We are the developers of Reactime, an open source developer tool for React. Have you ever used it? Have any suggestions? Try it here and let us know what to add!]]></title>
+            <link>https://github.com/open-source-labs/ReacTime</link>
+            <guid>https://github.com/open-source-labs/ReacTime</guid>
+            <pubDate>Tue, 23 Mar 2021 14:51:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React Swiper child component unable to update parent's state]]></title>
+            <link>https://swiperjs.com/react</link>
+            <guid>https://swiperjs.com/react</guid>
+            <pubDate>Tue, 23 Mar 2021 16:49:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ReTube - ReImagine Tubing [newbie project]]]></title>
+            <link>https://github.com/PrivOci/ReTube</link>
+            <guid>https://github.com/PrivOci/ReTube</guid>
+            <pubDate>Tue, 23 Mar 2021 16:13:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React course with interactive tasks]]></title>
+            <link>https://course.functioncamp.com/course/modern-interactive-websites/react/jsx</link>
+            <guid>https://course.functioncamp.com/course/modern-interactive-websites/react/jsx</guid>
+            <pubDate>Tue, 23 Mar 2021 14:33:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trying to connect to Socket.io with NodeJS, and React via Nginx]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Tue, 23 Mar 2021 14:13:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[ HELP ] Chakra UI makes React Datepicker unusable]]></title>
+            <link>https://postimg.cc/gallery/XbWHw1s</link>
+            <guid>https://postimg.cc/gallery/XbWHw1s</guid>
+            <pubDate>Tue, 23 Mar 2021 13:42:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React-Markdown Custom Component Declaration, How Can I Declare in the Renderer to Use a Custom Component?]]></title>
+            <link>https://reposhub.com/react/miscellaneous/rexxars-react-markdown.html</link>
+            <guid>https://reposhub.com/react/miscellaneous/rexxars-react-markdown.html</guid>
+            <pubDate>Tue, 23 Mar 2021 12:48:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How do I render only one thing when using map?]]></title>
@@ -49,30 +97,6 @@
             <link>https://github.com/haardikg/react-vite-tailwindJIT-starter</link>
             <guid>https://github.com/haardikg/react-vite-tailwindJIT-starter</guid>
             <pubDate>Tue, 23 Mar 2021 11:00:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I've been working on Nexpenda for almost a year and I would love to hear what people think!]]></title>
-            <link>https://www.nexpenda.com/</link>
-            <guid>https://www.nexpenda.com/</guid>
-            <pubDate>Mon, 22 Mar 2021 15:51:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Redux dead?]]></title>
-            <link>https://blog.asayer.io/is-redux-dead</link>
-            <guid>https://blog.asayer.io/is-redux-dead</guid>
-            <pubDate>Tue, 23 Mar 2021 09:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I wrote a guide to help you deploy a React app automatically with GitHub Actions, Docker, and Heroku]]></title>
-            <link>https://halftheopposite.dev/post/app-yarn-typescript-esbuild-part-going-further</link>
-            <guid>https://halftheopposite.dev/post/app-yarn-typescript-esbuild-part-going-further</guid>
-            <pubDate>Sun, 21 Mar 2021 15:50:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I am react beginner. I trying to read textarea from another file.]]></title>
-            <link>https://codesandbox.io/s/ucirl-forked-p5ifg?file=/src/App.js</link>
-            <guid>https://codesandbox.io/s/ucirl-forked-p5ifg?file=/src/App.js</guid>
-            <pubDate>Mon, 22 Mar 2021 20:27:21 GMT</pubDate>
         </item>
     </channel>
 </rss>

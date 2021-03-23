@@ -4,10 +4,22 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Tue, 23 Mar 2021 13:11:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Mar 2021 19:46:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Typescript not finding types from module's index.d.ts question - $50 bounty]]></title>
+            <link>https://stackoverflow.com/questions/66709908/typescript-not-finding-types-from-modules-index-d-ts</link>
+            <guid>https://stackoverflow.com/questions/66709908/typescript-not-finding-types-from-modules-index-d-ts</guid>
+            <pubDate>Tue, 23 Mar 2021 17:30:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Runtime check of dependency injections]]></title>
+            <link>https://www.npmjs.com/package/ioc-check</link>
+            <guid>https://www.npmjs.com/package/ioc-check</guid>
+            <pubDate>Tue, 23 Mar 2021 17:07:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I think I created a monster]]></title>
             <link>https://mobile.twitter.com/luotojesse/status/1373405056675016711</link>
@@ -79,12 +91,6 @@
             <link>https://gist.github.com/brianboyko/e21f9e94691db5a0924e41b94790495a</link>
             <guid>https://gist.github.com/brianboyko/e21f9e94691db5a0924e41b94790495a</guid>
             <pubDate>Fri, 19 Mar 2021 03:55:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A pastebin-like platform where you can easily paste code and import it as a module in our NPM projects]]></title>
-            <link>https://boomm.io/p</link>
-            <guid>https://boomm.io/p</guid>
-            <pubDate>Thu, 18 Mar 2021 10:11:07 GMT</pubDate>
         </item>
     </channel>
 </rss>

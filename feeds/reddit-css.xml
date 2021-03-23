@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Tue, 23 Mar 2021 13:10:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Mar 2021 19:46:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,18 +13,6 @@
             <link>https://css-tricks.com/taming-blend-modes-difference-and-exclusion/</link>
             <guid>https://css-tricks.com/taming-blend-modes-difference-and-exclusion/</guid>
             <pubDate>Tue, 23 Mar 2021 11:34:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Overflow: auto caused bei line-height (bug?)]]></title>
-            <link>https://jsfiddle.net/kwaf7t8n/1/</link>
-            <guid>https://jsfiddle.net/kwaf7t8n/1/</guid>
-            <pubDate>Tue, 23 Mar 2021 13:07:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ensuring the correct vertical position of large text]]></title>
-            <link>https://tobireif.com/posts/ensuring_the_correct_vertical_position_of_large_text/</link>
-            <guid>https://tobireif.com/posts/ensuring_the_correct_vertical_position_of_large_text/</guid>
-            <pubDate>Tue, 23 Mar 2021 12:39:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scrollbar styling with CSS Tutorial]]></title>
@@ -37,6 +25,18 @@
             <link>https://blog.jim-nielsen.com/2021/css-is-in-fact-awesome/</link>
             <guid>https://blog.jim-nielsen.com/2021/css-is-in-fact-awesome/</guid>
             <pubDate>Tue, 23 Mar 2021 12:36:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[overflow: auto caused by line-height (bug?)]]></title>
+            <link>https://jsfiddle.net/kwaf7t8n/1/</link>
+            <guid>https://jsfiddle.net/kwaf7t8n/1/</guid>
+            <pubDate>Tue, 23 Mar 2021 13:14:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ensuring the correct vertical position of large text]]></title>
+            <link>https://tobireif.com/posts/ensuring_the_correct_vertical_position_of_large_text/</link>
+            <guid>https://tobireif.com/posts/ensuring_the_correct_vertical_position_of_large_text/</guid>
+            <pubDate>Tue, 23 Mar 2021 12:39:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Official CSS Nesting – the last piece of the puzzle]]></title>
@@ -79,24 +79,6 @@
             <link>https://chrisgin.com/product/bennetts-bluff-views/</link>
             <guid>https://chrisgin.com/product/bennetts-bluff-views/</guid>
             <pubDate>Sun, 21 Mar 2021 19:24:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to overlay something on top of a YouTube video?]]></title>
-            <link>https://stackoverflow.com/questions/10422105/add-text-above-html5-video</link>
-            <guid>https://stackoverflow.com/questions/10422105/add-text-above-html5-video</guid>
-            <pubDate>Sun, 21 Mar 2021 09:58:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yes, here’s the best CSS framework in 2021]]></title>
-            <link>https://medium.com/arieldi/yes-heres-the-best-css-framework-in-2021-2c9eb2ced678?source=friends_link&amp;sk=7bfcc5e13ecc44c981c9d2895bbb461a</link>
-            <guid>https://medium.com/arieldi/yes-heres-the-best-css-framework-in-2021-2c9eb2ced678?source=friends_link&amp;sk=7bfcc5e13ecc44c981c9d2895bbb461a</guid>
-            <pubDate>Sun, 21 Mar 2021 22:18:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How do I do this?]]></title>
-            <link>https://vimeo.com/519144567</link>
-            <guid>https://vimeo.com/519144567</guid>
-            <pubDate>Sun, 21 Mar 2021 20:03:15 GMT</pubDate>
         </item>
     </channel>
 </rss>

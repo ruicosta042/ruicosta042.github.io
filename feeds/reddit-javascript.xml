@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Tue, 23 Mar 2021 07:51:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Mar 2021 13:11:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,10 +21,34 @@
             <pubDate>Mon, 22 Mar 2021 16:51:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[What the hell is Reactive Programming anyway?]]></title>
+            <link>https://dev.to/ryansolid/what-the-hell-is-reactive-programming-anyway-31p5</link>
+            <guid>https://dev.to/ryansolid/what-the-hell-is-reactive-programming-anyway-31p5</guid>
+            <pubDate>Tue, 23 Mar 2021 08:24:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Using Validate.js via a fluent TypeScript interface]]></title>
+            <link>https://dev.to/koistya/using-validate-js-via-a-fluent-typescript-interface-3hcm</link>
+            <guid>https://dev.to/koistya/using-validate-js-via-a-fluent-typescript-interface-3hcm</guid>
+            <pubDate>Tue, 23 Mar 2021 11:26:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Web based multi-screen apps including drag & drop]]></title>
             <link>https://tobiasuhlig.medium.com/web-based-multi-screen-apps-including-drag-drop-5e161da6507b?source=friends_link&amp;sk=3c53f7b9cf882a93fb2929c726bd7721</link>
             <guid>https://tobiasuhlig.medium.com/web-based-multi-screen-apps-including-drag-drop-5e161da6507b?source=friends_link&amp;sk=3c53f7b9cf882a93fb2929c726bd7721</guid>
             <pubDate>Mon, 22 Mar 2021 07:20:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Mind Blowing "Nullish Coalescing Operator" and How is it different from Logical OR operator?]]></title>
+            <link>https://dev.to/apoorvtyagi/nullish-coalescing-operator-vs-logical-or-5foe</link>
+            <guid>https://dev.to/apoorvtyagi/nullish-coalescing-operator-vs-logical-or-5foe</guid>
+            <pubDate>Tue, 23 Mar 2021 08:56:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stop Comparing Flutter’s Current Stage With Other Matured Frameworks]]></title>
+            <link>https://betterprogramming.pub/stop-comparing-flutters-current-stage-with-other-matured-frameworks-fcdbcf1e204b</link>
+            <guid>https://betterprogramming.pub/stop-comparing-flutters-current-stage-with-other-matured-frameworks-fcdbcf1e204b</guid>
+            <pubDate>Tue, 23 Mar 2021 03:09:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Callbag JSX: React without the "magic"]]></title>
@@ -37,12 +61,6 @@
             <link>https://www.michaelmang.dev/blog/replacing-jest-snapshots-with-cypress-screenshots-for-testing-react-components</link>
             <guid>https://www.michaelmang.dev/blog/replacing-jest-snapshots-with-cypress-screenshots-for-testing-react-components</guid>
             <pubDate>Mon, 22 Mar 2021 14:18:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stop Comparing Flutter’s Current Stage With Other Matured Frameworks]]></title>
-            <link>https://betterprogramming.pub/stop-comparing-flutters-current-stage-with-other-matured-frameworks-fcdbcf1e204b</link>
-            <guid>https://betterprogramming.pub/stop-comparing-flutters-current-stage-with-other-matured-frameworks-fcdbcf1e204b</guid>
-            <pubDate>Tue, 23 Mar 2021 03:09:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[tdash - a vanilla JS translation solution using WebComponents/CustomElements]]></title>
@@ -127,24 +145,6 @@
             <link>https://apps.apple.com/in/app/jsitor-js-html-css-editor/id1455784773?a</link>
             <guid>https://apps.apple.com/in/app/jsitor-js-html-css-editor/id1455784773?a</guid>
             <pubDate>Sat, 20 Mar 2021 04:18:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Integrating Design Tokens With Tailwind]]></title>
-            <link>https://www.michaelmang.dev/blog/integrating-design-tokens-with-tailwind</link>
-            <guid>https://www.michaelmang.dev/blog/integrating-design-tokens-with-tailwind</guid>
-            <pubDate>Sat, 20 Mar 2021 16:15:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[dev.to] How to create beautiful confetti animations with tsParticles (Vanilla, React, Angular and Vue)]]></title>
-            <link>https://dev.to/matteobruni/how-to-create-beautiful-confetti-animations-with-tsparticles-193</link>
-            <guid>https://dev.to/matteobruni/how-to-create-beautiful-confetti-animations-with-tsparticles-193</guid>
-            <pubDate>Sat, 20 Mar 2021 01:28:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NASA's next generation mission control system is written in JavaScript, and it's open source.]]></title>
-            <link>https://github.com/nasa/openmct</link>
-            <guid>https://github.com/nasa/openmct</guid>
-            <pubDate>Fri, 19 Mar 2021 01:01:50 GMT</pubDate>
         </item>
     </channel>
 </rss>

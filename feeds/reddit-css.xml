@@ -4,10 +4,40 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Tue, 23 Mar 2021 07:51:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Mar 2021 13:10:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Taming Blend Modes: `difference` and `exclusion`]]></title>
+            <link>https://css-tricks.com/taming-blend-modes-difference-and-exclusion/</link>
+            <guid>https://css-tricks.com/taming-blend-modes-difference-and-exclusion/</guid>
+            <pubDate>Tue, 23 Mar 2021 11:34:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Overflow: auto caused bei line-height (bug?)]]></title>
+            <link>https://jsfiddle.net/kwaf7t8n/1/</link>
+            <guid>https://jsfiddle.net/kwaf7t8n/1/</guid>
+            <pubDate>Tue, 23 Mar 2021 13:07:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ensuring the correct vertical position of large text]]></title>
+            <link>https://tobireif.com/posts/ensuring_the_correct_vertical_position_of_large_text/</link>
+            <guid>https://tobireif.com/posts/ensuring_the_correct_vertical_position_of_large_text/</guid>
+            <pubDate>Tue, 23 Mar 2021 12:39:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scrollbar styling with CSS Tutorial]]></title>
+            <link>https://daily-dev-tips.com/posts/styling-scrollbars-with-css/</link>
+            <guid>https://daily-dev-tips.com/posts/styling-scrollbars-with-css/</guid>
+            <pubDate>Tue, 23 Mar 2021 12:38:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CSS Is, In Fact, Awesome]]></title>
+            <link>https://blog.jim-nielsen.com/2021/css-is-in-fact-awesome/</link>
+            <guid>https://blog.jim-nielsen.com/2021/css-is-in-fact-awesome/</guid>
+            <pubDate>Tue, 23 Mar 2021 12:36:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Official CSS Nesting – the last piece of the puzzle]]></title>
             <link>https://benfrain.com/official-css-nesting-the-last-piece-of-the-puzzle/</link>
@@ -67,12 +97,6 @@
             <link>https://vimeo.com/519144567</link>
             <guid>https://vimeo.com/519144567</guid>
             <pubDate>Sun, 21 Mar 2021 20:03:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Left side sticky and right side fixed?]]></title>
-            <link>https://cuberto.com/</link>
-            <guid>https://cuberto.com/</guid>
-            <pubDate>Sun, 21 Mar 2021 08:28:06 GMT</pubDate>
         </item>
     </channel>
 </rss>

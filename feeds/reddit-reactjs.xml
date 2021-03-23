@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Tue, 23 Mar 2021 07:51:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Mar 2021 13:11:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -27,10 +27,40 @@
             <pubDate>Mon, 22 Mar 2021 13:47:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[React-Markdown Custom Component Declaration, How Can I Declare in the Renderer to Use a Custom Component?]]></title>
+            <link>https://dzxbosgk90qga.cloudfront.net/fit-in/504x658/n/20190131015240478_fullstack-react-cover-medium%402x.png)%60</link>
+            <guid>https://dzxbosgk90qga.cloudfront.net/fit-in/504x658/n/20190131015240478_fullstack-react-cover-medium%402x.png)%60</guid>
+            <pubDate>Tue, 23 Mar 2021 12:48:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[using GET to get the phone number of current user]]></title>
+            <link>https://docs.microsoft.com/en-us/graph/api/itemphone-get?view=graph-rest-beta&amp;tabs=http</link>
+            <guid>https://docs.microsoft.com/en-us/graph/api/itemphone-get?view=graph-rest-beta&amp;tabs=http</guid>
+            <pubDate>Tue, 23 Mar 2021 12:40:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How do I render only one thing when using map?]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Tue, 23 Mar 2021 11:38:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React-TailwindJIT-Starter]]></title>
+            <link>https://github.com/haardikg/react-vite-tailwindJIT-starter</link>
+            <guid>https://github.com/haardikg/react-vite-tailwindJIT-starter</guid>
+            <pubDate>Tue, 23 Mar 2021 11:00:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I've been working on Nexpenda for almost a year and I would love to hear what people think!]]></title>
             <link>https://www.nexpenda.com/</link>
             <guid>https://www.nexpenda.com/</guid>
             <pubDate>Mon, 22 Mar 2021 15:51:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Redux dead?]]></title>
+            <link>https://blog.asayer.io/is-redux-dead</link>
+            <guid>https://blog.asayer.io/is-redux-dead</guid>
+            <pubDate>Tue, 23 Mar 2021 09:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I wrote a guide to help you deploy a React app automatically with GitHub Actions, Docker, and Heroku]]></title>
@@ -43,24 +73,6 @@
             <link>https://codesandbox.io/s/ucirl-forked-p5ifg?file=/src/App.js</link>
             <guid>https://codesandbox.io/s/ucirl-forked-p5ifg?file=/src/App.js</guid>
             <pubDate>Mon, 22 Mar 2021 20:27:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[N react apps under 1 domain without subdomain]]></title>
-            <link>https://mydomain.com/</link>
-            <guid>https://mydomain.com/</guid>
-            <pubDate>Mon, 22 Mar 2021 18:59:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Efficient way of assigning a numerical value to strings?]]></title>
-            <link>https://codesandbox.io/s/film-ratings-v103-s1f5y</link>
-            <guid>https://codesandbox.io/s/film-ratings-v103-s1f5y</guid>
-            <pubDate>Mon, 22 Mar 2021 11:55:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Discover Three.js' put on hold, probably permanently.]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Mon, 22 Mar 2021 12:20:32 GMT</pubDate>
         </item>
     </channel>
 </rss>

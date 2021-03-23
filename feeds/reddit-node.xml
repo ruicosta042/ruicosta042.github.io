@@ -4,21 +4,15 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Tue, 23 Mar 2021 07:51:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Mar 2021 13:11:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Nodejs with Socket.io , express or both?]]></title>
-            <link>https://socket.io/</link>
-            <guid>https://socket.io/</guid>
-            <pubDate>Tue, 23 Mar 2021 01:25:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I've made a free list of remote jobs with a social / environmental impact that all need your nodejs skills]]></title>
-            <link>https://www.remoteimpact.io/</link>
-            <guid>https://www.remoteimpact.io/</guid>
-            <pubDate>Mon, 22 Mar 2021 12:21:11 GMT</pubDate>
+            <title><![CDATA[piscinajs/piscina the node.js worker pool]]></title>
+            <link>https://github.com/piscinajs/piscina</link>
+            <guid>https://github.com/piscinajs/piscina</guid>
+            <pubDate>Tue, 23 Mar 2021 08:32:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Build An App with File Upload and Download Functionality and Image Preview using MERN Stack]]></title>
@@ -27,10 +21,40 @@
             <pubDate>Tue, 23 Mar 2021 05:44:21 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Nodejs with Socket.io , express or both?]]></title>
+            <link>https://socket.io/</link>
+            <guid>https://socket.io/</guid>
+            <pubDate>Tue, 23 Mar 2021 01:25:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I need help with installation on kali Linux]]></title>
+            <link>https://ourcodeworld.com/articles/read/410/how-to-install-node-js-in-kali-linux</link>
+            <guid>https://ourcodeworld.com/articles/read/410/how-to-install-node-js-in-kali-linux</guid>
+            <pubDate>Tue, 23 Mar 2021 10:47:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I've made a free list of remote jobs with a social / environmental impact that all need your nodejs skills]]></title>
+            <link>https://www.remoteimpact.io/</link>
+            <guid>https://www.remoteimpact.io/</guid>
+            <pubDate>Mon, 22 Mar 2021 12:21:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Browse GraphQL Relations - new version!]]></title>
+            <link>https://graphqleditor.com/</link>
+            <guid>https://graphqleditor.com/</guid>
+            <pubDate>Tue, 23 Mar 2021 10:58:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Don’t use underscores in your HTTP Headers]]></title>
             <link>https://www.grouparoo.com/blog/dont-use-underscores-in-http-headers</link>
             <guid>https://www.grouparoo.com/blog/dont-use-underscores-in-http-headers</guid>
             <pubDate>Mon, 22 Mar 2021 16:17:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MongoDB and Node.JS: How are they related?]]></title>
+            <link>https://www.softprodigy.com/hire-nodejs-and-mongodb-developers/</link>
+            <guid>https://www.softprodigy.com/hire-nodejs-and-mongodb-developers/</guid>
+            <pubDate>Tue, 23 Mar 2021 11:15:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[npm - Updating libraries]]></title>
@@ -67,18 +91,6 @@
             <link>https://wanago.io/2021/03/22/time-intervals-postgresql-typeorm/</link>
             <guid>https://wanago.io/2021/03/22/time-intervals-postgresql-typeorm/</guid>
             <pubDate>Mon, 22 Mar 2021 18:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Angular, JavaScript, CSS, Html, NodeJS quick overview...]]></title>
-            <link>https://www.tutorialslogic.com/angular?ng.12</link>
-            <guid>https://www.tutorialslogic.com/angular?ng.12</guid>
-            <pubDate>Mon, 22 Mar 2021 04:57:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CORS Error SOCKET.IO after Deploy]]></title>
-            <link>https://socket.io/</link>
-            <guid>https://socket.io/</guid>
-            <pubDate>Mon, 22 Mar 2021 08:39:42 GMT</pubDate>
         </item>
     </channel>
 </rss>

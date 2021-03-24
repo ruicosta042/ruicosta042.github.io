@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Tue, 23 Mar 2021 19:46:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Mar 2021 07:47:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,28 +21,10 @@
             <pubDate>Tue, 23 Mar 2021 14:53:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What the hell is Reactive Programming anyway?]]></title>
-            <link>https://dev.to/ryansolid/what-the-hell-is-reactive-programming-anyway-31p5</link>
-            <guid>https://dev.to/ryansolid/what-the-hell-is-reactive-programming-anyway-31p5</guid>
-            <pubDate>Tue, 23 Mar 2021 08:24:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Video Series - Building a Custom, Professionally Designed Website from Scratch with NextJS, TypeScript, and Payload CMS - Ep. 1]]></title>
-            <link>https://payloadcms.com/blog/building-professionally-designed-site-nextjs-typescript-episode-1</link>
-            <guid>https://payloadcms.com/blog/building-professionally-designed-site-nextjs-typescript-episode-1</guid>
-            <pubDate>Tue, 23 Mar 2021 15:20:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Making Your Extension Compatible with Both Chrome and Firefox]]></title>
-            <link>https://blog.shahednasser.com/making-your-extension-compatible-with-both-chrome-and-firefox/</link>
-            <guid>https://blog.shahednasser.com/making-your-extension-compatible-with-both-chrome-and-firefox/</guid>
-            <pubDate>Tue, 23 Mar 2021 16:53:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nicely asking our users to update the app through an XSS attack]]></title>
-            <link>https://blog.usedevbook.com/nicely-asking-our-users-to-update-the-app-through-an-xss-attack/</link>
-            <guid>https://blog.usedevbook.com/nicely-asking-our-users-to-update-the-app-through-an-xss-attack/</guid>
-            <pubDate>Mon, 22 Mar 2021 16:51:25 GMT</pubDate>
+            <title><![CDATA[image recognition model written in typescript]]></title>
+            <link>https://github.com/ntedgi/node-efficientnet</link>
+            <guid>https://github.com/ntedgi/node-efficientnet</guid>
+            <pubDate>Tue, 23 Mar 2021 21:32:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In March, we see Firefox 87]]></title>
@@ -51,16 +33,40 @@
             <pubDate>Tue, 23 Mar 2021 16:02:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[New Video Series - Building a Custom, Professionally Designed Website from Scratch with NextJS, TypeScript, and Payload CMS - Ep. 1]]></title>
+            <link>https://payloadcms.com/blog/building-professionally-designed-site-nextjs-typescript-episode-1</link>
+            <guid>https://payloadcms.com/blog/building-professionally-designed-site-nextjs-typescript-episode-1</guid>
+            <pubDate>Tue, 23 Mar 2021 15:20:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What the hell is Reactive Programming anyway?]]></title>
+            <link>https://dev.to/ryansolid/what-the-hell-is-reactive-programming-anyway-31p5</link>
+            <guid>https://dev.to/ryansolid/what-the-hell-is-reactive-programming-anyway-31p5</guid>
+            <pubDate>Tue, 23 Mar 2021 08:24:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Modest Frontend]]></title>
+            <link>https://world.hey.com/nasir/the-modest-frontend-c21aceef</link>
+            <guid>https://world.hey.com/nasir/the-modest-frontend-c21aceef</guid>
+            <pubDate>Tue, 23 Mar 2021 21:52:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Making Your Extension Compatible with Both Chrome and Firefox]]></title>
+            <link>https://blog.shahednasser.com/making-your-extension-compatible-with-both-chrome-and-firefox/</link>
+            <guid>https://blog.shahednasser.com/making-your-extension-compatible-with-both-chrome-and-firefox/</guid>
+            <pubDate>Tue, 23 Mar 2021 16:53:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I am working on a NodeJS Chatbot Builder Framework]]></title>
             <link>https://github.com/arnaldobadin/bard</link>
             <guid>https://github.com/arnaldobadin/bard</guid>
             <pubDate>Tue, 23 Mar 2021 18:59:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Using Validate.js via a fluent TypeScript interface]]></title>
-            <link>https://dev.to/koistya/using-validate-js-via-a-fluent-typescript-interface-3hcm</link>
-            <guid>https://dev.to/koistya/using-validate-js-via-a-fluent-typescript-interface-3hcm</guid>
-            <pubDate>Tue, 23 Mar 2021 11:26:19 GMT</pubDate>
+            <title><![CDATA[Nicely asking our users to update the app through an XSS attack]]></title>
+            <link>https://blog.usedevbook.com/nicely-asking-our-users-to-update-the-app-through-an-xss-attack/</link>
+            <guid>https://blog.usedevbook.com/nicely-asking-our-users-to-update-the-app-through-an-xss-attack/</guid>
+            <pubDate>Mon, 22 Mar 2021 16:51:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Runtime check of dependency injections]]></title>
@@ -69,10 +75,22 @@
             <pubDate>Tue, 23 Mar 2021 17:17:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tips when Debugging Node.js Libraries, examples use Vite.js]]></title>
+            <link>https://maximomussini.com/posts/debugging-javascript-libraries/</link>
+            <guid>https://maximomussini.com/posts/debugging-javascript-libraries/</guid>
+            <pubDate>Tue, 23 Mar 2021 21:00:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Easily deploy TypeScript project to AWS Lambda using Github Actions]]></title>
             <link>https://medium.com/aspecto/easily-deploy-typescript-project-to-aws-lambda-using-github-actions-5830c1cc3997</link>
             <guid>https://medium.com/aspecto/easily-deploy-typescript-project-to-aws-lambda-using-github-actions-5830c1cc3997</guid>
             <pubDate>Tue, 23 Mar 2021 15:49:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Using Validate.js via a fluent TypeScript interface]]></title>
+            <link>https://dev.to/koistya/using-validate-js-via-a-fluent-typescript-interface-3hcm</link>
+            <guid>https://dev.to/koistya/using-validate-js-via-a-fluent-typescript-interface-3hcm</guid>
+            <pubDate>Tue, 23 Mar 2021 11:26:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[Blog series] Learning Functional Programming with JavaScript]]></title>
@@ -87,28 +105,28 @@
             <pubDate>Mon, 22 Mar 2021 07:20:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[dev.to] The Shocking Immaturity of JavaScript]]></title>
-            <link>https://dev.to/jaredcwhite/the-shocking-immaturity-of-javascript-c70</link>
-            <guid>https://dev.to/jaredcwhite/the-shocking-immaturity-of-javascript-c70</guid>
-            <pubDate>Tue, 23 Mar 2021 15:34:39 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Callbag JSX: React without the "magic"]]></title>
             <link>https://loreanvictor.github.io/callbag-jsx/</link>
             <guid>https://loreanvictor.github.io/callbag-jsx/</guid>
             <pubDate>Mon, 22 Mar 2021 15:12:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Stop Comparing Flutter’s Current Stage With Other Matured Frameworks]]></title>
-            <link>https://betterprogramming.pub/stop-comparing-flutters-current-stage-with-other-matured-frameworks-fcdbcf1e204b</link>
-            <guid>https://betterprogramming.pub/stop-comparing-flutters-current-stage-with-other-matured-frameworks-fcdbcf1e204b</guid>
-            <pubDate>Tue, 23 Mar 2021 03:09:00 GMT</pubDate>
+            <title><![CDATA[[dev.to] The Shocking Immaturity of JavaScript]]></title>
+            <link>https://dev.to/jaredcwhite/the-shocking-immaturity-of-javascript-c70</link>
+            <guid>https://dev.to/jaredcwhite/the-shocking-immaturity-of-javascript-c70</guid>
+            <pubDate>Tue, 23 Mar 2021 15:34:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Replacing Jest Snapshots With Cypress Screenshots for Testing React Components: An Experiment]]></title>
             <link>https://www.michaelmang.dev/blog/replacing-jest-snapshots-with-cypress-screenshots-for-testing-react-components</link>
             <guid>https://www.michaelmang.dev/blog/replacing-jest-snapshots-with-cypress-screenshots-for-testing-react-components</guid>
             <pubDate>Mon, 22 Mar 2021 14:18:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stop Comparing Flutter’s Current Stage With Other Matured Frameworks]]></title>
+            <link>https://betterprogramming.pub/stop-comparing-flutters-current-stage-with-other-matured-frameworks-fcdbcf1e204b</link>
+            <guid>https://betterprogramming.pub/stop-comparing-flutters-current-stage-with-other-matured-frameworks-fcdbcf1e204b</guid>
+            <pubDate>Tue, 23 Mar 2021 03:09:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[tdash - a vanilla JS translation solution using WebComponents/CustomElements]]></title>
@@ -133,30 +151,6 @@
             <link>https://towardsdatascience.com/how-to-create-multi-language-newsletter-for-free-using-google-sheets-and-localazy-c85ad2155fbf</link>
             <guid>https://towardsdatascience.com/how-to-create-multi-language-newsletter-for-free-using-google-sheets-and-localazy-c85ad2155fbf</guid>
             <pubDate>Mon, 22 Mar 2021 14:00:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Switching from WordPress to GatsbyJS]]></title>
-            <link>https://thewooleyway.substack.com/p/switching-from-wordpress-to-gatsbyjs</link>
-            <guid>https://thewooleyway.substack.com/p/switching-from-wordpress-to-gatsbyjs</guid>
-            <pubDate>Sun, 21 Mar 2021 18:05:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How MDN’s site-search works]]></title>
-            <link>https://hacks.mozilla.org/2021/03/how-mdns-site-search-works/</link>
-            <guid>https://hacks.mozilla.org/2021/03/how-mdns-site-search-works/</guid>
-            <pubDate>Mon, 22 Mar 2021 17:17:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Modeling and Reasoning about DOM Events - capturing, bubbling, and reactiveness]]></title>
-            <link>https://world.cs.brown.edu/~sk/Publications/Papers/Published/lckqk-model-reason-dom-events/paper.pdf</link>
-            <guid>https://world.cs.brown.edu/~sk/Publications/Papers/Published/lckqk-model-reason-dom-events/paper.pdf</guid>
-            <pubDate>Sun, 21 Mar 2021 21:05:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cursed Argument Parsing]]></title>
-            <link>https://evan-brass.medium.com/the-most-cursed-javascript-d891e15ab532?sk=5c09884af48f499badce2e97ef46a970</link>
-            <guid>https://evan-brass.medium.com/the-most-cursed-javascript-d891e15ab532?sk=5c09884af48f499badce2e97ef46a970</guid>
-            <pubDate>Sun, 21 Mar 2021 21:31:11 GMT</pubDate>
         </item>
     </channel>
 </rss>

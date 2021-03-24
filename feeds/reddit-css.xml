@@ -4,10 +4,16 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Tue, 23 Mar 2021 19:46:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Mar 2021 07:47:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Handling Text Over Images in CSS]]></title>
+            <link>https://ishadeed.com/article/handling-text-over-image-css/</link>
+            <guid>https://ishadeed.com/article/handling-text-over-image-css/</guid>
+            <pubDate>Tue, 23 Mar 2021 20:30:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Taming Blend Modes: `difference` and `exclusion`]]></title>
             <link>https://css-tricks.com/taming-blend-modes-difference-and-exclusion/</link>
@@ -15,16 +21,16 @@
             <pubDate>Tue, 23 Mar 2021 11:34:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scrollbar styling with CSS Tutorial]]></title>
-            <link>https://daily-dev-tips.com/posts/styling-scrollbars-with-css/</link>
-            <guid>https://daily-dev-tips.com/posts/styling-scrollbars-with-css/</guid>
-            <pubDate>Tue, 23 Mar 2021 12:38:33 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[CSS Is, In Fact, Awesome]]></title>
             <link>https://blog.jim-nielsen.com/2021/css-is-in-fact-awesome/</link>
             <guid>https://blog.jim-nielsen.com/2021/css-is-in-fact-awesome/</guid>
             <pubDate>Tue, 23 Mar 2021 12:36:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scrollbar styling with CSS Tutorial]]></title>
+            <link>https://daily-dev-tips.com/posts/styling-scrollbars-with-css/</link>
+            <guid>https://daily-dev-tips.com/posts/styling-scrollbars-with-css/</guid>
+            <pubDate>Tue, 23 Mar 2021 12:38:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[overflow: auto caused by line-height (bug?)]]></title>
@@ -67,18 +73,6 @@
             <link>https://frontendz.com/2020/09/18/why-we-should-move-from-css-to-sass-beginners/</link>
             <guid>https://frontendz.com/2020/09/18/why-we-should-move-from-css-to-sass-beginners/</guid>
             <pubDate>Mon, 22 Mar 2021 10:43:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Creative Image Hover Animation]]></title>
-            <link>https://www.codingflicks.com/2021/03/nice-image-hover-overlay-effect.html</link>
-            <guid>https://www.codingflicks.com/2021/03/nice-image-hover-overlay-effect.html</guid>
-            <pubDate>Mon, 22 Mar 2021 03:39:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to restrict height of image in my Woocommerce product page]]></title>
-            <link>https://chrisgin.com/product/bennetts-bluff-views/</link>
-            <guid>https://chrisgin.com/product/bennetts-bluff-views/</guid>
-            <pubDate>Sun, 21 Mar 2021 19:24:46 GMT</pubDate>
         </item>
     </channel>
 </rss>

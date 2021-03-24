@@ -4,10 +4,28 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Tue, 23 Mar 2021 19:46:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Mar 2021 07:47:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[I was working in a NodeJS Chatbot Builder Framework]]></title>
+            <link>https://github.com/arnaldobadin/bard</link>
+            <guid>https://github.com/arnaldobadin/bard</guid>
+            <pubDate>Tue, 23 Mar 2021 18:57:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[High Performance NodeJS with Rust and WebAssembly]]></title>
+            <link>https://meetupfeed.io/talk/high-performance-node-js-powered-by-rust-and-web-assembly</link>
+            <guid>https://meetupfeed.io/talk/high-performance-node-js-powered-by-rust-and-web-assembly</guid>
+            <pubDate>Tue, 23 Mar 2021 22:17:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[Tutorial] JWT in node.js simple implementation with refresh token]]></title>
+            <link>https://link.medium.com/T3Gjf2dISeb</link>
+            <guid>https://link.medium.com/T3Gjf2dISeb</guid>
+            <pubDate>Wed, 24 Mar 2021 07:45:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[piscinajs/piscina the node.js worker pool]]></title>
             <link>https://github.com/piscinajs/piscina</link>
@@ -15,10 +33,22 @@
             <pubDate>Tue, 23 Mar 2021 08:32:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I was working in a NodeJS Chatbot Builder Framework]]></title>
-            <link>https://github.com/arnaldobadin/bard</link>
-            <guid>https://github.com/arnaldobadin/bard</guid>
-            <pubDate>Tue, 23 Mar 2021 18:57:09 GMT</pubDate>
+            <title><![CDATA[image recognition model written in typescript]]></title>
+            <link>https://github.com/ntedgi/node-efficientnet</link>
+            <guid>https://github.com/ntedgi/node-efficientnet</guid>
+            <pubDate>Tue, 23 Mar 2021 21:36:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[mongoose schema help!!]]></title>
+            <link>https://www.aljazeera.com/news/2021/3/24/n-korea-test-fired-missiles-over-the-weekend-reports</link>
+            <guid>https://www.aljazeera.com/news/2021/3/24/n-korea-test-fired-missiles-over-the-weekend-reports</guid>
+            <pubDate>Wed, 24 Mar 2021 03:00:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Using Express/Prisma 2 for an API and want an admin area - what are my options?]]></title>
+            <link>https://github.com/weakky/ra-data-opencrud</link>
+            <guid>https://github.com/weakky/ra-data-opencrud</guid>
+            <pubDate>Wed, 24 Mar 2021 02:31:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Build An App with File Upload and Download Functionality and Image Preview using MERN Stack]]></title>
@@ -67,30 +97,6 @@
             <link>https://mydomain.com/</link>
             <guid>https://mydomain.com/</guid>
             <pubDate>Mon, 22 Mar 2021 18:58:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Using socket.io and node to handle different games with different boards and rules]]></title>
-            <link>https://socket.io/</link>
-            <guid>https://socket.io/</guid>
-            <pubDate>Mon, 22 Mar 2021 20:57:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Neon Enables Embedding Rust Code in Node.js Apps]]></title>
-            <link>https://www.infoq.com/news/2020/10/neon-node-rust-modules/</link>
-            <guid>https://www.infoq.com/news/2020/10/neon-node-rust-modules/</guid>
-            <pubDate>Mon, 22 Mar 2021 06:56:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MongoDB and Node.JS: How are they related?]]></title>
-            <link>https://www.softprodigy.com/hire-nodejs-and-mongodb-developers/</link>
-            <guid>https://www.softprodigy.com/hire-nodejs-and-mongodb-developers/</guid>
-            <pubDate>Tue, 23 Mar 2021 11:15:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Most Popular Backend Frameworks – 2012/2021]]></title>
-            <link>https://statisticsanddata.org/data/most-popular-backend-frameworks-2012-2021/</link>
-            <guid>https://statisticsanddata.org/data/most-popular-backend-frameworks-2012-2021/</guid>
-            <pubDate>Mon, 22 Mar 2021 09:19:12 GMT</pubDate>
         </item>
     </channel>
 </rss>

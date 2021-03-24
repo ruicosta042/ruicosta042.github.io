@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Tue, 23 Mar 2021 19:46:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Mar 2021 07:47:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,10 +21,52 @@
             <pubDate>Tue, 23 Mar 2021 14:15:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[React Coding Challenges Is officially on the awesome-react list on GitHub!]]></title>
+            <link>https://github.com/alexgurr/react-coding-challenges</link>
+            <guid>https://github.com/alexgurr/react-coding-challenges</guid>
+            <pubDate>Wed, 24 Mar 2021 05:40:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Every use of useEffect should be a custom hook with a damn good name]]></title>
             <link>https://kyleshevlin.com/use-encapsulation</link>
             <guid>https://kyleshevlin.com/use-encapsulation</guid>
             <pubDate>Tue, 23 Mar 2021 02:57:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can't get MDX to work in a JavaScript Component. Just want Markdown to be turned to react components...]]></title>
+            <link>https://codesandbox.io/s/dazzling-wescoff-ib8mv?file=/src/index.js</link>
+            <guid>https://codesandbox.io/s/dazzling-wescoff-ib8mv?file=/src/index.js</guid>
+            <pubDate>Wed, 24 Mar 2021 04:08:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[i made a IMDb-like with great search function]]></title>
+            <link>https://wildcine-thuillier.herokuapp.com/</link>
+            <guid>https://wildcine-thuillier.herokuapp.com/</guid>
+            <pubDate>Tue, 23 Mar 2021 23:42:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["Hooks should define state per call."]]></title>
+            <link>https://dev.to/chiangs/custom-react-hooks-vs-services-mcm</link>
+            <guid>https://dev.to/chiangs/custom-react-hooks-vs-services-mcm</guid>
+            <pubDate>Tue, 23 Mar 2021 22:46:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Passkit Visual Designer - a React web app to make it easier to generate Apple Wallet passes templates]]></title>
+            <link>https://pkvd.app/</link>
+            <guid>https://pkvd.app/</guid>
+            <pubDate>Tue, 23 Mar 2021 22:35:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We are the developers of Reactime, an open source developer tool for React. Have you ever used it? Have any suggestions? Try it here and let us know what to add!]]></title>
+            <link>https://github.com/open-source-labs/ReacTime</link>
+            <guid>https://github.com/open-source-labs/ReacTime</guid>
+            <pubDate>Tue, 23 Mar 2021 14:51:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React Spring - Struggling with useTransition]]></title>
+            <link>https://gyazo.com/7d0864fdba726292e17462f23c1abe5d</link>
+            <guid>https://gyazo.com/7d0864fdba726292e17462f23c1abe5d</guid>
+            <pubDate>Tue, 23 Mar 2021 21:58:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I collected around 425 React job positions including remote roles!]]></title>
@@ -45,10 +87,10 @@
             <pubDate>Tue, 23 Mar 2021 12:40:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[We are the developers of Reactime, an open source developer tool for React. Have you ever used it? Have any suggestions? Try it here and let us know what to add!]]></title>
-            <link>https://github.com/open-source-labs/ReacTime</link>
-            <guid>https://github.com/open-source-labs/ReacTime</guid>
-            <pubDate>Tue, 23 Mar 2021 14:51:34 GMT</pubDate>
+            <title><![CDATA[React course with interactive tasks]]></title>
+            <link>https://course.functioncamp.com/course/modern-interactive-websites/react/jsx</link>
+            <guid>https://course.functioncamp.com/course/modern-interactive-websites/react/jsx</guid>
+            <pubDate>Tue, 23 Mar 2021 14:33:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[React Swiper child component unable to update parent's state]]></title>
@@ -61,42 +103,6 @@
             <link>https://github.com/PrivOci/ReTube</link>
             <guid>https://github.com/PrivOci/ReTube</guid>
             <pubDate>Tue, 23 Mar 2021 16:13:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React course with interactive tasks]]></title>
-            <link>https://course.functioncamp.com/course/modern-interactive-websites/react/jsx</link>
-            <guid>https://course.functioncamp.com/course/modern-interactive-websites/react/jsx</guid>
-            <pubDate>Tue, 23 Mar 2021 14:33:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trying to connect to Socket.io with NodeJS, and React via Nginx]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Tue, 23 Mar 2021 14:13:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[ HELP ] Chakra UI makes React Datepicker unusable]]></title>
-            <link>https://postimg.cc/gallery/XbWHw1s</link>
-            <guid>https://postimg.cc/gallery/XbWHw1s</guid>
-            <pubDate>Tue, 23 Mar 2021 13:42:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React-Markdown Custom Component Declaration, How Can I Declare in the Renderer to Use a Custom Component?]]></title>
-            <link>https://reposhub.com/react/miscellaneous/rexxars-react-markdown.html</link>
-            <guid>https://reposhub.com/react/miscellaneous/rexxars-react-markdown.html</guid>
-            <pubDate>Tue, 23 Mar 2021 12:48:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How do I render only one thing when using map?]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Tue, 23 Mar 2021 11:38:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React-TailwindJIT-Starter]]></title>
-            <link>https://github.com/haardikg/react-vite-tailwindJIT-starter</link>
-            <guid>https://github.com/haardikg/react-vite-tailwindJIT-starter</guid>
-            <pubDate>Tue, 23 Mar 2021 11:00:07 GMT</pubDate>
         </item>
     </channel>
 </rss>

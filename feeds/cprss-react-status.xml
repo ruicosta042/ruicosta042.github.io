@@ -4,10 +4,244 @@
         <title>React Status</title>
         <link>https://react.statuscode.com/</link>
         <description>A weekly roundup of the latest React and React Native links and tutorials.</description>
-        <lastBuildDate>Wed, 24 Mar 2021 12:53:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Mar 2021 19:47:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Spectacle 7: A React and JSX-Based Presentation Library]]></title>
+            <link>https://react.statuscode.com/link/105139/rss</link>
+            <guid>https://react.statuscode.com/link/105139/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[its home page]]></title>
+            <link>https://react.statuscode.com/link/105140/rss</link>
+            <guid>https://react.statuscode.com/link/105140/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React State Management Libraries and How to Choose]]></title>
+            <link>https://react.statuscode.com/link/105141/rss</link>
+            <guid>https://react.statuscode.com/link/105141/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What’s the Best Way to Build Your Web Application: Infographic]]></title>
+            <link>https://react.statuscode.com/link/105142/rss</link>
+            <guid>https://react.statuscode.com/link/105142/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Build Fast and Production Ready Apps with React and AWS Amplify]]></title>
+            <link>https://react.statuscode.com/link/105143/rss</link>
+            <guid>https://react.statuscode.com/link/105143/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[202]]></title>
+            <link>https://react.statuscode.com/link/105144/rss</link>
+            <guid>https://react.statuscode.com/link/105144/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[214]]></title>
+            <link>https://react.statuscode.com/link/105145/rss</link>
+            <guid>https://react.statuscode.com/link/105145/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Build an Accordion in React from Scratch Without External Libraries]]></title>
+            <link>https://react.statuscode.com/link/105146/rss</link>
+            <guid>https://react.statuscode.com/link/105146/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React Lazy Loading Component with lazy() and Suspense]]></title>
+            <link>https://react.statuscode.com/link/105147/rss</link>
+            <guid>https://react.statuscode.com/link/105147/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[lazy()]]></title>
+            <link>https://react.statuscode.com/link/105148/rss</link>
+            <guid>https://react.statuscode.com/link/105148/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Senior Software Engineering Consultant - [100% Remote]]]></title>
+            <link>https://react.statuscode.com/link/105149/rss</link>
+            <guid>https://react.statuscode.com/link/105149/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coming to React from Angular]]></title>
+            <link>https://react.statuscode.com/link/105151/rss</link>
+            <guid>https://react.statuscode.com/link/105151/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Angular]]></title>
+            <link>https://react.statuscode.com/link/105152/rss</link>
+            <guid>https://react.statuscode.com/link/105152/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React Image Loading Optimization Techniques]]></title>
+            <link>https://react.statuscode.com/link/105153/rss</link>
+            <guid>https://react.statuscode.com/link/105153/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Part two]]></title>
+            <link>https://react.statuscode.com/link/105154/rss</link>
+            <guid>https://react.statuscode.com/link/105154/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Clean APIs in React with TypeScript]]></title>
+            <link>https://react.statuscode.com/link/105155/rss</link>
+            <guid>https://react.statuscode.com/link/105155/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[taggr]]></title>
+            <link>https://react.statuscode.com/link/105156/rss</link>
+            <guid>https://react.statuscode.com/link/105156/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Serverless Image Transformation & Optimization in React Application]]></title>
+            <link>https://react.statuscode.com/link/105157/rss</link>
+            <guid>https://react.statuscode.com/link/105157/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Advanced Guide to React Context with Hooks]]></title>
+            <link>https://react.statuscode.com/link/105158/rss</link>
+            <guid>https://react.statuscode.com/link/105158/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Redux]]></title>
+            <link>https://react.statuscode.com/link/105159/rss</link>
+            <guid>https://react.statuscode.com/link/105159/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Context]]></title>
+            <link>https://react.statuscode.com/link/105160/rss</link>
+            <guid>https://react.statuscode.com/link/105160/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Seven Best Practices for React Native Applications]]></title>
+            <link>https://react.statuscode.com/link/105161/rss</link>
+            <guid>https://react.statuscode.com/link/105161/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Work with Intervals in React Hooks]]></title>
+            <link>https://react.statuscode.com/link/105162/rss</link>
+            <guid>https://react.statuscode.com/link/105162/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React95 3.7: Windows 95-Style UI Components for React]]></title>
+            <link>https://react.statuscode.com/link/105164/rss</link>
+            <guid>https://react.statuscode.com/link/105164/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[very retro homepage]]></title>
+            <link>https://react.statuscode.com/link/105165/rss</link>
+            <guid>https://react.statuscode.com/link/105165/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React Financial Charts: Candlesticks, Trendlines, and More]]></title>
+            <link>https://react.statuscode.com/link/105166/rss</link>
+            <guid>https://react.statuscode.com/link/105166/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React Stockcharts]]></title>
+            <link>https://react.statuscode.com/link/105167/rss</link>
+            <guid>https://react.statuscode.com/link/105167/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Examples here]]></title>
+            <link>https://react.statuscode.com/link/105168/rss</link>
+            <guid>https://react.statuscode.com/link/105168/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SimpleR State: State Management for Minimalists]]></title>
+            <link>https://react.statuscode.com/link/105169/rss</link>
+            <guid>https://react.statuscode.com/link/105169/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Build Internal Tools Without the Fuss]]></title>
+            <link>https://react.statuscode.com/link/105170/rss</link>
+            <guid>https://react.statuscode.com/link/105170/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Typed React Form: Type-Checked Form State Manager]]></title>
+            <link>https://react.statuscode.com/link/105171/rss</link>
+            <guid>https://react.statuscode.com/link/105171/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[State Designer: Managing State as a Design Problem]]></title>
+            <link>https://react.statuscode.com/link/105172/rss</link>
+            <guid>https://react.statuscode.com/link/105172/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[react-lazy-svg]]></title>
+            <link>https://react.statuscode.com/link/105173/rss</link>
+            <guid>https://react.statuscode.com/link/105173/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[sprite sheet]]></title>
+            <link>https://react.statuscode.com/link/105174/rss</link>
+            <guid>https://react.statuscode.com/link/105174/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gradient King]]></title>
+            <link>https://react.statuscode.com/link/105175/rss</link>
+            <guid>https://react.statuscode.com/link/105175/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React Nice Dates]]></title>
+            <link>https://react.statuscode.com/link/105176/rss</link>
+            <guid>https://react.statuscode.com/link/105176/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[rc-input-number]]></title>
+            <link>https://react.statuscode.com/link/105177/rss</link>
+            <guid>https://react.statuscode.com/link/105177/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React PIN Field]]></title>
+            <link>https://react.statuscode.com/link/105178/rss</link>
+            <guid>https://react.statuscode.com/link/105178/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MFA]]></title>
+            <link>https://react.statuscode.com/link/105179/rss</link>
+            <guid>https://react.statuscode.com/link/105179/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Introducing Relay Hooks with Relay 11.0]]></title>
             <link>https://react.statuscode.com/link/104696/rss</link>
@@ -631,198 +865,6 @@
             <link>https://react.statuscode.com/link/103984/rss</link>
             <guid>https://react.statuscode.com/link/103984/rss</guid>
             <pubDate>Wed, 03 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Discovering Next.js with Guillermo Rauch]]></title>
-            <link>https://react.statuscode.com/link/103557/rss</link>
-            <guid>https://react.statuscode.com/link/103557/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Create React Components with TypeScript]]></title>
-            <link>https://react.statuscode.com/link/103558/rss</link>
-            <guid>https://react.statuscode.com/link/103558/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Definitive Guide to Feature Management]]></title>
-            <link>https://react.statuscode.com/link/103559/rss</link>
-            <guid>https://react.statuscode.com/link/103559/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Goober: A Less Than 1KB CSS-in-JS Solution]]></title>
-            <link>https://react.statuscode.com/link/103562/rss</link>
-            <guid>https://react.statuscode.com/link/103562/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[interactive demo]]></title>
-            <link>https://react.statuscode.com/link/103563/rss</link>
-            <guid>https://react.statuscode.com/link/103563/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dependency Injection in React]]></title>
-            <link>https://react.statuscode.com/link/103561/rss</link>
-            <guid>https://react.statuscode.com/link/103561/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React Native Radio: Tips & Tricks for the App Store and Play Store]]></title>
-            <link>https://react.statuscode.com/link/103564/rss</link>
-            <guid>https://react.statuscode.com/link/103564/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[komoot.com]]></title>
-            <link>https://react.statuscode.com/link/103566/rss</link>
-            <guid>https://react.statuscode.com/link/103566/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Timed Finite State Machines with React and XState]]></title>
-            <link>https://react.statuscode.com/link/103568/rss</link>
-            <guid>https://react.statuscode.com/link/103568/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turn Google Sheets into a REST API and Use It with React]]></title>
-            <link>https://react.statuscode.com/link/103569/rss</link>
-            <guid>https://react.statuscode.com/link/103569/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On Prop Drilling]]></title>
-            <link>https://react.statuscode.com/link/103570/rss</link>
-            <guid>https://react.statuscode.com/link/103570/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An Engineering Leader’s Guide to OpenTelemetry]]></title>
-            <link>https://react.statuscode.com/link/103571/rss</link>
-            <guid>https://react.statuscode.com/link/103571/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Intro to MobX Tutorial: Building a Simple Blockchain]]></title>
-            <link>https://react.statuscode.com/link/103572/rss</link>
-            <guid>https://react.statuscode.com/link/103572/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchain technology]]></title>
-            <link>https://react.statuscode.com/link/103573/rss</link>
-            <guid>https://react.statuscode.com/link/103573/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MobX]]></title>
-            <link>https://react.statuscode.com/link/103574/rss</link>
-            <guid>https://react.statuscode.com/link/103574/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Avoiding Race Conditions and Memory Leaks with useEffect]]></title>
-            <link>https://react.statuscode.com/link/103575/rss</link>
-            <guid>https://react.statuscode.com/link/103575/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[useEffect]]></title>
-            <link>https://react.statuscode.com/link/103576/rss</link>
-            <guid>https://react.statuscode.com/link/103576/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React Native Performance: Do's and Don’ts]]></title>
-            <link>https://react.statuscode.com/link/103560/rss</link>
-            <guid>https://react.statuscode.com/link/103560/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Simple-Keyboard: A Virtual Keyboard for JavaScript Projects]]></title>
-            <link>https://react.statuscode.com/link/103580/rss</link>
-            <guid>https://react.statuscode.com/link/103580/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React Currency Input Field Component]]></title>
-            <link>https://react.statuscode.com/link/103581/rss</link>
-            <guid>https://react.statuscode.com/link/103581/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Better Way to Build Internal Tools]]></title>
-            <link>https://react.statuscode.com/link/103582/rss</link>
-            <guid>https://react.statuscode.com/link/103582/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[rc-drawer: A Sliding Drawer Component]]></title>
-            <link>https://react.statuscode.com/link/103583/rss</link>
-            <guid>https://react.statuscode.com/link/103583/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Storybook collection of examples]]></title>
-            <link>https://react.statuscode.com/link/103584/rss</link>
-            <guid>https://react.statuscode.com/link/103584/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fielder: Simply Another Form Library?]]></title>
-            <link>https://react.statuscode.com/link/103585/rss</link>
-            <guid>https://react.statuscode.com/link/103585/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Formik]]></title>
-            <link>https://react.statuscode.com/link/103586/rss</link>
-            <guid>https://react.statuscode.com/link/103586/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[video introduction]]></title>
-            <link>https://react.statuscode.com/link/103587/rss</link>
-            <guid>https://react.statuscode.com/link/103587/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React Native Calendars]]></title>
-            <link>https://react.statuscode.com/link/103588/rss</link>
-            <guid>https://react.statuscode.com/link/103588/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eight Open Source React Native Projects to Check Out]]></title>
-            <link>https://react.statuscode.com/link/103589/rss</link>
-            <guid>https://react.statuscode.com/link/103589/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[react-select-me]]></title>
-            <link>https://react.statuscode.com/link/103590/rss</link>
-            <guid>https://react.statuscode.com/link/103590/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Demo.]]></title>
-            <link>https://react.statuscode.com/link/103593/rss</link>
-            <guid>https://react.statuscode.com/link/103593/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[accordion-collapse-react-native]]></title>
-            <link>https://react.statuscode.com/link/103591/rss</link>
-            <guid>https://react.statuscode.com/link/103591/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[react-text-transition]]></title>
-            <link>https://react.statuscode.com/link/103592/rss</link>
-            <guid>https://react.statuscode.com/link/103592/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

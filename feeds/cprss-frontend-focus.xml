@@ -4,10 +4,214 @@
         <title>Frontend Focus</title>
         <link>https://frontendfoc.us/</link>
         <description>A once–weekly roundup of the best front-end news, articles and tutorials. HTML, CSS, WebGL, Canvas, browser tech, and more.</description>
-        <lastBuildDate>Wed, 24 Mar 2021 12:53:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Mar 2021 19:47:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Smashing Magazine]]></title>
+            <link>https://frontendfoc.us/link/105214/rss</link>
+            <guid>https://frontendfoc.us/link/105214/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Complete Guide To Accessible Front-End Components]]></title>
+            <link>https://frontendfoc.us/link/105181/rss</link>
+            <guid>https://frontendfoc.us/link/105181/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Compat2021: A Drive to Eliminate Five Top Browser Compatibility Pain Points]]></title>
+            <link>https://frontendfoc.us/link/105182/rss</link>
+            <guid>https://frontendfoc.us/link/105182/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Here's Microsoft's blog post on this]]></title>
+            <link>https://frontendfoc.us/link/105183/rss</link>
+            <guid>https://frontendfoc.us/link/105183/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What If a Headless CMS and Google Docs Had a Baby...]]></title>
+            <link>https://frontendfoc.us/link/105184/rss</link>
+            <guid>https://frontendfoc.us/link/105184/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Accessible Text Labels For All]]></title>
+            <link>https://frontendfoc.us/link/105185/rss</link>
+            <guid>https://frontendfoc.us/link/105185/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[a recent talk Sara gave]]></title>
+            <link>https://frontendfoc.us/link/105186/rss</link>
+            <guid>https://frontendfoc.us/link/105186/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The End of AMP?]]></title>
+            <link>https://frontendfoc.us/link/105190/rss</link>
+            <guid>https://frontendfoc.us/link/105190/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chrome’s address bar will use https:// by default]]></title>
+            <link>https://frontendfoc.us/link/105187/rss</link>
+            <guid>https://frontendfoc.us/link/105187/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[is trimming certain data from HTTP referrers by default]]></title>
+            <link>https://frontendfoc.us/link/105188/rss</link>
+            <guid>https://frontendfoc.us/link/105188/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[introduces new a 'SmartBlock' privacy-protection feature]]></title>
+            <link>https://frontendfoc.us/link/105215/rss</link>
+            <guid>https://frontendfoc.us/link/105215/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Improve CSS Performance]]></title>
+            <link>https://frontendfoc.us/link/105189/rss</link>
+            <guid>https://frontendfoc.us/link/105189/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Making The Slowest 'Fast' Page]]></title>
+            <link>https://frontendfoc.us/link/105191/rss</link>
+            <guid>https://frontendfoc.us/link/105191/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Did You Know About the :has CSS Selector?]]></title>
+            <link>https://frontendfoc.us/link/105213/rss</link>
+            <guid>https://frontendfoc.us/link/105213/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Create a Screen Reader Accessible Graph Like Apple's with D3.js]]></title>
+            <link>https://frontendfoc.us/link/105194/rss</link>
+            <guid>https://frontendfoc.us/link/105194/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[D3.js]]></title>
+            <link>https://frontendfoc.us/link/105195/rss</link>
+            <guid>https://frontendfoc.us/link/105195/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Skip-Links Are Important for Accessibility]]></title>
+            <link>https://frontendfoc.us/link/105192/rss</link>
+            <guid>https://frontendfoc.us/link/105192/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tropical Particles Rain Animation with Three.js]]></title>
+            <link>https://frontendfoc.us/link/105196/rss</link>
+            <guid>https://frontendfoc.us/link/105196/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Here’s the demo.]]></title>
+            <link>https://frontendfoc.us/link/105197/rss</link>
+            <guid>https://frontendfoc.us/link/105197/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Protect Your CI/CD Pipelines From…. Yourself?]]></title>
+            <link>https://frontendfoc.us/link/105198/rss</link>
+            <guid>https://frontendfoc.us/link/105198/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the Web Audio API Gets Used for Browser Fingerprinting]]></title>
+            <link>https://frontendfoc.us/link/105193/rss</link>
+            <guid>https://frontendfoc.us/link/105193/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[There's No Such Thing as a Website or Web App That Doesn't Need to Be Accessible]]></title>
+            <link>https://frontendfoc.us/link/105199/rss</link>
+            <guid>https://frontendfoc.us/link/105199/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Use Mobile Emulation Mode in Chrome]]></title>
+            <link>https://frontendfoc.us/link/105200/rss</link>
+            <guid>https://frontendfoc.us/link/105200/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Senior Software Engineer]]></title>
+            <link>https://frontendfoc.us/link/105201/rss</link>
+            <guid>https://frontendfoc.us/link/105201/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Find Frontend Engineering Jobs with Hired]]></title>
+            <link>https://frontendfoc.us/link/105203/rss</link>
+            <guid>https://frontendfoc.us/link/105203/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Here's how]]></title>
+            <link>https://frontendfoc.us/link/105204/rss</link>
+            <guid>https://frontendfoc.us/link/105204/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Conic.css: A Gallery of Simple CSS Conic Gradients]]></title>
+            <link>https://frontendfoc.us/link/105205/rss</link>
+            <guid>https://frontendfoc.us/link/105205/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lite YouTube Embed: A Faster Youtube Embed]]></title>
+            <link>https://frontendfoc.us/link/105206/rss</link>
+            <guid>https://frontendfoc.us/link/105206/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[live demo here]]></title>
+            <link>https://frontendfoc.us/link/105207/rss</link>
+            <guid>https://frontendfoc.us/link/105207/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dasha AI: Add Human-Like Voice Conversational Capabilities to Your Website]]></title>
+            <link>https://frontendfoc.us/link/105208/rss</link>
+            <guid>https://frontendfoc.us/link/105208/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Aladino: A Tiny WebGL Library to Enhance Your Site with Shader Effects]]></title>
+            <link>https://frontendfoc.us/link/105209/rss</link>
+            <guid>https://frontendfoc.us/link/105209/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[on the demo page]]></title>
+            <link>https://frontendfoc.us/link/105210/rss</link>
+            <guid>https://frontendfoc.us/link/105210/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fontshare: A Free Fonts Service Launched by The Indian Type Foundry]]></title>
+            <link>https://frontendfoc.us/link/105211/rss</link>
+            <guid>https://frontendfoc.us/link/105211/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cookie Consent Speed Run]]></title>
+            <link>https://frontendfoc.us/link/105212/rss</link>
+            <guid>https://frontendfoc.us/link/105212/rss</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ghost 4.0]]></title>
             <link>https://frontendfoc.us/link/104800/rss</link>
@@ -565,210 +769,6 @@
             <link>https://frontendfoc.us/link/104082/rss</link>
             <guid>https://frontendfoc.us/link/104082/rss</guid>
             <pubDate>Wed, 03 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Create Responsive Image Effects with CSS Gradients and aspect-ratio]]></title>
-            <link>https://frontendfoc.us/link/103613/rss</link>
-            <guid>https://frontendfoc.us/link/103613/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What The Heck, z-index?]]></title>
-            <link>https://frontendfoc.us/link/103690/rss</link>
-            <guid>https://frontendfoc.us/link/103690/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Definitive Guide to Feature Management]]></title>
-            <link>https://frontendfoc.us/link/103614/rss</link>
-            <guid>https://frontendfoc.us/link/103614/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Firefox 86 Introduces 'Total Cookie Protection']]></title>
-            <link>https://frontendfoc.us/link/103616/rss</link>
-            <guid>https://frontendfoc.us/link/103616/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[multiple picture-in-picture support.]]></title>
-            <link>https://frontendfoc.us/link/103686/rss</link>
-            <guid>https://frontendfoc.us/link/103686/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This page brings details on a collection of 'controversial' Web APIs together]]></title>
-            <link>https://frontendfoc.us/link/103618/rss</link>
-            <guid>https://frontendfoc.us/link/103618/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ran a CSS audit]]></title>
-            <link>https://frontendfoc.us/link/103619/rss</link>
-            <guid>https://frontendfoc.us/link/103619/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Here are the results]]></title>
-            <link>https://frontendfoc.us/link/103620/rss</link>
-            <guid>https://frontendfoc.us/link/103620/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[State of Software Development]]></title>
-            <link>https://frontendfoc.us/link/103617/rss</link>
-            <guid>https://frontendfoc.us/link/103617/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting Deep into Shadows]]></title>
-            <link>https://frontendfoc.us/link/103621/rss</link>
-            <guid>https://frontendfoc.us/link/103621/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Time for Next-Gen Codecs to Dethrone JPEG]]></title>
-            <link>https://frontendfoc.us/link/103622/rss</link>
-            <guid>https://frontendfoc.us/link/103622/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Did Publicis Sapient Reduce Site Builds from 3 Months to 6 Hours?]]></title>
-            <link>https://frontendfoc.us/link/103623/rss</link>
-            <guid>https://frontendfoc.us/link/103623/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Publish an Angular, React, Svelte, or Vue JavaScript app with Azure Static Web Apps]]></title>
-            <link>https://frontendfoc.us/link/103624/rss</link>
-            <guid>https://frontendfoc.us/link/103624/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Azure Static Web Apps]]></title>
-            <link>https://frontendfoc.us/link/103625/rss</link>
-            <guid>https://frontendfoc.us/link/103625/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Three Ways to 'Blob' with CSS and SVG]]></title>
-            <link>https://frontendfoc.us/link/103626/rss</link>
-            <guid>https://frontendfoc.us/link/103626/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Creating a Shrinking Header on Scroll without JavaScript]]></title>
-            <link>https://frontendfoc.us/link/103627/rss</link>
-            <guid>https://frontendfoc.us/link/103627/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Web Components Are Used at GitHub and Salesforce]]></title>
-            <link>https://frontendfoc.us/link/103629/rss</link>
-            <guid>https://frontendfoc.us/link/103629/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Barebones CSS Approach for Fluid Images]]></title>
-            <link>https://frontendfoc.us/link/103630/rss</link>
-            <guid>https://frontendfoc.us/link/103630/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Styling Scrollbars with CSS]]></title>
-            <link>https://frontendfoc.us/link/103631/rss</link>
-            <guid>https://frontendfoc.us/link/103631/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Technology Lead (Calgary, Canada)]]></title>
-            <link>https://frontendfoc.us/link/103632/rss</link>
-            <guid>https://frontendfoc.us/link/103632/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Front End Developer (Calgary, Canada)]]></title>
-            <link>https://frontendfoc.us/link/103633/rss</link>
-            <guid>https://frontendfoc.us/link/103633/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[There's more info here]]></title>
-            <link>https://frontendfoc.us/link/103635/rss</link>
-            <guid>https://frontendfoc.us/link/103635/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PixelCraft: A Pixel Art Editor]]></title>
-            <link>https://frontendfoc.us/link/103636/rss</link>
-            <guid>https://frontendfoc.us/link/103636/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[try it here]]></title>
-            <link>https://frontendfoc.us/link/103637/rss</link>
-            <guid>https://frontendfoc.us/link/103637/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SVG Waves: Instantly Generate and Customize Wave Shapes]]></title>
-            <link>https://frontendfoc.us/link/103638/rss</link>
-            <guid>https://frontendfoc.us/link/103638/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[another tool]]></title>
-            <link>https://frontendfoc.us/link/103639/rss</link>
-            <guid>https://frontendfoc.us/link/103639/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[fullPage.js: Create Fullscreen Scrolling Sites]]></title>
-            <link>https://frontendfoc.us/link/103640/rss</link>
-            <guid>https://frontendfoc.us/link/103640/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GitHub repo.]]></title>
-            <link>https://frontendfoc.us/link/103641/rss</link>
-            <guid>https://frontendfoc.us/link/103641/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How 4 Figma Features Transformed Stream’s Design Workflows]]></title>
-            <link>https://frontendfoc.us/link/103628/rss</link>
-            <guid>https://frontendfoc.us/link/103628/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[disableautofill.js: Disable Form Auto-Fill and Auto-Complete Functions]]></title>
-            <link>https://frontendfoc.us/link/103642/rss</link>
-            <guid>https://frontendfoc.us/link/103642/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Glassmorphism: Generate CSS for a "Frosted Glass" Effect]]></title>
-            <link>https://frontendfoc.us/link/103643/rss</link>
-            <guid>https://frontendfoc.us/link/103643/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vue3 Icon Picker: An Beautiful Icon Picker Component for Vue]]></title>
-            <link>https://frontendfoc.us/link/103644/rss</link>
-            <guid>https://frontendfoc.us/link/103644/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Try a demo here]]></title>
-            <link>https://frontendfoc.us/link/103645/rss</link>
-            <guid>https://frontendfoc.us/link/103645/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vanilla JS version]]></title>
-            <link>https://frontendfoc.us/link/103646/rss</link>
-            <guid>https://frontendfoc.us/link/103646/rss</guid>
-            <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

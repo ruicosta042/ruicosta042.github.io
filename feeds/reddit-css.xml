@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Wed, 24 Mar 2021 12:53:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Mar 2021 19:47:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -27,16 +27,16 @@
             <pubDate>Tue, 23 Mar 2021 11:34:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[CSS Is, In Fact, Awesome]]></title>
-            <link>https://blog.jim-nielsen.com/2021/css-is-in-fact-awesome/</link>
-            <guid>https://blog.jim-nielsen.com/2021/css-is-in-fact-awesome/</guid>
-            <pubDate>Tue, 23 Mar 2021 12:36:47 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Scrollbar styling with CSS Tutorial]]></title>
             <link>https://daily-dev-tips.com/posts/styling-scrollbars-with-css/</link>
             <guid>https://daily-dev-tips.com/posts/styling-scrollbars-with-css/</guid>
             <pubDate>Tue, 23 Mar 2021 12:38:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CSS Is, In Fact, Awesome]]></title>
+            <link>https://blog.jim-nielsen.com/2021/css-is-in-fact-awesome/</link>
+            <guid>https://blog.jim-nielsen.com/2021/css-is-in-fact-awesome/</guid>
+            <pubDate>Tue, 23 Mar 2021 12:36:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[overflow: auto caused by line-height (bug?)]]></title>
@@ -61,18 +61,6 @@
             <link>https://css-auditors.com/blog/the-second-css-report-about-css-file-sizes-and-file-count/</link>
             <guid>https://css-auditors.com/blog/the-second-css-report-about-css-file-sizes-and-file-count/</guid>
             <pubDate>Mon, 22 Mar 2021 20:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[4 Tools I Wish I Knew About When I Started Learning HTML And CSS.]]></title>
-            <link>https://samdotpy.com/2021/03/22/4-tools-i-wish-i-knew-about-when-i-started-learning-html-and-css/</link>
-            <guid>https://samdotpy.com/2021/03/22/4-tools-i-wish-i-knew-about-when-i-started-learning-html-and-css/</guid>
-            <pubDate>Mon, 22 Mar 2021 14:06:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why We Should Move from CSS to SASS? Beginners]]></title>
-            <link>https://frontendz.com/2020/09/18/why-we-should-move-from-css-to-sass-beginners/</link>
-            <guid>https://frontendz.com/2020/09/18/why-we-should-move-from-css-to-sass-beginners/</guid>
-            <pubDate>Mon, 22 Mar 2021 10:43:35 GMT</pubDate>
         </item>
     </channel>
 </rss>

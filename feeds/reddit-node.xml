@@ -4,7 +4,7 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Wed, 24 Mar 2021 12:53:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Mar 2021 19:47:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,16 +15,52 @@
             <pubDate>Wed, 24 Mar 2021 11:45:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[High Performance NodeJS with Rust and WebAssembly]]></title>
-            <link>https://meetupfeed.io/talk/high-performance-node-js-powered-by-rust-and-web-assembly</link>
-            <guid>https://meetupfeed.io/talk/high-performance-node-js-powered-by-rust-and-web-assembly</guid>
-            <pubDate>Tue, 23 Mar 2021 22:17:56 GMT</pubDate>
+            <title><![CDATA[Angular, JavaScript, CSS, Html, NodeJS quick overview...]]></title>
+            <link>https://www.tutorialslogic.com/node-js?v.lat.node</link>
+            <guid>https://www.tutorialslogic.com/node-js?v.lat.node</guid>
+            <pubDate>Wed, 24 Mar 2021 17:32:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Here is a tutorial on how to setup jest for node.js + mongoose + typescript projects]]></title>
+            <link>https://kimlehtinen.com/how-to-setup-jest-for-node-js-mongoose-typescript-projects/</link>
+            <guid>https://kimlehtinen.com/how-to-setup-jest-for-node-js-mongoose-typescript-projects/</guid>
+            <pubDate>Wed, 24 Mar 2021 19:09:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Node.js Wroclaw #9]]></title>
+            <link>https://www.meetup.com/Node-js-Wroclaw/events/276910261/</link>
+            <guid>https://www.meetup.com/Node-js-Wroclaw/events/276910261/</guid>
+            <pubDate>Wed, 24 Mar 2021 18:35:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Loop and iteration in javascript with example | e Avni Tech]]></title>
+            <link>https://eavnitech.com/blog/loop-and-iteration-in-javascript-with-example</link>
+            <guid>https://eavnitech.com/blog/loop-and-iteration-in-javascript-with-example</guid>
+            <pubDate>Wed, 24 Mar 2021 18:15:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[on 2014 macbook pro, Big Sur, and z shell, and I'm not able to install node: Error: Your Command Line Tools (CLT) does not support macOS 11. It is either outdated or was modified. Please update your Command Line Tools (CLT) or delete it if no updates are available.]]></title>
             <link>https://stackoverflow.com/questions/29323982/error-cannot-find-module-lib-cli</link>
             <guid>https://stackoverflow.com/questions/29323982/error-cannot-find-module-lib-cli</guid>
             <pubDate>Wed, 24 Mar 2021 12:51:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Deploying a websocket backend]]></title>
+            <link>https://socket.io/</link>
+            <guid>https://socket.io/</guid>
+            <pubDate>Wed, 24 Mar 2021 15:29:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I curated 900+ remote job openings from Hacker News who is hiring - March]]></title>
+            <link>https://remoteleaf.com/whoishiring</link>
+            <guid>https://remoteleaf.com/whoishiring</guid>
+            <pubDate>Wed, 24 Mar 2021 14:01:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[High Performance NodeJS with Rust and WebAssembly]]></title>
+            <link>https://meetupfeed.io/talk/high-performance-node-js-powered-by-rust-and-web-assembly</link>
+            <guid>https://meetupfeed.io/talk/high-performance-node-js-powered-by-rust-and-web-assembly</guid>
+            <pubDate>Tue, 23 Mar 2021 22:17:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Node/React Monorepo - Help with reusing code]]></title>
@@ -43,48 +79,6 @@
             <link>https://github.com/arnaldobadin/bard</link>
             <guid>https://github.com/arnaldobadin/bard</guid>
             <pubDate>Tue, 23 Mar 2021 18:57:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[piscinajs/piscina the node.js worker pool]]></title>
-            <link>https://github.com/piscinajs/piscina</link>
-            <guid>https://github.com/piscinajs/piscina</guid>
-            <pubDate>Tue, 23 Mar 2021 08:32:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[mongoose schema help!!]]></title>
-            <link>https://www.aljazeera.com/news/2021/3/24/n-korea-test-fired-missiles-over-the-weekend-reports</link>
-            <guid>https://www.aljazeera.com/news/2021/3/24/n-korea-test-fired-missiles-over-the-weekend-reports</guid>
-            <pubDate>Wed, 24 Mar 2021 03:00:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Using Express/Prisma 2 for an API and want an admin area - what are my options?]]></title>
-            <link>https://github.com/weakky/ra-data-opencrud</link>
-            <guid>https://github.com/weakky/ra-data-opencrud</guid>
-            <pubDate>Wed, 24 Mar 2021 02:31:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[image recognition model written in typescript]]></title>
-            <link>https://github.com/ntedgi/node-efficientnet</link>
-            <guid>https://github.com/ntedgi/node-efficientnet</guid>
-            <pubDate>Tue, 23 Mar 2021 21:36:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Build An App with File Upload and Download Functionality and Image Preview using MERN Stack]]></title>
-            <link>https://blog.yogeshchavan.dev/build-an-app-with-file-upload-and-download-functionality-and-image-preview-using-mern-stack</link>
-            <guid>https://blog.yogeshchavan.dev/build-an-app-with-file-upload-and-download-functionality-and-image-preview-using-mern-stack</guid>
-            <pubDate>Tue, 23 Mar 2021 05:44:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nodejs with Socket.io , express or both?]]></title>
-            <link>https://socket.io/</link>
-            <guid>https://socket.io/</guid>
-            <pubDate>Tue, 23 Mar 2021 01:25:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Browse GraphQL Relations - new version!]]></title>
-            <link>https://graphqleditor.com/</link>
-            <guid>https://graphqleditor.com/</guid>
-            <pubDate>Tue, 23 Mar 2021 10:58:10 GMT</pubDate>
         </item>
     </channel>
 </rss>

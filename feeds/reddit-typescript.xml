@@ -4,10 +4,16 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Wed, 24 Mar 2021 12:53:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Mar 2021 19:47:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[TypeScript + Node.js minimal project boilerplate (template)]]></title>
+            <link>https://github.com/metachris/typescript-nodejs-boilerplate</link>
+            <guid>https://github.com/metachris/typescript-nodejs-boilerplate</guid>
+            <pubDate>Wed, 24 Mar 2021 14:30:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[image recognition model written in typescript]]></title>
             <link>https://github.com/ntedgi/node-efficientnet</link>
@@ -79,12 +85,6 @@
             <link>https://codesandbox.io/s/typescript-node-forked-0klmy?file=/src/index.ts</link>
             <guid>https://codesandbox.io/s/typescript-node-forked-0klmy?file=/src/index.ts</guid>
             <pubDate>Fri, 19 Mar 2021 13:24:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Template: TypeScript Module is a clonable template repository for authoring a npm module with TypeScript]]></title>
-            <link>https://github.com/lukeed/typescript-module</link>
-            <guid>https://github.com/lukeed/typescript-module</guid>
-            <pubDate>Fri, 19 Mar 2021 07:47:30 GMT</pubDate>
         </item>
     </channel>
 </rss>

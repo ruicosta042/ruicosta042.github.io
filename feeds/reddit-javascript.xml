@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Wed, 24 Mar 2021 12:53:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Mar 2021 19:47:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,28 +21,64 @@
             <pubDate>Wed, 24 Mar 2021 08:48:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Send messages between open pages or tabs in same browser]]></title>
-            <link>https://github.com/jcubic/sysend.js</link>
-            <guid>https://github.com/jcubic/sysend.js</guid>
-            <pubDate>Tue, 23 Mar 2021 14:53:29 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[What’s new in Socket.IO 4?]]></title>
             <link>https://ably.com/blog/whats-new-in-socketio-4?utm_source=reddit&amp;utm_medium=sc&amp;utm_campaign=wn-socketio-4</link>
             <guid>https://ably.com/blog/whats-new-in-socketio-4?utm_source=reddit&amp;utm_medium=sc&amp;utm_campaign=wn-socketio-4</guid>
             <pubDate>Wed, 24 Mar 2021 11:45:14 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[SvelteKit is in public beta]]></title>
+            <link>https://svelte.dev/blog/sveltekit-beta</link>
+            <guid>https://svelte.dev/blog/sveltekit-beta</guid>
+            <pubDate>Wed, 24 Mar 2021 19:27:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What about Svelte? Should you care!]]></title>
+            <link>https://deepu.tech/what-about-svelte/</link>
+            <guid>https://deepu.tech/what-about-svelte/</guid>
+            <pubDate>Wed, 24 Mar 2021 13:35:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My Portfolio - Mayank0255]]></title>
+            <link>https://mayank0255.github.io/</link>
+            <guid>https://mayank0255.github.io/</guid>
+            <pubDate>Wed, 24 Mar 2021 19:13:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React Context for Dependency Injection Not State Management]]></title>
+            <link>https://blog.testdouble.com/posts/2021-03-19-react-context-for-dependency-injection-not-state/</link>
+            <guid>https://blog.testdouble.com/posts/2021-03-19-react-context-for-dependency-injection-not-state/</guid>
+            <pubDate>Wed, 24 Mar 2021 19:12:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My Markdown cheatsheet]]></title>
+            <link>https://richardtate.hashnode.dev/my-markdown-cheatsheet</link>
+            <guid>https://richardtate.hashnode.dev/my-markdown-cheatsheet</guid>
+            <pubDate>Wed, 24 Mar 2021 19:07:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Send messages between open pages or tabs in same browser]]></title>
+            <link>https://github.com/jcubic/sysend.js</link>
+            <guid>https://github.com/jcubic/sysend.js</guid>
+            <pubDate>Tue, 23 Mar 2021 14:53:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I hand-picked 900+ remote job openings from Hacker News who is hiring - March]]></title>
+            <link>https://remoteleaf.com/whoishiring</link>
+            <guid>https://remoteleaf.com/whoishiring</guid>
+            <pubDate>Wed, 24 Mar 2021 14:08:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hi everyone, I’m just a beginner in JS and have a problem with functions, I kinda understood how it works but to understand it better I need someone to help me convert the kelvin-weather exercise into a function please. Thanks!!]]></title>
+            <link>https://github.com/koleaabramovici/kelvin-weather</link>
+            <guid>https://github.com/koleaabramovici/kelvin-weather</guid>
+            <pubDate>Wed, 24 Mar 2021 16:59:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[image recognition model written in typescript]]></title>
             <link>https://github.com/ntedgi/node-efficientnet</link>
             <guid>https://github.com/ntedgi/node-efficientnet</guid>
             <pubDate>Tue, 23 Mar 2021 21:32:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Which JavaScript frameworks are worth learning in 2021?]]></title>
-            <link>https://dev.to/ben/which-javascript-frameworks-are-worth-learning-in-2021-2h8p</link>
-            <guid>https://dev.to/ben/which-javascript-frameworks-are-worth-learning-in-2021-2h8p</guid>
-            <pubDate>Wed, 24 Mar 2021 09:15:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In March, we see Firefox 87]]></title>
@@ -55,6 +91,12 @@
             <link>https://payloadcms.com/blog/building-professionally-designed-site-nextjs-typescript-episode-1</link>
             <guid>https://payloadcms.com/blog/building-professionally-designed-site-nextjs-typescript-episode-1</guid>
             <pubDate>Tue, 23 Mar 2021 15:20:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Which JavaScript frameworks are worth learning in 2021?]]></title>
+            <link>https://dev.to/ben/which-javascript-frameworks-are-worth-learning-in-2021-2h8p</link>
+            <guid>https://dev.to/ben/which-javascript-frameworks-are-worth-learning-in-2021-2h8p</guid>
+            <pubDate>Wed, 24 Mar 2021 09:15:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What the hell is Reactive Programming anyway?]]></title>
@@ -109,48 +151,6 @@
             <link>https://dev.to/koistya/using-validate-js-via-a-fluent-typescript-interface-3hcm</link>
             <guid>https://dev.to/koistya/using-validate-js-via-a-fluent-typescript-interface-3hcm</guid>
             <pubDate>Tue, 23 Mar 2021 11:26:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[Blog series] Learning Functional Programming with JavaScript]]></title>
-            <link>https://www.kabisa.nl/tech/my-journey-in-learning-functional-programming/</link>
-            <guid>https://www.kabisa.nl/tech/my-journey-in-learning-functional-programming/</guid>
-            <pubDate>Tue, 23 Mar 2021 13:15:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Web based multi-screen apps including drag & drop]]></title>
-            <link>https://tobiasuhlig.medium.com/web-based-multi-screen-apps-including-drag-drop-5e161da6507b?source=friends_link&amp;sk=3c53f7b9cf882a93fb2929c726bd7721</link>
-            <guid>https://tobiasuhlig.medium.com/web-based-multi-screen-apps-including-drag-drop-5e161da6507b?source=friends_link&amp;sk=3c53f7b9cf882a93fb2929c726bd7721</guid>
-            <pubDate>Mon, 22 Mar 2021 07:20:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[dev.to] The Shocking Immaturity of JavaScript]]></title>
-            <link>https://dev.to/jaredcwhite/the-shocking-immaturity-of-javascript-c70</link>
-            <guid>https://dev.to/jaredcwhite/the-shocking-immaturity-of-javascript-c70</guid>
-            <pubDate>Tue, 23 Mar 2021 15:34:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Callbag JSX: React without the "magic"]]></title>
-            <link>https://loreanvictor.github.io/callbag-jsx/</link>
-            <guid>https://loreanvictor.github.io/callbag-jsx/</guid>
-            <pubDate>Mon, 22 Mar 2021 15:12:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Replacing Jest Snapshots With Cypress Screenshots for Testing React Components: An Experiment]]></title>
-            <link>https://www.michaelmang.dev/blog/replacing-jest-snapshots-with-cypress-screenshots-for-testing-react-components</link>
-            <guid>https://www.michaelmang.dev/blog/replacing-jest-snapshots-with-cypress-screenshots-for-testing-react-components</guid>
-            <pubDate>Mon, 22 Mar 2021 14:18:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stop Comparing Flutter’s Current Stage With Other Matured Frameworks]]></title>
-            <link>https://betterprogramming.pub/stop-comparing-flutters-current-stage-with-other-matured-frameworks-fcdbcf1e204b</link>
-            <guid>https://betterprogramming.pub/stop-comparing-flutters-current-stage-with-other-matured-frameworks-fcdbcf1e204b</guid>
-            <pubDate>Tue, 23 Mar 2021 03:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[tdash - a vanilla JS translation solution using WebComponents/CustomElements]]></title>
-            <link>https://github.com/Phamiliarize/tdash</link>
-            <guid>https://github.com/Phamiliarize/tdash</guid>
-            <pubDate>Mon, 22 Mar 2021 12:35:06 GMT</pubDate>
         </item>
     </channel>
 </rss>

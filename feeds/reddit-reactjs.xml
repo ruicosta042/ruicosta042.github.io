@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Wed, 24 Mar 2021 12:53:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Mar 2021 19:47:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -27,64 +27,70 @@
             <pubDate>Tue, 23 Mar 2021 14:15:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[I updated 133 jsx files w/ react-i18next to support multi-language and lived to tell the tale...]]></title>
+            <link>https://github.com/man-group/dtale/blob/master/docs/INTERNATIONALIZATION_FRONTEND.md</link>
+            <guid>https://github.com/man-group/dtale/blob/master/docs/INTERNATIONALIZATION_FRONTEND.md</guid>
+            <pubDate>Wed, 24 Mar 2021 16:58:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Today. 1 PM ET - Building Documentation and Demos in Gatsby]]></title>
+            <link>https://www.telerik.com/react-wednesdays</link>
+            <guid>https://www.telerik.com/react-wednesdays</guid>
+            <pubDate>Wed, 24 Mar 2021 14:04:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React Context for Dependency Injection Not State Management]]></title>
+            <link>https://blog.testdouble.com/posts/2021-03-19-react-context-for-dependency-injection-not-state/</link>
+            <guid>https://blog.testdouble.com/posts/2021-03-19-react-context-for-dependency-injection-not-state/</guid>
+            <pubDate>Wed, 24 Mar 2021 19:12:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[Oasis] Open for Contributors]]></title>
+            <link>https://github.com/heybereket/oasis</link>
+            <guid>https://github.com/heybereket/oasis</guid>
+            <pubDate>Wed, 24 Mar 2021 18:41:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is this app build from react/react native?]]></title>
+            <link>https://github.com/francistse23/jetfuel-take-home-exercise</link>
+            <guid>https://github.com/francistse23/jetfuel-take-home-exercise</guid>
+            <pubDate>Wed, 24 Mar 2021 18:37:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Which React static site generator do you recommend with i18n support?]]></title>
+            <link>https://github.com/vercel/next.js/issues/18318</link>
+            <guid>https://github.com/vercel/next.js/issues/18318</guid>
+            <pubDate>Wed, 24 Mar 2021 14:25:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I created my first reactjs game with socket.io]]></title>
             <link>https://socket.io/</link>
             <guid>https://socket.io/</guid>
             <pubDate>Wed, 24 Mar 2021 12:46:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to create react multi-step modal form with react hook]]></title>
-            <link>https://github.com/dokunbam/react-multi-step-modal</link>
-            <guid>https://github.com/dokunbam/react-multi-step-modal</guid>
-            <pubDate>Wed, 24 Mar 2021 11:53:08 GMT</pubDate>
+            <title><![CDATA[How to hide parent route, when navigating to child route?]]></title>
+            <link>https://stackblitz.com/edit/react-36vstk?file=src%2FHouse.js</link>
+            <guid>https://stackblitz.com/edit/react-36vstk?file=src%2FHouse.js</guid>
+            <pubDate>Wed, 24 Mar 2021 16:03:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Every use of useEffect should be a custom hook with a damn good name]]></title>
-            <link>https://kyleshevlin.com/use-encapsulation</link>
-            <guid>https://kyleshevlin.com/use-encapsulation</guid>
-            <pubDate>Tue, 23 Mar 2021 02:57:16 GMT</pubDate>
+            <title><![CDATA[Help with importing Material UI Icons + Bundle Size]]></title>
+            <link>https://material-ui.com/components/material-icons/</link>
+            <guid>https://material-ui.com/components/material-icons/</guid>
+            <pubDate>Wed, 24 Mar 2021 15:18:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why sitemap isn't being rendered ?]]></title>
+            <link>https://stackoverflow.com/questions/64936872/next-js-is-there-any-way-to-render-an-xml-file</link>
+            <guid>https://stackoverflow.com/questions/64936872/next-js-is-there-any-way-to-render-an-xml-file</guid>
+            <pubDate>Wed, 24 Mar 2021 15:03:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[From Django to React: How to Write Frontend if You Are a Backend Developer]]></title>
             <link>http://www.iamondemand.com/blog/django-react-write-frontend-backend-developer/</link>
             <guid>http://www.iamondemand.com/blog/django-react-write-frontend-backend-developer/</guid>
             <pubDate>Wed, 24 Mar 2021 09:59:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React Snapshot Testing With Jest: An Introduction With Examples]]></title>
-            <link>https://blog.asayer.io/react-snapshot-testing-with-jest-an-introduction-with-examples</link>
-            <guid>https://blog.asayer.io/react-snapshot-testing-with-jest-an-introduction-with-examples</guid>
-            <pubDate>Wed, 24 Mar 2021 09:45:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How can I merge two arrays of different objects but equal length?]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Wed, 24 Mar 2021 08:33:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can't get MDX to work in a JavaScript Component. Just want Markdown to be turned to react components...]]></title>
-            <link>https://codesandbox.io/s/dazzling-wescoff-ib8mv?file=/src/index.js</link>
-            <guid>https://codesandbox.io/s/dazzling-wescoff-ib8mv?file=/src/index.js</guid>
-            <pubDate>Wed, 24 Mar 2021 04:08:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[i made a IMDb-like with great search function]]></title>
-            <link>https://wildcine-thuillier.herokuapp.com/</link>
-            <guid>https://wildcine-thuillier.herokuapp.com/</guid>
-            <pubDate>Tue, 23 Mar 2021 23:42:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We are the developers of Reactime, an open source developer tool for React. Have you ever used it? Have any suggestions? Try it here and let us know what to add!]]></title>
-            <link>https://github.com/open-source-labs/ReacTime</link>
-            <guid>https://github.com/open-source-labs/ReacTime</guid>
-            <pubDate>Tue, 23 Mar 2021 14:51:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Hooks should define state per call."]]></title>
-            <link>https://dev.to/chiangs/custom-react-hooks-vs-services-mcm</link>
-            <guid>https://dev.to/chiangs/custom-react-hooks-vs-services-mcm</guid>
-            <pubDate>Tue, 23 Mar 2021 22:46:36 GMT</pubDate>
         </item>
     </channel>
 </rss>

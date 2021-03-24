@@ -4,15 +4,15 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Wed, 24 Mar 2021 07:47:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Mar 2021 12:53:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[I was working in a NodeJS Chatbot Builder Framework]]></title>
-            <link>https://github.com/arnaldobadin/bard</link>
-            <guid>https://github.com/arnaldobadin/bard</guid>
-            <pubDate>Tue, 23 Mar 2021 18:57:09 GMT</pubDate>
+            <title><![CDATA[What’s new in Socket.IO 4?]]></title>
+            <link>https://ably.com/blog/whats-new-in-socketio-4?utm_source=reddit&amp;utm_medium=sc&amp;utm_campaign=wn-socketio-4</link>
+            <guid>https://ably.com/blog/whats-new-in-socketio-4?utm_source=reddit&amp;utm_medium=sc&amp;utm_campaign=wn-socketio-4</guid>
+            <pubDate>Wed, 24 Mar 2021 11:45:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[High Performance NodeJS with Rust and WebAssembly]]></title>
@@ -21,22 +21,34 @@
             <pubDate>Tue, 23 Mar 2021 22:17:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[on 2014 macbook pro, Big Sur, and z shell, and I'm not able to install node: Error: Your Command Line Tools (CLT) does not support macOS 11. It is either outdated or was modified. Please update your Command Line Tools (CLT) or delete it if no updates are available.]]></title>
+            <link>https://stackoverflow.com/questions/29323982/error-cannot-find-module-lib-cli</link>
+            <guid>https://stackoverflow.com/questions/29323982/error-cannot-find-module-lib-cli</guid>
+            <pubDate>Wed, 24 Mar 2021 12:51:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Node/React Monorepo - Help with reusing code]]></title>
+            <link>https://www.npmjs.com/package/hapi-mongo-models</link>
+            <guid>https://www.npmjs.com/package/hapi-mongo-models</guid>
+            <pubDate>Wed, 24 Mar 2021 12:06:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[[Tutorial] JWT in node.js simple implementation with refresh token]]></title>
             <link>https://link.medium.com/T3Gjf2dISeb</link>
             <guid>https://link.medium.com/T3Gjf2dISeb</guid>
             <pubDate>Wed, 24 Mar 2021 07:45:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[I was working in a NodeJS Chatbot Builder Framework]]></title>
+            <link>https://github.com/arnaldobadin/bard</link>
+            <guid>https://github.com/arnaldobadin/bard</guid>
+            <pubDate>Tue, 23 Mar 2021 18:57:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[piscinajs/piscina the node.js worker pool]]></title>
             <link>https://github.com/piscinajs/piscina</link>
             <guid>https://github.com/piscinajs/piscina</guid>
             <pubDate>Tue, 23 Mar 2021 08:32:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[image recognition model written in typescript]]></title>
-            <link>https://github.com/ntedgi/node-efficientnet</link>
-            <guid>https://github.com/ntedgi/node-efficientnet</guid>
-            <pubDate>Tue, 23 Mar 2021 21:36:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[mongoose schema help!!]]></title>
@@ -49,6 +61,12 @@
             <link>https://github.com/weakky/ra-data-opencrud</link>
             <guid>https://github.com/weakky/ra-data-opencrud</guid>
             <pubDate>Wed, 24 Mar 2021 02:31:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[image recognition model written in typescript]]></title>
+            <link>https://github.com/ntedgi/node-efficientnet</link>
+            <guid>https://github.com/ntedgi/node-efficientnet</guid>
+            <pubDate>Tue, 23 Mar 2021 21:36:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Build An App with File Upload and Download Functionality and Image Preview using MERN Stack]]></title>
@@ -67,36 +85,6 @@
             <link>https://graphqleditor.com/</link>
             <guid>https://graphqleditor.com/</guid>
             <pubDate>Tue, 23 Mar 2021 10:58:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I've made a free list of remote jobs with a social / environmental impact that all need your nodejs skills]]></title>
-            <link>https://www.remoteimpact.io/</link>
-            <guid>https://www.remoteimpact.io/</guid>
-            <pubDate>Mon, 22 Mar 2021 12:21:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I need help with installation on kali Linux]]></title>
-            <link>https://ourcodeworld.com/articles/read/410/how-to-install-node-js-in-kali-linux</link>
-            <guid>https://ourcodeworld.com/articles/read/410/how-to-install-node-js-in-kali-linux</guid>
-            <pubDate>Tue, 23 Mar 2021 10:47:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don’t use underscores in your HTTP Headers]]></title>
-            <link>https://www.grouparoo.com/blog/dont-use-underscores-in-http-headers</link>
-            <guid>https://www.grouparoo.com/blog/dont-use-underscores-in-http-headers</guid>
-            <pubDate>Mon, 22 Mar 2021 16:17:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[npm - Updating libraries]]></title>
-            <link>https://responsivecodex.wordpress.com/2021/03/22/npm-node-package-management/</link>
-            <guid>https://responsivecodex.wordpress.com/2021/03/22/npm-node-package-management/</guid>
-            <pubDate>Tue, 23 Mar 2021 03:51:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[N react APP under 1 domain without subdomain]]></title>
-            <link>https://mydomain.com/</link>
-            <guid>https://mydomain.com/</guid>
-            <pubDate>Mon, 22 Mar 2021 18:58:01 GMT</pubDate>
         </item>
     </channel>
 </rss>

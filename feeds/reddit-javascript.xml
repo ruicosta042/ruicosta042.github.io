@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Wed, 24 Mar 2021 07:47:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Mar 2021 12:53:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,16 +15,34 @@
             <pubDate>Mon, 22 Mar 2021 09:04:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Re:factor - a free software development conference for charity]]></title>
+            <link>https://www.re-factor.be/</link>
+            <guid>https://www.re-factor.be/</guid>
+            <pubDate>Wed, 24 Mar 2021 08:48:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Send messages between open pages or tabs in same browser]]></title>
             <link>https://github.com/jcubic/sysend.js</link>
             <guid>https://github.com/jcubic/sysend.js</guid>
             <pubDate>Tue, 23 Mar 2021 14:53:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[What’s new in Socket.IO 4?]]></title>
+            <link>https://ably.com/blog/whats-new-in-socketio-4?utm_source=reddit&amp;utm_medium=sc&amp;utm_campaign=wn-socketio-4</link>
+            <guid>https://ably.com/blog/whats-new-in-socketio-4?utm_source=reddit&amp;utm_medium=sc&amp;utm_campaign=wn-socketio-4</guid>
+            <pubDate>Wed, 24 Mar 2021 11:45:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[image recognition model written in typescript]]></title>
             <link>https://github.com/ntedgi/node-efficientnet</link>
             <guid>https://github.com/ntedgi/node-efficientnet</guid>
             <pubDate>Tue, 23 Mar 2021 21:32:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Which JavaScript frameworks are worth learning in 2021?]]></title>
+            <link>https://dev.to/ben/which-javascript-frameworks-are-worth-learning-in-2021-2h8p</link>
+            <guid>https://dev.to/ben/which-javascript-frameworks-are-worth-learning-in-2021-2h8p</guid>
+            <pubDate>Wed, 24 Mar 2021 09:15:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In March, we see Firefox 87]]></title>
@@ -105,16 +123,16 @@
             <pubDate>Mon, 22 Mar 2021 07:20:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Callbag JSX: React without the "magic"]]></title>
-            <link>https://loreanvictor.github.io/callbag-jsx/</link>
-            <guid>https://loreanvictor.github.io/callbag-jsx/</guid>
-            <pubDate>Mon, 22 Mar 2021 15:12:21 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[[dev.to] The Shocking Immaturity of JavaScript]]></title>
             <link>https://dev.to/jaredcwhite/the-shocking-immaturity-of-javascript-c70</link>
             <guid>https://dev.to/jaredcwhite/the-shocking-immaturity-of-javascript-c70</guid>
             <pubDate>Tue, 23 Mar 2021 15:34:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Callbag JSX: React without the "magic"]]></title>
+            <link>https://loreanvictor.github.io/callbag-jsx/</link>
+            <guid>https://loreanvictor.github.io/callbag-jsx/</guid>
+            <pubDate>Mon, 22 Mar 2021 15:12:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Replacing Jest Snapshots With Cypress Screenshots for Testing React Components: An Experiment]]></title>
@@ -133,24 +151,6 @@
             <link>https://github.com/Phamiliarize/tdash</link>
             <guid>https://github.com/Phamiliarize/tdash</guid>
             <pubDate>Mon, 22 Mar 2021 12:35:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[simpler state - The simplest app state management for React]]></title>
-            <link>https://github.com/arnelenero/simpler-state</link>
-            <guid>https://github.com/arnelenero/simpler-state</guid>
-            <pubDate>Mon, 22 Mar 2021 15:22:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to send large SQS/SNS messages with Node.js]]></title>
-            <link>https://www.aspecto.io/blog/how-to-send-large-sqs-sns-messages-with-node-js/</link>
-            <guid>https://www.aspecto.io/blog/how-to-send-large-sqs-sns-messages-with-node-js/</guid>
-            <pubDate>Mon, 22 Mar 2021 16:22:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to create multi-language newsletter for free using Google Sheets and Localazy]]></title>
-            <link>https://towardsdatascience.com/how-to-create-multi-language-newsletter-for-free-using-google-sheets-and-localazy-c85ad2155fbf</link>
-            <guid>https://towardsdatascience.com/how-to-create-multi-language-newsletter-for-free-using-google-sheets-and-localazy-c85ad2155fbf</guid>
-            <pubDate>Mon, 22 Mar 2021 14:00:53 GMT</pubDate>
         </item>
     </channel>
 </rss>

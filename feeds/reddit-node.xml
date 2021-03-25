@@ -4,10 +4,22 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Thu, 25 Mar 2021 07:47:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Mar 2021 12:50:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Adding badges to your open source npm package markdown is now simple.]]></title>
+            <link>https://www.npmjs.com/package/git-auto-badger</link>
+            <guid>https://www.npmjs.com/package/git-auto-badger</guid>
+            <pubDate>Thu, 25 Mar 2021 10:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Soda -test - package for unit and component testing for Node.js and Angular projects]]></title>
+            <link>https://github.com/ranhs/soda-test</link>
+            <guid>https://github.com/ranhs/soda-test</guid>
+            <pubDate>Thu, 25 Mar 2021 11:16:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What’s new in Socket.IO 4?]]></title>
             <link>https://ably.com/blog/whats-new-in-socketio-4?utm_source=reddit&amp;utm_medium=sc&amp;utm_campaign=wn-socketio-4</link>
@@ -67,12 +79,6 @@
             <link>https://remoteleaf.com/whoishiring</link>
             <guid>https://remoteleaf.com/whoishiring</guid>
             <pubDate>Wed, 24 Mar 2021 14:01:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[High Performance NodeJS with Rust and WebAssembly]]></title>
-            <link>https://meetupfeed.io/talk/high-performance-node-js-powered-by-rust-and-web-assembly</link>
-            <guid>https://meetupfeed.io/talk/high-performance-node-js-powered-by-rust-and-web-assembly</guid>
-            <pubDate>Tue, 23 Mar 2021 22:17:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

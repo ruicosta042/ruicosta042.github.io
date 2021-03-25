@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Thu, 25 Mar 2021 07:47:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Mar 2021 12:50:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,28 @@
             <pubDate>Mon, 01 Mar 2021 15:56:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Using React + D3.js]]></title>
+            <link>https://wattenberger.com/blog/react-and-d3</link>
+            <guid>https://wattenberger.com/blog/react-and-d3</guid>
+            <pubDate>Thu, 25 Mar 2021 08:43:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[React Context for Dependency Injection Not State Management]]></title>
             <link>https://blog.testdouble.com/posts/2021-03-19-react-context-for-dependency-injection-not-state/</link>
             <guid>https://blog.testdouble.com/posts/2021-03-19-react-context-for-dependency-injection-not-state/</guid>
             <pubDate>Wed, 24 Mar 2021 19:12:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React Component to Smooth Scroll to the Top]]></title>
+            <link>https://dev.to/prnvbirajdar/react-hooks-component-to-smooth-scroll-to-the-top-35fd</link>
+            <guid>https://dev.to/prnvbirajdar/react-hooks-component-to-smooth-scroll-to-the-top-35fd</guid>
+            <pubDate>Thu, 25 Mar 2021 10:00:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My AsyncSelect cant pass the Value for posting in my api]]></title>
+            <link>https://codesandbox.io/s/kind-pascal-eib1h</link>
+            <guid>https://codesandbox.io/s/kind-pascal-eib1h</guid>
+            <pubDate>Thu, 25 Mar 2021 12:04:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[React Coding Challenges Is officially on the awesome-react list on GitHub!]]></title>
@@ -33,16 +51,22 @@
             <pubDate>Wed, 24 Mar 2021 23:24:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Question about skills automation]]></title>
+            <link>https://github.com/andrew-korsten/react-training/blob/master/src/Home.js</link>
+            <guid>https://github.com/andrew-korsten/react-training/blob/master/src/Home.js</guid>
+            <pubDate>Thu, 25 Mar 2021 12:11:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beginner here, How can take the data from an API and populate it in a dropdown menu and then send GET request?]]></title>
+            <link>https://api.chucknorris.io/</link>
+            <guid>https://api.chucknorris.io/</guid>
+            <pubDate>Thu, 25 Mar 2021 12:04:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I updated 133 jsx files w/ react-i18next to support multi-language and lived to tell the tale...]]></title>
             <link>https://github.com/man-group/dtale/blob/master/docs/INTERNATIONALIZATION_FRONTEND.md</link>
             <guid>https://github.com/man-group/dtale/blob/master/docs/INTERNATIONALIZATION_FRONTEND.md</guid>
             <pubDate>Wed, 24 Mar 2021 16:58:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[i am try to unable to send otp by api . please guide me]]></title>
-            <link>https://devapi.gosats.io/v1/auth/user/verify/phone',user</link>
-            <guid>https://devapi.gosats.io/v1/auth/user/verify/phone',user</guid>
-            <pubDate>Thu, 25 Mar 2021 04:43:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Open print window in react]]></title>
@@ -57,40 +81,10 @@
             <pubDate>Wed, 24 Mar 2021 20:02:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React Bricks CMS for React with Visual Editing in action]]></title>
-            <link>https://twitter.com/ReactBricks/status/1372489598698463233</link>
-            <guid>https://twitter.com/ReactBricks/status/1372489598698463233</guid>
-            <pubDate>Thu, 25 Mar 2021 00:19:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[One year ago, I created a small library that just hit 10k downloads per week]]></title>
-            <link>https://github.com/astoilkov/use-local-storage-state</link>
-            <guid>https://github.com/astoilkov/use-local-storage-state</guid>
-            <pubDate>Tue, 23 Mar 2021 14:15:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hermes, a JavaScript engine optimized for React Native]]></title>
-            <link>https://hermesengine.dev/</link>
-            <guid>https://hermesengine.dev/</guid>
-            <pubDate>Wed, 24 Mar 2021 23:32:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Today. 1 PM ET - Building Documentation and Demos in Gatsby]]></title>
-            <link>https://www.telerik.com/react-wednesdays</link>
-            <guid>https://www.telerik.com/react-wednesdays</guid>
-            <pubDate>Wed, 24 Mar 2021 14:04:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Which React static site generator do you recommend with i18n support?]]></title>
-            <link>https://github.com/vercel/next.js/issues/18318</link>
-            <guid>https://github.com/vercel/next.js/issues/18318</guid>
-            <pubDate>Wed, 24 Mar 2021 14:25:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I created my first reactjs game with socket.io]]></title>
-            <link>https://socket.io/</link>
-            <guid>https://socket.io/</guid>
-            <pubDate>Wed, 24 Mar 2021 12:46:48 GMT</pubDate>
+            <title><![CDATA[i am try to unable to send otp by api . please guide me]]></title>
+            <link>https://devapi.gosats.io/v1/auth/user/verify/phone',user</link>
+            <guid>https://devapi.gosats.io/v1/auth/user/verify/phone',user</guid>
+            <pubDate>Thu, 25 Mar 2021 04:43:59 GMT</pubDate>
         </item>
     </channel>
 </rss>

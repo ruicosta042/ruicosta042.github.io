@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Thu, 25 Mar 2021 07:47:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Mar 2021 12:50:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,18 @@
             <link>https://www.codingflicks.com/2021/03/responsive-homepage-design-using-flexbox-with-text-animation.html</link>
             <guid>https://www.codingflicks.com/2021/03/responsive-homepage-design-using-flexbox-with-text-animation.html</guid>
             <pubDate>Thu, 25 Mar 2021 04:05:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Some Trending New CSS Properties]]></title>
+            <link>https://blog.yudiz.com/some-trending-new-css-properties/</link>
+            <guid>https://blog.yudiz.com/some-trending-new-css-properties/</guid>
+            <pubDate>Thu, 25 Mar 2021 10:30:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Improve CSS Performance]]></title>
+            <link>https://calibreapp.com/blog/css-performance</link>
+            <guid>https://calibreapp.com/blog/css-performance</guid>
+            <pubDate>Thu, 25 Mar 2021 12:50:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The One Thing You Need to Know To Avoid CSS Overflow]]></title>
@@ -61,12 +73,6 @@
             <link>https://blog.jim-nielsen.com/2021/css-is-in-fact-awesome/</link>
             <guid>https://blog.jim-nielsen.com/2021/css-is-in-fact-awesome/</guid>
             <pubDate>Tue, 23 Mar 2021 12:36:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[overflow: auto caused by line-height (bug?)]]></title>
-            <link>https://jsfiddle.net/kwaf7t8n/1/</link>
-            <guid>https://jsfiddle.net/kwaf7t8n/1/</guid>
-            <pubDate>Tue, 23 Mar 2021 13:14:51 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Wed, 24 Mar 2021 19:47:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Mar 2021 07:47:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -79,12 +79,6 @@
             <link>https://github.com/VirtusLab/formts</link>
             <guid>https://github.com/VirtusLab/formts</guid>
             <pubDate>Sat, 20 Mar 2021 10:43:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Recursively set values in object]]></title>
-            <link>https://codesandbox.io/s/typescript-node-forked-0klmy?file=/src/index.ts</link>
-            <guid>https://codesandbox.io/s/typescript-node-forked-0klmy?file=/src/index.ts</guid>
-            <pubDate>Fri, 19 Mar 2021 13:24:47 GMT</pubDate>
         </item>
     </channel>
 </rss>

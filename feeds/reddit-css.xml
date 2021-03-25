@@ -4,10 +4,34 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Wed, 24 Mar 2021 19:47:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Mar 2021 07:47:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Simple Homepage with Text Effect]]></title>
+            <link>https://www.codingflicks.com/2021/03/responsive-homepage-design-using-flexbox-with-text-animation.html</link>
+            <guid>https://www.codingflicks.com/2021/03/responsive-homepage-design-using-flexbox-with-text-animation.html</guid>
+            <pubDate>Thu, 25 Mar 2021 04:05:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The One Thing You Need to Know To Avoid CSS Overflow]]></title>
+            <link>https://jportella93.medium.com/the-one-thing-you-need-to-know-to-avoid-css-overflow-9554b40aa797</link>
+            <guid>https://jportella93.medium.com/the-one-thing-you-need-to-know-to-avoid-css-overflow-9554b40aa797</guid>
+            <pubDate>Thu, 25 Mar 2021 01:45:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ASH CSS - Accessible CSS-only semantic framework with a built-in dark mode and a plethora of utilities. No JavaScript required!]]></title>
+            <link>https://ashcss.rocks/</link>
+            <guid>https://ashcss.rocks/</guid>
+            <pubDate>Wed, 24 Mar 2021 19:57:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gallery images stretch vertically in webkit/blink, but only for one article]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Wed, 24 Mar 2021 23:03:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Handling Text Over Images in CSS]]></title>
             <link>https://ishadeed.com/article/handling-text-over-image-css/</link>
@@ -43,24 +67,6 @@
             <link>https://jsfiddle.net/kwaf7t8n/1/</link>
             <guid>https://jsfiddle.net/kwaf7t8n/1/</guid>
             <pubDate>Tue, 23 Mar 2021 13:14:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ensuring the correct vertical position of large text]]></title>
-            <link>https://tobireif.com/posts/ensuring_the_correct_vertical_position_of_large_text/</link>
-            <guid>https://tobireif.com/posts/ensuring_the_correct_vertical_position_of_large_text/</guid>
-            <pubDate>Tue, 23 Mar 2021 12:39:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Official CSS Nesting – the last piece of the puzzle]]></title>
-            <link>https://benfrain.com/official-css-nesting-the-last-piece-of-the-puzzle/</link>
-            <guid>https://benfrain.com/official-css-nesting-the-last-piece-of-the-puzzle/</guid>
-            <pubDate>Mon, 22 Mar 2021 15:09:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CSS Auditors: On CSS sizes and performance budget]]></title>
-            <link>https://css-auditors.com/blog/the-second-css-report-about-css-file-sizes-and-file-count/</link>
-            <guid>https://css-auditors.com/blog/the-second-css-report-about-css-file-sizes-and-file-count/</guid>
-            <pubDate>Mon, 22 Mar 2021 20:21:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

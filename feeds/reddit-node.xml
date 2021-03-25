@@ -4,7 +4,7 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Wed, 24 Mar 2021 19:47:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Mar 2021 07:47:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,12 +13,6 @@
             <link>https://ably.com/blog/whats-new-in-socketio-4?utm_source=reddit&amp;utm_medium=sc&amp;utm_campaign=wn-socketio-4</link>
             <guid>https://ably.com/blog/whats-new-in-socketio-4?utm_source=reddit&amp;utm_medium=sc&amp;utm_campaign=wn-socketio-4</guid>
             <pubDate>Wed, 24 Mar 2021 11:45:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Angular, JavaScript, CSS, Html, NodeJS quick overview...]]></title>
-            <link>https://www.tutorialslogic.com/node-js?v.lat.node</link>
-            <guid>https://www.tutorialslogic.com/node-js?v.lat.node</guid>
-            <pubDate>Wed, 24 Mar 2021 17:32:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Here is a tutorial on how to setup jest for node.js + mongoose + typescript projects]]></title>
@@ -33,16 +27,34 @@
             <pubDate>Wed, 24 Mar 2021 18:35:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[What's New in Mongoose 5.12: Populate Transform]]></title>
+            <link>http://thecodebarbarian.com/whats-new-in-mongoose-5-12-populate-transform.html</link>
+            <guid>http://thecodebarbarian.com/whats-new-in-mongoose-5-12-populate-transform.html</guid>
+            <pubDate>Wed, 24 Mar 2021 20:57:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Loop and iteration in javascript with example | e Avni Tech]]></title>
             <link>https://eavnitech.com/blog/loop-and-iteration-in-javascript-with-example</link>
             <guid>https://eavnitech.com/blog/loop-and-iteration-in-javascript-with-example</guid>
             <pubDate>Wed, 24 Mar 2021 18:15:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[on 2014 macbook pro, Big Sur, and z shell, and I'm not able to install node: Error: Your Command Line Tools (CLT) does not support macOS 11. It is either outdated or was modified. Please update your Command Line Tools (CLT) or delete it if no updates are available.]]></title>
-            <link>https://stackoverflow.com/questions/29323982/error-cannot-find-module-lib-cli</link>
-            <guid>https://stackoverflow.com/questions/29323982/error-cannot-find-module-lib-cli</guid>
-            <pubDate>Wed, 24 Mar 2021 12:51:05 GMT</pubDate>
+            <title><![CDATA[Angular, JavaScript, CSS, Html, NodeJS quick overview...]]></title>
+            <link>https://www.tutorialslogic.com/node-js?v.lat.node</link>
+            <guid>https://www.tutorialslogic.com/node-js?v.lat.node</guid>
+            <pubDate>Wed, 24 Mar 2021 17:32:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[Tutorial] JWT in node.js simple implementation with refresh token]]></title>
+            <link>https://link.medium.com/T3Gjf2dISeb</link>
+            <guid>https://link.medium.com/T3Gjf2dISeb</guid>
+            <pubDate>Wed, 24 Mar 2021 07:45:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Just finished my web app now what?]]></title>
+            <link>https://www.mydeadclock.com/</link>
+            <guid>https://www.mydeadclock.com/</guid>
+            <pubDate>Thu, 25 Mar 2021 00:52:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Deploying a websocket backend]]></title>
@@ -61,24 +73,6 @@
             <link>https://meetupfeed.io/talk/high-performance-node-js-powered-by-rust-and-web-assembly</link>
             <guid>https://meetupfeed.io/talk/high-performance-node-js-powered-by-rust-and-web-assembly</guid>
             <pubDate>Tue, 23 Mar 2021 22:17:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Node/React Monorepo - Help with reusing code]]></title>
-            <link>https://www.npmjs.com/package/hapi-mongo-models</link>
-            <guid>https://www.npmjs.com/package/hapi-mongo-models</guid>
-            <pubDate>Wed, 24 Mar 2021 12:06:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[Tutorial] JWT in node.js simple implementation with refresh token]]></title>
-            <link>https://link.medium.com/T3Gjf2dISeb</link>
-            <guid>https://link.medium.com/T3Gjf2dISeb</guid>
-            <pubDate>Wed, 24 Mar 2021 07:45:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I was working in a NodeJS Chatbot Builder Framework]]></title>
-            <link>https://github.com/arnaldobadin/bard</link>
-            <guid>https://github.com/arnaldobadin/bard</guid>
-            <pubDate>Tue, 23 Mar 2021 18:57:09 GMT</pubDate>
         </item>
     </channel>
 </rss>

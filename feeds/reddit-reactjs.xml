@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Thu, 25 Mar 2021 12:50:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Mar 2021 19:50:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,6 +21,36 @@
             <pubDate>Thu, 25 Mar 2021 08:43:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Icon Library in React: Why Inline SVG Are Better than a Font]]></title>
+            <link>https://blog.theodo.com/2021/03/icon-library-react-why-inline-svg-better-than-font</link>
+            <guid>https://blog.theodo.com/2021/03/icon-library-react-why-inline-svg-better-than-font</guid>
+            <pubDate>Thu, 25 Mar 2021 15:00:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spearmint: Open-Source Test Generating Developer Tool]]></title>
+            <link>https://spearmintjs.com/</link>
+            <guid>https://spearmintjs.com/</guid>
+            <pubDate>Thu, 25 Mar 2021 19:24:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[12+ React Boilerplates & Starter Kits for Developers in 2021 - Flatlogic Blog]]></title>
+            <link>https://flatlogic.com/blog/12-react-boilerplates-and-starter-kits-for-developers-in-2021/</link>
+            <guid>https://flatlogic.com/blog/12-react-boilerplates-and-starter-kits-for-developers-in-2021/</guid>
+            <pubDate>Thu, 25 Mar 2021 17:37:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Atomos — A New Recoil Visualization Tool Powered by React Flow]]></title>
+            <link>https://coleredfearn.medium.com/atomos-a-new-recoil-visualization-tool-powered-by-react-flow-6e0404a16b9a</link>
+            <guid>https://coleredfearn.medium.com/atomos-a-new-recoil-visualization-tool-powered-by-react-flow-6e0404a16b9a</guid>
+            <pubDate>Thu, 25 Mar 2021 18:42:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Making Matrix Effect more Performant]]></title>
+            <link>https://np0gc.csb.app/</link>
+            <guid>https://np0gc.csb.app/</guid>
+            <pubDate>Thu, 25 Mar 2021 18:26:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[React Context for Dependency Injection Not State Management]]></title>
             <link>https://blog.testdouble.com/posts/2021-03-19-react-context-for-dependency-injection-not-state/</link>
             <guid>https://blog.testdouble.com/posts/2021-03-19-react-context-for-dependency-injection-not-state/</guid>
@@ -33,58 +63,40 @@
             <pubDate>Thu, 25 Mar 2021 10:00:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Visual editing without "no-code"]]></title>
+            <link>https://reactbricks.com/</link>
+            <guid>https://reactbricks.com/</guid>
+            <pubDate>Thu, 25 Mar 2021 18:51:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[My AsyncSelect cant pass the Value for posting in my api]]></title>
             <link>https://codesandbox.io/s/kind-pascal-eib1h</link>
             <guid>https://codesandbox.io/s/kind-pascal-eib1h</guid>
             <pubDate>Thu, 25 Mar 2021 12:04:41 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Created and deployed my portfolio site with ReactJS]]></title>
+            <link>https://www.saumyanayak.tech/</link>
+            <guid>https://www.saumyanayak.tech/</guid>
+            <pubDate>Thu, 25 Mar 2021 17:36:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[Custom Hook]Stable callback to unstable/dynamic callback]]></title>
+            <link>https://github.com/facebook/react/issues/16956#issuecomment-536636418</link>
+            <guid>https://github.com/facebook/react/issues/16956#issuecomment-536636418</guid>
+            <pubDate>Thu, 25 Mar 2021 15:56:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SetState() hook doesn't work in useEffect()]]></title>
+            <link>https://opentdb.com/api.php?amount=10</link>
+            <guid>https://opentdb.com/api.php?amount=10</guid>
+            <pubDate>Thu, 25 Mar 2021 15:07:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[React Coding Challenges Is officially on the awesome-react list on GitHub!]]></title>
             <link>https://github.com/alexgurr/react-coding-challenges/tree/master/rocket-ship</link>
             <guid>https://github.com/alexgurr/react-coding-challenges/tree/master/rocket-ship</guid>
             <pubDate>Wed, 24 Mar 2021 05:40:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comparing Svelte and React]]></title>
-            <link>https://www.jackfranklin.co.uk/blog/comparing-svelte-and-react-javascript/</link>
-            <guid>https://www.jackfranklin.co.uk/blog/comparing-svelte-and-react-javascript/</guid>
-            <pubDate>Wed, 24 Mar 2021 23:24:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Question about skills automation]]></title>
-            <link>https://github.com/andrew-korsten/react-training/blob/master/src/Home.js</link>
-            <guid>https://github.com/andrew-korsten/react-training/blob/master/src/Home.js</guid>
-            <pubDate>Thu, 25 Mar 2021 12:11:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beginner here, How can take the data from an API and populate it in a dropdown menu and then send GET request?]]></title>
-            <link>https://api.chucknorris.io/</link>
-            <guid>https://api.chucknorris.io/</guid>
-            <pubDate>Thu, 25 Mar 2021 12:04:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I updated 133 jsx files w/ react-i18next to support multi-language and lived to tell the tale...]]></title>
-            <link>https://github.com/man-group/dtale/blob/master/docs/INTERNATIONALIZATION_FRONTEND.md</link>
-            <guid>https://github.com/man-group/dtale/blob/master/docs/INTERNATIONALIZATION_FRONTEND.md</guid>
-            <pubDate>Wed, 24 Mar 2021 16:58:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Open print window in react]]></title>
-            <link>https://stackoverflow.com/questions/2255291/print-the-contents-of-a-div</link>
-            <guid>https://stackoverflow.com/questions/2255291/print-the-contents-of-a-div</guid>
-            <pubDate>Thu, 25 Mar 2021 03:53:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Intermediate coder needing guidance on project]]></title>
-            <link>https://www.frontendmentor.io/challenges/invoice-app-i7KaLTQjl</link>
-            <guid>https://www.frontendmentor.io/challenges/invoice-app-i7KaLTQjl</guid>
-            <pubDate>Wed, 24 Mar 2021 20:02:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[i am try to unable to send otp by api . please guide me]]></title>
-            <link>https://devapi.gosats.io/v1/auth/user/verify/phone',user</link>
-            <guid>https://devapi.gosats.io/v1/auth/user/verify/phone',user</guid>
-            <pubDate>Thu, 25 Mar 2021 04:43:59 GMT</pubDate>
         </item>
     </channel>
 </rss>

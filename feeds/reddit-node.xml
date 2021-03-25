@@ -4,10 +4,22 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Thu, 25 Mar 2021 12:50:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Mar 2021 19:50:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Easy Command Line Scripts With Node]]></title>
+            <link>https://blog.rentpathcode.com/easy-command-line-scripts-with-node-f9284e0ccfdd</link>
+            <guid>https://blog.rentpathcode.com/easy-command-line-scripts-with-node-f9284e0ccfdd</guid>
+            <pubDate>Thu, 25 Mar 2021 14:07:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to write better conditional expressions]]></title>
+            <link>https://georgianstan.medium.com/how-to-write-better-conditional-expressions-712c3dd014db?source=friends_link&amp;sk=15b034a2be8ad83440a8d4cc8940a0c6</link>
+            <guid>https://georgianstan.medium.com/how-to-write-better-conditional-expressions-712c3dd014db?source=friends_link&amp;sk=15b034a2be8ad83440a8d4cc8940a0c6</guid>
+            <pubDate>Thu, 25 Mar 2021 14:27:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Adding badges to your open source npm package markdown is now simple.]]></title>
             <link>https://www.npmjs.com/package/git-auto-badger</link>
@@ -15,16 +27,40 @@
             <pubDate>Thu, 25 Mar 2021 10:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Soda -test - package for unit and component testing for Node.js and Angular projects]]></title>
-            <link>https://github.com/ranhs/soda-test</link>
-            <guid>https://github.com/ranhs/soda-test</guid>
-            <pubDate>Thu, 25 Mar 2021 11:16:16 GMT</pubDate>
+            <title><![CDATA[Web Scraping with nodejs]]></title>
+            <link>https://www.scrapingdog.com/blog/web-scraping-101-with-nodejs</link>
+            <guid>https://www.scrapingdog.com/blog/web-scraping-101-with-nodejs</guid>
+            <pubDate>Thu, 25 Mar 2021 19:12:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[node Subreddit Statistics]]></title>
+            <link>https://redditpagematrics.com/r/node</link>
+            <guid>https://redditpagematrics.com/r/node</guid>
+            <pubDate>Thu, 25 Mar 2021 16:23:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Three Methods for Promisifying Node Callback Functions]]></title>
+            <link>https://www.grouparoo.com/blog/promisifying-node-functions</link>
+            <guid>https://www.grouparoo.com/blog/promisifying-node-functions</guid>
+            <pubDate>Thu, 25 Mar 2021 18:14:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Learn something new about JavaScript everyday in less than 1 Minute]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Thu, 25 Mar 2021 14:19:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What’s new in Socket.IO 4?]]></title>
             <link>https://ably.com/blog/whats-new-in-socketio-4?utm_source=reddit&amp;utm_medium=sc&amp;utm_campaign=wn-socketio-4</link>
             <guid>https://ably.com/blog/whats-new-in-socketio-4?utm_source=reddit&amp;utm_medium=sc&amp;utm_campaign=wn-socketio-4</guid>
             <pubDate>Wed, 24 Mar 2021 11:45:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Soda -test - package for unit and component testing for Node.js and Angular projects]]></title>
+            <link>https://github.com/ranhs/soda-test</link>
+            <guid>https://github.com/ranhs/soda-test</guid>
+            <pubDate>Thu, 25 Mar 2021 11:16:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Here is a tutorial on how to setup jest for node.js + mongoose + typescript projects]]></title>
@@ -43,42 +79,6 @@
             <link>http://thecodebarbarian.com/whats-new-in-mongoose-5-12-populate-transform.html</link>
             <guid>http://thecodebarbarian.com/whats-new-in-mongoose-5-12-populate-transform.html</guid>
             <pubDate>Wed, 24 Mar 2021 20:57:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Loop and iteration in javascript with example | e Avni Tech]]></title>
-            <link>https://eavnitech.com/blog/loop-and-iteration-in-javascript-with-example</link>
-            <guid>https://eavnitech.com/blog/loop-and-iteration-in-javascript-with-example</guid>
-            <pubDate>Wed, 24 Mar 2021 18:15:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Angular, JavaScript, CSS, Html, NodeJS quick overview...]]></title>
-            <link>https://www.tutorialslogic.com/node-js?v.lat.node</link>
-            <guid>https://www.tutorialslogic.com/node-js?v.lat.node</guid>
-            <pubDate>Wed, 24 Mar 2021 17:32:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[Tutorial] JWT in node.js simple implementation with refresh token]]></title>
-            <link>https://link.medium.com/T3Gjf2dISeb</link>
-            <guid>https://link.medium.com/T3Gjf2dISeb</guid>
-            <pubDate>Wed, 24 Mar 2021 07:45:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Just finished my web app now what?]]></title>
-            <link>https://www.mydeadclock.com/</link>
-            <guid>https://www.mydeadclock.com/</guid>
-            <pubDate>Thu, 25 Mar 2021 00:52:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deploying a websocket backend]]></title>
-            <link>https://socket.io/</link>
-            <guid>https://socket.io/</guid>
-            <pubDate>Wed, 24 Mar 2021 15:29:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I curated 900+ remote job openings from Hacker News who is hiring - March]]></title>
-            <link>https://remoteleaf.com/whoishiring</link>
-            <guid>https://remoteleaf.com/whoishiring</guid>
-            <pubDate>Wed, 24 Mar 2021 14:01:12 GMT</pubDate>
         </item>
     </channel>
 </rss>

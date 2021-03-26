@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Fri, 26 Mar 2021 07:49:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Mar 2021 12:54:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -27,16 +27,40 @@
             <pubDate>Thu, 25 Mar 2021 08:43:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Beginner looking for tips on how to recreate facebook ui]]></title>
+            <link>https://codesandbox.io/s/angry-mendeleev-zgmd1?file=/src/App.js</link>
+            <guid>https://codesandbox.io/s/angry-mendeleev-zgmd1?file=/src/App.js</guid>
+            <pubDate>Fri, 26 Mar 2021 11:39:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How to ACTUALLY create a static site with Next.js]]></title>
             <link>https://nextjs.org/docs/advanced-features/static-html-export</link>
             <guid>https://nextjs.org/docs/advanced-features/static-html-export</guid>
             <pubDate>Fri, 26 Mar 2021 04:20:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[My first article got published on opensource.com. Sharing with friends in community. Do provide feedback Build a to-do list app in React with hooks | Opensource.com]]></title>
-            <link>https://opensource.com/article/21/3/react-app-hooks</link>
-            <guid>https://opensource.com/article/21/3/react-app-hooks</guid>
-            <pubDate>Fri, 26 Mar 2021 03:28:36 GMT</pubDate>
+            <title><![CDATA[Free course: create a chatbot using Botonic, reacts and Contentful]]></title>
+            <link>https://www.headlesscreator.com/</link>
+            <guid>https://www.headlesscreator.com/</guid>
+            <pubDate>Fri, 26 Mar 2021 10:10:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React-snap and prerender]]></title>
+            <link>https://www.npmjs.com/package/react-snap</link>
+            <guid>https://www.npmjs.com/package/react-snap</guid>
+            <pubDate>Fri, 26 Mar 2021 09:29:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[Academic] The importance of communication between designers and developers]]></title>
+            <link>https://coventry.onlinesurveys.ac.uk/the-importance-of-communication-between-designers-and-deve</link>
+            <guid>https://coventry.onlinesurveys.ac.uk/the-importance-of-communication-between-designers-and-deve</guid>
+            <pubDate>Fri, 26 Mar 2021 09:14:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Working with Infinite Scroll in React]]></title>
+            <link>https://webomnizz.com/working-with-infinite-scroll-in-react/</link>
+            <guid>https://webomnizz.com/working-with-infinite-scroll-in-react/</guid>
+            <pubDate>Fri, 26 Mar 2021 08:06:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Icon Library in React: Why Inline SVG Are Better than a Font]]></title>
@@ -57,6 +81,12 @@
             <pubDate>Thu, 25 Mar 2021 18:26:43 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[My first article got published on opensource.com. Sharing with friends in community. Do provide feedback Build a to-do list app in React with hooks | Opensource.com]]></title>
+            <link>https://opensource.com/article/21/3/react-app-hooks</link>
+            <guid>https://opensource.com/article/21/3/react-app-hooks</guid>
+            <pubDate>Fri, 26 Mar 2021 03:28:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Atomos — A New Recoil Visualization Tool Powered by React Flow]]></title>
             <link>https://coleredfearn.medium.com/atomos-a-new-recoil-visualization-tool-powered-by-react-flow-6e0404a16b9a</link>
             <guid>https://coleredfearn.medium.com/atomos-a-new-recoil-visualization-tool-powered-by-react-flow-6e0404a16b9a</guid>
@@ -69,34 +99,16 @@
             <pubDate>Fri, 26 Mar 2021 02:07:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Getting Started With Redux]]></title>
-            <link>https://hershalb.com/getting-started-with-react-redux/</link>
-            <guid>https://hershalb.com/getting-started-with-react-redux/</guid>
-            <pubDate>Thu, 25 Mar 2021 23:35:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React Context for Dependency Injection Not State Management]]></title>
-            <link>https://blog.testdouble.com/posts/2021-03-19-react-context-for-dependency-injection-not-state/</link>
-            <guid>https://blog.testdouble.com/posts/2021-03-19-react-context-for-dependency-injection-not-state/</guid>
-            <pubDate>Wed, 24 Mar 2021 19:12:29 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Visual editing without "no-code"]]></title>
             <link>https://reactbricks.com/</link>
             <guid>https://reactbricks.com/</guid>
             <pubDate>Thu, 25 Mar 2021 18:51:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React Spring v9 - How could we create a crossfade transition?]]></title>
-            <link>https://codesandbox.io/embed/morr206pv8</link>
-            <guid>https://codesandbox.io/embed/morr206pv8</guid>
-            <pubDate>Thu, 25 Mar 2021 22:31:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[Custom Hook]Stable callback to unstable/dynamic callback]]></title>
-            <link>https://github.com/facebook/react/issues/16956#issuecomment-536636418</link>
-            <guid>https://github.com/facebook/react/issues/16956#issuecomment-536636418</guid>
-            <pubDate>Thu, 25 Mar 2021 15:56:29 GMT</pubDate>
+            <title><![CDATA[Getting Started With Redux]]></title>
+            <link>https://hershalb.com/getting-started-with-react-redux/</link>
+            <guid>https://hershalb.com/getting-started-with-react-redux/</guid>
+            <pubDate>Thu, 25 Mar 2021 23:35:28 GMT</pubDate>
         </item>
     </channel>
 </rss>

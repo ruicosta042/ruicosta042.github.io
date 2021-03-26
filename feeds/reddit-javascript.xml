@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Fri, 26 Mar 2021 07:49:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Mar 2021 12:54:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,18 @@
             <link>https://foo.com/</link>
             <guid>https://foo.com/</guid>
             <pubDate>Mon, 22 Mar 2021 09:04:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AskJS] jQuery-like `$(..)` function built-in to Chrome DevTools console!?!]]></title>
+            <link>https://developer.chrome.com/docs/devtools/console/utilities/#queryselector</link>
+            <guid>https://developer.chrome.com/docs/devtools/console/utilities/#queryselector</guid>
+            <pubDate>Fri, 26 Mar 2021 09:28:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[htmbox - A Dropbox clone written in htmx and hyperscript]]></title>
+            <link>https://htmbox.herokuapp.com/</link>
+            <guid>https://htmbox.herokuapp.com/</guid>
+            <pubDate>Fri, 26 Mar 2021 11:55:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I made an ESLint plugin for JS regexes. It detects potential errors, suggests improvements, and simplifies patterns.]]></title>
@@ -33,10 +45,16 @@
             <pubDate>Fri, 26 Mar 2021 04:17:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Easy Command Line Scripts With Node]]></title>
-            <link>https://blog.rentpathcode.com/easy-command-line-scripts-with-node-f9284e0ccfdd</link>
-            <guid>https://blog.rentpathcode.com/easy-command-line-scripts-with-node-f9284e0ccfdd</guid>
-            <pubDate>Thu, 25 Mar 2021 13:59:00 GMT</pubDate>
+            <title><![CDATA[foldl, foldr, and associative order]]></title>
+            <link>https://raganwald.com/2017/04/10/foldl-foldr.html</link>
+            <guid>https://raganwald.com/2017/04/10/foldl-foldr.html</guid>
+            <pubDate>Fri, 26 Mar 2021 12:46:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chart library billboard.js 3.0 release: D3.js v6 support & new candlestick type!]]></title>
+            <link>https://netil.medium.com/billboard-js-3-0-release-d3-js-v6-support-new-candlestick-type-9bd74af6a753</link>
+            <guid>https://netil.medium.com/billboard-js-3-0-release-d3-js-v6-support-new-candlestick-type-9bd74af6a753</guid>
+            <pubDate>Fri, 26 Mar 2021 11:24:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[On JavaScript Ecosystem]]></title>
@@ -45,22 +63,28 @@
             <pubDate>Thu, 25 Mar 2021 14:37:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Easy Command Line Scripts With Node]]></title>
+            <link>https://blog.rentpathcode.com/easy-command-line-scripts-with-node-f9284e0ccfdd</link>
+            <guid>https://blog.rentpathcode.com/easy-command-line-scripts-with-node-f9284e0ccfdd</guid>
+            <pubDate>Thu, 25 Mar 2021 13:59:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Human-Readable JavaScript: A Tale of Two Experts]]></title>
             <link>https://alistapart.com/article/human-readable-javascript/</link>
             <guid>https://alistapart.com/article/human-readable-javascript/</guid>
             <pubDate>Thu, 25 Mar 2021 15:39:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[SvelteKit is in public beta]]></title>
-            <link>https://svelte.dev/blog/sveltekit-beta</link>
-            <guid>https://svelte.dev/blog/sveltekit-beta</guid>
-            <pubDate>Wed, 24 Mar 2021 19:27:19 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Yet another cookie consent popup! But this one is neat #GDPR #CCPA]]></title>
             <link>https://github.com/klaxit/cookie-consent</link>
             <guid>https://github.com/klaxit/cookie-consent</guid>
             <pubDate>Thu, 25 Mar 2021 16:13:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SvelteKit is in public beta]]></title>
+            <link>https://svelte.dev/blog/sveltekit-beta</link>
+            <guid>https://svelte.dev/blog/sveltekit-beta</guid>
+            <pubDate>Wed, 24 Mar 2021 19:27:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vercel Serverless Functions vs Cloudflare Workers]]></title>
@@ -121,30 +145,6 @@
             <link>https://deepu.tech/what-about-svelte/</link>
             <guid>https://deepu.tech/what-about-svelte/</guid>
             <pubDate>Wed, 24 Mar 2021 13:35:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A collection of user scripts and Tool Labs tools intended for users of Wikimedia Foundation wikis.]]></title>
-            <link>https://github.com/Pathoschild/Wikimedia-contrib</link>
-            <guid>https://github.com/Pathoschild/Wikimedia-contrib</guid>
-            <pubDate>Wed, 24 Mar 2021 22:11:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Send messages between open pages or tabs in same browser]]></title>
-            <link>https://github.com/jcubic/sysend.js</link>
-            <guid>https://github.com/jcubic/sysend.js</guid>
-            <pubDate>Tue, 23 Mar 2021 14:53:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[image recognition model written in typescript]]></title>
-            <link>https://github.com/ntedgi/node-efficientnet</link>
-            <guid>https://github.com/ntedgi/node-efficientnet</guid>
-            <pubDate>Tue, 23 Mar 2021 21:32:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In March, we see Firefox 87]]></title>
-            <link>https://hacks.mozilla.org/2021/03/in-march-we-see-firefox-87/</link>
-            <guid>https://hacks.mozilla.org/2021/03/in-march-we-see-firefox-87/</guid>
-            <pubDate>Tue, 23 Mar 2021 16:02:29 GMT</pubDate>
         </item>
     </channel>
 </rss>

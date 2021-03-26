@@ -4,7 +4,7 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Fri, 26 Mar 2021 07:49:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Mar 2021 12:54:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -19,6 +19,12 @@
             <link>https://github.com/emberjs/rfcs/pull/730</link>
             <guid>https://github.com/emberjs/rfcs/pull/730</guid>
             <pubDate>Thu, 25 Mar 2021 19:43:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Released UpfrontJS]]></title>
+            <link>https://upfrontjs.com/</link>
+            <guid>https://upfrontjs.com/</guid>
+            <pubDate>Fri, 26 Mar 2021 08:23:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TypeScript + Node.js minimal project boilerplate (template)]]></title>
@@ -85,12 +91,6 @@
             <link>https://stackoverflow.com/questions/41717006/node-js-global-variable-and-typescript</link>
             <guid>https://stackoverflow.com/questions/41717006/node-js-global-variable-and-typescript</guid>
             <pubDate>Sat, 20 Mar 2021 19:10:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[formts - type-safe, declarative and performant react form & validation library]]></title>
-            <link>https://github.com/VirtusLab/formts</link>
-            <guid>https://github.com/VirtusLab/formts</guid>
-            <pubDate>Sat, 20 Mar 2021 10:43:27 GMT</pubDate>
         </item>
     </channel>
 </rss>

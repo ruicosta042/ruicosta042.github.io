@@ -4,15 +4,33 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Fri, 26 Mar 2021 07:49:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Mar 2021 12:54:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Audit Node Module folder with YARA rules]]></title>
+            <link>https://github.com/rpgeeganage/audit-node-modules-with-yara</link>
+            <guid>https://github.com/rpgeeganage/audit-node-modules-with-yara</guid>
+            <pubDate>Fri, 26 Mar 2021 10:04:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Web Scraping with nodejs]]></title>
             <link>https://www.scrapingdog.com/blog/web-scraping-101-with-nodejs</link>
             <guid>https://www.scrapingdog.com/blog/web-scraping-101-with-nodejs</guid>
             <pubDate>Thu, 25 Mar 2021 19:12:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tried everywhere, can you help me figure out this? internalBinding('errors') [ERR_MODULE_NOT_FOUND]]]></title>
+            <link>https://stackoverflow.com/questions/61291633/expressjs-is-return-error-err-module-not-found-if-i-import-the-file-without-j</link>
+            <guid>https://stackoverflow.com/questions/61291633/expressjs-is-return-error-err-module-not-found-if-i-import-the-file-without-j</guid>
+            <pubDate>Fri, 26 Mar 2021 11:55:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[asnyc function for retrieving Google Secret Manager Variable returns promise pending]]></title>
+            <link>https://stackoverflow.com/questions/66712713/asnyc-function-for-retrieving-google-secret-manager-variable-returns-promise-pen/66712925?noredirect=1#comment117932127_66712925</link>
+            <guid>https://stackoverflow.com/questions/66712713/asnyc-function-for-retrieving-google-secret-manager-variable-returns-promise-pen/66712925?noredirect=1#comment117932127_66712925</guid>
+            <pubDate>Fri, 26 Mar 2021 08:29:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Easy Command Line Scripts With Node]]></title>
@@ -67,18 +85,6 @@
             <link>https://github.com/ranhs/soda-test</link>
             <guid>https://github.com/ranhs/soda-test</guid>
             <pubDate>Thu, 25 Mar 2021 11:16:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Here is a tutorial on how to setup jest for node.js + mongoose + typescript projects]]></title>
-            <link>https://kimlehtinen.com/how-to-setup-jest-for-node-js-mongoose-typescript-projects/</link>
-            <guid>https://kimlehtinen.com/how-to-setup-jest-for-node-js-mongoose-typescript-projects/</guid>
-            <pubDate>Wed, 24 Mar 2021 19:09:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Node.js Wroclaw #9]]></title>
-            <link>https://www.meetup.com/Node-js-Wroclaw/events/276910261/</link>
-            <guid>https://www.meetup.com/Node-js-Wroclaw/events/276910261/</guid>
-            <pubDate>Wed, 24 Mar 2021 18:35:48 GMT</pubDate>
         </item>
     </channel>
 </rss>

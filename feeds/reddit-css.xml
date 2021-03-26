@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Fri, 26 Mar 2021 07:49:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Mar 2021 12:54:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,18 @@
             <link>https://www.lambdatest.com/blog/advanced-css-techniques-2021/?utm_source=Reddit&amp;utm_medium=blog&amp;utm_campaign=PM-260221-1&amp;utm_term=OrganicPosting</link>
             <guid>https://www.lambdatest.com/blog/advanced-css-techniques-2021/?utm_source=Reddit&amp;utm_medium=blog&amp;utm_campaign=PM-260221-1&amp;utm_term=OrganicPosting</guid>
             <pubDate>Fri, 26 Mar 2021 05:49:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The One Thing You Need to Know To Avoid CSS Overflow]]></title>
+            <link>https://jportella93.medium.com/the-one-thing-you-need-to-know-to-avoid-css-overflow-9554b40aa797</link>
+            <guid>https://jportella93.medium.com/the-one-thing-you-need-to-know-to-avoid-css-overflow-9554b40aa797</guid>
+            <pubDate>Fri, 26 Mar 2021 07:57:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Glassmorphism - learn how to implement the new design trend using only HTML and CSS - Themesberg Blog]]></title>
+            <link>https://themesberg.com/blog/glassmorphism/tutorial</link>
+            <guid>https://themesberg.com/blog/glassmorphism/tutorial</guid>
+            <pubDate>Fri, 26 Mar 2021 11:29:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to Improve CSS Performance]]></title>
@@ -85,18 +97,6 @@
             <link>https://css-tricks.com/taming-blend-modes-difference-and-exclusion/</link>
             <guid>https://css-tricks.com/taming-blend-modes-difference-and-exclusion/</guid>
             <pubDate>Tue, 23 Mar 2021 11:34:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scrollbar styling with CSS Tutorial]]></title>
-            <link>https://daily-dev-tips.com/posts/styling-scrollbars-with-css/</link>
-            <guid>https://daily-dev-tips.com/posts/styling-scrollbars-with-css/</guid>
-            <pubDate>Tue, 23 Mar 2021 12:38:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CSS Is, In Fact, Awesome]]></title>
-            <link>https://blog.jim-nielsen.com/2021/css-is-in-fact-awesome/</link>
-            <guid>https://blog.jim-nielsen.com/2021/css-is-in-fact-awesome/</guid>
-            <pubDate>Tue, 23 Mar 2021 12:36:47 GMT</pubDate>
         </item>
     </channel>
 </rss>

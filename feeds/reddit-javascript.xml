@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Thu, 25 Mar 2021 19:50:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Mar 2021 07:49:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,10 @@
             <pubDate>Mon, 22 Mar 2021 09:04:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I built a VS Code Theme Creator - now you can easily create your own VS Code themes :) (Built with Vue.js + Nuxt.js + Node.js and Firebase)]]></title>
-            <link>https://themes.vscode.one/</link>
-            <guid>https://themes.vscode.one/</guid>
-            <pubDate>Thu, 25 Mar 2021 12:46:04 GMT</pubDate>
+            <title><![CDATA[I made an ESLint plugin for JS regexes. It detects potential errors, suggests improvements, and simplifies patterns.]]></title>
+            <link>https://github.com/RunDevelopment/eslint-plugin-clean-regex</link>
+            <guid>https://github.com/RunDevelopment/eslint-plugin-clean-regex</guid>
+            <pubDate>Thu, 25 Mar 2021 17:58:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[JavaScript performance beyond bundle size]]></title>
@@ -27,16 +27,16 @@
             <pubDate>Thu, 25 Mar 2021 11:14:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Webpack Webhooks Plugin: Notifies external services when certain build events happen]]></title>
+            <link>https://github.com/xiaoyang-liu-cs/webpack-webhooks-plugin</link>
+            <guid>https://github.com/xiaoyang-liu-cs/webpack-webhooks-plugin</guid>
+            <pubDate>Fri, 26 Mar 2021 04:17:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Easy Command Line Scripts With Node]]></title>
             <link>https://blog.rentpathcode.com/easy-command-line-scripts-with-node-f9284e0ccfdd</link>
             <guid>https://blog.rentpathcode.com/easy-command-line-scripts-with-node-f9284e0ccfdd</guid>
             <pubDate>Thu, 25 Mar 2021 13:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SvelteKit is in public beta]]></title>
-            <link>https://svelte.dev/blog/sveltekit-beta</link>
-            <guid>https://svelte.dev/blog/sveltekit-beta</guid>
-            <pubDate>Wed, 24 Mar 2021 19:27:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[On JavaScript Ecosystem]]></title>
@@ -51,34 +51,10 @@
             <pubDate>Thu, 25 Mar 2021 15:39:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Vercel Serverless Functions vs Cloudflare Workers]]></title>
-            <link>https://moiva.io/blog/vercel-serverless-functions-vs-cloudflare-workers</link>
-            <guid>https://moiva.io/blog/vercel-serverless-functions-vs-cloudflare-workers</guid>
-            <pubDate>Thu, 25 Mar 2021 11:29:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AskJS] Bundle an entire npm module AND convert it to ES6?]]></title>
-            <link>https://github.com/ornicar/chessground</link>
-            <guid>https://github.com/ornicar/chessground</guid>
-            <pubDate>Thu, 25 Mar 2021 14:14:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I made an ESLint plugin for JS regexes. It detects potential errors, suggests improvements, and simplifies patterns.]]></title>
-            <link>https://github.com/RunDevelopment/eslint-plugin-clean-regex</link>
-            <guid>https://github.com/RunDevelopment/eslint-plugin-clean-regex</guid>
-            <pubDate>Thu, 25 Mar 2021 17:58:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Talc: Insta-CLI for your projects!]]></title>
-            <link>https://github.com/evinism/talc</link>
-            <guid>https://github.com/evinism/talc</guid>
-            <pubDate>Thu, 25 Mar 2021 17:48:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MDN localization in March — Tier 1 locales unfrozen, and future plans]]></title>
-            <link>https://hacks.mozilla.org/2021/03/mdn-localization-in-march-tier-1-locales-unfrozen-and-future-plans/</link>
-            <guid>https://hacks.mozilla.org/2021/03/mdn-localization-in-march-tier-1-locales-unfrozen-and-future-plans/</guid>
-            <pubDate>Thu, 25 Mar 2021 16:16:28 GMT</pubDate>
+            <title><![CDATA[SvelteKit is in public beta]]></title>
+            <link>https://svelte.dev/blog/sveltekit-beta</link>
+            <guid>https://svelte.dev/blog/sveltekit-beta</guid>
+            <pubDate>Wed, 24 Mar 2021 19:27:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Yet another cookie consent popup! But this one is neat #GDPR #CCPA]]></title>
@@ -87,10 +63,28 @@
             <pubDate>Thu, 25 Mar 2021 16:13:57 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Vercel Serverless Functions vs Cloudflare Workers]]></title>
+            <link>https://moiva.io/blog/vercel-serverless-functions-vs-cloudflare-workers</link>
+            <guid>https://moiva.io/blog/vercel-serverless-functions-vs-cloudflare-workers</guid>
+            <pubDate>Thu, 25 Mar 2021 11:29:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MDN localization in March — Tier 1 locales unfrozen, and future plans]]></title>
+            <link>https://hacks.mozilla.org/2021/03/mdn-localization-in-march-tier-1-locales-unfrozen-and-future-plans/</link>
+            <guid>https://hacks.mozilla.org/2021/03/mdn-localization-in-march-tier-1-locales-unfrozen-and-future-plans/</guid>
+            <pubDate>Thu, 25 Mar 2021 16:16:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[[RFC] Semantic versioning for TypeScript types (applicable to all JS/TS ecosystems' library authors)]]></title>
             <link>https://github.com/emberjs/rfcs/pull/730</link>
             <guid>https://github.com/emberjs/rfcs/pull/730</guid>
             <pubDate>Thu, 25 Mar 2021 13:33:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Talc: Insta-CLI for your projects!]]></title>
+            <link>https://github.com/evinism/talc</link>
+            <guid>https://github.com/evinism/talc</guid>
+            <pubDate>Thu, 25 Mar 2021 17:48:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to Build a Highly Responsive UI with ResizeObserver API]]></title>
@@ -139,6 +133,18 @@
             <link>https://github.com/jcubic/sysend.js</link>
             <guid>https://github.com/jcubic/sysend.js</guid>
             <pubDate>Tue, 23 Mar 2021 14:53:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[image recognition model written in typescript]]></title>
+            <link>https://github.com/ntedgi/node-efficientnet</link>
+            <guid>https://github.com/ntedgi/node-efficientnet</guid>
+            <pubDate>Tue, 23 Mar 2021 21:32:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In March, we see Firefox 87]]></title>
+            <link>https://hacks.mozilla.org/2021/03/in-march-we-see-firefox-87/</link>
+            <guid>https://hacks.mozilla.org/2021/03/in-march-we-see-firefox-87/</guid>
+            <pubDate>Tue, 23 Mar 2021 16:02:29 GMT</pubDate>
         </item>
     </channel>
 </rss>

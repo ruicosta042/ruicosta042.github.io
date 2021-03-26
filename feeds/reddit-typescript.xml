@@ -4,10 +4,16 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Thu, 25 Mar 2021 19:50:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Mar 2021 07:49:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[I squeezed every brain cell to create this library]]></title>
+            <link>https://github.com/5alidz/tiny-schema-validator</link>
+            <guid>https://github.com/5alidz/tiny-schema-validator</guid>
+            <pubDate>Fri, 26 Mar 2021 06:25:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[RFC] Semantic versioning for TypeScript types (applicable to all JS/TS ecosystems' library authors)]]></title>
             <link>https://github.com/emberjs/rfcs/pull/730</link>

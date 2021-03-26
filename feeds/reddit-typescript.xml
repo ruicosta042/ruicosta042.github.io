@@ -4,7 +4,7 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Fri, 26 Mar 2021 12:54:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Mar 2021 19:47:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,12 @@
             <link>https://github.com/5alidz/tiny-schema-validator</link>
             <guid>https://github.com/5alidz/tiny-schema-validator</guid>
             <pubDate>Fri, 26 Mar 2021 06:25:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[mst-task: A simple, strongly typed library for wrapping async tasks, using MobX-state-tree.]]></title>
+            <link>https://github.com/radiosilence/mst-task</link>
+            <guid>https://github.com/radiosilence/mst-task</guid>
+            <pubDate>Fri, 26 Mar 2021 18:58:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[RFC] Semantic versioning for TypeScript types (applicable to all JS/TS ecosystems' library authors)]]></title>
@@ -85,12 +91,6 @@
             <link>https://codewithwolf.com/how-to-use-jwt-with-node-express-sqlite-and-typescript</link>
             <guid>https://codewithwolf.com/how-to-use-jwt-with-node-express-sqlite-and-typescript</guid>
             <pubDate>Sat, 20 Mar 2021 22:03:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How do I define and use a custom global variable inside of global? (Node)]]></title>
-            <link>https://stackoverflow.com/questions/41717006/node-js-global-variable-and-typescript</link>
-            <guid>https://stackoverflow.com/questions/41717006/node-js-global-variable-and-typescript</guid>
-            <pubDate>Sat, 20 Mar 2021 19:10:30 GMT</pubDate>
         </item>
     </channel>
 </rss>

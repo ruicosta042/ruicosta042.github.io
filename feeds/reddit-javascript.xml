@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Fri, 26 Mar 2021 12:54:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Mar 2021 19:47:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,10 @@
             <pubDate>Mon, 22 Mar 2021 09:04:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[AskJS] jQuery-like `$(..)` function built-in to Chrome DevTools console!?!]]></title>
-            <link>https://developer.chrome.com/docs/devtools/console/utilities/#queryselector</link>
-            <guid>https://developer.chrome.com/docs/devtools/console/utilities/#queryselector</guid>
-            <pubDate>Fri, 26 Mar 2021 09:28:19 GMT</pubDate>
+            <title><![CDATA[Make Your Jest Tests up to 20% Faster by Changing a Single Setting]]></title>
+            <link>https://dev.to/vantanev/make-your-jest-tests-up-to-20-faster-by-changing-a-single-setting-i36</link>
+            <guid>https://dev.to/vantanev/make-your-jest-tests-up-to-20-faster-by-changing-a-single-setting-i36</guid>
+            <pubDate>Fri, 26 Mar 2021 14:36:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[htmbox - A Dropbox clone written in htmx and hyperscript]]></title>
@@ -27,10 +27,34 @@
             <pubDate>Fri, 26 Mar 2021 11:55:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[foldl, foldr, and associative order]]></title>
+            <link>https://raganwald.com/2017/04/10/foldl-foldr.html</link>
+            <guid>https://raganwald.com/2017/04/10/foldl-foldr.html</guid>
+            <pubDate>Fri, 26 Mar 2021 12:46:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[JavaScript baby]]></title>
+            <link>https://css-tricks.com/interactive-web-components-are-easier-than-you-think/</link>
+            <guid>https://css-tricks.com/interactive-web-components-are-easier-than-you-think/</guid>
+            <pubDate>Fri, 26 Mar 2021 19:15:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GraphQL Subscriptions w/ Serverless on AWS - Subscriptionless]]></title>
+            <link>https://github.com/andyrichardson/subscriptionless</link>
+            <guid>https://github.com/andyrichardson/subscriptionless</guid>
+            <pubDate>Fri, 26 Mar 2021 14:57:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I made an ESLint plugin for JS regexes. It detects potential errors, suggests improvements, and simplifies patterns.]]></title>
             <link>https://github.com/RunDevelopment/eslint-plugin-clean-regex</link>
             <guid>https://github.com/RunDevelopment/eslint-plugin-clean-regex</guid>
             <pubDate>Thu, 25 Mar 2021 17:58:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[JavaScript for optimizers: Removing currency symbols - GrowthPenguin]]></title>
+            <link>https://jeroenwiersma.com/javascript-for-optimizers-removing-currency-symbols/</link>
+            <guid>https://jeroenwiersma.com/javascript-for-optimizers-removing-currency-symbols/</guid>
+            <pubDate>Fri, 26 Mar 2021 15:55:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[JavaScript performance beyond bundle size]]></title>
@@ -39,34 +63,22 @@
             <pubDate>Thu, 25 Mar 2021 11:14:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Webpack Webhooks Plugin: Notifies external services when certain build events happen]]></title>
-            <link>https://github.com/xiaoyang-liu-cs/webpack-webhooks-plugin</link>
-            <guid>https://github.com/xiaoyang-liu-cs/webpack-webhooks-plugin</guid>
-            <pubDate>Fri, 26 Mar 2021 04:17:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[foldl, foldr, and associative order]]></title>
-            <link>https://raganwald.com/2017/04/10/foldl-foldr.html</link>
-            <guid>https://raganwald.com/2017/04/10/foldl-foldr.html</guid>
-            <pubDate>Fri, 26 Mar 2021 12:46:30 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Chart library billboard.js 3.0 release: D3.js v6 support & new candlestick type!]]></title>
             <link>https://netil.medium.com/billboard-js-3-0-release-d3-js-v6-support-new-candlestick-type-9bd74af6a753</link>
             <guid>https://netil.medium.com/billboard-js-3-0-release-d3-js-v6-support-new-candlestick-type-9bd74af6a753</guid>
             <pubDate>Fri, 26 Mar 2021 11:24:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On JavaScript Ecosystem]]></title>
-            <link>https://radekmie.github.io/blog/on-javascript-ecosystem/</link>
-            <guid>https://radekmie.github.io/blog/on-javascript-ecosystem/</guid>
-            <pubDate>Thu, 25 Mar 2021 14:37:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Easy Command Line Scripts With Node]]></title>
             <link>https://blog.rentpathcode.com/easy-command-line-scripts-with-node-f9284e0ccfdd</link>
             <guid>https://blog.rentpathcode.com/easy-command-line-scripts-with-node-f9284e0ccfdd</guid>
             <pubDate>Thu, 25 Mar 2021 13:59:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On JavaScript Ecosystem]]></title>
+            <link>https://radekmie.github.io/blog/on-javascript-ecosystem/</link>
+            <guid>https://radekmie.github.io/blog/on-javascript-ecosystem/</guid>
+            <pubDate>Thu, 25 Mar 2021 14:37:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Human-Readable JavaScript: A Tale of Two Experts]]></title>
@@ -133,18 +145,6 @@
             <link>https://otpfy.com/</link>
             <guid>https://otpfy.com/</guid>
             <pubDate>Thu, 25 Mar 2021 11:16:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What’s new in Socket.IO 4?]]></title>
-            <link>https://ably.com/blog/whats-new-in-socketio-4?utm_source=reddit&amp;utm_medium=sc&amp;utm_campaign=wn-socketio-4</link>
-            <guid>https://ably.com/blog/whats-new-in-socketio-4?utm_source=reddit&amp;utm_medium=sc&amp;utm_campaign=wn-socketio-4</guid>
-            <pubDate>Wed, 24 Mar 2021 11:45:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What about Svelte? Should you care!]]></title>
-            <link>https://deepu.tech/what-about-svelte/</link>
-            <guid>https://deepu.tech/what-about-svelte/</guid>
-            <pubDate>Wed, 24 Mar 2021 13:35:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

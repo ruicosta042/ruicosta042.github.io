@@ -4,10 +4,16 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Fri, 26 Mar 2021 12:54:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Mar 2021 19:47:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Learn enough Docker to be Useful - Beginner to Intermediate Level]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Fri, 26 Mar 2021 15:17:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Audit Node Module folder with YARA rules]]></title>
             <link>https://github.com/rpgeeganage/audit-node-modules-with-yara</link>
@@ -21,16 +27,28 @@
             <pubDate>Thu, 25 Mar 2021 19:12:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tried everywhere, can you help me figure out this? internalBinding('errors') [ERR_MODULE_NOT_FOUND]]]></title>
-            <link>https://stackoverflow.com/questions/61291633/expressjs-is-return-error-err-module-not-found-if-i-import-the-file-without-j</link>
-            <guid>https://stackoverflow.com/questions/61291633/expressjs-is-return-error-err-module-not-found-if-i-import-the-file-without-j</guid>
-            <pubDate>Fri, 26 Mar 2021 11:55:15 GMT</pubDate>
+            <title><![CDATA[New NestJS Course on Udemy!]]></title>
+            <link>https://www.udemy.com/course/master-nestjs-the-javascript-nodejs-framework/?couponCode=TWITTER</link>
+            <guid>https://www.udemy.com/course/master-nestjs-the-javascript-nodejs-framework/?couponCode=TWITTER</guid>
+            <pubDate>Fri, 26 Mar 2021 17:57:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[asnyc function for retrieving Google Secret Manager Variable returns promise pending]]></title>
             <link>https://stackoverflow.com/questions/66712713/asnyc-function-for-retrieving-google-secret-manager-variable-returns-promise-pen/66712925?noredirect=1#comment117932127_66712925</link>
             <guid>https://stackoverflow.com/questions/66712713/asnyc-function-for-retrieving-google-secret-manager-variable-returns-promise-pen/66712925?noredirect=1#comment117932127_66712925</guid>
             <pubDate>Fri, 26 Mar 2021 08:29:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tried everywhere, can you help me figure out this? internalBinding('errors') [ERR_MODULE_NOT_FOUND]]]></title>
+            <link>https://stackoverflow.com/questions/61291633/expressjs-is-return-error-err-module-not-found-if-i-import-the-file-without-j</link>
+            <guid>https://stackoverflow.com/questions/61291633/expressjs-is-return-error-err-module-not-found-if-i-import-the-file-without-j</guid>
+            <pubDate>Fri, 26 Mar 2021 11:55:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[how to axios fetch that isn't on localhost? [Question]]]></title>
+            <link>https://heroku-app.com/</link>
+            <guid>https://heroku-app.com/</guid>
+            <pubDate>Fri, 26 Mar 2021 15:54:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Easy Command Line Scripts With Node]]></title>
@@ -73,18 +91,6 @@
             <link>https://foo.com/</link>
             <guid>https://foo.com/</guid>
             <pubDate>Thu, 25 Mar 2021 14:19:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What’s new in Socket.IO 4?]]></title>
-            <link>https://ably.com/blog/whats-new-in-socketio-4?utm_source=reddit&amp;utm_medium=sc&amp;utm_campaign=wn-socketio-4</link>
-            <guid>https://ably.com/blog/whats-new-in-socketio-4?utm_source=reddit&amp;utm_medium=sc&amp;utm_campaign=wn-socketio-4</guid>
-            <pubDate>Wed, 24 Mar 2021 11:45:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Soda -test - package for unit and component testing for Node.js and Angular projects]]></title>
-            <link>https://github.com/ranhs/soda-test</link>
-            <guid>https://github.com/ranhs/soda-test</guid>
-            <pubDate>Thu, 25 Mar 2021 11:16:16 GMT</pubDate>
         </item>
     </channel>
 </rss>

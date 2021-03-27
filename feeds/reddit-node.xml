@@ -4,10 +4,22 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Sat, 27 Mar 2021 12:54:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Mar 2021 19:47:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Out of box canvas implementation by napi-rs and skia, zero system dependency, and no postinstall scripts. We are very close to complete its functionality, just try it with npm install @napi-rs/canvas]]></title>
+            <link>https://github.com/Brooooooklyn/canvas</link>
+            <guid>https://github.com/Brooooooklyn/canvas</guid>
+            <pubDate>Sat, 27 Mar 2021 15:24:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Angular, JavaScript, CSS, Html, NodeJS quick overview...]]></title>
+            <link>https://www.tutorialslogic.com/angular?ng.12.v</link>
+            <guid>https://www.tutorialslogic.com/angular?ng.12.v</guid>
+            <pubDate>Sat, 27 Mar 2021 18:21:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Learn enough Docker to be Useful - Beginner to Intermediate Level]]></title>
             <link>https://foo.com/</link>
@@ -55,36 +67,6 @@
             <link>https://blog.shahednasser.com/i-created-a-cli-to-cross-post-your-articles-on-dev-hashnode-and-medium/</link>
             <guid>https://blog.shahednasser.com/i-created-a-cli-to-cross-post-your-articles-on-dev-hashnode-and-medium/</guid>
             <pubDate>Fri, 26 Mar 2021 21:57:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stream Key/Value records in Fluvio]]></title>
-            <link>https://fluvio.io/blog/2021/03/key-value-records</link>
-            <guid>https://fluvio.io/blog/2021/03/key-value-records</guid>
-            <pubDate>Fri, 26 Mar 2021 20:28:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Create production-ready REST API using nodeJS with TypeScript]]></title>
-            <link>https://lazypandatech.com/blog/NodeJS/13/Create-production-ready-REST-API-using-nodeJS-with-TypeScript</link>
-            <guid>https://lazypandatech.com/blog/NodeJS/13/Create-production-ready-REST-API-using-nodeJS-with-TypeScript</guid>
-            <pubDate>Fri, 26 Mar 2021 20:28:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Node & documentation/examples]]></title>
-            <link>https://nodejs.org/api/http.html#http_event_connect</link>
-            <guid>https://nodejs.org/api/http.html#http_event_connect</guid>
-            <pubDate>Fri, 26 Mar 2021 20:24:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Web Scraping with nodejs]]></title>
-            <link>https://www.scrapingdog.com/blog/web-scraping-101-with-nodejs</link>
-            <guid>https://www.scrapingdog.com/blog/web-scraping-101-with-nodejs</guid>
-            <pubDate>Thu, 25 Mar 2021 19:12:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New NestJS Course on Udemy!]]></title>
-            <link>https://www.udemy.com/course/master-nestjs-the-javascript-nodejs-framework/?couponCode=TWITTER</link>
-            <guid>https://www.udemy.com/course/master-nestjs-the-javascript-nodejs-framework/?couponCode=TWITTER</guid>
-            <pubDate>Fri, 26 Mar 2021 17:57:02 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,16 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Sat, 27 Mar 2021 12:54:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Mar 2021 19:47:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[A cleaner API for React TS components]]></title>
+            <link>https://javascript.plainenglish.io/a-cleaner-api-for-react-ts-components-47d0704a508c</link>
+            <guid>https://javascript.plainenglish.io/a-cleaner-api-for-react-ts-components-47d0704a508c</guid>
+            <pubDate>Sat, 27 Mar 2021 18:19:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I squeezed every brain cell to create this library]]></title>
             <link>https://github.com/5alidz/tiny-schema-validator</link>

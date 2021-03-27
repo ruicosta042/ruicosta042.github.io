@@ -4,15 +4,33 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sat, 27 Mar 2021 12:54:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Mar 2021 19:47:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Create videos in React that viewers can interact with]]></title>
+            <link>https://github.com/ysulyma/ractive-player</link>
+            <guid>https://github.com/ysulyma/ractive-player</guid>
+            <pubDate>Sat, 27 Mar 2021 15:45:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[Showoff Saturday] Using native Javascript which has come a long way, I built a job board]]></title>
             <link>https://arbeitnow.com/</link>
             <guid>https://arbeitnow.com/</guid>
             <pubDate>Sat, 27 Mar 2021 09:07:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This webpage plays chess but the Javascript isn't in the page. Can you find it?]]></title>
+            <link>http://awokeknowing.com/chessboard.html</link>
+            <guid>http://awokeknowing.com/chessboard.html</guid>
+            <pubDate>Sat, 27 Mar 2021 15:33:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to write a Webpack loader]]></title>
+            <link>https://advancedweb.hu/how-to-write-a-webpack-loader/</link>
+            <guid>https://advancedweb.hu/how-to-write-a-webpack-loader/</guid>
+            <pubDate>Sat, 27 Mar 2021 18:11:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Make Your Jest Tests up to 20% Faster by Changing a Single Setting]]></title>
@@ -21,16 +39,40 @@
             <pubDate>Fri, 26 Mar 2021 14:36:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[To Those Who Criticize JavaScript]]></title>
-            <link>https://dev.to/ruby_hater/the-shocking-impossibility-of-ruby-4h9f</link>
-            <guid>https://dev.to/ruby_hater/the-shocking-impossibility-of-ruby-4h9f</guid>
-            <pubDate>Fri, 26 Mar 2021 21:11:57 GMT</pubDate>
+            <title><![CDATA[LINQ implemented in JavaScript Template Literals]]></title>
+            <link>https://github.com/sinclairzx81/linqbox</link>
+            <guid>https://github.com/sinclairzx81/linqbox</guid>
+            <pubDate>Sat, 27 Mar 2021 19:45:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Advanced Promises in Javascript (Dataloader Pattern) - Mike Alche]]></title>
+            <link>https://www.mikealche.com/software-development/advanced-promises-in-javascript-building-a-simple-dataloader</link>
+            <guid>https://www.mikealche.com/software-development/advanced-promises-in-javascript-building-a-simple-dataloader</guid>
+            <pubDate>Sat, 27 Mar 2021 19:16:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to get AJAX ”get” to work in the WP(WordPress) just using vanilla js(javascript ) when there is namespace, when press button –jQuery (NO jQuery) You need know some WP and AJAX basics to understand this discovery post. Or rediscovery since AJAX is old tech, but now in WP pure js no jQuery]]></title>
+            <link>https://praybook2.blogspot.com/2021/03/AJAX-plain-vanilla-js-wp-and-namespace.html</link>
+            <guid>https://praybook2.blogspot.com/2021/03/AJAX-plain-vanilla-js-wp-and-namespace.html</guid>
+            <pubDate>Sat, 27 Mar 2021 19:12:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[showoff saturday] with all the hype around cryptos, I decided to make a online ledger]]></title>
             <link>https://moshmage.gitlab.io/asset-ledger/#/</link>
             <guid>https://moshmage.gitlab.io/asset-ledger/#/</guid>
             <pubDate>Sat, 27 Mar 2021 10:52:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jCore - JavaScript library for building UI components]]></title>
+            <link>https://github.com/ionstage/jcore</link>
+            <guid>https://github.com/ionstage/jcore</guid>
+            <pubDate>Sat, 27 Mar 2021 16:07:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[To Those Who Criticize JavaScript]]></title>
+            <link>https://dev.to/ruby_hater/the-shocking-impossibility-of-ruby-4h9f</link>
+            <guid>https://dev.to/ruby_hater/the-shocking-impossibility-of-ruby-4h9f</guid>
+            <pubDate>Fri, 26 Mar 2021 21:11:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[htmbox - A Dropbox clone written in htmx and hyperscript]]></title>
@@ -97,54 +139,6 @@
             <link>https://alistapart.com/article/human-readable-javascript/</link>
             <guid>https://alistapart.com/article/human-readable-javascript/</guid>
             <pubDate>Thu, 25 Mar 2021 15:39:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yet another cookie consent popup! But this one is neat #GDPR #CCPA]]></title>
-            <link>https://github.com/klaxit/cookie-consent</link>
-            <guid>https://github.com/klaxit/cookie-consent</guid>
-            <pubDate>Thu, 25 Mar 2021 16:13:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SvelteKit is in public beta]]></title>
-            <link>https://svelte.dev/blog/sveltekit-beta</link>
-            <guid>https://svelte.dev/blog/sveltekit-beta</guid>
-            <pubDate>Wed, 24 Mar 2021 19:27:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vercel Serverless Functions vs Cloudflare Workers]]></title>
-            <link>https://moiva.io/blog/vercel-serverless-functions-vs-cloudflare-workers</link>
-            <guid>https://moiva.io/blog/vercel-serverless-functions-vs-cloudflare-workers</guid>
-            <pubDate>Thu, 25 Mar 2021 11:29:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MDN localization in March — Tier 1 locales unfrozen, and future plans]]></title>
-            <link>https://hacks.mozilla.org/2021/03/mdn-localization-in-march-tier-1-locales-unfrozen-and-future-plans/</link>
-            <guid>https://hacks.mozilla.org/2021/03/mdn-localization-in-march-tier-1-locales-unfrozen-and-future-plans/</guid>
-            <pubDate>Thu, 25 Mar 2021 16:16:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[RFC] Semantic versioning for TypeScript types (applicable to all JS/TS ecosystems' library authors)]]></title>
-            <link>https://github.com/emberjs/rfcs/pull/730</link>
-            <guid>https://github.com/emberjs/rfcs/pull/730</guid>
-            <pubDate>Thu, 25 Mar 2021 13:33:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Talc: Insta-CLI for your projects!]]></title>
-            <link>https://github.com/evinism/talc</link>
-            <guid>https://github.com/evinism/talc</guid>
-            <pubDate>Thu, 25 Mar 2021 17:48:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Build a Highly Responsive UI with ResizeObserver API]]></title>
-            <link>https://javascript.plainenglish.io/how-to-build-a-highly-responsive-ui-with-resizeobserver-api-e645d3c578d5</link>
-            <guid>https://javascript.plainenglish.io/how-to-build-a-highly-responsive-ui-with-resizeobserver-api-e645d3c578d5</guid>
-            <pubDate>Thu, 25 Mar 2021 12:43:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React Context for Dependency Injection Not State Management]]></title>
-            <link>https://blog.testdouble.com/posts/2021-03-19-react-context-for-dependency-injection-not-state/</link>
-            <guid>https://blog.testdouble.com/posts/2021-03-19-react-context-for-dependency-injection-not-state/</guid>
-            <pubDate>Wed, 24 Mar 2021 19:12:42 GMT</pubDate>
         </item>
     </channel>
 </rss>

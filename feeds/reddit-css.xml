@@ -4,21 +4,21 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Fri, 26 Mar 2021 19:47:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Mar 2021 07:48:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
-        <item>
-            <title><![CDATA[15 Advanced CSS Techniques To Master In 2021]]></title>
-            <link>https://www.lambdatest.com/blog/advanced-css-techniques-2021/?utm_source=Reddit&amp;utm_medium=blog&amp;utm_campaign=PM-260221-1&amp;utm_term=OrganicPosting</link>
-            <guid>https://www.lambdatest.com/blog/advanced-css-techniques-2021/?utm_source=Reddit&amp;utm_medium=blog&amp;utm_campaign=PM-260221-1&amp;utm_term=OrganicPosting</guid>
-            <pubDate>Fri, 26 Mar 2021 05:49:42 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Animating Underlines]]></title>
             <link>https://css-irl.info/animating-underlines/</link>
             <guid>https://css-irl.info/animating-underlines/</guid>
             <pubDate>Fri, 26 Mar 2021 13:11:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[15 Advanced CSS Techniques To Master In 2021]]></title>
+            <link>https://www.lambdatest.com/blog/advanced-css-techniques-2021/?utm_source=Reddit&amp;utm_medium=blog&amp;utm_campaign=PM-260221-1&amp;utm_term=OrganicPosting</link>
+            <guid>https://www.lambdatest.com/blog/advanced-css-techniques-2021/?utm_source=Reddit&amp;utm_medium=blog&amp;utm_campaign=PM-260221-1&amp;utm_term=OrganicPosting</guid>
+            <pubDate>Fri, 26 Mar 2021 05:49:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Glassmorphism - learn how to implement the new design trend using only HTML and CSS - Themesberg Blog]]></title>
@@ -33,16 +33,16 @@
             <pubDate>Thu, 25 Mar 2021 12:50:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The One Thing You Need to Know To Avoid CSS Overflow]]></title>
-            <link>https://jportella93.medium.com/the-one-thing-you-need-to-know-to-avoid-css-overflow-9554b40aa797</link>
-            <guid>https://jportella93.medium.com/the-one-thing-you-need-to-know-to-avoid-css-overflow-9554b40aa797</guid>
-            <pubDate>Fri, 26 Mar 2021 07:57:58 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Google Chrome is getting ready to test @container (CSS Container Query)]]></title>
             <link>https://www.chromestory.com/2021/03/css-container-queries/</link>
             <guid>https://www.chromestory.com/2021/03/css-container-queries/</guid>
             <pubDate>Fri, 26 Mar 2021 05:18:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The One Thing You Need to Know To Avoid CSS Overflow]]></title>
+            <link>https://jportella93.medium.com/the-one-thing-you-need-to-know-to-avoid-css-overflow-9554b40aa797</link>
+            <guid>https://jportella93.medium.com/the-one-thing-you-need-to-know-to-avoid-css-overflow-9554b40aa797</guid>
+            <pubDate>Fri, 26 Mar 2021 07:57:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to Listen for CSS Events in Javascript]]></title>
@@ -85,12 +85,6 @@
             <link>https://ashcss.rocks/</link>
             <guid>https://ashcss.rocks/</guid>
             <pubDate>Wed, 24 Mar 2021 19:57:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Handling Text Over Images in CSS]]></title>
-            <link>https://ishadeed.com/article/handling-text-over-image-css/</link>
-            <guid>https://ishadeed.com/article/handling-text-over-image-css/</guid>
-            <pubDate>Tue, 23 Mar 2021 20:30:19 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,21 +4,21 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Fri, 26 Mar 2021 19:47:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Mar 2021 07:48:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
-        <item>
-            <title><![CDATA[Your /r/javascript recap for the week of March 15 - March 21]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Mon, 22 Mar 2021 09:04:55 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Make Your Jest Tests up to 20% Faster by Changing a Single Setting]]></title>
             <link>https://dev.to/vantanev/make-your-jest-tests-up-to-20-faster-by-changing-a-single-setting-i36</link>
             <guid>https://dev.to/vantanev/make-your-jest-tests-up-to-20-faster-by-changing-a-single-setting-i36</guid>
             <pubDate>Fri, 26 Mar 2021 14:36:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[To Those Who Criticize JavaScript]]></title>
+            <link>https://dev.to/ruby_hater/the-shocking-impossibility-of-ruby-4h9f</link>
+            <guid>https://dev.to/ruby_hater/the-shocking-impossibility-of-ruby-4h9f</guid>
+            <pubDate>Fri, 26 Mar 2021 21:11:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[htmbox - A Dropbox clone written in htmx and hyperscript]]></title>
@@ -33,16 +33,16 @@
             <pubDate>Fri, 26 Mar 2021 12:46:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[JavaScript baby]]></title>
-            <link>https://css-tricks.com/interactive-web-components-are-easier-than-you-think/</link>
-            <guid>https://css-tricks.com/interactive-web-components-are-easier-than-you-think/</guid>
-            <pubDate>Fri, 26 Mar 2021 19:15:11 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[GraphQL Subscriptions w/ Serverless on AWS - Subscriptionless]]></title>
             <link>https://github.com/andyrichardson/subscriptionless</link>
             <guid>https://github.com/andyrichardson/subscriptionless</guid>
             <pubDate>Fri, 26 Mar 2021 14:57:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I Created a CLI to Cross-Post Your Articles On Dev, Hashnode, and Medium]]></title>
+            <link>https://blog.shahednasser.com/i-created-a-cli-to-cross-post-your-articles-on-dev-hashnode-and-medium/</link>
+            <guid>https://blog.shahednasser.com/i-created-a-cli-to-cross-post-your-articles-on-dev-hashnode-and-medium/</guid>
+            <pubDate>Fri, 26 Mar 2021 21:57:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I made an ESLint plugin for JS regexes. It detects potential errors, suggests improvements, and simplifies patterns.]]></title>
@@ -51,10 +51,10 @@
             <pubDate>Thu, 25 Mar 2021 17:58:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[JavaScript for optimizers: Removing currency symbols - GrowthPenguin]]></title>
-            <link>https://jeroenwiersma.com/javascript-for-optimizers-removing-currency-symbols/</link>
-            <guid>https://jeroenwiersma.com/javascript-for-optimizers-removing-currency-symbols/</guid>
-            <pubDate>Fri, 26 Mar 2021 15:55:10 GMT</pubDate>
+            <title><![CDATA[AJAX, CSS Transitions, WebSockets and Server Sent Events directly in HTML]]></title>
+            <link>https://github.com/bigskysoftware/htmx</link>
+            <guid>https://github.com/bigskysoftware/htmx</guid>
+            <pubDate>Fri, 26 Mar 2021 23:48:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[JavaScript performance beyond bundle size]]></title>
@@ -69,16 +69,16 @@
             <pubDate>Fri, 26 Mar 2021 11:24:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Easy Command Line Scripts With Node]]></title>
-            <link>https://blog.rentpathcode.com/easy-command-line-scripts-with-node-f9284e0ccfdd</link>
-            <guid>https://blog.rentpathcode.com/easy-command-line-scripts-with-node-f9284e0ccfdd</guid>
-            <pubDate>Thu, 25 Mar 2021 13:59:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On JavaScript Ecosystem]]></title>
             <link>https://radekmie.github.io/blog/on-javascript-ecosystem/</link>
             <guid>https://radekmie.github.io/blog/on-javascript-ecosystem/</guid>
             <pubDate>Thu, 25 Mar 2021 14:37:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Easy Command Line Scripts With Node]]></title>
+            <link>https://blog.rentpathcode.com/easy-command-line-scripts-with-node-f9284e0ccfdd</link>
+            <guid>https://blog.rentpathcode.com/easy-command-line-scripts-with-node-f9284e0ccfdd</guid>
+            <pubDate>Thu, 25 Mar 2021 13:59:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Human-Readable JavaScript: A Tale of Two Experts]]></title>

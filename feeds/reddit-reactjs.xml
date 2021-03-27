@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Fri, 26 Mar 2021 19:47:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Mar 2021 07:48:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,22 +21,22 @@
             <pubDate>Fri, 26 Mar 2021 13:07:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Spearmint: Open-Source Test Generating Developer Tool]]></title>
-            <link>https://spearmintjs.com/</link>
-            <guid>https://spearmintjs.com/</guid>
-            <pubDate>Thu, 25 Mar 2021 19:24:10 GMT</pubDate>
+            <title><![CDATA[How to Build React Applications with Deno Using the AlephJS Library]]></title>
+            <link>https://www.freecodecamp.org/news/build-react-app-using-deno-and-alephjs/</link>
+            <guid>https://www.freecodecamp.org/news/build-react-app-using-deno-and-alephjs/</guid>
+            <pubDate>Sat, 27 Mar 2021 02:50:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hey Reddit, this is my 3rd project made with react, any advice to improve my skills?]]></title>
-            <link>https://rosarioterranova.github.io/reddit-wallpaper-collection/</link>
-            <guid>https://rosarioterranova.github.io/reddit-wallpaper-collection/</guid>
-            <pubDate>Fri, 26 Mar 2021 19:00:00 GMT</pubDate>
+            <title><![CDATA[Started creating my own design system/component library!]]></title>
+            <link>https://experimental-ds.netlify.app/</link>
+            <guid>https://experimental-ds.netlify.app/</guid>
+            <pubDate>Sat, 27 Mar 2021 07:34:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Since formik-persist seems to be unmaintained, I created formik-remember! PRs are welcome!]]></title>
-            <link>https://github.com/Myzel394/formik-remember/tree/master</link>
-            <guid>https://github.com/Myzel394/formik-remember/tree/master</guid>
-            <pubDate>Fri, 26 Mar 2021 17:57:22 GMT</pubDate>
+            <title><![CDATA[Vite: 12 Features that Make it a Production Worthy & All-Rounder Build Tool]]></title>
+            <link>https://www.derpycoder.com/vite-12-features-that-make-it-a-production-worthy-all-rounder-build-tool/?utm_campaign=Vite&amp;utm_source=Reddit&amp;utm_medium=Social</link>
+            <guid>https://www.derpycoder.com/vite-12-features-that-make-it-a-production-worthy-all-rounder-build-tool/?utm_campaign=Vite&amp;utm_source=Reddit&amp;utm_medium=Social</guid>
+            <pubDate>Sat, 27 Mar 2021 06:26:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Micro Frontends in NextJS with Webpack 5]]></title>
@@ -45,58 +45,34 @@
             <pubDate>Fri, 26 Mar 2021 17:37:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[how to axios fetch that isn't on localhost? [Question]]]></title>
-            <link>https://heroku-app.com/</link>
-            <guid>https://heroku-app.com/</guid>
-            <pubDate>Fri, 26 Mar 2021 16:25:56 GMT</pubDate>
+            <title><![CDATA[Switching from Gatsby and CRA to NextJS]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Sat, 27 Mar 2021 01:09:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Working with Infinite Scroll in React]]></title>
-            <link>https://webomnizz.com/working-with-infinite-scroll-in-react/</link>
-            <guid>https://webomnizz.com/working-with-infinite-scroll-in-react/</guid>
-            <pubDate>Fri, 26 Mar 2021 08:06:11 GMT</pubDate>
+            <title><![CDATA[Since formik-persist seems to be unmaintained, I created formik-remember! PRs are welcome!]]></title>
+            <link>https://github.com/Myzel394/formik-remember/tree/master</link>
+            <guid>https://github.com/Myzel394/formik-remember/tree/master</guid>
+            <pubDate>Fri, 26 Mar 2021 17:57:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Using React + D3.js]]></title>
-            <link>https://wattenberger.com/blog/react-and-d3</link>
-            <guid>https://wattenberger.com/blog/react-and-d3</guid>
-            <pubDate>Thu, 25 Mar 2021 08:43:20 GMT</pubDate>
+            <title><![CDATA[Material UI Text Field Container Styling]]></title>
+            <link>https://material-ui.com/components/text-fields/</link>
+            <guid>https://material-ui.com/components/text-fields/</guid>
+            <pubDate>Fri, 26 Mar 2021 21:03:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[useNft() · fetch NFTs from React, no matter how they were minted]]></title>
-            <link>https://use-nft.spectre.xyz/</link>
-            <guid>https://use-nft.spectre.xyz/</guid>
-            <pubDate>Fri, 26 Mar 2021 16:23:56 GMT</pubDate>
+            <title><![CDATA[Trying to integrate stripe in react]]></title>
+            <link>https://github.com/nicolasgomeztoua/Boostify</link>
+            <guid>https://github.com/nicolasgomeztoua/Boostify</guid>
+            <pubDate>Fri, 26 Mar 2021 20:37:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to ACTUALLY create a static site with Next.js]]></title>
-            <link>https://nextjs.org/docs/advanced-features/static-html-export</link>
-            <guid>https://nextjs.org/docs/advanced-features/static-html-export</guid>
-            <pubDate>Fri, 26 Mar 2021 04:20:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beginner looking for tips on how to recreate facebook ui]]></title>
-            <link>https://codesandbox.io/s/angry-mendeleev-zgmd1?file=/src/App.js</link>
-            <guid>https://codesandbox.io/s/angry-mendeleev-zgmd1?file=/src/App.js</guid>
-            <pubDate>Fri, 26 Mar 2021 11:39:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Free course: create a chatbot using Botonic, reacts and Contentful]]></title>
-            <link>https://www.headlesscreator.com/</link>
-            <guid>https://www.headlesscreator.com/</guid>
-            <pubDate>Fri, 26 Mar 2021 10:10:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What a React developer needs to know in 2021]]></title>
-            <link>https://dev.to/ra1nbow1/what-a-react-developer-needs-to-know-in-2021-3agj</link>
-            <guid>https://dev.to/ra1nbow1/what-a-react-developer-needs-to-know-in-2021-3agj</guid>
-            <pubDate>Fri, 26 Mar 2021 09:30:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React-snap and prerender]]></title>
-            <link>https://www.npmjs.com/package/react-snap</link>
-            <guid>https://www.npmjs.com/package/react-snap</guid>
-            <pubDate>Fri, 26 Mar 2021 09:29:42 GMT</pubDate>
+            <title><![CDATA[Microfrontend with NextJS]]></title>
+            <link>https://www.npmjs.com/package/@module-federation/nextjs-mf</link>
+            <guid>https://www.npmjs.com/package/@module-federation/nextjs-mf</guid>
+            <pubDate>Fri, 26 Mar 2021 20:23:47 GMT</pubDate>
         </item>
     </channel>
 </rss>

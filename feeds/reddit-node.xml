@@ -4,7 +4,7 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Sat, 27 Mar 2021 07:48:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Mar 2021 12:54:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -33,12 +33,6 @@
             <pubDate>Sat, 27 Mar 2021 03:32:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I Created a CLI to Cross-Post Your Articles On Dev, Hashnode, and Medium]]></title>
-            <link>https://blog.shahednasser.com/i-created-a-cli-to-cross-post-your-articles-on-dev-hashnode-and-medium/</link>
-            <guid>https://blog.shahednasser.com/i-created-a-cli-to-cross-post-your-articles-on-dev-hashnode-and-medium/</guid>
-            <pubDate>Fri, 26 Mar 2021 21:57:33 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Audit Node Module folder with YARA rules]]></title>
             <link>https://github.com/rpgeeganage/audit-node-modules-with-yara</link>
             <guid>https://github.com/rpgeeganage/audit-node-modules-with-yara</guid>
@@ -55,6 +49,12 @@
             <link>https://github.com/transitive-bullshit/clubhouse</link>
             <guid>https://github.com/transitive-bullshit/clubhouse</guid>
             <pubDate>Fri, 26 Mar 2021 23:17:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I Created a CLI to Cross-Post Your Articles On Dev, Hashnode, and Medium]]></title>
+            <link>https://blog.shahednasser.com/i-created-a-cli-to-cross-post-your-articles-on-dev-hashnode-and-medium/</link>
+            <guid>https://blog.shahednasser.com/i-created-a-cli-to-cross-post-your-articles-on-dev-hashnode-and-medium/</guid>
+            <pubDate>Fri, 26 Mar 2021 21:57:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stream Key/Value records in Fluvio]]></title>
@@ -85,18 +85,6 @@
             <link>https://www.udemy.com/course/master-nestjs-the-javascript-nodejs-framework/?couponCode=TWITTER</link>
             <guid>https://www.udemy.com/course/master-nestjs-the-javascript-nodejs-framework/?couponCode=TWITTER</guid>
             <pubDate>Fri, 26 Mar 2021 17:57:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[asnyc function for retrieving Google Secret Manager Variable returns promise pending]]></title>
-            <link>https://stackoverflow.com/questions/66712713/asnyc-function-for-retrieving-google-secret-manager-variable-returns-promise-pen/66712925?noredirect=1#comment117932127_66712925</link>
-            <guid>https://stackoverflow.com/questions/66712713/asnyc-function-for-retrieving-google-secret-manager-variable-returns-promise-pen/66712925?noredirect=1#comment117932127_66712925</guid>
-            <pubDate>Fri, 26 Mar 2021 08:29:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tried everywhere, can you help me figure out this? internalBinding('errors') [ERR_MODULE_NOT_FOUND]]]></title>
-            <link>https://stackoverflow.com/questions/61291633/expressjs-is-return-error-err-module-not-found-if-i-import-the-file-without-j</link>
-            <guid>https://stackoverflow.com/questions/61291633/expressjs-is-return-error-err-module-not-found-if-i-import-the-file-without-j</guid>
-            <pubDate>Fri, 26 Mar 2021 11:55:15 GMT</pubDate>
         </item>
     </channel>
 </rss>

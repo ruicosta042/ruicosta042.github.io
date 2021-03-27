@@ -4,10 +4,16 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sat, 27 Mar 2021 07:48:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Mar 2021 12:54:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[[Showoff Saturday] Using native Javascript which has come a long way, I built a job board]]></title>
+            <link>https://arbeitnow.com/</link>
+            <guid>https://arbeitnow.com/</guid>
+            <pubDate>Sat, 27 Mar 2021 09:07:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Make Your Jest Tests up to 20% Faster by Changing a Single Setting]]></title>
             <link>https://dev.to/vantanev/make-your-jest-tests-up-to-20-faster-by-changing-a-single-setting-i36</link>
@@ -19,6 +25,12 @@
             <link>https://dev.to/ruby_hater/the-shocking-impossibility-of-ruby-4h9f</link>
             <guid>https://dev.to/ruby_hater/the-shocking-impossibility-of-ruby-4h9f</guid>
             <pubDate>Fri, 26 Mar 2021 21:11:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[showoff saturday] with all the hype around cryptos, I decided to make a online ledger]]></title>
+            <link>https://moshmage.gitlab.io/asset-ledger/#/</link>
+            <guid>https://moshmage.gitlab.io/asset-ledger/#/</guid>
+            <pubDate>Sat, 27 Mar 2021 10:52:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[htmbox - A Dropbox clone written in htmx and hyperscript]]></title>
@@ -133,18 +145,6 @@
             <link>https://blog.testdouble.com/posts/2021-03-19-react-context-for-dependency-injection-not-state/</link>
             <guid>https://blog.testdouble.com/posts/2021-03-19-react-context-for-dependency-injection-not-state/</guid>
             <pubDate>Wed, 24 Mar 2021 19:12:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Re:factor - a free software development conference for charity]]></title>
-            <link>https://www.re-factor.be/</link>
-            <guid>https://www.re-factor.be/</guid>
-            <pubDate>Wed, 24 Mar 2021 08:48:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OTPfy – Securing Applications]]></title>
-            <link>https://otpfy.com/</link>
-            <guid>https://otpfy.com/</guid>
-            <pubDate>Thu, 25 Mar 2021 11:16:58 GMT</pubDate>
         </item>
     </channel>
 </rss>

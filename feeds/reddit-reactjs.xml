@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sat, 27 Mar 2021 07:48:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Mar 2021 12:54:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,16 +21,40 @@
             <pubDate>Fri, 26 Mar 2021 13:07:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Started creating my own design system/component library!]]></title>
+            <link>https://experimental-ds.netlify.app/</link>
+            <guid>https://experimental-ds.netlify.app/</guid>
+            <pubDate>Sat, 27 Mar 2021 07:34:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Created my first React project]]></title>
+            <link>https://jamesclear.com/habit-tracker</link>
+            <guid>https://jamesclear.com/habit-tracker</guid>
+            <pubDate>Sat, 27 Mar 2021 12:19:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How to Build React Applications with Deno Using the AlephJS Library]]></title>
             <link>https://www.freecodecamp.org/news/build-react-app-using-deno-and-alephjs/</link>
             <guid>https://www.freecodecamp.org/news/build-react-app-using-deno-and-alephjs/</guid>
             <pubDate>Sat, 27 Mar 2021 02:50:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Started creating my own design system/component library!]]></title>
-            <link>https://experimental-ds.netlify.app/</link>
-            <guid>https://experimental-ds.netlify.app/</guid>
-            <pubDate>Sat, 27 Mar 2021 07:34:31 GMT</pubDate>
+            <title><![CDATA[Getting ModuleNotFoundError while building Ubuntu 20.04 while the build works fine on Windows and Ubuntu in WSL. HELP Please!]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Sat, 27 Mar 2021 12:46:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why doesn't the value change on line 8 after clicking on the element?]]></title>
+            <link>https://codesandbox.io/s/solitary-bush-he2i4?file=/src/App.tsx</link>
+            <guid>https://codesandbox.io/s/solitary-bush-he2i4?file=/src/App.tsx</guid>
+            <pubDate>Sat, 27 Mar 2021 12:21:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On clicking blog post title, display that blogpost]]></title>
+            <link>https://stackoverflow.com/q/66830824/8618549?stw=2</link>
+            <guid>https://stackoverflow.com/q/66830824/8618549?stw=2</guid>
+            <pubDate>Sat, 27 Mar 2021 11:33:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vite: 12 Features that Make it a Production Worthy & All-Rounder Build Tool]]></title>
@@ -39,40 +63,16 @@
             <pubDate>Sat, 27 Mar 2021 06:26:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Micro Frontends in NextJS with Webpack 5]]></title>
-            <link>https://thekevinwang.com/2021/03/26/micro-frontends-nextjs/</link>
-            <guid>https://thekevinwang.com/2021/03/26/micro-frontends-nextjs/</guid>
-            <pubDate>Fri, 26 Mar 2021 17:37:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Switching from Gatsby and CRA to NextJS]]></title>
             <link>https://foo.com/</link>
             <guid>https://foo.com/</guid>
             <pubDate>Sat, 27 Mar 2021 01:09:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Since formik-persist seems to be unmaintained, I created formik-remember! PRs are welcome!]]></title>
-            <link>https://github.com/Myzel394/formik-remember/tree/master</link>
-            <guid>https://github.com/Myzel394/formik-remember/tree/master</guid>
-            <pubDate>Fri, 26 Mar 2021 17:57:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Material UI Text Field Container Styling]]></title>
-            <link>https://material-ui.com/components/text-fields/</link>
-            <guid>https://material-ui.com/components/text-fields/</guid>
-            <pubDate>Fri, 26 Mar 2021 21:03:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trying to integrate stripe in react]]></title>
-            <link>https://github.com/nicolasgomeztoua/Boostify</link>
-            <guid>https://github.com/nicolasgomeztoua/Boostify</guid>
-            <pubDate>Fri, 26 Mar 2021 20:37:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Microfrontend with NextJS]]></title>
-            <link>https://www.npmjs.com/package/@module-federation/nextjs-mf</link>
-            <guid>https://www.npmjs.com/package/@module-federation/nextjs-mf</guid>
-            <pubDate>Fri, 26 Mar 2021 20:23:47 GMT</pubDate>
+            <title><![CDATA[Micro Frontends in NextJS with Webpack 5]]></title>
+            <link>https://thekevinwang.com/2021/03/26/micro-frontends-nextjs/</link>
+            <guid>https://thekevinwang.com/2021/03/26/micro-frontends-nextjs/</guid>
+            <pubDate>Fri, 26 Mar 2021 17:37:02 GMT</pubDate>
         </item>
     </channel>
 </rss>

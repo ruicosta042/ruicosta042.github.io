@@ -4,10 +4,28 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sun, 28 Mar 2021 12:54:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Mar 2021 19:47:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Scaffolder for your next micro-frontend architecture]]></title>
+            <link>https://github.com/cagataycali/micro-fun</link>
+            <guid>https://github.com/cagataycali/micro-fun</guid>
+            <pubDate>Sun, 28 Mar 2021 15:27:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Express-File-Logger: a library to help who needs to save a log entry about every ExpressJS hit]]></title>
+            <link>https://www.npmjs.com/package/express-file-logger</link>
+            <guid>https://www.npmjs.com/package/express-file-logger</guid>
+            <pubDate>Sun, 28 Mar 2021 19:25:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Format file size like macOS]]></title>
+            <link>https://gist.github.com/elawad/72b707e4b455fe6f63e6a26cdf1bba31</link>
+            <guid>https://gist.github.com/elawad/72b707e4b455fe6f63e6a26cdf1bba31</guid>
+            <pubDate>Sun, 28 Mar 2021 18:47:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Create videos in React that viewers can interact with]]></title>
             <link>https://github.com/ysulyma/ractive-player</link>
@@ -27,16 +45,22 @@
             <pubDate>Sat, 27 Mar 2021 19:45:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[image recognition model (EfficientNet) written in typescript]]></title>
+            <link>https://github.com/ntedgi/node-efficientnet</link>
+            <guid>https://github.com/ntedgi/node-efficientnet</guid>
+            <pubDate>Sun, 28 Mar 2021 08:01:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Advanced Promises in Javascript (Dataloader Pattern) - Mike Alche]]></title>
             <link>https://www.mikealche.com/software-development/advanced-promises-in-javascript-building-a-simple-dataloader</link>
             <guid>https://www.mikealche.com/software-development/advanced-promises-in-javascript-building-a-simple-dataloader</guid>
             <pubDate>Sat, 27 Mar 2021 19:16:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[image recognition model (EfficientNet) written in typescript]]></title>
-            <link>https://github.com/ntedgi/node-efficientnet</link>
-            <guid>https://github.com/ntedgi/node-efficientnet</guid>
-            <pubDate>Sun, 28 Mar 2021 08:01:05 GMT</pubDate>
+            <title><![CDATA[How es6 classes work under the hood ?]]></title>
+            <link>https://dev.to/hssanbzlm/es6-classes-new-approach-to-emulate-object-oriented-programming-in-js-205e</link>
+            <guid>https://dev.to/hssanbzlm/es6-classes-new-approach-to-emulate-object-oriented-programming-in-js-205e</guid>
+            <pubDate>Sun, 28 Mar 2021 15:45:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ohm – A library and language for building parsers, interpreters, compilers, etc.]]></title>
@@ -57,22 +81,10 @@
             <pubDate>Sat, 27 Mar 2021 18:11:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Built a Twitter clone kind of small demo app using htmx and Express.js]]></title>
-            <link>https://htmx-twitter.herokuapp.com/</link>
-            <guid>https://htmx-twitter.herokuapp.com/</guid>
-            <pubDate>Sun, 28 Mar 2021 02:53:54 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Make Your Jest Tests up to 20% Faster by Changing a Single Setting]]></title>
             <link>https://dev.to/vantanev/make-your-jest-tests-up-to-20-faster-by-changing-a-single-setting-i36</link>
             <guid>https://dev.to/vantanev/make-your-jest-tests-up-to-20-faster-by-changing-a-single-setting-i36</guid>
             <pubDate>Fri, 26 Mar 2021 14:36:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jCore - JavaScript library for building UI components]]></title>
-            <link>https://github.com/ionstage/jcore</link>
-            <guid>https://github.com/ionstage/jcore</guid>
-            <pubDate>Sat, 27 Mar 2021 16:07:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[showoff saturday] with all the hype around cryptos, I decided to make a online ledger]]></title>
@@ -105,16 +117,16 @@
             <pubDate>Fri, 26 Mar 2021 14:57:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I Created a CLI to Cross-Post Your Articles On Dev, Hashnode, and Medium]]></title>
-            <link>https://blog.shahednasser.com/i-created-a-cli-to-cross-post-your-articles-on-dev-hashnode-and-medium/</link>
-            <guid>https://blog.shahednasser.com/i-created-a-cli-to-cross-post-your-articles-on-dev-hashnode-and-medium/</guid>
-            <pubDate>Fri, 26 Mar 2021 21:57:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[I made an ESLint plugin for JS regexes. It detects potential errors, suggests improvements, and simplifies patterns.]]></title>
             <link>https://github.com/RunDevelopment/eslint-plugin-clean-regex</link>
             <guid>https://github.com/RunDevelopment/eslint-plugin-clean-regex</guid>
             <pubDate>Thu, 25 Mar 2021 17:58:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I Created a CLI to Cross-Post Your Articles On Dev, Hashnode, and Medium]]></title>
+            <link>https://blog.shahednasser.com/i-created-a-cli-to-cross-post-your-articles-on-dev-hashnode-and-medium/</link>
+            <guid>https://blog.shahednasser.com/i-created-a-cli-to-cross-post-your-articles-on-dev-hashnode-and-medium/</guid>
+            <pubDate>Fri, 26 Mar 2021 21:57:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AJAX, CSS Transitions, WebSockets and Server Sent Events directly in HTML]]></title>
@@ -133,12 +145,6 @@
             <link>https://netil.medium.com/billboard-js-3-0-release-d3-js-v6-support-new-candlestick-type-9bd74af6a753</link>
             <guid>https://netil.medium.com/billboard-js-3-0-release-d3-js-v6-support-new-candlestick-type-9bd74af6a753</guid>
             <pubDate>Fri, 26 Mar 2021 11:24:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On JavaScript Ecosystem]]></title>
-            <link>https://radekmie.github.io/blog/on-javascript-ecosystem/</link>
-            <guid>https://radekmie.github.io/blog/on-javascript-ecosystem/</guid>
-            <pubDate>Thu, 25 Mar 2021 14:37:25 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,22 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Sun, 28 Mar 2021 12:54:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Mar 2021 19:47:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[My learning about Json Web Tokens (JWT)]]></title>
+            <link>https://www.vinaybhinde.in/2021/03/learnings-jwt/</link>
+            <guid>https://www.vinaybhinde.in/2021/03/learnings-jwt/</guid>
+            <pubDate>Sun, 28 Mar 2021 18:38:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Better way to get secrets in serverless world]]></title>
+            <link>https://vadim-vicolaev-v.medium.com/better-way-to-get-secrets-in-serverless-world-1aba8a71b3a1</link>
+            <guid>https://vadim-vicolaev-v.medium.com/better-way-to-get-secrets-in-serverless-world-1aba8a71b3a1</guid>
+            <pubDate>Sun, 28 Mar 2021 16:47:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to speed up Node.js modules installation in CI/CD Pipeline as of 2020]]></title>
             <link>https://medium.com/@jeromewus/how-to-speed-up-node-js-modules-installation-in-ci-cd-pipeline-as-of-2020-4865d77c0eb7</link>
@@ -19,30 +31,6 @@
             <link>https://github.com/Brooooooklyn/canvas</link>
             <guid>https://github.com/Brooooooklyn/canvas</guid>
             <pubDate>Sat, 27 Mar 2021 15:24:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ELI5 - Container Ecosystem]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Sun, 28 Mar 2021 06:56:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Angular, JavaScript, CSS, Html, NodeJS quick overview...]]></title>
-            <link>https://www.tutorialslogic.com/angular?ng.12.v</link>
-            <guid>https://www.tutorialslogic.com/angular?ng.12.v</guid>
-            <pubDate>Sat, 27 Mar 2021 18:21:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Learn enough Docker to be Useful - Beginner to Intermediate Level]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Fri, 26 Mar 2021 15:17:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Library Internals Do Not Exist]]></title>
-            <link>https://fagnerbrack.medium.com/library-internals-do-not-exist-1ff50a30e3b0</link>
-            <guid>https://fagnerbrack.medium.com/library-internals-do-not-exist-1ff50a30e3b0</guid>
-            <pubDate>Sat, 27 Mar 2021 06:11:47 GMT</pubDate>
         </item>
     </channel>
 </rss>

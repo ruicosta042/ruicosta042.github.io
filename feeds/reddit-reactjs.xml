@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sun, 28 Mar 2021 12:54:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Mar 2021 19:47:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,10 +21,16 @@
             <pubDate>Sun, 28 Mar 2021 11:12:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Use cases of Recoil / Jotai for state management]]></title>
-            <link>https://recoiljs.org/</link>
-            <guid>https://recoiljs.org/</guid>
-            <pubDate>Sun, 28 Mar 2021 10:48:03 GMT</pubDate>
+            <title><![CDATA[I made a sorting visualiser! (6 algorithms, can pause, rewind, change speed and see the number of operations executed)]]></title>
+            <link>https://suraj-gov.github.io/sorter/</link>
+            <guid>https://suraj-gov.github.io/sorter/</guid>
+            <pubDate>Sun, 28 Mar 2021 14:13:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My portfolio website and an app to find a desired song by string of keywords]]></title>
+            <link>https://sven-dejaeghere.netlify.app/</link>
+            <guid>https://sven-dejaeghere.netlify.app/</guid>
+            <pubDate>Sun, 28 Mar 2021 14:48:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[7 Ways of Achieving Conditional Rendering in React]]></title>
@@ -33,70 +39,40 @@
             <pubDate>Sun, 28 Mar 2021 09:45:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Netlify will refactor React code style from global CSS to Tailwind CSS]]></title>
+            <link>https://www.netlify.com/blog/2021/03/23/from-semantic-css-to-tailwind-refactoring-the-netlify-ui-codebase/</link>
+            <guid>https://www.netlify.com/blog/2021/03/23/from-semantic-css-to-tailwind-refactoring-the-netlify-ui-codebase/</guid>
+            <pubDate>Sun, 28 Mar 2021 16:21:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I shipped Remotebear: A React/NextJS website that aggregates remote jobs at leading tech companies]]></title>
             <link>https://remotebear.io/</link>
             <guid>https://remotebear.io/</guid>
             <pubDate>Sun, 28 Mar 2021 12:22:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hooks and useMemo / useCallback, best practices]]></title>
-            <link>https://gist.github.com/gchumillas/58baf61613e5f7deb243eb35c825e40a</link>
-            <guid>https://gist.github.com/gchumillas/58baf61613e5f7deb243eb35c825e40a</guid>
-            <pubDate>Sun, 28 Mar 2021 08:37:42 GMT</pubDate>
+            <title><![CDATA[I can access a value from an API in the console, but not in the component. What am I doing wrong?]]></title>
+            <link>https://codesandbox.io/s/modest-snowflake-wlziy?file=/src/FinalRating.js:2686-2728</link>
+            <guid>https://codesandbox.io/s/modest-snowflake-wlziy?file=/src/FinalRating.js:2686-2728</guid>
+            <pubDate>Sun, 28 Mar 2021 15:57:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Learn React.js by building project.]]></title>
-            <link>https://github.com/narendrasinghrathore/todo-app-react</link>
-            <guid>https://github.com/narendrasinghrathore/todo-app-react</guid>
-            <pubDate>Sun, 28 Mar 2021 04:45:18 GMT</pubDate>
+            <title><![CDATA[Wrote a blog post about Dockerizing a React app. Feedback will be appreciated]]></title>
+            <link>https://rsbh.dev/blog/dockerize-react-app</link>
+            <guid>https://rsbh.dev/blog/dockerize-react-app</guid>
+            <pubDate>Sun, 28 Mar 2021 18:28:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I started a project where I build and share clean & useful free AMP web templates. It also contains a drag & drop AMP template builder. Any feedback would be much appreciated. Thanks!]]></title>
-            <link>https://www.amptemplates.io/</link>
-            <guid>https://www.amptemplates.io/</guid>
-            <pubDate>Sat, 27 Mar 2021 21:00:34 GMT</pubDate>
+            <title><![CDATA[Use cases of Recoil / Jotai for state management]]></title>
+            <link>https://recoiljs.org/</link>
+            <guid>https://recoiljs.org/</guid>
+            <pubDate>Sun, 28 Mar 2021 10:48:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Objects are not valid as a React child (despite only rendering one component with an array of objects prop) Please help!]]></title>
-            <link>https://stackoverflow.com/questions/66831577/error-objects-are-not-valid-as-a-react-child-despite-only-rendering-one-compon</link>
-            <guid>https://stackoverflow.com/questions/66831577/error-objects-are-not-valid-as-a-react-child-despite-only-rendering-one-compon</guid>
-            <pubDate>Sat, 27 Mar 2021 23:29:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WebApp Interface Manager: Display, Manage, and Interface with React and Non-React Enabled Web Applications]]></title>
-            <link>https://github.com/masesk/webapp-interface-manager</link>
-            <guid>https://github.com/masesk/webapp-interface-manager</guid>
-            <pubDate>Sat, 27 Mar 2021 22:56:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Good model representation for building Next.js API?]]></title>
-            <link>https://asp.net/</link>
-            <guid>https://asp.net/</guid>
-            <pubDate>Sat, 27 Mar 2021 18:40:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to implement a route like GitHub with nextjs?]]></title>
-            <link>https://github.com/example%60</link>
-            <guid>https://github.com/example%60</guid>
-            <pubDate>Sat, 27 Mar 2021 17:56:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spotify Clone featuring dirty code]]></title>
-            <link>https://spotify1.netlify.app/</link>
-            <guid>https://spotify1.netlify.app/</guid>
-            <pubDate>Sun, 28 Mar 2021 04:26:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Uncaught TypeError: e is null]]></title>
-            <link>https://www.npmjs.com/package/react-select-virtualized</link>
-            <guid>https://www.npmjs.com/package/react-select-virtualized</guid>
-            <pubDate>Sat, 27 Mar 2021 17:21:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Group Chatting web app]]></title>
-            <link>https://openchat-bhargab.netlify.app/</link>
-            <guid>https://openchat-bhargab.netlify.app/</guid>
-            <pubDate>Sat, 27 Mar 2021 17:57:17 GMT</pubDate>
+            <title><![CDATA[Colorful and Geometric Portfolio]]></title>
+            <link>https://www.joshuawootonn.com/</link>
+            <guid>https://www.joshuawootonn.com/</guid>
+            <pubDate>Sun, 28 Mar 2021 17:36:27 GMT</pubDate>
         </item>
     </channel>
 </rss>

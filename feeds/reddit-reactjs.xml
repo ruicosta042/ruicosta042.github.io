@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sun, 28 Mar 2021 07:48:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Mar 2021 12:54:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,36 @@
             <link>https://jsfiddle.net/Luktwrdm/</link>
             <guid>https://jsfiddle.net/Luktwrdm/</guid>
             <pubDate>Mon, 01 Mar 2021 15:56:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fastest possible text updates with or without React]]></title>
+            <link>https://electricui.com/blog/fast-react-text-updates</link>
+            <guid>https://electricui.com/blog/fast-react-text-updates</guid>
+            <pubDate>Sun, 28 Mar 2021 11:12:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Use cases of Recoil / Jotai for state management]]></title>
+            <link>https://recoiljs.org/</link>
+            <guid>https://recoiljs.org/</guid>
+            <pubDate>Sun, 28 Mar 2021 10:48:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[7 Ways of Achieving Conditional Rendering in React]]></title>
+            <link>https://blog.asayer.io/7-ways-of-achieving-conditional-rendering-in-react</link>
+            <guid>https://blog.asayer.io/7-ways-of-achieving-conditional-rendering-in-react</guid>
+            <pubDate>Sun, 28 Mar 2021 09:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I shipped Remotebear: A React/NextJS website that aggregates remote jobs at leading tech companies]]></title>
+            <link>https://remotebear.io/</link>
+            <guid>https://remotebear.io/</guid>
+            <pubDate>Sun, 28 Mar 2021 12:22:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hooks and useMemo / useCallback, best practices]]></title>
+            <link>https://gist.github.com/gchumillas/58baf61613e5f7deb243eb35c825e40a</link>
+            <guid>https://gist.github.com/gchumillas/58baf61613e5f7deb243eb35c825e40a</guid>
+            <pubDate>Sun, 28 Mar 2021 08:37:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Learn React.js by building project.]]></title>
@@ -25,12 +55,6 @@
             <link>https://www.amptemplates.io/</link>
             <guid>https://www.amptemplates.io/</guid>
             <pubDate>Sat, 27 Mar 2021 21:00:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spotify Clone featuring dirty code]]></title>
-            <link>https://spotify1.netlify.app/</link>
-            <guid>https://spotify1.netlify.app/</guid>
-            <pubDate>Sun, 28 Mar 2021 04:26:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Objects are not valid as a React child (despite only rendering one component with an array of objects prop) Please help!]]></title>
@@ -57,34 +81,22 @@
             <pubDate>Sat, 27 Mar 2021 17:56:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Spotify Clone featuring dirty code]]></title>
+            <link>https://spotify1.netlify.app/</link>
+            <guid>https://spotify1.netlify.app/</guid>
+            <pubDate>Sun, 28 Mar 2021 04:26:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Uncaught TypeError: e is null]]></title>
             <link>https://www.npmjs.com/package/react-select-virtualized</link>
             <guid>https://www.npmjs.com/package/react-select-virtualized</guid>
             <pubDate>Sat, 27 Mar 2021 17:21:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[You can build this project like you would in a professional team. With tasks, designs, GitHub and so on. Maybe a good weekend project?]]></title>
-            <link>https://profy.dev/</link>
-            <guid>https://profy.dev/</guid>
-            <pubDate>Fri, 26 Mar 2021 13:07:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Created my first React project]]></title>
-            <link>https://jamesclear.com/habit-tracker</link>
-            <guid>https://jamesclear.com/habit-tracker</guid>
-            <pubDate>Sat, 27 Mar 2021 12:19:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Group Chatting web app]]></title>
             <link>https://openchat-bhargab.netlify.app/</link>
             <guid>https://openchat-bhargab.netlify.app/</guid>
             <pubDate>Sat, 27 Mar 2021 17:57:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Started creating my own design system/component library!]]></title>
-            <link>https://experimental-ds.netlify.app/</link>
-            <guid>https://experimental-ds.netlify.app/</guid>
-            <pubDate>Sat, 27 Mar 2021 07:34:31 GMT</pubDate>
         </item>
     </channel>
 </rss>

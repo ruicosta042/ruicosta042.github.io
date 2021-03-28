@@ -4,10 +4,16 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Sun, 28 Mar 2021 07:48:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Mar 2021 12:54:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[image recognition model (EfficientNet) written in typescript]]></title>
+            <link>https://github.com/ntedgi/node-efficientnet</link>
+            <guid>https://github.com/ntedgi/node-efficientnet</guid>
+            <pubDate>Sun, 28 Mar 2021 08:00:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I squeezed every brain cell to create this library]]></title>
             <link>https://github.com/5alidz/tiny-schema-validator</link>
@@ -43,12 +49,6 @@
             <link>https://github.com/metachris/typescript-nodejs-boilerplate</link>
             <guid>https://github.com/metachris/typescript-nodejs-boilerplate</guid>
             <pubDate>Wed, 24 Mar 2021 14:30:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[image recognition model written in typescript]]></title>
-            <link>https://github.com/ntedgi/node-efficientnet</link>
-            <guid>https://github.com/ntedgi/node-efficientnet</guid>
-            <pubDate>Tue, 23 Mar 2021 21:38:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[When it is ok and how to setup circular imports [HELP]]]></title>

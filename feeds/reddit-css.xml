@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Sun, 28 Mar 2021 07:48:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Mar 2021 12:54:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,12 @@
             <link>https://medium.com/@codingdudecom/css-triangle-81eb02dffeee</link>
             <guid>https://medium.com/@codingdudecom/css-triangle-81eb02dffeee</guid>
             <pubDate>Sun, 28 Mar 2021 07:16:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Technical drawings in CSS - how to fill available space?]]></title>
+            <link>https://github.com/formatc1702/WireViz</link>
+            <guid>https://github.com/formatc1702/WireViz</guid>
+            <pubDate>Sun, 28 Mar 2021 12:24:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Animating Underlines]]></title>

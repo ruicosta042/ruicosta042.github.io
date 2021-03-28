@@ -4,21 +4,27 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Sun, 28 Mar 2021 07:48:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Mar 2021 12:54:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[ELI5 - Container Ecosystem]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Sun, 28 Mar 2021 06:56:02 GMT</pubDate>
+            <title><![CDATA[How to speed up Node.js modules installation in CI/CD Pipeline as of 2020]]></title>
+            <link>https://medium.com/@jeromewus/how-to-speed-up-node-js-modules-installation-in-ci-cd-pipeline-as-of-2020-4865d77c0eb7</link>
+            <guid>https://medium.com/@jeromewus/how-to-speed-up-node-js-modules-installation-in-ci-cd-pipeline-as-of-2020-4865d77c0eb7</guid>
+            <pubDate>Sun, 28 Mar 2021 12:46:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Out of box canvas implementation by napi-rs and skia, zero system dependency, and no postinstall scripts. We are very close to complete its functionality, just try it with npm install @napi-rs/canvas]]></title>
             <link>https://github.com/Brooooooklyn/canvas</link>
             <guid>https://github.com/Brooooooklyn/canvas</guid>
             <pubDate>Sat, 27 Mar 2021 15:24:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ELI5 - Container Ecosystem]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Sun, 28 Mar 2021 06:56:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Angular, JavaScript, CSS, Html, NodeJS quick overview...]]></title>
@@ -37,30 +43,6 @@
             <link>https://fagnerbrack.medium.com/library-internals-do-not-exist-1ff50a30e3b0</link>
             <guid>https://fagnerbrack.medium.com/library-internals-do-not-exist-1ff50a30e3b0</guid>
             <pubDate>Sat, 27 Mar 2021 06:11:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Poll: To what extent is your job stressful?]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Sat, 27 Mar 2021 07:03:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Object.save() in mongoose]]></title>
-            <link>https://user.save/</link>
-            <guid>https://user.save/</guid>
-            <pubDate>Sat, 27 Mar 2021 03:32:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Audit Node Module folder with YARA rules]]></title>
-            <link>https://github.com/rpgeeganage/audit-node-modules-with-yara</link>
-            <guid>https://github.com/rpgeeganage/audit-node-modules-with-yara</guid>
-            <pubDate>Fri, 26 Mar 2021 10:04:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I made high-performance expressjs alternative with top additional features]]></title>
-            <link>https://github.com/nanoexpress/nanoexpress</link>
-            <guid>https://github.com/nanoexpress/nanoexpress</guid>
-            <pubDate>Fri, 26 Mar 2021 23:27:05 GMT</pubDate>
         </item>
     </channel>
 </rss>

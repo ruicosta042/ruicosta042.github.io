@@ -4,10 +4,16 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Sat, 27 Mar 2021 19:47:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Mar 2021 07:48:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[How To Create A CSS Triangle]]></title>
+            <link>https://medium.com/@codingdudecom/css-triangle-81eb02dffeee</link>
+            <guid>https://medium.com/@codingdudecom/css-triangle-81eb02dffeee</guid>
+            <pubDate>Sun, 28 Mar 2021 07:16:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Animating Underlines]]></title>
             <link>https://css-irl.info/animating-underlines/</link>

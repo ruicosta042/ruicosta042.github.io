@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sat, 27 Mar 2021 19:47:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Mar 2021 07:48:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,48 @@
             <link>https://jsfiddle.net/Luktwrdm/</link>
             <guid>https://jsfiddle.net/Luktwrdm/</guid>
             <pubDate>Mon, 01 Mar 2021 15:56:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Learn React.js by building project.]]></title>
+            <link>https://github.com/narendrasinghrathore/todo-app-react</link>
+            <guid>https://github.com/narendrasinghrathore/todo-app-react</guid>
+            <pubDate>Sun, 28 Mar 2021 04:45:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I started a project where I build and share clean & useful free AMP web templates. It also contains a drag & drop AMP template builder. Any feedback would be much appreciated. Thanks!]]></title>
+            <link>https://www.amptemplates.io/</link>
+            <guid>https://www.amptemplates.io/</guid>
+            <pubDate>Sat, 27 Mar 2021 21:00:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spotify Clone featuring dirty code]]></title>
+            <link>https://spotify1.netlify.app/</link>
+            <guid>https://spotify1.netlify.app/</guid>
+            <pubDate>Sun, 28 Mar 2021 04:26:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Objects are not valid as a React child (despite only rendering one component with an array of objects prop) Please help!]]></title>
+            <link>https://stackoverflow.com/questions/66831577/error-objects-are-not-valid-as-a-react-child-despite-only-rendering-one-compon</link>
+            <guid>https://stackoverflow.com/questions/66831577/error-objects-are-not-valid-as-a-react-child-despite-only-rendering-one-compon</guid>
+            <pubDate>Sat, 27 Mar 2021 23:29:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WebApp Interface Manager: Display, Manage, and Interface with React and Non-React Enabled Web Applications]]></title>
+            <link>https://github.com/masesk/webapp-interface-manager</link>
+            <guid>https://github.com/masesk/webapp-interface-manager</guid>
+            <pubDate>Sat, 27 Mar 2021 22:56:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Good model representation for building Next.js API?]]></title>
+            <link>https://asp.net/</link>
+            <guid>https://asp.net/</guid>
+            <pubDate>Sat, 27 Mar 2021 18:40:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to implement a route like GitHub with nextjs?]]></title>
+            <link>https://github.com/example%60</link>
+            <guid>https://github.com/example%60</guid>
+            <pubDate>Sat, 27 Mar 2021 17:56:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Uncaught TypeError: e is null]]></title>
@@ -27,12 +69,6 @@
             <pubDate>Fri, 26 Mar 2021 13:07:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Good model representation for building Next.js API?]]></title>
-            <link>https://asp.net/</link>
-            <guid>https://asp.net/</guid>
-            <pubDate>Sat, 27 Mar 2021 18:40:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Created my first React project]]></title>
             <link>https://jamesclear.com/habit-tracker</link>
             <guid>https://jamesclear.com/habit-tracker</guid>
@@ -45,46 +81,10 @@
             <pubDate>Sat, 27 Mar 2021 17:57:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to implement a route like GitHub with nextjs?]]></title>
-            <link>https://github.com/example%60</link>
-            <guid>https://github.com/example%60</guid>
-            <pubDate>Sat, 27 Mar 2021 17:56:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Started creating my own design system/component library!]]></title>
             <link>https://experimental-ds.netlify.app/</link>
             <guid>https://experimental-ds.netlify.app/</guid>
             <pubDate>Sat, 27 Mar 2021 07:34:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Flickering with React/Nextjs]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Sat, 27 Mar 2021 17:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Toggle save post]]></title>
-            <link>https://product.id/</link>
-            <guid>https://product.id/</guid>
-            <pubDate>Sat, 27 Mar 2021 16:28:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Build React Applications with Deno Using the AlephJS Library]]></title>
-            <link>https://www.freecodecamp.org/news/build-react-app-using-deno-and-alephjs/</link>
-            <guid>https://www.freecodecamp.org/news/build-react-app-using-deno-and-alephjs/</guid>
-            <pubDate>Sat, 27 Mar 2021 02:50:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How To Edit Users Data Via Form Submit]]></title>
-            <link>https://github.com/gumutzkn/test</link>
-            <guid>https://github.com/gumutzkn/test</guid>
-            <pubDate>Sat, 27 Mar 2021 15:49:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Scroll on my React App is very laggy]]></title>
-            <link>https://github.com/leonardo-leon123/the-rick-and-morty-api.git</link>
-            <guid>https://github.com/leonardo-leon123/the-rick-and-morty-api.git</guid>
-            <pubDate>Sat, 27 Mar 2021 13:20:09 GMT</pubDate>
         </item>
     </channel>
 </rss>

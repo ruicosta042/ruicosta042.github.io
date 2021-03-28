@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sat, 27 Mar 2021 19:47:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Mar 2021 07:48:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,30 +13,6 @@
             <link>https://github.com/ysulyma/ractive-player</link>
             <guid>https://github.com/ysulyma/ractive-player</guid>
             <pubDate>Sat, 27 Mar 2021 15:45:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[Showoff Saturday] Using native Javascript which has come a long way, I built a job board]]></title>
-            <link>https://arbeitnow.com/</link>
-            <guid>https://arbeitnow.com/</guid>
-            <pubDate>Sat, 27 Mar 2021 09:07:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This webpage plays chess but the Javascript isn't in the page. Can you find it?]]></title>
-            <link>http://awokeknowing.com/chessboard.html</link>
-            <guid>http://awokeknowing.com/chessboard.html</guid>
-            <pubDate>Sat, 27 Mar 2021 15:33:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to write a Webpack loader]]></title>
-            <link>https://advancedweb.hu/how-to-write-a-webpack-loader/</link>
-            <guid>https://advancedweb.hu/how-to-write-a-webpack-loader/</guid>
-            <pubDate>Sat, 27 Mar 2021 18:11:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Make Your Jest Tests up to 20% Faster by Changing a Single Setting]]></title>
-            <link>https://dev.to/vantanev/make-your-jest-tests-up-to-20-faster-by-changing-a-single-setting-i36</link>
-            <guid>https://dev.to/vantanev/make-your-jest-tests-up-to-20-faster-by-changing-a-single-setting-i36</guid>
-            <pubDate>Fri, 26 Mar 2021 14:36:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[LINQ implemented in JavaScript Template Literals]]></title>
@@ -51,22 +27,52 @@
             <pubDate>Sat, 27 Mar 2021 19:16:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to get AJAX ”get” to work in the WP(WordPress) just using vanilla js(javascript ) when there is namespace, when press button –jQuery (NO jQuery) You need know some WP and AJAX basics to understand this discovery post. Or rediscovery since AJAX is old tech, but now in WP pure js no jQuery]]></title>
-            <link>https://praybook2.blogspot.com/2021/03/AJAX-plain-vanilla-js-wp-and-namespace.html</link>
-            <guid>https://praybook2.blogspot.com/2021/03/AJAX-plain-vanilla-js-wp-and-namespace.html</guid>
-            <pubDate>Sat, 27 Mar 2021 19:12:46 GMT</pubDate>
+            <title><![CDATA[Changelog: swc v1.2.51]]></title>
+            <link>https://swc.rs/blog/2021/03/28/swc-1.2.51</link>
+            <guid>https://swc.rs/blog/2021/03/28/swc-1.2.51</guid>
+            <pubDate>Sun, 28 Mar 2021 04:54:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[showoff saturday] with all the hype around cryptos, I decided to make a online ledger]]></title>
-            <link>https://moshmage.gitlab.io/asset-ledger/#/</link>
-            <guid>https://moshmage.gitlab.io/asset-ledger/#/</guid>
-            <pubDate>Sat, 27 Mar 2021 10:52:17 GMT</pubDate>
+            <title><![CDATA[[Showoff Saturday] Using native Javascript which has come a long way, I built a job board]]></title>
+            <link>https://arbeitnow.com/</link>
+            <guid>https://arbeitnow.com/</guid>
+            <pubDate>Sat, 27 Mar 2021 09:07:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ohm – A library and language for building parsers, interpreters, compilers, etc.]]></title>
+            <link>https://github.com/harc/ohm</link>
+            <guid>https://github.com/harc/ohm</guid>
+            <pubDate>Sat, 27 Mar 2021 21:35:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to write a Webpack loader]]></title>
+            <link>https://advancedweb.hu/how-to-write-a-webpack-loader/</link>
+            <guid>https://advancedweb.hu/how-to-write-a-webpack-loader/</guid>
+            <pubDate>Sat, 27 Mar 2021 18:11:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Built a Twitter clone kind of small demo app using htmx and Express.js]]></title>
+            <link>https://htmx-twitter.herokuapp.com/</link>
+            <guid>https://htmx-twitter.herokuapp.com/</guid>
+            <pubDate>Sun, 28 Mar 2021 02:53:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[jCore - JavaScript library for building UI components]]></title>
             <link>https://github.com/ionstage/jcore</link>
             <guid>https://github.com/ionstage/jcore</guid>
             <pubDate>Sat, 27 Mar 2021 16:07:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Make Your Jest Tests up to 20% Faster by Changing a Single Setting]]></title>
+            <link>https://dev.to/vantanev/make-your-jest-tests-up-to-20-faster-by-changing-a-single-setting-i36</link>
+            <guid>https://dev.to/vantanev/make-your-jest-tests-up-to-20-faster-by-changing-a-single-setting-i36</guid>
+            <pubDate>Fri, 26 Mar 2021 14:36:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[showoff saturday] with all the hype around cryptos, I decided to make a online ledger]]></title>
+            <link>https://moshmage.gitlab.io/asset-ledger/#/</link>
+            <guid>https://moshmage.gitlab.io/asset-ledger/#/</guid>
+            <pubDate>Sat, 27 Mar 2021 10:52:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[To Those Who Criticize JavaScript]]></title>
@@ -133,12 +139,6 @@
             <link>https://blog.rentpathcode.com/easy-command-line-scripts-with-node-f9284e0ccfdd</link>
             <guid>https://blog.rentpathcode.com/easy-command-line-scripts-with-node-f9284e0ccfdd</guid>
             <pubDate>Thu, 25 Mar 2021 13:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Human-Readable JavaScript: A Tale of Two Experts]]></title>
-            <link>https://alistapart.com/article/human-readable-javascript/</link>
-            <guid>https://alistapart.com/article/human-readable-javascript/</guid>
-            <pubDate>Thu, 25 Mar 2021 15:39:16 GMT</pubDate>
         </item>
     </channel>
 </rss>

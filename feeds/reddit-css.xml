@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Mon, 29 Mar 2021 12:55:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Mar 2021 19:46:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,18 @@
             <link>https://fjolt.com/article/css-grid-masonry</link>
             <guid>https://fjolt.com/article/css-grid-masonry</guid>
             <pubDate>Mon, 29 Mar 2021 12:33:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Not Your Typical Horizontal Rules]]></title>
+            <link>https://www.sarasoueidan.com/blog/horizontal-rules/</link>
+            <guid>https://www.sarasoueidan.com/blog/horizontal-rules/</guid>
+            <pubDate>Mon, 29 Mar 2021 13:50:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Want to Write a Hover Effect With Inline CSS? Use CSS Variables.]]></title>
+            <link>https://css-tricks.com/want-to-write-a-hover-effect-with-inline-css-use-css-variables/</link>
+            <guid>https://css-tricks.com/want-to-write-a-hover-effect-with-inline-css-use-css-variables/</guid>
+            <pubDate>Mon, 29 Mar 2021 17:49:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Creative Chatbox Examples with code]]></title>
@@ -73,18 +85,6 @@
             <link>https://jportella93.medium.com/the-one-thing-you-need-to-know-to-avoid-css-overflow-9554b40aa797</link>
             <guid>https://jportella93.medium.com/the-one-thing-you-need-to-know-to-avoid-css-overflow-9554b40aa797</guid>
             <pubDate>Fri, 26 Mar 2021 07:57:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Listen for CSS Events in Javascript]]></title>
-            <link>https://letsbuildui.dev/articles/how-to-listen-for-css-events-in-javascript</link>
-            <guid>https://letsbuildui.dev/articles/how-to-listen-for-css-events-in-javascript</guid>
-            <pubDate>Thu, 25 Mar 2021 12:51:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Drop-in CSS transitions]]></title>
-            <link>https://transition.style/</link>
-            <guid>https://transition.style/</guid>
-            <pubDate>Thu, 25 Mar 2021 12:52:03 GMT</pubDate>
         </item>
     </channel>
 </rss>

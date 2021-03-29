@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Mon, 29 Mar 2021 12:55:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Mar 2021 19:46:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,16 +21,16 @@
             <pubDate>Mon, 29 Mar 2021 11:56:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[7 ways to improve React app performance]]></title>
-            <link>https://www.akmittal.dev/posts/react-production-checklist/</link>
-            <guid>https://www.akmittal.dev/posts/react-production-checklist/</guid>
-            <pubDate>Mon, 29 Mar 2021 05:22:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bitwise Config Flags - Get rid of unnecessary if conditions with esoteric way]]></title>
             <link>https://medium.com/trendyol-tech/bitwise-config-flags-get-rid-of-unnecessary-if-conditions-with-esoteric-way-f650dfd39dc6</link>
             <guid>https://medium.com/trendyol-tech/bitwise-config-flags-get-rid-of-unnecessary-if-conditions-with-esoteric-way-f650dfd39dc6</guid>
             <pubDate>Mon, 29 Mar 2021 08:18:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[7 ways to improve React app performance]]></title>
+            <link>https://www.akmittal.dev/posts/react-production-checklist/</link>
+            <guid>https://www.akmittal.dev/posts/react-production-checklist/</guid>
+            <pubDate>Mon, 29 Mar 2021 05:22:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ECMAScript - Introducing BigInt Primitive in ES2020 (ES11)]]></title>
@@ -39,28 +39,22 @@
             <pubDate>Mon, 29 Mar 2021 06:23:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Download files behind JWT-authenticated routes with no extra libraries, using object URLs]]></title>
+            <link>https://blog.theodo.com/2021/03/authenticated-file-download-with-javascript/</link>
+            <guid>https://blog.theodo.com/2021/03/authenticated-file-download-with-javascript/</guid>
+            <pubDate>Mon, 29 Mar 2021 12:53:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Scaffolder for your next micro-frontend architecture]]></title>
             <link>https://github.com/cagataycali/micro-fun</link>
             <guid>https://github.com/cagataycali/micro-fun</guid>
             <pubDate>Sun, 28 Mar 2021 15:27:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Better GitHub - Chrome extension to enhance your code reading experience on GitHub]]></title>
-            <link>https://github.com/ceoshikhar/better-github</link>
-            <guid>https://github.com/ceoshikhar/better-github</guid>
-            <pubDate>Mon, 29 Mar 2021 08:46:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ultimate FREE Javascript Resources]]></title>
-            <link>https://dev.to/hulyakarakaya/ultimate-free-javascript-resources-2802</link>
-            <guid>https://dev.to/hulyakarakaya/ultimate-free-javascript-resources-2802</guid>
-            <pubDate>Mon, 29 Mar 2021 12:53:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Download files behind JWT-authenticated routes with no extra libraries, using object URLs]]></title>
-            <link>https://blog.theodo.com/2021/03/authenticated-file-download-with-javascript/</link>
-            <guid>https://blog.theodo.com/2021/03/authenticated-file-download-with-javascript/</guid>
-            <pubDate>Mon, 29 Mar 2021 12:53:13 GMT</pubDate>
+            <title><![CDATA[MouseView.js - a library for tracking attention on web content without using eye tracking]]></title>
+            <link>https://github.com/u01ai11/mouseview.js</link>
+            <guid>https://github.com/u01ai11/mouseview.js</guid>
+            <pubDate>Mon, 29 Mar 2021 13:01:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Am I the only one who don't want to spend some good hours, or maybe days while creating PDF Invoices? Take a look at this #javascript library. Just fetch your data and add them to the param object. That's it, 5 min!]]></title>
@@ -91,12 +85,6 @@
             <link>https://devblog.qcobjects.org/a-space-background-for-web-games-in-javascript-with-qcobjects-ckmtne6pa0gnvl0s12wg0e6g3</link>
             <guid>https://devblog.qcobjects.org/a-space-background-for-web-games-in-javascript-with-qcobjects-ckmtne6pa0gnvl0s12wg0e6g3</guid>
             <pubDate>Sun, 28 Mar 2021 21:09:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The 3 ways to make an asynchronous method in JavaScript]]></title>
-            <link>https://dev.to/dieunelson/the-3-ways-to-make-an-asynchronous-method-in-javascript-4jfk</link>
-            <guid>https://dev.to/dieunelson/the-3-ways-to-make-an-asynchronous-method-in-javascript-4jfk</guid>
-            <pubDate>Mon, 29 Mar 2021 00:04:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Changelog: swc v1.2.51]]></title>
@@ -135,16 +123,16 @@
             <pubDate>Sat, 27 Mar 2021 21:35:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[Showoff Saturday] Using native Javascript which has come a long way, I built a job board]]></title>
-            <link>https://arbeitnow.com/</link>
-            <guid>https://arbeitnow.com/</guid>
-            <pubDate>Sat, 27 Mar 2021 09:07:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[How es6 classes work under the hood ?]]></title>
             <link>https://dev.to/hssanbzlm/es6-classes-new-approach-to-emulate-object-oriented-programming-in-js-205e</link>
             <guid>https://dev.to/hssanbzlm/es6-classes-new-approach-to-emulate-object-oriented-programming-in-js-205e</guid>
             <pubDate>Sun, 28 Mar 2021 15:45:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[Showoff Saturday] Using native Javascript which has come a long way, I built a job board]]></title>
+            <link>https://arbeitnow.com/</link>
+            <guid>https://arbeitnow.com/</guid>
+            <pubDate>Sat, 27 Mar 2021 09:07:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to write a Webpack loader]]></title>
@@ -157,6 +145,24 @@
             <link>https://dev.to/vantanev/make-your-jest-tests-up-to-20-faster-by-changing-a-single-setting-i36</link>
             <guid>https://dev.to/vantanev/make-your-jest-tests-up-to-20-faster-by-changing-a-single-setting-i36</guid>
             <pubDate>Fri, 26 Mar 2021 14:36:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[showoff saturday] with all the hype around cryptos, I decided to make a online ledger]]></title>
+            <link>https://moshmage.gitlab.io/asset-ledger/#/</link>
+            <guid>https://moshmage.gitlab.io/asset-ledger/#/</guid>
+            <pubDate>Sat, 27 Mar 2021 10:52:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[To Those Who Criticize JavaScript]]></title>
+            <link>https://dev.to/ruby_hater/the-shocking-impossibility-of-ruby-4h9f</link>
+            <guid>https://dev.to/ruby_hater/the-shocking-impossibility-of-ruby-4h9f</guid>
+            <pubDate>Fri, 26 Mar 2021 21:11:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[htmbox - A Dropbox clone written in htmx and hyperscript]]></title>
+            <link>https://htmbox.herokuapp.com/</link>
+            <guid>https://htmbox.herokuapp.com/</guid>
+            <pubDate>Fri, 26 Mar 2021 11:55:58 GMT</pubDate>
         </item>
     </channel>
 </rss>

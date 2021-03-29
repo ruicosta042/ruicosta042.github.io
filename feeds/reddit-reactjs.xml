@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Mon, 29 Mar 2021 12:55:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Mar 2021 19:46:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,76 +15,76 @@
             <pubDate>Mon, 01 Mar 2021 15:56:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fastest possible text updates with or without React]]></title>
-            <link>https://electricui.com/blog/fast-react-text-updates</link>
-            <guid>https://electricui.com/blog/fast-react-text-updates</guid>
-            <pubDate>Sun, 28 Mar 2021 11:12:24 GMT</pubDate>
+            <title><![CDATA[Next.js 10.1 – 3x Faster Refresh, Image Improvements, Apple Silicon Support]]></title>
+            <link>https://nextjs.org/blog/next-10-1</link>
+            <guid>https://nextjs.org/blog/next-10-1</guid>
+            <pubDate>Mon, 29 Mar 2021 17:19:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React component tool (CLI + VSCode extension + Webstorm integration)]]></title>
-            <link>https://github.com/coolassassin/reactcci</link>
-            <guid>https://github.com/coolassassin/reactcci</guid>
-            <pubDate>Mon, 29 Mar 2021 09:46:46 GMT</pubDate>
+            <title><![CDATA[Writing Developer-Friendly React Unit Tests]]></title>
+            <link>https://webup.org/blog/writing-developer-friendly-react-component-tests/</link>
+            <guid>https://webup.org/blog/writing-developer-friendly-react-component-tests/</guid>
+            <pubDate>Mon, 29 Mar 2021 13:16:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A wedding site (Reactjs)]]></title>
-            <link>https://gurpreetwedsjyoti.netlify.app/</link>
-            <guid>https://gurpreetwedsjyoti.netlify.app/</guid>
-            <pubDate>Mon, 29 Mar 2021 11:53:36 GMT</pubDate>
+            <title><![CDATA[Dynamic Mask Library in TypeScript]]></title>
+            <link>https://github.com/marcelodosreis/node-masker</link>
+            <guid>https://github.com/marcelodosreis/node-masker</guid>
+            <pubDate>Mon, 29 Mar 2021 17:23:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[My React App, what's your thoughts (source code on github)]]></title>
-            <link>https://todoapp-3eed7.web.app/</link>
-            <guid>https://todoapp-3eed7.web.app/</guid>
-            <pubDate>Mon, 29 Mar 2021 11:47:13 GMT</pubDate>
+            <title><![CDATA[Write Faster Typed React & Bootstrap ClassName with React-BE]]></title>
+            <link>https://www.npmtrends.com/react-bootstrap</link>
+            <guid>https://www.npmtrends.com/react-bootstrap</guid>
+            <pubDate>Mon, 29 Mar 2021 17:08:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Redux In Web Workers: Off-Main-Thread Redux Reducers and Middleware]]></title>
-            <link>https://blog.asayer.io/redux-in-web-workers-off-main-thread-redux-reducers-and-middleware</link>
-            <guid>https://blog.asayer.io/redux-in-web-workers-off-main-thread-redux-reducers-and-middleware</guid>
-            <pubDate>Mon, 29 Mar 2021 10:15:00 GMT</pubDate>
+            <title><![CDATA[React Grid: UI Component that can arrange items according to the type of grids.]]></title>
+            <link>https://github.com/naver/egjs-grid/tree/main/packages/react-grid</link>
+            <guid>https://github.com/naver/egjs-grid/tree/main/packages/react-grid</guid>
+            <pubDate>Mon, 29 Mar 2021 17:02:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cutting stock optimisation app]]></title>
-            <link>https://www.yompti.com/</link>
-            <guid>https://www.yompti.com/</guid>
-            <pubDate>Mon, 29 Mar 2021 05:15:20 GMT</pubDate>
+            <title><![CDATA[I'm starting learning React this week and I'm stuck between these 2 courses (McGinnis vs Grider)]]></title>
+            <link>https://ui.dev/react/</link>
+            <guid>https://ui.dev/react/</guid>
+            <pubDate>Mon, 29 Mar 2021 14:38:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I made a sorting visualiser! (6 algorithms, can pause, rewind, change speed and see the number of operations executed)]]></title>
-            <link>https://suraj-gov.github.io/sorter/</link>
-            <guid>https://suraj-gov.github.io/sorter/</guid>
-            <pubDate>Sun, 28 Mar 2021 14:13:09 GMT</pubDate>
+            <title><![CDATA[I'm still playing with the new JS bundlers and today I'm giving you my opinion on Vite.]]></title>
+            <link>https://slashgear.github.io/vite-webpack-killer/</link>
+            <guid>https://slashgear.github.io/vite-webpack-killer/</guid>
+            <pubDate>Mon, 29 Mar 2021 15:53:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[7 ways to improve React app performance]]></title>
-            <link>https://www.akmittal.dev/posts/react-production-checklist/</link>
-            <guid>https://www.akmittal.dev/posts/react-production-checklist/</guid>
-            <pubDate>Mon, 29 Mar 2021 06:39:30 GMT</pubDate>
+            <title><![CDATA[Is it possible ?]]></title>
+            <link>https://www.torn.com/city.php</link>
+            <guid>https://www.torn.com/city.php</guid>
+            <pubDate>Mon, 29 Mar 2021 18:26:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Netlify will refactor React code style from global CSS to Tailwind CSS]]></title>
-            <link>https://www.netlify.com/blog/2021/03/23/from-semantic-css-to-tailwind-refactoring-the-netlify-ui-codebase/</link>
-            <guid>https://www.netlify.com/blog/2021/03/23/from-semantic-css-to-tailwind-refactoring-the-netlify-ui-codebase/</guid>
-            <pubDate>Sun, 28 Mar 2021 16:21:52 GMT</pubDate>
+            <title><![CDATA[Bachelor Thesis React, Angular and Vue]]></title>
+            <link>https://docs.google.com/forms/d/e/1FAIpQLScAhIQapzx_yU9jS62pYsw7OG9Qy8-g4llY3QWdK8Esh_d4-Q/viewform?usp=sf_link</link>
+            <guid>https://docs.google.com/forms/d/e/1FAIpQLScAhIQapzx_yU9jS62pYsw7OG9Qy8-g4llY3QWdK8Esh_d4-Q/viewform?usp=sf_link</guid>
+            <pubDate>Mon, 29 Mar 2021 18:18:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Colorful and Geometric Portfolio]]></title>
-            <link>https://www.joshuawootonn.com/</link>
-            <guid>https://www.joshuawootonn.com/</guid>
-            <pubDate>Sun, 28 Mar 2021 17:36:27 GMT</pubDate>
+            <title><![CDATA[Hitchhiker's Cocktails (WIP)]]></title>
+            <link>https://github.com/Wiegand92/HitchhikersCocktails</link>
+            <guid>https://github.com/Wiegand92/HitchhikersCocktails</guid>
+            <pubDate>Mon, 29 Mar 2021 14:26:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I figured out a nice way to merge conditional classNames in react]]></title>
-            <link>https://github.com/5alidz/xcls</link>
-            <guid>https://github.com/5alidz/xcls</guid>
-            <pubDate>Mon, 29 Mar 2021 03:35:43 GMT</pubDate>
+            <title><![CDATA[Open source React library containing Layout, Menu, ProtectedRoute components, and more]]></title>
+            <link>https://cra-demo-deploy.vercel.app/</link>
+            <guid>https://cra-demo-deploy.vercel.app/</guid>
+            <pubDate>Mon, 29 Mar 2021 13:39:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[My portfolio website and an app to find a desired song by string of keywords]]></title>
-            <link>https://sven-dejaeghere.netlify.app/</link>
-            <guid>https://sven-dejaeghere.netlify.app/</guid>
-            <pubDate>Sun, 28 Mar 2021 14:48:23 GMT</pubDate>
+            <title><![CDATA[Crossposting from more specific subreddit, but this has much more members, and I'm really out of ideas.]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Mon, 29 Mar 2021 16:32:08 GMT</pubDate>
         </item>
     </channel>
 </rss>

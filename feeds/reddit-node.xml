@@ -4,33 +4,39 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Sun, 28 Mar 2021 19:47:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Mar 2021 07:48:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Multi Threading in Node using Process Recursion]]></title>
+            <link>https://github.com/sinclairzx81/threadbox</link>
+            <guid>https://github.com/sinclairzx81/threadbox</guid>
+            <pubDate>Mon, 29 Mar 2021 05:54:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Need help with puppeteer waitForSelector]]></title>
+            <link>https://covid19.who.int/table</link>
+            <guid>https://covid19.who.int/table</guid>
+            <pubDate>Mon, 29 Mar 2021 06:19:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Founding engineering team at Gold Setu]]></title>
+            <link>https://angel.co/company/gold-setu/jobs</link>
+            <guid>https://angel.co/company/gold-setu/jobs</guid>
+            <pubDate>Mon, 29 Mar 2021 07:47:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Better way to get secrets in serverless world]]></title>
+            <link>https://aws.amazon.com/ru/secrets-manager/</link>
+            <guid>https://aws.amazon.com/ru/secrets-manager/</guid>
+            <pubDate>Sun, 28 Mar 2021 16:47:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My learning about Json Web Tokens (JWT)]]></title>
             <link>https://www.vinaybhinde.in/2021/03/learnings-jwt/</link>
             <guid>https://www.vinaybhinde.in/2021/03/learnings-jwt/</guid>
             <pubDate>Sun, 28 Mar 2021 18:38:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Better way to get secrets in serverless world]]></title>
-            <link>https://vadim-vicolaev-v.medium.com/better-way-to-get-secrets-in-serverless-world-1aba8a71b3a1</link>
-            <guid>https://vadim-vicolaev-v.medium.com/better-way-to-get-secrets-in-serverless-world-1aba8a71b3a1</guid>
-            <pubDate>Sun, 28 Mar 2021 16:47:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to speed up Node.js modules installation in CI/CD Pipeline as of 2020]]></title>
-            <link>https://medium.com/@jeromewus/how-to-speed-up-node-js-modules-installation-in-ci-cd-pipeline-as-of-2020-4865d77c0eb7</link>
-            <guid>https://medium.com/@jeromewus/how-to-speed-up-node-js-modules-installation-in-ci-cd-pipeline-as-of-2020-4865d77c0eb7</guid>
-            <pubDate>Sun, 28 Mar 2021 12:46:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Out of box canvas implementation by napi-rs and skia, zero system dependency, and no postinstall scripts. We are very close to complete its functionality, just try it with npm install @napi-rs/canvas]]></title>
-            <link>https://github.com/Brooooooklyn/canvas</link>
-            <guid>https://github.com/Brooooooklyn/canvas</guid>
-            <pubDate>Sat, 27 Mar 2021 15:24:38 GMT</pubDate>
         </item>
     </channel>
 </rss>

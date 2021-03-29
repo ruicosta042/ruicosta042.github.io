@@ -4,7 +4,7 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Sun, 28 Mar 2021 19:47:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Mar 2021 07:48:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -79,18 +79,6 @@
             <link>https://catchts.com/callbacks</link>
             <guid>https://catchts.com/callbacks</guid>
             <pubDate>Mon, 22 Mar 2021 22:21:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting keyset out of Record ?]]></title>
-            <link>https://www.typescriptlang.org/docs/handbook/utility-types.html#recordkeystype</link>
-            <guid>https://www.typescriptlang.org/docs/handbook/utility-types.html#recordkeystype</guid>
-            <pubDate>Mon, 22 Mar 2021 13:36:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Observer Design Pattern Implementation in Typescript]]></title>
-            <link>https://levelup.gitconnected.com/observer-design-pattern-implementation-in-typescript-332477ee5b30</link>
-            <guid>https://levelup.gitconnected.com/observer-design-pattern-implementation-in-typescript-332477ee5b30</guid>
-            <pubDate>Sun, 21 Mar 2021 18:59:34 GMT</pubDate>
         </item>
     </channel>
 </rss>

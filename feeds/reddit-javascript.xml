@@ -4,10 +4,22 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sun, 28 Mar 2021 19:47:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Mar 2021 07:48:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[7 ways to improve React app performance]]></title>
+            <link>https://www.akmittal.dev/posts/react-production-checklist/</link>
+            <guid>https://www.akmittal.dev/posts/react-production-checklist/</guid>
+            <pubDate>Mon, 29 Mar 2021 05:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ECMAScript - Introducing BigInt Primitive in ES2020 (ES11)]]></title>
+            <link>https://nitayneeman.com/posts/introducing-bigint-primitive-in-ecmascript-2020/</link>
+            <guid>https://nitayneeman.com/posts/introducing-bigint-primitive-in-ecmascript-2020/</guid>
+            <pubDate>Mon, 29 Mar 2021 06:23:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Scaffolder for your next micro-frontend architecture]]></title>
             <link>https://github.com/cagataycali/micro-fun</link>
@@ -15,10 +27,10 @@
             <pubDate>Sun, 28 Mar 2021 15:27:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Express-File-Logger: a library to help who needs to save a log entry about every ExpressJS hit]]></title>
-            <link>https://www.npmjs.com/package/express-file-logger</link>
-            <guid>https://www.npmjs.com/package/express-file-logger</guid>
-            <pubDate>Sun, 28 Mar 2021 19:25:16 GMT</pubDate>
+            <title><![CDATA[Closure: A visual explanation]]></title>
+            <link>https://zaje.me/closure-a-visual-explanation</link>
+            <guid>https://zaje.me/closure-a-visual-explanation</guid>
+            <pubDate>Mon, 29 Mar 2021 01:11:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Format file size like macOS]]></title>
@@ -27,16 +39,34 @@
             <pubDate>Sun, 28 Mar 2021 18:47:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The 3 ways to make an asynchronous method in JavaScript]]></title>
+            <link>https://dev.to/dieunelson/the-3-ways-to-make-an-asynchronous-method-in-javascript-4jfk</link>
+            <guid>https://dev.to/dieunelson/the-3-ways-to-make-an-asynchronous-method-in-javascript-4jfk</guid>
+            <pubDate>Mon, 29 Mar 2021 00:04:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Create videos in React that viewers can interact with]]></title>
             <link>https://github.com/ysulyma/ractive-player</link>
             <guid>https://github.com/ysulyma/ractive-player</guid>
             <pubDate>Sat, 27 Mar 2021 15:45:43 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[A Space Background (for Web Games) in JavaScript with QCObjects]]></title>
+            <link>https://devblog.qcobjects.org/a-space-background-for-web-games-in-javascript-with-qcobjects-ckmtne6pa0gnvl0s12wg0e6g3</link>
+            <guid>https://devblog.qcobjects.org/a-space-background-for-web-games-in-javascript-with-qcobjects-ckmtne6pa0gnvl0s12wg0e6g3</guid>
+            <pubDate>Sun, 28 Mar 2021 21:09:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Changelog: swc v1.2.51]]></title>
             <link>https://swc.rs/blog/2021/03/28/swc-1.2.51</link>
             <guid>https://swc.rs/blog/2021/03/28/swc-1.2.51</guid>
             <pubDate>Sun, 28 Mar 2021 04:54:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Express-File-Logger: a library to help who needs to save a log entry about every ExpressJS hit]]></title>
+            <link>https://www.npmjs.com/package/express-file-logger</link>
+            <guid>https://www.npmjs.com/package/express-file-logger</guid>
+            <pubDate>Sun, 28 Mar 2021 19:25:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[LINQ implemented in JavaScript Template Literals]]></title>
@@ -57,12 +87,6 @@
             <pubDate>Sat, 27 Mar 2021 19:16:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How es6 classes work under the hood ?]]></title>
-            <link>https://dev.to/hssanbzlm/es6-classes-new-approach-to-emulate-object-oriented-programming-in-js-205e</link>
-            <guid>https://dev.to/hssanbzlm/es6-classes-new-approach-to-emulate-object-oriented-programming-in-js-205e</guid>
-            <pubDate>Sun, 28 Mar 2021 15:45:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ohm – A library and language for building parsers, interpreters, compilers, etc.]]></title>
             <link>https://github.com/harc/ohm</link>
             <guid>https://github.com/harc/ohm</guid>
@@ -73,6 +97,12 @@
             <link>https://arbeitnow.com/</link>
             <guid>https://arbeitnow.com/</guid>
             <pubDate>Sat, 27 Mar 2021 09:07:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How es6 classes work under the hood ?]]></title>
+            <link>https://dev.to/hssanbzlm/es6-classes-new-approach-to-emulate-object-oriented-programming-in-js-205e</link>
+            <guid>https://dev.to/hssanbzlm/es6-classes-new-approach-to-emulate-object-oriented-programming-in-js-205e</guid>
+            <pubDate>Sun, 28 Mar 2021 15:45:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to write a Webpack loader]]></title>
@@ -121,30 +151,6 @@
             <link>https://github.com/RunDevelopment/eslint-plugin-clean-regex</link>
             <guid>https://github.com/RunDevelopment/eslint-plugin-clean-regex</guid>
             <pubDate>Thu, 25 Mar 2021 17:58:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I Created a CLI to Cross-Post Your Articles On Dev, Hashnode, and Medium]]></title>
-            <link>https://blog.shahednasser.com/i-created-a-cli-to-cross-post-your-articles-on-dev-hashnode-and-medium/</link>
-            <guid>https://blog.shahednasser.com/i-created-a-cli-to-cross-post-your-articles-on-dev-hashnode-and-medium/</guid>
-            <pubDate>Fri, 26 Mar 2021 21:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AJAX, CSS Transitions, WebSockets and Server Sent Events directly in HTML]]></title>
-            <link>https://github.com/bigskysoftware/htmx</link>
-            <guid>https://github.com/bigskysoftware/htmx</guid>
-            <pubDate>Fri, 26 Mar 2021 23:48:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JavaScript performance beyond bundle size]]></title>
-            <link>https://nolanlawson.com/2021/02/23/javascript-performance-beyond-bundle-size//#</link>
-            <guid>https://nolanlawson.com/2021/02/23/javascript-performance-beyond-bundle-size//#</guid>
-            <pubDate>Thu, 25 Mar 2021 11:14:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chart library billboard.js 3.0 release: D3.js v6 support & new candlestick type!]]></title>
-            <link>https://netil.medium.com/billboard-js-3-0-release-d3-js-v6-support-new-candlestick-type-9bd74af6a753</link>
-            <guid>https://netil.medium.com/billboard-js-3-0-release-d3-js-v6-support-new-candlestick-type-9bd74af6a753</guid>
-            <pubDate>Fri, 26 Mar 2021 11:24:26 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sun, 28 Mar 2021 19:47:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Mar 2021 07:48:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,22 +21,22 @@
             <pubDate>Sun, 28 Mar 2021 11:12:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Cutting stock optimisation app]]></title>
+            <link>https://www.yompti.com/</link>
+            <guid>https://www.yompti.com/</guid>
+            <pubDate>Mon, 29 Mar 2021 05:15:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I made a sorting visualiser! (6 algorithms, can pause, rewind, change speed and see the number of operations executed)]]></title>
             <link>https://suraj-gov.github.io/sorter/</link>
             <guid>https://suraj-gov.github.io/sorter/</guid>
             <pubDate>Sun, 28 Mar 2021 14:13:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[My portfolio website and an app to find a desired song by string of keywords]]></title>
-            <link>https://sven-dejaeghere.netlify.app/</link>
-            <guid>https://sven-dejaeghere.netlify.app/</guid>
-            <pubDate>Sun, 28 Mar 2021 14:48:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[7 Ways of Achieving Conditional Rendering in React]]></title>
-            <link>https://blog.asayer.io/7-ways-of-achieving-conditional-rendering-in-react</link>
-            <guid>https://blog.asayer.io/7-ways-of-achieving-conditional-rendering-in-react</guid>
-            <pubDate>Sun, 28 Mar 2021 09:45:00 GMT</pubDate>
+            <title><![CDATA[7 ways to improve React app performance]]></title>
+            <link>https://www.akmittal.dev/posts/react-production-checklist/</link>
+            <guid>https://www.akmittal.dev/posts/react-production-checklist/</guid>
+            <pubDate>Mon, 29 Mar 2021 06:39:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Netlify will refactor React code style from global CSS to Tailwind CSS]]></title>
@@ -45,16 +45,34 @@
             <pubDate>Sun, 28 Mar 2021 16:21:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Colorful and Geometric Portfolio]]></title>
+            <link>https://www.joshuawootonn.com/</link>
+            <guid>https://www.joshuawootonn.com/</guid>
+            <pubDate>Sun, 28 Mar 2021 17:36:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I figured out a nice way to merge conditional classNames in react]]></title>
+            <link>https://github.com/5alidz/xcls</link>
+            <guid>https://github.com/5alidz/xcls</guid>
+            <pubDate>Mon, 29 Mar 2021 03:35:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My portfolio website and an app to find a desired song by string of keywords]]></title>
+            <link>https://sven-dejaeghere.netlify.app/</link>
+            <guid>https://sven-dejaeghere.netlify.app/</guid>
+            <pubDate>Sun, 28 Mar 2021 14:48:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I built an beautiful Airbnb clone]]></title>
+            <link>https://kennymark.com/sweetbnb</link>
+            <guid>https://kennymark.com/sweetbnb</guid>
+            <pubDate>Sun, 28 Mar 2021 20:59:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I shipped Remotebear: A React/NextJS website that aggregates remote jobs at leading tech companies]]></title>
             <link>https://remotebear.io/</link>
             <guid>https://remotebear.io/</guid>
             <pubDate>Sun, 28 Mar 2021 12:22:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I can access a value from an API in the console, but not in the component. What am I doing wrong?]]></title>
-            <link>https://codesandbox.io/s/modest-snowflake-wlziy?file=/src/FinalRating.js:2686-2728</link>
-            <guid>https://codesandbox.io/s/modest-snowflake-wlziy?file=/src/FinalRating.js:2686-2728</guid>
-            <pubDate>Sun, 28 Mar 2021 15:57:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wrote a blog post about Dockerizing a React app. Feedback will be appreciated]]></title>
@@ -63,16 +81,10 @@
             <pubDate>Sun, 28 Mar 2021 18:28:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Use cases of Recoil / Jotai for state management]]></title>
-            <link>https://recoiljs.org/</link>
-            <guid>https://recoiljs.org/</guid>
-            <pubDate>Sun, 28 Mar 2021 10:48:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Colorful and Geometric Portfolio]]></title>
-            <link>https://www.joshuawootonn.com/</link>
-            <guid>https://www.joshuawootonn.com/</guid>
-            <pubDate>Sun, 28 Mar 2021 17:36:27 GMT</pubDate>
+            <title><![CDATA[7 Ways of Achieving Conditional Rendering in React]]></title>
+            <link>https://blog.asayer.io/7-ways-of-achieving-conditional-rendering-in-react</link>
+            <guid>https://blog.asayer.io/7-ways-of-achieving-conditional-rendering-in-react</guid>
+            <pubDate>Sun, 28 Mar 2021 09:45:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

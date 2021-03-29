@@ -4,10 +4,16 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Sun, 28 Mar 2021 19:47:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Mar 2021 07:48:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Creative Chatbox Examples with code]]></title>
+            <link>https://www.codingflicks.com/2021/03/html-css-chat-box-examples.html</link>
+            <guid>https://www.codingflicks.com/2021/03/html-css-chat-box-examples.html</guid>
+            <pubDate>Mon, 29 Mar 2021 03:03:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How To Create A CSS Triangle]]></title>
             <link>https://medium.com/@codingdudecom/css-triangle-81eb02dffeee</link>
@@ -15,16 +21,16 @@
             <pubDate>Sun, 28 Mar 2021 07:16:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Can I change the Font Color for TAGS in my WordPress theme?]]></title>
-            <link>https://stephenmcateer.com/2021/03/27/q-a/</link>
-            <guid>https://stephenmcateer.com/2021/03/27/q-a/</guid>
-            <pubDate>Sun, 28 Mar 2021 15:04:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Technical drawings in CSS - how to fill available space?]]></title>
             <link>https://github.com/formatc1702/WireViz</link>
             <guid>https://github.com/formatc1702/WireViz</guid>
             <pubDate>Sun, 28 Mar 2021 12:24:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can I change the Font Color for TAGS in my WordPress theme?]]></title>
+            <link>https://stephenmcateer.com/2021/03/27/q-a/</link>
+            <guid>https://stephenmcateer.com/2021/03/27/q-a/</guid>
+            <pubDate>Sun, 28 Mar 2021 15:04:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Animating Underlines]]></title>
@@ -85,18 +91,6 @@
             <link>https://www.codingflicks.com/2021/03/responsive-homepage-design-using-flexbox-with-text-animation.html</link>
             <guid>https://www.codingflicks.com/2021/03/responsive-homepage-design-using-flexbox-with-text-animation.html</guid>
             <pubDate>Thu, 25 Mar 2021 04:05:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Some Trending New CSS Properties]]></title>
-            <link>https://blog.yudiz.com/some-trending-new-css-properties/</link>
-            <guid>https://blog.yudiz.com/some-trending-new-css-properties/</guid>
-            <pubDate>Thu, 25 Mar 2021 10:30:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The One Thing You Need to Know To Avoid CSS Overflow]]></title>
-            <link>https://jportella93.medium.com/the-one-thing-you-need-to-know-to-avoid-css-overflow-9554b40aa797</link>
-            <guid>https://jportella93.medium.com/the-one-thing-you-need-to-know-to-avoid-css-overflow-9554b40aa797</guid>
-            <pubDate>Thu, 25 Mar 2021 01:45:08 GMT</pubDate>
         </item>
     </channel>
 </rss>

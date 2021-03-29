@@ -4,15 +4,33 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Mon, 29 Mar 2021 07:48:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Mar 2021 12:55:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Your /r/javascript recap for the week of March 22 - March 28]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Mon, 29 Mar 2021 09:04:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Announcing the Deno Company]]></title>
+            <link>https://deno.com/blog/the-deno-company</link>
+            <guid>https://deno.com/blog/the-deno-company</guid>
+            <pubDate>Mon, 29 Mar 2021 11:56:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[7 ways to improve React app performance]]></title>
             <link>https://www.akmittal.dev/posts/react-production-checklist/</link>
             <guid>https://www.akmittal.dev/posts/react-production-checklist/</guid>
             <pubDate>Mon, 29 Mar 2021 05:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitwise Config Flags - Get rid of unnecessary if conditions with esoteric way]]></title>
+            <link>https://medium.com/trendyol-tech/bitwise-config-flags-get-rid-of-unnecessary-if-conditions-with-esoteric-way-f650dfd39dc6</link>
+            <guid>https://medium.com/trendyol-tech/bitwise-config-flags-get-rid-of-unnecessary-if-conditions-with-esoteric-way-f650dfd39dc6</guid>
+            <pubDate>Mon, 29 Mar 2021 08:18:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ECMAScript - Introducing BigInt Primitive in ES2020 (ES11)]]></title>
@@ -27,6 +45,30 @@
             <pubDate>Sun, 28 Mar 2021 15:27:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Better GitHub - Chrome extension to enhance your code reading experience on GitHub]]></title>
+            <link>https://github.com/ceoshikhar/better-github</link>
+            <guid>https://github.com/ceoshikhar/better-github</guid>
+            <pubDate>Mon, 29 Mar 2021 08:46:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ultimate FREE Javascript Resources]]></title>
+            <link>https://dev.to/hulyakarakaya/ultimate-free-javascript-resources-2802</link>
+            <guid>https://dev.to/hulyakarakaya/ultimate-free-javascript-resources-2802</guid>
+            <pubDate>Mon, 29 Mar 2021 12:53:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Download files behind JWT-authenticated routes with no extra libraries, using object URLs]]></title>
+            <link>https://blog.theodo.com/2021/03/authenticated-file-download-with-javascript/</link>
+            <guid>https://blog.theodo.com/2021/03/authenticated-file-download-with-javascript/</guid>
+            <pubDate>Mon, 29 Mar 2021 12:53:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Am I the only one who don't want to spend some good hours, or maybe days while creating PDF Invoices? Take a look at this #javascript library. Just fetch your data and add them to the param object. That's it, 5 min!]]></title>
+            <link>https://www.npmjs.com/package/jspdf-invoice-template?v1.2</link>
+            <guid>https://www.npmjs.com/package/jspdf-invoice-template?v1.2</guid>
+            <pubDate>Mon, 29 Mar 2021 09:05:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Closure: A visual explanation]]></title>
             <link>https://zaje.me/closure-a-visual-explanation</link>
             <guid>https://zaje.me/closure-a-visual-explanation</guid>
@@ -37,12 +79,6 @@
             <link>https://gist.github.com/elawad/72b707e4b455fe6f63e6a26cdf1bba31</link>
             <guid>https://gist.github.com/elawad/72b707e4b455fe6f63e6a26cdf1bba31</guid>
             <pubDate>Sun, 28 Mar 2021 18:47:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The 3 ways to make an asynchronous method in JavaScript]]></title>
-            <link>https://dev.to/dieunelson/the-3-ways-to-make-an-asynchronous-method-in-javascript-4jfk</link>
-            <guid>https://dev.to/dieunelson/the-3-ways-to-make-an-asynchronous-method-in-javascript-4jfk</guid>
-            <pubDate>Mon, 29 Mar 2021 00:04:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Create videos in React that viewers can interact with]]></title>
@@ -57,6 +93,12 @@
             <pubDate>Sun, 28 Mar 2021 21:09:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The 3 ways to make an asynchronous method in JavaScript]]></title>
+            <link>https://dev.to/dieunelson/the-3-ways-to-make-an-asynchronous-method-in-javascript-4jfk</link>
+            <guid>https://dev.to/dieunelson/the-3-ways-to-make-an-asynchronous-method-in-javascript-4jfk</guid>
+            <pubDate>Mon, 29 Mar 2021 00:04:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Changelog: swc v1.2.51]]></title>
             <link>https://swc.rs/blog/2021/03/28/swc-1.2.51</link>
             <guid>https://swc.rs/blog/2021/03/28/swc-1.2.51</guid>
@@ -69,16 +111,16 @@
             <pubDate>Sun, 28 Mar 2021 19:25:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[LINQ implemented in JavaScript Template Literals]]></title>
-            <link>https://github.com/sinclairzx81/linqbox</link>
-            <guid>https://github.com/sinclairzx81/linqbox</guid>
-            <pubDate>Sat, 27 Mar 2021 19:45:26 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[image recognition model (EfficientNet) written in typescript]]></title>
             <link>https://github.com/ntedgi/node-efficientnet</link>
             <guid>https://github.com/ntedgi/node-efficientnet</guid>
             <pubDate>Sun, 28 Mar 2021 08:01:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LINQ implemented in JavaScript Template Literals]]></title>
+            <link>https://github.com/sinclairzx81/linqbox</link>
+            <guid>https://github.com/sinclairzx81/linqbox</guid>
+            <pubDate>Sat, 27 Mar 2021 19:45:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Advanced Promises in Javascript (Dataloader Pattern) - Mike Alche]]></title>
@@ -115,42 +157,6 @@
             <link>https://dev.to/vantanev/make-your-jest-tests-up-to-20-faster-by-changing-a-single-setting-i36</link>
             <guid>https://dev.to/vantanev/make-your-jest-tests-up-to-20-faster-by-changing-a-single-setting-i36</guid>
             <pubDate>Fri, 26 Mar 2021 14:36:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[showoff saturday] with all the hype around cryptos, I decided to make a online ledger]]></title>
-            <link>https://moshmage.gitlab.io/asset-ledger/#/</link>
-            <guid>https://moshmage.gitlab.io/asset-ledger/#/</guid>
-            <pubDate>Sat, 27 Mar 2021 10:52:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[To Those Who Criticize JavaScript]]></title>
-            <link>https://dev.to/ruby_hater/the-shocking-impossibility-of-ruby-4h9f</link>
-            <guid>https://dev.to/ruby_hater/the-shocking-impossibility-of-ruby-4h9f</guid>
-            <pubDate>Fri, 26 Mar 2021 21:11:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[htmbox - A Dropbox clone written in htmx and hyperscript]]></title>
-            <link>https://htmbox.herokuapp.com/</link>
-            <guid>https://htmbox.herokuapp.com/</guid>
-            <pubDate>Fri, 26 Mar 2021 11:55:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[foldl, foldr, and associative order]]></title>
-            <link>https://raganwald.com/2017/04/10/foldl-foldr.html</link>
-            <guid>https://raganwald.com/2017/04/10/foldl-foldr.html</guid>
-            <pubDate>Fri, 26 Mar 2021 12:46:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GraphQL Subscriptions w/ Serverless on AWS - Subscriptionless]]></title>
-            <link>https://github.com/andyrichardson/subscriptionless</link>
-            <guid>https://github.com/andyrichardson/subscriptionless</guid>
-            <pubDate>Fri, 26 Mar 2021 14:57:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I made an ESLint plugin for JS regexes. It detects potential errors, suggests improvements, and simplifies patterns.]]></title>
-            <link>https://github.com/RunDevelopment/eslint-plugin-clean-regex</link>
-            <guid>https://github.com/RunDevelopment/eslint-plugin-clean-regex</guid>
-            <pubDate>Thu, 25 Mar 2021 17:58:09 GMT</pubDate>
         </item>
     </channel>
 </rss>

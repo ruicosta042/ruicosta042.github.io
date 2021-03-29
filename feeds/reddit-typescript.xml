@@ -4,10 +4,16 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Mon, 29 Mar 2021 07:48:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Mar 2021 12:55:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Question about a Plugin System]]></title>
+            <link>https://github.com/matteobruni/tsparticles/</link>
+            <guid>https://github.com/matteobruni/tsparticles/</guid>
+            <pubDate>Mon, 29 Mar 2021 11:51:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[image recognition model (EfficientNet) written in typescript]]></title>
             <link>https://github.com/ntedgi/node-efficientnet</link>

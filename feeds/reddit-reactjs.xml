@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Mon, 29 Mar 2021 07:48:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Mar 2021 12:55:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -19,6 +19,30 @@
             <link>https://electricui.com/blog/fast-react-text-updates</link>
             <guid>https://electricui.com/blog/fast-react-text-updates</guid>
             <pubDate>Sun, 28 Mar 2021 11:12:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React component tool (CLI + VSCode extension + Webstorm integration)]]></title>
+            <link>https://github.com/coolassassin/reactcci</link>
+            <guid>https://github.com/coolassassin/reactcci</guid>
+            <pubDate>Mon, 29 Mar 2021 09:46:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A wedding site (Reactjs)]]></title>
+            <link>https://gurpreetwedsjyoti.netlify.app/</link>
+            <guid>https://gurpreetwedsjyoti.netlify.app/</guid>
+            <pubDate>Mon, 29 Mar 2021 11:53:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My React App, what's your thoughts (source code on github)]]></title>
+            <link>https://todoapp-3eed7.web.app/</link>
+            <guid>https://todoapp-3eed7.web.app/</guid>
+            <pubDate>Mon, 29 Mar 2021 11:47:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Redux In Web Workers: Off-Main-Thread Redux Reducers and Middleware]]></title>
+            <link>https://blog.asayer.io/redux-in-web-workers-off-main-thread-redux-reducers-and-middleware</link>
+            <guid>https://blog.asayer.io/redux-in-web-workers-off-main-thread-redux-reducers-and-middleware</guid>
+            <pubDate>Mon, 29 Mar 2021 10:15:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cutting stock optimisation app]]></title>
@@ -61,30 +85,6 @@
             <link>https://sven-dejaeghere.netlify.app/</link>
             <guid>https://sven-dejaeghere.netlify.app/</guid>
             <pubDate>Sun, 28 Mar 2021 14:48:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I built an beautiful Airbnb clone]]></title>
-            <link>https://kennymark.com/sweetbnb</link>
-            <guid>https://kennymark.com/sweetbnb</guid>
-            <pubDate>Sun, 28 Mar 2021 20:59:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I shipped Remotebear: A React/NextJS website that aggregates remote jobs at leading tech companies]]></title>
-            <link>https://remotebear.io/</link>
-            <guid>https://remotebear.io/</guid>
-            <pubDate>Sun, 28 Mar 2021 12:22:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wrote a blog post about Dockerizing a React app. Feedback will be appreciated]]></title>
-            <link>https://rsbh.dev/blog/dockerize-react-app</link>
-            <guid>https://rsbh.dev/blog/dockerize-react-app</guid>
-            <pubDate>Sun, 28 Mar 2021 18:28:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[7 Ways of Achieving Conditional Rendering in React]]></title>
-            <link>https://blog.asayer.io/7-ways-of-achieving-conditional-rendering-in-react</link>
-            <guid>https://blog.asayer.io/7-ways-of-achieving-conditional-rendering-in-react</guid>
-            <pubDate>Sun, 28 Mar 2021 09:45:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,16 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Mon, 29 Mar 2021 07:48:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Mar 2021 12:55:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[CSS Only Masonry Grid Layouts]]></title>
+            <link>https://fjolt.com/article/css-grid-masonry</link>
+            <guid>https://fjolt.com/article/css-grid-masonry</guid>
+            <pubDate>Mon, 29 Mar 2021 12:33:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Creative Chatbox Examples with code]]></title>
             <link>https://www.codingflicks.com/2021/03/html-css-chat-box-examples.html</link>
@@ -79,18 +85,6 @@
             <link>https://transition.style/</link>
             <guid>https://transition.style/</guid>
             <pubDate>Thu, 25 Mar 2021 12:52:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Free Hosting WHMCS/Bootstrap template]]></title>
-            <link>https://aalayer.com/blog/lowendhost-free-whmcs-hosting-template/</link>
-            <guid>https://aalayer.com/blog/lowendhost-free-whmcs-hosting-template/</guid>
-            <pubDate>Thu, 25 Mar 2021 13:50:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Simple Homepage with Text Effect]]></title>
-            <link>https://www.codingflicks.com/2021/03/responsive-homepage-design-using-flexbox-with-text-animation.html</link>
-            <guid>https://www.codingflicks.com/2021/03/responsive-homepage-design-using-flexbox-with-text-animation.html</guid>
-            <pubDate>Thu, 25 Mar 2021 04:05:31 GMT</pubDate>
         </item>
     </channel>
 </rss>

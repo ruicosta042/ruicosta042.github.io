@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Tue, 30 Mar 2021 07:48:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Mar 2021 12:56:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,16 +15,28 @@
             <pubDate>Mon, 29 Mar 2021 09:04:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[HTML over the wire - A comparison of different solutions]]></title>
+            <link>https://html-over-the-wire.herokuapp.com/</link>
+            <guid>https://html-over-the-wire.herokuapp.com/</guid>
+            <pubDate>Tue, 30 Mar 2021 06:54:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Announcing the Deno Company]]></title>
             <link>https://deno.com/blog/the-deno-company</link>
             <guid>https://deno.com/blog/the-deno-company</guid>
             <pubDate>Mon, 29 Mar 2021 11:56:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[HTML over the wire - A comparison of different solutions]]></title>
-            <link>https://html-over-the-wire.herokuapp.com/</link>
-            <guid>https://html-over-the-wire.herokuapp.com/</guid>
-            <pubDate>Tue, 30 Mar 2021 06:54:50 GMT</pubDate>
+            <title><![CDATA[Goldmine - a 'clicker' game in ~200 lines of pure JS. My first attempt at constructors - what do you think?]]></title>
+            <link>https://slicker.me/javascript/gold/goldmine.htm</link>
+            <guid>https://slicker.me/javascript/gold/goldmine.htm</guid>
+            <pubDate>Tue, 30 Mar 2021 12:37:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Optix: A tiny, powerful data manipulation library inspired by optics]]></title>
+            <link>https://github.com/Rinaldo/optix#readme</link>
+            <guid>https://github.com/Rinaldo/optix#readme</guid>
+            <pubDate>Tue, 30 Mar 2021 12:54:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Meteorite — The Solution to Noisy GitHub Notifications]]></title>
@@ -145,18 +157,6 @@
             <link>https://arbeitnow.com/</link>
             <guid>https://arbeitnow.com/</guid>
             <pubDate>Sat, 27 Mar 2021 09:07:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How es6 classes work under the hood ?]]></title>
-            <link>https://dev.to/hssanbzlm/es6-classes-new-approach-to-emulate-object-oriented-programming-in-js-205e</link>
-            <guid>https://dev.to/hssanbzlm/es6-classes-new-approach-to-emulate-object-oriented-programming-in-js-205e</guid>
-            <pubDate>Sun, 28 Mar 2021 15:45:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to write a Webpack loader]]></title>
-            <link>https://advancedweb.hu/how-to-write-a-webpack-loader/</link>
-            <guid>https://advancedweb.hu/how-to-write-a-webpack-loader/</guid>
-            <pubDate>Sat, 27 Mar 2021 18:11:12 GMT</pubDate>
         </item>
     </channel>
 </rss>

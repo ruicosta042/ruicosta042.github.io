@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Tue, 30 Mar 2021 07:48:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Mar 2021 12:56:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,18 @@
             <link>https://www.codingflicks.com/2021/03/html-css-animated-background.html</link>
             <guid>https://www.codingflicks.com/2021/03/html-css-animated-background.html</guid>
             <pubDate>Tue, 30 Mar 2021 06:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Free SVG Converter]]></title>
+            <link>https://picsvg.com/</link>
+            <guid>https://picsvg.com/</guid>
+            <pubDate>Tue, 30 Mar 2021 12:41:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tools for Auditing CSS]]></title>
+            <link>https://css-tricks.com/tools-for-auditing-css/</link>
+            <guid>https://css-tricks.com/tools-for-auditing-css/</guid>
+            <pubDate>Tue, 30 Mar 2021 10:32:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Not Your Typical Horizontal Rules]]></title>
@@ -79,12 +91,6 @@
             <link>https://themesberg.com/blog/glassmorphism/tutorial</link>
             <guid>https://themesberg.com/blog/glassmorphism/tutorial</guid>
             <pubDate>Fri, 26 Mar 2021 11:29:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Improve CSS Performance]]></title>
-            <link>https://calibreapp.com/blog/css-performance</link>
-            <guid>https://calibreapp.com/blog/css-performance</guid>
-            <pubDate>Thu, 25 Mar 2021 12:50:28 GMT</pubDate>
         </item>
     </channel>
 </rss>

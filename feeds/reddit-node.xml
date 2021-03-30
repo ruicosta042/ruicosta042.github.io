@@ -4,7 +4,7 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Tue, 30 Mar 2021 07:48:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Mar 2021 12:56:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,18 @@
             <link>https://github.com/magenta/magenta-studio/issues/54</link>
             <guid>https://github.com/magenta/magenta-studio/issues/54</guid>
             <pubDate>Tue, 30 Mar 2021 04:46:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Attempting to separate sequelize models in separate folder]]></title>
+            <link>https://stackoverflow.com/questions/32546148/break-sequelize-models-in-separate-folders</link>
+            <guid>https://stackoverflow.com/questions/32546148/break-sequelize-models-in-separate-folders</guid>
+            <pubDate>Tue, 30 Mar 2021 07:56:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[API with NestJS #32. Introduction to Prisma with PostgreSQL]]></title>
+            <link>https://wanago.io/2021/03/29/api-nestjs-prisma-postgresql/</link>
+            <guid>https://wanago.io/2021/03/29/api-nestjs-prisma-postgresql/</guid>
+            <pubDate>Mon, 29 Mar 2021 18:32:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Multi Threading in Node using Process Recursion]]></title>
@@ -25,12 +37,6 @@
             <link>https://foo.com/</link>
             <guid>https://foo.com/</guid>
             <pubDate>Mon, 29 Mar 2021 14:55:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[API with NestJS #32. Introduction to Prisma with PostgreSQL]]></title>
-            <link>https://wanago.io/2021/03/29/api-nestjs-prisma-postgresql/</link>
-            <guid>https://wanago.io/2021/03/29/api-nestjs-prisma-postgresql/</guid>
-            <pubDate>Mon, 29 Mar 2021 18:32:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[End-to-end monitoring primer (NodeJS/Playwright-driven)]]></title>
@@ -79,12 +85,6 @@
             <link>https://github.com/ehmicky/cross-platform-terminal-characters</link>
             <guid>https://github.com/ehmicky/cross-platform-terminal-characters</guid>
             <pubDate>Mon, 29 Mar 2021 18:34:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Need help with puppeteer waitForSelector]]></title>
-            <link>https://covid19.who.int/table</link>
-            <guid>https://covid19.who.int/table</guid>
-            <pubDate>Mon, 29 Mar 2021 06:19:10 GMT</pubDate>
         </item>
     </channel>
 </rss>

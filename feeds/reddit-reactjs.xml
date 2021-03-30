@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Tue, 30 Mar 2021 07:48:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Mar 2021 12:56:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,10 +21,28 @@
             <pubDate>Mon, 29 Mar 2021 17:19:17 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[When to use an ErrorBoundary?]]></title>
+            <link>https://reactjs.org/docs/error-boundaries.html#where-to-place-error-boundaries</link>
+            <guid>https://reactjs.org/docs/error-boundaries.html#where-to-place-error-boundaries</guid>
+            <pubDate>Tue, 30 Mar 2021 12:19:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Built a site where you can see how much you missed out on in the stock market]]></title>
+            <link>https://ifonlyihadstock.com/</link>
+            <guid>https://ifonlyihadstock.com/</guid>
+            <pubDate>Tue, 30 Mar 2021 08:54:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Updated my first game teamword.io and published it on github!]]></title>
             <link>https://teamword.io/</link>
             <guid>https://teamword.io/</guid>
             <pubDate>Tue, 30 Mar 2021 07:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React JS Case Study Festival]]></title>
+            <link>https://react.geekle.us/</link>
+            <guid>https://react.geekle.us/</guid>
+            <pubDate>Tue, 30 Mar 2021 09:08:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is it okay to make a request with callbacks in a Redux thunk function?]]></title>
@@ -69,34 +87,10 @@
             <pubDate>Tue, 30 Mar 2021 00:42:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[My Gatsby website is 3077Kb (too much for Twitter card validator). How can I improve that?]]></title>
-            <link>https://www.gatsbyjs.com/docs/caching/</link>
-            <guid>https://www.gatsbyjs.com/docs/caching/</guid>
-            <pubDate>Mon, 29 Mar 2021 20:43:11 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[I'm still playing with the new JS bundlers and today I'm giving you my opinion on Vite.]]></title>
             <link>https://slashgear.github.io/vite-webpack-killer/</link>
             <guid>https://slashgear.github.io/vite-webpack-killer/</guid>
             <pubDate>Mon, 29 Mar 2021 15:53:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dynamic Mask Library in TypeScript]]></title>
-            <link>https://github.com/marcelodosreis/node-masker</link>
-            <guid>https://github.com/marcelodosreis/node-masker</guid>
-            <pubDate>Mon, 29 Mar 2021 17:23:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React Grid: UI Component that can arrange items according to the type of grids.]]></title>
-            <link>https://github.com/naver/egjs-grid/tree/main/packages/react-grid</link>
-            <guid>https://github.com/naver/egjs-grid/tree/main/packages/react-grid</guid>
-            <pubDate>Mon, 29 Mar 2021 17:02:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I'm starting learning React this week and I'm stuck between these 2 courses (McGinnis vs Grider)]]></title>
-            <link>https://ui.dev/react/</link>
-            <guid>https://ui.dev/react/</guid>
-            <pubDate>Mon, 29 Mar 2021 14:38:11 GMT</pubDate>
         </item>
     </channel>
 </rss>

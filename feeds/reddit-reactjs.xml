@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Tue, 30 Mar 2021 12:56:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Mar 2021 19:47:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,82 +15,70 @@
             <pubDate>Mon, 01 Mar 2021 15:56:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Next.js 10.1 – 3x Faster Refresh, Image Improvements, Apple Silicon Support]]></title>
-            <link>https://nextjs.org/blog/next-10-1</link>
-            <guid>https://nextjs.org/blog/next-10-1</guid>
-            <pubDate>Mon, 29 Mar 2021 17:19:17 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[When to use an ErrorBoundary?]]></title>
             <link>https://reactjs.org/docs/error-boundaries.html#where-to-place-error-boundaries</link>
             <guid>https://reactjs.org/docs/error-boundaries.html#where-to-place-error-boundaries</guid>
             <pubDate>Tue, 30 Mar 2021 12:19:57 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Next.js 10.1 – 3x Faster Refresh, Image Improvements, Apple Silicon Support]]></title>
+            <link>https://nextjs.org/blog/next-10-1</link>
+            <guid>https://nextjs.org/blog/next-10-1</guid>
+            <pubDate>Mon, 29 Mar 2021 17:19:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Life and death of the usePrevious hook. Common gotchas and solutions! Come and read the post]]></title>
+            <link>https://www.giacomocerquone.com/blog/life-death-useprevious-hook</link>
+            <guid>https://www.giacomocerquone.com/blog/life-death-useprevious-hook</guid>
+            <pubDate>Tue, 30 Mar 2021 16:25:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How I built a Serverless Micro-Blogging Site Using Next.js and Fauna (Part 1)]]></title>
+            <link>https://blog.bhanuteja.dev/how-i-built-a-serverless-micro-blogging-site-using-nextjs-and-fauna</link>
+            <guid>https://blog.bhanuteja.dev/how-i-built-a-serverless-micro-blogging-site-using-nextjs-and-fauna</guid>
+            <pubDate>Tue, 30 Mar 2021 19:44:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[7 Open Source React Navbars + Some Pitfalls and Things to Consider - Flatlogic Blog]]></title>
+            <link>https://flatlogic.com/blog/7-open-source-react-navbars-some-pitfalls-and-things-to-consider/</link>
+            <guid>https://flatlogic.com/blog/7-open-source-react-navbars-some-pitfalls-and-things-to-consider/</guid>
+            <pubDate>Tue, 30 Mar 2021 18:48:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How would you create a similar brandbook in reactjs?]]></title>
+            <link>https://www.cisco.com/c/m/en_us/about/brand-center/copyright-use/copyright-material-guidelines/interactive-brand-book.html#-1</link>
+            <guid>https://www.cisco.com/c/m/en_us/about/brand-center/copyright-use/copyright-material-guidelines/interactive-brand-book.html#-1</guid>
+            <pubDate>Tue, 30 Mar 2021 17:44:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Visualising data on Google Maps?]]></title>
+            <link>https://replit.com/@minymina/SnoopyVariableHashfunction</link>
+            <guid>https://replit.com/@minymina/SnoopyVariableHashfunction</guid>
+            <pubDate>Tue, 30 Mar 2021 12:58:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CodeSandbox not displaying complete but garbled text]]></title>
+            <link>https://www.npmjs.com/package/react-select-virtualized</link>
+            <guid>https://www.npmjs.com/package/react-select-virtualized</guid>
+            <pubDate>Tue, 30 Mar 2021 16:05:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to do if create-react-app doesn’t work]]></title>
+            <link>https://betterprogramming.pub/what-to-do-if-create-react-app-doesnt-work-ad601b4c238?gi=22b775597240</link>
+            <guid>https://betterprogramming.pub/what-to-do-if-create-react-app-doesnt-work-ad601b4c238?gi=22b775597240</guid>
+            <pubDate>Tue, 30 Mar 2021 15:45:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[react-async-watcher package for execute and watch async function]]></title>
+            <link>https://github.com/xralphack/react-async-watcher</link>
+            <guid>https://github.com/xralphack/react-async-watcher</guid>
+            <pubDate>Tue, 30 Mar 2021 15:00:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Built a site where you can see how much you missed out on in the stock market]]></title>
             <link>https://ifonlyihadstock.com/</link>
             <guid>https://ifonlyihadstock.com/</guid>
             <pubDate>Tue, 30 Mar 2021 08:54:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Updated my first game teamword.io and published it on github!]]></title>
-            <link>https://teamword.io/</link>
-            <guid>https://teamword.io/</guid>
-            <pubDate>Tue, 30 Mar 2021 07:05:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React JS Case Study Festival]]></title>
-            <link>https://react.geekle.us/</link>
-            <guid>https://react.geekle.us/</guid>
-            <pubDate>Tue, 30 Mar 2021 09:08:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is it okay to make a request with callbacks in a Redux thunk function?]]></title>
-            <link>https://stackoverflow.com/questions/66865024/is-it-okay-to-make-a-request-with-callbacks-in-a-redux-thunk-function</link>
-            <guid>https://stackoverflow.com/questions/66865024/is-it-okay-to-make-a-request-with-callbacks-in-a-redux-thunk-function</guid>
-            <pubDate>Tue, 30 Mar 2021 06:09:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React Spring V9 - How to create a mouse parallax?]]></title>
-            <link>https://codesandbox.io/embed/r5x34869vq</link>
-            <guid>https://codesandbox.io/embed/r5x34869vq</guid>
-            <pubDate>Tue, 30 Mar 2021 05:47:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[show r/reactjs: twitch viewership metrics site built on next.js]]></title>
-            <link>https://tizz.io/</link>
-            <guid>https://tizz.io/</guid>
-            <pubDate>Mon, 29 Mar 2021 22:01:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Writing Developer-Friendly React Unit Tests]]></title>
-            <link>https://webup.org/blog/writing-developer-friendly-react-component-tests/</link>
-            <guid>https://webup.org/blog/writing-developer-friendly-react-component-tests/</guid>
-            <pubDate>Mon, 29 Mar 2021 13:16:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I built a Coronavirus interactive map and api for Mexico using React and React-map-gl]]></title>
-            <link>https://covmx.xyz/</link>
-            <guid>https://covmx.xyz/</guid>
-            <pubDate>Tue, 30 Mar 2021 03:30:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Server-side rendering and how it works]]></title>
-            <link>https://mindaugasnakr.medium.com/server-side-rendering-in-react-3f13d557eb74</link>
-            <guid>https://mindaugasnakr.medium.com/server-side-rendering-in-react-3f13d557eb74</guid>
-            <pubDate>Mon, 29 Mar 2021 20:18:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hey all, I need a recommendation for a visual workflow editor similar to this image]]></title>
-            <link>https://dribbble.com/shots/3016326-Analysis-Decisions?utm_source=Clipboard_Shot&amp;utm_campaign=alexandru-antihi&amp;utm_content=Analysis%20Decisions&amp;utm_medium=Social_Share&amp;utm_source=Clipboard_Shot&amp;utm_campaign=alexandru-antihi&amp;utm_content=Analysis%20Decisions&amp;utm_medium=Social_Share</link>
-            <guid>https://dribbble.com/shots/3016326-Analysis-Decisions?utm_source=Clipboard_Shot&amp;utm_campaign=alexandru-antihi&amp;utm_content=Analysis%20Decisions&amp;utm_medium=Social_Share&amp;utm_source=Clipboard_Shot&amp;utm_campaign=alexandru-antihi&amp;utm_content=Analysis%20Decisions&amp;utm_medium=Social_Share</guid>
-            <pubDate>Tue, 30 Mar 2021 00:42:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I'm still playing with the new JS bundlers and today I'm giving you my opinion on Vite.]]></title>
-            <link>https://slashgear.github.io/vite-webpack-killer/</link>
-            <guid>https://slashgear.github.io/vite-webpack-killer/</guid>
-            <pubDate>Mon, 29 Mar 2021 15:53:15 GMT</pubDate>
         </item>
     </channel>
 </rss>

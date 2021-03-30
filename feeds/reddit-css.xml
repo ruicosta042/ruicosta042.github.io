@@ -4,16 +4,10 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Tue, 30 Mar 2021 12:56:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Mar 2021 19:47:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
-        <item>
-            <title><![CDATA[Pure HTML CSS Animated Background]]></title>
-            <link>https://www.codingflicks.com/2021/03/html-css-animated-background.html</link>
-            <guid>https://www.codingflicks.com/2021/03/html-css-animated-background.html</guid>
-            <pubDate>Tue, 30 Mar 2021 06:20:38 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Free SVG Converter]]></title>
             <link>https://picsvg.com/</link>
@@ -79,18 +73,6 @@
             <link>https://css-irl.info/animating-underlines/</link>
             <guid>https://css-irl.info/animating-underlines/</guid>
             <pubDate>Fri, 26 Mar 2021 13:11:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[15 Advanced CSS Techniques To Master In 2021]]></title>
-            <link>https://www.lambdatest.com/blog/advanced-css-techniques-2021/?utm_source=Reddit&amp;utm_medium=blog&amp;utm_campaign=PM-260221-1&amp;utm_term=OrganicPosting</link>
-            <guid>https://www.lambdatest.com/blog/advanced-css-techniques-2021/?utm_source=Reddit&amp;utm_medium=blog&amp;utm_campaign=PM-260221-1&amp;utm_term=OrganicPosting</guid>
-            <pubDate>Fri, 26 Mar 2021 05:49:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Glassmorphism - learn how to implement the new design trend using only HTML and CSS - Themesberg Blog]]></title>
-            <link>https://themesberg.com/blog/glassmorphism/tutorial</link>
-            <guid>https://themesberg.com/blog/glassmorphism/tutorial</guid>
-            <pubDate>Fri, 26 Mar 2021 11:29:43 GMT</pubDate>
         </item>
     </channel>
 </rss>

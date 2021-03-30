@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Mon, 29 Mar 2021 19:46:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Mar 2021 07:48:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,22 +21,70 @@
             <pubDate>Mon, 29 Mar 2021 17:19:17 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Updated my first game teamword.io and published it on github!]]></title>
+            <link>https://teamword.io/</link>
+            <guid>https://teamword.io/</guid>
+            <pubDate>Tue, 30 Mar 2021 07:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is it okay to make a request with callbacks in a Redux thunk function?]]></title>
+            <link>https://stackoverflow.com/questions/66865024/is-it-okay-to-make-a-request-with-callbacks-in-a-redux-thunk-function</link>
+            <guid>https://stackoverflow.com/questions/66865024/is-it-okay-to-make-a-request-with-callbacks-in-a-redux-thunk-function</guid>
+            <pubDate>Tue, 30 Mar 2021 06:09:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React Spring V9 - How to create a mouse parallax?]]></title>
+            <link>https://codesandbox.io/embed/r5x34869vq</link>
+            <guid>https://codesandbox.io/embed/r5x34869vq</guid>
+            <pubDate>Tue, 30 Mar 2021 05:47:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[show r/reactjs: twitch viewership metrics site built on next.js]]></title>
+            <link>https://tizz.io/</link>
+            <guid>https://tizz.io/</guid>
+            <pubDate>Mon, 29 Mar 2021 22:01:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Writing Developer-Friendly React Unit Tests]]></title>
             <link>https://webup.org/blog/writing-developer-friendly-react-component-tests/</link>
             <guid>https://webup.org/blog/writing-developer-friendly-react-component-tests/</guid>
             <pubDate>Mon, 29 Mar 2021 13:16:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[I built a Coronavirus interactive map and api for Mexico using React and React-map-gl]]></title>
+            <link>https://covmx.xyz/</link>
+            <guid>https://covmx.xyz/</guid>
+            <pubDate>Tue, 30 Mar 2021 03:30:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Server-side rendering and how it works]]></title>
+            <link>https://mindaugasnakr.medium.com/server-side-rendering-in-react-3f13d557eb74</link>
+            <guid>https://mindaugasnakr.medium.com/server-side-rendering-in-react-3f13d557eb74</guid>
+            <pubDate>Mon, 29 Mar 2021 20:18:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hey all, I need a recommendation for a visual workflow editor similar to this image]]></title>
+            <link>https://dribbble.com/shots/3016326-Analysis-Decisions?utm_source=Clipboard_Shot&amp;utm_campaign=alexandru-antihi&amp;utm_content=Analysis%20Decisions&amp;utm_medium=Social_Share&amp;utm_source=Clipboard_Shot&amp;utm_campaign=alexandru-antihi&amp;utm_content=Analysis%20Decisions&amp;utm_medium=Social_Share</link>
+            <guid>https://dribbble.com/shots/3016326-Analysis-Decisions?utm_source=Clipboard_Shot&amp;utm_campaign=alexandru-antihi&amp;utm_content=Analysis%20Decisions&amp;utm_medium=Social_Share&amp;utm_source=Clipboard_Shot&amp;utm_campaign=alexandru-antihi&amp;utm_content=Analysis%20Decisions&amp;utm_medium=Social_Share</guid>
+            <pubDate>Tue, 30 Mar 2021 00:42:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My Gatsby website is 3077Kb (too much for Twitter card validator). How can I improve that?]]></title>
+            <link>https://www.gatsbyjs.com/docs/caching/</link>
+            <guid>https://www.gatsbyjs.com/docs/caching/</guid>
+            <pubDate>Mon, 29 Mar 2021 20:43:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I'm still playing with the new JS bundlers and today I'm giving you my opinion on Vite.]]></title>
+            <link>https://slashgear.github.io/vite-webpack-killer/</link>
+            <guid>https://slashgear.github.io/vite-webpack-killer/</guid>
+            <pubDate>Mon, 29 Mar 2021 15:53:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Dynamic Mask Library in TypeScript]]></title>
             <link>https://github.com/marcelodosreis/node-masker</link>
             <guid>https://github.com/marcelodosreis/node-masker</guid>
             <pubDate>Mon, 29 Mar 2021 17:23:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Write Faster Typed React & Bootstrap ClassName with React-BE]]></title>
-            <link>https://www.npmtrends.com/react-bootstrap</link>
-            <guid>https://www.npmtrends.com/react-bootstrap</guid>
-            <pubDate>Mon, 29 Mar 2021 17:08:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[React Grid: UI Component that can arrange items according to the type of grids.]]></title>
@@ -49,42 +97,6 @@
             <link>https://ui.dev/react/</link>
             <guid>https://ui.dev/react/</guid>
             <pubDate>Mon, 29 Mar 2021 14:38:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I'm still playing with the new JS bundlers and today I'm giving you my opinion on Vite.]]></title>
-            <link>https://slashgear.github.io/vite-webpack-killer/</link>
-            <guid>https://slashgear.github.io/vite-webpack-killer/</guid>
-            <pubDate>Mon, 29 Mar 2021 15:53:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is it possible ?]]></title>
-            <link>https://www.torn.com/city.php</link>
-            <guid>https://www.torn.com/city.php</guid>
-            <pubDate>Mon, 29 Mar 2021 18:26:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bachelor Thesis React, Angular and Vue]]></title>
-            <link>https://docs.google.com/forms/d/e/1FAIpQLScAhIQapzx_yU9jS62pYsw7OG9Qy8-g4llY3QWdK8Esh_d4-Q/viewform?usp=sf_link</link>
-            <guid>https://docs.google.com/forms/d/e/1FAIpQLScAhIQapzx_yU9jS62pYsw7OG9Qy8-g4llY3QWdK8Esh_d4-Q/viewform?usp=sf_link</guid>
-            <pubDate>Mon, 29 Mar 2021 18:18:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hitchhiker's Cocktails (WIP)]]></title>
-            <link>https://github.com/Wiegand92/HitchhikersCocktails</link>
-            <guid>https://github.com/Wiegand92/HitchhikersCocktails</guid>
-            <pubDate>Mon, 29 Mar 2021 14:26:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Open source React library containing Layout, Menu, ProtectedRoute components, and more]]></title>
-            <link>https://cra-demo-deploy.vercel.app/</link>
-            <guid>https://cra-demo-deploy.vercel.app/</guid>
-            <pubDate>Mon, 29 Mar 2021 13:39:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Crossposting from more specific subreddit, but this has much more members, and I'm really out of ideas.]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Mon, 29 Mar 2021 16:32:08 GMT</pubDate>
         </item>
     </channel>
 </rss>

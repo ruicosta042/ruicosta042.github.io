@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Mon, 29 Mar 2021 19:46:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Mar 2021 07:48:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,10 +21,28 @@
             <pubDate>Mon, 29 Mar 2021 11:56:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[HTML over the wire - A comparison of different solutions]]></title>
+            <link>https://html-over-the-wire.herokuapp.com/</link>
+            <guid>https://html-over-the-wire.herokuapp.com/</guid>
+            <pubDate>Tue, 30 Mar 2021 06:54:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meteorite — The Solution to Noisy GitHub Notifications]]></title>
+            <link>https://meteorite.dev/</link>
+            <guid>https://meteorite.dev/</guid>
+            <pubDate>Tue, 30 Mar 2021 00:21:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bitwise Config Flags - Get rid of unnecessary if conditions with esoteric way]]></title>
             <link>https://medium.com/trendyol-tech/bitwise-config-flags-get-rid-of-unnecessary-if-conditions-with-esoteric-way-f650dfd39dc6</link>
             <guid>https://medium.com/trendyol-tech/bitwise-config-flags-get-rid-of-unnecessary-if-conditions-with-esoteric-way-f650dfd39dc6</guid>
             <pubDate>Mon, 29 Mar 2021 08:18:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Server-side rendering and how it works]]></title>
+            <link>https://mindaugasnakr.medium.com/server-side-rendering-in-react-3f13d557eb74</link>
+            <guid>https://mindaugasnakr.medium.com/server-side-rendering-in-react-3f13d557eb74</guid>
+            <pubDate>Mon, 29 Mar 2021 20:20:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[7 ways to improve React app performance]]></title>
@@ -123,46 +141,22 @@
             <pubDate>Sat, 27 Mar 2021 21:35:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How es6 classes work under the hood ?]]></title>
-            <link>https://dev.to/hssanbzlm/es6-classes-new-approach-to-emulate-object-oriented-programming-in-js-205e</link>
-            <guid>https://dev.to/hssanbzlm/es6-classes-new-approach-to-emulate-object-oriented-programming-in-js-205e</guid>
-            <pubDate>Sun, 28 Mar 2021 15:45:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[[Showoff Saturday] Using native Javascript which has come a long way, I built a job board]]></title>
             <link>https://arbeitnow.com/</link>
             <guid>https://arbeitnow.com/</guid>
             <pubDate>Sat, 27 Mar 2021 09:07:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How es6 classes work under the hood ?]]></title>
+            <link>https://dev.to/hssanbzlm/es6-classes-new-approach-to-emulate-object-oriented-programming-in-js-205e</link>
+            <guid>https://dev.to/hssanbzlm/es6-classes-new-approach-to-emulate-object-oriented-programming-in-js-205e</guid>
+            <pubDate>Sun, 28 Mar 2021 15:45:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How to write a Webpack loader]]></title>
             <link>https://advancedweb.hu/how-to-write-a-webpack-loader/</link>
             <guid>https://advancedweb.hu/how-to-write-a-webpack-loader/</guid>
             <pubDate>Sat, 27 Mar 2021 18:11:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Make Your Jest Tests up to 20% Faster by Changing a Single Setting]]></title>
-            <link>https://dev.to/vantanev/make-your-jest-tests-up-to-20-faster-by-changing-a-single-setting-i36</link>
-            <guid>https://dev.to/vantanev/make-your-jest-tests-up-to-20-faster-by-changing-a-single-setting-i36</guid>
-            <pubDate>Fri, 26 Mar 2021 14:36:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[showoff saturday] with all the hype around cryptos, I decided to make a online ledger]]></title>
-            <link>https://moshmage.gitlab.io/asset-ledger/#/</link>
-            <guid>https://moshmage.gitlab.io/asset-ledger/#/</guid>
-            <pubDate>Sat, 27 Mar 2021 10:52:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[To Those Who Criticize JavaScript]]></title>
-            <link>https://dev.to/ruby_hater/the-shocking-impossibility-of-ruby-4h9f</link>
-            <guid>https://dev.to/ruby_hater/the-shocking-impossibility-of-ruby-4h9f</guid>
-            <pubDate>Fri, 26 Mar 2021 21:11:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[htmbox - A Dropbox clone written in htmx and hyperscript]]></title>
-            <link>https://htmbox.herokuapp.com/</link>
-            <guid>https://htmbox.herokuapp.com/</guid>
-            <pubDate>Fri, 26 Mar 2021 11:55:58 GMT</pubDate>
         </item>
     </channel>
 </rss>

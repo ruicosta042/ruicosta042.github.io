@@ -4,15 +4,15 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Mon, 29 Mar 2021 19:46:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Mar 2021 07:48:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[CSS Only Masonry Grid Layouts]]></title>
-            <link>https://fjolt.com/article/css-grid-masonry</link>
-            <guid>https://fjolt.com/article/css-grid-masonry</guid>
-            <pubDate>Mon, 29 Mar 2021 12:33:34 GMT</pubDate>
+            <title><![CDATA[Pure HTML CSS Animated Background]]></title>
+            <link>https://www.codingflicks.com/2021/03/html-css-animated-background.html</link>
+            <guid>https://www.codingflicks.com/2021/03/html-css-animated-background.html</guid>
+            <pubDate>Tue, 30 Mar 2021 06:20:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Not Your Typical Horizontal Rules]]></title>
@@ -21,10 +21,22 @@
             <pubDate>Mon, 29 Mar 2021 13:50:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[CSS Only Masonry Grid Layouts]]></title>
+            <link>https://fjolt.com/article/css-grid-masonry</link>
+            <guid>https://fjolt.com/article/css-grid-masonry</guid>
+            <pubDate>Mon, 29 Mar 2021 12:33:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Want to Write a Hover Effect With Inline CSS? Use CSS Variables.]]></title>
             <link>https://css-tricks.com/want-to-write-a-hover-effect-with-inline-css-use-css-variables/</link>
             <guid>https://css-tricks.com/want-to-write-a-hover-effect-with-inline-css-use-css-variables/</guid>
             <pubDate>Mon, 29 Mar 2021 17:49:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trying to make my CSS this cool. How can I do it?]]></title>
+            <link>http://goodfight.shop/</link>
+            <guid>http://goodfight.shop/</guid>
+            <pubDate>Mon, 29 Mar 2021 20:41:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Creative Chatbox Examples with code]]></title>
@@ -73,18 +85,6 @@
             <link>https://calibreapp.com/blog/css-performance</link>
             <guid>https://calibreapp.com/blog/css-performance</guid>
             <pubDate>Thu, 25 Mar 2021 12:50:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google Chrome is getting ready to test @container (CSS Container Query)]]></title>
-            <link>https://www.chromestory.com/2021/03/css-container-queries/</link>
-            <guid>https://www.chromestory.com/2021/03/css-container-queries/</guid>
-            <pubDate>Fri, 26 Mar 2021 05:18:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The One Thing You Need to Know To Avoid CSS Overflow]]></title>
-            <link>https://jportella93.medium.com/the-one-thing-you-need-to-know-to-avoid-css-overflow-9554b40aa797</link>
-            <guid>https://jportella93.medium.com/the-one-thing-you-need-to-know-to-avoid-css-overflow-9554b40aa797</guid>
-            <pubDate>Fri, 26 Mar 2021 07:57:58 GMT</pubDate>
         </item>
     </channel>
 </rss>

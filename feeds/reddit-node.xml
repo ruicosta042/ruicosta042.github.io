@@ -4,7 +4,7 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Wed, 31 Mar 2021 12:55:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Mar 2021 19:46:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,28 @@
             <pubDate>Wed, 31 Mar 2021 08:56:43 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[April 2021 Security Releases]]></title>
+            <link>https://nodejs.org/en/blog/vulnerability/april-2021-security-releases/</link>
+            <guid>https://nodejs.org/en/blog/vulnerability/april-2021-security-releases/</guid>
+            <pubDate>Wed, 31 Mar 2021 18:12:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Node v15.13.0 (Current)]]></title>
+            <link>https://nodejs.org/en/blog/release/v15.13.0/</link>
+            <guid>https://nodejs.org/en/blog/release/v15.13.0/</guid>
+            <pubDate>Wed, 31 Mar 2021 14:47:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Developing JavaScript Applications on Kubernetes]]></title>
             <link>https://medium.com/@peteroneilljr/developing-javascript-applications-on-kubernetes-307775c1fb84?source=friends_link&amp;sk=5297135b533748c459bb8a193e0465dd</link>
             <guid>https://medium.com/@peteroneilljr/developing-javascript-applications-on-kubernetes-307775c1fb84?source=friends_link&amp;sk=5297135b533748c459bb8a193e0465dd</guid>
             <pubDate>Wed, 31 Mar 2021 11:07:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Problem with Sequelize connecting to a MySQL docker container]]></title>
+            <link>https://127.0.0.1:7999/</link>
+            <guid>https://127.0.0.1:7999/</guid>
+            <pubDate>Wed, 31 Mar 2021 15:37:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[image recognition model (EfficientNet) written in typescript and Nodejs]]></title>
@@ -37,30 +55,6 @@
             <link>https://nodejs.org/en/blog/release/v12.22.0/</link>
             <guid>https://nodejs.org/en/blog/release/v12.22.0/</guid>
             <pubDate>Tue, 30 Mar 2021 14:32:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zero Dependency Homemade DI (inspired by React hooks)]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Tue, 30 Mar 2021 19:59:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Glob command to remove all .js files without removing directory]]></title>
-            <link>https://globster.xyz/</link>
-            <guid>https://globster.xyz/</guid>
-            <pubDate>Tue, 30 Mar 2021 19:08:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mentoring Developers In Selleo: Best Practices]]></title>
-            <link>http://mentoring-developers.space/</link>
-            <guid>http://mentoring-developers.space/</guid>
-            <pubDate>Tue, 30 Mar 2021 17:17:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[First time trying to do "npm run build" and nothing gets built]]></title>
-            <link>https://github.com/magenta/magenta-studio/issues/54</link>
-            <guid>https://github.com/magenta/magenta-studio/issues/54</guid>
-            <pubDate>Tue, 30 Mar 2021 04:46:11 GMT</pubDate>
         </item>
     </channel>
 </rss>

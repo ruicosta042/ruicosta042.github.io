@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Tue, 30 Mar 2021 19:47:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Mar 2021 07:47:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,22 +21,28 @@
             <pubDate>Tue, 30 Mar 2021 12:37:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Using media queries with JavaScript]]></title>
+            <link>https://dev.to/maroun_baydoun/using-media-queries-with-javascript-4aeo</link>
+            <guid>https://dev.to/maroun_baydoun/using-media-queries-with-javascript-4aeo</guid>
+            <pubDate>Tue, 30 Mar 2021 20:29:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Grid.js: UI component that can arrange items according to the type of grids(masonry, justified, frame, packing)]]></title>
             <link>https://github.com/naver/egjs-grid</link>
             <guid>https://github.com/naver/egjs-grid</guid>
             <pubDate>Tue, 30 Mar 2021 17:45:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[[AskJS] Do you use JavaScript on Microcontrollers? Which engine / interpreter?]]></title>
+            <link>https://github.com/jerryscript-project/jerryscript</link>
+            <guid>https://github.com/jerryscript-project/jerryscript</guid>
+            <pubDate>Tue, 30 Mar 2021 21:07:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[JSCause - A new server-side Javascript framework for small yet awesome websites and quick ideas]]></title>
             <link>https://github.com/eighthjouster/jscause</link>
             <guid>https://github.com/eighthjouster/jscause</guid>
             <pubDate>Tue, 30 Mar 2021 14:35:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Announcing the Deno Company]]></title>
-            <link>https://deno.com/blog/the-deno-company</link>
-            <guid>https://deno.com/blog/the-deno-company</guid>
-            <pubDate>Mon, 29 Mar 2021 11:56:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Genson-js: a user-friendly JSON Schema generator]]></title>
@@ -49,6 +55,12 @@
             <link>https://github.com/Rinaldo/optix#readme</link>
             <guid>https://github.com/Rinaldo/optix#readme</guid>
             <pubDate>Tue, 30 Mar 2021 12:54:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Announcing the Deno Company]]></title>
+            <link>https://deno.com/blog/the-deno-company</link>
+            <guid>https://deno.com/blog/the-deno-company</guid>
+            <pubDate>Mon, 29 Mar 2021 11:56:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Class static initializer blocks]]></title>
@@ -129,28 +141,10 @@
             <pubDate>Sun, 28 Mar 2021 21:09:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Changelog: swc v1.2.51]]></title>
-            <link>https://swc.rs/blog/2021/03/28/swc-1.2.51</link>
-            <guid>https://swc.rs/blog/2021/03/28/swc-1.2.51</guid>
-            <pubDate>Sun, 28 Mar 2021 04:54:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Express-File-Logger: a library to help who needs to save a log entry about every ExpressJS hit]]></title>
-            <link>https://www.npmjs.com/package/express-file-logger</link>
-            <guid>https://www.npmjs.com/package/express-file-logger</guid>
-            <pubDate>Sun, 28 Mar 2021 19:25:16 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[image recognition model (EfficientNet) written in typescript]]></title>
             <link>https://github.com/ntedgi/node-efficientnet</link>
             <guid>https://github.com/ntedgi/node-efficientnet</guid>
             <pubDate>Sun, 28 Mar 2021 08:01:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LINQ implemented in JavaScript Template Literals]]></title>
-            <link>https://github.com/sinclairzx81/linqbox</link>
-            <guid>https://github.com/sinclairzx81/linqbox</guid>
-            <pubDate>Sat, 27 Mar 2021 19:45:26 GMT</pubDate>
         </item>
     </channel>
 </rss>

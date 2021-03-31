@@ -4,15 +4,27 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Tue, 30 Mar 2021 19:47:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Mar 2021 07:47:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Stop Using Float in CSS - Here Are Your Alternatives]]></title>
+            <link>https://blog.shahednasser.com/stop-using-float-in-css-here-are-your-alternatives/</link>
+            <guid>https://blog.shahednasser.com/stop-using-float-in-css-here-are-your-alternatives/</guid>
+            <pubDate>Wed, 31 Mar 2021 07:28:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Free SVG Converter]]></title>
             <link>https://picsvg.com/</link>
             <guid>https://picsvg.com/</guid>
             <pubDate>Tue, 30 Mar 2021 12:41:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Complete CSS Animation Tutorial]]></title>
+            <link>https://semicolon.dev/tutorial/css/css-animation-tutorial?s</link>
+            <guid>https://semicolon.dev/tutorial/css/css-animation-tutorial?s</guid>
+            <pubDate>Tue, 30 Mar 2021 20:18:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tools for Auditing CSS]]></title>
@@ -55,24 +67,6 @@
             <link>https://medium.com/@codingdudecom/css-triangle-81eb02dffeee</link>
             <guid>https://medium.com/@codingdudecom/css-triangle-81eb02dffeee</guid>
             <pubDate>Sun, 28 Mar 2021 07:16:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Technical drawings in CSS - how to fill available space?]]></title>
-            <link>https://github.com/formatc1702/WireViz</link>
-            <guid>https://github.com/formatc1702/WireViz</guid>
-            <pubDate>Sun, 28 Mar 2021 12:24:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can I change the Font Color for TAGS in my WordPress theme?]]></title>
-            <link>https://stephenmcateer.com/2021/03/27/q-a/</link>
-            <guid>https://stephenmcateer.com/2021/03/27/q-a/</guid>
-            <pubDate>Sun, 28 Mar 2021 15:04:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Animating Underlines]]></title>
-            <link>https://css-irl.info/animating-underlines/</link>
-            <guid>https://css-irl.info/animating-underlines/</guid>
-            <pubDate>Fri, 26 Mar 2021 13:11:06 GMT</pubDate>
         </item>
     </channel>
 </rss>

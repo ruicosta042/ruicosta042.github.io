@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Wed, 31 Mar 2021 07:47:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Mar 2021 12:55:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -19,6 +19,12 @@
             <link>https://reactjs.org/docs/error-boundaries.html#where-to-place-error-boundaries</link>
             <guid>https://reactjs.org/docs/error-boundaries.html#where-to-place-error-boundaries</guid>
             <pubDate>Tue, 30 Mar 2021 12:19:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Visualising data on Google Maps?]]></title>
+            <link>https://replit.com/@minymina/SnoopyVariableHashfunction</link>
+            <guid>https://replit.com/@minymina/SnoopyVariableHashfunction</guid>
+            <pubDate>Wed, 31 Mar 2021 09:13:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[VSCode - auto import components on "paste"]]></title>

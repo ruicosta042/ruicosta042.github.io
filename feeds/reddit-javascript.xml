@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Wed, 31 Mar 2021 07:47:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Mar 2021 12:55:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,16 +15,40 @@
             <pubDate>Mon, 29 Mar 2021 09:04:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[File storage methods added to supabase-js]]></title>
+            <link>https://supabase.io/docs/reference/javascript/storage-createbucket</link>
+            <guid>https://supabase.io/docs/reference/javascript/storage-createbucket</guid>
+            <pubDate>Wed, 31 Mar 2021 08:40:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fastest possible text updates with or without React]]></title>
+            <link>https://electricui.com/blog/fast-react-text-updates</link>
+            <guid>https://electricui.com/blog/fast-react-text-updates</guid>
+            <pubDate>Wed, 31 Mar 2021 11:02:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Goldmine - a 'clicker' game in ~200 lines of pure JS. My first attempt at constructors - what do you think?]]></title>
             <link>https://slicker.me/javascript/gold/goldmine.htm</link>
             <guid>https://slicker.me/javascript/gold/goldmine.htm</guid>
             <pubDate>Tue, 30 Mar 2021 12:37:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[image recognition model (EfficientNet) written in typescript and Nodejs]]></title>
+            <link>https://github.com/ntedgi/node-efficientnet</link>
+            <guid>https://github.com/ntedgi/node-efficientnet</guid>
+            <pubDate>Wed, 31 Mar 2021 08:26:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Using media queries with JavaScript]]></title>
             <link>https://dev.to/maroun_baydoun/using-media-queries-with-javascript-4aeo</link>
             <guid>https://dev.to/maroun_baydoun/using-media-queries-with-javascript-4aeo</guid>
             <pubDate>Tue, 30 Mar 2021 20:29:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Exchanging Babel/TSC for SWC in our setup dramatically decreased build time on Powershell/WSL]]></title>
+            <link>https://engineering.telia.no/blog/we-exchanged-babel-tsc-for-swc-and-it-was-worth-it</link>
+            <guid>https://engineering.telia.no/blog/we-exchanged-babel-tsc-for-swc-and-it-was-worth-it</guid>
+            <pubDate>Wed, 31 Mar 2021 12:18:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Grid.js: UI component that can arrange items according to the type of grids(masonry, justified, frame, packing)]]></title>
@@ -109,42 +133,6 @@
             <link>https://github.com/u01ai11/mouseview.js</link>
             <guid>https://github.com/u01ai11/mouseview.js</guid>
             <pubDate>Mon, 29 Mar 2021 13:01:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scaffolder for your next micro-frontend architecture]]></title>
-            <link>https://github.com/cagataycali/micro-fun</link>
-            <guid>https://github.com/cagataycali/micro-fun</guid>
-            <pubDate>Sun, 28 Mar 2021 15:27:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Am I the only one who don't want to spend some good hours, or maybe days while creating PDF Invoices? Take a look at this #javascript library. Just fetch your data and add them to the param object. That's it, 5 min!]]></title>
-            <link>https://www.npmjs.com/package/jspdf-invoice-template?v1.2</link>
-            <guid>https://www.npmjs.com/package/jspdf-invoice-template?v1.2</guid>
-            <pubDate>Mon, 29 Mar 2021 09:05:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Closure: A visual explanation]]></title>
-            <link>https://zaje.me/closure-a-visual-explanation</link>
-            <guid>https://zaje.me/closure-a-visual-explanation</guid>
-            <pubDate>Mon, 29 Mar 2021 01:11:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Create videos in React that viewers can interact with]]></title>
-            <link>https://github.com/ysulyma/ractive-player</link>
-            <guid>https://github.com/ysulyma/ractive-player</guid>
-            <pubDate>Sat, 27 Mar 2021 15:45:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Space Background (for Web Games) in JavaScript with QCObjects]]></title>
-            <link>https://devblog.qcobjects.org/a-space-background-for-web-games-in-javascript-with-qcobjects-ckmtne6pa0gnvl0s12wg0e6g3</link>
-            <guid>https://devblog.qcobjects.org/a-space-background-for-web-games-in-javascript-with-qcobjects-ckmtne6pa0gnvl0s12wg0e6g3</guid>
-            <pubDate>Sun, 28 Mar 2021 21:09:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[image recognition model (EfficientNet) written in typescript]]></title>
-            <link>https://github.com/ntedgi/node-efficientnet</link>
-            <guid>https://github.com/ntedgi/node-efficientnet</guid>
-            <pubDate>Sun, 28 Mar 2021 08:01:05 GMT</pubDate>
         </item>
     </channel>
 </rss>

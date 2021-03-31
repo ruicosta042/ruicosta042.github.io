@@ -4,10 +4,28 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Wed, 31 Mar 2021 07:47:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Mar 2021 12:55:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Golang for Node.js developers]]></title>
+            <link>https://github.com/miguelmota/golang-for-nodejs-developers</link>
+            <guid>https://github.com/miguelmota/golang-for-nodejs-developers</guid>
+            <pubDate>Wed, 31 Mar 2021 08:56:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Developing JavaScript Applications on Kubernetes]]></title>
+            <link>https://medium.com/@peteroneilljr/developing-javascript-applications-on-kubernetes-307775c1fb84?source=friends_link&amp;sk=5297135b533748c459bb8a193e0465dd</link>
+            <guid>https://medium.com/@peteroneilljr/developing-javascript-applications-on-kubernetes-307775c1fb84?source=friends_link&amp;sk=5297135b533748c459bb8a193e0465dd</guid>
+            <pubDate>Wed, 31 Mar 2021 11:07:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[image recognition model (EfficientNet) written in typescript and Nodejs]]></title>
+            <link>https://github.com/ntedgi/node-efficientnet</link>
+            <guid>https://github.com/ntedgi/node-efficientnet</guid>
+            <pubDate>Wed, 31 Mar 2021 08:26:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to use ExpressJs with Typescript]]></title>
             <link>https://medium.com/geekculture/how-to-use-expressjs-with-typescript-2a0c30c73eb6</link>
@@ -19,6 +37,12 @@
             <link>https://nodejs.org/en/blog/release/v12.22.0/</link>
             <guid>https://nodejs.org/en/blog/release/v12.22.0/</guid>
             <pubDate>Tue, 30 Mar 2021 14:32:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zero Dependency Homemade DI (inspired by React hooks)]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Tue, 30 Mar 2021 19:59:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Glob command to remove all .js files without removing directory]]></title>
@@ -37,24 +61,6 @@
             <link>https://github.com/magenta/magenta-studio/issues/54</link>
             <guid>https://github.com/magenta/magenta-studio/issues/54</guid>
             <pubDate>Tue, 30 Mar 2021 04:46:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Attempting to separate sequelize models in separate folder]]></title>
-            <link>https://stackoverflow.com/questions/32546148/break-sequelize-models-in-separate-folders</link>
-            <guid>https://stackoverflow.com/questions/32546148/break-sequelize-models-in-separate-folders</guid>
-            <pubDate>Tue, 30 Mar 2021 07:56:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[API with NestJS #32. Introduction to Prisma with PostgreSQL]]></title>
-            <link>https://wanago.io/2021/03/29/api-nestjs-prisma-postgresql/</link>
-            <guid>https://wanago.io/2021/03/29/api-nestjs-prisma-postgresql/</guid>
-            <pubDate>Mon, 29 Mar 2021 18:32:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Multi Threading in Node using Process Recursion]]></title>
-            <link>https://github.com/sinclairzx81/threadbox</link>
-            <guid>https://github.com/sinclairzx81/threadbox</guid>
-            <pubDate>Mon, 29 Mar 2021 05:54:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

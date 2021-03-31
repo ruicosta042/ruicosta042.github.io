@@ -4,10 +4,34 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Wed, 31 Mar 2021 07:47:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Mar 2021 12:55:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Tools for Auditing CSS]]></title>
+            <link>https://css-tricks.com/tools-for-auditing-css/</link>
+            <guid>https://css-tricks.com/tools-for-auditing-css/</guid>
+            <pubDate>Wed, 31 Mar 2021 08:37:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stop Using Float in CSS — Here Are Your Alternatives]]></title>
+            <link>https://shahednasser.medium.com/stop-using-float-in-css-here-are-your-alternatives-c82259172591</link>
+            <guid>https://shahednasser.medium.com/stop-using-float-in-css-here-are-your-alternatives-c82259172591</guid>
+            <pubDate>Wed, 31 Mar 2021 11:32:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dark mode in 5 minutes, with inverted lightness variables]]></title>
+            <link>https://lea.verou.me/2021/03/inverted-lightness-variables/</link>
+            <guid>https://lea.verou.me/2021/03/inverted-lightness-variables/</guid>
+            <pubDate>Wed, 31 Mar 2021 10:48:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Building a Magical 3D Button]]></title>
+            <link>https://www.joshwcomeau.com/animation/3d-button/</link>
+            <guid>https://www.joshwcomeau.com/animation/3d-button/</guid>
+            <pubDate>Wed, 31 Mar 2021 10:38:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Stop Using Float in CSS - Here Are Your Alternatives]]></title>
             <link>https://blog.shahednasser.com/stop-using-float-in-css-here-are-your-alternatives/</link>
@@ -55,18 +79,6 @@
             <link>http://goodfight.shop/</link>
             <guid>http://goodfight.shop/</guid>
             <pubDate>Mon, 29 Mar 2021 20:41:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Creative Chatbox Examples with code]]></title>
-            <link>https://www.codingflicks.com/2021/03/html-css-chat-box-examples.html</link>
-            <guid>https://www.codingflicks.com/2021/03/html-css-chat-box-examples.html</guid>
-            <pubDate>Mon, 29 Mar 2021 03:03:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How To Create A CSS Triangle]]></title>
-            <link>https://medium.com/@codingdudecom/css-triangle-81eb02dffeee</link>
-            <guid>https://medium.com/@codingdudecom/css-triangle-81eb02dffeee</guid>
-            <pubDate>Sun, 28 Mar 2021 07:16:44 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Thu, 01 Apr 2021 07:47:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Apr 2021 12:55:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -25,6 +25,24 @@
             <link>https://serverlesshandbook.dev/</link>
             <guid>https://serverlesshandbook.dev/</guid>
             <pubDate>Wed, 31 Mar 2021 18:57:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meet Astrale, my open source astrology mobile app made with React Native]]></title>
+            <link>https://streamable.com/k6n84m</link>
+            <guid>https://streamable.com/k6n84m</guid>
+            <pubDate>Thu, 01 Apr 2021 09:40:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I made a Reddit Clone application. What do y'all think?]]></title>
+            <link>https://github.com/tmstani23/reddit_clone_mern</link>
+            <guid>https://github.com/tmstani23/reddit_clone_mern</guid>
+            <pubDate>Thu, 01 Apr 2021 12:03:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[proof of concept: memoized components that don't need useCallback (feedback wanted!)]]></title>
+            <link>https://txs4s.csb.app/</link>
+            <guid>https://txs4s.csb.app/</guid>
+            <pubDate>Thu, 01 Apr 2021 11:45:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Storybook 6.2 just shipped]]></title>
@@ -79,12 +97,6 @@
             <link>https://www.universeandmore.com/energy</link>
             <guid>https://www.universeandmore.com/energy</guid>
             <pubDate>Wed, 31 Mar 2021 16:48:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[axios.get().data returns PromiseResult]]></title>
-            <link>https://res.data/</link>
-            <guid>https://res.data/</guid>
-            <pubDate>Wed, 31 Mar 2021 19:43:47 GMT</pubDate>
         </item>
     </channel>
 </rss>

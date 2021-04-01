@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Thu, 01 Apr 2021 07:47:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Apr 2021 12:55:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,30 @@
             <link>https://www.joshwcomeau.com/animation/3d-button/</link>
             <guid>https://www.joshwcomeau.com/animation/3d-button/</guid>
             <pubDate>Wed, 31 Mar 2021 21:22:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[:where() has a cool specificity trick, too.]]></title>
+            <link>https://css-tricks.com/where-has-a-cool-specificity-trick-too/</link>
+            <guid>https://css-tricks.com/where-has-a-cool-specificity-trick-too/</guid>
+            <pubDate>Thu, 01 Apr 2021 12:45:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Developing For Imperfect: Future Proofing CSS Styles]]></title>
+            <link>https://moderncss.dev/developing-for-imperfect-future-proofing-css-styles/</link>
+            <guid>https://moderncss.dev/developing-for-imperfect-future-proofing-css-styles/</guid>
+            <pubDate>Thu, 01 Apr 2021 12:32:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[You can use CSS generators to avoid some time-consuming tasks. I made a collection of the best CSS generators for you.]]></title>
+            <link>https://denic.hashnode.dev/css-generators?source=reddit</link>
+            <guid>https://denic.hashnode.dev/css-generators?source=reddit</guid>
+            <pubDate>Thu, 01 Apr 2021 12:10:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to integrate WordPress plugins in Frontity.]]></title>
+            <link>https://www.meetup.com/yudizsolutions/events/276983827</link>
+            <guid>https://www.meetup.com/yudizsolutions/events/276983827</guid>
+            <pubDate>Thu, 01 Apr 2021 08:20:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tools for Auditing CSS]]></title>
@@ -67,18 +91,6 @@
             <link>https://www.sarasoueidan.com/blog/horizontal-rules/</link>
             <guid>https://www.sarasoueidan.com/blog/horizontal-rules/</guid>
             <pubDate>Mon, 29 Mar 2021 13:50:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CSS Only Masonry Grid Layouts]]></title>
-            <link>https://fjolt.com/article/css-grid-masonry</link>
-            <guid>https://fjolt.com/article/css-grid-masonry</guid>
-            <pubDate>Mon, 29 Mar 2021 12:33:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Want to Write a Hover Effect With Inline CSS? Use CSS Variables.]]></title>
-            <link>https://css-tricks.com/want-to-write-a-hover-effect-with-inline-css-use-css-variables/</link>
-            <guid>https://css-tricks.com/want-to-write-a-hover-effect-with-inline-css-use-css-variables/</guid>
-            <pubDate>Mon, 29 Mar 2021 17:49:26 GMT</pubDate>
         </item>
     </channel>
 </rss>

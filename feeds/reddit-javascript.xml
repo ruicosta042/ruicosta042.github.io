@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Thu, 01 Apr 2021 07:47:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Apr 2021 12:55:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,12 @@
             <link>https://foo.com/</link>
             <guid>https://foo.com/</guid>
             <pubDate>Mon, 29 Mar 2021 09:04:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The story of WebGPU — The successor to WebGL]]></title>
+            <link>https://eytanmanor.medium.com/the-story-of-webgpu-the-successor-to-webgl-bf5f74bc036a</link>
+            <guid>https://eytanmanor.medium.com/the-story-of-webgpu-the-successor-to-webgl-bf5f74bc036a</guid>
+            <pubDate>Thu, 01 Apr 2021 11:20:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The dark side of MongoDB - Please read this if you are gonna have a M**N stack !]]></title>
@@ -27,6 +33,24 @@
             <pubDate>Wed, 31 Mar 2021 16:49:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Library Internals Do Not Exist]]></title>
+            <link>https://fagnerbrack.medium.com/library-internals-do-not-exist-1ff50a30e3b0</link>
+            <guid>https://fagnerbrack.medium.com/library-internals-do-not-exist-1ff50a30e3b0</guid>
+            <pubDate>Thu, 01 Apr 2021 06:10:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ES1995 – The Missing JS Polyfill]]></title>
+            <link>https://github.com/mlajtos/es1995</link>
+            <guid>https://github.com/mlajtos/es1995</guid>
+            <pubDate>Thu, 01 Apr 2021 12:04:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Pros and the Cons of ReactJS and React Native]]></title>
+            <link>https://alto-palo.com/blogs/reactjs-and-react-native-important-pros-and-the-cons/</link>
+            <guid>https://alto-palo.com/blogs/reactjs-and-react-native-important-pros-and-the-cons/</guid>
+            <pubDate>Thu, 01 Apr 2021 09:13:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Storybook 6.2 just shipped]]></title>
             <link>https://storybook.js.org/blog/storybook-6-2/</link>
             <guid>https://storybook.js.org/blog/storybook-6-2/</guid>
@@ -39,10 +63,16 @@
             <pubDate>Wed, 31 Mar 2021 18:07:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Library Internals Do Not Exist]]></title>
-            <link>https://fagnerbrack.medium.com/library-internals-do-not-exist-1ff50a30e3b0</link>
-            <guid>https://fagnerbrack.medium.com/library-internals-do-not-exist-1ff50a30e3b0</guid>
-            <pubDate>Thu, 01 Apr 2021 06:10:01 GMT</pubDate>
+            <title><![CDATA[A buddy of mine just sent me this. Bad news for React?]]></title>
+            <link>http://reactisclosed.com/</link>
+            <guid>http://reactisclosed.com/</guid>
+            <pubDate>Thu, 01 Apr 2021 12:55:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UpfrontJS: Data handling framework complementary to backend model systems.]]></title>
+            <link>https://upfrontjs.com/</link>
+            <guid>https://upfrontjs.com/</guid>
+            <pubDate>Thu, 01 Apr 2021 11:07:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[File storage methods added to supabase-js]]></title>
@@ -51,22 +81,16 @@
             <pubDate>Wed, 31 Mar 2021 08:40:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Made my first game using JavaScript.]]></title>
-            <link>https://0jas0jas.github.io/RiskOfRain/</link>
-            <guid>https://0jas0jas.github.io/RiskOfRain/</guid>
-            <pubDate>Thu, 01 Apr 2021 07:05:36 GMT</pubDate>
+            <title><![CDATA[Learning to Appreciate React Server Components]]></title>
+            <link>https://dev.to/this-is-learning/learning-to-appreciate-react-server-components-49ka</link>
+            <guid>https://dev.to/this-is-learning/learning-to-appreciate-react-server-components-49ka</guid>
+            <pubDate>Wed, 31 Mar 2021 17:58:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fastest possible text updates with or without React]]></title>
             <link>https://electricui.com/blog/fast-react-text-updates</link>
             <guid>https://electricui.com/blog/fast-react-text-updates</guid>
             <pubDate>Wed, 31 Mar 2021 11:02:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Learning to Appreciate React Server Components]]></title>
-            <link>https://dev.to/this-is-learning/learning-to-appreciate-react-server-components-49ka</link>
-            <guid>https://dev.to/this-is-learning/learning-to-appreciate-react-server-components-49ka</guid>
-            <pubDate>Wed, 31 Mar 2021 17:58:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Debouncing & Throttling Explained]]></title>
@@ -115,24 +139,6 @@
             <link>https://love2dev.com/pwa/obsolete-javascript-frameworks/</link>
             <guid>https://love2dev.com/pwa/obsolete-javascript-frameworks/</guid>
             <pubDate>Wed, 31 Mar 2021 20:51:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Grid.js: UI component that can arrange items according to the type of grids(masonry, justified, frame, packing)]]></title>
-            <link>https://github.com/naver/egjs-grid</link>
-            <guid>https://github.com/naver/egjs-grid</guid>
-            <pubDate>Tue, 30 Mar 2021 17:45:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AskJS] Do you use JavaScript on Microcontrollers? Which engine / interpreter?]]></title>
-            <link>https://github.com/jerryscript-project/jerryscript</link>
-            <guid>https://github.com/jerryscript-project/jerryscript</guid>
-            <pubDate>Tue, 30 Mar 2021 21:07:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JSCause - A new server-side Javascript framework for small yet awesome websites and quick ideas]]></title>
-            <link>https://github.com/eighthjouster/jscause</link>
-            <guid>https://github.com/eighthjouster/jscause</guid>
-            <pubDate>Tue, 30 Mar 2021 14:35:50 GMT</pubDate>
         </item>
     </channel>
 </rss>

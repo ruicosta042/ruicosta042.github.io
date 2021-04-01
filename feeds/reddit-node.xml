@@ -4,7 +4,7 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Thu, 01 Apr 2021 12:55:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Apr 2021 19:47:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -25,6 +25,12 @@
             <link>https://eytanmanor.medium.com/the-story-of-webgpu-the-successor-to-webgl-bf5f74bc036a</link>
             <guid>https://eytanmanor.medium.com/the-story-of-webgpu-the-successor-to-webgl-bf5f74bc036a</guid>
             <pubDate>Thu, 01 Apr 2021 11:21:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Update Node.js on a Cloudways server without sudo, using NVM]]></title>
+            <link>https://skrypt-nl.medium.com/update-node-js-on-a-cloudways-server-without-sudo-using-nvm-2c19c6286d44?source=friends_link&amp;sk=0b7132d9cace8ade1f8ab233459ab4fe</link>
+            <guid>https://skrypt-nl.medium.com/update-node-js-on-a-cloudways-server-without-sudo-using-nvm-2c19c6286d44?source=friends_link&amp;sk=0b7132d9cace8ade1f8ab233459ab4fe</guid>
+            <pubDate>Thu, 01 Apr 2021 12:58:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fast prototyping API backend framework choice?]]></title>
@@ -55,18 +61,6 @@
             <link>https://nodejs.org/en/blog/release/v15.13.0/</link>
             <guid>https://nodejs.org/en/blog/release/v15.13.0/</guid>
             <pubDate>Wed, 31 Mar 2021 14:47:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Problem with Sequelize connecting to a MySQL docker container]]></title>
-            <link>https://127.0.0.1:7999/</link>
-            <guid>https://127.0.0.1:7999/</guid>
-            <pubDate>Wed, 31 Mar 2021 15:37:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[image recognition model (EfficientNet) written in typescript and Nodejs]]></title>
-            <link>https://github.com/ntedgi/node-efficientnet</link>
-            <guid>https://github.com/ntedgi/node-efficientnet</guid>
-            <pubDate>Wed, 31 Mar 2021 08:26:27 GMT</pubDate>
         </item>
     </channel>
 </rss>

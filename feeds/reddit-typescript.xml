@@ -4,7 +4,7 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Thu, 01 Apr 2021 12:55:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Apr 2021 19:47:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -61,18 +61,6 @@
             <link>https://stackoverflow.com/questions/66709908/typescript-not-finding-types-from-modules-index-d-ts</link>
             <guid>https://stackoverflow.com/questions/66709908/typescript-not-finding-types-from-modules-index-d-ts</guid>
             <pubDate>Tue, 23 Mar 2021 17:30:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Runtime check of dependency injections]]></title>
-            <link>https://www.npmjs.com/package/ioc-check</link>
-            <guid>https://www.npmjs.com/package/ioc-check</guid>
-            <pubDate>Tue, 23 Mar 2021 17:07:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I think I created a monster]]></title>
-            <link>https://mobile.twitter.com/luotojesse/status/1373405056675016711</link>
-            <guid>https://mobile.twitter.com/luotojesse/status/1373405056675016711</guid>
-            <pubDate>Mon, 22 Mar 2021 21:11:13 GMT</pubDate>
         </item>
     </channel>
 </rss>

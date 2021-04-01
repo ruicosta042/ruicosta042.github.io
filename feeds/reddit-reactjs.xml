@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Thu, 01 Apr 2021 12:55:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Apr 2021 19:47:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,22 +21,28 @@
             <pubDate>Thu, 01 Apr 2021 06:19:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Six months after I started learning Javascript, I made my first React app!]]></title>
+            <link>https://twitter.com/i/status/1377515333112696835</link>
+            <guid>https://twitter.com/i/status/1377515333112696835</guid>
+            <pubDate>Thu, 01 Apr 2021 16:38:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Read and Fix Errors in JS + React]]></title>
+            <link>https://daveceddia.com/fix-react-errors/</link>
+            <guid>https://daveceddia.com/fix-react-errors/</guid>
+            <pubDate>Thu, 01 Apr 2021 16:00:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I published a book that makes Serverless more accessible to beginners – Serverless Handbook for Frontend Engineers]]></title>
             <link>https://serverlesshandbook.dev/</link>
             <guid>https://serverlesshandbook.dev/</guid>
             <pubDate>Wed, 31 Mar 2021 18:57:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Meet Astrale, my open source astrology mobile app made with React Native]]></title>
-            <link>https://streamable.com/k6n84m</link>
-            <guid>https://streamable.com/k6n84m</guid>
-            <pubDate>Thu, 01 Apr 2021 09:40:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I made a Reddit Clone application. What do y'all think?]]></title>
-            <link>https://github.com/tmstani23/reddit_clone_mern</link>
-            <guid>https://github.com/tmstani23/reddit_clone_mern</guid>
-            <pubDate>Thu, 01 Apr 2021 12:03:34 GMT</pubDate>
+            <title><![CDATA[HELP - How to toggle the icon only if id matches? Javascript, React]]></title>
+            <link>https://stackoverflow.com/questions/66900564/how-to-toggle-the-icon-only-if-id-matches-javascript-react</link>
+            <guid>https://stackoverflow.com/questions/66900564/how-to-toggle-the-icon-only-if-id-matches-javascript-react</guid>
+            <pubDate>Thu, 01 Apr 2021 18:15:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[proof of concept: memoized components that don't need useCallback (feedback wanted!)]]></title>
@@ -49,6 +55,12 @@
             <link>https://storybook.js.org/blog/storybook-6-2/</link>
             <guid>https://storybook.js.org/blog/storybook-6-2/</guid>
             <pubDate>Wed, 31 Mar 2021 15:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meet Astrale, my open source astrology mobile app made with React Native]]></title>
+            <link>https://streamable.com/k6n84m</link>
+            <guid>https://streamable.com/k6n84m</guid>
+            <pubDate>Thu, 01 Apr 2021 09:40:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Learning to Appreciate React Server Components]]></title>
@@ -73,30 +85,6 @@
             <link>https://levelup.gitconnected.com/object-indexing-in-react-part-ii-6eac4995f89e</link>
             <guid>https://levelup.gitconnected.com/object-indexing-in-react-part-ii-6eac4995f89e</guid>
             <pubDate>Thu, 01 Apr 2021 02:15:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React port of the Serial Experiments Lain PSX game]]></title>
-            <link>https://twitter.com/0xcebb/status/1376322986836385799</link>
-            <guid>https://twitter.com/0xcebb/status/1376322986836385799</guid>
-            <pubDate>Wed, 31 Mar 2021 14:34:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Formik + Material UI question]]></title>
-            <link>https://codesandbox.io/s/festive-microservice-3dmmr?file=/src/index.js</link>
-            <guid>https://codesandbox.io/s/festive-microservice-3dmmr?file=/src/index.js</guid>
-            <pubDate>Wed, 31 Mar 2021 18:16:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Created a small app for fetching stock info. What do you think?]]></title>
-            <link>https://stock-search-alicanyildirim.vercel.app/</link>
-            <guid>https://stock-search-alicanyildirim.vercel.app/</guid>
-            <pubDate>Wed, 31 Mar 2021 17:52:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Made a web app to teach high school kids how energy works]]></title>
-            <link>https://www.universeandmore.com/energy</link>
-            <guid>https://www.universeandmore.com/energy</guid>
-            <pubDate>Wed, 31 Mar 2021 16:48:01 GMT</pubDate>
         </item>
     </channel>
 </rss>

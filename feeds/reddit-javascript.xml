@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Thu, 01 Apr 2021 12:55:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Apr 2021 19:47:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,22 +21,10 @@
             <pubDate>Thu, 01 Apr 2021 11:20:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The dark side of MongoDB - Please read this if you are gonna have a M**N stack !]]></title>
-            <link>https://medium.com/nerd-for-tech/the-dark-side-of-the-mongodb-f66f198a566b</link>
-            <guid>https://medium.com/nerd-for-tech/the-dark-side-of-the-mongodb-f66f198a566b</guid>
-            <pubDate>Wed, 31 Mar 2021 22:24:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DIV and Backend again. A TypeScript Tale: Part 1]]></title>
-            <link>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript</link>
-            <guid>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript</guid>
-            <pubDate>Wed, 31 Mar 2021 16:49:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Library Internals Do Not Exist]]></title>
-            <link>https://fagnerbrack.medium.com/library-internals-do-not-exist-1ff50a30e3b0</link>
-            <guid>https://fagnerbrack.medium.com/library-internals-do-not-exist-1ff50a30e3b0</guid>
-            <pubDate>Thu, 01 Apr 2021 06:10:01 GMT</pubDate>
+            <title><![CDATA[DIV and Backend again. A TypeScript Tale: Part 2 - Type-GraphQL]]></title>
+            <link>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-69f</link>
+            <guid>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-69f</guid>
+            <pubDate>Thu, 01 Apr 2021 16:07:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ES1995 – The Missing JS Polyfill]]></title>
@@ -45,10 +33,52 @@
             <pubDate>Thu, 01 Apr 2021 12:04:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Pros and the Cons of ReactJS and React Native]]></title>
-            <link>https://alto-palo.com/blogs/reactjs-and-react-native-important-pros-and-the-cons/</link>
-            <guid>https://alto-palo.com/blogs/reactjs-and-react-native-important-pros-and-the-cons/</guid>
-            <pubDate>Thu, 01 Apr 2021 09:13:28 GMT</pubDate>
+            <title><![CDATA[The dark side of MongoDB - Please read this if you are gonna have a M**N stack !]]></title>
+            <link>https://medium.com/nerd-for-tech/the-dark-side-of-the-mongodb-f66f198a566b</link>
+            <guid>https://medium.com/nerd-for-tech/the-dark-side-of-the-mongodb-f66f198a566b</guid>
+            <pubDate>Wed, 31 Mar 2021 22:24:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rethinking the development/build environment with service workers]]></title>
+            <link>https://eaf4.com/emberconf2021/</link>
+            <guid>https://eaf4.com/emberconf2021/</guid>
+            <pubDate>Thu, 01 Apr 2021 17:58:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vue JS - Differences between Computed and Watch]]></title>
+            <link>https://guivern.hashnode.dev/vue-js-differences-between-computed-and-watch</link>
+            <guid>https://guivern.hashnode.dev/vue-js-differences-between-computed-and-watch</guid>
+            <pubDate>Thu, 01 Apr 2021 18:57:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[JavaScript Podcasts to Listen to in 2021]]></title>
+            <link>https://snipcart.com/blog/javascript-podcasts</link>
+            <guid>https://snipcart.com/blog/javascript-podcasts</guid>
+            <pubDate>Thu, 01 Apr 2021 15:44:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A web testing deep dive: The MDN web testing report]]></title>
+            <link>https://hacks.mozilla.org/2021/04/a-web-testing-deep-dive-the-mdn-web-testing-report/</link>
+            <guid>https://hacks.mozilla.org/2021/04/a-web-testing-deep-dive-the-mdn-web-testing-report/</guid>
+            <pubDate>Thu, 01 Apr 2021 15:31:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DIV and Backend again. A TypeScript Tale: Part 1]]></title>
+            <link>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript</link>
+            <guid>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript</guid>
+            <pubDate>Wed, 31 Mar 2021 16:49:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UpfrontJS: Data handling framework complementary to backend model systems.]]></title>
+            <link>https://upfrontjs.com/</link>
+            <guid>https://upfrontjs.com/</guid>
+            <pubDate>Thu, 01 Apr 2021 11:07:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Library Internals Do Not Exist]]></title>
+            <link>https://fagnerbrack.medium.com/library-internals-do-not-exist-1ff50a30e3b0</link>
+            <guid>https://fagnerbrack.medium.com/library-internals-do-not-exist-1ff50a30e3b0</guid>
+            <pubDate>Thu, 01 Apr 2021 06:10:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Storybook 6.2 just shipped]]></title>
@@ -61,18 +91,6 @@
             <link>https://code.visualstudio.com/updates/v1_55</link>
             <guid>https://code.visualstudio.com/updates/v1_55</guid>
             <pubDate>Wed, 31 Mar 2021 18:07:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A buddy of mine just sent me this. Bad news for React?]]></title>
-            <link>http://reactisclosed.com/</link>
-            <guid>http://reactisclosed.com/</guid>
-            <pubDate>Thu, 01 Apr 2021 12:55:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UpfrontJS: Data handling framework complementary to backend model systems.]]></title>
-            <link>https://upfrontjs.com/</link>
-            <guid>https://upfrontjs.com/</guid>
-            <pubDate>Thu, 01 Apr 2021 11:07:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[File storage methods added to supabase-js]]></title>
@@ -105,16 +123,16 @@
             <pubDate>Wed, 31 Mar 2021 16:19:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jamstack Deploy: compare cloud providers and check which fits better for your Jamstack App.]]></title>
-            <link>https://www.jamstackdeploy.com/</link>
-            <guid>https://www.jamstackdeploy.com/</guid>
-            <pubDate>Wed, 31 Mar 2021 18:19:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Exchanging Babel/TSC for SWC in our setup dramatically decreased build time on Powershell/WSL]]></title>
             <link>https://engineering.telia.no/blog/we-exchanged-babel-tsc-for-swc-and-it-was-worth-it</link>
             <guid>https://engineering.telia.no/blog/we-exchanged-babel-tsc-for-swc-and-it-was-worth-it</guid>
             <pubDate>Wed, 31 Mar 2021 12:18:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jamstack Deploy: compare cloud providers and check which fits better for your Jamstack App.]]></title>
+            <link>https://www.jamstackdeploy.com/</link>
+            <guid>https://www.jamstackdeploy.com/</guid>
+            <pubDate>Wed, 31 Mar 2021 18:19:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Goldmine - a 'clicker' game in ~200 lines of pure JS. My first attempt at constructors - what do you think?]]></title>
@@ -127,18 +145,6 @@
             <link>https://github.com/ntedgi/node-efficientnet</link>
             <guid>https://github.com/ntedgi/node-efficientnet</guid>
             <pubDate>Wed, 31 Mar 2021 08:26:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Using media queries with JavaScript]]></title>
-            <link>https://dev.to/maroun_baydoun/using-media-queries-with-javascript-4aeo</link>
-            <guid>https://dev.to/maroun_baydoun/using-media-queries-with-javascript-4aeo</guid>
-            <pubDate>Tue, 30 Mar 2021 20:29:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Progressive Web Applications (PWA) Obsolete JavaScript Frameworks]]></title>
-            <link>https://love2dev.com/pwa/obsolete-javascript-frameworks/</link>
-            <guid>https://love2dev.com/pwa/obsolete-javascript-frameworks/</guid>
-            <pubDate>Wed, 31 Mar 2021 20:51:12 GMT</pubDate>
         </item>
     </channel>
 </rss>

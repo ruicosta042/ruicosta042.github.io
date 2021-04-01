@@ -4,10 +4,190 @@
         <title>Node Weekly</title>
         <link>https://nodeweekly.com/</link>
         <description>A free, once–weekly e-mail round-up of Node.js news and articles.</description>
-        <lastBuildDate>Thu, 01 Apr 2021 12:55:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Apr 2021 19:47:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[How to Migrate Your App from Express to Fastify]]></title>
+            <link>https://nodeweekly.com/link/105658/rss</link>
+            <guid>https://nodeweekly.com/link/105658/rss</guid>
+            <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[the process of moving from Express to Fastify]]></title>
+            <link>https://nodeweekly.com/link/105659/rss</link>
+            <guid>https://nodeweekly.com/link/105659/rss</guid>
+            <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[April 2021 Security Releases Coming Next Week]]></title>
+            <link>https://nodeweekly.com/link/105660/rss</link>
+            <guid>https://nodeweekly.com/link/105660/rss</guid>
+            <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Model JSON to Get the Most Out of Your Document Database]]></title>
+            <link>https://nodeweekly.com/link/105661/rss</link>
+            <guid>https://nodeweekly.com/link/105661/rss</guid>
+            <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Register here]]></title>
+            <link>https://nodeweekly.com/link/105661/rss</link>
+            <guid>https://nodeweekly.com/link/105661/rss</guid>
+            <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Middy 2.0: Node Middleware Engine for AWS Lambda]]></title>
+            <link>https://nodeweekly.com/link/105662/rss</link>
+            <guid>https://nodeweekly.com/link/105662/rss</guid>
+            <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2.0.0 release]]></title>
+            <link>https://nodeweekly.com/link/105663/rss</link>
+            <guid>https://nodeweekly.com/link/105663/rss</guid>
+            <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[breaking changes]]></title>
+            <link>https://nodeweekly.com/link/105664/rss</link>
+            <guid>https://nodeweekly.com/link/105664/rss</guid>
+            <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Node v15.13.0 (Current) Released]]></title>
+            <link>https://nodeweekly.com/link/105665/rss</link>
+            <guid>https://nodeweekly.com/link/105665/rss</guid>
+            <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Node v12.22.0 (LTS) Released]]></title>
+            <link>https://nodeweekly.com/link/105666/rss</link>
+            <guid>https://nodeweekly.com/link/105666/rss</guid>
+            <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Find Software Engineering Jobs with Hired]]></title>
+            <link>https://nodeweekly.com/link/105667/rss</link>
+            <guid>https://nodeweekly.com/link/105667/rss</guid>
+            <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Deep Dive into the Eleventy Static Site Generator]]></title>
+            <link>https://nodeweekly.com/link/105668/rss</link>
+            <guid>https://nodeweekly.com/link/105668/rss</guid>
+            <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eleventy]]></title>
+            <link>https://nodeweekly.com/link/105669/rss</link>
+            <guid>https://nodeweekly.com/link/105669/rss</guid>
+            <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Examples of Go(lang) Compared to Node.js]]></title>
+            <link>https://nodeweekly.com/link/105670/rss</link>
+            <guid>https://nodeweekly.com/link/105670/rss</guid>
+            <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[have a Go newsletter too!]]></title>
+            <link>https://nodeweekly.com/link/105671/rss</link>
+            <guid>https://nodeweekly.com/link/105671/rss</guid>
+            <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the Popular netmask Package Was Vunerable to Octal Input Data]]></title>
+            <link>https://nodeweekly.com/link/105672/rss</link>
+            <guid>https://nodeweekly.com/link/105672/rss</guid>
+            <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Video: Configure NGINX as a Reverse Proxy with Node.js]]></title>
+            <link>https://nodeweekly.com/link/105673/rss</link>
+            <guid>https://nodeweekly.com/link/105673/rss</guid>
+            <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Managing Multiple Threads In Node]]></title>
+            <link>https://nodeweekly.com/link/105674/rss</link>
+            <guid>https://nodeweekly.com/link/105674/rss</guid>
+            <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How To Deploy Your Node App on AWS with NGINX and SSL]]></title>
+            <link>https://nodeweekly.com/link/105675/rss</link>
+            <guid>https://nodeweekly.com/link/105675/rss</guid>
+            <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What's New in Mongoose 5.12: Populate Transform]]></title>
+            <link>https://nodeweekly.com/link/105676/rss</link>
+            <guid>https://nodeweekly.com/link/105676/rss</guid>
+            <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[eslint-plugin-clean-regex: ESLint Plugin for Better Regular Expressions]]></title>
+            <link>https://nodeweekly.com/link/105677/rss</link>
+            <guid>https://nodeweekly.com/link/105677/rss</guid>
+            <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Faker.js 5.5: Generate Realistic Fake Data in Node and Browser]]></title>
+            <link>https://nodeweekly.com/link/105678/rss</link>
+            <guid>https://nodeweekly.com/link/105678/rss</guid>
+            <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[some support]]></title>
+            <link>https://nodeweekly.com/link/105679/rss</link>
+            <guid>https://nodeweekly.com/link/105679/rss</guid>
+            <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[a (paid) API service]]></title>
+            <link>https://nodeweekly.com/link/105680/rss</link>
+            <guid>https://nodeweekly.com/link/105680/rss</guid>
+            <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Husky 6.0: Git Hooks Made Easier]]></title>
+            <link>https://nodeweekly.com/link/105681/rss</link>
+            <guid>https://nodeweekly.com/link/105681/rss</guid>
+            <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[v6.0]]></title>
+            <link>https://nodeweekly.com/link/105682/rss</link>
+            <guid>https://nodeweekly.com/link/105682/rss</guid>
+            <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[See Your Microservices, Build Your Node.js Apps Faster]]></title>
+            <link>https://nodeweekly.com/link/105683/rss</link>
+            <guid>https://nodeweekly.com/link/105683/rss</guid>
+            <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Node Redis 3.1.0: A High Performance Redis Client Library]]></title>
+            <link>https://nodeweekly.com/link/105684/rss</link>
+            <guid>https://nodeweekly.com/link/105684/rss</guid>
+            <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prray: A 'Promisified' Array]]></title>
+            <link>https://nodeweekly.com/link/105685/rss</link>
+            <guid>https://nodeweekly.com/link/105685/rss</guid>
+            <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Worker 0.10.0: A High Performance Node + Postgres Job Queue]]></title>
+            <link>https://nodeweekly.com/link/105686/rss</link>
+            <guid>https://nodeweekly.com/link/105686/rss</guid>
+            <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Piscina: A Fast Worker Thread Pool Implementation]]></title>
             <link>https://nodeweekly.com/link/105219/rss</link>
@@ -583,198 +763,6 @@
             <link>https://nodeweekly.com/link/104551/rss</link>
             <guid>https://nodeweekly.com/link/104551/rss</guid>
             <pubDate>Thu, 11 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Serverless UI: A Command-Line Tool for Deploying Serverless Apps to AWS]]></title>
-            <link>https://nodeweekly.com/link/104108/rss</link>
-            <guid>https://nodeweekly.com/link/104108/rss</guid>
-            <pubDate>Thu, 04 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Architect]]></title>
-            <link>https://nodeweekly.com/link/104109/rss</link>
-            <guid>https://nodeweekly.com/link/104109/rss</guid>
-            <pubDate>Thu, 04 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Node v15.11.0 (Current) Released]]></title>
-            <link>https://nodeweekly.com/link/104110/rss</link>
-            <guid>https://nodeweekly.com/link/104110/rss</guid>
-            <pubDate>Thu, 04 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[consider source maps to be stable]]></title>
-            <link>https://nodeweekly.com/link/104111/rss</link>
-            <guid>https://nodeweekly.com/link/104111/rss</guid>
-            <pubDate>Thu, 04 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Video for Your Node App That Streams Beautifully, Everywhere]]></title>
-            <link>https://nodeweekly.com/link/104112/rss</link>
-            <guid>https://nodeweekly.com/link/104112/rss</guid>
-            <pubDate>Thu, 04 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PSA: fs.promises.readFile is 40% Slower Than fs.readFile]]></title>
-            <link>https://nodeweekly.com/link/104113/rss</link>
-            <guid>https://nodeweekly.com/link/104113/rss</guid>
-            <pubDate>Thu, 04 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deno 1.8 Released]]></title>
-            <link>https://nodeweekly.com/link/104114/rss</link>
-            <guid>https://nodeweekly.com/link/104114/rss</guid>
-            <pubDate>Thu, 04 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Via our Deno newsletter]]></title>
-            <link>https://nodeweekly.com/link/104142/rss</link>
-            <guid>https://nodeweekly.com/link/104142/rss</guid>
-            <pubDate>Thu, 04 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Building a Discord Bot Using Discord.js]]></title>
-            <link>https://nodeweekly.com/link/104117/rss</link>
-            <guid>https://nodeweekly.com/link/104117/rss</guid>
-            <pubDate>Thu, 04 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Discord.js]]></title>
-            <link>https://nodeweekly.com/link/104118/rss</link>
-            <guid>https://nodeweekly.com/link/104118/rss</guid>
-            <pubDate>Thu, 04 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Computerphile Covers Node.js]]></title>
-            <link>https://nodeweekly.com/link/104119/rss</link>
-            <guid>https://nodeweekly.com/link/104119/rss</guid>
-            <pubDate>Thu, 04 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Computerphile]]></title>
-            <link>https://nodeweekly.com/link/104120/rss</link>
-            <guid>https://nodeweekly.com/link/104120/rss</guid>
-            <pubDate>Thu, 04 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[timezones]]></title>
-            <link>https://nodeweekly.com/link/104121/rss</link>
-            <guid>https://nodeweekly.com/link/104121/rss</guid>
-            <pubDate>Thu, 04 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[how floating point numbers work]]></title>
-            <link>https://nodeweekly.com/link/104122/rss</link>
-            <guid>https://nodeweekly.com/link/104122/rss</guid>
-            <pubDate>Thu, 04 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An Engineering Leader’s Guide to OpenTelemetry]]></title>
-            <link>https://nodeweekly.com/link/104141/rss</link>
-            <guid>https://nodeweekly.com/link/104141/rss</guid>
-            <pubDate>Thu, 04 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Unzip Large Files in AWS S3 using Lambda and Node.js]]></title>
-            <link>https://nodeweekly.com/link/104124/rss</link>
-            <guid>https://nodeweekly.com/link/104124/rss</guid>
-            <pubDate>Thu, 04 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Unzipper]]></title>
-            <link>https://nodeweekly.com/link/104125/rss</link>
-            <guid>https://nodeweekly.com/link/104125/rss</guid>
-            <pubDate>Thu, 04 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Securing Node Services using Client Authenticated TLS with CATKeys]]></title>
-            <link>https://nodeweekly.com/link/104126/rss</link>
-            <guid>https://nodeweekly.com/link/104126/rss</guid>
-            <pubDate>Thu, 04 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Agenda 4.1: Lightweight Job Scheduling for Node]]></title>
-            <link>https://nodeweekly.com/link/104127/rss</link>
-            <guid>https://nodeweekly.com/link/104127/rss</guid>
-            <pubDate>Thu, 04 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[a UI/dashboard]]></title>
-            <link>https://nodeweekly.com/link/104128/rss</link>
-            <guid>https://nodeweekly.com/link/104128/rss</guid>
-            <pubDate>Thu, 04 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[array-union 3.0: Create An Array of Unique Values, In Order, From Input Arrays]]></title>
-            <link>https://nodeweekly.com/link/104129/rss</link>
-            <guid>https://nodeweekly.com/link/104129/rss</guid>
-            <pubDate>Thu, 04 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[pure ESM package]]></title>
-            <link>https://nodeweekly.com/link/104130/rss</link>
-            <guid>https://nodeweekly.com/link/104130/rss</guid>
-            <pubDate>Thu, 04 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Get Your Free SPOTcon 2021 Tickets Today]]></title>
-            <link>https://nodeweekly.com/link/104131/rss</link>
-            <guid>https://nodeweekly.com/link/104131/rss</guid>
-            <pubDate>Thu, 04 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chevrotain 8.0: A Parser Building Toolkit]]></title>
-            <link>https://nodeweekly.com/link/104132/rss</link>
-            <guid>https://nodeweekly.com/link/104132/rss</guid>
-            <pubDate>Thu, 04 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[tutorial]]></title>
-            <link>https://nodeweekly.com/link/104133/rss</link>
-            <guid>https://nodeweekly.com/link/104133/rss</guid>
-            <pubDate>Thu, 04 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[walk-back 5.0: Walk Up The Directory Tree Until a Specified Path/File is Found]]></title>
-            <link>https://nodeweekly.com/link/104134/rss</link>
-            <guid>https://nodeweekly.com/link/104134/rss</guid>
-            <pubDate>Thu, 04 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[haxec 2.0: Wrap spawn() or exec() with Before/After Handlers]]></title>
-            <link>https://nodeweekly.com/link/104135/rss</link>
-            <guid>https://nodeweekly.com/link/104135/rss</guid>
-            <pubDate>Thu, 04 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[address-rfc2822: RFC 2822 & 5322 (Header) Email Address Parser]]></title>
-            <link>https://nodeweekly.com/link/104136/rss</link>
-            <guid>https://nodeweekly.com/link/104136/rss</guid>
-            <pubDate>Thu, 04 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SOAP]]></title>
-            <link>https://nodeweekly.com/link/104137/rss</link>
-            <guid>https://nodeweekly.com/link/104137/rss</guid>
-            <pubDate>Thu, 04 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[easy-soap-request]]></title>
-            <link>https://nodeweekly.com/link/104138/rss</link>
-            <guid>https://nodeweekly.com/link/104138/rss</guid>
-            <pubDate>Thu, 04 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I wrote a Medium article explaining how to use SOAP APIs]]></title>
-            <link>https://nodeweekly.com/link/104139/rss</link>
-            <guid>https://nodeweekly.com/link/104139/rss</guid>
-            <pubDate>Thu, 04 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[here]]></title>
-            <link>https://nodeweekly.com/link/104140/rss</link>
-            <guid>https://nodeweekly.com/link/104140/rss</guid>
-            <pubDate>Thu, 04 Mar 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

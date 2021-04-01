@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Wed, 31 Mar 2021 19:46:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Apr 2021 07:47:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,16 +15,16 @@
             <pubDate>Mon, 29 Mar 2021 09:04:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The dark side of MongoDB - Please read this if you are gonna have a M**N stack !]]></title>
+            <link>https://medium.com/nerd-for-tech/the-dark-side-of-the-mongodb-f66f198a566b</link>
+            <guid>https://medium.com/nerd-for-tech/the-dark-side-of-the-mongodb-f66f198a566b</guid>
+            <pubDate>Wed, 31 Mar 2021 22:24:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[DIV and Backend again. A TypeScript Tale: Part 1]]></title>
             <link>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript</link>
             <guid>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript</guid>
             <pubDate>Wed, 31 Mar 2021 16:49:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[File storage methods added to supabase-js]]></title>
-            <link>https://supabase.io/docs/reference/javascript/storage-createbucket</link>
-            <guid>https://supabase.io/docs/reference/javascript/storage-createbucket</guid>
-            <pubDate>Wed, 31 Mar 2021 08:40:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Storybook 6.2 just shipped]]></title>
@@ -33,22 +33,34 @@
             <pubDate>Wed, 31 Mar 2021 15:45:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Visual Studio Code March 2021]]></title>
+            <link>https://code.visualstudio.com/updates/v1_55</link>
+            <guid>https://code.visualstudio.com/updates/v1_55</guid>
+            <pubDate>Wed, 31 Mar 2021 18:07:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Library Internals Do Not Exist]]></title>
+            <link>https://fagnerbrack.medium.com/library-internals-do-not-exist-1ff50a30e3b0</link>
+            <guid>https://fagnerbrack.medium.com/library-internals-do-not-exist-1ff50a30e3b0</guid>
+            <pubDate>Thu, 01 Apr 2021 06:10:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[File storage methods added to supabase-js]]></title>
+            <link>https://supabase.io/docs/reference/javascript/storage-createbucket</link>
+            <guid>https://supabase.io/docs/reference/javascript/storage-createbucket</guid>
+            <pubDate>Wed, 31 Mar 2021 08:40:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Made my first game using JavaScript.]]></title>
+            <link>https://0jas0jas.github.io/RiskOfRain/</link>
+            <guid>https://0jas0jas.github.io/RiskOfRain/</guid>
+            <pubDate>Thu, 01 Apr 2021 07:05:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Fastest possible text updates with or without React]]></title>
             <link>https://electricui.com/blog/fast-react-text-updates</link>
             <guid>https://electricui.com/blog/fast-react-text-updates</guid>
             <pubDate>Wed, 31 Mar 2021 11:02:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Has anybody used simple yet powerful time on site tracking library for web?]]></title>
-            <link>https://github.com/saleemkce/timeonsite/blob/master/timeonsitetracker.js</link>
-            <guid>https://github.com/saleemkce/timeonsite/blob/master/timeonsitetracker.js</guid>
-            <pubDate>Wed, 31 Mar 2021 16:19:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Debouncing & Throttling Explained]]></title>
-            <link>https://saurabhkukade.medium.com/debouncing-throttling-explained-c7c2daed9e3</link>
-            <guid>https://saurabhkukade.medium.com/debouncing-throttling-explained-c7c2daed9e3</guid>
-            <pubDate>Wed, 31 Mar 2021 13:39:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Learning to Appreciate React Server Components]]></title>
@@ -57,10 +69,16 @@
             <pubDate>Wed, 31 Mar 2021 17:58:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Goldmine - a 'clicker' game in ~200 lines of pure JS. My first attempt at constructors - what do you think?]]></title>
-            <link>https://slicker.me/javascript/gold/goldmine.htm</link>
-            <guid>https://slicker.me/javascript/gold/goldmine.htm</guid>
-            <pubDate>Tue, 30 Mar 2021 12:37:59 GMT</pubDate>
+            <title><![CDATA[Debouncing & Throttling Explained]]></title>
+            <link>https://saurabhkukade.medium.com/debouncing-throttling-explained-c7c2daed9e3</link>
+            <guid>https://saurabhkukade.medium.com/debouncing-throttling-explained-c7c2daed9e3</guid>
+            <pubDate>Wed, 31 Mar 2021 13:39:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Has anybody used simple yet powerful time on site tracking library for web?]]></title>
+            <link>https://github.com/saleemkce/timeonsite/blob/master/timeonsitetracker.js</link>
+            <guid>https://github.com/saleemkce/timeonsite/blob/master/timeonsitetracker.js</guid>
+            <pubDate>Wed, 31 Mar 2021 16:19:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jamstack Deploy: compare cloud providers and check which fits better for your Jamstack App.]]></title>
@@ -75,22 +93,28 @@
             <pubDate>Wed, 31 Mar 2021 12:18:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Goldmine - a 'clicker' game in ~200 lines of pure JS. My first attempt at constructors - what do you think?]]></title>
+            <link>https://slicker.me/javascript/gold/goldmine.htm</link>
+            <guid>https://slicker.me/javascript/gold/goldmine.htm</guid>
+            <pubDate>Tue, 30 Mar 2021 12:37:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[image recognition model (EfficientNet) written in typescript and Nodejs]]></title>
             <link>https://github.com/ntedgi/node-efficientnet</link>
             <guid>https://github.com/ntedgi/node-efficientnet</guid>
             <pubDate>Wed, 31 Mar 2021 08:26:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Visual Studio Code March 2021]]></title>
-            <link>https://code.visualstudio.com/updates/v1_55</link>
-            <guid>https://code.visualstudio.com/updates/v1_55</guid>
-            <pubDate>Wed, 31 Mar 2021 18:07:13 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Using media queries with JavaScript]]></title>
             <link>https://dev.to/maroun_baydoun/using-media-queries-with-javascript-4aeo</link>
             <guid>https://dev.to/maroun_baydoun/using-media-queries-with-javascript-4aeo</guid>
             <pubDate>Tue, 30 Mar 2021 20:29:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Progressive Web Applications (PWA) Obsolete JavaScript Frameworks]]></title>
+            <link>https://love2dev.com/pwa/obsolete-javascript-frameworks/</link>
+            <guid>https://love2dev.com/pwa/obsolete-javascript-frameworks/</guid>
+            <pubDate>Wed, 31 Mar 2021 20:51:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Grid.js: UI component that can arrange items according to the type of grids(masonry, justified, frame, packing)]]></title>
@@ -109,42 +133,6 @@
             <link>https://github.com/eighthjouster/jscause</link>
             <guid>https://github.com/eighthjouster/jscause</guid>
             <pubDate>Tue, 30 Mar 2021 14:35:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Genson-js: a user-friendly JSON Schema generator]]></title>
-            <link>https://www.aspecto.io/blog/genson-js-a-user-friendly-json-schema-generator/</link>
-            <guid>https://www.aspecto.io/blog/genson-js-a-user-friendly-json-schema-generator/</guid>
-            <pubDate>Tue, 30 Mar 2021 13:34:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Optix: A tiny, powerful data manipulation library inspired by optics]]></title>
-            <link>https://github.com/Rinaldo/optix#readme</link>
-            <guid>https://github.com/Rinaldo/optix#readme</guid>
-            <pubDate>Tue, 30 Mar 2021 12:54:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Announcing the Deno Company]]></title>
-            <link>https://deno.com/blog/the-deno-company</link>
-            <guid>https://deno.com/blog/the-deno-company</guid>
-            <pubDate>Mon, 29 Mar 2021 11:56:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Class static initializer blocks]]></title>
-            <link>https://v8.dev/features/class-static-initializer-blocks</link>
-            <guid>https://v8.dev/features/class-static-initializer-blocks</guid>
-            <pubDate>Tue, 30 Mar 2021 16:01:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meteorite — The Solution to Noisy GitHub Notifications]]></title>
-            <link>https://meteorite.dev/</link>
-            <guid>https://meteorite.dev/</guid>
-            <pubDate>Tue, 30 Mar 2021 00:21:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitwise Config Flags - Get rid of unnecessary if conditions with esoteric way]]></title>
-            <link>https://medium.com/trendyol-tech/bitwise-config-flags-get-rid-of-unnecessary-if-conditions-with-esoteric-way-f650dfd39dc6</link>
-            <guid>https://medium.com/trendyol-tech/bitwise-config-flags-get-rid-of-unnecessary-if-conditions-with-esoteric-way-f650dfd39dc6</guid>
-            <pubDate>Mon, 29 Mar 2021 08:18:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,16 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Wed, 31 Mar 2021 19:46:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Apr 2021 07:47:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Building a Magical 3D Button]]></title>
+            <link>https://www.joshwcomeau.com/animation/3d-button/</link>
+            <guid>https://www.joshwcomeau.com/animation/3d-button/</guid>
+            <pubDate>Wed, 31 Mar 2021 21:22:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tools for Auditing CSS]]></title>
             <link>https://css-tricks.com/tools-for-auditing-css/</link>
@@ -73,12 +79,6 @@
             <link>https://css-tricks.com/want-to-write-a-hover-effect-with-inline-css-use-css-variables/</link>
             <guid>https://css-tricks.com/want-to-write-a-hover-effect-with-inline-css-use-css-variables/</guid>
             <pubDate>Mon, 29 Mar 2021 17:49:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trying to make my CSS this cool. How can I do it?]]></title>
-            <link>http://goodfight.shop/</link>
-            <guid>http://goodfight.shop/</guid>
-            <pubDate>Mon, 29 Mar 2021 20:41:23 GMT</pubDate>
         </item>
     </channel>
 </rss>

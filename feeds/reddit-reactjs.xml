@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Fri, 02 Apr 2021 12:55:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Apr 2021 19:47:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,16 +21,34 @@
             <pubDate>Thu, 01 Apr 2021 06:19:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[React Hook Form V7]]></title>
+            <link>https://react-hook-form.com/</link>
+            <guid>https://react-hook-form.com/</guid>
+            <pubDate>Fri, 02 Apr 2021 07:49:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Introducing React Labs: a new video series of technical deep dives with the React team]]></title>
             <link>https://twitter.com/reactjs/status/1377731307929792522</link>
             <guid>https://twitter.com/reactjs/status/1377731307929792522</guid>
             <pubDate>Thu, 01 Apr 2021 21:28:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React Hook Form V7]]></title>
-            <link>https://react-hook-form.com/</link>
-            <guid>https://react-hook-form.com/</guid>
-            <pubDate>Fri, 02 Apr 2021 07:49:44 GMT</pubDate>
+            <title><![CDATA[A really good platform to learn and brush up your react skills, I am really enjoying the journey. Starts from the basics and includes several practices along the way :)]]></title>
+            <link>https://react-tutorial.app/</link>
+            <guid>https://react-tutorial.app/</guid>
+            <pubDate>Fri, 02 Apr 2021 18:11:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PoC: livestate.io and a React client (useLiveState)]]></title>
+            <link>https://livestate.io/</link>
+            <guid>https://livestate.io/</guid>
+            <pubDate>Fri, 02 Apr 2021 13:38:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fullstack TypeScript: Node.js + React SSR]]></title>
+            <link>https://nils-mehlhorn.de/posts/typescript-nodejs-react-ssr</link>
+            <guid>https://nils-mehlhorn.de/posts/typescript-nodejs-react-ssr</guid>
+            <pubDate>Fri, 02 Apr 2021 13:35:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[useMemo docs don't reflect how it is used in practice.]]></title>
@@ -39,15 +57,45 @@
             <pubDate>Fri, 02 Apr 2021 02:46:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Recoil v0.2.0 released]]></title>
+            <link>https://recoiljs.org/blog/2021/03/22/0.2.0-released</link>
+            <guid>https://recoiljs.org/blog/2021/03/22/0.2.0-released</guid>
+            <pubDate>Fri, 02 Apr 2021 19:01:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vite VS create react app]]></title>
+            <link>https://vitejs.dev/blog/announcing-vite2.html</link>
+            <guid>https://vitejs.dev/blog/announcing-vite2.html</guid>
+            <pubDate>Fri, 02 Apr 2021 18:51:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Next.js: problem with top-level routes and dynamic routing]]></title>
+            <link>https://example.com/category</link>
+            <guid>https://example.com/category</guid>
+            <pubDate>Fri, 02 Apr 2021 18:28:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Help Moving forward with my current stack]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Fri, 02 Apr 2021 16:09:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Recreating Google's Stories Front Page using React & GSAP]]></title>
             <link>http://www.stories.google/</link>
             <guid>http://www.stories.google/</guid>
             <pubDate>Fri, 02 Apr 2021 09:19:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Stop accessing React context directly]]></title>
+            <link>https://codypatnaude.medium.com/stop-accessing-react-context-directly-ec37ae108b7c</link>
+            <guid>https://codypatnaude.medium.com/stop-accessing-react-context-directly-ec37ae108b7c</guid>
+            <pubDate>Fri, 02 Apr 2021 14:56:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ReactJS Cart problem]]></title>
-            <link>https://codesandbox.io/s/goofy-buck-r9f6d?file=/src/components/Menu.jsx</link>
-            <guid>https://codesandbox.io/s/goofy-buck-r9f6d?file=/src/components/Menu.jsx</guid>
+            <link>https://codesandbox.io/s/epic-night-s575k?file=/src/components/Menu.jsx</link>
+            <guid>https://codesandbox.io/s/epic-night-s575k?file=/src/components/Menu.jsx</guid>
             <pubDate>Fri, 02 Apr 2021 12:24:27 GMT</pubDate>
         </item>
         <item>
@@ -55,48 +103,6 @@
             <link>https://storybook.js.org/blog/storybook-6-2/</link>
             <guid>https://storybook.js.org/blog/storybook-6-2/</guid>
             <pubDate>Thu, 01 Apr 2021 23:46:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can anyone help me understand the benefits the Next-Auth.js package brings to the table?]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Fri, 02 Apr 2021 08:16:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Integrate Bootstrap in your React Projects with these 2 libraries]]></title>
-            <link>https://blog.asayer.io/integrate-bootstrap-in-your-react-projects-with-these-2-libraries</link>
-            <guid>https://blog.asayer.io/integrate-bootstrap-in-your-react-projects-with-these-2-libraries</guid>
-            <pubDate>Fri, 02 Apr 2021 06:26:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Changing Engines Mid-Flight: Neeva’s Switch to SSR]]></title>
-            <link>https://neeva.co/blog/changing-engines-mid-flight-neeva-s-switch-to-ssr</link>
-            <guid>https://neeva.co/blog/changing-engines-mid-flight-neeva-s-switch-to-ssr</guid>
-            <pubDate>Fri, 02 Apr 2021 02:17:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Six months after I started learning Javascript, I made my first React app!]]></title>
-            <link>https://twitter.com/i/status/1377515333112696835</link>
-            <guid>https://twitter.com/i/status/1377515333112696835</guid>
-            <pubDate>Thu, 01 Apr 2021 16:38:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Automatic refactoring with jscodeshift/codemods]]></title>
-            <link>https://juntao-qiu.medium.com/automatic-refactoring-with-jscodeshift-codemods-45c219eaf992?source=friends_link&amp;sk=3d84b68d3051b421b1fece1f633a5360</link>
-            <guid>https://juntao-qiu.medium.com/automatic-refactoring-with-jscodeshift-codemods-45c219eaf992?source=friends_link&amp;sk=3d84b68d3051b421b1fece1f633a5360</guid>
-            <pubDate>Thu, 01 Apr 2021 21:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Read and Fix Errors in JS + React]]></title>
-            <link>https://daveceddia.com/fix-react-errors/</link>
-            <guid>https://daveceddia.com/fix-react-errors/</guid>
-            <pubDate>Thu, 01 Apr 2021 16:00:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Using vercel‘s swr with next.js server side rendering]]></title>
-            <link>https://moriz.xyz/blog/using-swr-with-server-side-rendering</link>
-            <guid>https://moriz.xyz/blog/using-swr-with-server-side-rendering</guid>
-            <pubDate>Thu, 01 Apr 2021 21:18:39 GMT</pubDate>
         </item>
     </channel>
 </rss>

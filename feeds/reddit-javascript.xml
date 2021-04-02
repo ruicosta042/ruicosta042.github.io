@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Fri, 02 Apr 2021 12:55:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Apr 2021 19:47:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,16 +15,46 @@
             <pubDate>Mon, 29 Mar 2021 09:04:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[[RFC] Vue 3 won't support IE11]]></title>
+            <link>https://github.com/vuejs/rfcs/blob/ie11/active-rfcs/0000-vue3-ie11-support.md</link>
+            <guid>https://github.com/vuejs/rfcs/blob/ie11/active-rfcs/0000-vue3-ie11-support.md</guid>
+            <pubDate>Fri, 02 Apr 2021 18:55:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Show: A cute cyberpunk platformer]]></title>
+            <link>https://herebeseaswines.net/essays/2021-03-26-division-by-zero</link>
+            <guid>https://herebeseaswines.net/essays/2021-03-26-division-by-zero</guid>
+            <pubDate>Fri, 02 Apr 2021 13:06:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DIV and Backend again. A TypeScript Tale: Part 3 - TypeORM]]></title>
+            <link>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-551</link>
+            <guid>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-551</guid>
+            <pubDate>Fri, 02 Apr 2021 17:50:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Announcing TypeScript 4.3 Beta]]></title>
             <link>https://devblogs.microsoft.com/typescript/announcing-typescript-4-3-beta/</link>
             <guid>https://devblogs.microsoft.com/typescript/announcing-typescript-4-3-beta/</guid>
             <pubDate>Thu, 01 Apr 2021 20:32:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The story of WebGPU — The successor to WebGL]]></title>
-            <link>https://eytanmanor.medium.com/the-story-of-webgpu-the-successor-to-webgl-bf5f74bc036a</link>
-            <guid>https://eytanmanor.medium.com/the-story-of-webgpu-the-successor-to-webgl-bf5f74bc036a</guid>
-            <pubDate>Thu, 01 Apr 2021 11:20:30 GMT</pubDate>
+            <title><![CDATA[How to Timeout a Promise]]></title>
+            <link>http://thoughtspile.github.io/2021/04/02/promise-timeout/</link>
+            <guid>http://thoughtspile.github.io/2021/04/02/promise-timeout/</guid>
+            <pubDate>Fri, 02 Apr 2021 19:09:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WhatsUp - front-end framework based on ideas of streams and fractals]]></title>
+            <link>https://dev.to/iminside/whatsup-front-end-framework-based-on-ideas-of-streams-and-fractals-4cke</link>
+            <guid>https://dev.to/iminside/whatsup-front-end-framework-based-on-ideas-of-streams-and-fractals-4cke</guid>
+            <pubDate>Fri, 02 Apr 2021 09:55:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I tried to wrote about CSS Variable usages in SCSS functions, and their manipulation via JavaScript]]></title>
+            <link>https://medium.com/beyn-technology/using-css-variables-in-scss-functions-9521be4de4e3</link>
+            <guid>https://medium.com/beyn-technology/using-css-variables-in-scss-functions-9521be4de4e3</guid>
+            <pubDate>Fri, 02 Apr 2021 13:14:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chery — CLI for the DOM and Web Worker spawning platform]]></title>
@@ -33,10 +63,16 @@
             <pubDate>Fri, 02 Apr 2021 10:40:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[WhatsUp - front-end framework based on ideas of streams and fractals]]></title>
-            <link>https://dev.to/iminside/whatsup-front-end-framework-based-on-ideas-of-streams-and-fractals-4cke</link>
-            <guid>https://dev.to/iminside/whatsup-front-end-framework-based-on-ideas-of-streams-and-fractals-4cke</guid>
-            <pubDate>Fri, 02 Apr 2021 09:55:21 GMT</pubDate>
+            <title><![CDATA[The story of WebGPU — The successor to WebGL]]></title>
+            <link>https://eytanmanor.medium.com/the-story-of-webgpu-the-successor-to-webgl-bf5f74bc036a</link>
+            <guid>https://eytanmanor.medium.com/the-story-of-webgpu-the-successor-to-webgl-bf5f74bc036a</guid>
+            <pubDate>Thu, 01 Apr 2021 11:20:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vue JS - Differences between Computed and Watch]]></title>
+            <link>https://dev.to/guivern/vue-js-differences-between-computed-and-watch-ii9</link>
+            <guid>https://dev.to/guivern/vue-js-differences-between-computed-and-watch-ii9</guid>
+            <pubDate>Fri, 02 Apr 2021 14:24:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[DIV and Backend again. A TypeScript Tale: Part 2 - Type-GraphQL]]></title>
@@ -127,24 +163,6 @@
             <link>https://saurabhkukade.medium.com/debouncing-throttling-explained-c7c2daed9e3</link>
             <guid>https://saurabhkukade.medium.com/debouncing-throttling-explained-c7c2daed9e3</guid>
             <pubDate>Wed, 31 Mar 2021 13:39:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Exchanging Babel/TSC for SWC in our setup dramatically decreased build time on Powershell/WSL]]></title>
-            <link>https://engineering.telia.no/blog/we-exchanged-babel-tsc-for-swc-and-it-was-worth-it</link>
-            <guid>https://engineering.telia.no/blog/we-exchanged-babel-tsc-for-swc-and-it-was-worth-it</guid>
-            <pubDate>Wed, 31 Mar 2021 12:18:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Has anybody used simple yet powerful time on site tracking library for web?]]></title>
-            <link>https://github.com/saleemkce/timeonsite/blob/master/timeonsitetracker.js</link>
-            <guid>https://github.com/saleemkce/timeonsite/blob/master/timeonsitetracker.js</guid>
-            <pubDate>Wed, 31 Mar 2021 16:19:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jamstack Deploy: compare cloud providers and check which fits better for your Jamstack App.]]></title>
-            <link>https://www.jamstackdeploy.com/</link>
-            <guid>https://www.jamstackdeploy.com/</guid>
-            <pubDate>Wed, 31 Mar 2021 18:19:57 GMT</pubDate>
         </item>
     </channel>
 </rss>

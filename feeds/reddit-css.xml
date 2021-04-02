@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Fri, 02 Apr 2021 07:49:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Apr 2021 12:55:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,16 +15,28 @@
             <pubDate>Thu, 01 Apr 2021 12:10:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[:where() has a cool specificity trick, too.]]></title>
-            <link>https://css-tricks.com/where-has-a-cool-specificity-trick-too/</link>
-            <guid>https://css-tricks.com/where-has-a-cool-specificity-trick-too/</guid>
-            <pubDate>Thu, 01 Apr 2021 12:45:14 GMT</pubDate>
+            <title><![CDATA[Nailing That Cool Dissolve Transition]]></title>
+            <link>https://css-tricks.com/nailing-that-cool-dissolve-transition/</link>
+            <guid>https://css-tricks.com/nailing-that-cool-dissolve-transition/</guid>
+            <pubDate>Fri, 02 Apr 2021 09:39:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is there any resources to learn how to write CSS for typography?]]></title>
             <link>https://artisanthemes.io/best-google-fonts-combinations-modern-agency-website/</link>
             <guid>https://artisanthemes.io/best-google-fonts-combinations-modern-agency-website/</guid>
             <pubDate>Fri, 02 Apr 2021 02:31:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UI Dev Newsletter, Issue #50]]></title>
+            <link>https://mentor.silvestar.codes/reads/2021-03-29/</link>
+            <guid>https://mentor.silvestar.codes/reads/2021-03-29/</guid>
+            <pubDate>Fri, 02 Apr 2021 07:55:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[:where() has a cool specificity trick, too.]]></title>
+            <link>https://css-tricks.com/where-has-a-cool-specificity-trick-too/</link>
+            <guid>https://css-tricks.com/where-has-a-cool-specificity-trick-too/</guid>
+            <pubDate>Thu, 01 Apr 2021 12:45:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Anyone interested in designing CSS for my new sub?]]></title>
@@ -91,18 +103,6 @@
             <link>https://picsvg.com/</link>
             <guid>https://picsvg.com/</guid>
             <pubDate>Tue, 30 Mar 2021 12:41:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Complete CSS Animation Tutorial]]></title>
-            <link>https://semicolon.dev/tutorial/css/css-animation-tutorial?s</link>
-            <guid>https://semicolon.dev/tutorial/css/css-animation-tutorial?s</guid>
-            <pubDate>Tue, 30 Mar 2021 20:18:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stop Using Float in CSS - Here Are Your Alternatives]]></title>
-            <link>https://blog.shahednasser.com/stop-using-float-in-css-here-are-your-alternatives/</link>
-            <guid>https://blog.shahednasser.com/stop-using-float-in-css-here-are-your-alternatives/</guid>
-            <pubDate>Wed, 31 Mar 2021 07:28:34 GMT</pubDate>
         </item>
     </channel>
 </rss>

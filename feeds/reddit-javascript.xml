@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Fri, 02 Apr 2021 07:49:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Apr 2021 12:55:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -25,6 +25,18 @@
             <link>https://eytanmanor.medium.com/the-story-of-webgpu-the-successor-to-webgl-bf5f74bc036a</link>
             <guid>https://eytanmanor.medium.com/the-story-of-webgpu-the-successor-to-webgl-bf5f74bc036a</guid>
             <pubDate>Thu, 01 Apr 2021 11:20:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chery — CLI for the DOM and Web Worker spawning platform]]></title>
+            <link>https://nuel.pw/chery</link>
+            <guid>https://nuel.pw/chery</guid>
+            <pubDate>Fri, 02 Apr 2021 10:40:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WhatsUp - front-end framework based on ideas of streams and fractals]]></title>
+            <link>https://dev.to/iminside/whatsup-front-end-framework-based-on-ideas-of-streams-and-fractals-4cke</link>
+            <guid>https://dev.to/iminside/whatsup-front-end-framework-based-on-ideas-of-streams-and-fractals-4cke</guid>
+            <pubDate>Fri, 02 Apr 2021 09:55:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[DIV and Backend again. A TypeScript Tale: Part 2 - Type-GraphQL]]></title>
@@ -117,34 +129,22 @@
             <pubDate>Wed, 31 Mar 2021 13:39:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Has anybody used simple yet powerful time on site tracking library for web?]]></title>
-            <link>https://github.com/saleemkce/timeonsite/blob/master/timeonsitetracker.js</link>
-            <guid>https://github.com/saleemkce/timeonsite/blob/master/timeonsitetracker.js</guid>
-            <pubDate>Wed, 31 Mar 2021 16:19:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Exchanging Babel/TSC for SWC in our setup dramatically decreased build time on Powershell/WSL]]></title>
             <link>https://engineering.telia.no/blog/we-exchanged-babel-tsc-for-swc-and-it-was-worth-it</link>
             <guid>https://engineering.telia.no/blog/we-exchanged-babel-tsc-for-swc-and-it-was-worth-it</guid>
             <pubDate>Wed, 31 Mar 2021 12:18:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Has anybody used simple yet powerful time on site tracking library for web?]]></title>
+            <link>https://github.com/saleemkce/timeonsite/blob/master/timeonsitetracker.js</link>
+            <guid>https://github.com/saleemkce/timeonsite/blob/master/timeonsitetracker.js</guid>
+            <pubDate>Wed, 31 Mar 2021 16:19:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Jamstack Deploy: compare cloud providers and check which fits better for your Jamstack App.]]></title>
             <link>https://www.jamstackdeploy.com/</link>
             <guid>https://www.jamstackdeploy.com/</guid>
             <pubDate>Wed, 31 Mar 2021 18:19:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Goldmine - a 'clicker' game in ~200 lines of pure JS. My first attempt at constructors - what do you think?]]></title>
-            <link>https://slicker.me/javascript/gold/goldmine.htm</link>
-            <guid>https://slicker.me/javascript/gold/goldmine.htm</guid>
-            <pubDate>Tue, 30 Mar 2021 12:37:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[image recognition model (EfficientNet) written in typescript and Nodejs]]></title>
-            <link>https://github.com/ntedgi/node-efficientnet</link>
-            <guid>https://github.com/ntedgi/node-efficientnet</guid>
-            <pubDate>Wed, 31 Mar 2021 08:26:47 GMT</pubDate>
         </item>
     </channel>
 </rss>

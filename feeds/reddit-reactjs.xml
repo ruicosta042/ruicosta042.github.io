@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Fri, 02 Apr 2021 07:49:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Apr 2021 12:55:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -27,16 +27,40 @@
             <pubDate>Thu, 01 Apr 2021 21:28:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[React Hook Form V7]]></title>
+            <link>https://react-hook-form.com/</link>
+            <guid>https://react-hook-form.com/</guid>
+            <pubDate>Fri, 02 Apr 2021 07:49:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[useMemo docs don't reflect how it is used in practice.]]></title>
             <link>https://reactjs.org/docs/hooks-reference.html#usememo</link>
             <guid>https://reactjs.org/docs/hooks-reference.html#usememo</guid>
             <pubDate>Fri, 02 Apr 2021 02:46:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Recreating Google's Stories Front Page using React & GSAP]]></title>
+            <link>http://www.stories.google/</link>
+            <guid>http://www.stories.google/</guid>
+            <pubDate>Fri, 02 Apr 2021 09:19:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ReactJS Cart problem]]></title>
+            <link>https://codesandbox.io/s/goofy-buck-r9f6d?file=/src/components/Menu.jsx</link>
+            <guid>https://codesandbox.io/s/goofy-buck-r9f6d?file=/src/components/Menu.jsx</guid>
+            <pubDate>Fri, 02 Apr 2021 12:24:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[React Storybook Environment with TailwindCSS]]></title>
             <link>https://storybook.js.org/blog/storybook-6-2/</link>
             <guid>https://storybook.js.org/blog/storybook-6-2/</guid>
             <pubDate>Thu, 01 Apr 2021 23:46:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can anyone help me understand the benefits the Next-Auth.js package brings to the table?]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Fri, 02 Apr 2021 08:16:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Integrate Bootstrap in your React Projects with these 2 libraries]]></title>
@@ -57,46 +81,22 @@
             <pubDate>Thu, 01 Apr 2021 16:38:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to Read and Fix Errors in JS + React]]></title>
-            <link>https://daveceddia.com/fix-react-errors/</link>
-            <guid>https://daveceddia.com/fix-react-errors/</guid>
-            <pubDate>Thu, 01 Apr 2021 16:00:53 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Automatic refactoring with jscodeshift/codemods]]></title>
             <link>https://juntao-qiu.medium.com/automatic-refactoring-with-jscodeshift-codemods-45c219eaf992?source=friends_link&amp;sk=3d84b68d3051b421b1fece1f633a5360</link>
             <guid>https://juntao-qiu.medium.com/automatic-refactoring-with-jscodeshift-codemods-45c219eaf992?source=friends_link&amp;sk=3d84b68d3051b421b1fece1f633a5360</guid>
             <pubDate>Thu, 01 Apr 2021 21:25:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How to Read and Fix Errors in JS + React]]></title>
+            <link>https://daveceddia.com/fix-react-errors/</link>
+            <guid>https://daveceddia.com/fix-react-errors/</guid>
+            <pubDate>Thu, 01 Apr 2021 16:00:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Using vercel‘s swr with next.js server side rendering]]></title>
             <link>https://moriz.xyz/blog/using-swr-with-server-side-rendering</link>
             <guid>https://moriz.xyz/blog/using-swr-with-server-side-rendering</guid>
             <pubDate>Thu, 01 Apr 2021 21:18:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I published a book that makes Serverless more accessible to beginners – Serverless Handbook for Frontend Engineers]]></title>
-            <link>https://serverlesshandbook.dev/</link>
-            <guid>https://serverlesshandbook.dev/</guid>
-            <pubDate>Wed, 31 Mar 2021 18:57:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[getting an error when useParams is invoked]]></title>
-            <link>https://stackoverflow.com/questions/66877261/getting-an-error-when-useparams-is-invoked</link>
-            <guid>https://stackoverflow.com/questions/66877261/getting-an-error-when-useparams-is-invoked</guid>
-            <pubDate>Thu, 01 Apr 2021 21:13:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[401 error after refreshing site]]></title>
-            <link>https://docs.microsoft.com/en-us/graph/api/user-get?view=graph-rest-1.0&amp;tabs=http</link>
-            <guid>https://docs.microsoft.com/en-us/graph/api/user-get?view=graph-rest-1.0&amp;tabs=http</guid>
-            <pubDate>Thu, 01 Apr 2021 20:19:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Best tools/libraries for web analytics]]></title>
-            <link>https://linktr.ee/</link>
-            <guid>https://linktr.ee/</guid>
-            <pubDate>Thu, 01 Apr 2021 20:08:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

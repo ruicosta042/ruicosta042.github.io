@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Thu, 01 Apr 2021 19:47:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Apr 2021 07:49:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,6 +21,36 @@
             <pubDate>Thu, 01 Apr 2021 06:19:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Introducing React Labs: a new video series of technical deep dives with the React team]]></title>
+            <link>https://twitter.com/reactjs/status/1377731307929792522</link>
+            <guid>https://twitter.com/reactjs/status/1377731307929792522</guid>
+            <pubDate>Thu, 01 Apr 2021 21:28:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[useMemo docs don't reflect how it is used in practice.]]></title>
+            <link>https://reactjs.org/docs/hooks-reference.html#usememo</link>
+            <guid>https://reactjs.org/docs/hooks-reference.html#usememo</guid>
+            <pubDate>Fri, 02 Apr 2021 02:46:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React Storybook Environment with TailwindCSS]]></title>
+            <link>https://storybook.js.org/blog/storybook-6-2/</link>
+            <guid>https://storybook.js.org/blog/storybook-6-2/</guid>
+            <pubDate>Thu, 01 Apr 2021 23:46:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Integrate Bootstrap in your React Projects with these 2 libraries]]></title>
+            <link>https://blog.asayer.io/integrate-bootstrap-in-your-react-projects-with-these-2-libraries</link>
+            <guid>https://blog.asayer.io/integrate-bootstrap-in-your-react-projects-with-these-2-libraries</guid>
+            <pubDate>Fri, 02 Apr 2021 06:26:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Changing Engines Mid-Flight: Neeva’s Switch to SSR]]></title>
+            <link>https://neeva.co/blog/changing-engines-mid-flight-neeva-s-switch-to-ssr</link>
+            <guid>https://neeva.co/blog/changing-engines-mid-flight-neeva-s-switch-to-ssr</guid>
+            <pubDate>Fri, 02 Apr 2021 02:17:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Six months after I started learning Javascript, I made my first React app!]]></title>
             <link>https://twitter.com/i/status/1377515333112696835</link>
             <guid>https://twitter.com/i/status/1377515333112696835</guid>
@@ -33,58 +63,40 @@
             <pubDate>Thu, 01 Apr 2021 16:00:53 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Automatic refactoring with jscodeshift/codemods]]></title>
+            <link>https://juntao-qiu.medium.com/automatic-refactoring-with-jscodeshift-codemods-45c219eaf992?source=friends_link&amp;sk=3d84b68d3051b421b1fece1f633a5360</link>
+            <guid>https://juntao-qiu.medium.com/automatic-refactoring-with-jscodeshift-codemods-45c219eaf992?source=friends_link&amp;sk=3d84b68d3051b421b1fece1f633a5360</guid>
+            <pubDate>Thu, 01 Apr 2021 21:25:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Using vercel‘s swr with next.js server side rendering]]></title>
+            <link>https://moriz.xyz/blog/using-swr-with-server-side-rendering</link>
+            <guid>https://moriz.xyz/blog/using-swr-with-server-side-rendering</guid>
+            <pubDate>Thu, 01 Apr 2021 21:18:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I published a book that makes Serverless more accessible to beginners – Serverless Handbook for Frontend Engineers]]></title>
             <link>https://serverlesshandbook.dev/</link>
             <guid>https://serverlesshandbook.dev/</guid>
             <pubDate>Wed, 31 Mar 2021 18:57:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[HELP - How to toggle the icon only if id matches? Javascript, React]]></title>
-            <link>https://stackoverflow.com/questions/66900564/how-to-toggle-the-icon-only-if-id-matches-javascript-react</link>
-            <guid>https://stackoverflow.com/questions/66900564/how-to-toggle-the-icon-only-if-id-matches-javascript-react</guid>
-            <pubDate>Thu, 01 Apr 2021 18:15:31 GMT</pubDate>
+            <title><![CDATA[getting an error when useParams is invoked]]></title>
+            <link>https://stackoverflow.com/questions/66877261/getting-an-error-when-useparams-is-invoked</link>
+            <guid>https://stackoverflow.com/questions/66877261/getting-an-error-when-useparams-is-invoked</guid>
+            <pubDate>Thu, 01 Apr 2021 21:13:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[proof of concept: memoized components that don't need useCallback (feedback wanted!)]]></title>
-            <link>https://txs4s.csb.app/</link>
-            <guid>https://txs4s.csb.app/</guid>
-            <pubDate>Thu, 01 Apr 2021 11:45:19 GMT</pubDate>
+            <title><![CDATA[401 error after refreshing site]]></title>
+            <link>https://docs.microsoft.com/en-us/graph/api/user-get?view=graph-rest-1.0&amp;tabs=http</link>
+            <guid>https://docs.microsoft.com/en-us/graph/api/user-get?view=graph-rest-1.0&amp;tabs=http</guid>
+            <pubDate>Thu, 01 Apr 2021 20:19:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Storybook 6.2 just shipped]]></title>
-            <link>https://storybook.js.org/blog/storybook-6-2/</link>
-            <guid>https://storybook.js.org/blog/storybook-6-2/</guid>
-            <pubDate>Wed, 31 Mar 2021 15:45:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meet Astrale, my open source astrology mobile app made with React Native]]></title>
-            <link>https://streamable.com/k6n84m</link>
-            <guid>https://streamable.com/k6n84m</guid>
-            <pubDate>Thu, 01 Apr 2021 09:40:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Learning to Appreciate React Server Components]]></title>
-            <link>https://dev.to/this-is-learning/learning-to-appreciate-react-server-components-49ka</link>
-            <guid>https://dev.to/this-is-learning/learning-to-appreciate-react-server-components-49ka</guid>
-            <pubDate>Wed, 31 Mar 2021 17:58:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tailwind CSS in React Native / react-native-web]]></title>
-            <link>https://github.com/vadimdemedes/tailwind-rn</link>
-            <guid>https://github.com/vadimdemedes/tailwind-rn</guid>
-            <pubDate>Wed, 31 Mar 2021 21:35:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MERN Stack Social Media Login Boilerplate]]></title>
-            <link>https://vimeo.com/manage/videos/531588526</link>
-            <guid>https://vimeo.com/manage/videos/531588526</guid>
-            <pubDate>Thu, 01 Apr 2021 04:29:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Object Indexing in React Part II]]></title>
-            <link>https://levelup.gitconnected.com/object-indexing-in-react-part-ii-6eac4995f89e</link>
-            <guid>https://levelup.gitconnected.com/object-indexing-in-react-part-ii-6eac4995f89e</guid>
-            <pubDate>Thu, 01 Apr 2021 02:15:37 GMT</pubDate>
+            <title><![CDATA[Best tools/libraries for web analytics]]></title>
+            <link>https://linktr.ee/</link>
+            <guid>https://linktr.ee/</guid>
+            <pubDate>Thu, 01 Apr 2021 20:08:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

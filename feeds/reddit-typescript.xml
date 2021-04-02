@@ -4,10 +4,16 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Thu, 01 Apr 2021 19:47:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Apr 2021 07:49:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Announcing TypeScript 4.3 Beta]]></title>
+            <link>https://devblogs.microsoft.com/typescript/announcing-typescript-4-3-beta/</link>
+            <guid>https://devblogs.microsoft.com/typescript/announcing-typescript-4-3-beta/</guid>
+            <pubDate>Thu, 01 Apr 2021 20:23:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Question about a Plugin System]]></title>
             <link>https://github.com/matteobruni/tsparticles/</link>
@@ -49,18 +55,6 @@
             <link>https://github.com/metachris/typescript-nodejs-boilerplate</link>
             <guid>https://github.com/metachris/typescript-nodejs-boilerplate</guid>
             <pubDate>Wed, 24 Mar 2021 14:30:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When it is ok and how to setup circular imports [HELP]]]></title>
-            <link>https://github.com/ajthinking/data-story/blob/master/tests/unit/TestableServerNode.ts</link>
-            <guid>https://github.com/ajthinking/data-story/blob/master/tests/unit/TestableServerNode.ts</guid>
-            <pubDate>Wed, 24 Mar 2021 08:59:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Typescript not finding types from module's index.d.ts question - $50 bounty]]></title>
-            <link>https://stackoverflow.com/questions/66709908/typescript-not-finding-types-from-modules-index-d-ts</link>
-            <guid>https://stackoverflow.com/questions/66709908/typescript-not-finding-types-from-modules-index-d-ts</guid>
-            <pubDate>Tue, 23 Mar 2021 17:30:11 GMT</pubDate>
         </item>
     </channel>
 </rss>

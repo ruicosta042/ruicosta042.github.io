@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Thu, 01 Apr 2021 19:47:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Apr 2021 07:49:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,12 @@
             <link>https://foo.com/</link>
             <guid>https://foo.com/</guid>
             <pubDate>Mon, 29 Mar 2021 09:04:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Announcing TypeScript 4.3 Beta]]></title>
+            <link>https://devblogs.microsoft.com/typescript/announcing-typescript-4-3-beta/</link>
+            <guid>https://devblogs.microsoft.com/typescript/announcing-typescript-4-3-beta/</guid>
+            <pubDate>Thu, 01 Apr 2021 20:32:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The story of WebGPU — The successor to WebGL]]></title>
@@ -45,28 +51,22 @@
             <pubDate>Thu, 01 Apr 2021 17:58:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Vue JS - Differences between Computed and Watch]]></title>
-            <link>https://guivern.hashnode.dev/vue-js-differences-between-computed-and-watch</link>
-            <guid>https://guivern.hashnode.dev/vue-js-differences-between-computed-and-watch</guid>
-            <pubDate>Thu, 01 Apr 2021 18:57:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JavaScript Podcasts to Listen to in 2021]]></title>
-            <link>https://snipcart.com/blog/javascript-podcasts</link>
-            <guid>https://snipcart.com/blog/javascript-podcasts</guid>
-            <pubDate>Thu, 01 Apr 2021 15:44:31 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A web testing deep dive: The MDN web testing report]]></title>
             <link>https://hacks.mozilla.org/2021/04/a-web-testing-deep-dive-the-mdn-web-testing-report/</link>
             <guid>https://hacks.mozilla.org/2021/04/a-web-testing-deep-dive-the-mdn-web-testing-report/</guid>
             <pubDate>Thu, 01 Apr 2021 15:31:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[DIV and Backend again. A TypeScript Tale: Part 1]]></title>
-            <link>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript</link>
-            <guid>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript</guid>
-            <pubDate>Wed, 31 Mar 2021 16:49:23 GMT</pubDate>
+            <title><![CDATA[yaloc - a simple loading cache with auto refresh & expiration for JS, inspired by guava]]></title>
+            <link>https://github.com/harunurhan/yaloc</link>
+            <guid>https://github.com/harunurhan/yaloc</guid>
+            <pubDate>Thu, 01 Apr 2021 20:02:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Library Internals Do Not Exist]]></title>
+            <link>https://fagnerbrack.medium.com/library-internals-do-not-exist-1ff50a30e3b0</link>
+            <guid>https://fagnerbrack.medium.com/library-internals-do-not-exist-1ff50a30e3b0</guid>
+            <pubDate>Thu, 01 Apr 2021 06:10:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UpfrontJS: Data handling framework complementary to backend model systems.]]></title>
@@ -75,10 +75,10 @@
             <pubDate>Thu, 01 Apr 2021 11:07:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Library Internals Do Not Exist]]></title>
-            <link>https://fagnerbrack.medium.com/library-internals-do-not-exist-1ff50a30e3b0</link>
-            <guid>https://fagnerbrack.medium.com/library-internals-do-not-exist-1ff50a30e3b0</guid>
-            <pubDate>Thu, 01 Apr 2021 06:10:01 GMT</pubDate>
+            <title><![CDATA[DIV and Backend again. A TypeScript Tale: Part 1]]></title>
+            <link>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript</link>
+            <guid>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript</guid>
+            <pubDate>Wed, 31 Mar 2021 16:49:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Storybook 6.2 just shipped]]></title>

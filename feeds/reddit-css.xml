@@ -4,16 +4,10 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Sat, 03 Apr 2021 07:48:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Apr 2021 12:55:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
-        <item>
-            <title><![CDATA[Understanding CSS grid by building your own grid]]></title>
-            <link>https://blog.logrocket.com/understanding-css-grid-by-building-your-own-grid/</link>
-            <guid>https://blog.logrocket.com/understanding-css-grid-by-building-your-own-grid/</guid>
-            <pubDate>Sat, 03 Apr 2021 04:46:03 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Nailing That Cool Dissolve Transition]]></title>
             <link>https://css-tricks.com/nailing-that-cool-dissolve-transition/</link>

@@ -4,7 +4,7 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Fri, 02 Apr 2021 19:47:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Apr 2021 07:48:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -55,18 +55,6 @@
             <link>https://lazypandatech.com/blog/NodeJS/13/Create-production-ready-REST-API-using-nodeJS-with-TypeScript</link>
             <guid>https://lazypandatech.com/blog/NodeJS/13/Create-production-ready-REST-API-using-nodeJS-with-TypeScript</guid>
             <pubDate>Fri, 02 Apr 2021 03:17:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fast prototyping API backend framework choice?]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Thu, 01 Apr 2021 12:29:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Golang for Node.js developers]]></title>
-            <link>https://github.com/miguelmota/golang-for-nodejs-developers</link>
-            <guid>https://github.com/miguelmota/golang-for-nodejs-developers</guid>
-            <pubDate>Wed, 31 Mar 2021 08:56:43 GMT</pubDate>
         </item>
     </channel>
 </rss>

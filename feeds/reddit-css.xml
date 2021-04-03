@@ -4,10 +4,16 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Fri, 02 Apr 2021 19:47:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Apr 2021 07:48:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Understanding CSS grid by building your own grid]]></title>
+            <link>https://blog.logrocket.com/understanding-css-grid-by-building-your-own-grid/</link>
+            <guid>https://blog.logrocket.com/understanding-css-grid-by-building-your-own-grid/</guid>
+            <pubDate>Sat, 03 Apr 2021 04:46:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nailing That Cool Dissolve Transition]]></title>
             <link>https://css-tricks.com/nailing-that-cool-dissolve-transition/</link>
@@ -85,18 +91,6 @@
             <link>https://www.meetup.com/yudizsolutions/events/276983827</link>
             <guid>https://www.meetup.com/yudizsolutions/events/276983827</guid>
             <pubDate>Thu, 01 Apr 2021 08:20:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tools for Auditing CSS]]></title>
-            <link>https://css-tricks.com/tools-for-auditing-css/</link>
-            <guid>https://css-tricks.com/tools-for-auditing-css/</guid>
-            <pubDate>Wed, 31 Mar 2021 08:37:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dark mode in 5 minutes, with inverted lightness variables]]></title>
-            <link>https://lea.verou.me/2021/03/inverted-lightness-variables/</link>
-            <guid>https://lea.verou.me/2021/03/inverted-lightness-variables/</guid>
-            <pubDate>Wed, 31 Mar 2021 10:48:21 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Fri, 02 Apr 2021 19:47:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Apr 2021 07:48:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -27,34 +27,16 @@
             <pubDate>Fri, 02 Apr 2021 07:49:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Introducing React Labs: a new video series of technical deep dives with the React team]]></title>
-            <link>https://twitter.com/reactjs/status/1377731307929792522</link>
-            <guid>https://twitter.com/reactjs/status/1377731307929792522</guid>
-            <pubDate>Thu, 01 Apr 2021 21:28:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A really good platform to learn and brush up your react skills, I am really enjoying the journey. Starts from the basics and includes several practices along the way :)]]></title>
             <link>https://react-tutorial.app/</link>
             <guid>https://react-tutorial.app/</guid>
             <pubDate>Fri, 02 Apr 2021 18:11:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[PoC: livestate.io and a React client (useLiveState)]]></title>
-            <link>https://livestate.io/</link>
-            <guid>https://livestate.io/</guid>
-            <pubDate>Fri, 02 Apr 2021 13:38:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fullstack TypeScript: Node.js + React SSR]]></title>
-            <link>https://nils-mehlhorn.de/posts/typescript-nodejs-react-ssr</link>
-            <guid>https://nils-mehlhorn.de/posts/typescript-nodejs-react-ssr</guid>
-            <pubDate>Fri, 02 Apr 2021 13:35:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[useMemo docs don't reflect how it is used in practice.]]></title>
-            <link>https://reactjs.org/docs/hooks-reference.html#usememo</link>
-            <guid>https://reactjs.org/docs/hooks-reference.html#usememo</guid>
-            <pubDate>Fri, 02 Apr 2021 02:46:04 GMT</pubDate>
+            <title><![CDATA[Introducing React Labs: a new video series of technical deep dives with the React team]]></title>
+            <link>https://twitter.com/reactjs/status/1377731307929792522</link>
+            <guid>https://twitter.com/reactjs/status/1377731307929792522</guid>
+            <pubDate>Thu, 01 Apr 2021 21:28:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Recoil v0.2.0 released]]></title>
@@ -63,28 +45,16 @@
             <pubDate>Fri, 02 Apr 2021 19:01:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Vite VS create react app]]></title>
-            <link>https://vitejs.dev/blog/announcing-vite2.html</link>
-            <guid>https://vitejs.dev/blog/announcing-vite2.html</guid>
-            <pubDate>Fri, 02 Apr 2021 18:51:12 GMT</pubDate>
+            <title><![CDATA[Testing Too React App]]></title>
+            <link>https://reactjs.org/docs/testing.html</link>
+            <guid>https://reactjs.org/docs/testing.html</guid>
+            <pubDate>Sat, 03 Apr 2021 03:09:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Next.js: problem with top-level routes and dynamic routing]]></title>
-            <link>https://example.com/category</link>
-            <guid>https://example.com/category</guid>
-            <pubDate>Fri, 02 Apr 2021 18:28:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Help Moving forward with my current stack]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Fri, 02 Apr 2021 16:09:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Recreating Google's Stories Front Page using React & GSAP]]></title>
-            <link>http://www.stories.google/</link>
-            <guid>http://www.stories.google/</guid>
-            <pubDate>Fri, 02 Apr 2021 09:19:33 GMT</pubDate>
+            <title><![CDATA[Filtering data from an Api]]></title>
+            <link>https://codesandbox.io/s/unruffled-currying-77y43?file=/src/books.js</link>
+            <guid>https://codesandbox.io/s/unruffled-currying-77y43?file=/src/books.js</guid>
+            <pubDate>Sat, 03 Apr 2021 02:32:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stop accessing React context directly]]></title>
@@ -93,16 +63,22 @@
             <pubDate>Fri, 02 Apr 2021 14:56:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ReactJS Cart problem]]></title>
-            <link>https://codesandbox.io/s/epic-night-s575k?file=/src/components/Menu.jsx</link>
-            <guid>https://codesandbox.io/s/epic-night-s575k?file=/src/components/Menu.jsx</guid>
-            <pubDate>Fri, 02 Apr 2021 12:24:27 GMT</pubDate>
+            <title><![CDATA[Vite VS create react app]]></title>
+            <link>https://vitejs.dev/blog/announcing-vite2.html</link>
+            <guid>https://vitejs.dev/blog/announcing-vite2.html</guid>
+            <pubDate>Fri, 02 Apr 2021 18:51:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React Storybook Environment with TailwindCSS]]></title>
-            <link>https://storybook.js.org/blog/storybook-6-2/</link>
-            <guid>https://storybook.js.org/blog/storybook-6-2/</guid>
-            <pubDate>Thu, 01 Apr 2021 23:46:34 GMT</pubDate>
+            <title><![CDATA[React says that there's a missing semicolon where there's not meant to be one]]></title>
+            <link>https://replit.com/@juls07/SoreBleakKernel</link>
+            <guid>https://replit.com/@juls07/SoreBleakKernel</guid>
+            <pubDate>Fri, 02 Apr 2021 22:16:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Responsive Data Table]]></title>
+            <link>https://github.com/gchumillas/datatable</link>
+            <guid>https://github.com/gchumillas/datatable</guid>
+            <pubDate>Fri, 02 Apr 2021 21:07:39 GMT</pubDate>
         </item>
     </channel>
 </rss>

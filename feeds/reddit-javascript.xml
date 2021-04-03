@@ -4,15 +4,15 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sat, 03 Apr 2021 12:55:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Apr 2021 19:46:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Your /r/javascript recap for the week of March 22 - March 28]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Mon, 29 Mar 2021 09:04:58 GMT</pubDate>
+            <title><![CDATA[Functions without Borders - A typesafe RPC library thinning the boundaries between client and server]]></title>
+            <link>https://github.com/akash-joshi/functions-without-borders</link>
+            <guid>https://github.com/akash-joshi/functions-without-borders</guid>
+            <pubDate>Sat, 03 Apr 2021 13:26:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[RFC] Vue 3 won't support IE11]]></title>
@@ -21,10 +21,28 @@
             <pubDate>Fri, 02 Apr 2021 18:55:17 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How to enforce best practice for setTimeout and setInterval]]></title>
+            <link>https://github.com/littlee/eslint-plugin-clean-timer</link>
+            <guid>https://github.com/littlee/eslint-plugin-clean-timer</guid>
+            <pubDate>Sat, 03 Apr 2021 15:16:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Surprised sendBeacon JS API incompatibility in IOS caused so much trouble for developers]]></title>
             <link>https://volument.com/blog/sendbeacon-is-broken</link>
             <guid>https://volument.com/blog/sendbeacon-is-broken</guid>
             <pubDate>Sat, 03 Apr 2021 06:42:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React's higher order components I use the most]]></title>
+            <link>https://mindaugasnakr.medium.com/reacts-higher-order-components-i-use-the-most-caa1ea0e058e</link>
+            <guid>https://mindaugasnakr.medium.com/reacts-higher-order-components-i-use-the-most-caa1ea0e058e</guid>
+            <pubDate>Sat, 03 Apr 2021 19:14:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DIV and Backend again. A TypeScript Tale: Part 4 - GraphQL Code Gen]]></title>
+            <link>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-89d</link>
+            <guid>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-89d</guid>
+            <pubDate>Sat, 03 Apr 2021 18:15:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A social network built with React, Express, Socket.io]]></title>
@@ -57,16 +75,16 @@
             <pubDate>Fri, 02 Apr 2021 19:09:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I tried to wrote about CSS Variable usages in SCSS functions, and their manipulation via JavaScript]]></title>
-            <link>https://medium.com/beyn-technology/using-css-variables-in-scss-functions-9521be4de4e3</link>
-            <guid>https://medium.com/beyn-technology/using-css-variables-in-scss-functions-9521be4de4e3</guid>
-            <pubDate>Fri, 02 Apr 2021 13:14:48 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[WhatsUp - front-end framework based on ideas of streams and fractals]]></title>
             <link>https://dev.to/iminside/whatsup-front-end-framework-based-on-ideas-of-streams-and-fractals-4cke</link>
             <guid>https://dev.to/iminside/whatsup-front-end-framework-based-on-ideas-of-streams-and-fractals-4cke</guid>
             <pubDate>Fri, 02 Apr 2021 09:55:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I tried to wrote about CSS Variable usages in SCSS functions, and their manipulation via JavaScript]]></title>
+            <link>https://medium.com/beyn-technology/using-css-variables-in-scss-functions-9521be4de4e3</link>
+            <guid>https://medium.com/beyn-technology/using-css-variables-in-scss-functions-9521be4de4e3</guid>
+            <pubDate>Fri, 02 Apr 2021 13:14:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chery — CLI for the DOM and Web Worker spawning platform]]></title>
@@ -127,42 +145,6 @@
             <link>https://fagnerbrack.medium.com/library-internals-do-not-exist-1ff50a30e3b0</link>
             <guid>https://fagnerbrack.medium.com/library-internals-do-not-exist-1ff50a30e3b0</guid>
             <pubDate>Thu, 01 Apr 2021 06:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UpfrontJS: Data handling framework complementary to backend model systems.]]></title>
-            <link>https://upfrontjs.com/</link>
-            <guid>https://upfrontjs.com/</guid>
-            <pubDate>Thu, 01 Apr 2021 11:07:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DIV and Backend again. A TypeScript Tale: Part 1]]></title>
-            <link>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript</link>
-            <guid>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript</guid>
-            <pubDate>Wed, 31 Mar 2021 16:49:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Storybook 6.2 just shipped]]></title>
-            <link>https://storybook.js.org/blog/storybook-6-2/</link>
-            <guid>https://storybook.js.org/blog/storybook-6-2/</guid>
-            <pubDate>Wed, 31 Mar 2021 15:45:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Visual Studio Code March 2021]]></title>
-            <link>https://code.visualstudio.com/updates/v1_55</link>
-            <guid>https://code.visualstudio.com/updates/v1_55</guid>
-            <pubDate>Wed, 31 Mar 2021 18:07:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[File storage methods added to supabase-js]]></title>
-            <link>https://supabase.io/docs/reference/javascript/storage-createbucket</link>
-            <guid>https://supabase.io/docs/reference/javascript/storage-createbucket</guid>
-            <pubDate>Wed, 31 Mar 2021 08:40:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Learning to Appreciate React Server Components]]></title>
-            <link>https://dev.to/this-is-learning/learning-to-appreciate-react-server-components-49ka</link>
-            <guid>https://dev.to/this-is-learning/learning-to-appreciate-react-server-components-49ka</guid>
-            <pubDate>Wed, 31 Mar 2021 17:58:03 GMT</pubDate>
         </item>
     </channel>
 </rss>

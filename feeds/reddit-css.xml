@@ -4,10 +4,28 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Sat, 03 Apr 2021 12:55:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Apr 2021 19:46:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Getting Deep into Shadows]]></title>
+            <link>https://css-tricks.com/getting-deep-into-shadows/</link>
+            <guid>https://css-tricks.com/getting-deep-into-shadows/</guid>
+            <pubDate>Sat, 03 Apr 2021 15:22:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Online Wavy Text Generator]]></title>
+            <link>http://www.coding-dude.com/wp/wavy-text-generator/</link>
+            <guid>http://www.coding-dude.com/wp/wavy-text-generator/</guid>
+            <pubDate>Sat, 03 Apr 2021 15:57:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A CSS-only proof-of-concept memory game that works in email]]></title>
+            <link>https://edmdesigner.github.io/memory-game-in-email-poc/</link>
+            <guid>https://edmdesigner.github.io/memory-game-in-email-poc/</guid>
+            <pubDate>Sat, 03 Apr 2021 15:24:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nailing That Cool Dissolve Transition]]></title>
             <link>https://css-tricks.com/nailing-that-cool-dissolve-transition/</link>
@@ -49,42 +67,6 @@
             <link>https://css-tricks.com/where-has-a-cool-specificity-trick-too/</link>
             <guid>https://css-tricks.com/where-has-a-cool-specificity-trick-too/</guid>
             <pubDate>Thu, 01 Apr 2021 12:45:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Anyone interested in designing CSS for my new sub?]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Thu, 01 Apr 2021 23:36:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Help with CSS to fit my website on mobiles.]]></title>
-            <link>https://codedb-git-master-moti-el.vercel.app/</link>
-            <guid>https://codedb-git-master-moti-el.vercel.app/</guid>
-            <pubDate>Thu, 01 Apr 2021 21:35:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Building a Magical 3D Button]]></title>
-            <link>https://www.joshwcomeau.com/animation/3d-button/</link>
-            <guid>https://www.joshwcomeau.com/animation/3d-button/</guid>
-            <pubDate>Wed, 31 Mar 2021 21:22:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Developing For Imperfect: Future Proofing CSS Styles]]></title>
-            <link>https://moderncss.dev/developing-for-imperfect-future-proofing-css-styles/</link>
-            <guid>https://moderncss.dev/developing-for-imperfect-future-proofing-css-styles/</guid>
-            <pubDate>Thu, 01 Apr 2021 12:32:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Your calc() Function in CSS Might Be Broken]]></title>
-            <link>https://maximorlov.com/why-your-calc-function-in-css-might-be-broken/</link>
-            <guid>https://maximorlov.com/why-your-calc-function-in-css-might-be-broken/</guid>
-            <pubDate>Thu, 01 Apr 2021 15:54:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to integrate WordPress plugins in Frontity.]]></title>
-            <link>https://www.meetup.com/yudizsolutions/events/276983827</link>
-            <guid>https://www.meetup.com/yudizsolutions/events/276983827</guid>
-            <pubDate>Thu, 01 Apr 2021 08:20:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

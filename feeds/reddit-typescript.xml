@@ -4,10 +4,28 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Sat, 03 Apr 2021 12:55:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Apr 2021 19:46:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Functions without Boundaries - A typesafe library for making transparent RPC calls over websockets]]></title>
+            <link>https://github.com/akash-joshi/functions-without-borders</link>
+            <guid>https://github.com/akash-joshi/functions-without-borders</guid>
+            <pubDate>Sat, 03 Apr 2021 13:41:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DIV and Backend again. A TypeScript Tale: Part 4 - GraphQL Code Gen]]></title>
+            <link>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-89d</link>
+            <guid>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-89d</guid>
+            <pubDate>Sat, 03 Apr 2021 18:19:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[Q] How to type a React forwardRef component with dynamic tag]]></title>
+            <link>https://stackoverflow.com/questions/55969769/typing-a-dynamic-tag-in-react-with-typescript</link>
+            <guid>https://stackoverflow.com/questions/55969769/typing-a-dynamic-tag-in-react-with-typescript</guid>
+            <pubDate>Sat, 03 Apr 2021 14:06:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[DIV and Backend again. A TypeScript Tale: Part 3 - TypeORM]]></title>
             <link>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-551</link>
@@ -31,36 +49,6 @@
             <link>https://github.com/matteobruni/tsparticles/</link>
             <guid>https://github.com/matteobruni/tsparticles/</guid>
             <pubDate>Mon, 29 Mar 2021 11:51:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I squeezed every brain cell to create this library]]></title>
-            <link>https://github.com/5alidz/tiny-schema-validator</link>
-            <guid>https://github.com/5alidz/tiny-schema-validator</guid>
-            <pubDate>Fri, 26 Mar 2021 06:25:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[mst-task: A simple, strongly typed library for wrapping async tasks, using MobX-state-tree.]]></title>
-            <link>https://github.com/radiosilence/mst-task</link>
-            <guid>https://github.com/radiosilence/mst-task</guid>
-            <pubDate>Fri, 26 Mar 2021 18:58:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A cleaner API for React TS components]]></title>
-            <link>https://javascript.plainenglish.io/a-cleaner-api-for-react-ts-components-47d0704a508c</link>
-            <guid>https://javascript.plainenglish.io/a-cleaner-api-for-react-ts-components-47d0704a508c</guid>
-            <pubDate>Sat, 27 Mar 2021 18:19:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[RFC] Semantic versioning for TypeScript types (applicable to all JS/TS ecosystems' library authors)]]></title>
-            <link>https://github.com/emberjs/rfcs/pull/730</link>
-            <guid>https://github.com/emberjs/rfcs/pull/730</guid>
-            <pubDate>Thu, 25 Mar 2021 19:43:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Released UpfrontJS]]></title>
-            <link>https://upfrontjs.com/</link>
-            <guid>https://upfrontjs.com/</guid>
-            <pubDate>Fri, 26 Mar 2021 08:23:44 GMT</pubDate>
         </item>
     </channel>
 </rss>

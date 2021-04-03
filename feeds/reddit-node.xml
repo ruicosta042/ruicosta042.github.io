@@ -4,7 +4,7 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Sat, 03 Apr 2021 12:55:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Apr 2021 19:46:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,34 +15,40 @@
             <pubDate>Sat, 03 Apr 2021 11:33:43 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Spend 15 minutes a day to improve your DevOps, Docker, Kubernetes, Ansible, Grafana & Prometheus Skills.]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Sat, 03 Apr 2021 18:23:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Functions without Boundaries - A typesafe library for making transparent RPC calls over websockets]]></title>
+            <link>https://github.com/akash-joshi/functions-without-borders</link>
+            <guid>https://github.com/akash-joshi/functions-without-borders</guid>
+            <pubDate>Sat, 03 Apr 2021 16:19:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A Simple Markdown Viewer]]></title>
             <link>https://github.com/MrPancakes39/Markdown-Viewer</link>
             <guid>https://github.com/MrPancakes39/Markdown-Viewer</guid>
             <pubDate>Sat, 03 Apr 2021 10:33:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[express-session + passport: serialize/deserialize configuration?]]></title>
+            <link>http://www.passportjs.org/docs/configure/</link>
+            <guid>http://www.passportjs.org/docs/configure/</guid>
+            <pubDate>Sat, 03 Apr 2021 14:49:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Angular, JavaScript, CSS, Html, NodeJS quick overview...]]></title>
+            <link>https://www.tutorialslogic.com/angular?v.12.ng</link>
+            <guid>https://www.tutorialslogic.com/angular?v.12.ng</guid>
+            <pubDate>Sat, 03 Apr 2021 13:27:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[high-jump - An SSH jump server using ssh2, socket.io and express]]></title>
             <link>https://github.com/distrentic/high-jump</link>
             <guid>https://github.com/distrentic/high-jump</guid>
             <pubDate>Fri, 02 Apr 2021 11:01:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fullstack TypeScript: Node.js + React SSR]]></title>
-            <link>https://nils-mehlhorn.de/posts/typescript-nodejs-react-ssr</link>
-            <guid>https://nils-mehlhorn.de/posts/typescript-nodejs-react-ssr</guid>
-            <pubDate>Fri, 02 Apr 2021 13:36:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Set wallpaper without command prompt console popping up?]]></title>
-            <link>https://www.npmjs.com/package/wallpaper</link>
-            <guid>https://www.npmjs.com/package/wallpaper</guid>
-            <pubDate>Fri, 02 Apr 2021 02:49:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Javascript News 1st Week(Apr) – Human-Readable JavaScript, Customize the Angular tree grid, Billboard.js v3.0, Node v15.13.0 - The ArrowFn]]></title>
-            <link>https://thearrowfn.com/javascript-news-1st-weekapr-human-readable-javascript-customize-the-angular-tree-grid/</link>
-            <guid>https://thearrowfn.com/javascript-news-1st-weekapr-human-readable-javascript-customize-the-angular-tree-grid/</guid>
-            <pubDate>Fri, 02 Apr 2021 04:58:44 GMT</pubDate>
         </item>
     </channel>
 </rss>

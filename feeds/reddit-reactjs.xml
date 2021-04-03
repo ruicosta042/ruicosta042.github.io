@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sat, 03 Apr 2021 12:55:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Apr 2021 19:46:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,16 +21,10 @@
             <pubDate>Thu, 01 Apr 2021 06:19:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React Hook Form V7]]></title>
-            <link>https://react-hook-form.com/</link>
-            <guid>https://react-hook-form.com/</guid>
-            <pubDate>Fri, 02 Apr 2021 07:49:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A full react course on Youtube - FreeCodeCamp]]></title>
-            <link>http://svencrai.com/3RaX</link>
-            <guid>http://svencrai.com/3RaX</guid>
-            <pubDate>Sat, 03 Apr 2021 12:54:14 GMT</pubDate>
+            <title><![CDATA[✨ Introducing Gatsby Starter Glass - A Minimal & Beautiful GatsbyJS Personal Blog Starter With Nice Glassmorphism UI.]]></title>
+            <link>https://github.com/yinkakun/gatsby-starter-glass</link>
+            <guid>https://github.com/yinkakun/gatsby-starter-glass</guid>
+            <pubDate>Sat, 03 Apr 2021 15:15:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Improving React application performance: React.memo vs useMemo]]></title>
@@ -39,46 +33,40 @@
             <pubDate>Sat, 03 Apr 2021 09:00:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I built an visual editor similar to Conva for creating small highlight videos for podcasts using React, Tailwind and KonvaJS]]></title>
-            <link>https://app.mediabits.io/</link>
-            <guid>https://app.mediabits.io/</guid>
-            <pubDate>Sat, 03 Apr 2021 10:38:22 GMT</pubDate>
+            <title><![CDATA[Higher order components I use the most]]></title>
+            <link>https://mindaugasnakr.medium.com/reacts-higher-order-components-i-use-the-most-caa1ea0e058e</link>
+            <guid>https://mindaugasnakr.medium.com/reacts-higher-order-components-i-use-the-most-caa1ea0e058e</guid>
+            <pubDate>Sat, 03 Apr 2021 19:13:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Need reviews on "The Creative React and Redux Course" by DevelopedByEd.]]></title>
-            <link>https://developedbyed.com/p/the-creative-react-and-redux-course/?product_id=2592704&amp;coupon_code=YTEARLY</link>
-            <guid>https://developedbyed.com/p/the-creative-react-and-redux-course/?product_id=2592704&amp;coupon_code=YTEARLY</guid>
-            <pubDate>Sat, 03 Apr 2021 09:47:34 GMT</pubDate>
+            <title><![CDATA[Open source voice commands chrome extension built with reactjs]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Sat, 03 Apr 2021 15:46:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A really good platform to learn and brush up your react skills, I am really enjoying the journey. Starts from the basics and includes several practices along the way :)]]></title>
-            <link>https://react-tutorial.app/</link>
-            <guid>https://react-tutorial.app/</guid>
-            <pubDate>Fri, 02 Apr 2021 18:11:46 GMT</pubDate>
+            <title><![CDATA[Learn Free Front-end Development with React on Youtube]]></title>
+            <link>https://ayedot.com/106/MiniBlog/Learn-Free-Front-end-Development-with-React-on-Youtube</link>
+            <guid>https://ayedot.com/106/MiniBlog/Learn-Free-Front-end-Development-with-React-on-Youtube</guid>
+            <pubDate>Sat, 03 Apr 2021 19:20:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Recoil v0.2.0 released]]></title>
-            <link>https://recoiljs.org/blog/2021/03/22/0.2.0-released</link>
-            <guid>https://recoiljs.org/blog/2021/03/22/0.2.0-released</guid>
-            <pubDate>Fri, 02 Apr 2021 19:01:34 GMT</pubDate>
+            <title><![CDATA[Creating custom layer control for react leaflet, need help.]]></title>
+            <link>https://github.com/Leaflet/Leaflet/blob/master/src/control/Control.Layers.js</link>
+            <guid>https://github.com/Leaflet/Leaflet/blob/master/src/control/Control.Layers.js</guid>
+            <pubDate>Sat, 03 Apr 2021 15:15:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Introducing React Labs: a new video series of technical deep dives with the React team]]></title>
-            <link>https://twitter.com/reactjs/status/1377731307929792522</link>
-            <guid>https://twitter.com/reactjs/status/1377731307929792522</guid>
-            <pubDate>Thu, 01 Apr 2021 21:28:12 GMT</pubDate>
+            <title><![CDATA[Easy method to implement basic user authentication in React]]></title>
+            <link>https://www.freecodecamp.org/news/build-react-native-app-user-authentication/</link>
+            <guid>https://www.freecodecamp.org/news/build-react-native-app-user-authentication/</guid>
+            <pubDate>Sat, 03 Apr 2021 17:49:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Testing Too React App]]></title>
-            <link>https://reactjs.org/docs/testing.html</link>
-            <guid>https://reactjs.org/docs/testing.html</guid>
-            <pubDate>Sat, 03 Apr 2021 03:09:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Filtering data from an Api]]></title>
-            <link>https://codesandbox.io/s/unruffled-currying-77y43?file=/src/books.js</link>
-            <guid>https://codesandbox.io/s/unruffled-currying-77y43?file=/src/books.js</guid>
-            <pubDate>Sat, 03 Apr 2021 02:32:34 GMT</pubDate>
+            <title><![CDATA[React Hook Form V7]]></title>
+            <link>https://react-hook-form.com/</link>
+            <guid>https://react-hook-form.com/</guid>
+            <pubDate>Fri, 02 Apr 2021 07:49:44 GMT</pubDate>
         </item>
     </channel>
 </rss>

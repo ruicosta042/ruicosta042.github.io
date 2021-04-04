@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sat, 03 Apr 2021 19:46:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Apr 2021 07:48:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,6 +21,18 @@
             <pubDate>Thu, 01 Apr 2021 06:19:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[What is the benefit of bootstrap theme written in react vs normal HTML one?]]></title>
+            <link>https://themes.getbootstrap.com/product/appstack-react-admin-dashboard-template/</link>
+            <guid>https://themes.getbootstrap.com/product/appstack-react-admin-dashboard-template/</guid>
+            <pubDate>Sun, 04 Apr 2021 06:42:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Higher order components I use the most]]></title>
+            <link>https://mindaugasnakr.medium.com/reacts-higher-order-components-i-use-the-most-caa1ea0e058e</link>
+            <guid>https://mindaugasnakr.medium.com/reacts-higher-order-components-i-use-the-most-caa1ea0e058e</guid>
+            <pubDate>Sat, 03 Apr 2021 19:13:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[✨ Introducing Gatsby Starter Glass - A Minimal & Beautiful GatsbyJS Personal Blog Starter With Nice Glassmorphism UI.]]></title>
             <link>https://github.com/yinkakun/gatsby-starter-glass</link>
             <guid>https://github.com/yinkakun/gatsby-starter-glass</guid>
@@ -33,40 +45,10 @@
             <pubDate>Sat, 03 Apr 2021 09:00:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Higher order components I use the most]]></title>
-            <link>https://mindaugasnakr.medium.com/reacts-higher-order-components-i-use-the-most-caa1ea0e058e</link>
-            <guid>https://mindaugasnakr.medium.com/reacts-higher-order-components-i-use-the-most-caa1ea0e058e</guid>
-            <pubDate>Sat, 03 Apr 2021 19:13:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Open source voice commands chrome extension built with reactjs]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Sat, 03 Apr 2021 15:46:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Learn Free Front-end Development with React on Youtube]]></title>
-            <link>https://ayedot.com/106/MiniBlog/Learn-Free-Front-end-Development-with-React-on-Youtube</link>
-            <guid>https://ayedot.com/106/MiniBlog/Learn-Free-Front-end-Development-with-React-on-Youtube</guid>
-            <pubDate>Sat, 03 Apr 2021 19:20:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Creating custom layer control for react leaflet, need help.]]></title>
-            <link>https://github.com/Leaflet/Leaflet/blob/master/src/control/Control.Layers.js</link>
-            <guid>https://github.com/Leaflet/Leaflet/blob/master/src/control/Control.Layers.js</guid>
-            <pubDate>Sat, 03 Apr 2021 15:15:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Easy method to implement basic user authentication in React]]></title>
             <link>https://www.freecodecamp.org/news/build-react-native-app-user-authentication/</link>
             <guid>https://www.freecodecamp.org/news/build-react-native-app-user-authentication/</guid>
             <pubDate>Sat, 03 Apr 2021 17:49:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React Hook Form V7]]></title>
-            <link>https://react-hook-form.com/</link>
-            <guid>https://react-hook-form.com/</guid>
-            <pubDate>Fri, 02 Apr 2021 07:49:44 GMT</pubDate>
         </item>
     </channel>
 </rss>

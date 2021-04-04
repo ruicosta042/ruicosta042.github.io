@@ -4,15 +4,33 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sat, 03 Apr 2021 19:46:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Apr 2021 07:48:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[DIV and Backend again. A TypeScript Tale: Part 4 - GraphQL Code Gen]]></title>
+            <link>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-89d</link>
+            <guid>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-89d</guid>
+            <pubDate>Sat, 03 Apr 2021 18:15:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Functions without Borders - A typesafe RPC library thinning the boundaries between client and server]]></title>
             <link>https://github.com/akash-joshi/functions-without-borders</link>
             <guid>https://github.com/akash-joshi/functions-without-borders</guid>
             <pubDate>Sat, 03 Apr 2021 13:26:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing React-native-styleman.js: A tiny(3KB gzipped), high performance responsive styling library for React Native.]]></title>
+            <link>https://github.com/anubhavgupta/react-native-styleman</link>
+            <guid>https://github.com/anubhavgupta/react-native-styleman</guid>
+            <pubDate>Sun, 04 Apr 2021 07:12:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An interactive, accessible way to build maps]]></title>
+            <link>https://github.com/kaosdev/map.js</link>
+            <guid>https://github.com/kaosdev/map.js</guid>
+            <pubDate>Sat, 03 Apr 2021 20:28:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[RFC] Vue 3 won't support IE11]]></title>
@@ -33,16 +51,16 @@
             <pubDate>Sat, 03 Apr 2021 06:42:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Add a simple loading spinner to your async JS calls - built for the browser.]]></title>
+            <link>https://github.com/pinussilvestrus/use-spinner</link>
+            <guid>https://github.com/pinussilvestrus/use-spinner</guid>
+            <pubDate>Sat, 03 Apr 2021 22:13:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[React's higher order components I use the most]]></title>
             <link>https://mindaugasnakr.medium.com/reacts-higher-order-components-i-use-the-most-caa1ea0e058e</link>
             <guid>https://mindaugasnakr.medium.com/reacts-higher-order-components-i-use-the-most-caa1ea0e058e</guid>
             <pubDate>Sat, 03 Apr 2021 19:14:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DIV and Backend again. A TypeScript Tale: Part 4 - GraphQL Code Gen]]></title>
-            <link>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-89d</link>
-            <guid>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-89d</guid>
-            <pubDate>Sat, 03 Apr 2021 18:15:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A social network built with React, Express, Socket.io]]></title>
@@ -117,34 +135,10 @@
             <pubDate>Thu, 01 Apr 2021 12:04:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The dark side of MongoDB - Please read this if you are gonna have a M**N stack !]]></title>
-            <link>https://medium.com/nerd-for-tech/the-dark-side-of-the-mongodb-f66f198a566b</link>
-            <guid>https://medium.com/nerd-for-tech/the-dark-side-of-the-mongodb-f66f198a566b</guid>
-            <pubDate>Wed, 31 Mar 2021 22:24:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Rethinking the development/build environment with service workers]]></title>
             <link>https://eaf4.com/emberconf2021/</link>
             <guid>https://eaf4.com/emberconf2021/</guid>
             <pubDate>Thu, 01 Apr 2021 17:58:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A web testing deep dive: The MDN web testing report]]></title>
-            <link>https://hacks.mozilla.org/2021/04/a-web-testing-deep-dive-the-mdn-web-testing-report/</link>
-            <guid>https://hacks.mozilla.org/2021/04/a-web-testing-deep-dive-the-mdn-web-testing-report/</guid>
-            <pubDate>Thu, 01 Apr 2021 15:31:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[yaloc - a simple loading cache with auto refresh & expiration for JS, inspired by guava]]></title>
-            <link>https://github.com/harunurhan/yaloc</link>
-            <guid>https://github.com/harunurhan/yaloc</guid>
-            <pubDate>Thu, 01 Apr 2021 20:02:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Library Internals Do Not Exist]]></title>
-            <link>https://fagnerbrack.medium.com/library-internals-do-not-exist-1ff50a30e3b0</link>
-            <guid>https://fagnerbrack.medium.com/library-internals-do-not-exist-1ff50a30e3b0</guid>
-            <pubDate>Thu, 01 Apr 2021 06:10:01 GMT</pubDate>
         </item>
     </channel>
 </rss>

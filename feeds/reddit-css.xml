@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Sat, 03 Apr 2021 19:46:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Apr 2021 07:48:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,16 +15,16 @@
             <pubDate>Sat, 03 Apr 2021 15:22:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Online Wavy Text Generator]]></title>
-            <link>http://www.coding-dude.com/wp/wavy-text-generator/</link>
-            <guid>http://www.coding-dude.com/wp/wavy-text-generator/</guid>
-            <pubDate>Sat, 03 Apr 2021 15:57:42 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A CSS-only proof-of-concept memory game that works in email]]></title>
             <link>https://edmdesigner.github.io/memory-game-in-email-poc/</link>
             <guid>https://edmdesigner.github.io/memory-game-in-email-poc/</guid>
             <pubDate>Sat, 03 Apr 2021 15:24:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Online Wavy Text Generator]]></title>
+            <link>http://www.coding-dude.com/wp/wavy-text-generator/</link>
+            <guid>http://www.coding-dude.com/wp/wavy-text-generator/</guid>
+            <pubDate>Sat, 03 Apr 2021 15:57:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nailing That Cool Dissolve Transition]]></title>

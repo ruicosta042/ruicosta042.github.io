@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Sun, 04 Apr 2021 12:55:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Apr 2021 19:46:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,12 @@
             <link>https://blog.shhdharmen.me/animation-can-make-wave-much-more-than-emoji</link>
             <guid>https://blog.shhdharmen.me/animation-can-make-wave-much-more-than-emoji</guid>
             <pubDate>Sun, 04 Apr 2021 09:52:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pseudo class tutorial for ':scope'?]]></title>
+            <link>https://caniuse.com/?search=%3Ascope</link>
+            <guid>https://caniuse.com/?search=%3Ascope</guid>
+            <pubDate>Sun, 04 Apr 2021 13:25:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[10 New CSS Features You Might Not Know About (2021 Edition)]]></title>
@@ -55,18 +61,6 @@
             <link>https://www.bram.us/2021/03/28/css-container-queries-a-first-look-and-demo/</link>
             <guid>https://www.bram.us/2021/03/28/css-container-queries-a-first-look-and-demo/</guid>
             <pubDate>Fri, 02 Apr 2021 13:03:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[You can use CSS generators to avoid some time-consuming tasks. I made a collection of the best CSS generators for you.]]></title>
-            <link>https://denic.hashnode.dev/css-generators?source=reddit</link>
-            <guid>https://denic.hashnode.dev/css-generators?source=reddit</guid>
-            <pubDate>Thu, 01 Apr 2021 12:10:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is there any resources to learn how to write CSS for typography?]]></title>
-            <link>https://artisanthemes.io/best-google-fonts-combinations-modern-agency-website/</link>
-            <guid>https://artisanthemes.io/best-google-fonts-combinations-modern-agency-website/</guid>
-            <pubDate>Fri, 02 Apr 2021 02:31:54 GMT</pubDate>
         </item>
     </channel>
 </rss>

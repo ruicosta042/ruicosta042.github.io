@@ -4,10 +4,16 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Sun, 04 Apr 2021 12:55:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Apr 2021 19:47:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[DIV and Backend again. A TypeScript Tale: Part 5]]></title>
+            <link>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-bdd</link>
+            <guid>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-bdd</guid>
+            <pubDate>Sun, 04 Apr 2021 17:55:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Functions without Boundaries - A typesafe library for making transparent RPC calls over websockets]]></title>
             <link>https://github.com/akash-joshi/functions-without-borders</link>

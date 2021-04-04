@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sun, 04 Apr 2021 12:55:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Apr 2021 19:46:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,16 +15,16 @@
             <pubDate>Sun, 04 Apr 2021 12:05:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Chrome extension that will group your tabs by url with a single click]]></title>
+            <link>https://chrome.google.com/webstore/detail/tab-grouper/fkpmakflpdgeblkpdklpoohabkdghjpd</link>
+            <guid>https://chrome.google.com/webstore/detail/tab-grouper/fkpmakflpdgeblkpdklpoohabkdghjpd</guid>
+            <pubDate>Sun, 04 Apr 2021 16:36:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Introducing React-native-styleman.js: A tiny(3KB gzipped), high performance responsive styling library for React Native.]]></title>
             <link>https://github.com/anubhavgupta/react-native-styleman</link>
             <guid>https://github.com/anubhavgupta/react-native-styleman</guid>
             <pubDate>Sun, 04 Apr 2021 07:12:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DIV and Backend again. A TypeScript Tale: Part 4 - GraphQL Code Gen]]></title>
-            <link>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-89d</link>
-            <guid>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-89d</guid>
-            <pubDate>Sat, 03 Apr 2021 18:15:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I have made a calculator that can recognize handwritten characters. It uses TensorFlowJS for inference on the browser.]]></title>
@@ -33,22 +33,52 @@
             <pubDate>Sun, 04 Apr 2021 11:44:19 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[A library for going general PRC between threads and processes using high-level classes]]></title>
+            <link>https://github.com/zlepper/worker-rpc</link>
+            <guid>https://github.com/zlepper/worker-rpc</guid>
+            <pubDate>Sun, 04 Apr 2021 13:48:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A lightweight CLI framework I made]]></title>
             <link>https://github.com/thecodeah/quicli</link>
             <guid>https://github.com/thecodeah/quicli</guid>
             <pubDate>Sun, 04 Apr 2021 09:35:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[An interactive, accessible way to build maps]]></title>
-            <link>https://github.com/kaosdev/map.js</link>
-            <guid>https://github.com/kaosdev/map.js</guid>
-            <pubDate>Sat, 03 Apr 2021 20:28:13 GMT</pubDate>
+            <title><![CDATA[DIV and Backend again. A TypeScript Tale: Part 5]]></title>
+            <link>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-bdd</link>
+            <guid>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-bdd</guid>
+            <pubDate>Sun, 04 Apr 2021 17:52:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[chainson - a database-backed Map with zero dependencies for Node.js]]></title>
+            <link>https://github.com/abcdan/chainson</link>
+            <guid>https://github.com/abcdan/chainson</guid>
+            <pubDate>Sun, 04 Apr 2021 15:02:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DIV and Backend again. A TypeScript Tale: Part 4 - GraphQL Code Gen]]></title>
+            <link>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-89d</link>
+            <guid>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-89d</guid>
+            <pubDate>Sat, 03 Apr 2021 18:15:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pipeline operator (Stage 1) - check out the updated TypeScript playground and provide feedback!]]></title>
+            <link>https://www.staging-typescript.org/play?ts=4.3.0-pr-38305-46#code/PTAEBUFMGcBdQPYFd6wBaVABwJZcgDY4B2mC+ATgIawIUCEAUCKKwMIYDGA1oiqOkzg2AZgCc2CuQTQqBAFyg0sWFmjyQAcxzokAIwB0nBAFtgsTuOBYpWGXIC0WKhVg5HVLFiKcaOBMTMYOxcvMioGBAAnvgAypwUePAAJtQAZvAACgBKisqq6lo6aPpGpsAmOAkyCBnA4DGQ8YlYsNZIBATAIgAcIgAMAKyMQRCRNtKyBKCVmsqg0ADuOpxoAghKVDwOcFEEmLj4RKQzOHPwxiaQBqBspphUxMmgAFYIJAKRyTjQnEjQ0H8xGgTEYaSQxE4bgCoGSyD0+1iVCiAAo4BRFOiSJoAJSgADeoAokFgSAoxAWsAooAA1KAAEQAGgZtMp1IAvmCIVCgaBfLhYHIcAAvSBoqmYqnYvGE4mk8lsgzE7xbMXAAB6AB1FsBmSjOHiALwAPj5BloAFUvJAKGwqNAxTicQBuUCc8GQ6EUyAAD04BCoOBM4oxbOlBKJJLJFPRrPp9HpbpG+3gxOgHXghoZGE6CHpjFYAB9TXD9IjkQXQMW+Z4dELRZXq77-YGTCMWCi0DoiRDQFQ9AgAG6QPGjTKJYiwaAMgAShAICGZOYXCcYxmBCH2BgXmhRaYzo6AA</link>
+            <guid>https://www.staging-typescript.org/play?ts=4.3.0-pr-38305-46#code/PTAEBUFMGcBdQPYFd6wBaVABwJZcgDY4B2mC+ATgIawIUCEAUCKKwMIYDGA1oiqOkzg2AZgCc2CuQTQqBAFyg0sWFmjyQAcxzokAIwB0nBAFtgsTuOBYpWGXIC0WKhVg5HVLFiKcaOBMTMYOxcvMioGBAAnvgAypwUePAAJtQAZvAACgBKisqq6lo6aPpGpsAmOAkyCBnA4DGQ8YlYsNZIBATAIgAcIgAMAKyMQRCRNtKyBKCVmsqg0ADuOpxoAghKVDwOcFEEmLj4RKQzOHPwxiaQBqBspphUxMmgAFYIJAKRyTjQnEjQ0H8xGgTEYaSQxE4bgCoGSyD0+1iVCiAAo4BRFOiSJoAJSgADeoAokFgSAoxAWsAooAA1KAAEQAGgZtMp1IAvmCIVCgaBfLhYHIcAAvSBoqmYqnYvGE4mk8lsgzE7xbMXAAB6AB1FsBmSjOHiALwAPj5BloAFUvJAKGwqNAxTicQBuUCc8GQ6EUyAAD04BCoOBM4oxbOlBKJJLJFPRrPp9HpbpG+3gxOgHXghoZGE6CHpjFYAB9TXD9IjkQXQMW+Z4dELRZXq77-YGTCMWCi0DoiRDQFQ9AgAG6QPGjTKJYiwaAMgAShAICGZOYXCcYxmBCH2BgXmhRaYzo6AA</guid>
+            <pubDate>Sun, 04 Apr 2021 18:51:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Functions without Borders - A typesafe RPC library thinning the boundaries between client and server]]></title>
             <link>https://github.com/akash-joshi/functions-without-borders</link>
             <guid>https://github.com/akash-joshi/functions-without-borders</guid>
             <pubDate>Sat, 03 Apr 2021 13:26:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An interactive, accessible way to build maps]]></title>
+            <link>https://github.com/kaosdev/map.js</link>
+            <guid>https://github.com/kaosdev/map.js</guid>
+            <pubDate>Sat, 03 Apr 2021 20:28:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[RFC] Vue 3 won't support IE11]]></title>
@@ -115,24 +145,6 @@
             <link>https://dev.to/iminside/whatsup-front-end-framework-based-on-ideas-of-streams-and-fractals-4cke</link>
             <guid>https://dev.to/iminside/whatsup-front-end-framework-based-on-ideas-of-streams-and-fractals-4cke</guid>
             <pubDate>Fri, 02 Apr 2021 09:55:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I tried to wrote about CSS Variable usages in SCSS functions, and their manipulation via JavaScript]]></title>
-            <link>https://medium.com/beyn-technology/using-css-variables-in-scss-functions-9521be4de4e3</link>
-            <guid>https://medium.com/beyn-technology/using-css-variables-in-scss-functions-9521be4de4e3</guid>
-            <pubDate>Fri, 02 Apr 2021 13:14:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chery — CLI for the DOM and Web Worker spawning platform]]></title>
-            <link>https://nuel.pw/chery</link>
-            <guid>https://nuel.pw/chery</guid>
-            <pubDate>Fri, 02 Apr 2021 10:40:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vue JS - Differences between Computed and Watch]]></title>
-            <link>https://dev.to/guivern/vue-js-differences-between-computed-and-watch-ii9</link>
-            <guid>https://dev.to/guivern/vue-js-differences-between-computed-and-watch-ii9</guid>
-            <pubDate>Fri, 02 Apr 2021 14:24:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

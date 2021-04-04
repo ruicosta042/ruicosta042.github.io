@@ -4,10 +4,22 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Sun, 04 Apr 2021 07:48:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Apr 2021 12:55:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Animation can make wave 👋 much more than emoji!]]></title>
+            <link>https://blog.shhdharmen.me/animation-can-make-wave-much-more-than-emoji</link>
+            <guid>https://blog.shhdharmen.me/animation-can-make-wave-much-more-than-emoji</guid>
+            <pubDate>Sun, 04 Apr 2021 09:52:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10 New CSS Features You Might Not Know About (2021 Edition)]]></title>
+            <link>https://torquemag.io/2021/03/new-css-features/</link>
+            <guid>https://torquemag.io/2021/03/new-css-features/</guid>
+            <pubDate>Sun, 04 Apr 2021 12:34:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Deep into Shadows]]></title>
             <link>https://css-tricks.com/getting-deep-into-shadows/</link>
@@ -55,18 +67,6 @@
             <link>https://artisanthemes.io/best-google-fonts-combinations-modern-agency-website/</link>
             <guid>https://artisanthemes.io/best-google-fonts-combinations-modern-agency-website/</guid>
             <pubDate>Fri, 02 Apr 2021 02:31:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UI Dev Newsletter, Issue #50]]></title>
-            <link>https://mentor.silvestar.codes/reads/2021-03-29/</link>
-            <guid>https://mentor.silvestar.codes/reads/2021-03-29/</guid>
-            <pubDate>Fri, 02 Apr 2021 07:55:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[:where() has a cool specificity trick, too.]]></title>
-            <link>https://css-tricks.com/where-has-a-cool-specificity-trick-too/</link>
-            <guid>https://css-tricks.com/where-has-a-cool-specificity-trick-too/</guid>
-            <pubDate>Thu, 01 Apr 2021 12:45:14 GMT</pubDate>
         </item>
     </channel>
 </rss>

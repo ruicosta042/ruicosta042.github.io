@@ -4,10 +4,16 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Sun, 04 Apr 2021 07:48:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Apr 2021 12:55:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Node.js boilerplate for quickly building production-ready RESTful APIs using Express and Mongoose]]></title>
+            <link>https://github.com/hagopj13/node-express-boilerplate</link>
+            <guid>https://github.com/hagopj13/node-express-boilerplate</guid>
+            <pubDate>Sun, 04 Apr 2021 11:13:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What is your current stack?]]></title>
             <link>https://github.com/expressjs/express</link>

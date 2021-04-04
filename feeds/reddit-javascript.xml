@@ -4,21 +4,15 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sun, 04 Apr 2021 07:48:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Apr 2021 12:55:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[DIV and Backend again. A TypeScript Tale: Part 4 - GraphQL Code Gen]]></title>
-            <link>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-89d</link>
-            <guid>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-89d</guid>
-            <pubDate>Sat, 03 Apr 2021 18:15:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Functions without Borders - A typesafe RPC library thinning the boundaries between client and server]]></title>
-            <link>https://github.com/akash-joshi/functions-without-borders</link>
-            <guid>https://github.com/akash-joshi/functions-without-borders</guid>
-            <pubDate>Sat, 03 Apr 2021 13:26:53 GMT</pubDate>
+            <title><![CDATA[Created a Node.js boilerplate for quickly building production-ready RESTful APIs using Express and Mongoose. Let me know what you think. Contributions are welcomed!]]></title>
+            <link>https://github.com/hagopj13/node-express-boilerplate</link>
+            <guid>https://github.com/hagopj13/node-express-boilerplate</guid>
+            <pubDate>Sun, 04 Apr 2021 12:05:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Introducing React-native-styleman.js: A tiny(3KB gzipped), high performance responsive styling library for React Native.]]></title>
@@ -27,10 +21,34 @@
             <pubDate>Sun, 04 Apr 2021 07:12:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[DIV and Backend again. A TypeScript Tale: Part 4 - GraphQL Code Gen]]></title>
+            <link>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-89d</link>
+            <guid>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-89d</guid>
+            <pubDate>Sat, 03 Apr 2021 18:15:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I have made a calculator that can recognize handwritten characters. It uses TensorFlowJS for inference on the browser.]]></title>
+            <link>https://sagyamthapa.me/Handwritten-Optical-Character-Recognition/</link>
+            <guid>https://sagyamthapa.me/Handwritten-Optical-Character-Recognition/</guid>
+            <pubDate>Sun, 04 Apr 2021 11:44:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A lightweight CLI framework I made]]></title>
+            <link>https://github.com/thecodeah/quicli</link>
+            <guid>https://github.com/thecodeah/quicli</guid>
+            <pubDate>Sun, 04 Apr 2021 09:35:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[An interactive, accessible way to build maps]]></title>
             <link>https://github.com/kaosdev/map.js</link>
             <guid>https://github.com/kaosdev/map.js</guid>
             <pubDate>Sat, 03 Apr 2021 20:28:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Functions without Borders - A typesafe RPC library thinning the boundaries between client and server]]></title>
+            <link>https://github.com/akash-joshi/functions-without-borders</link>
+            <guid>https://github.com/akash-joshi/functions-without-borders</guid>
+            <pubDate>Sat, 03 Apr 2021 13:26:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[RFC] Vue 3 won't support IE11]]></title>
@@ -115,30 +133,6 @@
             <link>https://dev.to/guivern/vue-js-differences-between-computed-and-watch-ii9</link>
             <guid>https://dev.to/guivern/vue-js-differences-between-computed-and-watch-ii9</guid>
             <pubDate>Fri, 02 Apr 2021 14:24:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The story of WebGPU — The successor to WebGL]]></title>
-            <link>https://eytanmanor.medium.com/the-story-of-webgpu-the-successor-to-webgl-bf5f74bc036a</link>
-            <guid>https://eytanmanor.medium.com/the-story-of-webgpu-the-successor-to-webgl-bf5f74bc036a</guid>
-            <pubDate>Thu, 01 Apr 2021 11:20:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DIV and Backend again. A TypeScript Tale: Part 2 - Type-GraphQL]]></title>
-            <link>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-69f</link>
-            <guid>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-69f</guid>
-            <pubDate>Thu, 01 Apr 2021 16:07:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ES1995 – The Missing JS Polyfill]]></title>
-            <link>https://github.com/mlajtos/es1995</link>
-            <guid>https://github.com/mlajtos/es1995</guid>
-            <pubDate>Thu, 01 Apr 2021 12:04:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rethinking the development/build environment with service workers]]></title>
-            <link>https://eaf4.com/emberconf2021/</link>
-            <guid>https://eaf4.com/emberconf2021/</guid>
-            <pubDate>Thu, 01 Apr 2021 17:58:55 GMT</pubDate>
         </item>
     </channel>
 </rss>

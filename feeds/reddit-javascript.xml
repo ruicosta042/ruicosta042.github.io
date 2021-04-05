@@ -4,10 +4,16 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sun, 04 Apr 2021 19:46:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Apr 2021 07:48:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Replacing let with const – Even when it feels impossible]]></title>
+            <link>https://charles-stover.medium.com/replacing-let-with-const-86797b790775</link>
+            <guid>https://charles-stover.medium.com/replacing-let-with-const-86797b790775</guid>
+            <pubDate>Mon, 05 Apr 2021 03:40:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Created a Node.js boilerplate for quickly building production-ready RESTful APIs using Express and Mongoose. Let me know what you think. Contributions are welcomed!]]></title>
             <link>https://github.com/hagopj13/node-express-boilerplate</link>
@@ -15,10 +21,28 @@
             <pubDate>Sun, 04 Apr 2021 12:05:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Chrome extension that will group your tabs by url with a single click]]></title>
-            <link>https://chrome.google.com/webstore/detail/tab-grouper/fkpmakflpdgeblkpdklpoohabkdghjpd</link>
-            <guid>https://chrome.google.com/webstore/detail/tab-grouper/fkpmakflpdgeblkpdklpoohabkdghjpd</guid>
-            <pubDate>Sun, 04 Apr 2021 16:36:35 GMT</pubDate>
+            <title><![CDATA[DIV and Backend again. A TypeScript Tale: Part 5]]></title>
+            <link>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-bdd</link>
+            <guid>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-bdd</guid>
+            <pubDate>Sun, 04 Apr 2021 17:52:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[chainson - a database-backed Map with zero dependencies for Node.js]]></title>
+            <link>https://github.com/abcdan/chainson</link>
+            <guid>https://github.com/abcdan/chainson</guid>
+            <pubDate>Sun, 04 Apr 2021 15:02:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I created a Manager for GitHub Actions to automate projects quickly and share best CI/CD practices]]></title>
+            <link>https://github.com/vemel/github_actions_js/</link>
+            <guid>https://github.com/vemel/github_actions_js/</guid>
+            <pubDate>Sun, 04 Apr 2021 22:00:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pipeline operator (Stage 1) - check out the updated TypeScript playground and provide feedback!]]></title>
+            <link>https://www.staging-typescript.org/play?ts=4.3.0-pr-38305-46#code/PTAEBUFMGcBdQPYFd6wBaVABwJZcgDY4B2mC+ATgIawIUCEAUCKKwMIYDGA1oiqOkzg2AZgCc2CuQTQqBAFyg0sWFmjyQAcxzokAIwB0nBAFtgsTuOBYpWGXIC0WKhVg5HVLFiKcaOBMTMYOxcvMioGBAAnvgAypwUePAAJtQAZvAACgBKisqq6lo6aPpGpsAmOAkyCBnA4DGQ8YlYsNZIBATAIgAcIgAMAKyMQRCRNtKyBKCVmsqg0ADuOpxoAghKVDwOcFEEmLj4RKQzOHPwxiaQBqBspphUxMmgAFYIJAKRyTjQnEjQ0H8xGgTEYaSQxE4bgCoGSyD0+1iVCiAAo4BRFOiSJoAJSgADeoAokFgSAoxAWsAooAA1KAAEQAGgZtMp1IAvmCIVCgaBfLhYHIcAAvSBoqmYqnYvGE4mk8lsgzE7xbMXAAB6AB1FsBmSjOHiALwAPj5BloAFUvJAKGwqNAxTicQBuUCc8GQ6EUyAAD04BCoOBM4oxbOlBKJJLJFPRrPp9HpbpG+3gxOgHXghoZGE6CHpjFYAB9TXD9IjkQXQMW+Z4dELRZXq77-YGTCMWCi0DoiRDQFQ9AgAG6QPGjTKJYiwaAMgAShAICGZOYXCcYxmBCH2BgXmhRaYzo6AA</link>
+            <guid>https://www.staging-typescript.org/play?ts=4.3.0-pr-38305-46#code/PTAEBUFMGcBdQPYFd6wBaVABwJZcgDY4B2mC+ATgIawIUCEAUCKKwMIYDGA1oiqOkzg2AZgCc2CuQTQqBAFyg0sWFmjyQAcxzokAIwB0nBAFtgsTuOBYpWGXIC0WKhVg5HVLFiKcaOBMTMYOxcvMioGBAAnvgAypwUePAAJtQAZvAACgBKisqq6lo6aPpGpsAmOAkyCBnA4DGQ8YlYsNZIBATAIgAcIgAMAKyMQRCRNtKyBKCVmsqg0ADuOpxoAghKVDwOcFEEmLj4RKQzOHPwxiaQBqBspphUxMmgAFYIJAKRyTjQnEjQ0H8xGgTEYaSQxE4bgCoGSyD0+1iVCiAAo4BRFOiSJoAJSgADeoAokFgSAoxAWsAooAA1KAAEQAGgZtMp1IAvmCIVCgaBfLhYHIcAAvSBoqmYqnYvGE4mk8lsgzE7xbMXAAB6AB1FsBmSjOHiALwAPj5BloAFUvJAKGwqNAxTicQBuUCc8GQ6EUyAAD04BCoOBM4oxbOlBKJJLJFPRrPp9HpbpG+3gxOgHXghoZGE6CHpjFYAB9TXD9IjkQXQMW+Z4dELRZXq77-YGTCMWCi0DoiRDQFQ9AgAG6QPGjTKJYiwaAMgAShAICGZOYXCcYxmBCH2BgXmhRaYzo6AA</guid>
+            <pubDate>Sun, 04 Apr 2021 18:51:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Introducing React-native-styleman.js: A tiny(3KB gzipped), high performance responsive styling library for React Native.]]></title>
@@ -45,28 +69,16 @@
             <pubDate>Sun, 04 Apr 2021 09:35:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[DIV and Backend again. A TypeScript Tale: Part 5]]></title>
-            <link>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-bdd</link>
-            <guid>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-bdd</guid>
-            <pubDate>Sun, 04 Apr 2021 17:52:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[chainson - a database-backed Map with zero dependencies for Node.js]]></title>
-            <link>https://github.com/abcdan/chainson</link>
-            <guid>https://github.com/abcdan/chainson</guid>
-            <pubDate>Sun, 04 Apr 2021 15:02:30 GMT</pubDate>
+            <title><![CDATA[Lazy evaluation in the Developer Console, some gotchas]]></title>
+            <link>https://medium.com/young-coder/why-chromes-developer-console-sometimes-lies-9487e45e91ae?source=friends_link&amp;sk=3afbf2a82b711e7d4cafac38028eb051</link>
+            <guid>https://medium.com/young-coder/why-chromes-developer-console-sometimes-lies-9487e45e91ae?source=friends_link&amp;sk=3afbf2a82b711e7d4cafac38028eb051</guid>
+            <pubDate>Sun, 04 Apr 2021 21:08:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[DIV and Backend again. A TypeScript Tale: Part 4 - GraphQL Code Gen]]></title>
             <link>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-89d</link>
             <guid>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-89d</guid>
             <pubDate>Sat, 03 Apr 2021 18:15:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pipeline operator (Stage 1) - check out the updated TypeScript playground and provide feedback!]]></title>
-            <link>https://www.staging-typescript.org/play?ts=4.3.0-pr-38305-46#code/PTAEBUFMGcBdQPYFd6wBaVABwJZcgDY4B2mC+ATgIawIUCEAUCKKwMIYDGA1oiqOkzg2AZgCc2CuQTQqBAFyg0sWFmjyQAcxzokAIwB0nBAFtgsTuOBYpWGXIC0WKhVg5HVLFiKcaOBMTMYOxcvMioGBAAnvgAypwUePAAJtQAZvAACgBKisqq6lo6aPpGpsAmOAkyCBnA4DGQ8YlYsNZIBATAIgAcIgAMAKyMQRCRNtKyBKCVmsqg0ADuOpxoAghKVDwOcFEEmLj4RKQzOHPwxiaQBqBspphUxMmgAFYIJAKRyTjQnEjQ0H8xGgTEYaSQxE4bgCoGSyD0+1iVCiAAo4BRFOiSJoAJSgADeoAokFgSAoxAWsAooAA1KAAEQAGgZtMp1IAvmCIVCgaBfLhYHIcAAvSBoqmYqnYvGE4mk8lsgzE7xbMXAAB6AB1FsBmSjOHiALwAPj5BloAFUvJAKGwqNAxTicQBuUCc8GQ6EUyAAD04BCoOBM4oxbOlBKJJLJFPRrPp9HpbpG+3gxOgHXghoZGE6CHpjFYAB9TXD9IjkQXQMW+Z4dELRZXq77-YGTCMWCi0DoiRDQFQ9AgAG6QPGjTKJYiwaAMgAShAICGZOYXCcYxmBCH2BgXmhRaYzo6AA</link>
-            <guid>https://www.staging-typescript.org/play?ts=4.3.0-pr-38305-46#code/PTAEBUFMGcBdQPYFd6wBaVABwJZcgDY4B2mC+ATgIawIUCEAUCKKwMIYDGA1oiqOkzg2AZgCc2CuQTQqBAFyg0sWFmjyQAcxzokAIwB0nBAFtgsTuOBYpWGXIC0WKhVg5HVLFiKcaOBMTMYOxcvMioGBAAnvgAypwUePAAJtQAZvAACgBKisqq6lo6aPpGpsAmOAkyCBnA4DGQ8YlYsNZIBATAIgAcIgAMAKyMQRCRNtKyBKCVmsqg0ADuOpxoAghKVDwOcFEEmLj4RKQzOHPwxiaQBqBspphUxMmgAFYIJAKRyTjQnEjQ0H8xGgTEYaSQxE4bgCoGSyD0+1iVCiAAo4BRFOiSJoAJSgADeoAokFgSAoxAWsAooAA1KAAEQAGgZtMp1IAvmCIVCgaBfLhYHIcAAvSBoqmYqnYvGE4mk8lsgzE7xbMXAAB6AB1FsBmSjOHiALwAPj5BloAFUvJAKGwqNAxTicQBuUCc8GQ6EUyAAD04BCoOBM4oxbOlBKJJLJFPRrPp9HpbpG+3gxOgHXghoZGE6CHpjFYAB9TXD9IjkQXQMW+Z4dELRZXq77-YGTCMWCi0DoiRDQFQ9AgAG6QPGjTKJYiwaAMgAShAICGZOYXCcYxmBCH2BgXmhRaYzo6AA</guid>
-            <pubDate>Sun, 04 Apr 2021 18:51:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Functions without Borders - A typesafe RPC library thinning the boundaries between client and server]]></title>
@@ -127,24 +139,6 @@
             <link>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-551</link>
             <guid>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-551</guid>
             <pubDate>Fri, 02 Apr 2021 17:50:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Announcing TypeScript 4.3 Beta]]></title>
-            <link>https://devblogs.microsoft.com/typescript/announcing-typescript-4-3-beta/</link>
-            <guid>https://devblogs.microsoft.com/typescript/announcing-typescript-4-3-beta/</guid>
-            <pubDate>Thu, 01 Apr 2021 20:32:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Timeout a Promise]]></title>
-            <link>http://thoughtspile.github.io/2021/04/02/promise-timeout/</link>
-            <guid>http://thoughtspile.github.io/2021/04/02/promise-timeout/</guid>
-            <pubDate>Fri, 02 Apr 2021 19:09:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WhatsUp - front-end framework based on ideas of streams and fractals]]></title>
-            <link>https://dev.to/iminside/whatsup-front-end-framework-based-on-ideas-of-streams-and-fractals-4cke</link>
-            <guid>https://dev.to/iminside/whatsup-front-end-framework-based-on-ideas-of-streams-and-fractals-4cke</guid>
-            <pubDate>Fri, 02 Apr 2021 09:55:21 GMT</pubDate>
         </item>
     </channel>
 </rss>

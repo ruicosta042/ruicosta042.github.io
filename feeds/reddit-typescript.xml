@@ -4,7 +4,7 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Mon, 05 Apr 2021 07:48:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Apr 2021 12:56:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -43,18 +43,6 @@
             <link>https://devblogs.microsoft.com/typescript/announcing-typescript-4-3-beta/</link>
             <guid>https://devblogs.microsoft.com/typescript/announcing-typescript-4-3-beta/</guid>
             <pubDate>Thu, 01 Apr 2021 20:23:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Functions without Boundaries - A typesafe library for making transparent RPC calls over websockets]]></title>
-            <link>https://github.com/akash-joshi/functions-without-boundaries</link>
-            <guid>https://github.com/akash-joshi/functions-without-boundaries</guid>
-            <pubDate>Tue, 30 Mar 2021 10:35:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Question about a Plugin System]]></title>
-            <link>https://github.com/matteobruni/tsparticles/</link>
-            <guid>https://github.com/matteobruni/tsparticles/</guid>
-            <pubDate>Mon, 29 Mar 2021 11:51:11 GMT</pubDate>
         </item>
     </channel>
 </rss>

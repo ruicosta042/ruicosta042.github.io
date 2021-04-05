@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Mon, 05 Apr 2021 07:48:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Apr 2021 12:56:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -19,6 +19,42 @@
             <link>https://jsfiddle.net/Luktwrdm/</link>
             <guid>https://jsfiddle.net/Luktwrdm/</guid>
             <pubDate>Thu, 01 Apr 2021 06:19:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Created a styled-component like library for using tailwindCSS (or other class frameworks) in a meaningful and cleaner way than inlining classes in the DOM.]]></title>
+            <link>https://github.com/tomma5o/claxed</link>
+            <guid>https://github.com/tomma5o/claxed</guid>
+            <pubDate>Mon, 05 Apr 2021 08:44:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React Docker image working on local machine but when I move it to server gives Hooks error]]></title>
+            <link>https://stackoverflow.com/questions/66950411/react-docker-image-working-on-local-machine-but-when-i-move-it-to-server-gives-h</link>
+            <guid>https://stackoverflow.com/questions/66950411/react-docker-image-working-on-local-machine-but-when-i-move-it-to-server-gives-h</guid>
+            <pubDate>Mon, 05 Apr 2021 08:59:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ways to debug "Too many re-renders"?]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Mon, 05 Apr 2021 09:32:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My first React project: a pandemic tracking app for my country]]></title>
+            <link>https://www.belcovid.be/</link>
+            <guid>https://www.belcovid.be/</guid>
+            <pubDate>Mon, 05 Apr 2021 12:54:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to refactor my repetitive code and to create a shareable code]]></title>
+            <link>https://github.com/VncntDzn/e-commerce/tree/dev</link>
+            <guid>https://github.com/VncntDzn/e-commerce/tree/dev</guid>
+            <pubDate>Mon, 05 Apr 2021 11:59:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quando: a conditional expressions library]]></title>
+            <link>https://github.com/RicheyRyan/quando</link>
+            <guid>https://github.com/RicheyRyan/quando</guid>
+            <pubDate>Mon, 05 Apr 2021 11:16:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[path variables in react api call]]></title>
@@ -61,24 +97,6 @@
             <link>https://food-recommend.netlify.app/</link>
             <guid>https://food-recommend.netlify.app/</guid>
             <pubDate>Sun, 04 Apr 2021 15:04:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From axios response need to retreive data for particular dynamic id]]></title>
-            <link>https://response.data.data/</link>
-            <guid>https://response.data.data/</guid>
-            <pubDate>Sun, 04 Apr 2021 11:20:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Unable to read 'displayName' of null error.]]></title>
-            <link>https://codesandbox.io/s/brave-mendel-x5yeu?file=/src/App.js&amp;resolutionWidth=919&amp;resolutionHeight=675</link>
-            <guid>https://codesandbox.io/s/brave-mendel-x5yeu?file=/src/App.js&amp;resolutionWidth=919&amp;resolutionHeight=675</guid>
-            <pubDate>Sun, 04 Apr 2021 14:52:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cart Functionality in React]]></title>
-            <link>https://codesandbox.io/s/frosty-sound-5y7pg?file=/src/BookContext.js</link>
-            <guid>https://codesandbox.io/s/frosty-sound-5y7pg?file=/src/BookContext.js</guid>
-            <pubDate>Sun, 04 Apr 2021 14:16:04 GMT</pubDate>
         </item>
     </channel>
 </rss>

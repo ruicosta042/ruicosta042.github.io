@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Mon, 05 Apr 2021 12:56:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Apr 2021 19:47:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,18 @@
             <link>https://www.lambdatest.com/blog/dynamic-rendering-using-html-and-css/?utm_source=Reddit&amp;utm_medium=blog&amp;utm_campaign=PM-500421-2&amp;utm_term=OrganicPosting</link>
             <guid>https://www.lambdatest.com/blog/dynamic-rendering-using-html-and-css/?utm_source=Reddit&amp;utm_medium=blog&amp;utm_campaign=PM-500421-2&amp;utm_term=OrganicPosting</guid>
             <pubDate>Mon, 05 Apr 2021 07:44:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Swipey image grids.]]></title>
+            <link>https://www.cassie.codes/posts/swipey-image-grids/</link>
+            <guid>https://www.cassie.codes/posts/swipey-image-grids/</guid>
+            <pubDate>Mon, 05 Apr 2021 13:48:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[css border example]]></title>
+            <link>https://gscode.devdojo.com/CSS-Border-Example</link>
+            <guid>https://gscode.devdojo.com/CSS-Border-Example</guid>
+            <pubDate>Mon, 05 Apr 2021 17:35:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Animation can make wave 👋 much more than emoji!]]></title>
@@ -55,12 +67,6 @@
             <link>http://www.coding-dude.com/wp/wavy-text-generator/</link>
             <guid>http://www.coding-dude.com/wp/wavy-text-generator/</guid>
             <pubDate>Sat, 03 Apr 2021 15:57:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nailing That Cool Dissolve Transition]]></title>
-            <link>https://css-tricks.com/nailing-that-cool-dissolve-transition/</link>
-            <guid>https://css-tricks.com/nailing-that-cool-dissolve-transition/</guid>
-            <pubDate>Fri, 02 Apr 2021 09:39:48 GMT</pubDate>
         </item>
     </channel>
 </rss>

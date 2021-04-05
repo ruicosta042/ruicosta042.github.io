@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Mon, 05 Apr 2021 12:56:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Apr 2021 19:47:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,34 +21,16 @@
             <pubDate>Thu, 01 Apr 2021 06:19:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Rebuilding a Jekyll Website with Next.js and Theme UI]]></title>
+            <link>https://ghostinspector.com/blog/rebuilding-jekyll-website-next-js-theme-ui/</link>
+            <guid>https://ghostinspector.com/blog/rebuilding-jekyll-website-next-js-theme-ui/</guid>
+            <pubDate>Mon, 05 Apr 2021 18:46:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Created a styled-component like library for using tailwindCSS (or other class frameworks) in a meaningful and cleaner way than inlining classes in the DOM.]]></title>
             <link>https://github.com/tomma5o/claxed</link>
             <guid>https://github.com/tomma5o/claxed</guid>
             <pubDate>Mon, 05 Apr 2021 08:44:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React Docker image working on local machine but when I move it to server gives Hooks error]]></title>
-            <link>https://stackoverflow.com/questions/66950411/react-docker-image-working-on-local-machine-but-when-i-move-it-to-server-gives-h</link>
-            <guid>https://stackoverflow.com/questions/66950411/react-docker-image-working-on-local-machine-but-when-i-move-it-to-server-gives-h</guid>
-            <pubDate>Mon, 05 Apr 2021 08:59:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ways to debug "Too many re-renders"?]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Mon, 05 Apr 2021 09:32:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My first React project: a pandemic tracking app for my country]]></title>
-            <link>https://www.belcovid.be/</link>
-            <guid>https://www.belcovid.be/</guid>
-            <pubDate>Mon, 05 Apr 2021 12:54:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to refactor my repetitive code and to create a shareable code]]></title>
-            <link>https://github.com/VncntDzn/e-commerce/tree/dev</link>
-            <guid>https://github.com/VncntDzn/e-commerce/tree/dev</guid>
-            <pubDate>Mon, 05 Apr 2021 11:59:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Quando: a conditional expressions library]]></title>
@@ -57,46 +39,52 @@
             <pubDate>Mon, 05 Apr 2021 11:16:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[path variables in react api call]]></title>
-            <link>https://stackoverflow.com/questions/66947501/path-variables-in-react-api-call</link>
-            <guid>https://stackoverflow.com/questions/66947501/path-variables-in-react-api-call</guid>
-            <pubDate>Mon, 05 Apr 2021 02:53:21 GMT</pubDate>
+            <title><![CDATA[How useRef turned out to be useMemo's father]]></title>
+            <link>https://thoughtspile.github.io/2021/04/05/useref-usememo/</link>
+            <guid>https://thoughtspile.github.io/2021/04/05/useref-usememo/</guid>
+            <pubDate>Mon, 05 Apr 2021 16:06:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A fancy open source script manager chromium extension built with reactjs]]></title>
+            <title><![CDATA[React Docker image working on local machine but when I move it to server gives Hooks error]]></title>
+            <link>https://stackoverflow.com/questions/66950411/react-docker-image-working-on-local-machine-but-when-i-move-it-to-server-gives-h</link>
+            <guid>https://stackoverflow.com/questions/66950411/react-docker-image-working-on-local-machine-but-when-i-move-it-to-server-gives-h</guid>
+            <pubDate>Mon, 05 Apr 2021 08:59:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[json-msg-react]]></title>
+            <link>https://www.npmjs.com/package/json-msg-react</link>
+            <guid>https://www.npmjs.com/package/json-msg-react</guid>
+            <pubDate>Mon, 05 Apr 2021 16:13:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I Built BitBuzz with ReactJS: Gilfoyle's Bitcoin Sound App | Silicon Valley Show!]]></title>
+            <link>https://bitbuzz.netlify.app/</link>
+            <guid>https://bitbuzz.netlify.app/</guid>
+            <pubDate>Mon, 05 Apr 2021 19:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How To Streamline And Improve Your Process? 6 Steps To Follow]]></title>
+            <link>http://tostreamline.space/</link>
+            <guid>http://tostreamline.space/</guid>
+            <pubDate>Mon, 05 Apr 2021 19:09:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[useNft() 0.5: improved API, new fetcher and more]]></title>
+            <link>https://github.com/spectrexyz/use-nft/releases/tag/v0.5.0</link>
+            <guid>https://github.com/spectrexyz/use-nft/releases/tag/v0.5.0</guid>
+            <pubDate>Mon, 05 Apr 2021 18:12:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ways to debug "Too many re-renders"?]]></title>
             <link>https://foo.com/</link>
             <guid>https://foo.com/</guid>
-            <pubDate>Mon, 05 Apr 2021 02:20:05 GMT</pubDate>
+            <pubDate>Mon, 05 Apr 2021 09:32:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Built a website with React Flow to visualize course prerequisites]]></title>
-            <link>https://prereq-flow.vercel.app/</link>
-            <guid>https://prereq-flow.vercel.app/</guid>
-            <pubDate>Sun, 04 Apr 2021 18:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[State Management: Apollo Client 3 vs Redux/Redux Sagas]]></title>
-            <link>https://www.apollographql.com/docs/react/local-state/managing-state-with-field-policies/#storing-local-state-in-reactive-variables</link>
-            <guid>https://www.apollographql.com/docs/react/local-state/managing-state-with-field-policies/#storing-local-state-in-reactive-variables</guid>
-            <pubDate>Sun, 04 Apr 2021 23:13:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Next.js + Tailwind CSS Mac OS 1984 style GitHub Repo (inspired by poolside.fm)]]></title>
-            <link>https://poolside.fm/</link>
-            <guid>https://poolside.fm/</guid>
-            <pubDate>Sun, 04 Apr 2021 19:01:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Need examples for notifications dropdown]]></title>
-            <link>https://dribbble.com/shots/14575836-Notification</link>
-            <guid>https://dribbble.com/shots/14575836-Notification</guid>
-            <pubDate>Sun, 04 Apr 2021 22:35:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My first react app]]></title>
-            <link>https://food-recommend.netlify.app/</link>
-            <guid>https://food-recommend.netlify.app/</guid>
-            <pubDate>Sun, 04 Apr 2021 15:04:46 GMT</pubDate>
+            <title><![CDATA[How to refactor my repetitive code and to create a shareable code]]></title>
+            <link>https://github.com/VncntDzn/e-commerce/tree/dev</link>
+            <guid>https://github.com/VncntDzn/e-commerce/tree/dev</guid>
+            <pubDate>Mon, 05 Apr 2021 11:59:15 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Tue, 06 Apr 2021 07:49:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Apr 2021 12:55:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -27,10 +27,16 @@
             <pubDate>Tue, 06 Apr 2021 06:22:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cancelable Async Flows (CAF) by Kyle Simpson]]></title>
-            <link>https://github.com/getify/CAF</link>
-            <guid>https://github.com/getify/CAF</guid>
-            <pubDate>Tue, 06 Apr 2021 04:47:44 GMT</pubDate>
+            <title><![CDATA[CROPRO - JavaScript library for image cropping, rotation, flipping, and straightening.]]></title>
+            <link>https://markerjs.com/products/cropro/</link>
+            <guid>https://markerjs.com/products/cropro/</guid>
+            <pubDate>Tue, 06 Apr 2021 12:05:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Check Your App or Website to be HIPAA, PIPEDA & GDPR Corresponding]]></title>
+            <link>https://medium.com/dataseries/check-your-app-or-website-to-be-hipaa-pipeda-gdpr-corresponding-e2a6ef60f6ec?source=friends_link&amp;sk=42b44bca18906194dd756507e84e861d</link>
+            <guid>https://medium.com/dataseries/check-your-app-or-website-to-be-hipaa-pipeda-gdpr-corresponding-e2a6ef60f6ec?source=friends_link&amp;sk=42b44bca18906194dd756507e84e861d</guid>
+            <pubDate>Tue, 06 Apr 2021 11:44:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Creating a modern JavaScript library]]></title>
@@ -39,10 +45,22 @@
             <pubDate>Tue, 06 Apr 2021 00:01:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Cancelable Async Flows (CAF) by Kyle Simpson]]></title>
+            <link>https://github.com/getify/CAF</link>
+            <guid>https://github.com/getify/CAF</guid>
+            <pubDate>Tue, 06 Apr 2021 04:47:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Symbology.js - generate 50+ types of 1D or 2D Barcode in png, svg, or eps formats]]></title>
             <link>https://github.com/jshor/symbology</link>
             <guid>https://github.com/jshor/symbology</guid>
             <pubDate>Mon, 05 Apr 2021 15:22:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[All The Ways You Can Loop Arrays in Javascript]]></title>
+            <link>https://blog.shahednasser.com/all-the-ways-you-can-loop-arrays-in-javascript/</link>
+            <guid>https://blog.shahednasser.com/all-the-ways-you-can-loop-arrays-in-javascript/</guid>
+            <pubDate>Tue, 06 Apr 2021 11:31:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Replacing let with const – Even when it feels impossible]]></title>
@@ -61,6 +79,12 @@
             <link>https://dev.to/johannchopin/let-s-build-the-best-rest-api-mocker-tool-together-i8d</link>
             <guid>https://dev.to/johannchopin/let-s-build-the-best-rest-api-mocker-tool-together-i8d</guid>
             <pubDate>Mon, 05 Apr 2021 16:13:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[So far, perhaps the best similar Single File Components solution for React JSX.]]></title>
+            <link>https://github.com/joe-sky/jsx-sfc</link>
+            <guid>https://github.com/joe-sky/jsx-sfc</guid>
+            <pubDate>Tue, 06 Apr 2021 09:56:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Quando: a conditional expressions library]]></title>
@@ -139,18 +163,6 @@
             <link>https://github.com/thecodeah/quicli</link>
             <guid>https://github.com/thecodeah/quicli</guid>
             <pubDate>Sun, 04 Apr 2021 09:35:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lazy evaluation in the Developer Console, some gotchas]]></title>
-            <link>https://medium.com/young-coder/why-chromes-developer-console-sometimes-lies-9487e45e91ae?source=friends_link&amp;sk=3afbf2a82b711e7d4cafac38028eb051</link>
-            <guid>https://medium.com/young-coder/why-chromes-developer-console-sometimes-lies-9487e45e91ae?source=friends_link&amp;sk=3afbf2a82b711e7d4cafac38028eb051</guid>
-            <pubDate>Sun, 04 Apr 2021 21:08:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DIV and Backend again. A TypeScript Tale: Part 4 - GraphQL Code Gen]]></title>
-            <link>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-89d</link>
-            <guid>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-89d</guid>
-            <pubDate>Sat, 03 Apr 2021 18:15:06 GMT</pubDate>
         </item>
     </channel>
 </rss>

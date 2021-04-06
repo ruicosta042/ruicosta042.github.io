@@ -4,15 +4,33 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Tue, 06 Apr 2021 07:49:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Apr 2021 12:55:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[All The Ways You Can Loop Arrays in Javascript]]></title>
+            <link>https://blog.shahednasser.com/all-the-ways-you-can-loop-arrays-in-javascript/</link>
+            <guid>https://blog.shahednasser.com/all-the-ways-you-can-loop-arrays-in-javascript/</guid>
+            <pubDate>Tue, 06 Apr 2021 11:31:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Javascript interview questions set 3]]></title>
+            <link>https://www.monkwhocode.com/2021/04/javascript-interview-questions-set-3.html</link>
+            <guid>https://www.monkwhocode.com/2021/04/javascript-interview-questions-set-3.html</guid>
+            <pubDate>Tue, 06 Apr 2021 08:05:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sending tuples from Node to Rust and back]]></title>
             <link>https://nightly.fluvio.io/blog/2021/04/node-bindgen-tuples</link>
             <guid>https://nightly.fluvio.io/blog/2021/04/node-bindgen-tuples</guid>
             <pubDate>Mon, 05 Apr 2021 18:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How does a tcp terminating load balancer return a response if the connection gets terminated by the load balancer?]]></title>
+            <link>https://cloud.google.com/load-balancing/docs/tcp</link>
+            <guid>https://cloud.google.com/load-balancing/docs/tcp</guid>
+            <pubDate>Tue, 06 Apr 2021 11:34:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How To Streamline And Improve Your Process? 6 Steps To Follow]]></title>
@@ -61,18 +79,6 @@
             <link>http://agilevalues.space/</link>
             <guid>http://agilevalues.space/</guid>
             <pubDate>Mon, 05 Apr 2021 14:19:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I did something bad...]]></title>
-            <link>https://replit.com/</link>
-            <guid>https://replit.com/</guid>
-            <pubDate>Mon, 05 Apr 2021 21:56:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[third-auth-ms - A micro-service for 3rd party authentication]]></title>
-            <link>https://github.com/mbarzeev/third-auth-ms</link>
-            <guid>https://github.com/mbarzeev/third-auth-ms</guid>
-            <pubDate>Mon, 05 Apr 2021 12:31:11 GMT</pubDate>
         </item>
     </channel>
 </rss>

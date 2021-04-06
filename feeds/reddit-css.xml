@@ -4,10 +4,28 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Tue, 06 Apr 2021 07:49:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Apr 2021 12:55:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[What is new in Tailwind CSS version 2.1?]]></title>
+            <link>https://www.themes.dev/blog/what-is-new-in-tailwind-css/</link>
+            <guid>https://www.themes.dev/blog/what-is-new-in-tailwind-css/</guid>
+            <pubDate>Tue, 06 Apr 2021 12:34:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An accessible toggle]]></title>
+            <link>https://kittygiraudel.com/2021/04/05/an-accessible-toggle/</link>
+            <guid>https://kittygiraudel.com/2021/04/05/an-accessible-toggle/</guid>
+            <pubDate>Tue, 06 Apr 2021 12:50:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Every CSS Background Property Illustrated and Explained with Code Examples 🎖️]]></title>
+            <link>https://www.freecodecamp.org/news/learn-css-background-properties/</link>
+            <guid>https://www.freecodecamp.org/news/learn-css-background-properties/</guid>
+            <pubDate>Tue, 06 Apr 2021 12:47:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[css border example]]></title>
             <link>https://gscode.devdojo.com/CSS-Border-Example</link>

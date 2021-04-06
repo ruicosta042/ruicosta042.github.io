@@ -4,15 +4,27 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Tue, 06 Apr 2021 12:55:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Apr 2021 19:47:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[What is new in Tailwind CSS version 2.1?]]></title>
-            <link>https://www.themes.dev/blog/what-is-new-in-tailwind-css/</link>
-            <guid>https://www.themes.dev/blog/what-is-new-in-tailwind-css/</guid>
-            <pubDate>Tue, 06 Apr 2021 12:34:26 GMT</pubDate>
+            <title><![CDATA[Every CSS Background Property Illustrated and Explained with Code Examples 🎖️]]></title>
+            <link>https://www.freecodecamp.org/news/learn-css-background-properties/</link>
+            <guid>https://www.freecodecamp.org/news/learn-css-background-properties/</guid>
+            <pubDate>Tue, 06 Apr 2021 12:47:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Guide (and example code) to producing beautiful PDFs from CSS and JS]]></title>
+            <link>https://pdf.math.dev/</link>
+            <guid>https://pdf.math.dev/</guid>
+            <pubDate>Tue, 06 Apr 2021 18:16:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Complete HTML5 Course: From Beginning to Expert]]></title>
+            <link>https://www.myfreeonlinecourses.com/2021/02/100-off-complete-html5-course-from.html</link>
+            <guid>https://www.myfreeonlinecourses.com/2021/02/100-off-complete-html5-course-from.html</guid>
+            <pubDate>Tue, 06 Apr 2021 17:30:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[An accessible toggle]]></title>
@@ -21,10 +33,10 @@
             <pubDate>Tue, 06 Apr 2021 12:50:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Every CSS Background Property Illustrated and Explained with Code Examples 🎖️]]></title>
-            <link>https://www.freecodecamp.org/news/learn-css-background-properties/</link>
-            <guid>https://www.freecodecamp.org/news/learn-css-background-properties/</guid>
-            <pubDate>Tue, 06 Apr 2021 12:47:44 GMT</pubDate>
+            <title><![CDATA[What is new in Tailwind CSS version 2.1?]]></title>
+            <link>https://www.themes.dev/blog/what-is-new-in-tailwind-css/</link>
+            <guid>https://www.themes.dev/blog/what-is-new-in-tailwind-css/</guid>
+            <pubDate>Tue, 06 Apr 2021 12:34:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[css border example]]></title>
@@ -85,12 +97,6 @@
             <link>https://edmdesigner.github.io/memory-game-in-email-poc/</link>
             <guid>https://edmdesigner.github.io/memory-game-in-email-poc/</guid>
             <pubDate>Sat, 03 Apr 2021 15:24:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Online Wavy Text Generator]]></title>
-            <link>http://www.coding-dude.com/wp/wavy-text-generator/</link>
-            <guid>http://www.coding-dude.com/wp/wavy-text-generator/</guid>
-            <pubDate>Sat, 03 Apr 2021 15:57:42 GMT</pubDate>
         </item>
     </channel>
 </rss>

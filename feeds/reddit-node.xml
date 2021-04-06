@@ -4,7 +4,7 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Tue, 06 Apr 2021 12:55:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Apr 2021 19:47:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,28 +21,40 @@
             <pubDate>Tue, 06 Apr 2021 08:05:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sending tuples from Node to Rust and back]]></title>
-            <link>https://nightly.fluvio.io/blog/2021/04/node-bindgen-tuples</link>
-            <guid>https://nightly.fluvio.io/blog/2021/04/node-bindgen-tuples</guid>
-            <pubDate>Mon, 05 Apr 2021 18:40:54 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[How does a tcp terminating load balancer return a response if the connection gets terminated by the load balancer?]]></title>
             <link>https://cloud.google.com/load-balancing/docs/tcp</link>
             <guid>https://cloud.google.com/load-balancing/docs/tcp</guid>
             <pubDate>Tue, 06 Apr 2021 11:34:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How To Streamline And Improve Your Process? 6 Steps To Follow]]></title>
-            <link>http://tostreamline.space/</link>
-            <guid>http://tostreamline.space/</guid>
-            <pubDate>Mon, 05 Apr 2021 19:05:32 GMT</pubDate>
+            <title><![CDATA[My first open source script]]></title>
+            <link>https://github.com/Gabriellcreiss/js-simple-cmd-calculator</link>
+            <guid>https://github.com/Gabriellcreiss/js-simple-cmd-calculator</guid>
+            <pubDate>Tue, 06 Apr 2021 19:05:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sending tuples from Node to Rust and back]]></title>
+            <link>https://nightly.fluvio.io/blog/2021/04/node-bindgen-tuples</link>
+            <guid>https://nightly.fluvio.io/blog/2021/04/node-bindgen-tuples</guid>
+            <pubDate>Mon, 05 Apr 2021 18:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ReferenceError: myCursor is not defined]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Tue, 06 Apr 2021 14:38:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[PM2 Webui - Minimalistic App Manager and Logs Viewer]]></title>
             <link>https://github.com/suryamodulus/pm2-webui</link>
             <guid>https://github.com/suryamodulus/pm2-webui</guid>
             <pubDate>Mon, 05 Apr 2021 08:21:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How To Streamline And Improve Your Process? 6 Steps To Follow]]></title>
+            <link>http://tostreamline.space/</link>
+            <guid>http://tostreamline.space/</guid>
+            <pubDate>Mon, 05 Apr 2021 19:05:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to host for free your NodeJS app]]></title>
@@ -67,18 +79,6 @@
             <link>https://www.stefanjudis.com/today-i-learned/top-level-await-is-available-in-node-js-modules/</link>
             <guid>https://www.stefanjudis.com/today-i-learned/top-level-await-is-available-in-node-js-modules/</guid>
             <pubDate>Mon, 05 Apr 2021 12:13:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting Started with MongoDB and NestJS]]></title>
-            <link>https://georgianstan.medium.com/getting-started-with-mongodb-and-nestjs-3ac58fb0ad7f?source=friends_link&amp;sk=a4bd4beb557a616e3149c1ad8e60b1c9</link>
-            <guid>https://georgianstan.medium.com/getting-started-with-mongodb-and-nestjs-3ac58fb0ad7f?source=friends_link&amp;sk=a4bd4beb557a616e3149c1ad8e60b1c9</guid>
-            <pubDate>Mon, 05 Apr 2021 14:56:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Agile Values And Principles - Do They Still Matter?]]></title>
-            <link>http://agilevalues.space/</link>
-            <guid>http://agilevalues.space/</guid>
-            <pubDate>Mon, 05 Apr 2021 14:19:51 GMT</pubDate>
         </item>
     </channel>
 </rss>

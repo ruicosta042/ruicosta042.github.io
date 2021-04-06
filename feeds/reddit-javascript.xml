@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Tue, 06 Apr 2021 12:55:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Apr 2021 19:47:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,16 @@
             <pubDate>Mon, 05 Apr 2021 09:04:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I'm launching a side project to award folks for building rad "non-corporate-y" stuff for the web. If you're working on something for a local community, I'd love to throw you some coffee money!]]></title>
-            <link>https://henrygives.coffee/</link>
-            <guid>https://henrygives.coffee/</guid>
-            <pubDate>Mon, 05 Apr 2021 19:42:07 GMT</pubDate>
+            <title><![CDATA[CROPRO - JavaScript library for image cropping, rotation, flipping, and straightening.]]></title>
+            <link>https://markerjs.com/products/cropro/</link>
+            <guid>https://markerjs.com/products/cropro/</guid>
+            <pubDate>Tue, 06 Apr 2021 12:05:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I wrote a water simulation with P5.js]]></title>
+            <link>https://trungdq88.github.io/summer/</link>
+            <guid>https://trungdq88.github.io/summer/</guid>
+            <pubDate>Tue, 06 Apr 2021 15:45:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[React 17 removes event pooling in the modern browsers]]></title>
@@ -27,22 +33,52 @@
             <pubDate>Tue, 06 Apr 2021 06:22:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[CROPRO - JavaScript library for image cropping, rotation, flipping, and straightening.]]></title>
-            <link>https://markerjs.com/products/cropro/</link>
-            <guid>https://markerjs.com/products/cropro/</guid>
-            <pubDate>Tue, 06 Apr 2021 12:05:46 GMT</pubDate>
+            <title><![CDATA[I'm launching a side project to award folks for building rad "non-corporate-y" stuff for the web. If you're working on something for a local community, I'd love to throw you some coffee money!]]></title>
+            <link>https://henrygives.coffee/</link>
+            <guid>https://henrygives.coffee/</guid>
+            <pubDate>Mon, 05 Apr 2021 19:42:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Check Your App or Website to be HIPAA, PIPEDA & GDPR Corresponding]]></title>
-            <link>https://medium.com/dataseries/check-your-app-or-website-to-be-hipaa-pipeda-gdpr-corresponding-e2a6ef60f6ec?source=friends_link&amp;sk=42b44bca18906194dd756507e84e861d</link>
-            <guid>https://medium.com/dataseries/check-your-app-or-website-to-be-hipaa-pipeda-gdpr-corresponding-e2a6ef60f6ec?source=friends_link&amp;sk=42b44bca18906194dd756507e84e861d</guid>
-            <pubDate>Tue, 06 Apr 2021 11:44:33 GMT</pubDate>
+            <title><![CDATA[5 Places SolidJS is not the Best]]></title>
+            <link>https://dev.to/ryansolid/5-places-solidjs-is-not-the-best-5019</link>
+            <guid>https://dev.to/ryansolid/5-places-solidjs-is-not-the-best-5019</guid>
+            <pubDate>Tue, 06 Apr 2021 16:26:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Creating a modern JavaScript library]]></title>
-            <link>https://dev.to/101arrowz/creating-a-modern-js-library-introduction-1a0c</link>
-            <guid>https://dev.to/101arrowz/creating-a-modern-js-library-introduction-1a0c</guid>
-            <pubDate>Tue, 06 Apr 2021 00:01:33 GMT</pubDate>
+            <title><![CDATA[Minecraft Client in browser!]]></title>
+            <link>https://github.com/michaljaz/web-minecraft/</link>
+            <guid>https://github.com/michaljaz/web-minecraft/</guid>
+            <pubDate>Tue, 06 Apr 2021 16:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eliminating Data Races in Firefox – A Technical Report]]></title>
+            <link>https://hacks.mozilla.org/2021/04/eliminating-data-races-in-firefox-a-technical-report/</link>
+            <guid>https://hacks.mozilla.org/2021/04/eliminating-data-races-in-firefox-a-technical-report/</guid>
+            <pubDate>Tue, 06 Apr 2021 15:32:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to develop/design an API that developers want to use - Python/Data Science Tutorials and Projects]]></title>
+            <link>https://www.realpythonproject.com/how-to-develop-design-an-api-that-developers-want-to-use/</link>
+            <guid>https://www.realpythonproject.com/how-to-develop-design-an-api-that-developers-want-to-use/</guid>
+            <pubDate>Tue, 06 Apr 2021 17:26:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wrote a tool for generating barrel files with watching and custom template support]]></title>
+            <link>https://www.npmjs.com/package/barro</link>
+            <guid>https://www.npmjs.com/package/barro</guid>
+            <pubDate>Tue, 06 Apr 2021 17:14:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10 One-Liner Utility methods in TypeScript/JavaScript]]></title>
+            <link>https://blog.decipher.dev/10-one-liner-utility-methods-in-typescript-javascript</link>
+            <guid>https://blog.decipher.dev/10-one-liner-utility-methods-in-typescript-javascript</guid>
+            <pubDate>Tue, 06 Apr 2021 16:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Abort HTTP requests using fetch, React and Redux-Saga]]></title>
+            <link>https://romandatsiuk.com/en/blog/post-cancel-requests-redux-saga/</link>
+            <guid>https://romandatsiuk.com/en/blog/post-cancel-requests-redux-saga/</guid>
+            <pubDate>Tue, 06 Apr 2021 15:22:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cancelable Async Flows (CAF) by Kyle Simpson]]></title>
@@ -51,16 +87,16 @@
             <pubDate>Tue, 06 Apr 2021 04:47:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Creating a modern JavaScript library]]></title>
+            <link>https://dev.to/101arrowz/creating-a-modern-js-library-introduction-1a0c</link>
+            <guid>https://dev.to/101arrowz/creating-a-modern-js-library-introduction-1a0c</guid>
+            <pubDate>Tue, 06 Apr 2021 00:01:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Symbology.js - generate 50+ types of 1D or 2D Barcode in png, svg, or eps formats]]></title>
             <link>https://github.com/jshor/symbology</link>
             <guid>https://github.com/jshor/symbology</guid>
             <pubDate>Mon, 05 Apr 2021 15:22:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[All The Ways You Can Loop Arrays in Javascript]]></title>
-            <link>https://blog.shahednasser.com/all-the-ways-you-can-loop-arrays-in-javascript/</link>
-            <guid>https://blog.shahednasser.com/all-the-ways-you-can-loop-arrays-in-javascript/</guid>
-            <pubDate>Tue, 06 Apr 2021 11:31:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Replacing let with const – Even when it feels impossible]]></title>
@@ -69,16 +105,16 @@
             <pubDate>Mon, 05 Apr 2021 03:40:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lookie – Cookie-Like LocalStorage]]></title>
-            <link>https://github.com/aykutkardas/lookie</link>
-            <guid>https://github.com/aykutkardas/lookie</guid>
-            <pubDate>Tue, 06 Apr 2021 06:28:29 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Let's build the best REST API mocker tool together]]></title>
             <link>https://dev.to/johannchopin/let-s-build-the-best-rest-api-mocker-tool-together-i8d</link>
             <guid>https://dev.to/johannchopin/let-s-build-the-best-rest-api-mocker-tool-together-i8d</guid>
             <pubDate>Mon, 05 Apr 2021 16:13:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lookie – Cookie-Like LocalStorage]]></title>
+            <link>https://github.com/aykutkardas/lookie</link>
+            <guid>https://github.com/aykutkardas/lookie</guid>
+            <pubDate>Tue, 06 Apr 2021 06:28:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[So far, perhaps the best similar Single File Components solution for React JSX.]]></title>
@@ -127,42 +163,6 @@
             <link>https://github.com/vemel/github_actions_js/</link>
             <guid>https://github.com/vemel/github_actions_js/</guid>
             <pubDate>Sun, 04 Apr 2021 22:00:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pipeline operator (Stage 1) - check out the updated TypeScript playground and provide feedback!]]></title>
-            <link>https://www.staging-typescript.org/play?ts=4.3.0-pr-38305-46#code/PTAEBUFMGcBdQPYFd6wBaVABwJZcgDY4B2mC+ATgIawIUCEAUCKKwMIYDGA1oiqOkzg2AZgCc2CuQTQqBAFyg0sWFmjyQAcxzokAIwB0nBAFtgsTuOBYpWGXIC0WKhVg5HVLFiKcaOBMTMYOxcvMioGBAAnvgAypwUePAAJtQAZvAACgBKisqq6lo6aPpGpsAmOAkyCBnA4DGQ8YlYsNZIBATAIgAcIgAMAKyMQRCRNtKyBKCVmsqg0ADuOpxoAghKVDwOcFEEmLj4RKQzOHPwxiaQBqBspphUxMmgAFYIJAKRyTjQnEjQ0H8xGgTEYaSQxE4bgCoGSyD0+1iVCiAAo4BRFOiSJoAJSgADeoAokFgSAoxAWsAooAA1KAAEQAGgZtMp1IAvmCIVCgaBfLhYHIcAAvSBoqmYqnYvGE4mk8lsgzE7xbMXAAB6AB1FsBmSjOHiALwAPj5BloAFUvJAKGwqNAxTicQBuUCc8GQ6EUyAAD04BCoOBM4oxbOlBKJJLJFPRrPp9HpbpG+3gxOgHXghoZGE6CHpjFYAB9TXD9IjkQXQMW+Z4dELRZXq77-YGTCMWCi0DoiRDQFQ9AgAG6QPGjTKJYiwaAMgAShAICGZOYXCcYxmBCH2BgXmhRaYzo6AA</link>
-            <guid>https://www.staging-typescript.org/play?ts=4.3.0-pr-38305-46#code/PTAEBUFMGcBdQPYFd6wBaVABwJZcgDY4B2mC+ATgIawIUCEAUCKKwMIYDGA1oiqOkzg2AZgCc2CuQTQqBAFyg0sWFmjyQAcxzokAIwB0nBAFtgsTuOBYpWGXIC0WKhVg5HVLFiKcaOBMTMYOxcvMioGBAAnvgAypwUePAAJtQAZvAACgBKisqq6lo6aPpGpsAmOAkyCBnA4DGQ8YlYsNZIBATAIgAcIgAMAKyMQRCRNtKyBKCVmsqg0ADuOpxoAghKVDwOcFEEmLj4RKQzOHPwxiaQBqBspphUxMmgAFYIJAKRyTjQnEjQ0H8xGgTEYaSQxE4bgCoGSyD0+1iVCiAAo4BRFOiSJoAJSgADeoAokFgSAoxAWsAooAA1KAAEQAGgZtMp1IAvmCIVCgaBfLhYHIcAAvSBoqmYqnYvGE4mk8lsgzE7xbMXAAB6AB1FsBmSjOHiALwAPj5BloAFUvJAKGwqNAxTicQBuUCc8GQ6EUyAAD04BCoOBM4oxbOlBKJJLJFPRrPp9HpbpG+3gxOgHXghoZGE6CHpjFYAB9TXD9IjkQXQMW+Z4dELRZXq77-YGTCMWCi0DoiRDQFQ9AgAG6QPGjTKJYiwaAMgAShAICGZOYXCcYxmBCH2BgXmhRaYzo6AA</guid>
-            <pubDate>Sun, 04 Apr 2021 18:51:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[chainson - a database-backed Map with zero dependencies for Node.js]]></title>
-            <link>https://github.com/abcdan/chainson</link>
-            <guid>https://github.com/abcdan/chainson</guid>
-            <pubDate>Sun, 04 Apr 2021 15:02:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introducing React-native-styleman.js: A tiny(3KB gzipped), high performance responsive styling library for React Native.]]></title>
-            <link>https://github.com/anubhavgupta/react-native-styleman</link>
-            <guid>https://github.com/anubhavgupta/react-native-styleman</guid>
-            <pubDate>Sun, 04 Apr 2021 07:12:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I have made a calculator that can recognize handwritten characters. It uses TensorFlowJS for inference on the browser.]]></title>
-            <link>https://sagyamthapa.me/Handwritten-Optical-Character-Recognition/</link>
-            <guid>https://sagyamthapa.me/Handwritten-Optical-Character-Recognition/</guid>
-            <pubDate>Sun, 04 Apr 2021 11:44:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A library for going general PRC between threads and processes using high-level classes]]></title>
-            <link>https://github.com/zlepper/worker-rpc</link>
-            <guid>https://github.com/zlepper/worker-rpc</guid>
-            <pubDate>Sun, 04 Apr 2021 13:48:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A lightweight CLI framework I made]]></title>
-            <link>https://github.com/thecodeah/quicli</link>
-            <guid>https://github.com/thecodeah/quicli</guid>
-            <pubDate>Sun, 04 Apr 2021 09:35:11 GMT</pubDate>
         </item>
     </channel>
 </rss>

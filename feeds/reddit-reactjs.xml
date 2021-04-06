@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Mon, 05 Apr 2021 19:47:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Apr 2021 07:49:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,10 +21,34 @@
             <pubDate>Thu, 01 Apr 2021 06:19:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Advanced React pattern - Compound Component]]></title>
+            <link>https://iskenxan.medium.com/compound-component-advanced-pattern-react-libraries-love-fea7a730bb73?source=friends_link&amp;sk=4c50fcfdf84b34a4deb22c4e581d16cd</link>
+            <guid>https://iskenxan.medium.com/compound-component-advanced-pattern-react-libraries-love-fea7a730bb73?source=friends_link&amp;sk=4c50fcfdf84b34a4deb22c4e581d16cd</guid>
+            <pubDate>Tue, 06 Apr 2021 07:11:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React 17 removes event pooling in the modern browsers]]></title>
+            <link>https://blog.saeloun.com/2021/04/06/react-17-removes-event-pooling-in-modern-system</link>
+            <guid>https://blog.saeloun.com/2021/04/06/react-17-removes-event-pooling-in-modern-system</guid>
+            <pubDate>Tue, 06 Apr 2021 06:23:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Rebuilding a Jekyll Website with Next.js and Theme UI]]></title>
             <link>https://ghostinspector.com/blog/rebuilding-jekyll-website-next-js-theme-ui/</link>
             <guid>https://ghostinspector.com/blog/rebuilding-jekyll-website-next-js-theme-ui/</guid>
             <pubDate>Mon, 05 Apr 2021 18:46:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quiz-App]]></title>
+            <link>https://wizardly-raman-cc21ff.netlify.app/</link>
+            <guid>https://wizardly-raman-cc21ff.netlify.app/</guid>
+            <pubDate>Tue, 06 Apr 2021 05:46:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I built a full stack serverless e-commerce site with Next.js. Here's an honest review of what I learned and how it might help you]]></title>
+            <link>https://blog.kieranroberts.dev/i-built-a-full-stack-serverless-e-commerce-site-with-nextjs-heres-an-honest-review-of-what-i-learned-and-how-it-might-help-you</link>
+            <guid>https://blog.kieranroberts.dev/i-built-a-full-stack-serverless-e-commerce-site-with-nextjs-heres-an-honest-review-of-what-i-learned-and-how-it-might-help-you</guid>
+            <pubDate>Mon, 05 Apr 2021 20:33:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Created a styled-component like library for using tailwindCSS (or other class frameworks) in a meaningful and cleaner way than inlining classes in the DOM.]]></title>
@@ -45,46 +69,28 @@
             <pubDate>Mon, 05 Apr 2021 16:06:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React Docker image working on local machine but when I move it to server gives Hooks error]]></title>
-            <link>https://stackoverflow.com/questions/66950411/react-docker-image-working-on-local-machine-but-when-i-move-it-to-server-gives-h</link>
-            <guid>https://stackoverflow.com/questions/66950411/react-docker-image-working-on-local-machine-but-when-i-move-it-to-server-gives-h</guid>
-            <pubDate>Mon, 05 Apr 2021 08:59:16 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[json-msg-react]]></title>
             <link>https://www.npmjs.com/package/json-msg-react</link>
             <guid>https://www.npmjs.com/package/json-msg-react</guid>
             <pubDate>Mon, 05 Apr 2021 16:13:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I Built BitBuzz with ReactJS: Gilfoyle's Bitcoin Sound App | Silicon Valley Show!]]></title>
-            <link>https://bitbuzz.netlify.app/</link>
-            <guid>https://bitbuzz.netlify.app/</guid>
-            <pubDate>Mon, 05 Apr 2021 19:14:00 GMT</pubDate>
+            <title><![CDATA[Would anyone be interested in TailwindUI for styled components?]]></title>
+            <link>https://tailwindui.com/components</link>
+            <guid>https://tailwindui.com/components</guid>
+            <pubDate>Mon, 05 Apr 2021 21:13:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How To Streamline And Improve Your Process? 6 Steps To Follow]]></title>
-            <link>http://tostreamline.space/</link>
-            <guid>http://tostreamline.space/</guid>
-            <pubDate>Mon, 05 Apr 2021 19:09:58 GMT</pubDate>
+            <title><![CDATA[Column Input MaxLength]]></title>
+            <link>https://prnt.sc/11541j2</link>
+            <guid>https://prnt.sc/11541j2</guid>
+            <pubDate>Mon, 05 Apr 2021 20:58:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[useNft() 0.5: improved API, new fetcher and more]]></title>
-            <link>https://github.com/spectrexyz/use-nft/releases/tag/v0.5.0</link>
-            <guid>https://github.com/spectrexyz/use-nft/releases/tag/v0.5.0</guid>
-            <pubDate>Mon, 05 Apr 2021 18:12:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ways to debug "Too many re-renders"?]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Mon, 05 Apr 2021 09:32:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to refactor my repetitive code and to create a shareable code]]></title>
-            <link>https://github.com/VncntDzn/e-commerce/tree/dev</link>
-            <guid>https://github.com/VncntDzn/e-commerce/tree/dev</guid>
-            <pubDate>Mon, 05 Apr 2021 11:59:15 GMT</pubDate>
+            <title><![CDATA[Anyone know the type of graph this is? Looking for something easier to render than echarts.]]></title>
+            <link>https://echarts.apache.org/v4/examples/en/editor.html?c=pictorialBar-forest</link>
+            <guid>https://echarts.apache.org/v4/examples/en/editor.html?c=pictorialBar-forest</guid>
+            <pubDate>Mon, 05 Apr 2021 20:28:57 GMT</pubDate>
         </item>
     </channel>
 </rss>

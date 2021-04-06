@@ -4,7 +4,7 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Mon, 05 Apr 2021 19:47:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Apr 2021 07:49:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,22 +15,16 @@
             <pubDate>Mon, 05 Apr 2021 18:40:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[PM2 Webui - Minimalistic App Manager and Logs Viewer]]></title>
-            <link>https://github.com/suryamodulus/pm2-webui</link>
-            <guid>https://github.com/suryamodulus/pm2-webui</guid>
-            <pubDate>Mon, 05 Apr 2021 08:21:28 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[How To Streamline And Improve Your Process? 6 Steps To Follow]]></title>
             <link>http://tostreamline.space/</link>
             <guid>http://tostreamline.space/</guid>
             <pubDate>Mon, 05 Apr 2021 19:05:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I created a pretty helpful and good looking log format that aims to improve development UX 🎉]]></title>
-            <link>https://github.com/epegzz/winston-dev-console</link>
-            <guid>https://github.com/epegzz/winston-dev-console</guid>
-            <pubDate>Sun, 04 Apr 2021 19:48:29 GMT</pubDate>
+            <title><![CDATA[PM2 Webui - Minimalistic App Manager and Logs Viewer]]></title>
+            <link>https://github.com/suryamodulus/pm2-webui</link>
+            <guid>https://github.com/suryamodulus/pm2-webui</guid>
+            <pubDate>Mon, 05 Apr 2021 08:21:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to host for free your NodeJS app]]></title>
@@ -39,16 +33,22 @@
             <pubDate>Mon, 05 Apr 2021 10:50:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Top-level await is available in Node.js ES modules]]></title>
-            <link>https://www.stefanjudis.com/today-i-learned/top-level-await-is-available-in-node-js-modules/</link>
-            <guid>https://www.stefanjudis.com/today-i-learned/top-level-await-is-available-in-node-js-modules/</guid>
-            <pubDate>Mon, 05 Apr 2021 12:13:51 GMT</pubDate>
+            <title><![CDATA[I created a pretty helpful and good looking log format that aims to improve development UX 🎉]]></title>
+            <link>https://github.com/epegzz/winston-dev-console</link>
+            <guid>https://github.com/epegzz/winston-dev-console</guid>
+            <pubDate>Sun, 04 Apr 2021 19:48:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How could I convert this component to be server-side rendered?]]></title>
             <link>https://foo.com/</link>
             <guid>https://foo.com/</guid>
             <pubDate>Mon, 05 Apr 2021 13:53:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Top-level await is available in Node.js ES modules]]></title>
+            <link>https://www.stefanjudis.com/today-i-learned/top-level-await-is-available-in-node-js-modules/</link>
+            <guid>https://www.stefanjudis.com/today-i-learned/top-level-await-is-available-in-node-js-modules/</guid>
+            <pubDate>Mon, 05 Apr 2021 12:13:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Getting Started with MongoDB and NestJS]]></title>
@@ -63,22 +63,16 @@
             <pubDate>Mon, 05 Apr 2021 14:19:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[I did something bad...]]></title>
+            <link>https://replit.com/</link>
+            <guid>https://replit.com/</guid>
+            <pubDate>Mon, 05 Apr 2021 21:56:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[third-auth-ms - A micro-service for 3rd party authentication]]></title>
             <link>https://github.com/mbarzeev/third-auth-ms</link>
             <guid>https://github.com/mbarzeev/third-auth-ms</guid>
             <pubDate>Mon, 05 Apr 2021 12:31:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[API with NestJS #33. Managing PostgreSQL relationships with Prisma]]></title>
-            <link>https://wanago.io/2021/04/05/api-nestjs-33-postgresql-relationships-prisma/</link>
-            <guid>https://wanago.io/2021/04/05/api-nestjs-33-postgresql-relationships-prisma/</guid>
-            <pubDate>Mon, 05 Apr 2021 10:58:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Need help with updating nested array with dynamic field name within an object with dynamic field name using MongoDB native driver in Nodejs?]]></title>
-            <link>https://medium.com/@ariklevliber/querying-firebase-through-mongo-412a824ca4dd#.bp4vz7rkx</link>
-            <guid>https://medium.com/@ariklevliber/querying-firebase-through-mongo-412a824ca4dd#.bp4vz7rkx</guid>
-            <pubDate>Mon, 05 Apr 2021 05:49:28 GMT</pubDate>
         </item>
     </channel>
 </rss>

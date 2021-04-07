@@ -4,10 +4,22 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Wed, 07 Apr 2021 07:48:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Apr 2021 19:46:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Flexbox in favicon]]></title>
+            <link>https://jsbin.com/pimefen/edit?html,output</link>
+            <guid>https://jsbin.com/pimefen/edit?html,output</guid>
+            <pubDate>Wed, 07 Apr 2021 12:29:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[1 Minute To Become A Better Developer (#14)]]></title>
+            <link>https://medium.com/jportella93/1-minute-to-become-a-better-developer-14-a2ff85046b8c?source=friends_link&amp;sk=7daa55a419ddf5c659fe8c0eae906230</link>
+            <guid>https://medium.com/jportella93/1-minute-to-become-a-better-developer-14-a2ff85046b8c?source=friends_link&amp;sk=7daa55a419ddf5c659fe8c0eae906230</guid>
+            <pubDate>Wed, 07 Apr 2021 08:30:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Every CSS Background Property Illustrated and Explained with Code Examples 🎖️]]></title>
             <link>https://www.freecodecamp.org/news/learn-css-background-properties/</link>
@@ -15,16 +27,16 @@
             <pubDate>Tue, 06 Apr 2021 12:47:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Guide (and example code) to producing beautiful PDFs from CSS and JS]]></title>
-            <link>https://pdf.math.dev/</link>
-            <guid>https://pdf.math.dev/</guid>
-            <pubDate>Tue, 06 Apr 2021 18:16:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Understanding cubic bezier values?]]></title>
             <link>https://cubic-bezier.com/</link>
             <guid>https://cubic-bezier.com/</guid>
             <pubDate>Tue, 06 Apr 2021 21:21:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Guide (and example code) to producing beautiful PDFs from CSS and JS]]></title>
+            <link>https://pdf.math.dev/</link>
+            <guid>https://pdf.math.dev/</guid>
+            <pubDate>Tue, 06 Apr 2021 18:16:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[An accessible toggle]]></title>
@@ -61,36 +73,6 @@
             <link>https://coyote-coconut-z39a.squarespace.com/about</link>
             <guid>https://coyote-coconut-z39a.squarespace.com/about</guid>
             <pubDate>Mon, 05 Apr 2021 21:12:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Animation can make wave 👋 much more than emoji!]]></title>
-            <link>https://blog.shhdharmen.me/animation-can-make-wave-much-more-than-emoji</link>
-            <guid>https://blog.shhdharmen.me/animation-can-make-wave-much-more-than-emoji</guid>
-            <pubDate>Sun, 04 Apr 2021 09:52:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Need Help With A Code Snippet]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Sun, 04 Apr 2021 22:31:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pseudo class tutorial for ':scope'?]]></title>
-            <link>https://caniuse.com/?search=%3Ascope</link>
-            <guid>https://caniuse.com/?search=%3Ascope</guid>
-            <pubDate>Sun, 04 Apr 2021 13:25:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10 New CSS Features You Might Not Know About (2021 Edition)]]></title>
-            <link>https://torquemag.io/2021/03/new-css-features/</link>
-            <guid>https://torquemag.io/2021/03/new-css-features/</guid>
-            <pubDate>Sun, 04 Apr 2021 12:34:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting Deep into Shadows]]></title>
-            <link>https://css-tricks.com/getting-deep-into-shadows/</link>
-            <guid>https://css-tricks.com/getting-deep-into-shadows/</guid>
-            <pubDate>Sat, 03 Apr 2021 15:22:39 GMT</pubDate>
         </item>
     </channel>
 </rss>

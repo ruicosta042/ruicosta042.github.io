@@ -4,15 +4,51 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Wed, 07 Apr 2021 07:48:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Apr 2021 19:46:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[easy way to reduce RAM consumption when using ts-node]]></title>
+            <link>https://www.aspecto.io/blog/how-to-reduce-ram-consumption-by-x6-when-using-ts-node/</link>
+            <guid>https://www.aspecto.io/blog/how-to-reduce-ram-consumption-by-x6-when-using-ts-node/</guid>
+            <pubDate>Wed, 07 Apr 2021 13:56:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Introducing Kaboom - Kaboom is an effort to try make game making more accessible and fun for both beginners and intermediate programmers]]></title>
             <link>https://blog.replit.com/kaboom</link>
             <guid>https://blog.replit.com/kaboom</guid>
             <pubDate>Tue, 06 Apr 2021 21:22:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Node.js development with Docker and Docker Compose]]></title>
+            <link>https://www.nodejsdesignpatterns.com/blog/node-js-development-with-docker-and-docker-compose/</link>
+            <guid>https://www.nodejsdesignpatterns.com/blog/node-js-development-with-docker-and-docker-compose/</guid>
+            <pubDate>Wed, 07 Apr 2021 17:09:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Understanding how Babel Works]]></title>
+            <link>https://medium.com/aia-sg-techblog/understanding-how-babel-works-d6ca363bce1e</link>
+            <guid>https://medium.com/aia-sg-techblog/understanding-how-babel-works-d6ca363bce1e</guid>
+            <pubDate>Wed, 07 Apr 2021 13:12:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bundler Wars]]></title>
+            <link>https://acco.io/bundler-wars</link>
+            <guid>https://acco.io/bundler-wars</guid>
+            <pubDate>Wed, 07 Apr 2021 06:09:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Authentication with Supabase and React]]></title>
+            <link>https://hyperfoo.io/posts/supabase-authentication-react</link>
+            <guid>https://hyperfoo.io/posts/supabase-authentication-react</guid>
+            <pubDate>Wed, 07 Apr 2021 17:34:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Skruv - no-dependency, no-build, small JS framework]]></title>
+            <link>https://skruv.io/</link>
+            <guid>https://skruv.io/</guid>
+            <pubDate>Wed, 07 Apr 2021 12:11:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[CROPRO - JavaScript library for image cropping, rotation, flipping, and straightening.]]></title>
@@ -27,40 +63,22 @@
             <pubDate>Tue, 06 Apr 2021 15:45:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Introducing view models for the neo.mjs Javascript UI framework]]></title>
+            <link>https://tobiasuhlig.medium.com/introducing-view-models-for-the-neo-mjs-javascript-ui-framework-f0989154a00f?source=friends_link&amp;sk=ae9ac6dfb8c7342091b24ca3ede86d78</link>
+            <guid>https://tobiasuhlig.medium.com/introducing-view-models-for-the-neo-mjs-javascript-ui-framework-f0989154a00f?source=friends_link&amp;sk=ae9ac6dfb8c7342091b24ca3ede86d78</guid>
+            <pubDate>Wed, 07 Apr 2021 05:34:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Handling authentication state in React Native | BigBinary Blog]]></title>
             <link>https://bigbinary.com/blog/handling-authentication-state-in-react-native</link>
             <guid>https://bigbinary.com/blog/handling-authentication-state-in-react-native</guid>
             <pubDate>Wed, 07 Apr 2021 05:04:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bundler Wars]]></title>
-            <link>https://acco.io/bundler-wars</link>
-            <guid>https://acco.io/bundler-wars</guid>
-            <pubDate>Wed, 07 Apr 2021 06:09:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I Think React Is Junk, Round Two]]></title>
-            <link>https://medium.com/codex/i-think-react-is-junk-round-two-5cb80c5d82b3</link>
-            <guid>https://medium.com/codex/i-think-react-is-junk-round-two-5cb80c5d82b3</guid>
-            <pubDate>Wed, 07 Apr 2021 07:36:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why I Think React Is Junk]]></title>
-            <link>https://medium.com/codex/part-of-why-i-think-react-is-junk-e4db95e15ef4</link>
-            <guid>https://medium.com/codex/part-of-why-i-think-react-is-junk-e4db95e15ef4</guid>
-            <pubDate>Wed, 07 Apr 2021 07:36:17 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[5 Places SolidJS is not the Best]]></title>
             <link>https://dev.to/ryansolid/5-places-solidjs-is-not-the-best-5019</link>
             <guid>https://dev.to/ryansolid/5-places-solidjs-is-not-the-best-5019</guid>
             <pubDate>Tue, 06 Apr 2021 16:26:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introducing view models for the neo.mjs Javascript UI framework]]></title>
-            <link>https://tobiasuhlig.medium.com/introducing-view-models-for-the-neo-mjs-javascript-ui-framework-f0989154a00f?source=friends_link&amp;sk=ae9ac6dfb8c7342091b24ca3ede86d78</link>
-            <guid>https://tobiasuhlig.medium.com/introducing-view-models-for-the-neo-mjs-javascript-ui-framework-f0989154a00f?source=friends_link&amp;sk=ae9ac6dfb8c7342091b24ca3ede86d78</guid>
-            <pubDate>Wed, 07 Apr 2021 05:34:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Minecraft Client in browser!]]></title>
@@ -93,22 +111,22 @@
             <pubDate>Wed, 07 Apr 2021 00:14:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to develop/design an API that developers want to use - Python/Data Science Tutorials and Projects]]></title>
-            <link>https://www.realpythonproject.com/how-to-develop-design-an-api-that-developers-want-to-use/</link>
-            <guid>https://www.realpythonproject.com/how-to-develop-design-an-api-that-developers-want-to-use/</guid>
-            <pubDate>Tue, 06 Apr 2021 17:26:36 GMT</pubDate>
+            <title><![CDATA[I Think React Is Junk, Round Two]]></title>
+            <link>https://medium.com/codex/i-think-react-is-junk-round-two-5cb80c5d82b3</link>
+            <guid>https://medium.com/codex/i-think-react-is-junk-round-two-5cb80c5d82b3</guid>
+            <pubDate>Wed, 07 Apr 2021 07:36:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why I Think React Is Junk]]></title>
+            <link>https://medium.com/codex/part-of-why-i-think-react-is-junk-e4db95e15ef4</link>
+            <guid>https://medium.com/codex/part-of-why-i-think-react-is-junk-e4db95e15ef4</guid>
+            <pubDate>Wed, 07 Apr 2021 07:36:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wrote a tool for generating barrel files with watching and custom template support]]></title>
             <link>https://www.npmjs.com/package/barro</link>
             <guid>https://www.npmjs.com/package/barro</guid>
             <pubDate>Tue, 06 Apr 2021 17:14:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10 One-Liner Utility methods in TypeScript/JavaScript]]></title>
-            <link>https://blog.decipher.dev/10-one-liner-utility-methods-in-typescript-javascript</link>
-            <guid>https://blog.decipher.dev/10-one-liner-utility-methods-in-typescript-javascript</guid>
-            <pubDate>Tue, 06 Apr 2021 16:55:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Abort HTTP requests using fetch, React and Redux-Saga]]></title>
@@ -129,34 +147,16 @@
             <pubDate>Tue, 06 Apr 2021 00:01:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[10 One-Liner Utility methods in TypeScript/JavaScript]]></title>
+            <link>https://blog.decipher.dev/10-one-liner-utility-methods-in-typescript-javascript</link>
+            <guid>https://blog.decipher.dev/10-one-liner-utility-methods-in-typescript-javascript</guid>
+            <pubDate>Tue, 06 Apr 2021 16:55:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Symbology.js - generate 50+ types of 1D or 2D Barcode in png, svg, or eps formats]]></title>
             <link>https://github.com/jshor/symbology</link>
             <guid>https://github.com/jshor/symbology</guid>
             <pubDate>Mon, 05 Apr 2021 15:22:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Replacing let with const – Even when it feels impossible]]></title>
-            <link>https://charles-stover.medium.com/replacing-let-with-const-86797b790775</link>
-            <guid>https://charles-stover.medium.com/replacing-let-with-const-86797b790775</guid>
-            <pubDate>Mon, 05 Apr 2021 03:40:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Let's build the best REST API mocker tool together]]></title>
-            <link>https://dev.to/johannchopin/let-s-build-the-best-rest-api-mocker-tool-together-i8d</link>
-            <guid>https://dev.to/johannchopin/let-s-build-the-best-rest-api-mocker-tool-together-i8d</guid>
-            <pubDate>Mon, 05 Apr 2021 16:13:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lookie – Cookie-Like LocalStorage]]></title>
-            <link>https://github.com/aykutkardas/lookie</link>
-            <guid>https://github.com/aykutkardas/lookie</guid>
-            <pubDate>Tue, 06 Apr 2021 06:28:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[So far, perhaps the best similar Single File Components solution for React JSX.]]></title>
-            <link>https://github.com/joe-sky/jsx-sfc</link>
-            <guid>https://github.com/joe-sky/jsx-sfc</guid>
-            <pubDate>Tue, 06 Apr 2021 09:56:05 GMT</pubDate>
         </item>
     </channel>
 </rss>

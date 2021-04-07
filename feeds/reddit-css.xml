@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Tue, 06 Apr 2021 19:47:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Apr 2021 07:48:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,10 +21,10 @@
             <pubDate>Tue, 06 Apr 2021 18:16:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Complete HTML5 Course: From Beginning to Expert]]></title>
-            <link>https://www.myfreeonlinecourses.com/2021/02/100-off-complete-html5-course-from.html</link>
-            <guid>https://www.myfreeonlinecourses.com/2021/02/100-off-complete-html5-course-from.html</guid>
-            <pubDate>Tue, 06 Apr 2021 17:30:55 GMT</pubDate>
+            <title><![CDATA[Understanding cubic bezier values?]]></title>
+            <link>https://cubic-bezier.com/</link>
+            <guid>https://cubic-bezier.com/</guid>
+            <pubDate>Tue, 06 Apr 2021 21:21:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[An accessible toggle]]></title>
@@ -91,12 +91,6 @@
             <link>https://css-tricks.com/getting-deep-into-shadows/</link>
             <guid>https://css-tricks.com/getting-deep-into-shadows/</guid>
             <pubDate>Sat, 03 Apr 2021 15:22:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A CSS-only proof-of-concept memory game that works in email]]></title>
-            <link>https://edmdesigner.github.io/memory-game-in-email-poc/</link>
-            <guid>https://edmdesigner.github.io/memory-game-in-email-poc/</guid>
-            <pubDate>Sat, 03 Apr 2021 15:24:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

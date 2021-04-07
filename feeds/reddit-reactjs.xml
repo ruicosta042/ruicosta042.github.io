@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Tue, 06 Apr 2021 19:47:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Apr 2021 07:48:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,46 +21,28 @@
             <pubDate>Thu, 01 Apr 2021 06:19:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Announcing react-pdf v2.0]]></title>
+            <link>https://react-pdf.org/blog/announcing-react-pdf-v2</link>
+            <guid>https://react-pdf.org/blog/announcing-react-pdf-v2</guid>
+            <pubDate>Wed, 07 Apr 2021 00:07:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tackle - A small set of React components I created for practice (built with React, Tailwind, PostCSS, Storybook)]]></title>
+            <link>https://tackle.netlify.app/</link>
+            <guid>https://tackle.netlify.app/</guid>
+            <pubDate>Tue, 06 Apr 2021 21:15:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React Bare Forms]]></title>
+            <link>https://github.com/joegasewicz/react-bare-forms</link>
+            <guid>https://github.com/joegasewicz/react-bare-forms</guid>
+            <pubDate>Tue, 06 Apr 2021 22:40:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[React beginner: I have made a basic weather app in React that works, but upon fetching new data, I get a CORS policy error. I did some researching online but none of those suggestions have fixed the issue. Can you please let me know how to modify my fetch request to fix this? CodePen included]]></title>
             <link>https://www.weatherapi.com/</link>
             <guid>https://www.weatherapi.com/</guid>
             <pubDate>Tue, 06 Apr 2021 19:37:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Advanced React pattern - Compound Component]]></title>
-            <link>https://iskenxan.medium.com/compound-component-advanced-pattern-react-libraries-love-fea7a730bb73?source=friends_link&amp;sk=4c50fcfdf84b34a4deb22c4e581d16cd</link>
-            <guid>https://iskenxan.medium.com/compound-component-advanced-pattern-react-libraries-love-fea7a730bb73?source=friends_link&amp;sk=4c50fcfdf84b34a4deb22c4e581d16cd</guid>
-            <pubDate>Tue, 06 Apr 2021 07:11:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Forms in React Native, The right way (updated)]]></title>
-            <link>https://elazizi.com/forms-in-react-native-the-right-way/</link>
-            <guid>https://elazizi.com/forms-in-react-native-the-right-way/</guid>
-            <pubDate>Tue, 06 Apr 2021 11:27:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This Wednesday at 1 PM: Live on Snowpack with Fred Schott]]></title>
-            <link>https://www.telerik.com/react-wednesdays</link>
-            <guid>https://www.telerik.com/react-wednesdays</guid>
-            <pubDate>Tue, 06 Apr 2021 13:11:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React Landing Page Theme built in TypeScript styled with Tailwind CSS [Open Source]]]></title>
-            <link>https://creativedesignsguru.com/demo/nextjs-landing-page/</link>
-            <guid>https://creativedesignsguru.com/demo/nextjs-landing-page/</guid>
-            <pubDate>Tue, 06 Apr 2021 16:24:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React for Firefox Add-On Development]]></title>
-            <link>https://github.com/kryptokinght/react-extension-boilerplate</link>
-            <guid>https://github.com/kryptokinght/react-extension-boilerplate</guid>
-            <pubDate>Tue, 06 Apr 2021 10:16:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The easiest way to internationalize your NextJS application! 🌎]]></title>
-            <link>https://blog.jskoneczny.pl/post/the-easiest-way-to-internationalize-your-nextjs-application</link>
-            <guid>https://blog.jskoneczny.pl/post/the-easiest-way-to-internationalize-your-nextjs-application</guid>
-            <pubDate>Tue, 06 Apr 2021 16:10:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Introduction to State Machines with XState and React]]></title>
@@ -75,16 +57,22 @@
             <pubDate>Tue, 06 Apr 2021 15:51:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React 17 removes event pooling in the modern browsers]]></title>
-            <link>https://blog.saeloun.com/2021/04/06/react-17-removes-event-pooling-in-modern-system</link>
-            <guid>https://blog.saeloun.com/2021/04/06/react-17-removes-event-pooling-in-modern-system</guid>
-            <pubDate>Tue, 06 Apr 2021 06:23:37 GMT</pubDate>
+            <title><![CDATA[React Landing Page Theme built in TypeScript styled with Tailwind CSS [Open Source]]]></title>
+            <link>https://creativedesignsguru.com/demo/nextjs-landing-page/</link>
+            <guid>https://creativedesignsguru.com/demo/nextjs-landing-page/</guid>
+            <pubDate>Tue, 06 Apr 2021 16:24:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Converting a Carousal with jQuery to React JS]]></title>
-            <link>https://gist.github.com/coderaman07/73d14d6cdb72dfa3e4bd8968562eef5a</link>
-            <guid>https://gist.github.com/coderaman07/73d14d6cdb72dfa3e4bd8968562eef5a</guid>
-            <pubDate>Tue, 06 Apr 2021 09:44:12 GMT</pubDate>
+            <title><![CDATA[Advanced React pattern - Compound Component]]></title>
+            <link>https://iskenxan.medium.com/compound-component-advanced-pattern-react-libraries-love-fea7a730bb73?source=friends_link&amp;sk=4c50fcfdf84b34a4deb22c4e581d16cd</link>
+            <guid>https://iskenxan.medium.com/compound-component-advanced-pattern-react-libraries-love-fea7a730bb73?source=friends_link&amp;sk=4c50fcfdf84b34a4deb22c4e581d16cd</guid>
+            <pubDate>Tue, 06 Apr 2021 07:11:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Forms in React Native, The right way (updated)]]></title>
+            <link>https://elazizi.com/forms-in-react-native-the-right-way/</link>
+            <guid>https://elazizi.com/forms-in-react-native-the-right-way/</guid>
+            <pubDate>Tue, 06 Apr 2021 11:27:50 GMT</pubDate>
         </item>
     </channel>
 </rss>

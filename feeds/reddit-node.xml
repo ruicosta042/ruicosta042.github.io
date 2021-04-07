@@ -4,15 +4,45 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Tue, 06 Apr 2021 19:47:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Apr 2021 07:48:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Node.js security releases announced - high severity vulnerabilities in all active versions]]></title>
+            <link>https://groups.google.com/g/nodejs-sec/c/TXKhlMr55UA/m/Sqak2IJnBAAJ</link>
+            <guid>https://groups.google.com/g/nodejs-sec/c/TXKhlMr55UA/m/Sqak2IJnBAAJ</guid>
+            <pubDate>Tue, 06 Apr 2021 20:04:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Node v15.14.0 (Current)]]></title>
+            <link>https://nodejs.org/en/blog/release/v15.14.0/</link>
+            <guid>https://nodejs.org/en/blog/release/v15.14.0/</guid>
+            <pubDate>Tue, 06 Apr 2021 21:02:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My first open source script]]></title>
+            <link>https://github.com/Gabriellcreiss/js-simple-cmd-calculator</link>
+            <guid>https://github.com/Gabriellcreiss/js-simple-cmd-calculator</guid>
+            <pubDate>Tue, 06 Apr 2021 19:05:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bundler Wars]]></title>
+            <link>https://acco.io/bundler-wars</link>
+            <guid>https://acco.io/bundler-wars</guid>
+            <pubDate>Tue, 06 Apr 2021 21:05:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[All The Ways You Can Loop Arrays in Javascript]]></title>
             <link>https://blog.shahednasser.com/all-the-ways-you-can-loop-arrays-in-javascript/</link>
             <guid>https://blog.shahednasser.com/all-the-ways-you-can-loop-arrays-in-javascript/</guid>
             <pubDate>Tue, 06 Apr 2021 11:31:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Git Reflog]]></title>
+            <link>https://levelup.gitconnected.com/time-traveling-in-git-meet-git-reflog-ff216419e564</link>
+            <guid>https://levelup.gitconnected.com/time-traveling-in-git-meet-git-reflog-ff216419e564</guid>
+            <pubDate>Tue, 06 Apr 2021 22:03:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Javascript interview questions set 3]]></title>
@@ -25,12 +55,6 @@
             <link>https://cloud.google.com/load-balancing/docs/tcp</link>
             <guid>https://cloud.google.com/load-balancing/docs/tcp</guid>
             <pubDate>Tue, 06 Apr 2021 11:34:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My first open source script]]></title>
-            <link>https://github.com/Gabriellcreiss/js-simple-cmd-calculator</link>
-            <guid>https://github.com/Gabriellcreiss/js-simple-cmd-calculator</guid>
-            <pubDate>Tue, 06 Apr 2021 19:05:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sending tuples from Node to Rust and back]]></title>
@@ -55,30 +79,6 @@
             <link>http://tostreamline.space/</link>
             <guid>http://tostreamline.space/</guid>
             <pubDate>Mon, 05 Apr 2021 19:05:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to host for free your NodeJS app]]></title>
-            <link>https://www.qovery.com/</link>
-            <guid>https://www.qovery.com/</guid>
-            <pubDate>Mon, 05 Apr 2021 10:50:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I created a pretty helpful and good looking log format that aims to improve development UX 🎉]]></title>
-            <link>https://github.com/epegzz/winston-dev-console</link>
-            <guid>https://github.com/epegzz/winston-dev-console</guid>
-            <pubDate>Sun, 04 Apr 2021 19:48:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How could I convert this component to be server-side rendered?]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Mon, 05 Apr 2021 13:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Top-level await is available in Node.js ES modules]]></title>
-            <link>https://www.stefanjudis.com/today-i-learned/top-level-await-is-available-in-node-js-modules/</link>
-            <guid>https://www.stefanjudis.com/today-i-learned/top-level-await-is-available-in-node-js-modules/</guid>
-            <pubDate>Mon, 05 Apr 2021 12:13:51 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,27 +4,33 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Wed, 07 Apr 2021 19:46:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Apr 2021 07:48:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[easy way to reduce RAM consumption when using ts-node]]></title>
-            <link>https://www.aspecto.io/blog/how-to-reduce-ram-consumption-by-x6-when-using-ts-node/</link>
-            <guid>https://www.aspecto.io/blog/how-to-reduce-ram-consumption-by-x6-when-using-ts-node/</guid>
-            <pubDate>Wed, 07 Apr 2021 13:56:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introducing Kaboom - Kaboom is an effort to try make game making more accessible and fun for both beginners and intermediate programmers]]></title>
-            <link>https://blog.replit.com/kaboom</link>
-            <guid>https://blog.replit.com/kaboom</guid>
-            <pubDate>Tue, 06 Apr 2021 21:22:18 GMT</pubDate>
+            <title><![CDATA[Introducing MathicallJS - A new javascript math library for simulations, data processing, browser games, etc.. It was originally created for a terrain generation project.]]></title>
+            <link>https://github.com/PatGleeson101/mathicall.js</link>
+            <guid>https://github.com/PatGleeson101/mathicall.js</guid>
+            <pubDate>Thu, 08 Apr 2021 04:50:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Node.js development with Docker and Docker Compose]]></title>
             <link>https://www.nodejsdesignpatterns.com/blog/node-js-development-with-docker-and-docker-compose/</link>
             <guid>https://www.nodejsdesignpatterns.com/blog/node-js-development-with-docker-and-docker-compose/</guid>
             <pubDate>Wed, 07 Apr 2021 17:09:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Moiva.io March update: new "Github Stars" chart, Catalog page, and more]]></title>
+            <link>https://moiva.io/blog/2021-04-update-github-stars-chart</link>
+            <guid>https://moiva.io/blog/2021-04-update-github-stars-chart</guid>
+            <pubDate>Thu, 08 Apr 2021 07:47:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing Kaboom - Kaboom is an effort to try make game making more accessible and fun for both beginners and intermediate programmers]]></title>
+            <link>https://blog.replit.com/kaboom</link>
+            <guid>https://blog.replit.com/kaboom</guid>
+            <pubDate>Tue, 06 Apr 2021 21:22:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Understanding how Babel Works]]></title>
@@ -145,12 +151,6 @@
             <link>https://dev.to/101arrowz/creating-a-modern-js-library-introduction-1a0c</link>
             <guid>https://dev.to/101arrowz/creating-a-modern-js-library-introduction-1a0c</guid>
             <pubDate>Tue, 06 Apr 2021 00:01:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10 One-Liner Utility methods in TypeScript/JavaScript]]></title>
-            <link>https://blog.decipher.dev/10-one-liner-utility-methods-in-typescript-javascript</link>
-            <guid>https://blog.decipher.dev/10-one-liner-utility-methods-in-typescript-javascript</guid>
-            <pubDate>Tue, 06 Apr 2021 16:55:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Symbology.js - generate 50+ types of 1D or 2D Barcode in png, svg, or eps formats]]></title>

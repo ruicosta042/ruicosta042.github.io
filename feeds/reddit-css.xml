@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Thu, 08 Apr 2021 07:48:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Apr 2021 12:56:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -67,12 +67,6 @@
             <link>https://gscode.devdojo.com/CSS-Border-Example</link>
             <guid>https://gscode.devdojo.com/CSS-Border-Example</guid>
             <pubDate>Mon, 05 Apr 2021 17:35:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Swipey image grids.]]></title>
-            <link>https://www.cassie.codes/posts/swipey-image-grids/</link>
-            <guid>https://www.cassie.codes/posts/swipey-image-grids/</guid>
-            <pubDate>Mon, 05 Apr 2021 13:48:57 GMT</pubDate>
         </item>
     </channel>
 </rss>

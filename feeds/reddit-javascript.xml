@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Thu, 08 Apr 2021 07:48:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Apr 2021 12:56:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,24 @@
             <link>https://github.com/PatGleeson101/mathicall.js</link>
             <guid>https://github.com/PatGleeson101/mathicall.js</guid>
             <pubDate>Thu, 08 Apr 2021 04:50:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to write better reusable code]]></title>
+            <link>https://godoffrontend.com/posts/terseness-vs-control/</link>
+            <guid>https://godoffrontend.com/posts/terseness-vs-control/</guid>
+            <pubDate>Thu, 08 Apr 2021 09:38:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Uppy file uploader v1.27]]></title>
+            <link>https://uppy.io/blog/2021/04/1.27/</link>
+            <guid>https://uppy.io/blog/2021/04/1.27/</guid>
+            <pubDate>Thu, 08 Apr 2021 10:45:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EfficientNet - image recognition model written in typescript and Nodejs]]></title>
+            <link>https://github.com/ntedgi/node-efficientnet</link>
+            <guid>https://github.com/ntedgi/node-efficientnet</guid>
+            <pubDate>Thu, 08 Apr 2021 09:08:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Node.js development with Docker and Docker Compose]]></title>
@@ -45,16 +63,16 @@
             <pubDate>Wed, 07 Apr 2021 06:09:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Authentication with Supabase and React]]></title>
-            <link>https://hyperfoo.io/posts/supabase-authentication-react</link>
-            <guid>https://hyperfoo.io/posts/supabase-authentication-react</guid>
-            <pubDate>Wed, 07 Apr 2021 17:34:19 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Skruv - no-dependency, no-build, small JS framework]]></title>
             <link>https://skruv.io/</link>
             <guid>https://skruv.io/</guid>
             <pubDate>Wed, 07 Apr 2021 12:11:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Authentication with Supabase and React]]></title>
+            <link>https://hyperfoo.io/posts/supabase-authentication-react</link>
+            <guid>https://hyperfoo.io/posts/supabase-authentication-react</guid>
+            <pubDate>Wed, 07 Apr 2021 17:34:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[CROPRO - JavaScript library for image cropping, rotation, flipping, and straightening.]]></title>
@@ -139,24 +157,6 @@
             <link>https://romandatsiuk.com/en/blog/post-cancel-requests-redux-saga/</link>
             <guid>https://romandatsiuk.com/en/blog/post-cancel-requests-redux-saga/</guid>
             <pubDate>Tue, 06 Apr 2021 15:22:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cancelable Async Flows (CAF) by Kyle Simpson]]></title>
-            <link>https://github.com/getify/CAF</link>
-            <guid>https://github.com/getify/CAF</guid>
-            <pubDate>Tue, 06 Apr 2021 04:47:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Creating a modern JavaScript library]]></title>
-            <link>https://dev.to/101arrowz/creating-a-modern-js-library-introduction-1a0c</link>
-            <guid>https://dev.to/101arrowz/creating-a-modern-js-library-introduction-1a0c</guid>
-            <pubDate>Tue, 06 Apr 2021 00:01:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Symbology.js - generate 50+ types of 1D or 2D Barcode in png, svg, or eps formats]]></title>
-            <link>https://github.com/jshor/symbology</link>
-            <guid>https://github.com/jshor/symbology</guid>
-            <pubDate>Mon, 05 Apr 2021 15:22:19 GMT</pubDate>
         </item>
     </channel>
 </rss>

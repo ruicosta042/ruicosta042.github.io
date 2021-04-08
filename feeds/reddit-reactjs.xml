@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Thu, 08 Apr 2021 07:48:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Apr 2021 12:56:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -19,6 +19,42 @@
             <link>https://jsfiddle.net/Luktwrdm/</link>
             <guid>https://jsfiddle.net/Luktwrdm/</guid>
             <pubDate>Thu, 01 Apr 2021 06:19:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[State Management Battle in React 2021: Hooks, Redux, and Recoil]]></title>
+            <link>https://javascript.works-hub.com/learn/state-management-battle-in-react-2021-hooks-redux-and-recoil-9977a</link>
+            <guid>https://javascript.works-hub.com/learn/state-management-battle-in-react-2021-hooks-redux-and-recoil-9977a</guid>
+            <pubDate>Thu, 08 Apr 2021 08:10:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[react app in python]]></title>
+            <link>https://github.com/DanShai/react_in_python</link>
+            <guid>https://github.com/DanShai/react_in_python</guid>
+            <pubDate>Thu, 08 Apr 2021 08:04:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How State Works in React – Explained with Code Examples]]></title>
+            <link>https://blog.yogeshchavan.dev/how-state-works-in-react-explained-with-code-examples</link>
+            <guid>https://blog.yogeshchavan.dev/how-state-works-in-react-explained-with-code-examples</guid>
+            <pubDate>Thu, 08 Apr 2021 09:21:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React form hook submitted values all undefined]]></title>
+            <link>https://gist.github.com/polydevuk/1f258806e0ec824711543787dbe72924</link>
+            <guid>https://gist.github.com/polydevuk/1f258806e0ec824711543787dbe72924</guid>
+            <pubDate>Thu, 08 Apr 2021 12:39:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to consume data in Next.js apps? by @MunchEsteban]]></title>
+            <link>https://link.medium.com/3kI25ZTVhfb</link>
+            <guid>https://link.medium.com/3kI25ZTVhfb</guid>
+            <pubDate>Thu, 08 Apr 2021 12:30:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Package import works properly in Vue but not on React]]></title>
+            <link>https://codesandbox.io/s/weathered-snowflake-irkyl</link>
+            <guid>https://codesandbox.io/s/weathered-snowflake-irkyl</guid>
+            <pubDate>Thu, 08 Apr 2021 08:00:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Learning React, how do I know if I render into the same DOM node?]]></title>
@@ -49,12 +85,6 @@
             <link>https://hyperfoo.io/posts/supabase-authentication-react</link>
             <guid>https://hyperfoo.io/posts/supabase-authentication-react</guid>
             <pubDate>Wed, 07 Apr 2021 17:34:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[4 things to do after Create-React-App]]></title>
-            <link>https://blog.blakewight.com/4-things-to-do-after-create-react-app</link>
-            <guid>https://blog.blakewight.com/4-things-to-do-after-create-react-app</guid>
-            <pubDate>Wed, 07 Apr 2021 17:09:51 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,15 +4,39 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Thu, 08 Apr 2021 12:56:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Apr 2021 19:47:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Node.js for E-Commerce (w/ Koa.js Tutorial & Demo)]]></title>
+            <link>https://snipcart.com/blog/node-js-ecommerce-koa-js-tutorial</link>
+            <guid>https://snipcart.com/blog/node-js-ecommerce-koa-js-tutorial</guid>
+            <pubDate>Thu, 08 Apr 2021 18:18:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[online store and ERP separated?]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Thu, 08 Apr 2021 15:36:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[WireMock Captain: making service mocks easier]]></title>
             <link>https://foo.com/</link>
             <guid>https://foo.com/</guid>
             <pubDate>Thu, 08 Apr 2021 06:36:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How do you import from "dist" directory of a Lerna package?]]></title>
+            <link>https://github.com/lerna/lerna</link>
+            <guid>https://github.com/lerna/lerna</guid>
+            <pubDate>Thu, 08 Apr 2021 18:39:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚀 Introducing the Auth0 Apollo Program]]></title>
+            <link>https://auth0.com/blog/introducing-the-auth0-apollo-program/?utm_source=reddit&amp;utm_medium=sc&amp;utm_campaign=auth0_program</link>
+            <guid>https://auth0.com/blog/introducing-the-auth0-apollo-program/?utm_source=reddit&amp;utm_medium=sc&amp;utm_campaign=auth0_program</guid>
+            <pubDate>Thu, 08 Apr 2021 19:44:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What it takes to convert HTML or PSD to Reactjs with Redux web application]]></title>
@@ -39,6 +63,12 @@
             <pubDate>Thu, 08 Apr 2021 06:37:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[🚀 Introducing the Auth0 Apollo Program]]></title>
+            <link>https://auth0.com/blog/introducing-the-auth0-apollo-program/?utm_source=reddit&amp;utm_medium=sc&amp;utm_campaign=auth0_program</link>
+            <guid>https://auth0.com/blog/introducing-the-auth0-apollo-program/?utm_source=reddit&amp;utm_medium=sc&amp;utm_campaign=auth0_program</guid>
+            <pubDate>Thu, 08 Apr 2021 14:56:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How is calling a callback method from the native thread where the event happened unsafe ?]]></title>
             <link>https://stackoverflow.com/questions/19822668/what-exactly-is-a-node-js-event-loop-tick</link>
             <guid>https://stackoverflow.com/questions/19822668/what-exactly-is-a-node-js-event-loop-tick</guid>
@@ -49,12 +79,6 @@
             <link>https://grafana.com/oss/prometheus/exporters/nodejs-exporter/</link>
             <guid>https://grafana.com/oss/prometheus/exporters/nodejs-exporter/</guid>
             <pubDate>Wed, 07 Apr 2021 19:09:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Node.js security releases announced - high severity vulnerabilities in all active versions]]></title>
-            <link>https://groups.google.com/g/nodejs-sec/c/TXKhlMr55UA/m/Sqak2IJnBAAJ</link>
-            <guid>https://groups.google.com/g/nodejs-sec/c/TXKhlMr55UA/m/Sqak2IJnBAAJ</guid>
-            <pubDate>Tue, 06 Apr 2021 20:04:08 GMT</pubDate>
         </item>
     </channel>
 </rss>

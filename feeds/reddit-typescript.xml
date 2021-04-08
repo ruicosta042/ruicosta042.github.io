@@ -4,10 +4,28 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Thu, 08 Apr 2021 12:56:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Apr 2021 19:47:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Migrating DevTools to TypeScript - Chrome Developers]]></title>
+            <link>https://developer.chrome.com/blog/migrating-to-typescript/</link>
+            <guid>https://developer.chrome.com/blog/migrating-to-typescript/</guid>
+            <pubDate>Thu, 08 Apr 2021 17:38:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Differences between type alias and interface. Is there anywhere a comprehensive explanation somewhere for me to read?]]></title>
+            <link>https://www.typescriptlang.org/play?#code/PTAEGcFMCcEsEMA2sBe8BGjKgG5IK7YAmkAZrAHawAusA9hQFCPUCeADtlHEqhlgDUC2ALwQYCZGkyQACnAC2NWDmwAfcTyn9IAJTIxIFAMaQA3MzadNkvjPmwltVaDHhqcCgHNQGivgV0GF9QdDo6LHgKEP9ERAsWDi4JXmksfVJDE1FGUDyQgG9c-JK8gG0ADwAuCA9KLwBdGu5bNMghREILUtAAX2K8jRbUnQ7CMoaEkBsRmVxhUFJ4WE7obFI6aFBKahgl02YdvfhTbYpd6H3IAFk6YwBrUCK8+FAa-0CYRn7GYwZ3M4XK63B5vQHHUwgx5iZ6gV41ACM32YfwoAN27gAkucIdhmiltDIxqJwZcTjc7vcpmAaKAAO6be7gUDUAAWdHwXlZi02LKScOQ8HAln5VgpoJhxXhoA+QWgyN+-2ofM4ULBYrVkpeYKRP1R6Mg7gAKvyahrKa4VeKqYwgA</link>
+            <guid>https://www.typescriptlang.org/play?#code/PTAEGcFMCcEsEMA2sBe8BGjKgG5IK7YAmkAZrAHawAusA9hQFCPUCeADtlHEqhlgDUC2ALwQYCZGkyQACnAC2NWDmwAfcTyn9IAJTIxIFAMaQA3MzadNkvjPmwltVaDHhqcCgHNQGivgV0GF9QdDo6LHgKEP9ERAsWDi4JXmksfVJDE1FGUDyQgG9c-JK8gG0ADwAuCA9KLwBdGu5bNMghREILUtAAX2K8jRbUnQ7CMoaEkBsRmVxhUFJ4WE7obFI6aFBKahgl02YdvfhTbYpd6H3IAFk6YwBrUCK8+FAa-0CYRn7GYwZ3M4XK63B5vQHHUwgx5iZ6gV41ACM32YfwoAN27gAkucIdhmiltDIxqJwZcTjc7vcpmAaKAAO6be7gUDUAAWdHwXlZi02LKScOQ8HAln5VgpoJhxXhoA+QWgyN+-2ofM4ULBYrVkpeYKRP1R6Mg7gAKvyahrKa4VeKqYwgA</guid>
+            <pubDate>Thu, 08 Apr 2021 17:29:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ways to enforce encapsulation (VSC Extensions, Tools, Practices)]]></title>
+            <link>https://firebase.google.com/docs/functions/handle-dependencies#including_local_nodejs_modules</link>
+            <guid>https://firebase.google.com/docs/functions/handle-dependencies#including_local_nodejs_modules</guid>
+            <pubDate>Thu, 08 Apr 2021 07:37:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to map an array of "wrapped" types to another array?]]></title>
             <link>https://www.typescriptlang.org/play?#code/C4TwDgpgBA6gTgQzJOBJAdmArsAPAFSgF4oF0QA+YqAbygG0BpKAS3SgGsIQB7AMyj4AugC5S5KAF8AsAChQkWImQQ4AeRzY8hEmUrU6TVuy68BwsXqly5fLOgDGwFj3YB3Zfh4YtBCgAoAEwRgBDF8AEoxeCQUHxw-WjkoFKg4CGAsOHZg0LkZWTkAeiLioqg1DjKbWTtHZ1coAFskAGU2AHMAGwg-IJCwpVjVeO0KKKGVdU0E-CoaZNT0zOyoXIR8mpLJuMwcADpDuQdXAGdgKB44Fg62BC7qDyQvUf86Ph4eMQByACMEODfKQRMpQQ77ZrDQJQYA8HaqDTALTHM4XFoqaEkdHtdDdCD+K43O5dEGFWQndCnHg9fYIU6nVTAfzoyCBfYfOFELlQP4A76k6qybYAOR4F0qgts9icLnY6IAslgus4wD0CFAIAAPYAQdCBU5QABKEAQgVcXRAAEE4IgQLg9BQAuD1mJDMw2JxuPxBKJ4Wg9tomEIqJIJm7jJ6zD7osoUIjfPggyGkrJUmkMlkcgN9uiCcQqNjOj0CRFSQVQTEpqNwSjKRcEI9PN4A28oByfv9AcDa+coL9G89m1pW+gsE0xAAGbtC8rgyEYmFwytxmbAHsXegsiCBS0AGnnrIAQkJqAqlSriwh978BeSztSILT6YzmVDLezPsRubzAaSKVSaTpBk4CZLdAkPfZRyaL8SAnUkgA</link>
@@ -61,12 +79,6 @@
             <link>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-551</link>
             <guid>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-551</guid>
             <pubDate>Fri, 02 Apr 2021 17:53:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Announcing TypeScript 4.3 Beta]]></title>
-            <link>https://devblogs.microsoft.com/typescript/announcing-typescript-4-3-beta/</link>
-            <guid>https://devblogs.microsoft.com/typescript/announcing-typescript-4-3-beta/</guid>
-            <pubDate>Thu, 01 Apr 2021 20:23:12 GMT</pubDate>
         </item>
     </channel>
 </rss>

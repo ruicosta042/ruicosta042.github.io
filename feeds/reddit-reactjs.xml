@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Thu, 08 Apr 2021 12:56:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Apr 2021 19:47:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -27,10 +27,34 @@
             <pubDate>Thu, 08 Apr 2021 08:10:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[react app in python]]></title>
-            <link>https://github.com/DanShai/react_in_python</link>
-            <guid>https://github.com/DanShai/react_in_python</guid>
-            <pubDate>Thu, 08 Apr 2021 08:04:57 GMT</pubDate>
+            <title><![CDATA[How to host Nextjs sites on AWS Amplify]]></title>
+            <link>https://bobbyhadz.com/blog/hosting-nextjs-amplify</link>
+            <guid>https://bobbyhadz.com/blog/hosting-nextjs-amplify</guid>
+            <pubDate>Thu, 08 Apr 2021 16:48:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Singlehandedly built a multiplayer video editor in React.js]]></title>
+            <link>https://roomservice.dev/</link>
+            <guid>https://roomservice.dev/</guid>
+            <pubDate>Thu, 08 Apr 2021 17:31:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to actually test UIs]]></title>
+            <link>https://storybook.js.org/blog/how-to-actually-test-uis/</link>
+            <guid>https://storybook.js.org/blog/how-to-actually-test-uis/</guid>
+            <pubDate>Thu, 08 Apr 2021 16:22:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Typescript with React quick start - free course from udemy limited time]]></title>
+            <link>https://www.myfreeonlinecourses.com/2021/04/100-off-typescript-with-react-quick.html</link>
+            <guid>https://www.myfreeonlinecourses.com/2021/04/100-off-typescript-with-react-quick.html</guid>
+            <pubDate>Thu, 08 Apr 2021 16:15:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EOF the only output on localhost:3000 after launching React JS app]]></title>
+            <link>https://stackoverflow.com/q/67004057/15582940</link>
+            <guid>https://stackoverflow.com/q/67004057/15582940</guid>
+            <pubDate>Thu, 08 Apr 2021 13:52:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How State Works in React – Explained with Code Examples]]></title>
@@ -49,42 +73,6 @@
             <link>https://link.medium.com/3kI25ZTVhfb</link>
             <guid>https://link.medium.com/3kI25ZTVhfb</guid>
             <pubDate>Thu, 08 Apr 2021 12:30:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Package import works properly in Vue but not on React]]></title>
-            <link>https://codesandbox.io/s/weathered-snowflake-irkyl</link>
-            <guid>https://codesandbox.io/s/weathered-snowflake-irkyl</guid>
-            <pubDate>Thu, 08 Apr 2021 08:00:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Learning React, how do I know if I render into the same DOM node?]]></title>
-            <link>https://reactjs.org/docs/state-and-lifecycle.html</link>
-            <guid>https://reactjs.org/docs/state-and-lifecycle.html</guid>
-            <pubDate>Wed, 07 Apr 2021 23:05:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to create editable pie chart]]></title>
-            <link>https://streamable.com/3xleyc</link>
-            <guid>https://streamable.com/3xleyc</guid>
-            <pubDate>Thu, 08 Apr 2021 06:17:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Homebase React 0.5.4 | Lazy DB Queries in Chrome Console Logs]]></title>
-            <link>https://homebase.io/blog/homebase-react-0.5.4-custom-chrome-console-formatters</link>
-            <guid>https://homebase.io/blog/homebase-react-0.5.4-custom-chrome-console-formatters</guid>
-            <pubDate>Wed, 07 Apr 2021 17:19:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Announcing react-pdf v2.0]]></title>
-            <link>https://react-pdf.org/blog/announcing-react-pdf-v2</link>
-            <guid>https://react-pdf.org/blog/announcing-react-pdf-v2</guid>
-            <pubDate>Wed, 07 Apr 2021 00:07:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Authentication with Supabase and React]]></title>
-            <link>https://hyperfoo.io/posts/supabase-authentication-react</link>
-            <guid>https://hyperfoo.io/posts/supabase-authentication-react</guid>
-            <pubDate>Wed, 07 Apr 2021 17:34:49 GMT</pubDate>
         </item>
     </channel>
 </rss>

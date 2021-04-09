@@ -4,10 +4,34 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Fri, 09 Apr 2021 07:48:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Apr 2021 12:55:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Node.js + Express Tutorial - Build a simple web app]]></title>
+            <link>https://catalins.tech/nodejs-express-tutorial-for-2021-getting-started-with-the-javascript-web-server-framework?guid=4f64ac5e-b94d-4a2a-ab9d-aa6698a2a430&amp;deviceId=c819e6de-c5d9-4813-956e-b3d4856f7b9c</link>
+            <guid>https://catalins.tech/nodejs-express-tutorial-for-2021-getting-started-with-the-javascript-web-server-framework?guid=4f64ac5e-b94d-4a2a-ab9d-aa6698a2a430&amp;deviceId=c819e6de-c5d9-4813-956e-b3d4856f7b9c</guid>
+            <pubDate>Fri, 09 Apr 2021 06:30:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Javascript News 2nd Week(Apr) – Node.js middleware engine for AWS Lambda, TypeScript 4.3 Beta, Vue 3 won't support IE11, React hooks form v7.0 - The ArrowFn]]></title>
+            <link>https://thearrowfn.com/javascript-news-2nd-weekapr-node-js-middleware-engine-for-aws-lambda-typescript-4-3-beta-vue-3-wont-support-ie11-react-hooks-form-v7-0/</link>
+            <guid>https://thearrowfn.com/javascript-news-2nd-weekapr-node-js-middleware-engine-for-aws-lambda-typescript-4-3-beta-vue-3-wont-support-ie11-react-hooks-form-v7-0/</guid>
+            <pubDate>Fri, 09 Apr 2021 04:52:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[API Monitoring tutorial (with node examples)]]></title>
+            <link>https://www.checklyhq.com/guides/api-monitoring</link>
+            <guid>https://www.checklyhq.com/guides/api-monitoring</guid>
+            <pubDate>Fri, 09 Apr 2021 12:32:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[nodeJs - object detection deep learning model]]></title>
+            <link>https://ntedgi.github.io/node-efficientnet/</link>
+            <guid>https://ntedgi.github.io/node-efficientnet/</guid>
+            <pubDate>Fri, 09 Apr 2021 11:28:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Node.js for E-Commerce (w/ Koa.js Tutorial & Demo)]]></title>
             <link>https://snipcart.com/blog/node-js-ecommerce-koa-js-tutorial</link>
@@ -21,16 +45,16 @@
             <pubDate>Fri, 09 Apr 2021 01:03:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Javascript News 2nd Week(Apr) – Node.js middleware engine for AWS Lambda, TypeScript 4.3 Beta, Vue 3 won't support IE11, React hooks form v7.0 - The ArrowFn]]></title>
-            <link>https://thearrowfn.com/javascript-news-2nd-weekapr-node-js-middleware-engine-for-aws-lambda-typescript-4-3-beta-vue-3-wont-support-ie11-react-hooks-form-v7-0/</link>
-            <guid>https://thearrowfn.com/javascript-news-2nd-weekapr-node-js-middleware-engine-for-aws-lambda-typescript-4-3-beta-vue-3-wont-support-ie11-react-hooks-form-v7-0/</guid>
-            <pubDate>Fri, 09 Apr 2021 04:52:43 GMT</pubDate>
+            <title><![CDATA[Jest Testing with Sockets]]></title>
+            <link>https://socket.io/</link>
+            <guid>https://socket.io/</guid>
+            <pubDate>Fri, 09 Apr 2021 12:19:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Node.js + Express Tutorial - Build a simple web app]]></title>
-            <link>https://catalins.tech/nodejs-express-tutorial-for-2021-getting-started-with-the-javascript-web-server-framework?guid=4f64ac5e-b94d-4a2a-ab9d-aa6698a2a430&amp;deviceId=c819e6de-c5d9-4813-956e-b3d4856f7b9c</link>
-            <guid>https://catalins.tech/nodejs-express-tutorial-for-2021-getting-started-with-the-javascript-web-server-framework?guid=4f64ac5e-b94d-4a2a-ab9d-aa6698a2a430&amp;deviceId=c819e6de-c5d9-4813-956e-b3d4856f7b9c</guid>
-            <pubDate>Fri, 09 Apr 2021 06:30:38 GMT</pubDate>
+            <title><![CDATA[How to Build a NodeJS Wrapper for a Weather API]]></title>
+            <link>https://georgianstan.medium.com/how-to-build-a-nodejs-wrapper-for-a-weather-api-28404caedfdb?source=friends_link&amp;sk=771a9520c52edc9d43cd2901e37527df</link>
+            <guid>https://georgianstan.medium.com/how-to-build-a-nodejs-wrapper-for-a-weather-api-28404caedfdb?source=friends_link&amp;sk=771a9520c52edc9d43cd2901e37527df</guid>
+            <pubDate>Fri, 09 Apr 2021 11:26:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How do you import from "dist" directory of a Lerna package?]]></title>
@@ -49,30 +73,6 @@
             <link>https://foo.com/</link>
             <guid>https://foo.com/</guid>
             <pubDate>Thu, 08 Apr 2021 06:36:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚀 Introducing the Auth0 Apollo Program]]></title>
-            <link>https://auth0.com/blog/introducing-the-auth0-apollo-program/?utm_source=reddit&amp;utm_medium=sc&amp;utm_campaign=auth0_program</link>
-            <guid>https://auth0.com/blog/introducing-the-auth0-apollo-program/?utm_source=reddit&amp;utm_medium=sc&amp;utm_campaign=auth0_program</guid>
-            <pubDate>Thu, 08 Apr 2021 19:44:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EfficientNet - image recognition model written in typescript and Nodejs]]></title>
-            <link>https://github.com/ntedgi/node-efficientnet</link>
-            <guid>https://github.com/ntedgi/node-efficientnet</guid>
-            <pubDate>Thu, 08 Apr 2021 09:08:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React Custom Hooks Tutorial - Creating useOnline, Testing and Publishing It]]></title>
-            <link>https://blog.shahednasser.com/react-custom-hooks-tutorial-creating-useonline/</link>
-            <guid>https://blog.shahednasser.com/react-custom-hooks-tutorial-creating-useonline/</guid>
-            <pubDate>Thu, 08 Apr 2021 12:38:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What kind of unit test do I need for my LRU cache approximation imolementation?]]></title>
-            <link>https://github.com/tugrul512bit/LruJS</link>
-            <guid>https://github.com/tugrul512bit/LruJS</guid>
-            <pubDate>Thu, 08 Apr 2021 06:37:24 GMT</pubDate>
         </item>
     </channel>
 </rss>

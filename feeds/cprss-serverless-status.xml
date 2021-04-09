@@ -4,10 +4,88 @@
         <title>Serverless Status</title>
         <link>https://serverless.email/</link>
         <description>A weekly newsletter on serverless and function-as-a-service (FaaS) architectures and platforms including AWS Lambda and Azure Functions.</description>
-        <lastBuildDate>Fri, 09 Apr 2021 07:48:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Apr 2021 12:55:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[How Does Lambda Work? A Look at the Magic Behind the Scenes]]></title>
+            <link>https://serverless.email/link/106062/rss</link>
+            <guid>https://serverless.email/link/106062/rss</guid>
+            <pubDate>Fri, 09 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The AWS Serverless Patterns Collection]]></title>
+            <link>https://serverless.email/link/106063/rss</link>
+            <guid>https://serverless.email/link/106063/rss</guid>
+            <pubDate>Fri, 09 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Epsagon; Built for Modern Microservices Architectures]]></title>
+            <link>https://serverless.email/link/106064/rss</link>
+            <guid>https://serverless.email/link/106064/rss</guid>
+            <pubDate>Fri, 09 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AWS Lambda@Edge Changes Duration Billing Granularity From 50ms Down to 1ms]]></title>
+            <link>https://serverless.email/link/106065/rss</link>
+            <guid>https://serverless.email/link/106065/rss</guid>
+            <pubDate>Fri, 09 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Discussing Going Serverless with IBM Cloud Code Engine]]></title>
+            <link>https://serverless.email/link/106066/rss</link>
+            <guid>https://serverless.email/link/106066/rss</guid>
+            <pubDate>Fri, 09 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Password Protect a Site with Cloudflare Workers]]></title>
+            <link>https://serverless.email/link/106067/rss</link>
+            <guid>https://serverless.email/link/106067/rss</guid>
+            <pubDate>Fri, 09 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Building a Serverless YouTube MP3 Downloader]]></title>
+            <link>https://serverless.email/link/106068/rss</link>
+            <guid>https://serverless.email/link/106068/rss</guid>
+            <pubDate>Fri, 09 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[youtube-dl]]></title>
+            <link>https://serverless.email/link/106069/rss</link>
+            <guid>https://serverless.email/link/106069/rss</guid>
+            <pubDate>Fri, 09 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[repo here]]></title>
+            <link>https://serverless.email/link/106070/rss</link>
+            <guid>https://serverless.email/link/106070/rss</guid>
+            <pubDate>Fri, 09 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Anonymize Your Data with Amazon S3 Object Lambda]]></title>
+            <link>https://serverless.email/link/106071/rss</link>
+            <guid>https://serverless.email/link/106071/rss</guid>
+            <pubDate>Fri, 09 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Building Real-Time Serverless Data Pipelines for Market Data]]></title>
+            <link>https://serverless.email/link/106072/rss</link>
+            <guid>https://serverless.email/link/106072/rss</guid>
+            <pubDate>Fri, 09 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[28 Serverless Experts You Could Follow in 2021]]></title>
+            <link>https://serverless.email/link/106073/rss</link>
+            <guid>https://serverless.email/link/106073/rss</guid>
+            <pubDate>Fri, 09 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google Database Migration Service Now GA]]></title>
+            <link>https://serverless.email/link/106074/rss</link>
+            <guid>https://serverless.email/link/106074/rss</guid>
+            <pubDate>Fri, 09 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Going Headless: Use Cases And What It’s Good For]]></title>
             <link>https://serverless.email/link/105689/rss</link>
@@ -277,84 +355,6 @@
             <link>https://serverless.email/link/104998/rss</link>
             <guid>https://serverless.email/link/104998/rss</guid>
             <pubDate>Fri, 19 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An Approach to Building a High-Scale Chat Server on Google Cloud Run]]></title>
-            <link>https://serverless.email/link/104597/rss</link>
-            <guid>https://serverless.email/link/104597/rss</guid>
-            <pubDate>Fri, 12 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Webiny v5 Released]]></title>
-            <link>https://serverless.email/link/104598/rss</link>
-            <guid>https://serverless.email/link/104598/rss</guid>
-            <pubDate>Fri, 12 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[there’s now a seven-minute video tour]]></title>
-            <link>https://serverless.email/link/104599/rss</link>
-            <guid>https://serverless.email/link/104599/rss</guid>
-            <pubDate>Fri, 12 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Fastest Way to Build Internal Tools]]></title>
-            <link>https://serverless.email/link/104600/rss</link>
-            <guid>https://serverless.email/link/104600/rss</guid>
-            <pubDate>Fri, 12 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Building a Fast Serverless API on AWS with Fastify and AWS Amplify]]></title>
-            <link>https://serverless.email/link/104601/rss</link>
-            <guid>https://serverless.email/link/104601/rss</guid>
-            <pubDate>Fri, 12 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[You Can Now Run Node.js 14 on Azure Functions]]></title>
-            <link>https://serverless.email/link/104602/rss</link>
-            <guid>https://serverless.email/link/104602/rss</guid>
-            <pubDate>Fri, 12 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[.NET on Azure Functions roadmap]]></title>
-            <link>https://serverless.email/link/104603/rss</link>
-            <guid>https://serverless.email/link/104603/rss</guid>
-            <pubDate>Fri, 12 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How a Confusing UX Cost a Company $7K in Extra S3 Charges]]></title>
-            <link>https://serverless.email/link/104604/rss</link>
-            <guid>https://serverless.email/link/104604/rss</guid>
-            <pubDate>Fri, 12 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Building Single Binary File Extensions for AWS Lambda with .NET]]></title>
-            <link>https://serverless.email/link/104605/rss</link>
-            <guid>https://serverless.email/link/104605/rss</guid>
-            <pubDate>Fri, 12 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Safely Reduce The Cost of Your Unused DynamoDB Tables with On-Demand Mode]]></title>
-            <link>https://serverless.email/link/104606/rss</link>
-            <guid>https://serverless.email/link/104606/rss</guid>
-            <pubDate>Fri, 12 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Building a Inventory Management System with Google BigQuery and Cloud Run]]></title>
-            <link>https://serverless.email/link/104607/rss</link>
-            <guid>https://serverless.email/link/104607/rss</guid>
-            <pubDate>Fri, 12 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Verifying Shopify Webhooks from Vercel-Hosted Serverless Functions]]></title>
-            <link>https://serverless.email/link/104608/rss</link>
-            <guid>https://serverless.email/link/104608/rss</guid>
-            <pubDate>Fri, 12 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Modeling a GraphQL API For Your Blog with Webiny Serverless CMS]]></title>
-            <link>https://serverless.email/link/104609/rss</link>
-            <guid>https://serverless.email/link/104609/rss</guid>
-            <pubDate>Fri, 12 Mar 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

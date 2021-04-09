@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Fri, 09 Apr 2021 07:48:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Apr 2021 12:55:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,16 +15,22 @@
             <pubDate>Thu, 08 Apr 2021 16:22:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[moovie.js - Movie focused HTML5 Player]]></title>
+            <link>https://github.com/BMSVieira/moovie.js</link>
+            <guid>https://github.com/BMSVieira/moovie.js</guid>
+            <pubDate>Fri, 09 Apr 2021 09:36:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Migrating DevTools to TypeScript - Chrome Developers]]></title>
             <link>https://developer.chrome.com/blog/migrating-to-typescript/</link>
             <guid>https://developer.chrome.com/blog/migrating-to-typescript/</guid>
             <pubDate>Thu, 08 Apr 2021 16:27:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Introducing MathicallJS - A new javascript math library for simulations, data processing, browser games, etc.. It was originally created for a terrain generation project.]]></title>
-            <link>https://github.com/PatGleeson101/mathicall.js</link>
-            <guid>https://github.com/PatGleeson101/mathicall.js</guid>
-            <pubDate>Thu, 08 Apr 2021 04:50:23 GMT</pubDate>
+            <title><![CDATA[object detection deep learning with javascript]]></title>
+            <link>https://ntedgi.github.io/node-efficientnet/</link>
+            <guid>https://ntedgi.github.io/node-efficientnet/</guid>
+            <pubDate>Fri, 09 Apr 2021 11:29:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[LogChimp is an open source software to capture your customers feedback]]></title>
@@ -33,22 +39,28 @@
             <pubDate>Fri, 09 Apr 2021 07:33:50 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Introducing MathicallJS - A new javascript math library for simulations, data processing, browser games, etc.. It was originally created for a terrain generation project.]]></title>
+            <link>https://github.com/PatGleeson101/mathicall.js</link>
+            <guid>https://github.com/PatGleeson101/mathicall.js</guid>
+            <pubDate>Thu, 08 Apr 2021 04:50:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Get Instant Country Flags]]></title>
             <link>https://dev.to/younginnovations/get-instant-country-flags-22pe</link>
             <guid>https://dev.to/younginnovations/get-instant-country-flags-22pe</guid>
             <pubDate>Fri, 09 Apr 2021 07:30:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to write better reusable code]]></title>
-            <link>https://godoffrontend.com/posts/terseness-vs-control/</link>
-            <guid>https://godoffrontend.com/posts/terseness-vs-control/</guid>
-            <pubDate>Thu, 08 Apr 2021 09:38:27 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Three intermediate functional JS patterns]]></title>
             <link>https://intercaetera.com/2021-04-08-three-intermediate-functional-js-patterns/</link>
             <guid>https://intercaetera.com/2021-04-08-three-intermediate-functional-js-patterns/</guid>
             <pubDate>Thu, 08 Apr 2021 21:28:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to write better reusable code]]></title>
+            <link>https://godoffrontend.com/posts/terseness-vs-control/</link>
+            <guid>https://godoffrontend.com/posts/terseness-vs-control/</guid>
+            <pubDate>Thu, 08 Apr 2021 09:38:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tau - A template for creating Electron apps using React with TypeScript.]]></title>
@@ -133,18 +145,6 @@
             <link>https://hyperfoo.io/posts/supabase-authentication-react</link>
             <guid>https://hyperfoo.io/posts/supabase-authentication-react</guid>
             <pubDate>Wed, 07 Apr 2021 17:34:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CROPRO - JavaScript library for image cropping, rotation, flipping, and straightening.]]></title>
-            <link>https://markerjs.com/products/cropro/</link>
-            <guid>https://markerjs.com/products/cropro/</guid>
-            <pubDate>Tue, 06 Apr 2021 12:05:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I wrote a water simulation with P5.js]]></title>
-            <link>https://trungdq88.github.io/summer/</link>
-            <guid>https://trungdq88.github.io/summer/</guid>
-            <pubDate>Tue, 06 Apr 2021 15:45:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Fri, 09 Apr 2021 07:48:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Apr 2021 12:55:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,6 +21,24 @@
             <pubDate>Thu, 01 Apr 2021 06:19:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Export React Components as Images]]></title>
+            <link>https://javascript.plainenglish.io/export-react-components-as-images-15168b73b0eb?gi=21fb13444599</link>
+            <guid>https://javascript.plainenglish.io/export-react-components-as-images-15168b73b0eb?gi=21fb13444599</guid>
+            <pubDate>Fri, 09 Apr 2021 12:22:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Singlehandedly built a multiplayer video editor in React.js]]></title>
+            <link>https://roomservice.dev/</link>
+            <guid>https://roomservice.dev/</guid>
+            <pubDate>Thu, 08 Apr 2021 17:31:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can you add a react-router site into a react-router site?]]></title>
+            <link>https://my-site.com/my-friends-site</link>
+            <guid>https://my-site.com/my-friends-site</guid>
+            <pubDate>Fri, 09 Apr 2021 08:04:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How to actually test UIs]]></title>
             <link>https://storybook.js.org/blog/how-to-actually-test-uis/</link>
             <guid>https://storybook.js.org/blog/how-to-actually-test-uis/</guid>
@@ -31,12 +49,6 @@
             <link>https://javascript.works-hub.com/learn/state-management-battle-in-react-2021-hooks-redux-and-recoil-9977a</link>
             <guid>https://javascript.works-hub.com/learn/state-management-battle-in-react-2021-hooks-redux-and-recoil-9977a</guid>
             <pubDate>Thu, 08 Apr 2021 08:10:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Singlehandedly built a multiplayer video editor in React.js]]></title>
-            <link>https://roomservice.dev/</link>
-            <guid>https://roomservice.dev/</guid>
-            <pubDate>Thu, 08 Apr 2021 17:31:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to host Nextjs sites on AWS Amplify]]></title>
@@ -61,12 +73,6 @@
             <link>https://banana-istore.herokuapp.com/</link>
             <guid>https://banana-istore.herokuapp.com/</guid>
             <pubDate>Thu, 08 Apr 2021 19:49:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to set values of y axis in react-chartjs-2?]]></title>
-            <link>https://www.npmjs.com/package/react-chartjs-2</link>
-            <guid>https://www.npmjs.com/package/react-chartjs-2</guid>
-            <pubDate>Thu, 08 Apr 2021 20:56:07 GMT</pubDate>
         </item>
     </channel>
 </rss>

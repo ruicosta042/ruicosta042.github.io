@@ -4,7 +4,7 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Fri, 09 Apr 2021 07:48:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Apr 2021 12:55:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -31,6 +31,24 @@
             <link>https://www.typescriptlang.org/play?#code/PTAEGcFMCcEsEMA2sBe8BGjKgG5IK7YAmkAZrAHawAusA9hQFCPUCeADtlHEqhlgDUC2ALwQYCZGkyQACnAC2NWDmwAfcTyn9IAJTIxIFAMaQA3MzadNkvjPmwltVaDHhqcCgHNQGivgV0GF9QdDo6LHgKEP9ERAsWDi4JXmksfVJDE1FGUDyQgG9c-JK8gG0ADwAuCA9KLwBdGu5bNMghREILUtAAX2K8jRbUnQ7CMoaEkBsRmVxhUFJ4WE7obFI6aFBKahgl02YdvfhTbYpd6H3IAFk6YwBrUCK8+FAa-0CYRn7GYwZ3M4XK63B5vQHHUwgx5iZ6gV41ACM32YfwoAN27gAkucIdhmiltDIxqJwZcTjc7vcpmAaKAAO6be7gUDUAAWdHwXlZi02LKScOQ8HAln5VgpoJhxXhoA+QWgyN+-2ofM4ULBYrVkpeYKRP1R6Mg7gAKvyahrKa4VeKqYwgA</link>
             <guid>https://www.typescriptlang.org/play?#code/PTAEGcFMCcEsEMA2sBe8BGjKgG5IK7YAmkAZrAHawAusA9hQFCPUCeADtlHEqhlgDUC2ALwQYCZGkyQACnAC2NWDmwAfcTyn9IAJTIxIFAMaQA3MzadNkvjPmwltVaDHhqcCgHNQGivgV0GF9QdDo6LHgKEP9ERAsWDi4JXmksfVJDE1FGUDyQgG9c-JK8gG0ADwAuCA9KLwBdGu5bNMghREILUtAAX2K8jRbUnQ7CMoaEkBsRmVxhUFJ4WE7obFI6aFBKahgl02YdvfhTbYpd6H3IAFk6YwBrUCK8+FAa-0CYRn7GYwZ3M4XK63B5vQHHUwgx5iZ6gV41ACM32YfwoAN27gAkucIdhmiltDIxqJwZcTjc7vcpmAaKAAO6be7gUDUAAWdHwXlZi02LKScOQ8HAln5VgpoJhxXhoA+QWgyN+-2ofM4ULBYrVkpeYKRP1R6Mg7gAKvyahrKa4VeKqYwgA</guid>
             <pubDate>Thu, 08 Apr 2021 17:29:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How do you import from "dist" directory of a Lerna package?]]></title>
+            <link>https://github.com/lerna/lerna</link>
+            <guid>https://github.com/lerna/lerna</guid>
+            <pubDate>Thu, 08 Apr 2021 18:34:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Conditional Return Types are a mess imo]]></title>
+            <link>https://www.typescriptlang.org/docs/handbook/2/conditional-types.html</link>
+            <guid>https://www.typescriptlang.org/docs/handbook/2/conditional-types.html</guid>
+            <pubDate>Thu, 08 Apr 2021 13:06:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to get declaration merging working between libraries]]></title>
+            <link>https://styled-components.com/docs/api#create-a-declarations-file</link>
+            <guid>https://styled-components.com/docs/api#create-a-declarations-file</guid>
+            <pubDate>Thu, 08 Apr 2021 12:46:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ways to enforce encapsulation (VSC Extensions, Tools, Practices)]]></title>
@@ -73,12 +91,6 @@
             <link>https://github.com/akash-joshi/functions-without-borders</link>
             <guid>https://github.com/akash-joshi/functions-without-borders</guid>
             <pubDate>Sat, 03 Apr 2021 13:41:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DIV and Backend again. A TypeScript Tale: Part 4 - GraphQL Code Gen]]></title>
-            <link>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-89d</link>
-            <guid>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-89d</guid>
-            <pubDate>Sat, 03 Apr 2021 18:19:10 GMT</pubDate>
         </item>
     </channel>
 </rss>

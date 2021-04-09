@@ -4,10 +4,34 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Fri, 09 Apr 2021 07:48:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Apr 2021 12:55:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[UI Gradient Generator: Make Beautiful CSS Gradients [& SVG]]]></title>
+            <link>https://learnui.design/tools/gradient-generator.html</link>
+            <guid>https://learnui.design/tools/gradient-generator.html</guid>
+            <pubDate>Fri, 09 Apr 2021 12:52:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Creating Colorful, Smart Shadows]]></title>
+            <link>https://www.kirupa.com/html5/creating_colorful_smart_shadows.htm</link>
+            <guid>https://www.kirupa.com/html5/creating_colorful_smart_shadows.htm</guid>
+            <pubDate>Fri, 09 Apr 2021 12:49:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Paper Snowflakes: Combining Clipping and Masking in CSS]]></title>
+            <link>https://css-irl.info/paper-snowflakes-combining-clipping-and-masking-in-css/</link>
+            <guid>https://css-irl.info/paper-snowflakes-combining-clipping-and-masking-in-css/</guid>
+            <pubDate>Fri, 09 Apr 2021 12:35:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Help with floated list and margins]]></title>
+            <link>https://jsfiddle.net/hc7muswj/</link>
+            <guid>https://jsfiddle.net/hc7muswj/</guid>
+            <pubDate>Fri, 09 Apr 2021 10:06:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Container Queries are actually coming]]></title>
             <link>https://piccalil.li/blog/container-queries-are-actually-coming</link>
@@ -31,24 +55,6 @@
             <link>https://jsbin.com/pimefen/edit?html,output</link>
             <guid>https://jsbin.com/pimefen/edit?html,output</guid>
             <pubDate>Wed, 07 Apr 2021 12:29:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[1 Minute To Become A Better Developer (#14)]]></title>
-            <link>https://medium.com/jportella93/1-minute-to-become-a-better-developer-14-a2ff85046b8c?source=friends_link&amp;sk=7daa55a419ddf5c659fe8c0eae906230</link>
-            <guid>https://medium.com/jportella93/1-minute-to-become-a-better-developer-14-a2ff85046b8c?source=friends_link&amp;sk=7daa55a419ddf5c659fe8c0eae906230</guid>
-            <pubDate>Wed, 07 Apr 2021 08:30:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Every CSS Background Property Illustrated and Explained with Code Examples 🎖️]]></title>
-            <link>https://www.freecodecamp.org/news/learn-css-background-properties/</link>
-            <guid>https://www.freecodecamp.org/news/learn-css-background-properties/</guid>
-            <pubDate>Tue, 06 Apr 2021 12:47:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Understanding cubic bezier values?]]></title>
-            <link>https://cubic-bezier.com/</link>
-            <guid>https://cubic-bezier.com/</guid>
-            <pubDate>Tue, 06 Apr 2021 21:21:02 GMT</pubDate>
         </item>
     </channel>
 </rss>

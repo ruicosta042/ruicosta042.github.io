@@ -4,7 +4,7 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Thu, 08 Apr 2021 19:47:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Apr 2021 07:48:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,18 @@
             <link>https://developer.chrome.com/blog/migrating-to-typescript/</link>
             <guid>https://developer.chrome.com/blog/migrating-to-typescript/</guid>
             <pubDate>Thu, 08 Apr 2021 17:38:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A .d.ts file for aria attributes and a polyfill for their reflection as DOM properties]]></title>
+            <link>https://www.npmjs.com/package/lib.dom-aria</link>
+            <guid>https://www.npmjs.com/package/lib.dom-aria</guid>
+            <pubDate>Fri, 09 Apr 2021 02:20:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Help how do I make this work and is it even possible?]]></title>
+            <link>https://www.typescriptlang.org/play?#code/PQKgBAhgdgngLgCwJZQOZgEYFM4HctZRiJIDOkUAJsQlmIdQPYBmNZYpWAxnEo0e0YBXOKSSU6LMMIBOYLvzgzGAGwA0mEWCGdqEctHoAPCAFsADirohgAWABQWI+cYy49KENNgAcmboA3g5gYABS-uQAvGAARABWETFqwWAAQlhuYNEx2G5JDgC+Dg4KUKTuKvpwfqZYUWBQWLhgALIQ5gA85TIoqBrdvQB8ABQA2imj8YkaORAqKqQxALrJ9iGTuXBJsRlQSFjLq0sAlADcxfZwMOZ0ADJVNVgdAGJIMuWDWWCv7+5OcAxyFNaosUgB+WIYOYLGIpABc3ze5WMAKoQM2sLWYAhMV2+0xIQRAzQYAAPtoqFhmCgsJRzvYHE4XJl9DAoFwwMwhOzePwwKgcPdyo8OgAVFGAjhKIbDam-BGi45gIJYmQ4IQyIiVYURAB0ArgsqRcCV+jAQuq-jFg3pRQZ9lKyKMXwNFsew2BdRiZzAwGAYAACspTGQnrN5otBiV+MiYC7BQ9-B6MT6-YHg6GOrjNfiow6Y+4AF7xuBupMxFyMcze06+-1BxghzhdaUk8nciTUxqUPMOUD0ABuGXgyBJXLctDklEYuAE5CgM7AKGkGvkimUKjANguTNc7iuNzAAEFSGyuM8oGKNEeZKhyP9JdyANYL2ejJafaLDXU-iC30gIjed5KpEnwNk2TyijaFxcjyfBEHA+hPs8wZXse-4SmiFIvjOUDviMzBQIBp7sheaFAaQgxKiqIRqnAGpEDRITGNwIhYAi36-v+gH-iBnyEZxup-sBqwhAUtoXI6FSJrUopIV8iGkMhwbDK6MlYGcFxpgAEou05gAAkvyOBLu4pCMMQRjAFc1nFggEBDjQdCkP4xDXHUkDkFZMDAMWYLRmU+7OtE2qWrJSG6k4rEAh6CQgjWdbpo2mbEug7aUl2tJ5lJblfKFjxyUpkVGNFWDJhkWypvWGbNqlZIUp2NI9gFyJwMWIXqYVT7FaVHqVtWVVJRBLY9G2DVUk1eZAA</link>
+            <guid>https://www.typescriptlang.org/play?#code/PQKgBAhgdgngLgCwJZQOZgEYFM4HctZRiJIDOkUAJsQlmIdQPYBmNZYpWAxnEo0e0YBXOKSSU6LMMIBOYLvzgzGAGwA0mEWCGdqEctHoAPCAFsADirohgAWABQWI+cYy49KENNgAcmboA3g5gYABS-uQAvGAARABWETFqwWAAQlhuYNEx2G5JDgC+Dg4KUKTuKvpwfqZYUWBQWLhgALIQ5gA85TIoqBrdvQB8ABQA2imj8YkaORAqKqQxALrJ9iGTuXBJsRlQSFjLq0sAlADcxfZwMOZ0ADJVNVgdAGJIMuWDWWCv7+5OcAxyFNaosUgB+WIYOYLGIpABc3ze5WMAKoQM2sLWYAhMV2+0xIQRAzQYAAPtoqFhmCgsJRzvYHE4XJl9DAoFwwMwhOzePwwKgcPdyo8OgAVFGAjhKIbDam-BGi45gIJYmQ4IQyIiVYURAB0ArgsqRcCV+jAQuq-jFg3pRQZ9lKyKMXwNFsew2BdRiZzAwGAYAACspTGQnrN5otBiV+MiYC7BQ9-B6MT6-YHg6GOrjNfiow6Y+4AF7xuBupMxFyMcze06+-1BxghzhdaUk8nciTUxqUPMOUD0ABuGXgyBJXLctDklEYuAE5CgM7AKGkGvkimUKjANguTNc7iuNzAAEFSGyuM8oGKNEeZKhyP9JdyANYL2ejJafaLDXU-iC30gIjed5KpEnwNk2TyijaFxcjyfBEHA+hPs8wZXse-4SmiFIvjOUDviMzBQIBp7sheaFAaQgxKiqIRqnAGpEDRITGNwIhYAi36-v+gH-iBnyEZxup-sBqwhAUtoXI6FSJrUopIV8iGkMhwbDK6MlYGcFxpgAEou05gAAkvyOBLu4pCMMQRjAFc1nFggEBDjQdCkP4xDXHUkDkFZMDAMWYLRmU+7OtE2qWrJSG6k4rEAh6CQgjWdbpo2mbEug7aUl2tJ5lJblfKFjxyUpkVGNFWDJhkWypvWGbNqlZIUp2NI9gFyJwMWIXqYVT7FaVHqVtWVVJRBLY9G2DVUk1eZAA</guid>
+            <pubDate>Fri, 09 Apr 2021 01:01:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Differences between type alias and interface. Is there anywhere a comprehensive explanation somewhere for me to read?]]></title>
@@ -67,18 +79,6 @@
             <link>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-89d</link>
             <guid>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-89d</guid>
             <pubDate>Sat, 03 Apr 2021 18:19:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[Q] How to type a React forwardRef component with dynamic tag]]></title>
-            <link>https://stackoverflow.com/questions/55969769/typing-a-dynamic-tag-in-react-with-typescript</link>
-            <guid>https://stackoverflow.com/questions/55969769/typing-a-dynamic-tag-in-react-with-typescript</guid>
-            <pubDate>Sat, 03 Apr 2021 14:06:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DIV and Backend again. A TypeScript Tale: Part 3 - TypeORM]]></title>
-            <link>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-551</link>
-            <guid>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-551</guid>
-            <pubDate>Fri, 02 Apr 2021 17:53:55 GMT</pubDate>
         </item>
     </channel>
 </rss>

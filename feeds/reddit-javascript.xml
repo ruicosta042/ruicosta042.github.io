@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Thu, 08 Apr 2021 19:47:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Apr 2021 07:48:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -27,10 +27,28 @@
             <pubDate>Thu, 08 Apr 2021 04:50:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[LogChimp is an open source software to capture your customers feedback]]></title>
+            <link>https://github.com/logchimp/logchimp</link>
+            <guid>https://github.com/logchimp/logchimp</guid>
+            <pubDate>Fri, 09 Apr 2021 07:33:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Get Instant Country Flags]]></title>
+            <link>https://dev.to/younginnovations/get-instant-country-flags-22pe</link>
+            <guid>https://dev.to/younginnovations/get-instant-country-flags-22pe</guid>
+            <pubDate>Fri, 09 Apr 2021 07:30:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How to write better reusable code]]></title>
             <link>https://godoffrontend.com/posts/terseness-vs-control/</link>
             <guid>https://godoffrontend.com/posts/terseness-vs-control/</guid>
             <pubDate>Thu, 08 Apr 2021 09:38:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Three intermediate functional JS patterns]]></title>
+            <link>https://intercaetera.com/2021-04-08-three-intermediate-functional-js-patterns/</link>
+            <guid>https://intercaetera.com/2021-04-08-three-intermediate-functional-js-patterns/</guid>
+            <pubDate>Thu, 08 Apr 2021 21:28:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tau - A template for creating Electron apps using React with TypeScript.]]></title>
@@ -39,16 +57,22 @@
             <pubDate>Thu, 08 Apr 2021 13:36:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[You think protobuf.js is faster than JSON?]]></title>
-            <link>https://www.aspecto.io/blog/is-protobuf-js-faster-than-json/?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=is-protobuf-js-faster-than-json</link>
-            <guid>https://www.aspecto.io/blog/is-protobuf-js-faster-than-json/?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=is-protobuf-js-faster-than-json</guid>
-            <pubDate>Thu, 08 Apr 2021 15:28:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Uppy file uploader v1.27]]></title>
             <link>https://uppy.io/blog/2021/04/1.27/</link>
             <guid>https://uppy.io/blog/2021/04/1.27/</guid>
             <pubDate>Thu, 08 Apr 2021 10:45:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why I Prefer Makefiles Over package.json Scripts]]></title>
+            <link>https://spin.atomicobject.com/2021/03/22/makefiles-vs-package-json-scripts/</link>
+            <guid>https://spin.atomicobject.com/2021/03/22/makefiles-vs-package-json-scripts/</guid>
+            <pubDate>Thu, 08 Apr 2021 21:05:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[You think protobuf.js is faster than JSON?]]></title>
+            <link>https://www.aspecto.io/blog/is-protobuf-js-faster-than-json/?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=is-protobuf-js-faster-than-json</link>
+            <guid>https://www.aspecto.io/blog/is-protobuf-js-faster-than-json/?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=is-protobuf-js-faster-than-json</guid>
+            <pubDate>Thu, 08 Apr 2021 15:28:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[An immutable Javascript data-ledger.]]></title>
@@ -121,42 +145,6 @@
             <link>https://trungdq88.github.io/summer/</link>
             <guid>https://trungdq88.github.io/summer/</guid>
             <pubDate>Tue, 06 Apr 2021 15:45:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introducing view models for the neo.mjs Javascript UI framework]]></title>
-            <link>https://tobiasuhlig.medium.com/introducing-view-models-for-the-neo-mjs-javascript-ui-framework-f0989154a00f?source=friends_link&amp;sk=ae9ac6dfb8c7342091b24ca3ede86d78</link>
-            <guid>https://tobiasuhlig.medium.com/introducing-view-models-for-the-neo-mjs-javascript-ui-framework-f0989154a00f?source=friends_link&amp;sk=ae9ac6dfb8c7342091b24ca3ede86d78</guid>
-            <pubDate>Wed, 07 Apr 2021 05:34:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Handling authentication state in React Native | BigBinary Blog]]></title>
-            <link>https://bigbinary.com/blog/handling-authentication-state-in-react-native</link>
-            <guid>https://bigbinary.com/blog/handling-authentication-state-in-react-native</guid>
-            <pubDate>Wed, 07 Apr 2021 05:04:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[5 Places SolidJS is not the Best]]></title>
-            <link>https://dev.to/ryansolid/5-places-solidjs-is-not-the-best-5019</link>
-            <guid>https://dev.to/ryansolid/5-places-solidjs-is-not-the-best-5019</guid>
-            <pubDate>Tue, 06 Apr 2021 16:26:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Minecraft Client in browser!]]></title>
-            <link>https://github.com/michaljaz/web-minecraft/</link>
-            <guid>https://github.com/michaljaz/web-minecraft/</guid>
-            <pubDate>Tue, 06 Apr 2021 16:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React 17 removes event pooling in the modern browsers]]></title>
-            <link>https://blog.saeloun.com/2021/04/06/react-17-removes-event-pooling-in-modern-system</link>
-            <guid>https://blog.saeloun.com/2021/04/06/react-17-removes-event-pooling-in-modern-system</guid>
-            <pubDate>Tue, 06 Apr 2021 06:22:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I'm launching a side project to award folks for building rad "non-corporate-y" stuff for the web. If you're working on something for a local community, I'd love to throw you some coffee money!]]></title>
-            <link>https://henrygives.coffee/</link>
-            <guid>https://henrygives.coffee/</guid>
-            <pubDate>Mon, 05 Apr 2021 19:42:07 GMT</pubDate>
         </item>
     </channel>
 </rss>

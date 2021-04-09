@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Thu, 08 Apr 2021 19:47:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Apr 2021 07:48:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -49,12 +49,6 @@
             <link>https://cubic-bezier.com/</link>
             <guid>https://cubic-bezier.com/</guid>
             <pubDate>Tue, 06 Apr 2021 21:21:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Guide (and example code) to producing beautiful PDFs from CSS and JS]]></title>
-            <link>https://pdf.math.dev/</link>
-            <guid>https://pdf.math.dev/</guid>
-            <pubDate>Tue, 06 Apr 2021 18:16:49 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Thu, 08 Apr 2021 19:47:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Apr 2021 07:48:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,16 +21,16 @@
             <pubDate>Thu, 01 Apr 2021 06:19:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How to actually test UIs]]></title>
+            <link>https://storybook.js.org/blog/how-to-actually-test-uis/</link>
+            <guid>https://storybook.js.org/blog/how-to-actually-test-uis/</guid>
+            <pubDate>Thu, 08 Apr 2021 16:22:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[State Management Battle in React 2021: Hooks, Redux, and Recoil]]></title>
             <link>https://javascript.works-hub.com/learn/state-management-battle-in-react-2021-hooks-redux-and-recoil-9977a</link>
             <guid>https://javascript.works-hub.com/learn/state-management-battle-in-react-2021-hooks-redux-and-recoil-9977a</guid>
             <pubDate>Thu, 08 Apr 2021 08:10:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to host Nextjs sites on AWS Amplify]]></title>
-            <link>https://bobbyhadz.com/blog/hosting-nextjs-amplify</link>
-            <guid>https://bobbyhadz.com/blog/hosting-nextjs-amplify</guid>
-            <pubDate>Thu, 08 Apr 2021 16:48:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Singlehandedly built a multiplayer video editor in React.js]]></title>
@@ -39,40 +39,34 @@
             <pubDate>Thu, 08 Apr 2021 17:31:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to actually test UIs]]></title>
-            <link>https://storybook.js.org/blog/how-to-actually-test-uis/</link>
-            <guid>https://storybook.js.org/blog/how-to-actually-test-uis/</guid>
-            <pubDate>Thu, 08 Apr 2021 16:22:22 GMT</pubDate>
+            <title><![CDATA[How to host Nextjs sites on AWS Amplify]]></title>
+            <link>https://bobbyhadz.com/blog/hosting-nextjs-amplify</link>
+            <guid>https://bobbyhadz.com/blog/hosting-nextjs-amplify</guid>
+            <pubDate>Thu, 08 Apr 2021 16:48:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Typescript with React quick start - free course from udemy limited time]]></title>
-            <link>https://www.myfreeonlinecourses.com/2021/04/100-off-typescript-with-react-quick.html</link>
-            <guid>https://www.myfreeonlinecourses.com/2021/04/100-off-typescript-with-react-quick.html</guid>
-            <pubDate>Thu, 08 Apr 2021 16:15:03 GMT</pubDate>
+            <title><![CDATA[RecoilJS in practical - complex application]]></title>
+            <link>https://dev.to/thanhlm/recoiljs-in-practical-complex-application-33kn</link>
+            <guid>https://dev.to/thanhlm/recoiljs-in-practical-complex-application-33kn</guid>
+            <pubDate>Fri, 09 Apr 2021 03:12:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[EOF the only output on localhost:3000 after launching React JS app]]></title>
-            <link>https://stackoverflow.com/q/67004057/15582940</link>
-            <guid>https://stackoverflow.com/q/67004057/15582940</guid>
-            <pubDate>Thu, 08 Apr 2021 13:52:29 GMT</pubDate>
+            <title><![CDATA[using sessions in nextjs with nodejs api]]></title>
+            <link>https://dev.to/chrsgrrtt/easy-user-authentication-with-next-js-18oe</link>
+            <guid>https://dev.to/chrsgrrtt/easy-user-authentication-with-next-js-18oe</guid>
+            <pubDate>Fri, 09 Apr 2021 01:48:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How State Works in React – Explained with Code Examples]]></title>
-            <link>https://blog.yogeshchavan.dev/how-state-works-in-react-explained-with-code-examples</link>
-            <guid>https://blog.yogeshchavan.dev/how-state-works-in-react-explained-with-code-examples</guid>
-            <pubDate>Thu, 08 Apr 2021 09:21:31 GMT</pubDate>
+            <title><![CDATA[Heroku Deployment with React + Express]]></title>
+            <link>https://banana-istore.herokuapp.com/</link>
+            <guid>https://banana-istore.herokuapp.com/</guid>
+            <pubDate>Thu, 08 Apr 2021 19:49:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React form hook submitted values all undefined]]></title>
-            <link>https://gist.github.com/polydevuk/1f258806e0ec824711543787dbe72924</link>
-            <guid>https://gist.github.com/polydevuk/1f258806e0ec824711543787dbe72924</guid>
-            <pubDate>Thu, 08 Apr 2021 12:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to consume data in Next.js apps? by @MunchEsteban]]></title>
-            <link>https://link.medium.com/3kI25ZTVhfb</link>
-            <guid>https://link.medium.com/3kI25ZTVhfb</guid>
-            <pubDate>Thu, 08 Apr 2021 12:30:43 GMT</pubDate>
+            <title><![CDATA[How to set values of y axis in react-chartjs-2?]]></title>
+            <link>https://www.npmjs.com/package/react-chartjs-2</link>
+            <guid>https://www.npmjs.com/package/react-chartjs-2</guid>
+            <pubDate>Thu, 08 Apr 2021 20:56:07 GMT</pubDate>
         </item>
     </channel>
 </rss>

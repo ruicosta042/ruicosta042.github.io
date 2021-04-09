@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Fri, 09 Apr 2021 12:55:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Apr 2021 19:46:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -27,6 +27,42 @@
             <pubDate>Fri, 09 Apr 2021 12:22:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[would a “Refresh” button be an appropriate use case for forceUpdate()?]]></title>
+            <link>https://reactjs.org/docs/react-component.html#forceupdate</link>
+            <guid>https://reactjs.org/docs/react-component.html#forceupdate</guid>
+            <pubDate>Fri, 09 Apr 2021 18:39:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How not to useRef]]></title>
+            <link>https://thoughtspile.github.io/2021/04/05/useref-usememo/</link>
+            <guid>https://thoughtspile.github.io/2021/04/05/useref-usememo/</guid>
+            <pubDate>Fri, 09 Apr 2021 18:36:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Familiar with google-map-react, but wanted to use Mapbox on a new project, does anything similar exist for mapbox?]]></title>
+            <link>https://www.npmjs.com/package/react-mapbox-gl</link>
+            <guid>https://www.npmjs.com/package/react-mapbox-gl</guid>
+            <pubDate>Fri, 09 Apr 2021 17:31:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Text editor component that maintains selection (or appears to).]]></title>
+            <link>https://gist.github.com/08screasey/3da5bf18eff1befce9206674e41e4fb3</link>
+            <guid>https://gist.github.com/08screasey/3da5bf18eff1befce9206674e41e4fb3</guid>
+            <pubDate>Fri, 09 Apr 2021 15:28:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React Bare Form - Super East To Use Form Library for React]]></title>
+            <link>https://github.com/joegasewicz/react-bare-forms</link>
+            <guid>https://github.com/joegasewicz/react-bare-forms</guid>
+            <pubDate>Fri, 09 Apr 2021 12:59:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to actually test UIs]]></title>
+            <link>https://storybook.js.org/blog/how-to-actually-test-uis/</link>
+            <guid>https://storybook.js.org/blog/how-to-actually-test-uis/</guid>
+            <pubDate>Thu, 08 Apr 2021 16:22:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Singlehandedly built a multiplayer video editor in React.js]]></title>
             <link>https://roomservice.dev/</link>
             <guid>https://roomservice.dev/</guid>
@@ -39,40 +75,10 @@
             <pubDate>Fri, 09 Apr 2021 08:04:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to actually test UIs]]></title>
-            <link>https://storybook.js.org/blog/how-to-actually-test-uis/</link>
-            <guid>https://storybook.js.org/blog/how-to-actually-test-uis/</guid>
-            <pubDate>Thu, 08 Apr 2021 16:22:22 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[State Management Battle in React 2021: Hooks, Redux, and Recoil]]></title>
             <link>https://javascript.works-hub.com/learn/state-management-battle-in-react-2021-hooks-redux-and-recoil-9977a</link>
             <guid>https://javascript.works-hub.com/learn/state-management-battle-in-react-2021-hooks-redux-and-recoil-9977a</guid>
             <pubDate>Thu, 08 Apr 2021 08:10:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to host Nextjs sites on AWS Amplify]]></title>
-            <link>https://bobbyhadz.com/blog/hosting-nextjs-amplify</link>
-            <guid>https://bobbyhadz.com/blog/hosting-nextjs-amplify</guid>
-            <pubDate>Thu, 08 Apr 2021 16:48:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RecoilJS in practical - complex application]]></title>
-            <link>https://dev.to/thanhlm/recoiljs-in-practical-complex-application-33kn</link>
-            <guid>https://dev.to/thanhlm/recoiljs-in-practical-complex-application-33kn</guid>
-            <pubDate>Fri, 09 Apr 2021 03:12:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[using sessions in nextjs with nodejs api]]></title>
-            <link>https://dev.to/chrsgrrtt/easy-user-authentication-with-next-js-18oe</link>
-            <guid>https://dev.to/chrsgrrtt/easy-user-authentication-with-next-js-18oe</guid>
-            <pubDate>Fri, 09 Apr 2021 01:48:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Heroku Deployment with React + Express]]></title>
-            <link>https://banana-istore.herokuapp.com/</link>
-            <guid>https://banana-istore.herokuapp.com/</guid>
-            <pubDate>Thu, 08 Apr 2021 19:49:01 GMT</pubDate>
         </item>
     </channel>
 </rss>

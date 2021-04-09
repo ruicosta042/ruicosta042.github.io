@@ -4,16 +4,10 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Fri, 09 Apr 2021 12:55:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Apr 2021 19:46:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
-        <item>
-            <title><![CDATA[How to actually test UIs]]></title>
-            <link>https://storybook.js.org/blog/how-to-actually-test-uis/</link>
-            <guid>https://storybook.js.org/blog/how-to-actually-test-uis/</guid>
-            <pubDate>Thu, 08 Apr 2021 16:22:15 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[moovie.js - Movie focused HTML5 Player]]></title>
             <link>https://github.com/BMSVieira/moovie.js</link>
@@ -21,10 +15,34 @@
             <pubDate>Fri, 09 Apr 2021 09:36:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Use Javascript Proxy for isolated context intercommunication]]></title>
+            <link>https://dev.to/clementvidal/use-es6-proxy-for-isolated-context-intercommunication-mc1</link>
+            <guid>https://dev.to/clementvidal/use-es6-proxy-for-isolated-context-intercommunication-mc1</guid>
+            <pubDate>Fri, 09 Apr 2021 19:05:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to actually test UIs]]></title>
+            <link>https://storybook.js.org/blog/how-to-actually-test-uis/</link>
+            <guid>https://storybook.js.org/blog/how-to-actually-test-uis/</guid>
+            <pubDate>Thu, 08 Apr 2021 16:22:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stitching Styles to a Headless UI Using Design Tokens and Twind]]></title>
+            <link>https://www.michaelmang.dev/blog/stitching-styles-to-a-headless-ui-using-design-tokens-and-twind</link>
+            <guid>https://www.michaelmang.dev/blog/stitching-styles-to-a-headless-ui-using-design-tokens-and-twind</guid>
+            <pubDate>Fri, 09 Apr 2021 18:08:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Migrating DevTools to TypeScript - Chrome Developers]]></title>
             <link>https://developer.chrome.com/blog/migrating-to-typescript/</link>
             <guid>https://developer.chrome.com/blog/migrating-to-typescript/</guid>
             <pubDate>Thu, 08 Apr 2021 16:27:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Doodle 0.5.0 released]]></title>
+            <link>https://github.com/nacular/doodle/</link>
+            <guid>https://github.com/nacular/doodle/</guid>
+            <pubDate>Fri, 09 Apr 2021 15:58:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[object detection deep learning with javascript]]></title>
@@ -45,6 +63,12 @@
             <pubDate>Thu, 08 Apr 2021 04:50:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Car keys toggle it right !]]></title>
+            <link>https://dev.to/dmail/car-keys-toggle-it-right-45dh</link>
+            <guid>https://dev.to/dmail/car-keys-toggle-it-right-45dh</guid>
+            <pubDate>Fri, 09 Apr 2021 13:42:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Get Instant Country Flags]]></title>
             <link>https://dev.to/younginnovations/get-instant-country-flags-22pe</link>
             <guid>https://dev.to/younginnovations/get-instant-country-flags-22pe</guid>
@@ -63,6 +87,12 @@
             <pubDate>Thu, 08 Apr 2021 09:38:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Why I Prefer Makefiles Over package.json Scripts]]></title>
+            <link>https://spin.atomicobject.com/2021/03/22/makefiles-vs-package-json-scripts/</link>
+            <guid>https://spin.atomicobject.com/2021/03/22/makefiles-vs-package-json-scripts/</guid>
+            <pubDate>Thu, 08 Apr 2021 21:05:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tau - A template for creating Electron apps using React with TypeScript.]]></title>
             <link>https://github.com/kherge/js.tau</link>
             <guid>https://github.com/kherge/js.tau</guid>
@@ -73,18 +103,6 @@
             <link>https://uppy.io/blog/2021/04/1.27/</link>
             <guid>https://uppy.io/blog/2021/04/1.27/</guid>
             <pubDate>Thu, 08 Apr 2021 10:45:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why I Prefer Makefiles Over package.json Scripts]]></title>
-            <link>https://spin.atomicobject.com/2021/03/22/makefiles-vs-package-json-scripts/</link>
-            <guid>https://spin.atomicobject.com/2021/03/22/makefiles-vs-package-json-scripts/</guid>
-            <pubDate>Thu, 08 Apr 2021 21:05:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[You think protobuf.js is faster than JSON?]]></title>
-            <link>https://www.aspecto.io/blog/is-protobuf-js-faster-than-json/?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=is-protobuf-js-faster-than-json</link>
-            <guid>https://www.aspecto.io/blog/is-protobuf-js-faster-than-json/?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=is-protobuf-js-faster-than-json</guid>
-            <pubDate>Thu, 08 Apr 2021 15:28:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[An immutable Javascript data-ledger.]]></title>
@@ -103,6 +121,12 @@
             <link>https://github.com/ntedgi/node-efficientnet</link>
             <guid>https://github.com/ntedgi/node-efficientnet</guid>
             <pubDate>Thu, 08 Apr 2021 09:08:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[You think protobuf.js is faster than JSON?]]></title>
+            <link>https://www.aspecto.io/blog/is-protobuf-js-faster-than-json/?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=is-protobuf-js-faster-than-json</link>
+            <guid>https://www.aspecto.io/blog/is-protobuf-js-faster-than-json/?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=is-protobuf-js-faster-than-json</guid>
+            <pubDate>Thu, 08 Apr 2021 15:28:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Node.js development with Docker and Docker Compose]]></title>
@@ -127,24 +151,6 @@
             <link>https://medium.com/aia-sg-techblog/understanding-how-babel-works-d6ca363bce1e</link>
             <guid>https://medium.com/aia-sg-techblog/understanding-how-babel-works-d6ca363bce1e</guid>
             <pubDate>Wed, 07 Apr 2021 13:12:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Skruv - no-dependency, no-build, small JS framework]]></title>
-            <link>https://skruv.io/</link>
-            <guid>https://skruv.io/</guid>
-            <pubDate>Wed, 07 Apr 2021 12:11:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bundler Wars]]></title>
-            <link>https://acco.io/bundler-wars</link>
-            <guid>https://acco.io/bundler-wars</guid>
-            <pubDate>Wed, 07 Apr 2021 06:09:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Authentication with Supabase and React]]></title>
-            <link>https://hyperfoo.io/posts/supabase-authentication-react</link>
-            <guid>https://hyperfoo.io/posts/supabase-authentication-react</guid>
-            <pubDate>Wed, 07 Apr 2021 17:34:19 GMT</pubDate>
         </item>
     </channel>
 </rss>

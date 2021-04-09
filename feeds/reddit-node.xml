@@ -4,22 +4,10 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Fri, 09 Apr 2021 12:55:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Apr 2021 19:46:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
-        <item>
-            <title><![CDATA[Node.js + Express Tutorial - Build a simple web app]]></title>
-            <link>https://catalins.tech/nodejs-express-tutorial-for-2021-getting-started-with-the-javascript-web-server-framework?guid=4f64ac5e-b94d-4a2a-ab9d-aa6698a2a430&amp;deviceId=c819e6de-c5d9-4813-956e-b3d4856f7b9c</link>
-            <guid>https://catalins.tech/nodejs-express-tutorial-for-2021-getting-started-with-the-javascript-web-server-framework?guid=4f64ac5e-b94d-4a2a-ab9d-aa6698a2a430&amp;deviceId=c819e6de-c5d9-4813-956e-b3d4856f7b9c</guid>
-            <pubDate>Fri, 09 Apr 2021 06:30:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Javascript News 2nd Week(Apr) – Node.js middleware engine for AWS Lambda, TypeScript 4.3 Beta, Vue 3 won't support IE11, React hooks form v7.0 - The ArrowFn]]></title>
-            <link>https://thearrowfn.com/javascript-news-2nd-weekapr-node-js-middleware-engine-for-aws-lambda-typescript-4-3-beta-vue-3-wont-support-ie11-react-hooks-form-v7-0/</link>
-            <guid>https://thearrowfn.com/javascript-news-2nd-weekapr-node-js-middleware-engine-for-aws-lambda-typescript-4-3-beta-vue-3-wont-support-ie11-react-hooks-form-v7-0/</guid>
-            <pubDate>Fri, 09 Apr 2021 04:52:43 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[API Monitoring tutorial (with node examples)]]></title>
             <link>https://www.checklyhq.com/guides/api-monitoring</link>
@@ -27,28 +15,10 @@
             <pubDate>Fri, 09 Apr 2021 12:32:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[nodeJs - object detection deep learning model]]></title>
-            <link>https://ntedgi.github.io/node-efficientnet/</link>
-            <guid>https://ntedgi.github.io/node-efficientnet/</guid>
-            <pubDate>Fri, 09 Apr 2021 11:28:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Node.js for E-Commerce (w/ Koa.js Tutorial & Demo)]]></title>
-            <link>https://snipcart.com/blog/node-js-ecommerce-koa-js-tutorial</link>
-            <guid>https://snipcart.com/blog/node-js-ecommerce-koa-js-tutorial</guid>
-            <pubDate>Thu, 08 Apr 2021 18:18:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Question about micro frontend build-time integration]]></title>
-            <link>https://martinfowler.com/articles/micro-frontends.html#IntegrationApproaches</link>
-            <guid>https://martinfowler.com/articles/micro-frontends.html#IntegrationApproaches</guid>
-            <pubDate>Fri, 09 Apr 2021 01:03:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jest Testing with Sockets]]></title>
-            <link>https://socket.io/</link>
-            <guid>https://socket.io/</guid>
-            <pubDate>Fri, 09 Apr 2021 12:19:16 GMT</pubDate>
+            <title><![CDATA[Node.js + Express Tutorial - Build a simple web app]]></title>
+            <link>https://catalins.tech/nodejs-express-tutorial-for-2021-getting-started-with-the-javascript-web-server-framework?guid=4f64ac5e-b94d-4a2a-ab9d-aa6698a2a430&amp;deviceId=c819e6de-c5d9-4813-956e-b3d4856f7b9c</link>
+            <guid>https://catalins.tech/nodejs-express-tutorial-for-2021-getting-started-with-the-javascript-web-server-framework?guid=4f64ac5e-b94d-4a2a-ab9d-aa6698a2a430&amp;deviceId=c819e6de-c5d9-4813-956e-b3d4856f7b9c</guid>
+            <pubDate>Fri, 09 Apr 2021 06:30:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to Build a NodeJS Wrapper for a Weather API]]></title>
@@ -57,22 +27,58 @@
             <pubDate>Fri, 09 Apr 2021 11:26:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How do you import from "dist" directory of a Lerna package?]]></title>
-            <link>https://github.com/lerna/lerna</link>
-            <guid>https://github.com/lerna/lerna</guid>
-            <pubDate>Thu, 08 Apr 2021 18:39:47 GMT</pubDate>
+            <title><![CDATA[nodeJs - object detection deep learning model]]></title>
+            <link>https://ntedgi.github.io/node-efficientnet/</link>
+            <guid>https://ntedgi.github.io/node-efficientnet/</guid>
+            <pubDate>Fri, 09 Apr 2021 11:28:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[online store and ERP separated?]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Thu, 08 Apr 2021 15:36:37 GMT</pubDate>
+            <title><![CDATA[Jest Testing with Sockets]]></title>
+            <link>https://socket.io/</link>
+            <guid>https://socket.io/</guid>
+            <pubDate>Fri, 09 Apr 2021 12:19:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[WireMock Captain: making service mocks easier]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Thu, 08 Apr 2021 06:36:36 GMT</pubDate>
+            <title><![CDATA[Javascript News 2nd Week(Apr) – Node.js middleware engine for AWS Lambda, TypeScript 4.3 Beta, Vue 3 won't support IE11, React hooks form v7.0 - The ArrowFn]]></title>
+            <link>https://thearrowfn.com/javascript-news-2nd-weekapr-node-js-middleware-engine-for-aws-lambda-typescript-4-3-beta-vue-3-wont-support-ie11-react-hooks-form-v7-0/</link>
+            <guid>https://thearrowfn.com/javascript-news-2nd-weekapr-node-js-middleware-engine-for-aws-lambda-typescript-4-3-beta-vue-3-wont-support-ie11-react-hooks-form-v7-0/</guid>
+            <pubDate>Fri, 09 Apr 2021 04:52:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[5 ways to prevent code injection in JavaScript and Node.js]]></title>
+            <link>https://snyk.io/blog/5-ways-to-prevent-code-injection-in-javascript-and-node-js/</link>
+            <guid>https://snyk.io/blog/5-ways-to-prevent-code-injection-in-javascript-and-node-js/</guid>
+            <pubDate>Fri, 09 Apr 2021 19:43:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Node.js for E-Commerce (w/ Koa.js Tutorial & Demo)]]></title>
+            <link>https://snipcart.com/blog/node-js-ecommerce-koa-js-tutorial</link>
+            <guid>https://snipcart.com/blog/node-js-ecommerce-koa-js-tutorial</guid>
+            <pubDate>Thu, 08 Apr 2021 18:18:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to import a current value from a node module]]></title>
+            <link>https://date.now/</link>
+            <guid>https://date.now/</guid>
+            <pubDate>Fri, 09 Apr 2021 13:51:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Question about micro frontend build-time integration]]></title>
+            <link>https://martinfowler.com/articles/micro-frontends.html#IntegrationApproaches</link>
+            <guid>https://martinfowler.com/articles/micro-frontends.html#IntegrationApproaches</guid>
+            <pubDate>Fri, 09 Apr 2021 01:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚀 Introducing the Auth0 Apollo Program]]></title>
+            <link>https://auth0.com/blog/introducing-the-auth0-apollo-program/?utm_source=reddit&amp;utm_medium=sc&amp;utm_campaign=auth0_program</link>
+            <guid>https://auth0.com/blog/introducing-the-auth0-apollo-program/?utm_source=reddit&amp;utm_medium=sc&amp;utm_campaign=auth0_program</guid>
+            <pubDate>Fri, 09 Apr 2021 15:11:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🚀 Introducing the Auth0 Apollo Program]]></title>
+            <link>https://auth0.com/blog/introducing-the-auth0-apollo-program/?utm_source=reddit&amp;utm_medium=sc&amp;utm_campaign=auth0_program</link>
+            <guid>https://auth0.com/blog/introducing-the-auth0-apollo-program/?utm_source=reddit&amp;utm_medium=sc&amp;utm_campaign=auth0_program</guid>
+            <pubDate>Fri, 09 Apr 2021 15:20:59 GMT</pubDate>
         </item>
     </channel>
 </rss>

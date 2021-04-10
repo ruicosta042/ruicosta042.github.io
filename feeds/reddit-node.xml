@@ -4,7 +4,7 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Sat, 10 Apr 2021 07:48:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Apr 2021 12:54:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,18 @@
             <link>https://github.com/nodejs/node/pull/37277</link>
             <guid>https://github.com/nodejs/node/pull/37277</guid>
             <pubDate>Sat, 10 Apr 2021 00:47:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Build a serverless backend AWS Lambda function to upload a file using TypeScript with Node]]></title>
+            <link>https://lazypandatech.com/blog/NodeJS/29/How-to-Build-a-serverless-backend-AWS-Lambda-function-to-upload-a-file-using-TypeScript-with-Node</link>
+            <guid>https://lazypandatech.com/blog/NodeJS/29/How-to-Build-a-serverless-backend-AWS-Lambda-function-to-upload-a-file-using-TypeScript-with-Node</guid>
+            <pubDate>Sat, 10 Apr 2021 10:27:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Running into an issue with Fs.rename where trying to rename a file to another filename that already exists causes an EPERM error on Windows.]]></title>
+            <link>https://stackoverflow.com/questions/39293636/npm-err-error-eperm-operation-not-permitted-rename</link>
+            <guid>https://stackoverflow.com/questions/39293636/npm-err-error-eperm-operation-not-permitted-rename</guid>
+            <pubDate>Sat, 10 Apr 2021 10:05:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[5 ways to prevent code injection in JavaScript and Node.js]]></title>
@@ -43,30 +55,6 @@
             <link>https://georgianstan.medium.com/how-to-build-a-nodejs-wrapper-for-a-weather-api-28404caedfdb?source=friends_link&amp;sk=771a9520c52edc9d43cd2901e37527df</link>
             <guid>https://georgianstan.medium.com/how-to-build-a-nodejs-wrapper-for-a-weather-api-28404caedfdb?source=friends_link&amp;sk=771a9520c52edc9d43cd2901e37527df</guid>
             <pubDate>Fri, 09 Apr 2021 11:26:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Node.js + Express Tutorial - Build a simple web app]]></title>
-            <link>https://catalins.tech/nodejs-express-tutorial-for-2021-getting-started-with-the-javascript-web-server-framework?guid=4f64ac5e-b94d-4a2a-ab9d-aa6698a2a430&amp;deviceId=c819e6de-c5d9-4813-956e-b3d4856f7b9c</link>
-            <guid>https://catalins.tech/nodejs-express-tutorial-for-2021-getting-started-with-the-javascript-web-server-framework?guid=4f64ac5e-b94d-4a2a-ab9d-aa6698a2a430&amp;deviceId=c819e6de-c5d9-4813-956e-b3d4856f7b9c</guid>
-            <pubDate>Fri, 09 Apr 2021 06:30:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[fastest way to build a frontend for a product marketplace website w/ strange products?]]></title>
-            <link>https://gumroad.com/discover?query=test</link>
-            <guid>https://gumroad.com/discover?query=test</guid>
-            <pubDate>Sat, 10 Apr 2021 00:10:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jest Testing with Sockets]]></title>
-            <link>https://socket.io/</link>
-            <guid>https://socket.io/</guid>
-            <pubDate>Fri, 09 Apr 2021 12:19:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Javascript News 2nd Week(Apr) – Node.js middleware engine for AWS Lambda, TypeScript 4.3 Beta, Vue 3 won't support IE11, React hooks form v7.0 - The ArrowFn]]></title>
-            <link>https://thearrowfn.com/javascript-news-2nd-weekapr-node-js-middleware-engine-for-aws-lambda-typescript-4-3-beta-vue-3-wont-support-ie11-react-hooks-form-v7-0/</link>
-            <guid>https://thearrowfn.com/javascript-news-2nd-weekapr-node-js-middleware-engine-for-aws-lambda-typescript-4-3-beta-vue-3-wont-support-ie11-react-hooks-form-v7-0/</guid>
-            <pubDate>Fri, 09 Apr 2021 04:52:43 GMT</pubDate>
         </item>
     </channel>
 </rss>

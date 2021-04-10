@@ -4,10 +4,16 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Sat, 10 Apr 2021 07:48:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Apr 2021 12:54:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[I made a free and elegant VS Code theme that does not hurt your eyes.]]></title>
+            <link>https://marketplace.visualstudio.com/items?itemName=wicked-labs.wicked-betamax</link>
+            <guid>https://marketplace.visualstudio.com/items?itemName=wicked-labs.wicked-betamax</guid>
+            <pubDate>Sat, 10 Apr 2021 11:25:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[UI Gradient Generator: Make Beautiful CSS Gradients [& SVG]]]></title>
             <link>https://learnui.design/tools/gradient-generator.html</link>
@@ -19,12 +25,6 @@
             <link>https://jsfiddle.net/Lta1rg4n/2/</link>
             <guid>https://jsfiddle.net/Lta1rg4n/2/</guid>
             <pubDate>Fri, 09 Apr 2021 16:37:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Perfect Motherfucking Website]]></title>
-            <link>https://perfectmotherfuckingwebsite.com/</link>
-            <guid>https://perfectmotherfuckingwebsite.com/</guid>
-            <pubDate>Fri, 09 Apr 2021 13:58:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Help with floated list and margins]]></title>
@@ -43,6 +43,12 @@
             <link>https://css-irl.info/paper-snowflakes-combining-clipping-and-masking-in-css/</link>
             <guid>https://css-irl.info/paper-snowflakes-combining-clipping-and-masking-in-css/</guid>
             <pubDate>Fri, 09 Apr 2021 12:35:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Perfect Motherfucking Website]]></title>
+            <link>https://perfectmotherfuckingwebsite.com/</link>
+            <guid>https://perfectmotherfuckingwebsite.com/</guid>
+            <pubDate>Fri, 09 Apr 2021 13:58:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Container Queries are actually coming]]></title>

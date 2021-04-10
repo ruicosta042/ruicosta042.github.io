@@ -4,10 +4,16 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Sat, 10 Apr 2021 07:48:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Apr 2021 12:54:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Next.js with TypeScript an ultimate solution]]></title>
+            <link>https://lazypandatech.com/blog/NextJs/35/Next.js-Static-and-Dynamic-Routing-with-TypeScript-and-responsive-design-with-SCSS</link>
+            <guid>https://lazypandatech.com/blog/NextJs/35/Next.js-Static-and-Dynamic-Routing-with-TypeScript-and-responsive-design-with-SCSS</guid>
+            <pubDate>Sat, 10 Apr 2021 10:18:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Migrating DevTools to TypeScript - Chrome Developers]]></title>
             <link>https://developer.chrome.com/blog/migrating-to-typescript/</link>
@@ -85,12 +91,6 @@
             <link>https://dev.to/matteobruni/how-to-create-beautiful-confetti-animations-with-tsparticles-193</link>
             <guid>https://dev.to/matteobruni/how-to-create-beautiful-confetti-animations-with-tsparticles-193</guid>
             <pubDate>Sun, 04 Apr 2021 14:52:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Functions without Boundaries - A typesafe library for making transparent RPC calls over websockets]]></title>
-            <link>https://github.com/akash-joshi/functions-without-borders</link>
-            <guid>https://github.com/akash-joshi/functions-without-borders</guid>
-            <pubDate>Sat, 03 Apr 2021 13:41:47 GMT</pubDate>
         </item>
     </channel>
 </rss>

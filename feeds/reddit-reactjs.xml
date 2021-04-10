@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sat, 10 Apr 2021 07:48:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Apr 2021 12:54:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,16 +21,16 @@
             <pubDate>Thu, 01 Apr 2021 06:19:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Export React Components as Images]]></title>
-            <link>https://javascript.plainenglish.io/export-react-components-as-images-15168b73b0eb?gi=21fb13444599</link>
-            <guid>https://javascript.plainenglish.io/export-react-components-as-images-15168b73b0eb?gi=21fb13444599</guid>
-            <pubDate>Fri, 09 Apr 2021 12:22:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[QR/bar code scanner for the Browser]]></title>
             <link>https://github.com/mchehab/zbar</link>
             <guid>https://github.com/mchehab/zbar</guid>
             <pubDate>Sat, 10 Apr 2021 06:41:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Export React Components as Images]]></title>
+            <link>https://javascript.plainenglish.io/export-react-components-as-images-15168b73b0eb?gi=21fb13444599</link>
+            <guid>https://javascript.plainenglish.io/export-react-components-as-images-15168b73b0eb?gi=21fb13444599</guid>
+            <pubDate>Fri, 09 Apr 2021 12:22:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Material Ui Checkbox - Pasted code]]></title>
@@ -67,18 +67,6 @@
             <link>https://www.npmjs.com/package/react-mapbox-gl</link>
             <guid>https://www.npmjs.com/package/react-mapbox-gl</guid>
             <pubDate>Fri, 09 Apr 2021 17:31:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Text editor component that maintains selection (or appears to).]]></title>
-            <link>https://gist.github.com/08screasey/3da5bf18eff1befce9206674e41e4fb3</link>
-            <guid>https://gist.github.com/08screasey/3da5bf18eff1befce9206674e41e4fb3</guid>
-            <pubDate>Fri, 09 Apr 2021 15:28:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React Bare Form - Super East To Use Form Library for React]]></title>
-            <link>https://github.com/joegasewicz/react-bare-forms</link>
-            <guid>https://github.com/joegasewicz/react-bare-forms</guid>
-            <pubDate>Fri, 09 Apr 2021 12:59:49 GMT</pubDate>
         </item>
     </channel>
 </rss>

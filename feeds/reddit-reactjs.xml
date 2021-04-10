@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Fri, 09 Apr 2021 19:46:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Apr 2021 07:48:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -27,16 +27,40 @@
             <pubDate>Fri, 09 Apr 2021 12:22:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[would a “Refresh” button be an appropriate use case for forceUpdate()?]]></title>
-            <link>https://reactjs.org/docs/react-component.html#forceupdate</link>
-            <guid>https://reactjs.org/docs/react-component.html#forceupdate</guid>
-            <pubDate>Fri, 09 Apr 2021 18:39:46 GMT</pubDate>
+            <title><![CDATA[QR/bar code scanner for the Browser]]></title>
+            <link>https://github.com/mchehab/zbar</link>
+            <guid>https://github.com/mchehab/zbar</guid>
+            <pubDate>Sat, 10 Apr 2021 06:41:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Material Ui Checkbox - Pasted code]]></title>
+            <link>https://codesandbox.io/s/material-demo-forked-g7h71?file=/demo.js</link>
+            <guid>https://codesandbox.io/s/material-demo-forked-g7h71?file=/demo.js</guid>
+            <pubDate>Sat, 10 Apr 2021 05:35:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How not to useRef]]></title>
             <link>https://thoughtspile.github.io/2021/04/05/useref-usememo/</link>
             <guid>https://thoughtspile.github.io/2021/04/05/useref-usememo/</guid>
             <pubDate>Fri, 09 Apr 2021 18:36:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Newbie - Using the mousewheel event]]></title>
+            <link>https://codesandbox.io/s/embla-carousel-y-axis-react-forked-2jrbg?file=/src/js/EmblaCarousel.js</link>
+            <guid>https://codesandbox.io/s/embla-carousel-y-axis-react-forked-2jrbg?file=/src/js/EmblaCarousel.js</guid>
+            <pubDate>Sat, 10 Apr 2021 01:44:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[fastest way to build a frontend for a product marketplace website w/ strange products?]]></title>
+            <link>https://gumroad.com/discover?query=test</link>
+            <guid>https://gumroad.com/discover?query=test</guid>
+            <pubDate>Sat, 10 Apr 2021 00:30:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[would a “Refresh” button be an appropriate use case for forceUpdate()?]]></title>
+            <link>https://reactjs.org/docs/react-component.html#forceupdate</link>
+            <guid>https://reactjs.org/docs/react-component.html#forceupdate</guid>
+            <pubDate>Fri, 09 Apr 2021 18:39:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Familiar with google-map-react, but wanted to use Mapbox on a new project, does anything similar exist for mapbox?]]></title>
@@ -55,30 +79,6 @@
             <link>https://github.com/joegasewicz/react-bare-forms</link>
             <guid>https://github.com/joegasewicz/react-bare-forms</guid>
             <pubDate>Fri, 09 Apr 2021 12:59:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to actually test UIs]]></title>
-            <link>https://storybook.js.org/blog/how-to-actually-test-uis/</link>
-            <guid>https://storybook.js.org/blog/how-to-actually-test-uis/</guid>
-            <pubDate>Thu, 08 Apr 2021 16:22:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Singlehandedly built a multiplayer video editor in React.js]]></title>
-            <link>https://roomservice.dev/</link>
-            <guid>https://roomservice.dev/</guid>
-            <pubDate>Thu, 08 Apr 2021 17:31:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can you add a react-router site into a react-router site?]]></title>
-            <link>https://my-site.com/my-friends-site</link>
-            <guid>https://my-site.com/my-friends-site</guid>
-            <pubDate>Fri, 09 Apr 2021 08:04:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[State Management Battle in React 2021: Hooks, Redux, and Recoil]]></title>
-            <link>https://javascript.works-hub.com/learn/state-management-battle-in-react-2021-hooks-redux-and-recoil-9977a</link>
-            <guid>https://javascript.works-hub.com/learn/state-management-battle-in-react-2021-hooks-redux-and-recoil-9977a</guid>
-            <pubDate>Thu, 08 Apr 2021 08:10:24 GMT</pubDate>
         </item>
     </channel>
 </rss>

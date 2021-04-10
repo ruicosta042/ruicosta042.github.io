@@ -4,10 +4,28 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Sat, 10 Apr 2021 12:54:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Apr 2021 19:46:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA["browser.setValue()" TypeError while using WebDriver.IO in Typescript]]></title>
+            <link>https://webdriver.io/</link>
+            <guid>https://webdriver.io/</guid>
+            <pubDate>Sat, 10 Apr 2021 17:17:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React with TypeScript]]></title>
+            <link>https://mindaugasnakr.medium.com/react-with-typescript-55670137c2da</link>
+            <guid>https://mindaugasnakr.medium.com/react-with-typescript-55670137c2da</guid>
+            <pubDate>Sat, 10 Apr 2021 16:44:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How do I unit test my *browser only* typescript project with modules using jest?]]></title>
+            <link>https://github.com/kulshekhar/ts-jest/issues/2010</link>
+            <guid>https://github.com/kulshekhar/ts-jest/issues/2010</guid>
+            <pubDate>Sat, 10 Apr 2021 16:00:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Next.js with TypeScript an ultimate solution]]></title>
             <link>https://lazypandatech.com/blog/NextJs/35/Next.js-Static-and-Dynamic-Routing-with-TypeScript-and-responsive-design-with-SCSS</link>
@@ -27,10 +45,10 @@
             <pubDate>Fri, 09 Apr 2021 02:20:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Differences between type alias and interface. Is there anywhere a comprehensive explanation somewhere for me to read?]]></title>
-            <link>https://www.typescriptlang.org/play?#code/PTAEGcFMCcEsEMA2sBe8BGjKgG5IK7YAmkAZrAHawAusA9hQFCPUCeADtlHEqhlgDUC2ALwQYCZGkyQACnAC2NWDmwAfcTyn9IAJTIxIFAMaQA3MzadNkvjPmwltVaDHhqcCgHNQGivgV0GF9QdDo6LHgKEP9ERAsWDi4JXmksfVJDE1FGUDyQgG9c-JK8gG0ADwAuCA9KLwBdGu5bNMghREILUtAAX2K8jRbUnQ7CMoaEkBsRmVxhUFJ4WE7obFI6aFBKahgl02YdvfhTbYpd6H3IAFk6YwBrUCK8+FAa-0CYRn7GYwZ3M4XK63B5vQHHUwgx5iZ6gV41ACM32YfwoAN27gAkucIdhmiltDIxqJwZcTjc7vcpmAaKAAO6be7gUDUAAWdHwXlZi02LKScOQ8HAln5VgpoJhxXhoA+QWgyN+-2ofM4ULBYrVkpeYKRP1R6Mg7gAKvyahrKa4VeKqYwgA</link>
-            <guid>https://www.typescriptlang.org/play?#code/PTAEGcFMCcEsEMA2sBe8BGjKgG5IK7YAmkAZrAHawAusA9hQFCPUCeADtlHEqhlgDUC2ALwQYCZGkyQACnAC2NWDmwAfcTyn9IAJTIxIFAMaQA3MzadNkvjPmwltVaDHhqcCgHNQGivgV0GF9QdDo6LHgKEP9ERAsWDi4JXmksfVJDE1FGUDyQgG9c-JK8gG0ADwAuCA9KLwBdGu5bNMghREILUtAAX2K8jRbUnQ7CMoaEkBsRmVxhUFJ4WE7obFI6aFBKahgl02YdvfhTbYpd6H3IAFk6YwBrUCK8+FAa-0CYRn7GYwZ3M4XK63B5vQHHUwgx5iZ6gV41ACM32YfwoAN27gAkucIdhmiltDIxqJwZcTjc7vcpmAaKAAO6be7gUDUAAWdHwXlZi02LKScOQ8HAln5VgpoJhxXhoA+QWgyN+-2ofM4ULBYrVkpeYKRP1R6Mg7gAKvyahrKa4VeKqYwgA</guid>
-            <pubDate>Thu, 08 Apr 2021 17:29:13 GMT</pubDate>
+            <title><![CDATA[Help how do I make this work and is it even possible?]]></title>
+            <link>https://www.typescriptlang.org/play?#code/PQKgBAhgdgngLgCwJZQOZgEYFM4HctZRiJIDOkUAJsQlmIdQPYBmNZYpWAxnEo0e0YBXOKSSU6LMMIBOYLvzgzGAGwA0mEWCGdqEctHoAPCAFsADirohgAWABQWI+cYy49KENNgAcmboA3g5gYABS-uQAvGAARABWETFqwWAAQlhuYNEx2G5JDgC+Dg4KUKTuKvpwfqZYUWBQWLhgALIQ5gA85TIoqBrdvQB8ABQA2imj8YkaORAqKqQxALrJ9iGTuXBJsRlQSFjLq0sAlADcxfZwMOZ0ADJVNVgdAGJIMuWDWWCv7+5OcAxyFNaosUgB+WIYOYLGIpABc3ze5WMAKoQM2sLWYAhMV2+0xIQRAzQYAAPtoqFhmCgsJRzvYHE4XJl9DAoFwwMwhOzePwwKgcPdyo8OgAVFGAjhKIbDam-BGi45gIJYmQ4IQyIiVYURAB0ArgsqRcCV+jAQuq-jFg3pRQZ9lKyKMXwNFsew2BdRiZzAwGAYAACspTGQnrN5otBiV+MiYC7BQ9-B6MT6-YHg6GOrjNfiow6Y+4AF7xuBupMxFyMcze06+-1BxghzhdaUk8nciTUxqUPMOUD0ABuGXgyBJXLctDklEYuAE5CgM7AKGkGvkimUKjANguTNc7iuNzAAEFSGyuM8oGKNEeZKhyP9JdyANYL2ejJafaLDXU-iC30gIjed5KpEnwNk2TyijaFxcjyfBEHA+hPs8wZXse-4SmiFIvjOUDviMzBQIBp7sheaFAaQgxKiqIRqnAGpEDRITGNwIhYAi36-v+gH-iBnyEZxup-sBqwhAUtoXI6FSJrUopIV8iGkMhwbDK6MlYGcFxpgAEou05gAAkvyOBLu4pCMMQRjAFc1nFggEBDjQdCkP4xDXHUkDkFZMDAMWYLRmU+7OtE2qWrJSG6k4rEAh6CQgjWdbpo2mbEug7aUl2tJ5lJblfKFjxyUpkVGNFWDJhkWypvWGbNqlZIUp2NI9gFyJwMWIXqYVT7FaVHqVtWVVJRBLY9G2DVUk1eZAA</link>
+            <guid>https://www.typescriptlang.org/play?#code/PQKgBAhgdgngLgCwJZQOZgEYFM4HctZRiJIDOkUAJsQlmIdQPYBmNZYpWAxnEo0e0YBXOKSSU6LMMIBOYLvzgzGAGwA0mEWCGdqEctHoAPCAFsADirohgAWABQWI+cYy49KENNgAcmboA3g5gYABS-uQAvGAARABWETFqwWAAQlhuYNEx2G5JDgC+Dg4KUKTuKvpwfqZYUWBQWLhgALIQ5gA85TIoqBrdvQB8ABQA2imj8YkaORAqKqQxALrJ9iGTuXBJsRlQSFjLq0sAlADcxfZwMOZ0ADJVNVgdAGJIMuWDWWCv7+5OcAxyFNaosUgB+WIYOYLGIpABc3ze5WMAKoQM2sLWYAhMV2+0xIQRAzQYAAPtoqFhmCgsJRzvYHE4XJl9DAoFwwMwhOzePwwKgcPdyo8OgAVFGAjhKIbDam-BGi45gIJYmQ4IQyIiVYURAB0ArgsqRcCV+jAQuq-jFg3pRQZ9lKyKMXwNFsew2BdRiZzAwGAYAACspTGQnrN5otBiV+MiYC7BQ9-B6MT6-YHg6GOrjNfiow6Y+4AF7xuBupMxFyMcze06+-1BxghzhdaUk8nciTUxqUPMOUD0ABuGXgyBJXLctDklEYuAE5CgM7AKGkGvkimUKjANguTNc7iuNzAAEFSGyuM8oGKNEeZKhyP9JdyANYL2ejJafaLDXU-iC30gIjed5KpEnwNk2TyijaFxcjyfBEHA+hPs8wZXse-4SmiFIvjOUDviMzBQIBp7sheaFAaQgxKiqIRqnAGpEDRITGNwIhYAi36-v+gH-iBnyEZxup-sBqwhAUtoXI6FSJrUopIV8iGkMhwbDK6MlYGcFxpgAEou05gAAkvyOBLu4pCMMQRjAFc1nFggEBDjQdCkP4xDXHUkDkFZMDAMWYLRmU+7OtE2qWrJSG6k4rEAh6CQgjWdbpo2mbEug7aUl2tJ5lJblfKFjxyUpkVGNFWDJhkWypvWGbNqlZIUp2NI9gFyJwMWIXqYVT7FaVHqVtWVVJRBLY9G2DVUk1eZAA</guid>
+            <pubDate>Fri, 09 Apr 2021 01:01:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How do you import from "dist" directory of a Lerna package?]]></title>
@@ -39,10 +57,10 @@
             <pubDate>Thu, 08 Apr 2021 18:34:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Help how do I make this work and is it even possible?]]></title>
-            <link>https://www.typescriptlang.org/play?#code/PQKgBAhgdgngLgCwJZQOZgEYFM4HctZRiJIDOkUAJsQlmIdQPYBmNZYpWAxnEo0e0YBXOKSSU6LMMIBOYLvzgzGAGwA0mEWCGdqEctHoAPCAFsADirohgAWABQWI+cYy49KENNgAcmboA3g5gYABS-uQAvGAARABWETFqwWAAQlhuYNEx2G5JDgC+Dg4KUKTuKvpwfqZYUWBQWLhgALIQ5gA85TIoqBrdvQB8ABQA2imj8YkaORAqKqQxALrJ9iGTuXBJsRlQSFjLq0sAlADcxfZwMOZ0ADJVNVgdAGJIMuWDWWCv7+5OcAxyFNaosUgB+WIYOYLGIpABc3ze5WMAKoQM2sLWYAhMV2+0xIQRAzQYAAPtoqFhmCgsJRzvYHE4XJl9DAoFwwMwhOzePwwKgcPdyo8OgAVFGAjhKIbDam-BGi45gIJYmQ4IQyIiVYURAB0ArgsqRcCV+jAQuq-jFg3pRQZ9lKyKMXwNFsew2BdRiZzAwGAYAACspTGQnrN5otBiV+MiYC7BQ9-B6MT6-YHg6GOrjNfiow6Y+4AF7xuBupMxFyMcze06+-1BxghzhdaUk8nciTUxqUPMOUD0ABuGXgyBJXLctDklEYuAE5CgM7AKGkGvkimUKjANguTNc7iuNzAAEFSGyuM8oGKNEeZKhyP9JdyANYL2ejJafaLDXU-iC30gIjed5KpEnwNk2TyijaFxcjyfBEHA+hPs8wZXse-4SmiFIvjOUDviMzBQIBp7sheaFAaQgxKiqIRqnAGpEDRITGNwIhYAi36-v+gH-iBnyEZxup-sBqwhAUtoXI6FSJrUopIV8iGkMhwbDK6MlYGcFxpgAEou05gAAkvyOBLu4pCMMQRjAFc1nFggEBDjQdCkP4xDXHUkDkFZMDAMWYLRmU+7OtE2qWrJSG6k4rEAh6CQgjWdbpo2mbEug7aUl2tJ5lJblfKFjxyUpkVGNFWDJhkWypvWGbNqlZIUp2NI9gFyJwMWIXqYVT7FaVHqVtWVVJRBLY9G2DVUk1eZAA</link>
-            <guid>https://www.typescriptlang.org/play?#code/PQKgBAhgdgngLgCwJZQOZgEYFM4HctZRiJIDOkUAJsQlmIdQPYBmNZYpWAxnEo0e0YBXOKSSU6LMMIBOYLvzgzGAGwA0mEWCGdqEctHoAPCAFsADirohgAWABQWI+cYy49KENNgAcmboA3g5gYABS-uQAvGAARABWETFqwWAAQlhuYNEx2G5JDgC+Dg4KUKTuKvpwfqZYUWBQWLhgALIQ5gA85TIoqBrdvQB8ABQA2imj8YkaORAqKqQxALrJ9iGTuXBJsRlQSFjLq0sAlADcxfZwMOZ0ADJVNVgdAGJIMuWDWWCv7+5OcAxyFNaosUgB+WIYOYLGIpABc3ze5WMAKoQM2sLWYAhMV2+0xIQRAzQYAAPtoqFhmCgsJRzvYHE4XJl9DAoFwwMwhOzePwwKgcPdyo8OgAVFGAjhKIbDam-BGi45gIJYmQ4IQyIiVYURAB0ArgsqRcCV+jAQuq-jFg3pRQZ9lKyKMXwNFsew2BdRiZzAwGAYAACspTGQnrN5otBiV+MiYC7BQ9-B6MT6-YHg6GOrjNfiow6Y+4AF7xuBupMxFyMcze06+-1BxghzhdaUk8nciTUxqUPMOUD0ABuGXgyBJXLctDklEYuAE5CgM7AKGkGvkimUKjANguTNc7iuNzAAEFSGyuM8oGKNEeZKhyP9JdyANYL2ejJafaLDXU-iC30gIjed5KpEnwNk2TyijaFxcjyfBEHA+hPs8wZXse-4SmiFIvjOUDviMzBQIBp7sheaFAaQgxKiqIRqnAGpEDRITGNwIhYAi36-v+gH-iBnyEZxup-sBqwhAUtoXI6FSJrUopIV8iGkMhwbDK6MlYGcFxpgAEou05gAAkvyOBLu4pCMMQRjAFc1nFggEBDjQdCkP4xDXHUkDkFZMDAMWYLRmU+7OtE2qWrJSG6k4rEAh6CQgjWdbpo2mbEug7aUl2tJ5lJblfKFjxyUpkVGNFWDJhkWypvWGbNqlZIUp2NI9gFyJwMWIXqYVT7FaVHqVtWVVJRBLY9G2DVUk1eZAA</guid>
-            <pubDate>Fri, 09 Apr 2021 01:01:07 GMT</pubDate>
+            <title><![CDATA[Differences between type alias and interface. Is there anywhere a comprehensive explanation somewhere for me to read?]]></title>
+            <link>https://www.typescriptlang.org/play?#code/PTAEGcFMCcEsEMA2sBe8BGjKgG5IK7YAmkAZrAHawAusA9hQFCPUCeADtlHEqhlgDUC2ALwQYCZGkyQACnAC2NWDmwAfcTyn9IAJTIxIFAMaQA3MzadNkvjPmwltVaDHhqcCgHNQGivgV0GF9QdDo6LHgKEP9ERAsWDi4JXmksfVJDE1FGUDyQgG9c-JK8gG0ADwAuCA9KLwBdGu5bNMghREILUtAAX2K8jRbUnQ7CMoaEkBsRmVxhUFJ4WE7obFI6aFBKahgl02YdvfhTbYpd6H3IAFk6YwBrUCK8+FAa-0CYRn7GYwZ3M4XK63B5vQHHUwgx5iZ6gV41ACM32YfwoAN27gAkucIdhmiltDIxqJwZcTjc7vcpmAaKAAO6be7gUDUAAWdHwXlZi02LKScOQ8HAln5VgpoJhxXhoA+QWgyN+-2ofM4ULBYrVkpeYKRP1R6Mg7gAKvyahrKa4VeKqYwgA</link>
+            <guid>https://www.typescriptlang.org/play?#code/PTAEGcFMCcEsEMA2sBe8BGjKgG5IK7YAmkAZrAHawAusA9hQFCPUCeADtlHEqhlgDUC2ALwQYCZGkyQACnAC2NWDmwAfcTyn9IAJTIxIFAMaQA3MzadNkvjPmwltVaDHhqcCgHNQGivgV0GF9QdDo6LHgKEP9ERAsWDi4JXmksfVJDE1FGUDyQgG9c-JK8gG0ADwAuCA9KLwBdGu5bNMghREILUtAAX2K8jRbUnQ7CMoaEkBsRmVxhUFJ4WE7obFI6aFBKahgl02YdvfhTbYpd6H3IAFk6YwBrUCK8+FAa-0CYRn7GYwZ3M4XK63B5vQHHUwgx5iZ6gV41ACM32YfwoAN27gAkucIdhmiltDIxqJwZcTjc7vcpmAaKAAO6be7gUDUAAWdHwXlZi02LKScOQ8HAln5VgpoJhxXhoA+QWgyN+-2ofM4ULBYrVkpeYKRP1R6Mg7gAKvyahrKa4VeKqYwgA</guid>
+            <pubDate>Thu, 08 Apr 2021 17:29:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Conditional Return Types are a mess imo]]></title>
@@ -79,18 +97,6 @@
             <link>https://github.com/Nayni/fluse</link>
             <guid>https://github.com/Nayni/fluse</guid>
             <pubDate>Mon, 05 Apr 2021 18:53:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DIV and Backend again. A TypeScript Tale: Part 5]]></title>
-            <link>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-bdd</link>
-            <guid>https://thewooleyway.substack.com/p/div-and-backend-again-a-typescript-bdd</guid>
-            <pubDate>Sun, 04 Apr 2021 17:55:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[dev.to] How to create beautiful confetti animations with tsParticles (Vanilla, React, Angular and Vue)]]></title>
-            <link>https://dev.to/matteobruni/how-to-create-beautiful-confetti-animations-with-tsparticles-193</link>
-            <guid>https://dev.to/matteobruni/how-to-create-beautiful-confetti-animations-with-tsparticles-193</guid>
-            <pubDate>Sun, 04 Apr 2021 14:52:29 GMT</pubDate>
         </item>
     </channel>
 </rss>

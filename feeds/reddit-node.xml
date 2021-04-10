@@ -4,7 +4,7 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Sat, 10 Apr 2021 12:54:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Apr 2021 19:46:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,40 +21,22 @@
             <pubDate>Sat, 10 Apr 2021 10:27:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Running into an issue with Fs.rename where trying to rename a file to another filename that already exists causes an EPERM error on Windows.]]></title>
-            <link>https://stackoverflow.com/questions/39293636/npm-err-error-eperm-operation-not-permitted-rename</link>
-            <guid>https://stackoverflow.com/questions/39293636/npm-err-error-eperm-operation-not-permitted-rename</guid>
-            <pubDate>Sat, 10 Apr 2021 10:05:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[5 ways to prevent code injection in JavaScript and Node.js]]></title>
             <link>https://snyk.io/blog/5-ways-to-prevent-code-injection-in-javascript-and-node-js/</link>
             <guid>https://snyk.io/blog/5-ways-to-prevent-code-injection-in-javascript-and-node-js/</guid>
             <pubDate>Fri, 09 Apr 2021 19:43:11 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Running into an issue with Fs.rename where trying to rename a file to another filename that already exists causes an EPERM error on Windows.]]></title>
+            <link>https://stackoverflow.com/questions/39293636/npm-err-error-eperm-operation-not-permitted-rename</link>
+            <guid>https://stackoverflow.com/questions/39293636/npm-err-error-eperm-operation-not-permitted-rename</guid>
+            <pubDate>Sat, 10 Apr 2021 10:05:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Node n00b]]></title>
             <link>https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Displaying_data/flow_control_using_async</link>
             <guid>https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Displaying_data/flow_control_using_async</guid>
             <pubDate>Sat, 10 Apr 2021 02:56:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[API Monitoring tutorial (with node examples)]]></title>
-            <link>https://www.checklyhq.com/guides/api-monitoring</link>
-            <guid>https://www.checklyhq.com/guides/api-monitoring</guid>
-            <pubDate>Fri, 09 Apr 2021 12:32:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[nodeJs - object detection deep learning model]]></title>
-            <link>https://ntedgi.github.io/node-efficientnet/</link>
-            <guid>https://ntedgi.github.io/node-efficientnet/</guid>
-            <pubDate>Fri, 09 Apr 2021 11:28:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Build a NodeJS Wrapper for a Weather API]]></title>
-            <link>https://georgianstan.medium.com/how-to-build-a-nodejs-wrapper-for-a-weather-api-28404caedfdb?source=friends_link&amp;sk=771a9520c52edc9d43cd2901e37527df</link>
-            <guid>https://georgianstan.medium.com/how-to-build-a-nodejs-wrapper-for-a-weather-api-28404caedfdb?source=friends_link&amp;sk=771a9520c52edc9d43cd2901e37527df</guid>
-            <pubDate>Fri, 09 Apr 2021 11:26:43 GMT</pubDate>
         </item>
     </channel>
 </rss>

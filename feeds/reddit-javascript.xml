@@ -4,10 +4,16 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sat, 10 Apr 2021 12:54:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Apr 2021 19:46:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[React with TypeScript]]></title>
+            <link>https://mindaugasnakr.medium.com/react-with-typescript-55670137c2da</link>
+            <guid>https://mindaugasnakr.medium.com/react-with-typescript-55670137c2da</guid>
+            <pubDate>Sat, 10 Apr 2021 16:44:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comparing the New Generation of Build Tools]]></title>
             <link>https://css-tricks.com/comparing-the-new-generation-of-build-tools/</link>
@@ -31,12 +37,6 @@
             <link>https://makerwork.substack.com/p/makerwork008</link>
             <guid>https://makerwork.substack.com/p/makerwork008</guid>
             <pubDate>Sat, 10 Apr 2021 06:07:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Oracle v. Google Ruling Is Good for APIs — But with Some Catches]]></title>
-            <link>https://thenewstack.io/oracle-v-google-ruling-is-good-for-apis-but-with-some-catches/</link>
-            <guid>https://thenewstack.io/oracle-v-google-ruling-is-good-for-apis-but-with-some-catches/</guid>
-            <pubDate>Sat, 10 Apr 2021 01:09:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to actually test UIs]]></title>
@@ -117,16 +117,16 @@
             <pubDate>Thu, 08 Apr 2021 13:36:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why I Prefer Makefiles Over package.json Scripts]]></title>
-            <link>https://spin.atomicobject.com/2021/03/22/makefiles-vs-package-json-scripts/</link>
-            <guid>https://spin.atomicobject.com/2021/03/22/makefiles-vs-package-json-scripts/</guid>
-            <pubDate>Thu, 08 Apr 2021 21:05:51 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Uppy file uploader v1.27]]></title>
             <link>https://uppy.io/blog/2021/04/1.27/</link>
             <guid>https://uppy.io/blog/2021/04/1.27/</guid>
             <pubDate>Thu, 08 Apr 2021 10:45:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why I Prefer Makefiles Over package.json Scripts]]></title>
+            <link>https://spin.atomicobject.com/2021/03/22/makefiles-vs-package-json-scripts/</link>
+            <guid>https://spin.atomicobject.com/2021/03/22/makefiles-vs-package-json-scripts/</guid>
+            <pubDate>Thu, 08 Apr 2021 21:05:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[An immutable Javascript data-ledger.]]></title>

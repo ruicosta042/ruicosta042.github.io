@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sat, 10 Apr 2021 12:54:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Apr 2021 19:46:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,16 +21,52 @@
             <pubDate>Thu, 01 Apr 2021 06:19:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How should we resolve package-lock.json Merge conflicts?]]></title>
+            <link>https://stackoverflow.com/questions/54124033/deleting-package-lock-json-to-resolve-conflicts-quickly/54127283</link>
+            <guid>https://stackoverflow.com/questions/54124033/deleting-package-lock-json-to-resolve-conflicts-quickly/54127283</guid>
+            <pubDate>Sat, 10 Apr 2021 13:58:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How do I access state of child component in a method in the parent class?]]></title>
+            <link>https://stackoverflow.com/questions/67037957/</link>
+            <guid>https://stackoverflow.com/questions/67037957/</guid>
+            <pubDate>Sat, 10 Apr 2021 19:22:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[Academic] From AdobeXD to ReactJS Resource Pack (Designers/Developers)]]></title>
+            <link>https://coventry.onlinesurveys.ac.uk/from-adobexd-to-reactjs-resource-pack</link>
+            <guid>https://coventry.onlinesurveys.ac.uk/from-adobexd-to-reactjs-resource-pack</guid>
+            <pubDate>Sat, 10 Apr 2021 14:37:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[QR/bar code scanner for the Browser]]></title>
             <link>https://github.com/mchehab/zbar</link>
             <guid>https://github.com/mchehab/zbar</guid>
             <pubDate>Sat, 10 Apr 2021 06:41:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Export React Components as Images]]></title>
-            <link>https://javascript.plainenglish.io/export-react-components-as-images-15168b73b0eb?gi=21fb13444599</link>
-            <guid>https://javascript.plainenglish.io/export-react-components-as-images-15168b73b0eb?gi=21fb13444599</guid>
-            <pubDate>Fri, 09 Apr 2021 12:22:45 GMT</pubDate>
+            <title><![CDATA[Matter JS lags on user input, any way to fix?]]></title>
+            <link>https://course-evaluation-tool.vercel.app/</link>
+            <guid>https://course-evaluation-tool.vercel.app/</guid>
+            <pubDate>Sat, 10 Apr 2021 15:29:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React Lifecycle Methods – a visualization app]]></title>
+            <link>https://codetechnewbie.com/?p=142</link>
+            <guid>https://codetechnewbie.com/?p=142</guid>
+            <pubDate>Sat, 10 Apr 2021 14:52:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Issue using react-hook-form, typescript and a custom input (gist included)]]></title>
+            <link>https://gist.github.com/acomito/397bd5dd8186f19c53d512dc24734f79</link>
+            <guid>https://gist.github.com/acomito/397bd5dd8186f19c53d512dc24734f79</guid>
+            <pubDate>Sat, 10 Apr 2021 14:47:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[You can now create coding videos right from browser]]></title>
+            <link>https://openrtc.vercel.app/vlog?utm_source=vlog&amp;utm_medium=reddit</link>
+            <guid>https://openrtc.vercel.app/vlog?utm_source=vlog&amp;utm_medium=reddit</guid>
+            <pubDate>Sat, 10 Apr 2021 14:04:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Material Ui Checkbox - Pasted code]]></title>
@@ -39,34 +75,10 @@
             <pubDate>Sat, 10 Apr 2021 05:35:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How not to useRef]]></title>
-            <link>https://thoughtspile.github.io/2021/04/05/useref-usememo/</link>
-            <guid>https://thoughtspile.github.io/2021/04/05/useref-usememo/</guid>
-            <pubDate>Fri, 09 Apr 2021 18:36:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Newbie - Using the mousewheel event]]></title>
-            <link>https://codesandbox.io/s/embla-carousel-y-axis-react-forked-2jrbg?file=/src/js/EmblaCarousel.js</link>
-            <guid>https://codesandbox.io/s/embla-carousel-y-axis-react-forked-2jrbg?file=/src/js/EmblaCarousel.js</guid>
-            <pubDate>Sat, 10 Apr 2021 01:44:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[fastest way to build a frontend for a product marketplace website w/ strange products?]]></title>
-            <link>https://gumroad.com/discover?query=test</link>
-            <guid>https://gumroad.com/discover?query=test</guid>
-            <pubDate>Sat, 10 Apr 2021 00:30:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[would a “Refresh” button be an appropriate use case for forceUpdate()?]]></title>
-            <link>https://reactjs.org/docs/react-component.html#forceupdate</link>
-            <guid>https://reactjs.org/docs/react-component.html#forceupdate</guid>
-            <pubDate>Fri, 09 Apr 2021 18:39:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Familiar with google-map-react, but wanted to use Mapbox on a new project, does anything similar exist for mapbox?]]></title>
-            <link>https://www.npmjs.com/package/react-mapbox-gl</link>
-            <guid>https://www.npmjs.com/package/react-mapbox-gl</guid>
-            <pubDate>Fri, 09 Apr 2021 17:31:17 GMT</pubDate>
+            <title><![CDATA[Export React Components as Images]]></title>
+            <link>https://javascript.plainenglish.io/export-react-components-as-images-15168b73b0eb?gi=21fb13444599</link>
+            <guid>https://javascript.plainenglish.io/export-react-components-as-images-15168b73b0eb?gi=21fb13444599</guid>
+            <pubDate>Fri, 09 Apr 2021 12:22:45 GMT</pubDate>
         </item>
     </channel>
 </rss>

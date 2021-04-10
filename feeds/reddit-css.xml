@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Sat, 10 Apr 2021 12:54:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Apr 2021 19:46:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,12 @@
             <link>https://marketplace.visualstudio.com/items?itemName=wicked-labs.wicked-betamax</link>
             <guid>https://marketplace.visualstudio.com/items?itemName=wicked-labs.wicked-betamax</guid>
             <pubDate>Sat, 10 Apr 2021 11:25:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CSS Alignment Made Simple]]></title>
+            <link>https://georgianstan.medium.com/css-alignment-made-simple-41994049afaf?source=friends_link&amp;sk=62bb79ef917a01bcbbe8ad875b66c3b0</link>
+            <guid>https://georgianstan.medium.com/css-alignment-made-simple-41994049afaf?source=friends_link&amp;sk=62bb79ef917a01bcbbe8ad875b66c3b0</guid>
+            <pubDate>Sat, 10 Apr 2021 18:00:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UI Gradient Generator: Make Beautiful CSS Gradients [& SVG]]]></title>
@@ -55,24 +61,6 @@
             <link>https://piccalil.li/blog/container-queries-are-actually-coming</link>
             <guid>https://piccalil.li/blog/container-queries-are-actually-coming</guid>
             <pubDate>Thu, 08 Apr 2021 13:17:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inspect Element As A Way To Feed Your Curiosity]]></title>
-            <link>https://ishadeed.com/article/inspect-element-curiosity/</link>
-            <guid>https://ishadeed.com/article/inspect-element-curiosity/</guid>
-            <pubDate>Wed, 07 Apr 2021 20:29:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CSS :where & :is Pseudo-Class Functions]]></title>
-            <link>https://itnext.io/css-where-is-pseudo-class-functions-33964d0de461</link>
-            <guid>https://itnext.io/css-where-is-pseudo-class-functions-33964d0de461</guid>
-            <pubDate>Thu, 08 Apr 2021 02:17:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Flexbox in favicon]]></title>
-            <link>https://jsbin.com/pimefen/edit?html,output</link>
-            <guid>https://jsbin.com/pimefen/edit?html,output</guid>
-            <pubDate>Wed, 07 Apr 2021 12:29:38 GMT</pubDate>
         </item>
     </channel>
 </rss>

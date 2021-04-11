@@ -4,10 +4,34 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Sat, 10 Apr 2021 19:46:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Apr 2021 07:48:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Free programmable sms texting in node with textnow.js]]></title>
+            <link>https://textnow.com/</link>
+            <guid>https://textnow.com/</guid>
+            <pubDate>Sat, 10 Apr 2021 23:11:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I wrote my frist article about credential based authentication with Next + NextAuth + Strapi! and is just published on Strapi blog!]]></title>
+            <link>https://strapi.io/blog/Strapi-JWT-Authentication-Next.js</link>
+            <guid>https://strapi.io/blog/Strapi-JWT-Authentication-Next.js</guid>
+            <pubDate>Sun, 11 Apr 2021 02:38:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why I Prefer Makefiles Over package.json Scripts]]></title>
+            <link>https://spin.atomicobject.com/2021/03/22/makefiles-vs-package-json-scripts/</link>
+            <guid>https://spin.atomicobject.com/2021/03/22/makefiles-vs-package-json-scripts/</guid>
+            <pubDate>Sat, 10 Apr 2021 21:05:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Receiving email with webhook and express]]></title>
+            <link>https://www.cloudmailin.com/</link>
+            <guid>https://www.cloudmailin.com/</guid>
+            <pubDate>Sun, 11 Apr 2021 05:31:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bundling Yarn 1.x with NodeJS releases]]></title>
             <link>https://github.com/nodejs/node/pull/37277</link>
@@ -31,12 +55,6 @@
             <link>https://stackoverflow.com/questions/39293636/npm-err-error-eperm-operation-not-permitted-rename</link>
             <guid>https://stackoverflow.com/questions/39293636/npm-err-error-eperm-operation-not-permitted-rename</guid>
             <pubDate>Sat, 10 Apr 2021 10:05:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Node n00b]]></title>
-            <link>https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Displaying_data/flow_control_using_async</link>
-            <guid>https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Displaying_data/flow_control_using_async</guid>
-            <pubDate>Sat, 10 Apr 2021 02:56:50 GMT</pubDate>
         </item>
     </channel>
 </rss>

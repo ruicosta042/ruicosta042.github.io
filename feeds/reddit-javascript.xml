@@ -4,10 +4,16 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sat, 10 Apr 2021 19:46:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Apr 2021 07:48:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[I just write a WYSIWYG markdown editor, inspired by Typora.]]></title>
+            <link>https://github.com/Saul-Mirone/milkdown</link>
+            <guid>https://github.com/Saul-Mirone/milkdown</guid>
+            <pubDate>Sun, 11 Apr 2021 02:50:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[React with TypeScript]]></title>
             <link>https://mindaugasnakr.medium.com/react-with-typescript-55670137c2da</link>
@@ -15,10 +21,34 @@
             <pubDate>Sat, 10 Apr 2021 16:44:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Node-binding for 'peco'. command line prompt utility written in Go]]></title>
+            <link>https://github.com/minidonut/node-peco</link>
+            <guid>https://github.com/minidonut/node-peco</guid>
+            <pubDate>Sat, 10 Apr 2021 21:12:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Simplest Way to Download SVG/DOM Elements]]></title>
+            <link>https://fabiwo.io/blog/download-the-dom</link>
+            <guid>https://fabiwo.io/blog/download-the-dom</guid>
+            <pubDate>Sun, 11 Apr 2021 06:33:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Frontend Security]]></title>
+            <link>https://piyushsinha.tech/frontend-security</link>
+            <guid>https://piyushsinha.tech/frontend-security</guid>
+            <pubDate>Sun, 11 Apr 2021 01:23:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Comparing the New Generation of Build Tools]]></title>
             <link>https://css-tricks.com/comparing-the-new-generation-of-build-tools/</link>
             <guid>https://css-tricks.com/comparing-the-new-generation-of-build-tools/</guid>
             <pubDate>Fri, 09 Apr 2021 19:52:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I made a password generator that can also serve as a strong id generator for an app]]></title>
+            <link>https://gist.github.com/Elijah-trillionz/25ed2b79fe56f16cf404190f0116add7</link>
+            <guid>https://gist.github.com/Elijah-trillionz/25ed2b79fe56f16cf404190f0116add7</guid>
+            <pubDate>Sat, 10 Apr 2021 23:02:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[moovie.js - Movie focused HTML5 Player]]></title>
@@ -33,12 +63,6 @@
             <pubDate>Fri, 09 Apr 2021 19:05:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Makerwork 008 includes an open source Javascript alternative to Help Scout, ZenDesk and similar customer feedback software.]]></title>
-            <link>https://makerwork.substack.com/p/makerwork008</link>
-            <guid>https://makerwork.substack.com/p/makerwork008</guid>
-            <pubDate>Sat, 10 Apr 2021 06:07:15 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[How to actually test UIs]]></title>
             <link>https://storybook.js.org/blog/how-to-actually-test-uis/</link>
             <guid>https://storybook.js.org/blog/how-to-actually-test-uis/</guid>
@@ -51,16 +75,16 @@
             <pubDate>Fri, 09 Apr 2021 18:08:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I made a simple Stock and Crypto alert console app and open sourced it. You can add your own API's, your own assets, you own mathematical expressions and get your own messages with Webhook!]]></title>
-            <link>https://github.com/UnioDex/WBStockChecker</link>
-            <guid>https://github.com/UnioDex/WBStockChecker</guid>
-            <pubDate>Fri, 09 Apr 2021 21:26:07 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Doodle 0.5.0 released]]></title>
             <link>https://github.com/nacular/doodle/</link>
             <guid>https://github.com/nacular/doodle/</guid>
             <pubDate>Fri, 09 Apr 2021 15:58:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I made a simple Stock and Crypto alert console app and open sourced it. You can add your own API's, your own assets, you own mathematical expressions and get your own messages with Webhook!]]></title>
+            <link>https://github.com/UnioDex/WBStockChecker</link>
+            <guid>https://github.com/UnioDex/WBStockChecker</guid>
+            <pubDate>Fri, 09 Apr 2021 21:26:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[object detection deep learning with javascript]]></title>
@@ -81,16 +105,16 @@
             <pubDate>Thu, 08 Apr 2021 16:27:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Car keys toggle it right !]]></title>
-            <link>https://dev.to/dmail/car-keys-toggle-it-right-45dh</link>
-            <guid>https://dev.to/dmail/car-keys-toggle-it-right-45dh</guid>
-            <pubDate>Fri, 09 Apr 2021 13:42:48 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Introducing MathicallJS - A new javascript math library for simulations, data processing, browser games, etc.. It was originally created for a terrain generation project.]]></title>
             <link>https://github.com/PatGleeson101/mathicall.js</link>
             <guid>https://github.com/PatGleeson101/mathicall.js</guid>
             <pubDate>Thu, 08 Apr 2021 04:50:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Car keys toggle it right !]]></title>
+            <link>https://dev.to/dmail/car-keys-toggle-it-right-45dh</link>
+            <guid>https://dev.to/dmail/car-keys-toggle-it-right-45dh</guid>
+            <pubDate>Fri, 09 Apr 2021 13:42:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Three intermediate functional JS patterns]]></title>
@@ -117,40 +141,16 @@
             <pubDate>Thu, 08 Apr 2021 13:36:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Uppy file uploader v1.27]]></title>
-            <link>https://uppy.io/blog/2021/04/1.27/</link>
-            <guid>https://uppy.io/blog/2021/04/1.27/</guid>
-            <pubDate>Thu, 08 Apr 2021 10:45:13 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Why I Prefer Makefiles Over package.json Scripts]]></title>
             <link>https://spin.atomicobject.com/2021/03/22/makefiles-vs-package-json-scripts/</link>
             <guid>https://spin.atomicobject.com/2021/03/22/makefiles-vs-package-json-scripts/</guid>
             <pubDate>Thu, 08 Apr 2021 21:05:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[An immutable Javascript data-ledger.]]></title>
-            <link>https://www.npmjs.com/package/@concords/ledger</link>
-            <guid>https://www.npmjs.com/package/@concords/ledger</guid>
-            <pubDate>Thu, 08 Apr 2021 15:07:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JavaScript for optimizers #8: Changing button icons - GrowthPenguin]]></title>
-            <link>https://jeroenwiersma.com/javascript-for-optimizers-8-changing-button-icons/</link>
-            <guid>https://jeroenwiersma.com/javascript-for-optimizers-8-changing-button-icons/</guid>
-            <pubDate>Thu, 08 Apr 2021 14:45:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EfficientNet - image recognition model written in typescript and Nodejs]]></title>
-            <link>https://github.com/ntedgi/node-efficientnet</link>
-            <guid>https://github.com/ntedgi/node-efficientnet</guid>
-            <pubDate>Thu, 08 Apr 2021 09:08:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[You think protobuf.js is faster than JSON?]]></title>
-            <link>https://www.aspecto.io/blog/is-protobuf-js-faster-than-json/?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=is-protobuf-js-faster-than-json</link>
-            <guid>https://www.aspecto.io/blog/is-protobuf-js-faster-than-json/?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=is-protobuf-js-faster-than-json</guid>
-            <pubDate>Thu, 08 Apr 2021 15:28:12 GMT</pubDate>
+            <title><![CDATA[Uppy file uploader v1.27]]></title>
+            <link>https://uppy.io/blog/2021/04/1.27/</link>
+            <guid>https://uppy.io/blog/2021/04/1.27/</guid>
+            <pubDate>Thu, 08 Apr 2021 10:45:13 GMT</pubDate>
         </item>
     </channel>
 </rss>

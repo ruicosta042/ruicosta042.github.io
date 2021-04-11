@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sat, 10 Apr 2021 19:46:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Apr 2021 07:48:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,16 +21,34 @@
             <pubDate>Thu, 01 Apr 2021 06:19:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[reCAPTCHA with React: How to verify the return token using react-google-recaptcha-v3?]]></title>
+            <link>https://www.npmjs.com/package/react-google-recaptcha-v3</link>
+            <guid>https://www.npmjs.com/package/react-google-recaptcha-v3</guid>
+            <pubDate>Sun, 11 Apr 2021 07:41:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Custom boilerplates]]></title>
+            <link>https://github.com/MiguelArmendariz</link>
+            <guid>https://github.com/MiguelArmendariz</guid>
+            <pubDate>Sat, 10 Apr 2021 23:56:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How should we resolve package-lock.json Merge conflicts?]]></title>
             <link>https://stackoverflow.com/questions/54124033/deleting-package-lock-json-to-resolve-conflicts-quickly/54127283</link>
             <guid>https://stackoverflow.com/questions/54124033/deleting-package-lock-json-to-resolve-conflicts-quickly/54127283</guid>
             <pubDate>Sat, 10 Apr 2021 13:58:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How do I access state of child component in a method in the parent class?]]></title>
-            <link>https://stackoverflow.com/questions/67037957/</link>
-            <guid>https://stackoverflow.com/questions/67037957/</guid>
-            <pubDate>Sat, 10 Apr 2021 19:22:25 GMT</pubDate>
+            <title><![CDATA[You can now create coding videos right from browser]]></title>
+            <link>https://openrtc.vercel.app/vlog?utm_source=vlog&amp;utm_medium=reddit</link>
+            <guid>https://openrtc.vercel.app/vlog?utm_source=vlog&amp;utm_medium=reddit</guid>
+            <pubDate>Sat, 10 Apr 2021 14:04:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React Lifecycle Methods – a visualization app]]></title>
+            <link>https://codetechnewbie.com/?p=142</link>
+            <guid>https://codetechnewbie.com/?p=142</guid>
+            <pubDate>Sat, 10 Apr 2021 14:52:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[Academic] From AdobeXD to ReactJS Resource Pack (Designers/Developers)]]></title>
@@ -45,40 +63,22 @@
             <pubDate>Sat, 10 Apr 2021 06:41:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How do I access state of child component in a method in the parent class?]]></title>
+            <link>https://stackoverflow.com/questions/67037957/</link>
+            <guid>https://stackoverflow.com/questions/67037957/</guid>
+            <pubDate>Sat, 10 Apr 2021 19:22:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Matter JS lags on user input, any way to fix?]]></title>
             <link>https://course-evaluation-tool.vercel.app/</link>
             <guid>https://course-evaluation-tool.vercel.app/</guid>
             <pubDate>Sat, 10 Apr 2021 15:29:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React Lifecycle Methods – a visualization app]]></title>
-            <link>https://codetechnewbie.com/?p=142</link>
-            <guid>https://codetechnewbie.com/?p=142</guid>
-            <pubDate>Sat, 10 Apr 2021 14:52:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Issue using react-hook-form, typescript and a custom input (gist included)]]></title>
             <link>https://gist.github.com/acomito/397bd5dd8186f19c53d512dc24734f79</link>
             <guid>https://gist.github.com/acomito/397bd5dd8186f19c53d512dc24734f79</guid>
             <pubDate>Sat, 10 Apr 2021 14:47:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[You can now create coding videos right from browser]]></title>
-            <link>https://openrtc.vercel.app/vlog?utm_source=vlog&amp;utm_medium=reddit</link>
-            <guid>https://openrtc.vercel.app/vlog?utm_source=vlog&amp;utm_medium=reddit</guid>
-            <pubDate>Sat, 10 Apr 2021 14:04:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Material Ui Checkbox - Pasted code]]></title>
-            <link>https://codesandbox.io/s/material-demo-forked-g7h71?file=/demo.js</link>
-            <guid>https://codesandbox.io/s/material-demo-forked-g7h71?file=/demo.js</guid>
-            <pubDate>Sat, 10 Apr 2021 05:35:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Export React Components as Images]]></title>
-            <link>https://javascript.plainenglish.io/export-react-components-as-images-15168b73b0eb?gi=21fb13444599</link>
-            <guid>https://javascript.plainenglish.io/export-react-components-as-images-15168b73b0eb?gi=21fb13444599</guid>
-            <pubDate>Fri, 09 Apr 2021 12:22:45 GMT</pubDate>
         </item>
     </channel>
 </rss>

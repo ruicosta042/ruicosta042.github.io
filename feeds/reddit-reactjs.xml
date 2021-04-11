@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sun, 11 Apr 2021 07:48:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Apr 2021 12:54:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,10 +21,40 @@
             <pubDate>Thu, 01 Apr 2021 06:19:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[I created my first ever reactJS app after months of tutorials]]></title>
+            <link>https://geo-json.com/</link>
+            <guid>https://geo-json.com/</guid>
+            <pubDate>Sun, 11 Apr 2021 09:00:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🌈RGT: React Gradient Text]]></title>
+            <link>https://rgt.borja.ai/</link>
+            <guid>https://rgt.borja.ai/</guid>
+            <pubDate>Sun, 11 Apr 2021 10:10:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Better Error Handling with Axios and React!]]></title>
+            <link>https://seanurgel.dev/blog/better-error-handling-in-react-and-axios</link>
+            <guid>https://seanurgel.dev/blog/better-error-handling-in-react-and-axios</guid>
+            <pubDate>Sun, 11 Apr 2021 08:59:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[reCAPTCHA with React: How to verify the return token using react-google-recaptcha-v3?]]></title>
             <link>https://www.npmjs.com/package/react-google-recaptcha-v3</link>
             <guid>https://www.npmjs.com/package/react-google-recaptcha-v3</guid>
             <pubDate>Sun, 11 Apr 2021 07:41:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Better UX with Optimistic UI in React]]></title>
+            <link>https://medium.com/geekculture/better-ux-with-optimistic-ui-ec0bdeea0638?sk=988a44260da42a8757e55b54194ad061</link>
+            <guid>https://medium.com/geekculture/better-ux-with-optimistic-ui-ec0bdeea0638?sk=988a44260da42a8757e55b54194ad061</guid>
+            <pubDate>Sun, 11 Apr 2021 12:48:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Made the 1st React-Admin Community Discord (Unofficial)]]></title>
+            <link>https://discord.me/react-admin</link>
+            <guid>https://discord.me/react-admin</guid>
+            <pubDate>Sun, 11 Apr 2021 08:12:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Custom boilerplates]]></title>
@@ -55,30 +85,6 @@
             <link>https://coventry.onlinesurveys.ac.uk/from-adobexd-to-reactjs-resource-pack</link>
             <guid>https://coventry.onlinesurveys.ac.uk/from-adobexd-to-reactjs-resource-pack</guid>
             <pubDate>Sat, 10 Apr 2021 14:37:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[QR/bar code scanner for the Browser]]></title>
-            <link>https://github.com/mchehab/zbar</link>
-            <guid>https://github.com/mchehab/zbar</guid>
-            <pubDate>Sat, 10 Apr 2021 06:41:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How do I access state of child component in a method in the parent class?]]></title>
-            <link>https://stackoverflow.com/questions/67037957/</link>
-            <guid>https://stackoverflow.com/questions/67037957/</guid>
-            <pubDate>Sat, 10 Apr 2021 19:22:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Matter JS lags on user input, any way to fix?]]></title>
-            <link>https://course-evaluation-tool.vercel.app/</link>
-            <guid>https://course-evaluation-tool.vercel.app/</guid>
-            <pubDate>Sat, 10 Apr 2021 15:29:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Issue using react-hook-form, typescript and a custom input (gist included)]]></title>
-            <link>https://gist.github.com/acomito/397bd5dd8186f19c53d512dc24734f79</link>
-            <guid>https://gist.github.com/acomito/397bd5dd8186f19c53d512dc24734f79</guid>
-            <pubDate>Sat, 10 Apr 2021 14:47:45 GMT</pubDate>
         </item>
     </channel>
 </rss>

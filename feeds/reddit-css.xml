@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Sun, 11 Apr 2021 07:48:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Apr 2021 12:54:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -55,12 +55,6 @@
             <link>https://perfectmotherfuckingwebsite.com/</link>
             <guid>https://perfectmotherfuckingwebsite.com/</guid>
             <pubDate>Fri, 09 Apr 2021 13:58:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Container Queries are actually coming]]></title>
-            <link>https://piccalil.li/blog/container-queries-are-actually-coming</link>
-            <guid>https://piccalil.li/blog/container-queries-are-actually-coming</guid>
-            <pubDate>Thu, 08 Apr 2021 13:17:44 GMT</pubDate>
         </item>
     </channel>
 </rss>

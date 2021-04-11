@@ -4,10 +4,16 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Sun, 11 Apr 2021 07:48:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Apr 2021 12:54:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[TypeError: Cannot read property 'send' of undefined : NodeJs]]></title>
+            <link>https://app.post/</link>
+            <guid>https://app.post/</guid>
+            <pubDate>Sun, 11 Apr 2021 11:11:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Free programmable sms texting in node with textnow.js]]></title>
             <link>https://textnow.com/</link>
@@ -15,16 +21,22 @@
             <pubDate>Sat, 10 Apr 2021 23:11:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I wrote my frist article about credential based authentication with Next + NextAuth + Strapi! and is just published on Strapi blog!]]></title>
-            <link>https://strapi.io/blog/Strapi-JWT-Authentication-Next.js</link>
-            <guid>https://strapi.io/blog/Strapi-JWT-Authentication-Next.js</guid>
-            <pubDate>Sun, 11 Apr 2021 02:38:36 GMT</pubDate>
+            <title><![CDATA[Express Typescript Starter]]></title>
+            <link>https://github.com/kutia-software-company/express-typescript-starter</link>
+            <guid>https://github.com/kutia-software-company/express-typescript-starter</guid>
+            <pubDate>Sun, 11 Apr 2021 11:52:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why I Prefer Makefiles Over package.json Scripts]]></title>
             <link>https://spin.atomicobject.com/2021/03/22/makefiles-vs-package-json-scripts/</link>
             <guid>https://spin.atomicobject.com/2021/03/22/makefiles-vs-package-json-scripts/</guid>
             <pubDate>Sat, 10 Apr 2021 21:05:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I wrote my frist article about credential based authentication with Next + NextAuth + Strapi! and is just published on Strapi blog!]]></title>
+            <link>https://strapi.io/blog/Strapi-JWT-Authentication-Next.js</link>
+            <guid>https://strapi.io/blog/Strapi-JWT-Authentication-Next.js</guid>
+            <pubDate>Sun, 11 Apr 2021 02:38:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Receiving email with webhook and express]]></title>
@@ -43,18 +55,6 @@
             <link>https://lazypandatech.com/blog/NodeJS/29/How-to-Build-a-serverless-backend-AWS-Lambda-function-to-upload-a-file-using-TypeScript-with-Node</link>
             <guid>https://lazypandatech.com/blog/NodeJS/29/How-to-Build-a-serverless-backend-AWS-Lambda-function-to-upload-a-file-using-TypeScript-with-Node</guid>
             <pubDate>Sat, 10 Apr 2021 10:27:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[5 ways to prevent code injection in JavaScript and Node.js]]></title>
-            <link>https://snyk.io/blog/5-ways-to-prevent-code-injection-in-javascript-and-node-js/</link>
-            <guid>https://snyk.io/blog/5-ways-to-prevent-code-injection-in-javascript-and-node-js/</guid>
-            <pubDate>Fri, 09 Apr 2021 19:43:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Running into an issue with Fs.rename where trying to rename a file to another filename that already exists causes an EPERM error on Windows.]]></title>
-            <link>https://stackoverflow.com/questions/39293636/npm-err-error-eperm-operation-not-permitted-rename</link>
-            <guid>https://stackoverflow.com/questions/39293636/npm-err-error-eperm-operation-not-permitted-rename</guid>
-            <pubDate>Sat, 10 Apr 2021 10:05:25 GMT</pubDate>
         </item>
     </channel>
 </rss>

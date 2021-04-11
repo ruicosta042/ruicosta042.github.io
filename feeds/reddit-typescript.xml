@@ -4,21 +4,27 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Sun, 11 Apr 2021 12:54:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Apr 2021 19:46:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA["browser.setValue()" TypeError while using WebDriver.IO in Typescript]]></title>
-            <link>https://webdriver.io/</link>
-            <guid>https://webdriver.io/</guid>
-            <pubDate>Sat, 10 Apr 2021 17:17:59 GMT</pubDate>
+            <title><![CDATA[Is it common to use Arrow Functions to declare static methods inside a class?]]></title>
+            <link>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions</link>
+            <guid>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions</guid>
+            <pubDate>Sun, 11 Apr 2021 18:21:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[React with TypeScript]]></title>
             <link>https://mindaugasnakr.medium.com/react-with-typescript-55670137c2da</link>
             <guid>https://mindaugasnakr.medium.com/react-with-typescript-55670137c2da</guid>
             <pubDate>Sat, 10 Apr 2021 16:44:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["browser.setValue()" TypeError while using WebDriver.IO in Typescript]]></title>
+            <link>https://webdriver.io/</link>
+            <guid>https://webdriver.io/</guid>
+            <pubDate>Sat, 10 Apr 2021 17:17:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How do I unit test my *browser only* typescript project with modules using jest?]]></title>
@@ -91,12 +97,6 @@
             <link>https://codesandbox.io/s/boring-fast-9xzmq?file=/src/Wrapper.tsx</link>
             <guid>https://codesandbox.io/s/boring-fast-9xzmq?file=/src/Wrapper.tsx</guid>
             <pubDate>Wed, 07 Apr 2021 04:38:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[fluse - Composable and type-safe fixtures]]></title>
-            <link>https://github.com/Nayni/fluse</link>
-            <guid>https://github.com/Nayni/fluse</guid>
-            <pubDate>Mon, 05 Apr 2021 18:53:45 GMT</pubDate>
         </item>
     </channel>
 </rss>

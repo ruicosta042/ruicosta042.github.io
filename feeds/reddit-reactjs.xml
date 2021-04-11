@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sun, 11 Apr 2021 12:54:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Apr 2021 19:46:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -27,10 +27,22 @@
             <pubDate>Sun, 11 Apr 2021 09:00:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[🌈RGT: React Gradient Text]]></title>
-            <link>https://rgt.borja.ai/</link>
-            <guid>https://rgt.borja.ai/</guid>
-            <pubDate>Sun, 11 Apr 2021 10:10:15 GMT</pubDate>
+            <title><![CDATA[I wrote my first article about credential-based authentication with Next + NextAuth + Strapi! and is just published on Strapi blog!]]></title>
+            <link>https://strapi.io/blog/Strapi-JWT-Authentication-Next.js</link>
+            <guid>https://strapi.io/blog/Strapi-JWT-Authentication-Next.js</guid>
+            <pubDate>Sun, 11 Apr 2021 15:54:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We created a website for an italian university network]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Sun, 11 Apr 2021 19:35:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Finished my First React Project]]></title>
+            <link>https://freebay.netlify.app/</link>
+            <guid>https://freebay.netlify.app/</guid>
+            <pubDate>Sun, 11 Apr 2021 18:08:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Better Error Handling with Axios and React!]]></title>
@@ -39,16 +51,22 @@
             <pubDate>Sun, 11 Apr 2021 08:59:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[reCAPTCHA with React: How to verify the return token using react-google-recaptcha-v3?]]></title>
-            <link>https://www.npmjs.com/package/react-google-recaptcha-v3</link>
-            <guid>https://www.npmjs.com/package/react-google-recaptcha-v3</guid>
-            <pubDate>Sun, 11 Apr 2021 07:41:30 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Better UX with Optimistic UI in React]]></title>
             <link>https://medium.com/geekculture/better-ux-with-optimistic-ui-ec0bdeea0638?sk=988a44260da42a8757e55b54194ad061</link>
             <guid>https://medium.com/geekculture/better-ux-with-optimistic-ui-ec0bdeea0638?sk=988a44260da42a8757e55b54194ad061</guid>
             <pubDate>Sun, 11 Apr 2021 12:48:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🌈RGT: React Gradient Text]]></title>
+            <link>https://rgt.borja.ai/</link>
+            <guid>https://rgt.borja.ai/</guid>
+            <pubDate>Sun, 11 Apr 2021 10:10:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[reCAPTCHA with React: How to verify the return token using react-google-recaptcha-v3?]]></title>
+            <link>https://www.npmjs.com/package/react-google-recaptcha-v3</link>
+            <guid>https://www.npmjs.com/package/react-google-recaptcha-v3</guid>
+            <pubDate>Sun, 11 Apr 2021 07:41:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Made the 1st React-Admin Community Discord (Unofficial)]]></title>
@@ -61,30 +79,6 @@
             <link>https://github.com/MiguelArmendariz</link>
             <guid>https://github.com/MiguelArmendariz</guid>
             <pubDate>Sat, 10 Apr 2021 23:56:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How should we resolve package-lock.json Merge conflicts?]]></title>
-            <link>https://stackoverflow.com/questions/54124033/deleting-package-lock-json-to-resolve-conflicts-quickly/54127283</link>
-            <guid>https://stackoverflow.com/questions/54124033/deleting-package-lock-json-to-resolve-conflicts-quickly/54127283</guid>
-            <pubDate>Sat, 10 Apr 2021 13:58:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[You can now create coding videos right from browser]]></title>
-            <link>https://openrtc.vercel.app/vlog?utm_source=vlog&amp;utm_medium=reddit</link>
-            <guid>https://openrtc.vercel.app/vlog?utm_source=vlog&amp;utm_medium=reddit</guid>
-            <pubDate>Sat, 10 Apr 2021 14:04:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React Lifecycle Methods – a visualization app]]></title>
-            <link>https://codetechnewbie.com/?p=142</link>
-            <guid>https://codetechnewbie.com/?p=142</guid>
-            <pubDate>Sat, 10 Apr 2021 14:52:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[Academic] From AdobeXD to ReactJS Resource Pack (Designers/Developers)]]></title>
-            <link>https://coventry.onlinesurveys.ac.uk/from-adobexd-to-reactjs-resource-pack</link>
-            <guid>https://coventry.onlinesurveys.ac.uk/from-adobexd-to-reactjs-resource-pack</guid>
-            <pubDate>Sat, 10 Apr 2021 14:37:53 GMT</pubDate>
         </item>
     </channel>
 </rss>

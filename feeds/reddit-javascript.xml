@@ -4,10 +4,16 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sun, 11 Apr 2021 12:54:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Apr 2021 19:46:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[In Console 48 we got an interview with Mark Nadal, founder of GUN, a P2P database written in Javascript! I thought /r/javascript might be interested in checking it out!]]></title>
+            <link>https://console.substack.com/p/console-48?r=3cbez&amp;utm_campaign=post&amp;utm_medium=web&amp;utm_source=javascript_subreddit</link>
+            <guid>https://console.substack.com/p/console-48?r=3cbez&amp;utm_campaign=post&amp;utm_medium=web&amp;utm_source=javascript_subreddit</guid>
+            <pubDate>Sun, 11 Apr 2021 15:03:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I just write a WYSIWYG markdown editor, inspired by Typora.]]></title>
             <link>https://github.com/Saul-Mirone/milkdown</link>
@@ -25,6 +31,12 @@
             <link>https://swc.rs/blog/2021/04/11/swc-1.2.52/</link>
             <guid>https://swc.rs/blog/2021/04/11/swc-1.2.52/</guid>
             <pubDate>Sun, 11 Apr 2021 08:35:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[USON, UXML, UCFG: micro formats in modern way]]></title>
+            <link>https://github.com/garnetius/uson-js</link>
+            <guid>https://github.com/garnetius/uson-js</guid>
+            <pubDate>Sun, 11 Apr 2021 17:28:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Frontend Security]]></title>
@@ -133,18 +145,6 @@
             <link>https://dev.to/younginnovations/get-instant-country-flags-22pe</link>
             <guid>https://dev.to/younginnovations/get-instant-country-flags-22pe</guid>
             <pubDate>Fri, 09 Apr 2021 07:30:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to write better reusable code]]></title>
-            <link>https://godoffrontend.com/posts/terseness-vs-control/</link>
-            <guid>https://godoffrontend.com/posts/terseness-vs-control/</guid>
-            <pubDate>Thu, 08 Apr 2021 09:38:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tau - A template for creating Electron apps using React with TypeScript.]]></title>
-            <link>https://github.com/kherge/js.tau</link>
-            <guid>https://github.com/kherge/js.tau</guid>
-            <pubDate>Thu, 08 Apr 2021 13:36:09 GMT</pubDate>
         </item>
     </channel>
 </rss>

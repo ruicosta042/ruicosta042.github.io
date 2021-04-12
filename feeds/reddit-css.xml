@@ -4,10 +4,22 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Mon, 12 Apr 2021 07:49:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Apr 2021 12:55:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[CSS Pie Timer Revisited]]></title>
+            <link>https://kittygiraudel.com/2021/04/11/css-pie-timer-revisited/</link>
+            <guid>https://kittygiraudel.com/2021/04/11/css-pie-timer-revisited/</guid>
+            <pubDate>Mon, 12 Apr 2021 08:31:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trouble implementing CSS with "User CSS" Chrome extension]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Mon, 12 Apr 2021 08:47:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Animation of inset edge shadow when user tries to scroll beyond the y scroll limit.]]></title>
             <link>https://foo.com/</link>
@@ -43,18 +55,6 @@
             <link>https://jsfiddle.net/hc7muswj/</link>
             <guid>https://jsfiddle.net/hc7muswj/</guid>
             <pubDate>Fri, 09 Apr 2021 10:06:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Creating Colorful, Smart Shadows]]></title>
-            <link>https://www.kirupa.com/html5/creating_colorful_smart_shadows.htm</link>
-            <guid>https://www.kirupa.com/html5/creating_colorful_smart_shadows.htm</guid>
-            <pubDate>Fri, 09 Apr 2021 12:49:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Paper Snowflakes: Combining Clipping and Masking in CSS]]></title>
-            <link>https://css-irl.info/paper-snowflakes-combining-clipping-and-masking-in-css/</link>
-            <guid>https://css-irl.info/paper-snowflakes-combining-clipping-and-masking-in-css/</guid>
-            <pubDate>Fri, 09 Apr 2021 12:35:07 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,16 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Mon, 12 Apr 2021 07:49:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Apr 2021 12:55:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Your /r/javascript recap for the week of April 05 - April 11]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Mon, 12 Apr 2021 09:04:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Simple inverted index, database implemantation.]]></title>
             <link>https://github.com/foxql/database</link>
@@ -33,10 +39,22 @@
             <pubDate>Mon, 12 Apr 2021 05:19:57 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How to monkey patch node_modules]]></title>
+            <link>https://eytanmanor.medium.com/how-to-monkey-patch-node-modules-ef2536405a2e</link>
+            <guid>https://eytanmanor.medium.com/how-to-monkey-patch-node-modules-ef2536405a2e</guid>
+            <pubDate>Mon, 12 Apr 2021 09:52:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I just write a WYSIWYG markdown editor, inspired by Typora.]]></title>
             <link>https://github.com/Saul-Mirone/milkdown</link>
             <guid>https://github.com/Saul-Mirone/milkdown</guid>
             <pubDate>Sun, 11 Apr 2021 02:50:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[chart.js examples in the wild]]></title>
+            <link>https://wpdatatables.com/chart-js-examples/</link>
+            <guid>https://wpdatatables.com/chart-js-examples/</guid>
+            <pubDate>Mon, 12 Apr 2021 08:29:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[USON, UXML, UCFG: micro formats in modern way]]></title>
@@ -51,16 +69,16 @@
             <pubDate>Mon, 12 Apr 2021 01:39:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Simplest Way to Download SVG/DOM Elements]]></title>
-            <link>https://fabiwo.io/blog/download-the-dom</link>
-            <guid>https://fabiwo.io/blog/download-the-dom</guid>
-            <pubDate>Sun, 11 Apr 2021 06:33:55 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[swc v1.2.52: Fast refresh, TypeScript 4.3, etc]]></title>
             <link>https://swc.rs/blog/2021/04/11/swc-1.2.52/</link>
             <guid>https://swc.rs/blog/2021/04/11/swc-1.2.52/</guid>
             <pubDate>Sun, 11 Apr 2021 08:35:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Simplest Way to Download SVG/DOM Elements]]></title>
+            <link>https://fabiwo.io/blog/download-the-dom</link>
+            <guid>https://fabiwo.io/blog/download-the-dom</guid>
+            <pubDate>Sun, 11 Apr 2021 06:33:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I made this D3 heatmap to represent profiled Python code any ideas on how this heatmap could be made better and fancier?]]></title>
@@ -139,18 +157,6 @@
             <link>https://github.com/logchimp/logchimp</link>
             <guid>https://github.com/logchimp/logchimp</guid>
             <pubDate>Fri, 09 Apr 2021 07:33:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[object detection deep learning with javascript]]></title>
-            <link>https://ntedgi.github.io/node-efficientnet/</link>
-            <guid>https://ntedgi.github.io/node-efficientnet/</guid>
-            <pubDate>Fri, 09 Apr 2021 11:29:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Migrating DevTools to TypeScript - Chrome Developers]]></title>
-            <link>https://developer.chrome.com/blog/migrating-to-typescript/</link>
-            <guid>https://developer.chrome.com/blog/migrating-to-typescript/</guid>
-            <pubDate>Thu, 08 Apr 2021 16:27:24 GMT</pubDate>
         </item>
     </channel>
 </rss>

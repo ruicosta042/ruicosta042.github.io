@@ -4,21 +4,33 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Mon, 12 Apr 2021 07:49:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Apr 2021 12:55:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[i dont understand what is this. it is for a telegram bot. able to explain the problem n give a fix thx.]]></title>
-            <link>https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode</link>
-            <guid>https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode</guid>
-            <pubDate>Mon, 12 Apr 2021 04:08:46 GMT</pubDate>
+            <title><![CDATA[Web Scraping with Javascript: from Axios to Puppeteer and Playwright]]></title>
+            <link>https://scrapingant.com/blog/web-scraping-javascript</link>
+            <guid>https://scrapingant.com/blog/web-scraping-javascript</guid>
+            <pubDate>Mon, 12 Apr 2021 10:05:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to monkey patch node_modules]]></title>
+            <link>https://eytanmanor.medium.com/how-to-monkey-patch-node-modules-ef2536405a2e</link>
+            <guid>https://eytanmanor.medium.com/how-to-monkey-patch-node-modules-ef2536405a2e</guid>
+            <pubDate>Mon, 12 Apr 2021 09:53:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Partner Up for Learning]]></title>
             <link>https://discord.gg/ayeGrsaSG2</link>
             <guid>https://discord.gg/ayeGrsaSG2</guid>
             <pubDate>Sun, 11 Apr 2021 20:59:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[i dont understand what is this. it is for a telegram bot. able to explain the problem n give a fix thx.]]></title>
+            <link>https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode</link>
+            <guid>https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode</guid>
+            <pubDate>Mon, 12 Apr 2021 04:08:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[nodejs s3 wrapper, download bucket recursively]]></title>
@@ -55,12 +67,6 @@
             <link>https://app.post/</link>
             <guid>https://app.post/</guid>
             <pubDate>Sun, 11 Apr 2021 11:11:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I wrote my frist article about credential based authentication with Next + NextAuth + Strapi! and is just published on Strapi blog!]]></title>
-            <link>https://strapi.io/blog/Strapi-JWT-Authentication-Next.js</link>
-            <guid>https://strapi.io/blog/Strapi-JWT-Authentication-Next.js</guid>
-            <pubDate>Sun, 11 Apr 2021 02:38:36 GMT</pubDate>
         </item>
     </channel>
 </rss>

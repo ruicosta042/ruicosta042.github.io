@@ -4,10 +4,16 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Mon, 12 Apr 2021 07:49:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Apr 2021 12:55:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[TypeScript reached 70k stars on GitHub]]></title>
+            <link>https://twitter.com/github_tracker/status/1381528821464174597?s=20</link>
+            <guid>https://twitter.com/github_tracker/status/1381528821464174597?s=20</guid>
+            <pubDate>Mon, 12 Apr 2021 09:10:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[@coderspirit/nominal - Crazily powerful nominal types on Typescript]]></title>
             <link>https://basarat.gitbook.io/typescript/main-1/nominaltyping</link>
@@ -15,10 +21,22 @@
             <pubDate>Sun, 11 Apr 2021 22:47:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[cant find types for cheerio]]></title>
+            <link>https://dev.to/caelinsutch/building-a-web-scraper-in-typescript-14l1</link>
+            <guid>https://dev.to/caelinsutch/building-a-web-scraper-in-typescript-14l1</guid>
+            <pubDate>Mon, 12 Apr 2021 09:20:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Is it common to use Arrow Functions to declare static methods inside a class?]]></title>
             <link>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions</link>
             <guid>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions</guid>
             <pubDate>Sun, 11 Apr 2021 18:21:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How do I access an object or array type]]></title>
+            <link>https://www.typescriptlang.org/play?#code/C4TwDgpgBAwg9gGwRAxsAlnAdlAvFAZ2ACd0sBzAbQF0oAfKAJVTmIBMAeI0igGkJJlyAPgDcAWABQUlNiJQIADwCGAWzDIAYgFcsaTDnwAKMmyUAuKFm2qARhGL0BPcv1lJUGbJfgf92AEo8YSh3ZH8sSlMlaglJIA</link>
+            <guid>https://www.typescriptlang.org/play?#code/C4TwDgpgBAwg9gGwRAxsAlnAdlAvFAZ2ACd0sBzAbQF0oAfKAJVTmIBMAeI0igGkJJlyAPgDcAWABQUlNiJQIADwCGAWzDIAYgFcsaTDnwAKMmyUAuKFm2qARhGL0BPcv1lJUGbJfgf92AEo8YSh3ZH8sSlMlaglJIA</guid>
+            <pubDate>Sun, 11 Apr 2021 20:20:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[React with TypeScript]]></title>
@@ -39,6 +57,12 @@
             <pubDate>Sat, 10 Apr 2021 16:00:14 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Inferring an optional tuple element?]]></title>
+            <link>https://www.typescriptlang.org/play?#code/C4TwDgpgBAggTgcwM4B4AqA+KBeKAoKQqNKCAD2AgDsATJKACgYDpWBDRJALigEsqAZhDixEacBCQBKHFjZUQMgPyiE4yPR5UIAN2EBuPKEhQAYrzhJg6LNgJES5SrXoBtfkJHnLwADRRWZg9hKAAlSWAAXSgVbystXQMjCTMLK3gEGxxUnxQM1EwMQ2STAFkQAHkwYF4Aeyp6XABvKAFa2q0AVwBbACNhf16OHis4fgQoAF9DAGN6qyhKK1NOqhnshlrquoalHnKqmvmZbCwm6bw8AHorqABJUjJIGeAoA+35qAAfKFWaCAE-AgNEGnVevGAAHJ6GwXp02AAbBEgKAAIm0ejgqJK0DQEWycWAGRQxggtQEiwiKzWRSAA</link>
+            <guid>https://www.typescriptlang.org/play?#code/C4TwDgpgBAggTgcwM4B4AqA+KBeKAoKQqNKCAD2AgDsATJKACgYDpWBDRJALigEsqAZhDixEacBCQBKHFjZUQMgPyiE4yPR5UIAN2EBuPKEhQAYrzhJg6LNgJES5SrXoBtfkJHnLwADRRWZg9hKAAlSWAAXSgVbystXQMjCTMLK3gEGxxUnxQM1EwMQ2STAFkQAHkwYF4Aeyp6XABvKAFa2q0AVwBbACNhf16OHis4fgQoAF9DAGN6qyhKK1NOqhnshlrquoalHnKqmvmZbCwm6bw8AHorqABJUjJIGeAoA+35qAAfKFWaCAE-AgNEGnVevGAAHJ6GwXp02AAbBEgKAAIm0ejgqJK0DQEWycWAGRQxggtQEiwiKzWRSAA</guid>
+            <pubDate>Sat, 10 Apr 2021 11:59:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Next.js with TypeScript an ultimate solution]]></title>
             <link>https://lazypandatech.com/blog/NextJs/35/Next.js-Static-and-Dynamic-Routing-with-TypeScript-and-responsive-design-with-SCSS</link>
             <guid>https://lazypandatech.com/blog/NextJs/35/Next.js-Static-and-Dynamic-Routing-with-TypeScript-and-responsive-design-with-SCSS</guid>
@@ -51,6 +75,12 @@
             <pubDate>Thu, 08 Apr 2021 17:38:13 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[TypeScript Conversion]]></title>
+            <link>https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#type-assertions</link>
+            <guid>https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#type-assertions</guid>
+            <pubDate>Fri, 09 Apr 2021 17:14:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A .d.ts file for aria attributes and a polyfill for their reflection as DOM properties]]></title>
             <link>https://www.npmjs.com/package/lib.dom-aria</link>
             <guid>https://www.npmjs.com/package/lib.dom-aria</guid>
@@ -61,36 +91,6 @@
             <link>https://www.typescriptlang.org/play?#code/PQKgBAhgdgngLgCwJZQOZgEYFM4HctZRiJIDOkUAJsQlmIdQPYBmNZYpWAxnEo0e0YBXOKSSU6LMMIBOYLvzgzGAGwA0mEWCGdqEctHoAPCAFsADirohgAWABQWI+cYy49KENNgAcmboA3g5gYABS-uQAvGAARABWETFqwWAAQlhuYNEx2G5JDgC+Dg4KUKTuKvpwfqZYUWBQWLhgALIQ5gA85TIoqBrdvQB8ABQA2imj8YkaORAqKqQxALrJ9iGTuXBJsRlQSFjLq0sAlADcxfZwMOZ0ADJVNVgdAGJIMuWDWWCv7+5OcAxyFNaosUgB+WIYOYLGIpABc3ze5WMAKoQM2sLWYAhMV2+0xIQRAzQYAAPtoqFhmCgsJRzvYHE4XJl9DAoFwwMwhOzePwwKgcPdyo8OgAVFGAjhKIbDam-BGi45gIJYmQ4IQyIiVYURAB0ArgsqRcCV+jAQuq-jFg3pRQZ9lKyKMXwNFsew2BdRiZzAwGAYAACspTGQnrN5otBiV+MiYC7BQ9-B6MT6-YHg6GOrjNfiow6Y+4AF7xuBupMxFyMcze06+-1BxghzhdaUk8nciTUxqUPMOUD0ABuGXgyBJXLctDklEYuAE5CgM7AKGkGvkimUKjANguTNc7iuNzAAEFSGyuM8oGKNEeZKhyP9JdyANYL2ejJafaLDXU-iC30gIjed5KpEnwNk2TyijaFxcjyfBEHA+hPs8wZXse-4SmiFIvjOUDviMzBQIBp7sheaFAaQgxKiqIRqnAGpEDRITGNwIhYAi36-v+gH-iBnyEZxup-sBqwhAUtoXI6FSJrUopIV8iGkMhwbDK6MlYGcFxpgAEou05gAAkvyOBLu4pCMMQRjAFc1nFggEBDjQdCkP4xDXHUkDkFZMDAMWYLRmU+7OtE2qWrJSG6k4rEAh6CQgjWdbpo2mbEug7aUl2tJ5lJblfKFjxyUpkVGNFWDJhkWypvWGbNqlZIUp2NI9gFyJwMWIXqYVT7FaVHqVtWVVJRBLY9G2DVUk1eZAA</link>
             <guid>https://www.typescriptlang.org/play?#code/PQKgBAhgdgngLgCwJZQOZgEYFM4HctZRiJIDOkUAJsQlmIdQPYBmNZYpWAxnEo0e0YBXOKSSU6LMMIBOYLvzgzGAGwA0mEWCGdqEctHoAPCAFsADirohgAWABQWI+cYy49KENNgAcmboA3g5gYABS-uQAvGAARABWETFqwWAAQlhuYNEx2G5JDgC+Dg4KUKTuKvpwfqZYUWBQWLhgALIQ5gA85TIoqBrdvQB8ABQA2imj8YkaORAqKqQxALrJ9iGTuXBJsRlQSFjLq0sAlADcxfZwMOZ0ADJVNVgdAGJIMuWDWWCv7+5OcAxyFNaosUgB+WIYOYLGIpABc3ze5WMAKoQM2sLWYAhMV2+0xIQRAzQYAAPtoqFhmCgsJRzvYHE4XJl9DAoFwwMwhOzePwwKgcPdyo8OgAVFGAjhKIbDam-BGi45gIJYmQ4IQyIiVYURAB0ArgsqRcCV+jAQuq-jFg3pRQZ9lKyKMXwNFsew2BdRiZzAwGAYAACspTGQnrN5otBiV+MiYC7BQ9-B6MT6-YHg6GOrjNfiow6Y+4AF7xuBupMxFyMcze06+-1BxghzhdaUk8nciTUxqUPMOUD0ABuGXgyBJXLctDklEYuAE5CgM7AKGkGvkimUKjANguTNc7iuNzAAEFSGyuM8oGKNEeZKhyP9JdyANYL2ejJafaLDXU-iC30gIjed5KpEnwNk2TyijaFxcjyfBEHA+hPs8wZXse-4SmiFIvjOUDviMzBQIBp7sheaFAaQgxKiqIRqnAGpEDRITGNwIhYAi36-v+gH-iBnyEZxup-sBqwhAUtoXI6FSJrUopIV8iGkMhwbDK6MlYGcFxpgAEou05gAAkvyOBLu4pCMMQRjAFc1nFggEBDjQdCkP4xDXHUkDkFZMDAMWYLRmU+7OtE2qWrJSG6k4rEAh6CQgjWdbpo2mbEug7aUl2tJ5lJblfKFjxyUpkVGNFWDJhkWypvWGbNqlZIUp2NI9gFyJwMWIXqYVT7FaVHqVtWVVJRBLY9G2DVUk1eZAA</guid>
             <pubDate>Fri, 09 Apr 2021 01:01:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How do you import from "dist" directory of a Lerna package?]]></title>
-            <link>https://github.com/lerna/lerna</link>
-            <guid>https://github.com/lerna/lerna</guid>
-            <pubDate>Thu, 08 Apr 2021 18:34:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Differences between type alias and interface. Is there anywhere a comprehensive explanation somewhere for me to read?]]></title>
-            <link>https://www.typescriptlang.org/play?#code/PTAEGcFMCcEsEMA2sBe8BGjKgG5IK7YAmkAZrAHawAusA9hQFCPUCeADtlHEqhlgDUC2ALwQYCZGkyQACnAC2NWDmwAfcTyn9IAJTIxIFAMaQA3MzadNkvjPmwltVaDHhqcCgHNQGivgV0GF9QdDo6LHgKEP9ERAsWDi4JXmksfVJDE1FGUDyQgG9c-JK8gG0ADwAuCA9KLwBdGu5bNMghREILUtAAX2K8jRbUnQ7CMoaEkBsRmVxhUFJ4WE7obFI6aFBKahgl02YdvfhTbYpd6H3IAFk6YwBrUCK8+FAa-0CYRn7GYwZ3M4XK63B5vQHHUwgx5iZ6gV41ACM32YfwoAN27gAkucIdhmiltDIxqJwZcTjc7vcpmAaKAAO6be7gUDUAAWdHwXlZi02LKScOQ8HAln5VgpoJhxXhoA+QWgyN+-2ofM4ULBYrVkpeYKRP1R6Mg7gAKvyahrKa4VeKqYwgA</link>
-            <guid>https://www.typescriptlang.org/play?#code/PTAEGcFMCcEsEMA2sBe8BGjKgG5IK7YAmkAZrAHawAusA9hQFCPUCeADtlHEqhlgDUC2ALwQYCZGkyQACnAC2NWDmwAfcTyn9IAJTIxIFAMaQA3MzadNkvjPmwltVaDHhqcCgHNQGivgV0GF9QdDo6LHgKEP9ERAsWDi4JXmksfVJDE1FGUDyQgG9c-JK8gG0ADwAuCA9KLwBdGu5bNMghREILUtAAX2K8jRbUnQ7CMoaEkBsRmVxhUFJ4WE7obFI6aFBKahgl02YdvfhTbYpd6H3IAFk6YwBrUCK8+FAa-0CYRn7GYwZ3M4XK63B5vQHHUwgx5iZ6gV41ACM32YfwoAN27gAkucIdhmiltDIxqJwZcTjc7vcpmAaKAAO6be7gUDUAAWdHwXlZi02LKScOQ8HAln5VgpoJhxXhoA+QWgyN+-2ofM4ULBYrVkpeYKRP1R6Mg7gAKvyahrKa4VeKqYwgA</guid>
-            <pubDate>Thu, 08 Apr 2021 17:29:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Conditional Return Types are a mess imo]]></title>
-            <link>https://www.typescriptlang.org/docs/handbook/2/conditional-types.html</link>
-            <guid>https://www.typescriptlang.org/docs/handbook/2/conditional-types.html</guid>
-            <pubDate>Thu, 08 Apr 2021 13:06:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to get declaration merging working between libraries]]></title>
-            <link>https://styled-components.com/docs/api#create-a-declarations-file</link>
-            <guid>https://styled-components.com/docs/api#create-a-declarations-file</guid>
-            <pubDate>Thu, 08 Apr 2021 12:46:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ways to enforce encapsulation (VSC Extensions, Tools, Practices)]]></title>
-            <link>https://firebase.google.com/docs/functions/handle-dependencies#including_local_nodejs_modules</link>
-            <guid>https://firebase.google.com/docs/functions/handle-dependencies#including_local_nodejs_modules</guid>
-            <pubDate>Thu, 08 Apr 2021 07:37:16 GMT</pubDate>
         </item>
     </channel>
 </rss>

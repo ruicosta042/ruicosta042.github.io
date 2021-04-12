@@ -4,7 +4,7 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Mon, 12 Apr 2021 12:55:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Apr 2021 19:47:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,58 +15,40 @@
             <pubDate>Mon, 12 Apr 2021 10:05:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How to dockerize node-alpine with hyperformula dependency?]]></title>
+            <link>https://github.com/handsontable/hyperformula</link>
+            <guid>https://github.com/handsontable/hyperformula</guid>
+            <pubDate>Mon, 12 Apr 2021 14:05:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Most Popular Backend Frameworks – 2012/2021]]></title>
+            <link>https://statisticsanddata.org/data/most-popular-backend-frameworks-2012-2021/</link>
+            <guid>https://statisticsanddata.org/data/most-popular-backend-frameworks-2012-2021/</guid>
+            <pubDate>Mon, 12 Apr 2021 17:54:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How to monkey patch node_modules]]></title>
             <link>https://eytanmanor.medium.com/how-to-monkey-patch-node-modules-ef2536405a2e</link>
             <guid>https://eytanmanor.medium.com/how-to-monkey-patch-node-modules-ef2536405a2e</guid>
             <pubDate>Mon, 12 Apr 2021 09:53:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Node-cron verify it is correct time]]></title>
+            <link>https://github.com/node-cron/node-cron</link>
+            <guid>https://github.com/node-cron/node-cron</guid>
+            <pubDate>Mon, 12 Apr 2021 15:16:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Foal framework - version 2.0 release - JWT with cookies, stateless CSRF protection, JWT with RSA keys]]></title>
+            <link>https://foalts.org/blog/2021/03/11/whats-new-in-version-2-part-3</link>
+            <guid>https://foalts.org/blog/2021/03/11/whats-new-in-version-2-part-3</guid>
+            <pubDate>Mon, 12 Apr 2021 13:31:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Partner Up for Learning]]></title>
             <link>https://discord.gg/ayeGrsaSG2</link>
             <guid>https://discord.gg/ayeGrsaSG2</guid>
             <pubDate>Sun, 11 Apr 2021 20:59:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[i dont understand what is this. it is for a telegram bot. able to explain the problem n give a fix thx.]]></title>
-            <link>https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode</link>
-            <guid>https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode</guid>
-            <pubDate>Mon, 12 Apr 2021 04:08:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[nodejs s3 wrapper, download bucket recursively]]></title>
-            <link>https://github.com/andrewrk/node-s3-client</link>
-            <guid>https://github.com/andrewrk/node-s3-client</guid>
-            <pubDate>Sun, 11 Apr 2021 18:02:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Free programmable sms texting in node with textnow.js]]></title>
-            <link>https://textnow.com/</link>
-            <guid>https://textnow.com/</guid>
-            <pubDate>Sat, 10 Apr 2021 23:11:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Express Typescript Starter]]></title>
-            <link>https://github.com/kutia-software-company/express-typescript-starter</link>
-            <guid>https://github.com/kutia-software-company/express-typescript-starter</guid>
-            <pubDate>Sun, 11 Apr 2021 11:52:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why I Prefer Makefiles Over package.json Scripts]]></title>
-            <link>https://spin.atomicobject.com/2021/03/22/makefiles-vs-package-json-scripts/</link>
-            <guid>https://spin.atomicobject.com/2021/03/22/makefiles-vs-package-json-scripts/</guid>
-            <pubDate>Sat, 10 Apr 2021 21:05:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In Console 48 we got an interview with Mark Nadal, founder of GUN, a P2P database written in Javascript! I thought /r/node might be interested in checking it out!]]></title>
-            <link>https://console.substack.com/p/console-48?r=3cbez&amp;utm_campaign=post&amp;utm_medium=web&amp;utm_source=node_subreddit</link>
-            <guid>https://console.substack.com/p/console-48?r=3cbez&amp;utm_campaign=post&amp;utm_medium=web&amp;utm_source=node_subreddit</guid>
-            <pubDate>Sun, 11 Apr 2021 15:01:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TypeError: Cannot read property 'send' of undefined : NodeJs]]></title>
-            <link>https://app.post/</link>
-            <guid>https://app.post/</guid>
-            <pubDate>Sun, 11 Apr 2021 11:11:21 GMT</pubDate>
         </item>
     </channel>
 </rss>

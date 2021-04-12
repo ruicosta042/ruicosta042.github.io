@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Mon, 12 Apr 2021 12:55:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Apr 2021 19:47:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,46 @@
             <pubDate>Mon, 12 Apr 2021 09:04:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[party.js - a JavaScript library to brighten up your user's site experience with visual effects]]></title>
+            <link>https://partyjs.yiliansource.dev/</link>
+            <guid>https://partyjs.yiliansource.dev/</guid>
+            <pubDate>Mon, 12 Apr 2021 13:56:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AskJS] Another subreddit for JS with a different focus?]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Mon, 12 Apr 2021 14:37:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Simple inverted index, database implemantation.]]></title>
             <link>https://github.com/foxql/database</link>
             <guid>https://github.com/foxql/database</guid>
             <pubDate>Mon, 12 Apr 2021 05:33:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tips from someone who interviews Junior Frontend Developers]]></title>
+            <link>https://dev.to/jordienr/tips-from-someone-who-interviews-junior-frontend-engineers-5g38</link>
+            <guid>https://dev.to/jordienr/tips-from-someone-who-interviews-junior-frontend-engineers-5g38</guid>
+            <pubDate>Mon, 12 Apr 2021 18:42:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I wrote an tool to auto-internationalize any react app]]></title>
+            <link>https://github.com/ajkovar/auto-i18n-react</link>
+            <guid>https://github.com/ajkovar/auto-i18n-react</guid>
+            <pubDate>Mon, 12 Apr 2021 15:10:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ketting 7 released: HATEOAS HTTP client for JavaScript]]></title>
+            <link>https://evertpot.com/ketting-7-released/</link>
+            <guid>https://evertpot.com/ketting-7-released/</guid>
+            <pubDate>Mon, 12 Apr 2021 17:20:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Local Party - a desktop app where you can create rooms and chat while watching local video files synchronized with your friends.]]></title>
+            <link>https://github.com/sheldor1510/local-party</link>
+            <guid>https://github.com/sheldor1510/local-party</guid>
+            <pubDate>Mon, 12 Apr 2021 19:45:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In Console 48 we got an interview with Mark Nadal, founder of GUN, a P2P database written in Javascript! I thought /r/javascript might be interested in checking it out!]]></title>
@@ -27,10 +63,16 @@
             <pubDate>Sun, 11 Apr 2021 15:03:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[New to JavaScript? You should tinker with userscripts]]></title>
-            <link>https://blog.tarekjellali.com/new-to-javascript-you-should-tinker-with-userscripts</link>
-            <guid>https://blog.tarekjellali.com/new-to-javascript-you-should-tinker-with-userscripts</guid>
-            <pubDate>Mon, 12 Apr 2021 05:32:17 GMT</pubDate>
+            <title><![CDATA[Merging arrays without duplicates a performance comparison]]></title>
+            <link>https://medium.com/@rivoltafilippo/javascript-merge-arrays-without-duplicates-3fbd8f4881be</link>
+            <guid>https://medium.com/@rivoltafilippo/javascript-merge-arrays-without-duplicates-3fbd8f4881be</guid>
+            <pubDate>Mon, 12 Apr 2021 18:06:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AskJS] How does JavaScript generate pseudo-random numbers?]]></title>
+            <link>https://en.wikipedia.org/wiki/Linear_congruential_generator</link>
+            <guid>https://en.wikipedia.org/wiki/Linear_congruential_generator</guid>
+            <pubDate>Mon, 12 Apr 2021 14:02:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Robot Rumble — an arena-style AI battle game for teams of JS-based robots]]></title>
@@ -39,22 +81,52 @@
             <pubDate>Mon, 12 Apr 2021 05:19:57 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Use console.log() like a pro]]></title>
+            <link>https://markodenic.com/use-console-log-like-a-pro/</link>
+            <guid>https://markodenic.com/use-console-log-like-a-pro/</guid>
+            <pubDate>Mon, 12 Apr 2021 15:45:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AskJS] Roast my article, I want to improve my writing skills]]></title>
+            <link>https://dev.to/muhammadev/how-to-use-react-context-59e0</link>
+            <guid>https://dev.to/muhammadev/how-to-use-react-context-59e0</guid>
+            <pubDate>Mon, 12 Apr 2021 15:09:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Neutralinojs - Build native apps for Linux, Windows, macOS, and Web with JavaScript]]></title>
+            <link>https://neutralino.js.org/</link>
+            <guid>https://neutralino.js.org/</guid>
+            <pubDate>Mon, 12 Apr 2021 14:46:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How I Made a NoSQL Database Clone with JavaScript Classes — Web Dever Guide]]></title>
+            <link>https://webdeverguide.com/how-to-make-a-nosql-clone-with-javascript-classes#.YHRPkk6I1_U.reddit</link>
+            <guid>https://webdeverguide.com/how-to-make-a-nosql-clone-with-javascript-classes#.YHRPkk6I1_U.reddit</guid>
+            <pubDate>Mon, 12 Apr 2021 13:48:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Here is a way to start developing Progressive Web App in React.JS]]></title>
+            <link>https://github.com/scandipwa/scandipwa</link>
+            <guid>https://github.com/scandipwa/scandipwa</guid>
+            <pubDate>Mon, 12 Apr 2021 13:45:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How to monkey patch node_modules]]></title>
             <link>https://eytanmanor.medium.com/how-to-monkey-patch-node-modules-ef2536405a2e</link>
             <guid>https://eytanmanor.medium.com/how-to-monkey-patch-node-modules-ef2536405a2e</guid>
             <pubDate>Mon, 12 Apr 2021 09:52:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Use console.log() like a pro]]></title>
+            <link>https://markodenic.com/use-console-log-like-a-pro/?u=19</link>
+            <guid>https://markodenic.com/use-console-log-like-a-pro/?u=19</guid>
+            <pubDate>Mon, 12 Apr 2021 16:01:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I just write a WYSIWYG markdown editor, inspired by Typora.]]></title>
             <link>https://github.com/Saul-Mirone/milkdown</link>
             <guid>https://github.com/Saul-Mirone/milkdown</guid>
             <pubDate>Sun, 11 Apr 2021 02:50:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[chart.js examples in the wild]]></title>
-            <link>https://wpdatatables.com/chart-js-examples/</link>
-            <guid>https://wpdatatables.com/chart-js-examples/</guid>
-            <pubDate>Mon, 12 Apr 2021 08:29:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[USON, UXML, UCFG: micro formats in modern way]]></title>
@@ -79,84 +151,6 @@
             <link>https://fabiwo.io/blog/download-the-dom</link>
             <guid>https://fabiwo.io/blog/download-the-dom</guid>
             <pubDate>Sun, 11 Apr 2021 06:33:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I made this D3 heatmap to represent profiled Python code any ideas on how this heatmap could be made better and fancier?]]></title>
-            <link>https://jsfiddle.net/56ncv0kg/</link>
-            <guid>https://jsfiddle.net/56ncv0kg/</guid>
-            <pubDate>Sun, 11 Apr 2021 21:42:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Frontend Security]]></title>
-            <link>https://piyushsinha.tech/frontend-security</link>
-            <guid>https://piyushsinha.tech/frontend-security</guid>
-            <pubDate>Sun, 11 Apr 2021 01:23:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React with TypeScript]]></title>
-            <link>https://mindaugasnakr.medium.com/react-with-typescript-55670137c2da</link>
-            <guid>https://mindaugasnakr.medium.com/react-with-typescript-55670137c2da</guid>
-            <pubDate>Sat, 10 Apr 2021 16:44:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Node-binding for 'peco'. command line prompt utility written in Go]]></title>
-            <link>https://github.com/minidonut/node-peco</link>
-            <guid>https://github.com/minidonut/node-peco</guid>
-            <pubDate>Sat, 10 Apr 2021 21:12:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comparing the New Generation of Build Tools]]></title>
-            <link>https://css-tricks.com/comparing-the-new-generation-of-build-tools/</link>
-            <guid>https://css-tricks.com/comparing-the-new-generation-of-build-tools/</guid>
-            <pubDate>Fri, 09 Apr 2021 19:52:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I made a password generator that can also serve as a strong id generator for an app]]></title>
-            <link>https://gist.github.com/Elijah-trillionz/25ed2b79fe56f16cf404190f0116add7</link>
-            <guid>https://gist.github.com/Elijah-trillionz/25ed2b79fe56f16cf404190f0116add7</guid>
-            <pubDate>Sat, 10 Apr 2021 23:02:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[moovie.js - Movie focused HTML5 Player]]></title>
-            <link>https://github.com/BMSVieira/moovie.js</link>
-            <guid>https://github.com/BMSVieira/moovie.js</guid>
-            <pubDate>Fri, 09 Apr 2021 09:36:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Use Javascript Proxy for isolated context intercommunication]]></title>
-            <link>https://dev.to/clementvidal/use-es6-proxy-for-isolated-context-intercommunication-mc1</link>
-            <guid>https://dev.to/clementvidal/use-es6-proxy-for-isolated-context-intercommunication-mc1</guid>
-            <pubDate>Fri, 09 Apr 2021 19:05:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to actually test UIs]]></title>
-            <link>https://storybook.js.org/blog/how-to-actually-test-uis/</link>
-            <guid>https://storybook.js.org/blog/how-to-actually-test-uis/</guid>
-            <pubDate>Thu, 08 Apr 2021 16:22:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stitching Styles to a Headless UI Using Design Tokens and Twind]]></title>
-            <link>https://www.michaelmang.dev/blog/stitching-styles-to-a-headless-ui-using-design-tokens-and-twind</link>
-            <guid>https://www.michaelmang.dev/blog/stitching-styles-to-a-headless-ui-using-design-tokens-and-twind</guid>
-            <pubDate>Fri, 09 Apr 2021 18:08:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I made a simple Stock and Crypto alert console app and open sourced it. You can add your own API's, your own assets, you own mathematical expressions and get your own messages with Webhook!]]></title>
-            <link>https://github.com/UnioDex/WBStockChecker</link>
-            <guid>https://github.com/UnioDex/WBStockChecker</guid>
-            <pubDate>Fri, 09 Apr 2021 21:26:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Doodle 0.5.0 released]]></title>
-            <link>https://github.com/nacular/doodle/</link>
-            <guid>https://github.com/nacular/doodle/</guid>
-            <pubDate>Fri, 09 Apr 2021 15:58:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LogChimp is an open source software to capture your customers feedback]]></title>
-            <link>https://github.com/logchimp/logchimp</link>
-            <guid>https://github.com/logchimp/logchimp</guid>
-            <pubDate>Fri, 09 Apr 2021 07:33:50 GMT</pubDate>
         </item>
     </channel>
 </rss>

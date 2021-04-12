@@ -4,10 +4,16 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Mon, 12 Apr 2021 12:55:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Apr 2021 19:47:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Modern CSS Upgrades To Improve Accessibility]]></title>
+            <link>https://moderncss.dev/modern-css-upgrades-to-improve-accessibility/</link>
+            <guid>https://moderncss.dev/modern-css-upgrades-to-improve-accessibility/</guid>
+            <pubDate>Mon, 12 Apr 2021 13:40:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[CSS Pie Timer Revisited]]></title>
             <link>https://kittygiraudel.com/2021/04/11/css-pie-timer-revisited/</link>
@@ -43,18 +49,6 @@
             <link>https://learnui.design/tools/gradient-generator.html</link>
             <guid>https://learnui.design/tools/gradient-generator.html</guid>
             <pubDate>Fri, 09 Apr 2021 12:52:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["overflow-x: auto" breaks layout of inline-block elements]]></title>
-            <link>https://jsfiddle.net/Lta1rg4n/2/</link>
-            <guid>https://jsfiddle.net/Lta1rg4n/2/</guid>
-            <pubDate>Fri, 09 Apr 2021 16:37:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Help with floated list and margins]]></title>
-            <link>https://jsfiddle.net/hc7muswj/</link>
-            <guid>https://jsfiddle.net/hc7muswj/</guid>
-            <pubDate>Fri, 09 Apr 2021 10:06:50 GMT</pubDate>
         </item>
     </channel>
 </rss>

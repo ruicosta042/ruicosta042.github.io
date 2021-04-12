@@ -4,10 +4,16 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Sun, 11 Apr 2021 19:46:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Apr 2021 07:49:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[@coderspirit/nominal - Crazily powerful nominal types on Typescript]]></title>
+            <link>https://basarat.gitbook.io/typescript/main-1/nominaltyping</link>
+            <guid>https://basarat.gitbook.io/typescript/main-1/nominaltyping</guid>
+            <pubDate>Sun, 11 Apr 2021 22:47:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is it common to use Arrow Functions to declare static methods inside a class?]]></title>
             <link>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions</link>
@@ -85,18 +91,6 @@
             <link>https://firebase.google.com/docs/functions/handle-dependencies#including_local_nodejs_modules</link>
             <guid>https://firebase.google.com/docs/functions/handle-dependencies#including_local_nodejs_modules</guid>
             <pubDate>Thu, 08 Apr 2021 07:37:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to map an array of "wrapped" types to another array?]]></title>
-            <link>https://www.typescriptlang.org/play?#code/C4TwDgpgBA6gTgQzJOBJAdmArsAPAFSgF4oF0QA+YqAbygG0BpKAS3SgGsIQB7AMyj4AugC5S5KAF8AsAChQkWImQQ4AeRzY8hEmUrU6TVuy68BwsXqly5fLOgDGwFj3YB3Zfh4YtBCgAoAEwRgBDF8AEoxeCQUHxw-WjkoFKg4CGAsOHZg0LkZWTkAeiLioqg1DjKbWTtHZ1coAFskAGU2AHMAGwg-IJCwpVjVeO0KKKGVdU0E-CoaZNT0zOyoXIR8mpLJuMwcADpDuQdXAGdgKB44Fg62BC7qDyQvUf86Ph4eMQByACMEODfKQRMpQQ77ZrDQJQYA8HaqDTALTHM4XFoqaEkdHtdDdCD+K43O5dEGFWQndCnHg9fYIU6nVTAfzoyCBfYfOFELlQP4A76k6qybYAOR4F0qgts9icLnY6IAslgus4wD0CFAIAAPYAQdCBU5QABKEAQgVcXRAAEE4IgQLg9BQAuD1mJDMw2JxuPxBKJ4Wg9tomEIqJIJm7jJ6zD7osoUIjfPggyGkrJUmkMlkcgN9uiCcQqNjOj0CRFSQVQTEpqNwSjKRcEI9PN4A28oByfv9AcDa+coL9G89m1pW+gsE0xAAGbtC8rgyEYmFwytxmbAHsXegsiCBS0AGnnrIAQkJqAqlSriwh978BeSztSILT6YzmVDLezPsRubzAaSKVSaTpBk4CZLdAkPfZRyaL8SAnUkgA</link>
-            <guid>https://www.typescriptlang.org/play?#code/C4TwDgpgBA6gTgQzJOBJAdmArsAPAFSgF4oF0QA+YqAbygG0BpKAS3SgGsIQB7AMyj4AugC5S5KAF8AsAChQkWImQQ4AeRzY8hEmUrU6TVuy68BwsXqly5fLOgDGwFj3YB3Zfh4YtBCgAoAEwRgBDF8AEoxeCQUHxw-WjkoFKg4CGAsOHZg0LkZWTkAeiLioqg1DjKbWTtHZ1coAFskAGU2AHMAGwg-IJCwpVjVeO0KKKGVdU0E-CoaZNT0zOyoXIR8mpLJuMwcADpDuQdXAGdgKB44Fg62BC7qDyQvUf86Ph4eMQByACMEODfKQRMpQQ77ZrDQJQYA8HaqDTALTHM4XFoqaEkdHtdDdCD+K43O5dEGFWQndCnHg9fYIU6nVTAfzoyCBfYfOFELlQP4A76k6qybYAOR4F0qgts9icLnY6IAslgus4wD0CFAIAAPYAQdCBU5QABKEAQgVcXRAAEE4IgQLg9BQAuD1mJDMw2JxuPxBKJ4Wg9tomEIqJIJm7jJ6zD7osoUIjfPggyGkrJUmkMlkcgN9uiCcQqNjOj0CRFSQVQTEpqNwSjKRcEI9PN4A28oByfv9AcDa+coL9G89m1pW+gsE0xAAGbtC8rgyEYmFwytxmbAHsXegsiCBS0AGnnrIAQkJqAqlSriwh978BeSztSILT6YzmVDLezPsRubzAaSKVSaTpBk4CZLdAkPfZRyaL8SAnUkgA</guid>
-            <pubDate>Tue, 06 Apr 2021 15:30:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Please - I would be eternally grateful if you can help me solve this problem. CSB inside [React]]]></title>
-            <link>https://codesandbox.io/s/boring-fast-9xzmq?file=/src/Wrapper.tsx</link>
-            <guid>https://codesandbox.io/s/boring-fast-9xzmq?file=/src/Wrapper.tsx</guid>
-            <pubDate>Wed, 07 Apr 2021 04:38:53 GMT</pubDate>
         </item>
     </channel>
 </rss>

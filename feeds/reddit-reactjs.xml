@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sun, 11 Apr 2021 19:46:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Apr 2021 07:49:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,16 +21,28 @@
             <pubDate>Thu, 01 Apr 2021 06:19:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Exciting portfolio page with Next.js, TailwindCSS and Framer Motion]]></title>
+            <link>https://ironsoul.ninja/</link>
+            <guid>https://ironsoul.ninja/</guid>
+            <pubDate>Mon, 12 Apr 2021 04:49:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I created my first ever reactJS app after months of tutorials]]></title>
             <link>https://geo-json.com/</link>
             <guid>https://geo-json.com/</guid>
             <pubDate>Sun, 11 Apr 2021 09:00:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I wrote my first article about credential-based authentication with Next + NextAuth + Strapi! and is just published on Strapi blog!]]></title>
-            <link>https://strapi.io/blog/Strapi-JWT-Authentication-Next.js</link>
-            <guid>https://strapi.io/blog/Strapi-JWT-Authentication-Next.js</guid>
-            <pubDate>Sun, 11 Apr 2021 15:54:21 GMT</pubDate>
+            <title><![CDATA[How to Setup React Project From Scratch Using Webpack And Babel]]></title>
+            <link>https://blog.yogeshchavan.dev/how-to-setup-react-project-from-scratch-using-webpack-and-babel</link>
+            <guid>https://blog.yogeshchavan.dev/how-to-setup-react-project-from-scratch-using-webpack-and-babel</guid>
+            <pubDate>Mon, 12 Apr 2021 05:04:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting started with React Router and vanilla React in 2021]]></title>
+            <link>https://blog.itsjavi.com/getting-quickly-started-with-react-router-and-vanilla-react-js-in-2021</link>
+            <guid>https://blog.itsjavi.com/getting-quickly-started-with-react-router-and-vanilla-react-js-in-2021</guid>
+            <pubDate>Mon, 12 Apr 2021 04:55:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[We created a website for an italian university network]]></title>
@@ -39,10 +51,46 @@
             <pubDate>Sun, 11 Apr 2021 19:35:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Creating team]]></title>
+            <link>https://github.com/alisalim17/cofer</link>
+            <guid>https://github.com/alisalim17/cofer</guid>
+            <pubDate>Mon, 12 Apr 2021 05:24:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I wrote my first article about credential-based authentication with Next + NextAuth + Strapi! and is just published on Strapi blog!]]></title>
+            <link>https://strapi.io/blog/Strapi-JWT-Authentication-Next.js</link>
+            <guid>https://strapi.io/blog/Strapi-JWT-Authentication-Next.js</guid>
+            <pubDate>Sun, 11 Apr 2021 15:54:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Finished my First React Project]]></title>
             <link>https://freebay.netlify.app/</link>
             <guid>https://freebay.netlify.app/</guid>
             <pubDate>Sun, 11 Apr 2021 18:08:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I made a Web, PWA App and re-imagined Hacker News for 2021 Using ReactJS and Chakra-UI]]></title>
+            <link>https://hn.boxpiper.com/</link>
+            <guid>https://hn.boxpiper.com/</guid>
+            <pubDate>Sun, 11 Apr 2021 21:22:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[Academic] From AdobeXD to ReactJS Resource Pack (Designers/Developers)]]></title>
+            <link>https://coventry.onlinesurveys.ac.uk/from-adobexd-to-reactjs-resource-pack</link>
+            <guid>https://coventry.onlinesurveys.ac.uk/from-adobexd-to-reactjs-resource-pack</guid>
+            <pubDate>Sun, 11 Apr 2021 21:27:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React-Syntax-Highlighter Brackets Issue]]></title>
+            <link>https://torbet.co/posts/Weekend-Machine-Learning</link>
+            <guid>https://torbet.co/posts/Weekend-Machine-Learning</guid>
+            <pubDate>Sun, 11 Apr 2021 19:59:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[🌈RGT: React Gradient Text]]></title>
+            <link>https://rgt.borja.ai/</link>
+            <guid>https://rgt.borja.ai/</guid>
+            <pubDate>Sun, 11 Apr 2021 10:10:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Better Error Handling with Axios and React!]]></title>
@@ -57,28 +105,10 @@
             <pubDate>Sun, 11 Apr 2021 12:48:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[🌈RGT: React Gradient Text]]></title>
-            <link>https://rgt.borja.ai/</link>
-            <guid>https://rgt.borja.ai/</guid>
-            <pubDate>Sun, 11 Apr 2021 10:10:15 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[reCAPTCHA with React: How to verify the return token using react-google-recaptcha-v3?]]></title>
             <link>https://www.npmjs.com/package/react-google-recaptcha-v3</link>
             <guid>https://www.npmjs.com/package/react-google-recaptcha-v3</guid>
             <pubDate>Sun, 11 Apr 2021 07:41:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Made the 1st React-Admin Community Discord (Unofficial)]]></title>
-            <link>https://discord.me/react-admin</link>
-            <guid>https://discord.me/react-admin</guid>
-            <pubDate>Sun, 11 Apr 2021 08:12:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Custom boilerplates]]></title>
-            <link>https://github.com/MiguelArmendariz</link>
-            <guid>https://github.com/MiguelArmendariz</guid>
-            <pubDate>Sat, 10 Apr 2021 23:56:45 GMT</pubDate>
         </item>
     </channel>
 </rss>

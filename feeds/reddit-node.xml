@@ -4,10 +4,22 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Sun, 11 Apr 2021 19:46:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Apr 2021 07:49:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[i dont understand what is this. it is for a telegram bot. able to explain the problem n give a fix thx.]]></title>
+            <link>https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode</link>
+            <guid>https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode</guid>
+            <pubDate>Mon, 12 Apr 2021 04:08:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Partner Up for Learning]]></title>
+            <link>https://discord.gg/ayeGrsaSG2</link>
+            <guid>https://discord.gg/ayeGrsaSG2</guid>
+            <pubDate>Sun, 11 Apr 2021 20:59:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[nodejs s3 wrapper, download bucket recursively]]></title>
             <link>https://github.com/andrewrk/node-s3-client</link>
@@ -19,6 +31,12 @@
             <link>https://textnow.com/</link>
             <guid>https://textnow.com/</guid>
             <pubDate>Sat, 10 Apr 2021 23:11:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Express Typescript Starter]]></title>
+            <link>https://github.com/kutia-software-company/express-typescript-starter</link>
+            <guid>https://github.com/kutia-software-company/express-typescript-starter</guid>
+            <pubDate>Sun, 11 Apr 2021 11:52:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why I Prefer Makefiles Over package.json Scripts]]></title>
@@ -43,18 +61,6 @@
             <link>https://strapi.io/blog/Strapi-JWT-Authentication-Next.js</link>
             <guid>https://strapi.io/blog/Strapi-JWT-Authentication-Next.js</guid>
             <pubDate>Sun, 11 Apr 2021 02:38:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Express Typescript Starter]]></title>
-            <link>https://github.com/kutia-software-company/express-typescript-starter</link>
-            <guid>https://github.com/kutia-software-company/express-typescript-starter</guid>
-            <pubDate>Sun, 11 Apr 2021 11:52:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Receiving email with webhook and express]]></title>
-            <link>https://www.cloudmailin.com/</link>
-            <guid>https://www.cloudmailin.com/</guid>
-            <pubDate>Sun, 11 Apr 2021 05:31:10 GMT</pubDate>
         </item>
     </channel>
 </rss>

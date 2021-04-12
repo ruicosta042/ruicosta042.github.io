@@ -4,10 +4,16 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sun, 11 Apr 2021 19:46:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Apr 2021 07:49:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Simple inverted index, database implemantation.]]></title>
+            <link>https://github.com/foxql/database</link>
+            <guid>https://github.com/foxql/database</guid>
+            <pubDate>Mon, 12 Apr 2021 05:33:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[In Console 48 we got an interview with Mark Nadal, founder of GUN, a P2P database written in Javascript! I thought /r/javascript might be interested in checking it out!]]></title>
             <link>https://console.substack.com/p/console-48?r=3cbez&amp;utm_campaign=post&amp;utm_medium=web&amp;utm_source=javascript_subreddit</link>
@@ -15,10 +21,34 @@
             <pubDate>Sun, 11 Apr 2021 15:03:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[New to JavaScript? You should tinker with userscripts]]></title>
+            <link>https://blog.tarekjellali.com/new-to-javascript-you-should-tinker-with-userscripts</link>
+            <guid>https://blog.tarekjellali.com/new-to-javascript-you-should-tinker-with-userscripts</guid>
+            <pubDate>Mon, 12 Apr 2021 05:32:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Robot Rumble — an arena-style AI battle game for teams of JS-based robots]]></title>
+            <link>https://robotrumble.org/</link>
+            <guid>https://robotrumble.org/</guid>
+            <pubDate>Mon, 12 Apr 2021 05:19:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I just write a WYSIWYG markdown editor, inspired by Typora.]]></title>
             <link>https://github.com/Saul-Mirone/milkdown</link>
             <guid>https://github.com/Saul-Mirone/milkdown</guid>
             <pubDate>Sun, 11 Apr 2021 02:50:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[USON, UXML, UCFG: micro formats in modern way]]></title>
+            <link>https://github.com/garnetius/uson-js</link>
+            <guid>https://github.com/garnetius/uson-js</guid>
+            <pubDate>Sun, 11 Apr 2021 17:28:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AskJS] REST client generation tools]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Mon, 12 Apr 2021 01:39:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Simplest Way to Download SVG/DOM Elements]]></title>
@@ -33,10 +63,10 @@
             <pubDate>Sun, 11 Apr 2021 08:35:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[USON, UXML, UCFG: micro formats in modern way]]></title>
-            <link>https://github.com/garnetius/uson-js</link>
-            <guid>https://github.com/garnetius/uson-js</guid>
-            <pubDate>Sun, 11 Apr 2021 17:28:16 GMT</pubDate>
+            <title><![CDATA[I made this D3 heatmap to represent profiled Python code any ideas on how this heatmap could be made better and fancier?]]></title>
+            <link>https://jsfiddle.net/56ncv0kg/</link>
+            <guid>https://jsfiddle.net/56ncv0kg/</guid>
+            <pubDate>Sun, 11 Apr 2021 21:42:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Frontend Security]]></title>
@@ -121,30 +151,6 @@
             <link>https://developer.chrome.com/blog/migrating-to-typescript/</link>
             <guid>https://developer.chrome.com/blog/migrating-to-typescript/</guid>
             <pubDate>Thu, 08 Apr 2021 16:27:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introducing MathicallJS - A new javascript math library for simulations, data processing, browser games, etc.. It was originally created for a terrain generation project.]]></title>
-            <link>https://github.com/PatGleeson101/mathicall.js</link>
-            <guid>https://github.com/PatGleeson101/mathicall.js</guid>
-            <pubDate>Thu, 08 Apr 2021 04:50:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Car keys toggle it right !]]></title>
-            <link>https://dev.to/dmail/car-keys-toggle-it-right-45dh</link>
-            <guid>https://dev.to/dmail/car-keys-toggle-it-right-45dh</guid>
-            <pubDate>Fri, 09 Apr 2021 13:42:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Three intermediate functional JS patterns]]></title>
-            <link>https://intercaetera.com/2021-04-08-three-intermediate-functional-js-patterns/</link>
-            <guid>https://intercaetera.com/2021-04-08-three-intermediate-functional-js-patterns/</guid>
-            <pubDate>Thu, 08 Apr 2021 21:28:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Get Instant Country Flags]]></title>
-            <link>https://dev.to/younginnovations/get-instant-country-flags-22pe</link>
-            <guid>https://dev.to/younginnovations/get-instant-country-flags-22pe</guid>
-            <pubDate>Fri, 09 Apr 2021 07:30:45 GMT</pubDate>
         </item>
     </channel>
 </rss>

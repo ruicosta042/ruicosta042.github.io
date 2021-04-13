@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Tue, 13 Apr 2021 07:49:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Apr 2021 12:56:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,10 +21,40 @@
             <pubDate>Mon, 12 Apr 2021 13:56:38 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Healing Power of JavaScript]]></title>
+            <link>https://www.wired.com/story/healing-power-javascript-code-programming/</link>
+            <guid>https://www.wired.com/story/healing-power-javascript-code-programming/</guid>
+            <pubDate>Tue, 13 Apr 2021 09:54:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Use Typescript mapped types to "Promisify" interfaces]]></title>
+            <link>https://dev.to/clementvidal/use-typescript-mapped-types-to-promisify-your-class-1cmk</link>
+            <guid>https://dev.to/clementvidal/use-typescript-mapped-types-to-promisify-your-class-1cmk</guid>
+            <pubDate>Tue, 13 Apr 2021 12:34:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Q1 2021 State Of JavaScript Libraries and Tools: Frameworks]]></title>
+            <link>https://moiva.io/blog/2021-q1-state-of-js-frameworks</link>
+            <guid>https://moiva.io/blog/2021-q1-state-of-js-frameworks</guid>
+            <pubDate>Tue, 13 Apr 2021 12:19:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tips from someone who interviews Junior Frontend Developers]]></title>
             <link>https://dev.to/jordienr/tips-from-someone-who-interviews-junior-frontend-engineers-5g38</link>
             <guid>https://dev.to/jordienr/tips-from-someone-who-interviews-junior-frontend-engineers-5g38</guid>
             <pubDate>Mon, 12 Apr 2021 18:42:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[natto.dev - a spatial canvas/playground for JavaScript]]></title>
+            <link>https://natto.dev/example/8a74372a650644de88ed45302463c8b0</link>
+            <guid>https://natto.dev/example/8a74372a650644de88ed45302463c8b0</guid>
+            <pubDate>Tue, 13 Apr 2021 12:21:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AskJS] React: share states between components using custom hooks and observables]]></title>
+            <link>https://reactjs.org/docs/hooks-custom.html</link>
+            <guid>https://reactjs.org/docs/hooks-custom.html</guid>
+            <pubDate>Tue, 13 Apr 2021 11:29:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[AskJS] Another subreddit for JS with a different focus?]]></title>
@@ -33,16 +63,16 @@
             <pubDate>Mon, 12 Apr 2021 14:37:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[RxJS operators that can help simplify your web application development.]]></title>
-            <link>https://javascript.plainenglish.io/reactive-programming-using-rxjs-operators-6b803c0ed7de</link>
-            <guid>https://javascript.plainenglish.io/reactive-programming-using-rxjs-operators-6b803c0ed7de</guid>
-            <pubDate>Tue, 13 Apr 2021 03:48:06 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Local Party - a desktop app where you can create rooms and chat while watching local video files synchronized with your friends.]]></title>
             <link>https://github.com/sheldor1510/local-party</link>
             <guid>https://github.com/sheldor1510/local-party</guid>
             <pubDate>Mon, 12 Apr 2021 19:45:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[RxJS operators that can help simplify your web application development.]]></title>
+            <link>https://javascript.plainenglish.io/reactive-programming-using-rxjs-operators-6b803c0ed7de</link>
+            <guid>https://javascript.plainenglish.io/reactive-programming-using-rxjs-operators-6b803c0ed7de</guid>
+            <pubDate>Tue, 13 Apr 2021 03:48:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rececss: minimalistic but highly customizable CSS utilities generator]]></title>
@@ -51,16 +81,22 @@
             <pubDate>Mon, 12 Apr 2021 23:37:07 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Use console.log() like a pro]]></title>
+            <link>https://markodenic.com/use-console-log-like-a-pro/</link>
+            <guid>https://markodenic.com/use-console-log-like-a-pro/</guid>
+            <pubDate>Mon, 12 Apr 2021 15:45:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Simple inverted index, database implemantation.]]></title>
             <link>https://github.com/foxql/database</link>
             <guid>https://github.com/foxql/database</guid>
             <pubDate>Mon, 12 Apr 2021 05:33:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Use console.log() like a pro]]></title>
-            <link>https://markodenic.com/use-console-log-like-a-pro/</link>
-            <guid>https://markodenic.com/use-console-log-like-a-pro/</guid>
-            <pubDate>Mon, 12 Apr 2021 15:45:50 GMT</pubDate>
+            <title><![CDATA[Transpilation Free Starter Kit]]></title>
+            <link>https://github.com/petersolopov/transpilation-free-starter-kit</link>
+            <guid>https://github.com/petersolopov/transpilation-free-starter-kit</guid>
+            <pubDate>Mon, 12 Apr 2021 21:09:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I wrote an tool to auto-internationalize any react app]]></title>
@@ -73,12 +109,6 @@
             <link>https://evertpot.com/ketting-7-released/</link>
             <guid>https://evertpot.com/ketting-7-released/</guid>
             <pubDate>Mon, 12 Apr 2021 17:20:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Transpilation Free Starter Kit]]></title>
-            <link>https://github.com/petersolopov/transpilation-free-starter-kit</link>
-            <guid>https://github.com/petersolopov/transpilation-free-starter-kit</guid>
-            <pubDate>Mon, 12 Apr 2021 21:09:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In Console 48 we got an interview with Mark Nadal, founder of GUN, a P2P database written in Javascript! I thought /r/javascript might be interested in checking it out!]]></title>
@@ -103,54 +133,6 @@
             <link>https://robotrumble.org/</link>
             <guid>https://robotrumble.org/</guid>
             <pubDate>Mon, 12 Apr 2021 05:19:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AskJS] Roast my article, I want to improve my writing skills]]></title>
-            <link>https://dev.to/muhammadev/how-to-use-react-context-59e0</link>
-            <guid>https://dev.to/muhammadev/how-to-use-react-context-59e0</guid>
-            <pubDate>Mon, 12 Apr 2021 15:09:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Neutralinojs - Build native apps for Linux, Windows, macOS, and Web with JavaScript]]></title>
-            <link>https://neutralino.js.org/</link>
-            <guid>https://neutralino.js.org/</guid>
-            <pubDate>Mon, 12 Apr 2021 14:46:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How I Made a NoSQL Database Clone with JavaScript Classes — Web Dever Guide]]></title>
-            <link>https://webdeverguide.com/how-to-make-a-nosql-clone-with-javascript-classes#.YHRPkk6I1_U.reddit</link>
-            <guid>https://webdeverguide.com/how-to-make-a-nosql-clone-with-javascript-classes#.YHRPkk6I1_U.reddit</guid>
-            <pubDate>Mon, 12 Apr 2021 13:48:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Here is a way to start developing Progressive Web App in React.JS]]></title>
-            <link>https://github.com/scandipwa/scandipwa</link>
-            <guid>https://github.com/scandipwa/scandipwa</guid>
-            <pubDate>Mon, 12 Apr 2021 13:45:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to monkey patch node_modules]]></title>
-            <link>https://eytanmanor.medium.com/how-to-monkey-patch-node-modules-ef2536405a2e</link>
-            <guid>https://eytanmanor.medium.com/how-to-monkey-patch-node-modules-ef2536405a2e</guid>
-            <pubDate>Mon, 12 Apr 2021 09:52:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Use console.log() like a pro]]></title>
-            <link>https://markodenic.com/use-console-log-like-a-pro/?u=19</link>
-            <guid>https://markodenic.com/use-console-log-like-a-pro/?u=19</guid>
-            <pubDate>Mon, 12 Apr 2021 16:01:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I just write a WYSIWYG markdown editor, inspired by Typora.]]></title>
-            <link>https://github.com/Saul-Mirone/milkdown</link>
-            <guid>https://github.com/Saul-Mirone/milkdown</guid>
-            <pubDate>Sun, 11 Apr 2021 02:50:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[USON, UXML, UCFG: micro formats in modern way]]></title>
-            <link>https://github.com/garnetius/uson-js</link>
-            <guid>https://github.com/garnetius/uson-js</guid>
-            <pubDate>Sun, 11 Apr 2021 17:28:16 GMT</pubDate>
         </item>
     </channel>
 </rss>

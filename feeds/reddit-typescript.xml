@@ -4,21 +4,21 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Tue, 13 Apr 2021 07:49:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Apr 2021 12:56:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
-        <item>
-            <title><![CDATA[TypeScript reached 70k stars on GitHub]]></title>
-            <link>https://twitter.com/github_tracker/status/1381528821464174597?s=20</link>
-            <guid>https://twitter.com/github_tracker/status/1381528821464174597?s=20</guid>
-            <pubDate>Mon, 12 Apr 2021 09:10:41 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Node.js - Foal framework - version 2.0 release - JWT with cookies, stateless CSRF protection, JWT with RSA keys]]></title>
             <link>https://foalts.org/blog/2021/03/11/whats-new-in-version-2-part-3</link>
             <guid>https://foalts.org/blog/2021/03/11/whats-new-in-version-2-part-3</guid>
             <pubDate>Tue, 13 Apr 2021 07:26:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TypeScript reached 70k stars on GitHub]]></title>
+            <link>https://twitter.com/github_tracker/status/1381528821464174597?s=20</link>
+            <guid>https://twitter.com/github_tracker/status/1381528821464174597?s=20</guid>
+            <pubDate>Mon, 12 Apr 2021 09:10:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Typescript NPM package contains only .d.ts files?]]></title>

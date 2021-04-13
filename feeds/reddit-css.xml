@@ -4,10 +4,16 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Tue, 13 Apr 2021 07:49:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Apr 2021 12:56:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Generative CSS - A program that uses CSS3's linear and radial gradients to generate beautiful backgrounds]]></title>
+            <link>https://generative-css.herokuapp.com/</link>
+            <guid>https://generative-css.herokuapp.com/</guid>
+            <pubDate>Tue, 13 Apr 2021 11:08:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Modern CSS Upgrades To Improve Accessibility]]></title>
             <link>https://moderncss.dev/modern-css-upgrades-to-improve-accessibility/</link>

@@ -4,7 +4,7 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Mon, 12 Apr 2021 19:47:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Apr 2021 07:49:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,18 @@
             <link>https://twitter.com/github_tracker/status/1381528821464174597?s=20</link>
             <guid>https://twitter.com/github_tracker/status/1381528821464174597?s=20</guid>
             <pubDate>Mon, 12 Apr 2021 09:10:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Node.js - Foal framework - version 2.0 release - JWT with cookies, stateless CSRF protection, JWT with RSA keys]]></title>
+            <link>https://foalts.org/blog/2021/03/11/whats-new-in-version-2-part-3</link>
+            <guid>https://foalts.org/blog/2021/03/11/whats-new-in-version-2-part-3</guid>
+            <pubDate>Tue, 13 Apr 2021 07:26:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Typescript NPM package contains only .d.ts files?]]></title>
+            <link>https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit</link>
+            <guid>https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit</guid>
+            <pubDate>Mon, 12 Apr 2021 22:01:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@coderspirit/nominal - Crazily powerful nominal types on Typescript]]></title>
@@ -55,18 +67,6 @@
             <link>https://github.com/kulshekhar/ts-jest/issues/2010</link>
             <guid>https://github.com/kulshekhar/ts-jest/issues/2010</guid>
             <pubDate>Sat, 10 Apr 2021 16:00:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inferring an optional tuple element?]]></title>
-            <link>https://www.typescriptlang.org/play?#code/C4TwDgpgBAggTgcwM4B4AqA+KBeKAoKQqNKCAD2AgDsATJKACgYDpWBDRJALigEsqAZhDixEacBCQBKHFjZUQMgPyiE4yPR5UIAN2EBuPKEhQAYrzhJg6LNgJES5SrXoBtfkJHnLwADRRWZg9hKAAlSWAAXSgVbystXQMjCTMLK3gEGxxUnxQM1EwMQ2STAFkQAHkwYF4Aeyp6XABvKAFa2q0AVwBbACNhf16OHis4fgQoAF9DAGN6qyhKK1NOqhnshlrquoalHnKqmvmZbCwm6bw8AHorqABJUjJIGeAoA+35qAAfKFWaCAE-AgNEGnVevGAAHJ6GwXp02AAbBEgKAAIm0ejgqJK0DQEWycWAGRQxggtQEiwiKzWRSAA</link>
-            <guid>https://www.typescriptlang.org/play?#code/C4TwDgpgBAggTgcwM4B4AqA+KBeKAoKQqNKCAD2AgDsATJKACgYDpWBDRJALigEsqAZhDixEacBCQBKHFjZUQMgPyiE4yPR5UIAN2EBuPKEhQAYrzhJg6LNgJES5SrXoBtfkJHnLwADRRWZg9hKAAlSWAAXSgVbystXQMjCTMLK3gEGxxUnxQM1EwMQ2STAFkQAHkwYF4Aeyp6XABvKAFa2q0AVwBbACNhf16OHis4fgQoAF9DAGN6qyhKK1NOqhnshlrquoalHnKqmvmZbCwm6bw8AHorqABJUjJIGeAoA+35qAAfKFWaCAE-AgNEGnVevGAAHJ6GwXp02AAbBEgKAAIm0ejgqJK0DQEWycWAGRQxggtQEiwiKzWRSAA</guid>
-            <pubDate>Sat, 10 Apr 2021 11:59:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Next.js with TypeScript an ultimate solution]]></title>
-            <link>https://lazypandatech.com/blog/NextJs/35/Next.js-Static-and-Dynamic-Routing-with-TypeScript-and-responsive-design-with-SCSS</link>
-            <guid>https://lazypandatech.com/blog/NextJs/35/Next.js-Static-and-Dynamic-Routing-with-TypeScript-and-responsive-design-with-SCSS</guid>
-            <pubDate>Sat, 10 Apr 2021 10:18:28 GMT</pubDate>
         </item>
     </channel>
 </rss>

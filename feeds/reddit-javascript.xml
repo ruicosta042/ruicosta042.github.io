@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Mon, 12 Apr 2021 19:47:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Apr 2021 07:49:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,10 +21,34 @@
             <pubDate>Mon, 12 Apr 2021 13:56:38 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tips from someone who interviews Junior Frontend Developers]]></title>
+            <link>https://dev.to/jordienr/tips-from-someone-who-interviews-junior-frontend-engineers-5g38</link>
+            <guid>https://dev.to/jordienr/tips-from-someone-who-interviews-junior-frontend-engineers-5g38</guid>
+            <pubDate>Mon, 12 Apr 2021 18:42:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[[AskJS] Another subreddit for JS with a different focus?]]></title>
             <link>https://foo.com/</link>
             <guid>https://foo.com/</guid>
             <pubDate>Mon, 12 Apr 2021 14:37:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[RxJS operators that can help simplify your web application development.]]></title>
+            <link>https://javascript.plainenglish.io/reactive-programming-using-rxjs-operators-6b803c0ed7de</link>
+            <guid>https://javascript.plainenglish.io/reactive-programming-using-rxjs-operators-6b803c0ed7de</guid>
+            <pubDate>Tue, 13 Apr 2021 03:48:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Local Party - a desktop app where you can create rooms and chat while watching local video files synchronized with your friends.]]></title>
+            <link>https://github.com/sheldor1510/local-party</link>
+            <guid>https://github.com/sheldor1510/local-party</guid>
+            <pubDate>Mon, 12 Apr 2021 19:45:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rececss: minimalistic but highly customizable CSS utilities generator]]></title>
+            <link>https://github.com/re-ce/rececss</link>
+            <guid>https://github.com/re-ce/rececss</guid>
+            <pubDate>Mon, 12 Apr 2021 23:37:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Simple inverted index, database implemantation.]]></title>
@@ -33,10 +57,10 @@
             <pubDate>Mon, 12 Apr 2021 05:33:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tips from someone who interviews Junior Frontend Developers]]></title>
-            <link>https://dev.to/jordienr/tips-from-someone-who-interviews-junior-frontend-engineers-5g38</link>
-            <guid>https://dev.to/jordienr/tips-from-someone-who-interviews-junior-frontend-engineers-5g38</guid>
-            <pubDate>Mon, 12 Apr 2021 18:42:57 GMT</pubDate>
+            <title><![CDATA[Use console.log() like a pro]]></title>
+            <link>https://markodenic.com/use-console-log-like-a-pro/</link>
+            <guid>https://markodenic.com/use-console-log-like-a-pro/</guid>
+            <pubDate>Mon, 12 Apr 2021 15:45:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I wrote an tool to auto-internationalize any react app]]></title>
@@ -51,10 +75,10 @@
             <pubDate>Mon, 12 Apr 2021 17:20:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Local Party - a desktop app where you can create rooms and chat while watching local video files synchronized with your friends.]]></title>
-            <link>https://github.com/sheldor1510/local-party</link>
-            <guid>https://github.com/sheldor1510/local-party</guid>
-            <pubDate>Mon, 12 Apr 2021 19:45:23 GMT</pubDate>
+            <title><![CDATA[Transpilation Free Starter Kit]]></title>
+            <link>https://github.com/petersolopov/transpilation-free-starter-kit</link>
+            <guid>https://github.com/petersolopov/transpilation-free-starter-kit</guid>
+            <pubDate>Mon, 12 Apr 2021 21:09:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In Console 48 we got an interview with Mark Nadal, founder of GUN, a P2P database written in Javascript! I thought /r/javascript might be interested in checking it out!]]></title>
@@ -79,12 +103,6 @@
             <link>https://robotrumble.org/</link>
             <guid>https://robotrumble.org/</guid>
             <pubDate>Mon, 12 Apr 2021 05:19:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Use console.log() like a pro]]></title>
-            <link>https://markodenic.com/use-console-log-like-a-pro/</link>
-            <guid>https://markodenic.com/use-console-log-like-a-pro/</guid>
-            <pubDate>Mon, 12 Apr 2021 15:45:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[AskJS] Roast my article, I want to improve my writing skills]]></title>
@@ -133,24 +151,6 @@
             <link>https://github.com/garnetius/uson-js</link>
             <guid>https://github.com/garnetius/uson-js</guid>
             <pubDate>Sun, 11 Apr 2021 17:28:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AskJS] REST client generation tools]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Mon, 12 Apr 2021 01:39:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[swc v1.2.52: Fast refresh, TypeScript 4.3, etc]]></title>
-            <link>https://swc.rs/blog/2021/04/11/swc-1.2.52/</link>
-            <guid>https://swc.rs/blog/2021/04/11/swc-1.2.52/</guid>
-            <pubDate>Sun, 11 Apr 2021 08:35:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Simplest Way to Download SVG/DOM Elements]]></title>
-            <link>https://fabiwo.io/blog/download-the-dom</link>
-            <guid>https://fabiwo.io/blog/download-the-dom</guid>
-            <pubDate>Sun, 11 Apr 2021 06:33:55 GMT</pubDate>
         </item>
     </channel>
 </rss>

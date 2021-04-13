@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Mon, 12 Apr 2021 19:47:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Apr 2021 07:49:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -43,12 +43,6 @@
             <link>https://georgianstan.medium.com/css-alignment-made-simple-41994049afaf?source=friends_link&amp;sk=62bb79ef917a01bcbbe8ad875b66c3b0</link>
             <guid>https://georgianstan.medium.com/css-alignment-made-simple-41994049afaf?source=friends_link&amp;sk=62bb79ef917a01bcbbe8ad875b66c3b0</guid>
             <pubDate>Sat, 10 Apr 2021 18:00:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UI Gradient Generator: Make Beautiful CSS Gradients [& SVG]]]></title>
-            <link>https://learnui.design/tools/gradient-generator.html</link>
-            <guid>https://learnui.design/tools/gradient-generator.html</guid>
-            <pubDate>Fri, 09 Apr 2021 12:52:38 GMT</pubDate>
         </item>
     </channel>
 </rss>

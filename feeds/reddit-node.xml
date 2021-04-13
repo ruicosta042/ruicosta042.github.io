@@ -4,15 +4,33 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Mon, 12 Apr 2021 19:47:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Apr 2021 07:49:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Simple webRTC signaling server implemantation]]></title>
+            <link>https://github.com/foxql/server</link>
+            <guid>https://github.com/foxql/server</guid>
+            <pubDate>Tue, 13 Apr 2021 03:26:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Web Scraping with Javascript: from Axios to Puppeteer and Playwright]]></title>
             <link>https://scrapingant.com/blog/web-scraping-javascript</link>
             <guid>https://scrapingant.com/blog/web-scraping-javascript</guid>
             <pubDate>Mon, 12 Apr 2021 10:05:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HelloDB: Simple JSON database]]></title>
+            <link>https://github.com/yasmikash/hellodb</link>
+            <guid>https://github.com/yasmikash/hellodb</guid>
+            <pubDate>Tue, 13 Apr 2021 03:42:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Under-the-hood of web bundlers (e.g. Webpack)]]></title>
+            <link>https://medium.com/@tabu_craig/under-the-hood-of-web-bundlers-e-g-webpack-926e868f7f5e?source=friends_link&amp;sk=5f611f4e4e915106a7433cdc8aa3478e</link>
+            <guid>https://medium.com/@tabu_craig/under-the-hood-of-web-bundlers-e-g-webpack-926e868f7f5e?source=friends_link&amp;sk=5f611f4e4e915106a7433cdc8aa3478e</guid>
+            <pubDate>Tue, 13 Apr 2021 06:46:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to dockerize node-alpine with hyperformula dependency?]]></title>
@@ -21,10 +39,10 @@
             <pubDate>Mon, 12 Apr 2021 14:05:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Most Popular Backend Frameworks – 2012/2021]]></title>
-            <link>https://statisticsanddata.org/data/most-popular-backend-frameworks-2012-2021/</link>
-            <guid>https://statisticsanddata.org/data/most-popular-backend-frameworks-2012-2021/</guid>
-            <pubDate>Mon, 12 Apr 2021 17:54:29 GMT</pubDate>
+            <title><![CDATA[MERN stack gives NOT FOUND error when deploying to Heroku?]]></title>
+            <link>http://alpha-uni.herokuapp.com/users/login</link>
+            <guid>http://alpha-uni.herokuapp.com/users/login</guid>
+            <pubDate>Mon, 12 Apr 2021 20:49:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to monkey patch node_modules]]></title>
@@ -33,22 +51,22 @@
             <pubDate>Mon, 12 Apr 2021 09:53:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Node-cron verify it is correct time]]></title>
-            <link>https://github.com/node-cron/node-cron</link>
-            <guid>https://github.com/node-cron/node-cron</guid>
-            <pubDate>Mon, 12 Apr 2021 15:16:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Foal framework - version 2.0 release - JWT with cookies, stateless CSRF protection, JWT with RSA keys]]></title>
             <link>https://foalts.org/blog/2021/03/11/whats-new-in-version-2-part-3</link>
             <guid>https://foalts.org/blog/2021/03/11/whats-new-in-version-2-part-3</guid>
             <pubDate>Mon, 12 Apr 2021 13:31:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Partner Up for Learning]]></title>
-            <link>https://discord.gg/ayeGrsaSG2</link>
-            <guid>https://discord.gg/ayeGrsaSG2</guid>
-            <pubDate>Sun, 11 Apr 2021 20:59:49 GMT</pubDate>
+            <title><![CDATA[Node-cron verify it is correct time]]></title>
+            <link>https://github.com/node-cron/node-cron</link>
+            <guid>https://github.com/node-cron/node-cron</guid>
+            <pubDate>Mon, 12 Apr 2021 15:16:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Most Popular Backend Frameworks – 2012/2021]]></title>
+            <link>https://statisticsanddata.org/data/most-popular-backend-frameworks-2012-2021/</link>
+            <guid>https://statisticsanddata.org/data/most-popular-backend-frameworks-2012-2021/</guid>
+            <pubDate>Mon, 12 Apr 2021 17:54:29 GMT</pubDate>
         </item>
     </channel>
 </rss>

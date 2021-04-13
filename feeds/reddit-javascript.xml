@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Tue, 13 Apr 2021 12:56:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Apr 2021 19:47:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,40 @@
             <pubDate>Mon, 12 Apr 2021 09:04:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Slow and Steady: Converting Sentry’s Entire Frontend to TypeScript]]></title>
+            <link>https://blog.sentry.io/2021/04/12/slow-and-steady-converting-sentrys-entire-frontend-to-typescript</link>
+            <guid>https://blog.sentry.io/2021/04/12/slow-and-steady-converting-sentrys-entire-frontend-to-typescript</guid>
+            <pubDate>Tue, 13 Apr 2021 19:23:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[hapi pal v3: Birthday Edition]]></title>
+            <link>https://dev.to/hapipal/hapi-pal-v3-birthday-edition-n86</link>
+            <guid>https://dev.to/hapipal/hapi-pal-v3-birthday-edition-n86</guid>
+            <pubDate>Tue, 13 Apr 2021 17:50:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why some developers are avoiding app store headaches by going web-only]]></title>
+            <link>https://www.fastcompany.com/90623905/ios-web-apps</link>
+            <guid>https://www.fastcompany.com/90623905/ios-web-apps</guid>
+            <pubDate>Tue, 13 Apr 2021 18:28:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Q1 2021 State Of JavaScript Libraries and Tools: Frameworks]]></title>
+            <link>https://moiva.io/blog/2021-q1-state-of-js-frameworks</link>
+            <guid>https://moiva.io/blog/2021-q1-state-of-js-frameworks</guid>
+            <pubDate>Tue, 13 Apr 2021 12:19:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[party.js - a JavaScript library to brighten up your user's site experience with visual effects]]></title>
             <link>https://partyjs.yiliansource.dev/</link>
             <guid>https://partyjs.yiliansource.dev/</guid>
             <pubDate>Mon, 12 Apr 2021 13:56:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[JS classes are not “just syntactic sugar”]]></title>
+            <link>https://webreflection.medium.com/js-classes-are-not-just-syntactic-sugar-28690fedf078</link>
+            <guid>https://webreflection.medium.com/js-classes-are-not-just-syntactic-sugar-28690fedf078</guid>
+            <pubDate>Tue, 13 Apr 2021 19:39:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Healing Power of JavaScript]]></title>
@@ -33,16 +63,10 @@
             <pubDate>Tue, 13 Apr 2021 12:34:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Q1 2021 State Of JavaScript Libraries and Tools: Frameworks]]></title>
-            <link>https://moiva.io/blog/2021-q1-state-of-js-frameworks</link>
-            <guid>https://moiva.io/blog/2021-q1-state-of-js-frameworks</guid>
-            <pubDate>Tue, 13 Apr 2021 12:19:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tips from someone who interviews Junior Frontend Developers]]></title>
-            <link>https://dev.to/jordienr/tips-from-someone-who-interviews-junior-frontend-engineers-5g38</link>
-            <guid>https://dev.to/jordienr/tips-from-someone-who-interviews-junior-frontend-engineers-5g38</guid>
-            <pubDate>Mon, 12 Apr 2021 18:42:57 GMT</pubDate>
+            <title><![CDATA[The complete guide to working with strings in modern JavaScript]]></title>
+            <link>https://www.baseclass.io/guides/string-handling-modern-js</link>
+            <guid>https://www.baseclass.io/guides/string-handling-modern-js</guid>
+            <pubDate>Tue, 13 Apr 2021 15:11:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[natto.dev - a spatial canvas/playground for JavaScript]]></title>
@@ -51,22 +75,10 @@
             <pubDate>Tue, 13 Apr 2021 12:21:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[AskJS] React: share states between components using custom hooks and observables]]></title>
-            <link>https://reactjs.org/docs/hooks-custom.html</link>
-            <guid>https://reactjs.org/docs/hooks-custom.html</guid>
-            <pubDate>Tue, 13 Apr 2021 11:29:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[[AskJS] Another subreddit for JS with a different focus?]]></title>
             <link>https://foo.com/</link>
             <guid>https://foo.com/</guid>
             <pubDate>Mon, 12 Apr 2021 14:37:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Local Party - a desktop app where you can create rooms and chat while watching local video files synchronized with your friends.]]></title>
-            <link>https://github.com/sheldor1510/local-party</link>
-            <guid>https://github.com/sheldor1510/local-party</guid>
-            <pubDate>Mon, 12 Apr 2021 19:45:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[RxJS operators that can help simplify your web application development.]]></title>
@@ -75,16 +87,16 @@
             <pubDate>Tue, 13 Apr 2021 03:48:06 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Local Party - a desktop app where you can create rooms and chat while watching local video files synchronized with your friends.]]></title>
+            <link>https://github.com/sheldor1510/local-party</link>
+            <guid>https://github.com/sheldor1510/local-party</guid>
+            <pubDate>Mon, 12 Apr 2021 19:45:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Rececss: minimalistic but highly customizable CSS utilities generator]]></title>
             <link>https://github.com/re-ce/rececss</link>
             <guid>https://github.com/re-ce/rececss</guid>
             <pubDate>Mon, 12 Apr 2021 23:37:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Use console.log() like a pro]]></title>
-            <link>https://markodenic.com/use-console-log-like-a-pro/</link>
-            <guid>https://markodenic.com/use-console-log-like-a-pro/</guid>
-            <pubDate>Mon, 12 Apr 2021 15:45:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Simple inverted index, database implemantation.]]></title>
@@ -121,12 +133,6 @@
             <link>https://medium.com/@rivoltafilippo/javascript-merge-arrays-without-duplicates-3fbd8f4881be</link>
             <guid>https://medium.com/@rivoltafilippo/javascript-merge-arrays-without-duplicates-3fbd8f4881be</guid>
             <pubDate>Mon, 12 Apr 2021 18:06:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AskJS] How does JavaScript generate pseudo-random numbers?]]></title>
-            <link>https://en.wikipedia.org/wiki/Linear_congruential_generator</link>
-            <guid>https://en.wikipedia.org/wiki/Linear_congruential_generator</guid>
-            <pubDate>Mon, 12 Apr 2021 14:02:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Robot Rumble — an arena-style AI battle game for teams of JS-based robots]]></title>

@@ -4,15 +4,39 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Tue, 13 Apr 2021 19:47:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Apr 2021 07:48:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[EfficientNet - image recognition and object detection model written in node and typescript]]></title>
+            <link>https://github.com/ntedgi/node-efficientnet</link>
+            <guid>https://github.com/ntedgi/node-efficientnet</guid>
+            <pubDate>Wed, 14 Apr 2021 04:42:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Understanding Concurrency in Node child_processes]]></title>
+            <link>https://www.google.com').on('exit/</link>
+            <guid>https://www.google.com').on('exit/</guid>
+            <pubDate>Wed, 14 Apr 2021 01:35:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Project Design]]></title>
+            <link>https://github.com/RobertSkonieczny/node-steam-trade-farm</link>
+            <guid>https://github.com/RobertSkonieczny/node-steam-trade-farm</guid>
+            <pubDate>Wed, 14 Apr 2021 04:43:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Simple webRTC signaling server implemantation]]></title>
             <link>https://github.com/foxql/server</link>
             <guid>https://github.com/foxql/server</guid>
             <pubDate>Tue, 13 Apr 2021 03:26:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to run multiple node scripts with one command?]]></title>
+            <link>https://stackoverflow.com/questions/67069522/watching-for-sass-changes-in-npm-using-node-sass-and-cross-platform-friendly</link>
+            <guid>https://stackoverflow.com/questions/67069522/watching-for-sass-changes-in-npm-using-node-sass-and-cross-platform-friendly</guid>
+            <pubDate>Tue, 13 Apr 2021 19:55:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Web Scraping with Javascript: from Axios to Puppeteer and Playwright]]></title>
@@ -31,18 +55,6 @@
             <link>https://medium.com/@tabu_craig/under-the-hood-of-web-bundlers-e-g-webpack-926e868f7f5e?source=friends_link&amp;sk=5f611f4e4e915106a7433cdc8aa3478e</link>
             <guid>https://medium.com/@tabu_craig/under-the-hood-of-web-bundlers-e-g-webpack-926e868f7f5e?source=friends_link&amp;sk=5f611f4e4e915106a7433cdc8aa3478e</guid>
             <pubDate>Tue, 13 Apr 2021 06:46:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Node.js Development: Top Reasons to Use Node.js For Web Development]]></title>
-            <link>https://www.elsner.com/node-js-development-top-reasons-to-use-node-js-for-web-development/</link>
-            <guid>https://www.elsner.com/node-js-development-top-reasons-to-use-node-js-for-web-development/</guid>
-            <pubDate>Tue, 13 Apr 2021 10:55:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to dockerize node-alpine with hyperformula dependency?]]></title>
-            <link>https://github.com/handsontable/hyperformula</link>
-            <guid>https://github.com/handsontable/hyperformula</guid>
-            <pubDate>Mon, 12 Apr 2021 14:05:59 GMT</pubDate>
         </item>
     </channel>
 </rss>

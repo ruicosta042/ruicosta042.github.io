@@ -4,21 +4,33 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Tue, 13 Apr 2021 19:47:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Apr 2021 07:48:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Footer overlaps content on position:relative]]></title>
-            <link>https://stackoverflow.com/questions/67078141/footer-overlapping-body-content-tried-all-existing-question-answers-on-s-o-no</link>
-            <guid>https://stackoverflow.com/questions/67078141/footer-overlapping-body-content-tried-all-existing-question-answers-on-s-o-no</guid>
-            <pubDate>Tue, 13 Apr 2021 16:57:59 GMT</pubDate>
+            <title><![CDATA[Say Hello To CSS Container Queries]]></title>
+            <link>https://ishadeed.com/article/say-hello-to-css-container-queries/</link>
+            <guid>https://ishadeed.com/article/say-hello-to-css-container-queries/</guid>
+            <pubDate>Tue, 13 Apr 2021 20:43:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is it possible to define a specific website inside a CSS-file?]]></title>
+            <link>https://duckduckgo.com/</link>
+            <guid>https://duckduckgo.com/</guid>
+            <pubDate>Tue, 13 Apr 2021 21:17:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Best CSS Frameworks To Look Forward In 2021]]></title>
             <link>https://www.lambdatest.com/blog/best-css-frameworks-2021/?utm_source=Reddit&amp;utm_medium=blog&amp;utm_campaign=PM-130421-1&amp;utm_term=OrganicPosting</link>
             <guid>https://www.lambdatest.com/blog/best-css-frameworks-2021/?utm_source=Reddit&amp;utm_medium=blog&amp;utm_campaign=PM-130421-1&amp;utm_term=OrganicPosting</guid>
             <pubDate>Tue, 13 Apr 2021 14:33:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Footer overlaps content on position:relative]]></title>
+            <link>https://stackoverflow.com/questions/67078141/footer-overlapping-body-content-tried-all-existing-question-answers-on-s-o-no</link>
+            <guid>https://stackoverflow.com/questions/67078141/footer-overlapping-body-content-tried-all-existing-question-answers-on-s-o-no</guid>
+            <pubDate>Tue, 13 Apr 2021 16:57:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Complete CSS Flex Tutorial]]></title>
@@ -55,18 +67,6 @@
             <link>https://foo.com/</link>
             <guid>https://foo.com/</guid>
             <pubDate>Sun, 11 Apr 2021 18:47:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I made a free and elegant VS Code theme that does not hurt your eyes.]]></title>
-            <link>https://marketplace.visualstudio.com/items?itemName=wicked-labs.wicked-betamax</link>
-            <guid>https://marketplace.visualstudio.com/items?itemName=wicked-labs.wicked-betamax</guid>
-            <pubDate>Sat, 10 Apr 2021 11:25:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CSS Alignment Made Simple]]></title>
-            <link>https://georgianstan.medium.com/css-alignment-made-simple-41994049afaf?source=friends_link&amp;sk=62bb79ef917a01bcbbe8ad875b66c3b0</link>
-            <guid>https://georgianstan.medium.com/css-alignment-made-simple-41994049afaf?source=friends_link&amp;sk=62bb79ef917a01bcbbe8ad875b66c3b0</guid>
-            <pubDate>Sat, 10 Apr 2021 18:00:05 GMT</pubDate>
         </item>
     </channel>
 </rss>

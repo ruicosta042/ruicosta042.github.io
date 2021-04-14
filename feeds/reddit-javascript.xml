@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Tue, 13 Apr 2021 19:47:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Apr 2021 07:48:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,16 +21,70 @@
             <pubDate>Tue, 13 Apr 2021 19:23:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Why some developers are avoiding app store headaches by going web-only]]></title>
+            <link>https://www.fastcompany.com/90623905/ios-web-apps</link>
+            <guid>https://www.fastcompany.com/90623905/ios-web-apps</guid>
+            <pubDate>Tue, 13 Apr 2021 18:28:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Useful free and paid resources for Web Developers to stay updated]]></title>
+            <link>https://shrutikapoor.hashnode.dev/useful-free-and-paid-resources-for-web-developers-to-stay-updated</link>
+            <guid>https://shrutikapoor.hashnode.dev/useful-free-and-paid-resources-for-web-developers-to-stay-updated</guid>
+            <pubDate>Wed, 14 Apr 2021 03:33:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[You (may not) Know JS — quick facts and concepts you probably did not know about JS.]]></title>
+            <link>https://dsmorais.hashnode.dev/you-may-not-know-js</link>
+            <guid>https://dsmorais.hashnode.dev/you-may-not-know-js</guid>
+            <pubDate>Wed, 14 Apr 2021 06:32:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[JS classes are not “just syntactic sugar”]]></title>
+            <link>https://webreflection.medium.com/js-classes-are-not-just-syntactic-sugar-28690fedf078</link>
+            <guid>https://webreflection.medium.com/js-classes-are-not-just-syntactic-sugar-28690fedf078</guid>
+            <pubDate>Tue, 13 Apr 2021 19:39:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[deno 1.9 is released - with unstable fast http]]></title>
+            <link>https://deno.com/blog/v1.9</link>
+            <guid>https://deno.com/blog/v1.9</guid>
+            <pubDate>Tue, 13 Apr 2021 19:58:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Raindrop in slow motion with .JS (Chrome experiment, PC only)]]></title>
+            <link>https://rainbowhunt.com/relaxing-raindrop-sounds.html</link>
+            <guid>https://rainbowhunt.com/relaxing-raindrop-sounds.html</guid>
+            <pubDate>Wed, 14 Apr 2021 06:55:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is WebAssembly magic performance pixie dust?]]></title>
+            <link>https://surma.dev/things/js-to-asc/</link>
+            <guid>https://surma.dev/things/js-to-asc/</guid>
+            <pubDate>Wed, 14 Apr 2021 04:57:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EfficientNet - image recognition and object detection model written in node and typescript]]></title>
+            <link>https://github.com/ntedgi/node-efficientnet</link>
+            <guid>https://github.com/ntedgi/node-efficientnet</guid>
+            <pubDate>Wed, 14 Apr 2021 04:41:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A notion like web app which is fully local and supports markdown]]></title>
+            <link>https://bangle.io/</link>
+            <guid>https://bangle.io/</guid>
+            <pubDate>Wed, 14 Apr 2021 04:28:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[hapi pal v3: Birthday Edition]]></title>
             <link>https://dev.to/hapipal/hapi-pal-v3-birthday-edition-n86</link>
             <guid>https://dev.to/hapipal/hapi-pal-v3-birthday-edition-n86</guid>
             <pubDate>Tue, 13 Apr 2021 17:50:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why some developers are avoiding app store headaches by going web-only]]></title>
-            <link>https://www.fastcompany.com/90623905/ios-web-apps</link>
-            <guid>https://www.fastcompany.com/90623905/ios-web-apps</guid>
-            <pubDate>Tue, 13 Apr 2021 18:28:05 GMT</pubDate>
+            <title><![CDATA[Vouch: A dependency review tool for NPM packages]]></title>
+            <link>https://github.com/vouch-dev/vouch</link>
+            <guid>https://github.com/vouch-dev/vouch</guid>
+            <pubDate>Wed, 14 Apr 2021 00:36:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Q1 2021 State Of JavaScript Libraries and Tools: Frameworks]]></title>
@@ -39,16 +93,22 @@
             <pubDate>Tue, 13 Apr 2021 12:19:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The complete guide to working with strings in modern JavaScript]]></title>
+            <link>https://www.baseclass.io/guides/string-handling-modern-js</link>
+            <guid>https://www.baseclass.io/guides/string-handling-modern-js</guid>
+            <pubDate>Tue, 13 Apr 2021 15:11:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[V8 inspector from node]]></title>
+            <link>https://h3manth.com/new/blog/2021/v8-inspector-from-node/</link>
+            <guid>https://h3manth.com/new/blog/2021/v8-inspector-from-node/</guid>
+            <pubDate>Tue, 13 Apr 2021 21:35:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[party.js - a JavaScript library to brighten up your user's site experience with visual effects]]></title>
             <link>https://partyjs.yiliansource.dev/</link>
             <guid>https://partyjs.yiliansource.dev/</guid>
             <pubDate>Mon, 12 Apr 2021 13:56:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JS classes are not “just syntactic sugar”]]></title>
-            <link>https://webreflection.medium.com/js-classes-are-not-just-syntactic-sugar-28690fedf078</link>
-            <guid>https://webreflection.medium.com/js-classes-are-not-just-syntactic-sugar-28690fedf078</guid>
-            <pubDate>Tue, 13 Apr 2021 19:39:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Healing Power of JavaScript]]></title>
@@ -61,12 +121,6 @@
             <link>https://dev.to/clementvidal/use-typescript-mapped-types-to-promisify-your-class-1cmk</link>
             <guid>https://dev.to/clementvidal/use-typescript-mapped-types-to-promisify-your-class-1cmk</guid>
             <pubDate>Tue, 13 Apr 2021 12:34:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The complete guide to working with strings in modern JavaScript]]></title>
-            <link>https://www.baseclass.io/guides/string-handling-modern-js</link>
-            <guid>https://www.baseclass.io/guides/string-handling-modern-js</guid>
-            <pubDate>Tue, 13 Apr 2021 15:11:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[natto.dev - a spatial canvas/playground for JavaScript]]></title>
@@ -91,54 +145,6 @@
             <link>https://github.com/sheldor1510/local-party</link>
             <guid>https://github.com/sheldor1510/local-party</guid>
             <pubDate>Mon, 12 Apr 2021 19:45:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rececss: minimalistic but highly customizable CSS utilities generator]]></title>
-            <link>https://github.com/re-ce/rececss</link>
-            <guid>https://github.com/re-ce/rececss</guid>
-            <pubDate>Mon, 12 Apr 2021 23:37:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Simple inverted index, database implemantation.]]></title>
-            <link>https://github.com/foxql/database</link>
-            <guid>https://github.com/foxql/database</guid>
-            <pubDate>Mon, 12 Apr 2021 05:33:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Transpilation Free Starter Kit]]></title>
-            <link>https://github.com/petersolopov/transpilation-free-starter-kit</link>
-            <guid>https://github.com/petersolopov/transpilation-free-starter-kit</guid>
-            <pubDate>Mon, 12 Apr 2021 21:09:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I wrote an tool to auto-internationalize any react app]]></title>
-            <link>https://github.com/ajkovar/auto-i18n-react</link>
-            <guid>https://github.com/ajkovar/auto-i18n-react</guid>
-            <pubDate>Mon, 12 Apr 2021 15:10:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ketting 7 released: HATEOAS HTTP client for JavaScript]]></title>
-            <link>https://evertpot.com/ketting-7-released/</link>
-            <guid>https://evertpot.com/ketting-7-released/</guid>
-            <pubDate>Mon, 12 Apr 2021 17:20:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In Console 48 we got an interview with Mark Nadal, founder of GUN, a P2P database written in Javascript! I thought /r/javascript might be interested in checking it out!]]></title>
-            <link>https://console.substack.com/p/console-48?r=3cbez&amp;utm_campaign=post&amp;utm_medium=web&amp;utm_source=javascript_subreddit</link>
-            <guid>https://console.substack.com/p/console-48?r=3cbez&amp;utm_campaign=post&amp;utm_medium=web&amp;utm_source=javascript_subreddit</guid>
-            <pubDate>Sun, 11 Apr 2021 15:03:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Merging arrays without duplicates a performance comparison]]></title>
-            <link>https://medium.com/@rivoltafilippo/javascript-merge-arrays-without-duplicates-3fbd8f4881be</link>
-            <guid>https://medium.com/@rivoltafilippo/javascript-merge-arrays-without-duplicates-3fbd8f4881be</guid>
-            <pubDate>Mon, 12 Apr 2021 18:06:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Robot Rumble — an arena-style AI battle game for teams of JS-based robots]]></title>
-            <link>https://robotrumble.org/</link>
-            <guid>https://robotrumble.org/</guid>
-            <pubDate>Mon, 12 Apr 2021 05:19:57 GMT</pubDate>
         </item>
     </channel>
 </rss>

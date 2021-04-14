@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Tue, 13 Apr 2021 19:47:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Apr 2021 07:48:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,10 +21,34 @@
             <pubDate>Thu, 01 Apr 2021 06:19:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[A notion like web app which is fully local and supports markdown]]></title>
+            <link>https://bangle.io/</link>
+            <guid>https://bangle.io/</guid>
+            <pubDate>Wed, 14 Apr 2021 04:02:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[why-did-you-render: notify about potentially avoidable re-renders.]]></title>
             <link>https://github.com/welldone-software/why-did-you-render</link>
             <guid>https://github.com/welldone-software/why-did-you-render</guid>
             <pubDate>Tue, 13 Apr 2021 12:48:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[i need some help for my react page indexing issues]]></title>
+            <link>https://www.torque360.co/</link>
+            <guid>https://www.torque360.co/</guid>
+            <pubDate>Wed, 14 Apr 2021 07:47:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A TikTok-like feed for Twitch clips made using NextJS and Tailwind]]></title>
+            <link>https://kliperz.com/</link>
+            <guid>https://kliperz.com/</guid>
+            <pubDate>Wed, 14 Apr 2021 06:58:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Weird Rendering When Anchor Tag Clicked]]></title>
+            <link>https://prismjs.com/</link>
+            <guid>https://prismjs.com/</guid>
+            <pubDate>Wed, 14 Apr 2021 02:07:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[React Router Hooks: Exploring How They Work]]></title>
@@ -33,34 +57,10 @@
             <pubDate>Tue, 13 Apr 2021 13:18:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A small web app for searching App Store games without IAP (React + Framework7)]]></title>
-            <link>http://marcobot.com/</link>
-            <guid>http://marcobot.com/</guid>
-            <pubDate>Tue, 13 Apr 2021 07:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Top 30 Open Source and Paid React Charts + Examples - Flatlogic Blog]]></title>
-            <link>https://flatlogic.com/blog/top-30-open-source-and-paid-react-charts-examples/</link>
-            <guid>https://flatlogic.com/blog/top-30-open-source-and-paid-react-charts-examples/</guid>
-            <pubDate>Tue, 13 Apr 2021 18:21:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A typing practice application using open-source projects on GitHub]]></title>
-            <link>https://typing-dev.web.app/</link>
-            <guid>https://typing-dev.web.app/</guid>
-            <pubDate>Tue, 13 Apr 2021 16:05:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[React Router - Using Routes as sections of a page?]]></title>
             <link>https://reactrouter.com/web/api/Hooks</link>
             <guid>https://reactrouter.com/web/api/Hooks</guid>
             <pubDate>Tue, 13 Apr 2021 15:47:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My first React Project - Crypto Currency Paper Trading]]></title>
-            <link>https://december-ok.github.io/CoinTrade</link>
-            <guid>https://december-ok.github.io/CoinTrade</guid>
-            <pubDate>Tue, 13 Apr 2021 11:56:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[To learn hooks, I wrote a Carousel component with support for touch, mouse dragging, lazy loading, pinch to zoom, thumbnails, modal and keyboard navigation]]></title>

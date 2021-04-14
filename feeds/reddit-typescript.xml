@@ -4,21 +4,27 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Tue, 13 Apr 2021 19:47:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Apr 2021 07:48:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
-        <item>
-            <title><![CDATA[@practical-fp/union-types - A Typescript library for creating discriminating union types]]></title>
-            <link>https://github.com/practical-fp/union-types</link>
-            <guid>https://github.com/practical-fp/union-types</guid>
-            <pubDate>Tue, 13 Apr 2021 13:29:50 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Slow and Steady: Converting Sentry’s Entire Frontend to TypeScript]]></title>
             <link>https://blog.sentry.io/2021/04/12/slow-and-steady-converting-sentrys-entire-frontend-to-typescript</link>
             <guid>https://blog.sentry.io/2021/04/12/slow-and-steady-converting-sentrys-entire-frontend-to-typescript</guid>
             <pubDate>Tue, 13 Apr 2021 19:25:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EfficientNet - image recognition and object detection model written in node and typescript]]></title>
+            <link>https://github.com/ntedgi/node-efficientnet</link>
+            <guid>https://github.com/ntedgi/node-efficientnet</guid>
+            <pubDate>Wed, 14 Apr 2021 04:42:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@practical-fp/union-types - A Typescript library for creating discriminating union types]]></title>
+            <link>https://github.com/practical-fp/union-types</link>
+            <guid>https://github.com/practical-fp/union-types</guid>
+            <pubDate>Tue, 13 Apr 2021 13:29:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ts_ci makes the creation publication and maintenance of an NPM module really easy]]></title>
@@ -61,12 +67,6 @@
             <link>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions</link>
             <guid>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions</guid>
             <pubDate>Sun, 11 Apr 2021 18:21:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How do I access an object or array type]]></title>
-            <link>https://www.typescriptlang.org/play?#code/C4TwDgpgBAwg9gGwRAxsAlnAdlAvFAZ2ACd0sBzAbQF0oAfKAJVTmIBMAeI0igGkJJlyAPgDcAWABQUlNiJQIADwCGAWzDIAYgFcsaTDnwAKMmyUAuKFm2qARhGL0BPcv1lJUGbJfgf92AEo8YSh3ZH8sSlMlaglJIA</link>
-            <guid>https://www.typescriptlang.org/play?#code/C4TwDgpgBAwg9gGwRAxsAlnAdlAvFAZ2ACd0sBzAbQF0oAfKAJVTmIBMAeI0igGkJJlyAPgDcAWABQUlNiJQIADwCGAWzDIAYgFcsaTDnwAKMmyUAuKFm2qARhGL0BPcv1lJUGbJfgf92AEo8YSh3ZH8sSlMlaglJIA</guid>
-            <pubDate>Sun, 11 Apr 2021 20:20:15 GMT</pubDate>
         </item>
     </channel>
 </rss>

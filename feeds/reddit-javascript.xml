@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Wed, 14 Apr 2021 12:54:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Apr 2021 19:46:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,34 +21,22 @@
             <pubDate>Wed, 14 Apr 2021 08:45:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Private brand checks a.k.a. `#foo in obj`]]></title>
+            <link>https://v8.dev/features/private-brand-checks</link>
+            <guid>https://v8.dev/features/private-brand-checks</guid>
+            <pubDate>Wed, 14 Apr 2021 17:45:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Slow and Steady: Converting Sentry’s Entire Frontend to TypeScript]]></title>
             <link>https://blog.sentry.io/2021/04/12/slow-and-steady-converting-sentrys-entire-frontend-to-typescript</link>
             <guid>https://blog.sentry.io/2021/04/12/slow-and-steady-converting-sentrys-entire-frontend-to-typescript</guid>
             <pubDate>Tue, 13 Apr 2021 19:23:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How can I get the text (Labels) in my D3.js heatmap to become responsive? (JavaScript)]]></title>
-            <link>https://jsfiddle.net/0u9pwst4/</link>
-            <guid>https://jsfiddle.net/0u9pwst4/</guid>
-            <pubDate>Wed, 14 Apr 2021 11:52:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[You (may not) Know JS — quick facts and concepts you probably did not know about JS.]]></title>
-            <link>https://dsmorais.hashnode.dev/you-may-not-know-js</link>
-            <guid>https://dsmorais.hashnode.dev/you-may-not-know-js</guid>
-            <pubDate>Wed, 14 Apr 2021 06:32:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why some developers are avoiding app store headaches by going web-only]]></title>
-            <link>https://www.fastcompany.com/90623905/ios-web-apps</link>
-            <guid>https://www.fastcompany.com/90623905/ios-web-apps</guid>
-            <pubDate>Tue, 13 Apr 2021 18:28:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JS classes are not “just syntactic sugar”]]></title>
-            <link>https://webreflection.medium.com/js-classes-are-not-just-syntactic-sugar-28690fedf078</link>
-            <guid>https://webreflection.medium.com/js-classes-are-not-just-syntactic-sugar-28690fedf078</guid>
-            <pubDate>Tue, 13 Apr 2021 19:39:40 GMT</pubDate>
+            <title><![CDATA[wavesurfer.js - waveforms on the web. A simple Javascript/CSS solution for a drop-in replacement of the standard audio tag for more stylized audio playback]]></title>
+            <link>https://schollz.com/blog/waveforms/</link>
+            <guid>https://schollz.com/blog/waveforms/</guid>
+            <pubDate>Wed, 14 Apr 2021 13:46:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[State Management Libraries Report Q1 2021]]></title>
@@ -57,22 +45,22 @@
             <pubDate>Wed, 14 Apr 2021 12:24:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Useful free and paid resources for Web Developers to stay updated]]></title>
-            <link>https://shrutikapoor.hashnode.dev/useful-free-and-paid-resources-for-web-developers-to-stay-updated</link>
-            <guid>https://shrutikapoor.hashnode.dev/useful-free-and-paid-resources-for-web-developers-to-stay-updated</guid>
-            <pubDate>Wed, 14 Apr 2021 03:33:49 GMT</pubDate>
+            <title><![CDATA[Why some developers are avoiding app store headaches by going web-only]]></title>
+            <link>https://www.fastcompany.com/90623905/ios-web-apps</link>
+            <guid>https://www.fastcompany.com/90623905/ios-web-apps</guid>
+            <pubDate>Tue, 13 Apr 2021 18:28:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[5 JavaScript Interview Questions to Identify Outstanding Developers]]></title>
-            <link>https://javascript.plainenglish.io/5-javascript-interview-questions-to-identify-outstanding-developers-859a71c3d7f</link>
-            <guid>https://javascript.plainenglish.io/5-javascript-interview-questions-to-identify-outstanding-developers-859a71c3d7f</guid>
-            <pubDate>Wed, 14 Apr 2021 12:15:01 GMT</pubDate>
+            <title><![CDATA[How to make optimized tree shakeable libraries to improve your app's performance]]></title>
+            <link>https://blog.theodo.com/2021/04/library-tree-shaking/</link>
+            <guid>https://blog.theodo.com/2021/04/library-tree-shaking/</guid>
+            <pubDate>Wed, 14 Apr 2021 15:08:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mastering Postgres transactions in Node.js]]></title>
-            <link>https://gregberge.com/blog/knex-transactions</link>
-            <guid>https://gregberge.com/blog/knex-transactions</guid>
-            <pubDate>Wed, 14 Apr 2021 11:47:34 GMT</pubDate>
+            <title><![CDATA[JS classes are not “just syntactic sugar”]]></title>
+            <link>https://webreflection.medium.com/js-classes-are-not-just-syntactic-sugar-28690fedf078</link>
+            <guid>https://webreflection.medium.com/js-classes-are-not-just-syntactic-sugar-28690fedf078</guid>
+            <pubDate>Tue, 13 Apr 2021 19:39:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Raindrop in slow motion with .JS (Chrome experiment, PC only)]]></title>
@@ -81,16 +69,16 @@
             <pubDate>Wed, 14 Apr 2021 06:55:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Mastering Postgres transactions in Node.js]]></title>
+            <link>https://gregberge.com/blog/knex-transactions</link>
+            <guid>https://gregberge.com/blog/knex-transactions</guid>
+            <pubDate>Wed, 14 Apr 2021 11:47:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[deno 1.9 is released - with unstable fast http]]></title>
             <link>https://deno.com/blog/v1.9</link>
             <guid>https://deno.com/blog/v1.9</guid>
             <pubDate>Tue, 13 Apr 2021 19:58:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Supercharge your API with Compression]]></title>
-            <link>https://dev.to/mikeeason/supercharge-your-api-with-compression-4ikp</link>
-            <guid>https://dev.to/mikeeason/supercharge-your-api-with-compression-4ikp</guid>
-            <pubDate>Wed, 14 Apr 2021 10:31:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is WebAssembly magic performance pixie dust?]]></title>
@@ -105,6 +93,12 @@
             <pubDate>Wed, 14 Apr 2021 04:28:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Supercharge your API with Compression]]></title>
+            <link>https://dev.to/mikeeason/supercharge-your-api-with-compression-4ikp</link>
+            <guid>https://dev.to/mikeeason/supercharge-your-api-with-compression-4ikp</guid>
+            <pubDate>Wed, 14 Apr 2021 10:31:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[EfficientNet - image recognition and object detection model written in node and typescript]]></title>
             <link>https://github.com/ntedgi/node-efficientnet</link>
             <guid>https://github.com/ntedgi/node-efficientnet</guid>
@@ -115,6 +109,12 @@
             <link>https://dev.to/hapipal/hapi-pal-v3-birthday-edition-n86</link>
             <guid>https://dev.to/hapipal/hapi-pal-v3-birthday-edition-n86</guid>
             <pubDate>Tue, 13 Apr 2021 17:50:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The complete guide to working with strings in modern JavaScript]]></title>
+            <link>https://www.baseclass.io/guides/string-handling-modern-js</link>
+            <guid>https://www.baseclass.io/guides/string-handling-modern-js</guid>
+            <pubDate>Tue, 13 Apr 2021 15:11:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vouch: A dependency review tool for NPM packages]]></title>
@@ -129,22 +129,10 @@
             <pubDate>Tue, 13 Apr 2021 12:19:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The complete guide to working with strings in modern JavaScript]]></title>
-            <link>https://www.baseclass.io/guides/string-handling-modern-js</link>
-            <guid>https://www.baseclass.io/guides/string-handling-modern-js</guid>
-            <pubDate>Tue, 13 Apr 2021 15:11:37 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[V8 inspector from node]]></title>
             <link>https://h3manth.com/new/blog/2021/v8-inspector-from-node/</link>
             <guid>https://h3manth.com/new/blog/2021/v8-inspector-from-node/</guid>
             <pubDate>Tue, 13 Apr 2021 21:35:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[party.js - a JavaScript library to brighten up your user's site experience with visual effects]]></title>
-            <link>https://partyjs.yiliansource.dev/</link>
-            <guid>https://partyjs.yiliansource.dev/</guid>
-            <pubDate>Mon, 12 Apr 2021 13:56:38 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Wed, 14 Apr 2021 12:54:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Apr 2021 19:46:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,30 @@
             <link>https://github.com/jaychandra6/syncboard</link>
             <guid>https://github.com/jaychandra6/syncboard</guid>
             <pubDate>Wed, 14 Apr 2021 09:53:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Do you guys use any mechanisms for hot-restarting server apps, and ensuring the port is sufficiently closed each restart, ie. avoid 'Port XXXX is already in use.' ?]]></title>
+            <link>https://restart.sh/</link>
+            <guid>https://restart.sh/</guid>
+            <pubDate>Wed, 14 Apr 2021 14:43:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Generate TypeScript definitions from a PostgreSQL database schema]]></title>
+            <link>https://github.com/kriasoft/knex-types</link>
+            <guid>https://github.com/kriasoft/knex-types</guid>
+            <pubDate>Wed, 14 Apr 2021 14:29:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Newbie here, Help needed regarding file system, pls]]></title>
+            <link>https://jsonplaceholder.typicode.com/</link>
+            <guid>https://jsonplaceholder.typicode.com/</guid>
+            <pubDate>Wed, 14 Apr 2021 13:51:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Easily build a nodejs app by running one command]]></title>
+            <link>https://npmjs.org/package/build-node-app</link>
+            <guid>https://npmjs.org/package/build-node-app</guid>
+            <pubDate>Wed, 14 Apr 2021 15:57:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[EfficientNet - image recognition and object detection model written in node and typescript]]></title>
@@ -43,12 +67,6 @@
             <link>https://stackoverflow.com/questions/67069522/watching-for-sass-changes-in-npm-using-node-sass-and-cross-platform-friendly</link>
             <guid>https://stackoverflow.com/questions/67069522/watching-for-sass-changes-in-npm-using-node-sass-and-cross-platform-friendly</guid>
             <pubDate>Tue, 13 Apr 2021 19:55:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HelloDB: Simple JSON database]]></title>
-            <link>https://github.com/yasmikash/hellodb</link>
-            <guid>https://github.com/yasmikash/hellodb</guid>
-            <pubDate>Tue, 13 Apr 2021 03:42:46 GMT</pubDate>
         </item>
     </channel>
 </rss>

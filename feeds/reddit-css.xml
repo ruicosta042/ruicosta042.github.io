@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Wed, 14 Apr 2021 07:48:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Apr 2021 12:54:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,18 @@
             <link>https://ishadeed.com/article/say-hello-to-css-container-queries/</link>
             <guid>https://ishadeed.com/article/say-hello-to-css-container-queries/</guid>
             <pubDate>Tue, 13 Apr 2021 20:43:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CSS Methodology & architecture]]></title>
+            <link>https://twitter.com/piccalilli_</link>
+            <guid>https://twitter.com/piccalilli_</guid>
+            <pubDate>Wed, 14 Apr 2021 11:52:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fluid Space Calculator]]></title>
+            <link>https://utopia.fyi/space/calculator/</link>
+            <guid>https://utopia.fyi/space/calculator/</guid>
+            <pubDate>Wed, 14 Apr 2021 09:21:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is it possible to define a specific website inside a CSS-file?]]></title>

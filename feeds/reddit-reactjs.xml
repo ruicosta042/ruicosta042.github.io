@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Wed, 14 Apr 2021 07:48:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Apr 2021 12:54:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -27,16 +27,28 @@
             <pubDate>Wed, 14 Apr 2021 04:02:43 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Data Fetching Techniques with React]]></title>
+            <link>https://blog.asayer.io/data-fetching-techniques-with-react</link>
+            <guid>https://blog.asayer.io/data-fetching-techniques-with-react</guid>
+            <pubDate>Wed, 14 Apr 2021 08:36:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[why-did-you-render: notify about potentially avoidable re-renders.]]></title>
             <link>https://github.com/welldone-software/why-did-you-render</link>
             <guid>https://github.com/welldone-software/why-did-you-render</guid>
             <pubDate>Tue, 13 Apr 2021 12:48:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[i need some help for my react page indexing issues]]></title>
-            <link>https://www.torque360.co/</link>
-            <guid>https://www.torque360.co/</guid>
-            <pubDate>Wed, 14 Apr 2021 07:47:10 GMT</pubDate>
+            <title><![CDATA[We thought that coding forms is still too complex. So we created (another) new form library.]]></title>
+            <link>https://github.com/swan-io/react-ux-form</link>
+            <guid>https://github.com/swan-io/react-ux-form</guid>
+            <pubDate>Wed, 14 Apr 2021 12:45:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to redirect non-logged in users to the login page?]]></title>
+            <link>https://docs.microsoft.com/en-us/azure/developer/javascript/tutorial/single-page-application-azure-login-button-sdk-msal</link>
+            <guid>https://docs.microsoft.com/en-us/azure/developer/javascript/tutorial/single-page-application-azure-login-button-sdk-msal</guid>
+            <pubDate>Wed, 14 Apr 2021 10:48:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A TikTok-like feed for Twitch clips made using NextJS and Tailwind]]></title>
@@ -45,28 +57,28 @@
             <pubDate>Wed, 14 Apr 2021 06:58:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Isolate embeddable React widget from other widgets on the page]]></title>
+            <link>https://reactjs.org/warnings/invalid-hook-call-warning.html</link>
+            <guid>https://reactjs.org/warnings/invalid-hook-call-warning.html</guid>
+            <pubDate>Wed, 14 Apr 2021 10:23:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[i need some help for my react page indexing issues]]></title>
+            <link>https://www.torque360.co/</link>
+            <guid>https://www.torque360.co/</guid>
+            <pubDate>Wed, 14 Apr 2021 07:47:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Weird Rendering When Anchor Tag Clicked]]></title>
             <link>https://prismjs.com/</link>
             <guid>https://prismjs.com/</guid>
             <pubDate>Wed, 14 Apr 2021 02:07:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React Router Hooks: Exploring How They Work]]></title>
-            <link>https://blog.asayer.io/react-router-hooks-exploring-how-they-work</link>
-            <guid>https://blog.asayer.io/react-router-hooks-exploring-how-they-work</guid>
-            <pubDate>Tue, 13 Apr 2021 13:18:24 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[React Router - Using Routes as sections of a page?]]></title>
             <link>https://reactrouter.com/web/api/Hooks</link>
             <guid>https://reactrouter.com/web/api/Hooks</guid>
             <pubDate>Tue, 13 Apr 2021 15:47:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[To learn hooks, I wrote a Carousel component with support for touch, mouse dragging, lazy loading, pinch to zoom, thumbnails, modal and keyboard navigation]]></title>
-            <link>https://github.com/yifaneye/react-gallery-carousel</link>
-            <guid>https://github.com/yifaneye/react-gallery-carousel</guid>
-            <pubDate>Tue, 13 Apr 2021 11:34:36 GMT</pubDate>
         </item>
     </channel>
 </rss>

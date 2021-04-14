@@ -4,10 +4,16 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Wed, 14 Apr 2021 07:48:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Apr 2021 12:54:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[I made an app that helps you sync your clipboards between your Windows PC and your Android device.]]></title>
+            <link>https://github.com/jaychandra6/syncboard</link>
+            <guid>https://github.com/jaychandra6/syncboard</guid>
+            <pubDate>Wed, 14 Apr 2021 09:53:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[EfficientNet - image recognition and object detection model written in node and typescript]]></title>
             <link>https://github.com/ntedgi/node-efficientnet</link>
@@ -15,16 +21,16 @@
             <pubDate>Wed, 14 Apr 2021 04:42:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Understanding Concurrency in Node child_processes]]></title>
-            <link>https://www.google.com').on('exit/</link>
-            <guid>https://www.google.com').on('exit/</guid>
-            <pubDate>Wed, 14 Apr 2021 01:35:51 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Project Design]]></title>
             <link>https://github.com/RobertSkonieczny/node-steam-trade-farm</link>
             <guid>https://github.com/RobertSkonieczny/node-steam-trade-farm</guid>
             <pubDate>Wed, 14 Apr 2021 04:43:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Understanding Concurrency in Node child_processes]]></title>
+            <link>https://www.google.com').on('exit/</link>
+            <guid>https://www.google.com').on('exit/</guid>
+            <pubDate>Wed, 14 Apr 2021 01:35:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Simple webRTC signaling server implemantation]]></title>
@@ -39,22 +45,10 @@
             <pubDate>Tue, 13 Apr 2021 19:55:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Web Scraping with Javascript: from Axios to Puppeteer and Playwright]]></title>
-            <link>https://scrapingant.com/blog/web-scraping-javascript</link>
-            <guid>https://scrapingant.com/blog/web-scraping-javascript</guid>
-            <pubDate>Mon, 12 Apr 2021 10:05:08 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[HelloDB: Simple JSON database]]></title>
             <link>https://github.com/yasmikash/hellodb</link>
             <guid>https://github.com/yasmikash/hellodb</guid>
             <pubDate>Tue, 13 Apr 2021 03:42:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Under-the-hood of web bundlers (e.g. Webpack)]]></title>
-            <link>https://medium.com/@tabu_craig/under-the-hood-of-web-bundlers-e-g-webpack-926e868f7f5e?source=friends_link&amp;sk=5f611f4e4e915106a7433cdc8aa3478e</link>
-            <guid>https://medium.com/@tabu_craig/under-the-hood-of-web-bundlers-e-g-webpack-926e868f7f5e?source=friends_link&amp;sk=5f611f4e4e915106a7433cdc8aa3478e</guid>
-            <pubDate>Tue, 13 Apr 2021 06:46:16 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Thu, 15 Apr 2021 07:48:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Apr 2021 12:54:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -25,6 +25,12 @@
             <link>https://blog.sentry.io/2021/04/12/slow-and-steady-converting-sentrys-entire-frontend-to-typescript</link>
             <guid>https://blog.sentry.io/2021/04/12/slow-and-steady-converting-sentrys-entire-frontend-to-typescript</guid>
             <pubDate>Tue, 13 Apr 2021 19:25:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Typescript project references: Handle third-party dependencies of referenced project]]></title>
+            <link>https://stackoverflow.com/questions/67070255/typescript-project-references-handle-third-party-dependencies-of-referenced-pro</link>
+            <guid>https://stackoverflow.com/questions/67070255/typescript-project-references-handle-third-party-dependencies-of-referenced-pro</guid>
+            <pubDate>Wed, 14 Apr 2021 13:54:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@practical-fp/union-types - A Typescript library for creating discriminating union types]]></title>
@@ -61,12 +67,6 @@
             <link>https://basarat.gitbook.io/typescript/main-1/nominaltyping</link>
             <guid>https://basarat.gitbook.io/typescript/main-1/nominaltyping</guid>
             <pubDate>Sun, 11 Apr 2021 22:47:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[cant find types for cheerio]]></title>
-            <link>https://dev.to/caelinsutch/building-a-web-scraper-in-typescript-14l1</link>
-            <guid>https://dev.to/caelinsutch/building-a-web-scraper-in-typescript-14l1</guid>
-            <pubDate>Mon, 12 Apr 2021 09:20:23 GMT</pubDate>
         </item>
     </channel>
 </rss>

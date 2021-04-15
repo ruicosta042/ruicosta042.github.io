@@ -4,15 +4,57 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Thu, 15 Apr 2021 07:48:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Apr 2021 12:54:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[10 Javascript Design Patterns To Improve Your Code With]]></title>
+            <link>https://link.medium.com/uz10Gl8btfb</link>
+            <guid>https://link.medium.com/uz10Gl8btfb</guid>
+            <pubDate>Thu, 15 Apr 2021 07:17:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Do you use nvm?]]></title>
             <link>https://nodejs.dev/learn/the-npx-nodejs-package-runner</link>
             <guid>https://nodejs.dev/learn/the-npx-nodejs-package-runner</guid>
             <pubDate>Wed, 14 Apr 2021 22:25:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to securely call an authenticated API from your front end]]></title>
+            <link>https://simonplend.com/how-to-securely-call-an-authenticated-api-from-your-front-end/</link>
+            <guid>https://simonplend.com/how-to-securely-call-an-authenticated-api-from-your-front-end/</guid>
+            <pubDate>Thu, 15 Apr 2021 11:04:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Having trouble figuring out how do l combine relations in CSV in 1 run]]></title>
+            <link>https://github.com/deadcoder0904/combine-csv-startup-acquisitions-data</link>
+            <guid>https://github.com/deadcoder0904/combine-csv-startup-acquisitions-data</guid>
+            <pubDate>Thu, 15 Apr 2021 11:04:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I made a free random movie suggestion API using Node!]]></title>
+            <link>https://moviehut.tech/api/random</link>
+            <guid>https://moviehut.tech/api/random</guid>
+            <pubDate>Thu, 15 Apr 2021 12:18:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Here is the list of Node.js security risks that may cause lots of vulnerabilities and their possible solution practices that help developers create more secure apps.]]></title>
+            <link>https://www.mindinventory.com/blog/nodejs-security-best-practices/</link>
+            <guid>https://www.mindinventory.com/blog/nodejs-security-best-practices/</guid>
+            <pubDate>Thu, 15 Apr 2021 11:16:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Linked List Data Structure in Javascript]]></title>
+            <link>https://link.medium.com/62hmIlbmtfb</link>
+            <guid>https://link.medium.com/62hmIlbmtfb</guid>
+            <pubDate>Thu, 15 Apr 2021 09:37:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hasura plugin for Fastify]]></title>
+            <link>https://github.com/ManUtopiK/fastify-hasura</link>
+            <guid>https://github.com/ManUtopiK/fastify-hasura</guid>
+            <pubDate>Thu, 15 Apr 2021 09:30:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I made an app that helps you sync your clipboards between your Windows PC and your Android device.]]></title>
@@ -21,10 +63,10 @@
             <pubDate>Wed, 14 Apr 2021 09:53:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[10 Javascript Design Patterns To Improve Your Code With]]></title>
-            <link>https://link.medium.com/uz10Gl8btfb</link>
-            <guid>https://link.medium.com/uz10Gl8btfb</guid>
-            <pubDate>Thu, 15 Apr 2021 07:17:03 GMT</pubDate>
+            <title><![CDATA[I'm trying to make a backend that receive file using express and express-fileupload. It's ok to receive small files up to 1 or 2 GB but when I'm receiving a 3gb file, backend server show 'Killed' in console and exit automatically. I don't know how to fix it. Please help me. I'm using MX Linux.]]></title>
+            <link>https://stackoverflow.com/questions/67090838/node-express-server-show-killed-and-exit-for-no-reason-while-accepting-a-3gb-f</link>
+            <guid>https://stackoverflow.com/questions/67090838/node-express-server-show-killed-and-exit-for-no-reason-while-accepting-a-3gb-f</guid>
+            <pubDate>Thu, 15 Apr 2021 08:03:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Generate TypeScript definitions from a PostgreSQL database schema]]></title>
@@ -49,18 +91,6 @@
             <link>https://jsonplaceholder.typicode.com/</link>
             <guid>https://jsonplaceholder.typicode.com/</guid>
             <pubDate>Wed, 14 Apr 2021 13:51:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Easily build a nodejs app by running one command]]></title>
-            <link>https://npmjs.org/package/build-node-app</link>
-            <guid>https://npmjs.org/package/build-node-app</guid>
-            <pubDate>Wed, 14 Apr 2021 15:57:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EfficientNet - image recognition and object detection model written in node and typescript]]></title>
-            <link>https://github.com/ntedgi/node-efficientnet</link>
-            <guid>https://github.com/ntedgi/node-efficientnet</guid>
-            <pubDate>Wed, 14 Apr 2021 04:42:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

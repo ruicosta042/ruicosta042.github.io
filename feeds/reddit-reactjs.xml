@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Thu, 15 Apr 2021 07:48:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Apr 2021 12:54:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -19,6 +19,12 @@
             <link>https://jsfiddle.net/Luktwrdm/</link>
             <guid>https://jsfiddle.net/Luktwrdm/</guid>
             <pubDate>Thu, 01 Apr 2021 06:19:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When to use the Context API? (Use cases)]]></title>
+            <link>https://twitter.com/dan_abramov/status/749715530454622208</link>
+            <guid>https://twitter.com/dan_abramov/status/749715530454622208</guid>
+            <pubDate>Thu, 15 Apr 2021 10:10:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Headless UI v1.0 adds 4 new components - Dialog, Disclosure, Radio Group, & Popover]]></title>
@@ -39,12 +45,6 @@
             <pubDate>Wed, 14 Apr 2021 21:43:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[10 Javascript Design Patterns To Improve Your Code With]]></title>
-            <link>https://link.medium.com/uz10Gl8btfb</link>
-            <guid>https://link.medium.com/uz10Gl8btfb</guid>
-            <pubDate>Thu, 15 Apr 2021 07:17:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Another TypeScript library template]]></title>
             <link>https://github.com/gchumillas/typescript-library-template</link>
             <guid>https://github.com/gchumillas/typescript-library-template</guid>
@@ -55,6 +55,12 @@
             <link>https://vuesmoothreflow.guanzo.io/</link>
             <guid>https://vuesmoothreflow.guanzo.io/</guid>
             <pubDate>Thu, 15 Apr 2021 00:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Client side only tax filing software using React and Redux]]></title>
+            <link>https://github.com/ustaxes/UsTaxes</link>
+            <guid>https://github.com/ustaxes/UsTaxes</guid>
+            <pubDate>Thu, 15 Apr 2021 02:05:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A notion like web app which is fully local and supports markdown]]></title>
@@ -75,10 +81,10 @@
             <pubDate>Thu, 15 Apr 2021 02:19:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Client side only tax filing software using React and Redux]]></title>
-            <link>https://github.com/ustaxes/UsTaxes</link>
-            <guid>https://github.com/ustaxes/UsTaxes</guid>
-            <pubDate>Thu, 15 Apr 2021 02:05:26 GMT</pubDate>
+            <title><![CDATA[Whatsapp Clone Progressive Web App]]></title>
+            <link>https://whatsappy-app.web.app/</link>
+            <guid>https://whatsappy-app.web.app/</guid>
+            <pubDate>Wed, 14 Apr 2021 19:05:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[We thought that coding forms is still too complex. So we created (another) new form library.]]></title>

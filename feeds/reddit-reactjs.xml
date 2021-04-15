@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Wed, 14 Apr 2021 19:46:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Apr 2021 07:48:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,16 +21,46 @@
             <pubDate>Thu, 01 Apr 2021 06:19:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Headless UI v1.0 adds 4 new components - Dialog, Disclosure, Radio Group, & Popover]]></title>
+            <link>https://blog.tailwindcss.com/headless-ui-v1</link>
+            <guid>https://blog.tailwindcss.com/headless-ui-v1</guid>
+            <pubDate>Wed, 14 Apr 2021 17:48:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Plasmic, a visual builder for React]]></title>
+            <link>https://www.plasmic.app/</link>
+            <guid>https://www.plasmic.app/</guid>
+            <pubDate>Wed, 14 Apr 2021 19:49:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A simple react hook for paginating data]]></title>
+            <link>https://github.com/you-got-bud/use-pagination</link>
+            <guid>https://github.com/you-got-bud/use-pagination</guid>
+            <pubDate>Wed, 14 Apr 2021 21:43:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10 Javascript Design Patterns To Improve Your Code With]]></title>
+            <link>https://link.medium.com/uz10Gl8btfb</link>
+            <guid>https://link.medium.com/uz10Gl8btfb</guid>
+            <pubDate>Thu, 15 Apr 2021 07:17:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Another TypeScript library template]]></title>
+            <link>https://github.com/gchumillas/typescript-library-template</link>
+            <guid>https://github.com/gchumillas/typescript-library-template</guid>
+            <pubDate>Thu, 15 Apr 2021 07:05:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is there something similar to vue smooth reflow for React?]]></title>
+            <link>https://vuesmoothreflow.guanzo.io/</link>
+            <guid>https://vuesmoothreflow.guanzo.io/</guid>
+            <pubDate>Thu, 15 Apr 2021 00:28:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A notion like web app which is fully local and supports markdown]]></title>
             <link>https://bangle.io/</link>
             <guid>https://bangle.io/</guid>
             <pubDate>Wed, 14 Apr 2021 04:02:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We thought that coding forms is still too complex. So we created (another) new form library.]]></title>
-            <link>https://github.com/swan-io/react-ux-form</link>
-            <guid>https://github.com/swan-io/react-ux-form</guid>
-            <pubDate>Wed, 14 Apr 2021 12:45:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[My first react app with hooks and styled-components]]></title>
@@ -39,52 +69,22 @@
             <pubDate>Wed, 14 Apr 2021 16:48:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[KendoReact/Telerik component library, thoughts?]]></title>
-            <link>https://www.telerik.com/kendo-react-ui/</link>
-            <guid>https://www.telerik.com/kendo-react-ui/</guid>
-            <pubDate>Wed, 14 Apr 2021 19:37:58 GMT</pubDate>
+            <title><![CDATA[5 Key Lessons React Tutorials Don't Teach]]></title>
+            <link>https://reedbarger.hashnode.dev/5-key-lessons-react-tutorials-dont-teach</link>
+            <guid>https://reedbarger.hashnode.dev/5-key-lessons-react-tutorials-dont-teach</guid>
+            <pubDate>Thu, 15 Apr 2021 02:19:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Whatsapp Clone Progressive Web App]]></title>
-            <link>https://whatsappy-app.web.app/</link>
-            <guid>https://whatsappy-app.web.app/</guid>
-            <pubDate>Wed, 14 Apr 2021 19:05:33 GMT</pubDate>
+            <title><![CDATA[Client side only tax filing software using React and Redux]]></title>
+            <link>https://github.com/ustaxes/UsTaxes</link>
+            <guid>https://github.com/ustaxes/UsTaxes</guid>
+            <pubDate>Thu, 15 Apr 2021 02:05:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Headless UI v1.0 adds 4 new components - Dialog, Disclosure, Radio Group, & Popover]]></title>
-            <link>https://blog.tailwindcss.com/headless-ui-v1</link>
-            <guid>https://blog.tailwindcss.com/headless-ui-v1</guid>
-            <pubDate>Wed, 14 Apr 2021 17:48:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two input fields - getting undefined value for 2nd field]]></title>
-            <link>https://stackoverflow.com/questions/47012169/a-component-is-changing-an-uncontrolled-input-of-type-text-to-be-controlled-erro</link>
-            <guid>https://stackoverflow.com/questions/47012169/a-component-is-changing-an-uncontrolled-input-of-type-text-to-be-controlled-erro</guid>
-            <pubDate>Wed, 14 Apr 2021 15:08:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I made an app to browse hacker news top stories on mobile more comfortably. Hacker Scroller. Just keep scrolling.]]></title>
-            <link>http://hacker-scroller.com/</link>
-            <guid>http://hacker-scroller.com/</guid>
-            <pubDate>Wed, 14 Apr 2021 14:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[why-did-you-render: notify about potentially avoidable re-renders.]]></title>
-            <link>https://github.com/welldone-software/why-did-you-render</link>
-            <guid>https://github.com/welldone-software/why-did-you-render</guid>
-            <pubDate>Tue, 13 Apr 2021 12:48:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Data Fetching Techniques with React]]></title>
-            <link>https://blog.asayer.io/data-fetching-techniques-with-react</link>
-            <guid>https://blog.asayer.io/data-fetching-techniques-with-react</guid>
-            <pubDate>Wed, 14 Apr 2021 08:36:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to redirect non-logged in users to the login page?]]></title>
-            <link>https://docs.microsoft.com/en-us/azure/developer/javascript/tutorial/single-page-application-azure-login-button-sdk-msal</link>
-            <guid>https://docs.microsoft.com/en-us/azure/developer/javascript/tutorial/single-page-application-azure-login-button-sdk-msal</guid>
-            <pubDate>Wed, 14 Apr 2021 10:48:01 GMT</pubDate>
+            <title><![CDATA[We thought that coding forms is still too complex. So we created (another) new form library.]]></title>
+            <link>https://github.com/swan-io/react-ux-form</link>
+            <guid>https://github.com/swan-io/react-ux-form</guid>
+            <pubDate>Wed, 14 Apr 2021 12:45:33 GMT</pubDate>
         </item>
     </channel>
 </rss>

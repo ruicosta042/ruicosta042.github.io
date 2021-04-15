@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Wed, 14 Apr 2021 19:46:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Apr 2021 07:48:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,22 @@
             <pubDate>Mon, 12 Apr 2021 09:04:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Enso 2.0 is out! Visual programming in JavaScript, Python, Java, and R. Written in Rust, running on GraalVM and WebGL.]]></title>
+            <link>https://enso.org/</link>
+            <guid>https://enso.org/</guid>
+            <pubDate>Wed, 14 Apr 2021 21:13:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[yare.io – a game you control by writing real JavaScript]]></title>
             <link>https://yare.io/</link>
             <guid>https://yare.io/</guid>
             <pubDate>Wed, 14 Apr 2021 08:45:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New JavaScript Exploit Can Now Carry Out DDR4 Rowhammer Attacks]]></title>
+            <link>https://www.tectalk.co/new-javascript-exploit-can-now-carry-out-ddr4-rowhammer-attacks/</link>
+            <guid>https://www.tectalk.co/new-javascript-exploit-can-now-carry-out-ddr4-rowhammer-attacks/</guid>
+            <pubDate>Thu, 15 Apr 2021 05:56:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Private brand checks a.k.a. `#foo in obj`]]></title>
@@ -27,16 +39,22 @@
             <pubDate>Wed, 14 Apr 2021 17:45:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Slow and Steady: Converting Sentry’s Entire Frontend to TypeScript]]></title>
-            <link>https://blog.sentry.io/2021/04/12/slow-and-steady-converting-sentrys-entire-frontend-to-typescript</link>
-            <guid>https://blog.sentry.io/2021/04/12/slow-and-steady-converting-sentrys-entire-frontend-to-typescript</guid>
-            <pubDate>Tue, 13 Apr 2021 19:23:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[wavesurfer.js - waveforms on the web. A simple Javascript/CSS solution for a drop-in replacement of the standard audio tag for more stylized audio playback]]></title>
             <link>https://schollz.com/blog/waveforms/</link>
             <guid>https://schollz.com/blog/waveforms/</guid>
             <pubDate>Wed, 14 Apr 2021 13:46:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WhatsApp Clone Progressive Web App]]></title>
+            <link>https://github.com/aladinyo/WhatsappyApp</link>
+            <guid>https://github.com/aladinyo/WhatsappyApp</guid>
+            <pubDate>Wed, 14 Apr 2021 20:09:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Slow and Steady: Converting Sentry’s Entire Frontend to TypeScript]]></title>
+            <link>https://blog.sentry.io/2021/04/12/slow-and-steady-converting-sentrys-entire-frontend-to-typescript</link>
+            <guid>https://blog.sentry.io/2021/04/12/slow-and-steady-converting-sentrys-entire-frontend-to-typescript</guid>
+            <pubDate>Tue, 13 Apr 2021 19:23:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[State Management Libraries Report Q1 2021]]></title>
@@ -45,16 +63,22 @@
             <pubDate>Wed, 14 Apr 2021 12:24:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why some developers are avoiding app store headaches by going web-only]]></title>
-            <link>https://www.fastcompany.com/90623905/ios-web-apps</link>
-            <guid>https://www.fastcompany.com/90623905/ios-web-apps</guid>
-            <pubDate>Tue, 13 Apr 2021 18:28:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[How to make optimized tree shakeable libraries to improve your app's performance]]></title>
             <link>https://blog.theodo.com/2021/04/library-tree-shaking/</link>
             <guid>https://blog.theodo.com/2021/04/library-tree-shaking/</guid>
             <pubDate>Wed, 14 Apr 2021 15:08:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Raindrop in slow motion with .JS (Chrome experiment, PC only)]]></title>
+            <link>https://rainbowhunt.com/relaxing-raindrop-sounds.html</link>
+            <guid>https://rainbowhunt.com/relaxing-raindrop-sounds.html</guid>
+            <pubDate>Wed, 14 Apr 2021 06:55:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why some developers are avoiding app store headaches by going web-only]]></title>
+            <link>https://www.fastcompany.com/90623905/ios-web-apps</link>
+            <guid>https://www.fastcompany.com/90623905/ios-web-apps</guid>
+            <pubDate>Tue, 13 Apr 2021 18:28:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[JS classes are not “just syntactic sugar”]]></title>
@@ -63,10 +87,10 @@
             <pubDate>Tue, 13 Apr 2021 19:39:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Raindrop in slow motion with .JS (Chrome experiment, PC only)]]></title>
-            <link>https://rainbowhunt.com/relaxing-raindrop-sounds.html</link>
-            <guid>https://rainbowhunt.com/relaxing-raindrop-sounds.html</guid>
-            <pubDate>Wed, 14 Apr 2021 06:55:54 GMT</pubDate>
+            <title><![CDATA[Is WebAssembly magic performance pixie dust?]]></title>
+            <link>https://surma.dev/things/js-to-asc/</link>
+            <guid>https://surma.dev/things/js-to-asc/</guid>
+            <pubDate>Wed, 14 Apr 2021 04:57:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mastering Postgres transactions in Node.js]]></title>
@@ -79,12 +103,6 @@
             <link>https://deno.com/blog/v1.9</link>
             <guid>https://deno.com/blog/v1.9</guid>
             <pubDate>Tue, 13 Apr 2021 19:58:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is WebAssembly magic performance pixie dust?]]></title>
-            <link>https://surma.dev/things/js-to-asc/</link>
-            <guid>https://surma.dev/things/js-to-asc/</guid>
-            <pubDate>Wed, 14 Apr 2021 04:57:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A notion like web app which is fully local and supports markdown]]></title>
@@ -109,30 +127,6 @@
             <link>https://dev.to/hapipal/hapi-pal-v3-birthday-edition-n86</link>
             <guid>https://dev.to/hapipal/hapi-pal-v3-birthday-edition-n86</guid>
             <pubDate>Tue, 13 Apr 2021 17:50:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The complete guide to working with strings in modern JavaScript]]></title>
-            <link>https://www.baseclass.io/guides/string-handling-modern-js</link>
-            <guid>https://www.baseclass.io/guides/string-handling-modern-js</guid>
-            <pubDate>Tue, 13 Apr 2021 15:11:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vouch: A dependency review tool for NPM packages]]></title>
-            <link>https://github.com/vouch-dev/vouch</link>
-            <guid>https://github.com/vouch-dev/vouch</guid>
-            <pubDate>Wed, 14 Apr 2021 00:36:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Q1 2021 State Of JavaScript Libraries and Tools: Frameworks]]></title>
-            <link>https://moiva.io/blog/2021-q1-state-of-js-frameworks</link>
-            <guid>https://moiva.io/blog/2021-q1-state-of-js-frameworks</guid>
-            <pubDate>Tue, 13 Apr 2021 12:19:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[V8 inspector from node]]></title>
-            <link>https://h3manth.com/new/blog/2021/v8-inspector-from-node/</link>
-            <guid>https://h3manth.com/new/blog/2021/v8-inspector-from-node/</guid>
-            <pubDate>Tue, 13 Apr 2021 21:35:14 GMT</pubDate>
         </item>
     </channel>
 </rss>

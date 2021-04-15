@@ -4,15 +4,33 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Wed, 14 Apr 2021 19:46:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Apr 2021 07:48:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Do you use nvm?]]></title>
+            <link>https://nodejs.dev/learn/the-npx-nodejs-package-runner</link>
+            <guid>https://nodejs.dev/learn/the-npx-nodejs-package-runner</guid>
+            <pubDate>Wed, 14 Apr 2021 22:25:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I made an app that helps you sync your clipboards between your Windows PC and your Android device.]]></title>
             <link>https://github.com/jaychandra6/syncboard</link>
             <guid>https://github.com/jaychandra6/syncboard</guid>
             <pubDate>Wed, 14 Apr 2021 09:53:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10 Javascript Design Patterns To Improve Your Code With]]></title>
+            <link>https://link.medium.com/uz10Gl8btfb</link>
+            <guid>https://link.medium.com/uz10Gl8btfb</guid>
+            <pubDate>Thu, 15 Apr 2021 07:17:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Generate TypeScript definitions from a PostgreSQL database schema]]></title>
+            <link>https://github.com/kriasoft/knex-types</link>
+            <guid>https://github.com/kriasoft/knex-types</guid>
+            <pubDate>Wed, 14 Apr 2021 14:29:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Do you guys use any mechanisms for hot-restarting server apps, and ensuring the port is sufficiently closed each restart, ie. avoid 'Port XXXX is already in use.' ?]]></title>
@@ -21,10 +39,10 @@
             <pubDate>Wed, 14 Apr 2021 14:43:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Generate TypeScript definitions from a PostgreSQL database schema]]></title>
-            <link>https://github.com/kriasoft/knex-types</link>
-            <guid>https://github.com/kriasoft/knex-types</guid>
-            <pubDate>Wed, 14 Apr 2021 14:29:58 GMT</pubDate>
+            <title><![CDATA[Difficulty with Simple Server from WebSocket library]]></title>
+            <link>https://www.npmjs.com/package/ws</link>
+            <guid>https://www.npmjs.com/package/ws</guid>
+            <pubDate>Thu, 15 Apr 2021 00:58:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Newbie here, Help needed regarding file system, pls]]></title>
@@ -43,30 +61,6 @@
             <link>https://github.com/ntedgi/node-efficientnet</link>
             <guid>https://github.com/ntedgi/node-efficientnet</guid>
             <pubDate>Wed, 14 Apr 2021 04:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Project Design]]></title>
-            <link>https://github.com/RobertSkonieczny/node-steam-trade-farm</link>
-            <guid>https://github.com/RobertSkonieczny/node-steam-trade-farm</guid>
-            <pubDate>Wed, 14 Apr 2021 04:43:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Understanding Concurrency in Node child_processes]]></title>
-            <link>https://www.google.com').on('exit/</link>
-            <guid>https://www.google.com').on('exit/</guid>
-            <pubDate>Wed, 14 Apr 2021 01:35:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Simple webRTC signaling server implemantation]]></title>
-            <link>https://github.com/foxql/server</link>
-            <guid>https://github.com/foxql/server</guid>
-            <pubDate>Tue, 13 Apr 2021 03:26:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to run multiple node scripts with one command?]]></title>
-            <link>https://stackoverflow.com/questions/67069522/watching-for-sass-changes-in-npm-using-node-sass-and-cross-platform-friendly</link>
-            <guid>https://stackoverflow.com/questions/67069522/watching-for-sass-changes-in-npm-using-node-sass-and-cross-platform-friendly</guid>
-            <pubDate>Tue, 13 Apr 2021 19:55:21 GMT</pubDate>
         </item>
     </channel>
 </rss>

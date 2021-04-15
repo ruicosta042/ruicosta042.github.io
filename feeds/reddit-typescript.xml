@@ -4,10 +4,28 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Thu, 15 Apr 2021 12:54:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Apr 2021 19:47:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Build Cool APIs In Express and TypeScript]]></title>
+            <link>https://kutia.net/build-cool-apis-in-express-and-typescript/</link>
+            <guid>https://kutia.net/build-cool-apis-in-express-and-typescript/</guid>
+            <pubDate>Thu, 15 Apr 2021 19:19:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Filtering of (string|null)[] to only have a string[] not working?]]></title>
+            <link>https://www.typescriptlang.org/play?ssl=4&amp;ssc=26&amp;pln=1&amp;pc=1#code/MYewdgzgLgBNBOBLMBzAgveAuOUmoG0BdGAXhgIFgAoGOmAOiYLAFcAbdgGhgCIBDXkS416jZgN5c2nIjSIMAZonZQApvAAUEMgD44MAISlyM9gEogA</link>
+            <guid>https://www.typescriptlang.org/play?ssl=4&amp;ssc=26&amp;pln=1&amp;pc=1#code/MYewdgzgLgBNBOBLMBzAgveAuOUmoG0BdGAXhgIFgAoGOmAOiYLAFcAbdgGhgCIBDXkS416jZgN5c2nIjSIMAZonZQApvAAUEMgD44MAISlyM9gEogA</guid>
+            <pubDate>Thu, 15 Apr 2021 13:05:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to get a Subset type of interface, without Partial]]></title>
+            <link>https://www.typescriptlang.org/play?#code/JYWwDg9gTgLgBAJQKYEMDG8BmUIjgcilQ3wG4Aoc4AOxiSk3STgAUcwBnOAb3LjmooQSAFxwOMKDQDmFfjAAWSYWIlTqs8gF9yMAJ5hmAESSMArgBsYbCJzgBeVsDQBrADw3OAGgKLlSfAA+cjQLFA4uADkhJABhXEhqJFo4JAAPOmoAEy5kdBgAOnjwCCTaD3YOQJ4+cRgUGGc4LNMUS2tKhxr+eSUVAhbzK3xanS0KckwzagxgUrgAd2BFABU+pDdallSM5JyeOD9hAH5VSRk4LS9akyGO2y50zP2WFFhgFAsPYMCAClrYmEIsVEskYGI8hgiglSmCVgYNixggBKbpwIgwMxQaiIYiFTDQBZvLLITBuFDUPQ+JH-HpwX5gSqo+zVNyA8IcEGwlLcAp8xkPLRwAD0wX4yO0EzQpQkcDW-iy0WEXSWq3WFQePlubSsniqvyVcRhZRgyKlMvgdFljl+zNZ8uEipiAhi9gARAAjCAALyyPrdIsCpCAA</link>
+            <guid>https://www.typescriptlang.org/play?#code/JYWwDg9gTgLgBAJQKYEMDG8BmUIjgcilQ3wG4Aoc4AOxiSk3STgAUcwBnOAb3LjmooQSAFxwOMKDQDmFfjAAWSYWIlTqs8gF9yMAJ5hmAESSMArgBsYbCJzgBeVsDQBrADw3OAGgKLlSfAA+cjQLFA4uADkhJABhXEhqJFo4JAAPOmoAEy5kdBgAOnjwCCTaD3YOQJ4+cRgUGGc4LNMUS2tKhxr+eSUVAhbzK3xanS0KckwzagxgUrgAd2BFABU+pDdallSM5JyeOD9hAH5VSRk4LS9akyGO2y50zP2WFFhgFAsPYMCAClrYmEIsVEskYGI8hgiglSmCVgYNixggBKbpwIgwMxQaiIYiFTDQBZvLLITBuFDUPQ+JH-HpwX5gSqo+zVNyA8IcEGwlLcAp8xkPLRwAD0wX4yO0EzQpQkcDW-iy0WEXSWq3WFQePlubSsniqvyVcRhZRgyKlMvgdFljl+zNZ8uEipiAhi9gARAAjCAALyyPrdIsCpCAA</guid>
+            <pubDate>Thu, 15 Apr 2021 16:57:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Typestates Would Have Saved the Roman Republic]]></title>
             <link>https://yoav-lavis-blog.ghost.io/state-machines-would-have-saved-the-roman-republic/</link>
@@ -61,12 +79,6 @@
             <link>https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit</link>
             <guid>https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit</guid>
             <pubDate>Mon, 12 Apr 2021 22:01:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@coderspirit/nominal - Crazily powerful nominal types on Typescript]]></title>
-            <link>https://basarat.gitbook.io/typescript/main-1/nominaltyping</link>
-            <guid>https://basarat.gitbook.io/typescript/main-1/nominaltyping</guid>
-            <pubDate>Sun, 11 Apr 2021 22:47:31 GMT</pubDate>
         </item>
     </channel>
 </rss>

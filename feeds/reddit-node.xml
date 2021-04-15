@@ -4,15 +4,57 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Thu, 15 Apr 2021 12:54:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Apr 2021 19:47:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Whatsapp Clone Progressive Web App With NodeJS React and Firebase]]></title>
+            <link>https://whatsappy-app.web.app/</link>
+            <guid>https://whatsappy-app.web.app/</guid>
+            <pubDate>Thu, 15 Apr 2021 13:31:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[10 Javascript Design Patterns To Improve Your Code With]]></title>
             <link>https://link.medium.com/uz10Gl8btfb</link>
             <guid>https://link.medium.com/uz10Gl8btfb</guid>
             <pubDate>Thu, 15 Apr 2021 07:17:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fnm: a fast and simple Node.js version manager]]></title>
+            <link>https://github.com/Schniz/fnm</link>
+            <guid>https://github.com/Schniz/fnm</guid>
+            <pubDate>Thu, 15 Apr 2021 16:53:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[One Port to Rule Them All]]></title>
+            <link>https://httptoolkit.tech/blog/http-https-same-port/</link>
+            <guid>https://httptoolkit.tech/blog/http-https-same-port/</guid>
+            <pubDate>Thu, 15 Apr 2021 16:50:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[getting console input doesn't wait]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Thu, 15 Apr 2021 16:38:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spring Boot or Node Js application? Run on Docker!]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Thu, 15 Apr 2021 15:08:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Here is the list of Node.js security risks that may cause lots of vulnerabilities and their possible solution practices that help developers create more secure apps.]]></title>
+            <link>https://www.mindinventory.com/blog/nodejs-security-best-practices/</link>
+            <guid>https://www.mindinventory.com/blog/nodejs-security-best-practices/</guid>
+            <pubDate>Thu, 15 Apr 2021 11:16:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I made a free random movie suggestion API using Node!]]></title>
+            <link>https://moviehut.tech/api/random</link>
+            <guid>https://moviehut.tech/api/random</guid>
+            <pubDate>Thu, 15 Apr 2021 12:18:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Do you use nvm?]]></title>
@@ -33,18 +75,6 @@
             <pubDate>Thu, 15 Apr 2021 11:04:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I made a free random movie suggestion API using Node!]]></title>
-            <link>https://moviehut.tech/api/random</link>
-            <guid>https://moviehut.tech/api/random</guid>
-            <pubDate>Thu, 15 Apr 2021 12:18:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Here is the list of Node.js security risks that may cause lots of vulnerabilities and their possible solution practices that help developers create more secure apps.]]></title>
-            <link>https://www.mindinventory.com/blog/nodejs-security-best-practices/</link>
-            <guid>https://www.mindinventory.com/blog/nodejs-security-best-practices/</guid>
-            <pubDate>Thu, 15 Apr 2021 11:16:13 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Linked List Data Structure in Javascript]]></title>
             <link>https://link.medium.com/62hmIlbmtfb</link>
             <guid>https://link.medium.com/62hmIlbmtfb</guid>
@@ -63,6 +93,12 @@
             <pubDate>Wed, 14 Apr 2021 09:53:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Build Cool APIs In Express and TypeScript]]></title>
+            <link>https://kutia.net/build-cool-apis-in-express-and-typescript/</link>
+            <guid>https://kutia.net/build-cool-apis-in-express-and-typescript/</guid>
+            <pubDate>Thu, 15 Apr 2021 13:08:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I'm trying to make a backend that receive file using express and express-fileupload. It's ok to receive small files up to 1 or 2 GB but when I'm receiving a 3gb file, backend server show 'Killed' in console and exit automatically. I don't know how to fix it. Please help me. I'm using MX Linux.]]></title>
             <link>https://stackoverflow.com/questions/67090838/node-express-server-show-killed-and-exit-for-no-reason-while-accepting-a-3gb-f</link>
             <guid>https://stackoverflow.com/questions/67090838/node-express-server-show-killed-and-exit-for-no-reason-while-accepting-a-3gb-f</guid>
@@ -73,24 +109,6 @@
             <link>https://github.com/kriasoft/knex-types</link>
             <guid>https://github.com/kriasoft/knex-types</guid>
             <pubDate>Wed, 14 Apr 2021 14:29:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Do you guys use any mechanisms for hot-restarting server apps, and ensuring the port is sufficiently closed each restart, ie. avoid 'Port XXXX is already in use.' ?]]></title>
-            <link>https://restart.sh/</link>
-            <guid>https://restart.sh/</guid>
-            <pubDate>Wed, 14 Apr 2021 14:43:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Difficulty with Simple Server from WebSocket library]]></title>
-            <link>https://www.npmjs.com/package/ws</link>
-            <guid>https://www.npmjs.com/package/ws</guid>
-            <pubDate>Thu, 15 Apr 2021 00:58:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Newbie here, Help needed regarding file system, pls]]></title>
-            <link>https://jsonplaceholder.typicode.com/</link>
-            <guid>https://jsonplaceholder.typicode.com/</guid>
-            <pubDate>Wed, 14 Apr 2021 13:51:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

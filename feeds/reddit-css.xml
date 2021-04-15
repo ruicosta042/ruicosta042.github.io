@@ -4,10 +4,34 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Thu, 15 Apr 2021 12:54:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Apr 2021 19:47:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[You can use CSS generators to avoid some time-consuming tasks. I made a collection of the best CSS generators for you.]]></title>
+            <link>https://markodenic.com/css-generators/</link>
+            <guid>https://markodenic.com/css-generators/</guid>
+            <pubDate>Thu, 15 Apr 2021 14:43:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Overflow Issues In CSS]]></title>
+            <link>https://www.smashingmagazine.com/2021/04/css-overflow-issues/</link>
+            <guid>https://www.smashingmagazine.com/2021/04/css-overflow-issues/</guid>
+            <pubDate>Thu, 15 Apr 2021 14:51:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Display issues: Sidebar is displaying below the page content on certain pages. More details inside.]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Thu, 15 Apr 2021 16:26:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gaps? Gasp!]]></title>
+            <link>https://css-tricks.com/gaps-gasp/</link>
+            <guid>https://css-tricks.com/gaps-gasp/</guid>
+            <pubDate>Thu, 15 Apr 2021 14:48:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Advanced CSS: How to make Flexbox Animations in CSS?]]></title>
             <link>https://www.codeleaks.io/advanced-css-how-to-make-flexbox-animations-in-css/</link>
@@ -61,18 +85,6 @@
             <link>https://generative-css.herokuapp.com/</link>
             <guid>https://generative-css.herokuapp.com/</guid>
             <pubDate>Tue, 13 Apr 2021 11:08:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Modern CSS Upgrades To Improve Accessibility]]></title>
-            <link>https://moderncss.dev/modern-css-upgrades-to-improve-accessibility/</link>
-            <guid>https://moderncss.dev/modern-css-upgrades-to-improve-accessibility/</guid>
-            <pubDate>Mon, 12 Apr 2021 13:40:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CSS Pie Timer Revisited]]></title>
-            <link>https://kittygiraudel.com/2021/04/11/css-pie-timer-revisited/</link>
-            <guid>https://kittygiraudel.com/2021/04/11/css-pie-timer-revisited/</guid>
-            <pubDate>Mon, 12 Apr 2021 08:31:50 GMT</pubDate>
         </item>
     </channel>
 </rss>

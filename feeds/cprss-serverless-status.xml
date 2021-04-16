@@ -4,10 +4,64 @@
         <title>Serverless Status</title>
         <link>https://serverless.email/</link>
         <description>A weekly newsletter on serverless and function-as-a-service (FaaS) architectures and platforms including AWS Lambda and Azure Functions.</description>
-        <lastBuildDate>Fri, 16 Apr 2021 07:48:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Apr 2021 12:55:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Cloudflare Workers Introduces WebSockets Support]]></title>
+            <link>https://serverless.email/link/106471/rss</link>
+            <guid>https://serverless.email/link/106471/rss</guid>
+            <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Announcing Cloudflare Workers Unbound for General Availability]]></title>
+            <link>https://serverless.email/link/106472/rss</link>
+            <guid>https://serverless.email/link/106472/rss</guid>
+            <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[Guide] The Truth About Developer Productivity Metrics]]></title>
+            <link>https://serverless.email/link/106473/rss</link>
+            <guid>https://serverless.email/link/106473/rss</guid>
+            <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AWS Putting on Virtual 'Serverless Live' Event on May 19]]></title>
+            <link>https://serverless.email/link/106474/rss</link>
+            <guid>https://serverless.email/link/106474/rss</guid>
+            <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Location-Based Personalization at the Edge with Cloudflare Workers]]></title>
+            <link>https://serverless.email/link/106475/rss</link>
+            <guid>https://serverless.email/link/106475/rss</guid>
+            <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting Started with Serverless for Developers: Part 1]]></title>
+            <link>https://serverless.email/link/106476/rss</link>
+            <guid>https://serverless.email/link/106476/rss</guid>
+            <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Why I Wouldn’t Choose S3 Bucket Notifications Again']]></title>
+            <link>https://serverless.email/link/106477/rss</link>
+            <guid>https://serverless.email/link/106477/rss</guid>
+            <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Serverless and Machine Learning with Alexandra Abbas]]></title>
+            <link>https://serverless.email/link/106478/rss</link>
+            <guid>https://serverless.email/link/106478/rss</guid>
+            <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[End-to-End Serverless ETL Orchestration with AWS]]></title>
+            <link>https://serverless.email/link/106479/rss</link>
+            <guid>https://serverless.email/link/106479/rss</guid>
+            <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How Does Lambda Work? A Look at the Magic Behind the Scenes]]></title>
             <link>https://serverless.email/link/106062/rss</link>
@@ -295,66 +349,6 @@
             <link>https://serverless.email/link/105338/rss</link>
             <guid>https://serverless.email/link/105338/rss</guid>
             <pubDate>Fri, 26 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introducing Amazon S3 Object Lambda: Process Data During Retrieval]]></title>
-            <link>https://serverless.email/link/104989/rss</link>
-            <guid>https://serverless.email/link/104989/rss</guid>
-            <pubDate>Fri, 19 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Amazon S3 Celebrates Its 15th Birthday]]></title>
-            <link>https://serverless.email/link/104990/rss</link>
-            <guid>https://serverless.email/link/104990/rss</guid>
-            <pubDate>Fri, 19 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Monitor GraphQL Apps with Apollo Server Plugin]]></title>
-            <link>https://serverless.email/link/104991/rss</link>
-            <guid>https://serverless.email/link/104991/rss</guid>
-            <pubDate>Fri, 19 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Worktop: A 'Next Generation' Web Framework for Cloudflare Workers]]></title>
-            <link>https://serverless.email/link/104992/rss</link>
-            <guid>https://serverless.email/link/104992/rss</guid>
-            <pubDate>Fri, 19 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Serverless Full-Text Search with AWS Lambda and EFS]]></title>
-            <link>https://serverless.email/link/104993/rss</link>
-            <guid>https://serverless.email/link/104993/rss</guid>
-            <pubDate>Fri, 19 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Building an Image Searching Solution with the AWS CDK]]></title>
-            <link>https://serverless.email/link/104994/rss</link>
-            <guid>https://serverless.email/link/104994/rss</guid>
-            <pubDate>Fri, 19 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Build a Serverless API with Cloudflare Workers]]></title>
-            <link>https://serverless.email/link/104995/rss</link>
-            <guid>https://serverless.email/link/104995/rss</guid>
-            <pubDate>Fri, 19 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Enable/Disable a Lambda Trigger on a Schedule]]></title>
-            <link>https://serverless.email/link/104996/rss</link>
-            <guid>https://serverless.email/link/104996/rss</guid>
-            <pubDate>Fri, 19 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Awesome AWS Chalice: A Curated Collection of Chalice Resources]]></title>
-            <link>https://serverless.email/link/104997/rss</link>
-            <guid>https://serverless.email/link/104997/rss</guid>
-            <pubDate>Fri, 19 Mar 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chalice]]></title>
-            <link>https://serverless.email/link/104998/rss</link>
-            <guid>https://serverless.email/link/104998/rss</guid>
-            <pubDate>Fri, 19 Mar 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Fri, 16 Apr 2021 07:48:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Apr 2021 12:55:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -27,16 +27,16 @@
             <pubDate>Wed, 14 Apr 2021 16:32:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[EfficientNet - image recognition and object detection model written in node and typescript]]></title>
-            <link>https://github.com/ntedgi/node-efficientnet</link>
-            <guid>https://github.com/ntedgi/node-efficientnet</guid>
-            <pubDate>Wed, 14 Apr 2021 04:42:15 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Typescript project references: Handle third-party dependencies of referenced project]]></title>
             <link>https://stackoverflow.com/questions/67070255/typescript-project-references-handle-third-party-dependencies-of-referenced-pro</link>
             <guid>https://stackoverflow.com/questions/67070255/typescript-project-references-handle-third-party-dependencies-of-referenced-pro</guid>
             <pubDate>Wed, 14 Apr 2021 13:54:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EfficientNet - image recognition and object detection model written in node and typescript]]></title>
+            <link>https://github.com/ntedgi/node-efficientnet</link>
+            <guid>https://github.com/ntedgi/node-efficientnet</guid>
+            <pubDate>Wed, 14 Apr 2021 04:42:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Slow and Steady: Converting Sentry’s Entire Frontend to TypeScript]]></title>

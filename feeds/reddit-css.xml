@@ -4,10 +4,16 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Fri, 16 Apr 2021 07:48:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Apr 2021 12:55:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Conditional animations with CSS properties]]></title>
+            <link>https://christianheilmann.com/2021/03/13/conditional-animation-with-css-properties/</link>
+            <guid>https://christianheilmann.com/2021/03/13/conditional-animation-with-css-properties/</guid>
+            <pubDate>Fri, 16 Apr 2021 12:25:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[You can use CSS generators to avoid some time-consuming tasks. I made a collection of the best CSS generators for you.]]></title>
             <link>https://markodenic.com/css-generators/</link>
@@ -61,12 +67,6 @@
             <link>https://duckduckgo.com/</link>
             <guid>https://duckduckgo.com/</guid>
             <pubDate>Tue, 13 Apr 2021 21:17:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Best CSS Frameworks To Look Forward In 2021]]></title>
-            <link>https://www.lambdatest.com/blog/best-css-frameworks-2021/?utm_source=Reddit&amp;utm_medium=blog&amp;utm_campaign=PM-130421-1&amp;utm_term=OrganicPosting</link>
-            <guid>https://www.lambdatest.com/blog/best-css-frameworks-2021/?utm_source=Reddit&amp;utm_medium=blog&amp;utm_campaign=PM-130421-1&amp;utm_term=OrganicPosting</guid>
-            <pubDate>Tue, 13 Apr 2021 14:33:08 GMT</pubDate>
         </item>
     </channel>
 </rss>

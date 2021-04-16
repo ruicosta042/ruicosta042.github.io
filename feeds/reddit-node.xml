@@ -4,7 +4,7 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Fri, 16 Apr 2021 07:48:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Apr 2021 12:55:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,30 @@
             <link>https://whatsappy-app.web.app/</link>
             <guid>https://whatsappy-app.web.app/</guid>
             <pubDate>Thu, 15 Apr 2021 13:31:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to create a tsconfig for node 14]]></title>
+            <link>https://justwriteapps.com/using-tsconfig-presets</link>
+            <guid>https://justwriteapps.com/using-tsconfig-presets</guid>
+            <pubDate>Fri, 16 Apr 2021 10:43:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Node.js Starter Kit]]></title>
+            <link>https://github.com/kriasoft/node-starter-kit</link>
+            <guid>https://github.com/kriasoft/node-starter-kit</guid>
+            <pubDate>Fri, 16 Apr 2021 10:11:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Javascript News 3rd Week(Apr) – How to test UIs, Web Scraping with NodeJS, Figma designs to React code, Improving React application performance - The ArrowFn]]></title>
+            <link>https://thearrowfn.com/javascript-news-3rd-weekapr-how-to-test-uis-web-scraping-with-nodejs/</link>
+            <guid>https://thearrowfn.com/javascript-news-3rd-weekapr-how-to-test-uis-web-scraping-with-nodejs/</guid>
+            <pubDate>Fri, 16 Apr 2021 06:02:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Passing bearer token in postman gives invalid json error]]></title>
+            <link>https://jwt.io/</link>
+            <guid>https://jwt.io/</guid>
+            <pubDate>Fri, 16 Apr 2021 04:21:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Realtio - A simple node package to take in inputs and display outputs in realtime onto the CLI]]></title>
@@ -33,10 +57,10 @@
             <pubDate>Thu, 15 Apr 2021 07:17:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Javascript News 3rd Week(Apr) – How to test UIs, Web Scraping with NodeJS, Figma designs to React code, Improving React application performance - The ArrowFn]]></title>
-            <link>https://thearrowfn.com/javascript-news-3rd-weekapr-how-to-test-uis-web-scraping-with-nodejs/</link>
-            <guid>https://thearrowfn.com/javascript-news-3rd-weekapr-how-to-test-uis-web-scraping-with-nodejs/</guid>
-            <pubDate>Fri, 16 Apr 2021 06:02:12 GMT</pubDate>
+            <title><![CDATA[I have made a Node.js Express React boilerplate for SaaS. It comes with built-in authentication, user management, billing and more. Please take a look!]]></title>
+            <link>https://userocket.herokuapp.com/</link>
+            <guid>https://userocket.herokuapp.com/</guid>
+            <pubDate>Fri, 16 Apr 2021 09:49:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Linked List in Javascript — Circular, and Reversed List]]></title>
@@ -49,12 +73,6 @@
             <link>https://fauxauldrich.github.io/camouflage/</link>
             <guid>https://fauxauldrich.github.io/camouflage/</guid>
             <pubDate>Fri, 16 Apr 2021 04:54:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Passing bearer token in postman gives invalid json error]]></title>
-            <link>https://jwt.io/</link>
-            <guid>https://jwt.io/</guid>
-            <pubDate>Fri, 16 Apr 2021 04:21:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[getting console input doesn't wait]]></title>
@@ -103,12 +121,6 @@
             <link>https://www.mindinventory.com/blog/nodejs-security-best-practices/</link>
             <guid>https://www.mindinventory.com/blog/nodejs-security-best-practices/</guid>
             <pubDate>Thu, 15 Apr 2021 11:16:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Do you use nvm?]]></title>
-            <link>https://nodejs.dev/learn/the-npx-nodejs-package-runner</link>
-            <guid>https://nodejs.dev/learn/the-npx-nodejs-package-runner</guid>
-            <pubDate>Wed, 14 Apr 2021 22:25:43 GMT</pubDate>
         </item>
     </channel>
 </rss>

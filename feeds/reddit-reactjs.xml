@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Thu, 15 Apr 2021 19:47:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Apr 2021 07:48:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,16 +21,64 @@
             <pubDate>Thu, 01 Apr 2021 06:19:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Storybook addons for CSS]]></title>
-            <link>https://storybook.js.org/blog/storybook-addons-for-css/</link>
-            <guid>https://storybook.js.org/blog/storybook-addons-for-css/</guid>
-            <pubDate>Thu, 15 Apr 2021 16:16:15 GMT</pubDate>
+            <title><![CDATA[I launched LazyI18n 2.0, an exceptionally easy way to lazy load translations in React. I'd love to hear your feedback.]]></title>
+            <link>https://github.com/CharlesStover/lazy-i18n</link>
+            <guid>https://github.com/CharlesStover/lazy-i18n</guid>
+            <pubDate>Thu, 15 Apr 2021 21:49:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to reproduce Death Stranding UI with react and react-three-fiber]]></title>
             <link>https://deathstranding.gameuionweb.com/</link>
             <guid>https://deathstranding.gameuionweb.com/</guid>
             <pubDate>Thu, 15 Apr 2021 17:21:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An ESLint lint rule to prevent the use of class components in React]]></title>
+            <link>https://www.npmjs.com/package/eslint-plugin-react-prefer-function-component</link>
+            <guid>https://www.npmjs.com/package/eslint-plugin-react-prefer-function-component</guid>
+            <pubDate>Fri, 16 Apr 2021 02:13:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prettier web on a react app]]></title>
+            <link>https://jsbin.com/dabayidosa/edit?html,output</link>
+            <guid>https://jsbin.com/dabayidosa/edit?html,output</guid>
+            <pubDate>Fri, 16 Apr 2021 07:19:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I made a social network using the MERN stack]]></title>
+            <link>http://isocialize.netlify.app/</link>
+            <guid>http://isocialize.netlify.app/</guid>
+            <pubDate>Fri, 16 Apr 2021 06:55:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React CRUD App Tutorial – Build a Book Management App in React from Scratch]]></title>
+            <link>https://blog.yogeshchavan.dev/react-crud-app-tutorial-build-a-book-management-app-in-react-from-scratch</link>
+            <guid>https://blog.yogeshchavan.dev/react-crud-app-tutorial-build-a-book-management-app-in-react-from-scratch</guid>
+            <pubDate>Fri, 16 Apr 2021 06:47:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Storybook addons for CSS]]></title>
+            <link>https://storybook.js.org/blog/storybook-addons-for-css/</link>
+            <guid>https://storybook.js.org/blog/storybook-addons-for-css/</guid>
+            <pubDate>Thu, 15 Apr 2021 16:16:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Using different themes dynamically in chakra ui]]></title>
+            <link>https://chakra-ui.com/docs/theming/advanced</link>
+            <guid>https://chakra-ui.com/docs/theming/advanced</guid>
+            <pubDate>Thu, 15 Apr 2021 23:20:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Unit Testing in React with Jest and Enzyme Frameworks]]></title>
+            <link>https://www.syncfusion.com/blogs/post/unit-testing-in-react-with-jest-and-enzyme-frameworks.aspx</link>
+            <guid>https://www.syncfusion.com/blogs/post/unit-testing-in-react-with-jest-and-enzyme-frameworks.aspx</guid>
+            <pubDate>Fri, 16 Apr 2021 02:45:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React hooks: calling two setStates subsequently in a function, not working]]></title>
+            <link>https://el.id/</link>
+            <guid>https://el.id/</guid>
+            <pubDate>Thu, 15 Apr 2021 20:22:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[React Query for server-state data management - a step-by-step tutorial]]></title>
@@ -43,42 +91,6 @@
             <link>https://twitter.com/dan_abramov/status/749715530454622208</link>
             <guid>https://twitter.com/dan_abramov/status/749715530454622208</guid>
             <pubDate>Thu, 15 Apr 2021 10:10:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blank app on mobile on deploy]]></title>
-            <link>https://buntutalk.netlify.app/#/</link>
-            <guid>https://buntutalk.netlify.app/#/</guid>
-            <pubDate>Thu, 15 Apr 2021 14:01:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Headless UI v1.0 adds 4 new components - Dialog, Disclosure, Radio Group, & Popover]]></title>
-            <link>https://blog.tailwindcss.com/headless-ui-v1</link>
-            <guid>https://blog.tailwindcss.com/headless-ui-v1</guid>
-            <pubDate>Wed, 14 Apr 2021 17:48:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Whatsapp Clone Progressive Web App With React NodeJS and Firebase link: https://whatsappy-app.web.app/ GitHub: https://github.com/aladinyo/WhatsappyApp]]></title>
-            <link>https://whatsappy-app.web.app/</link>
-            <guid>https://whatsappy-app.web.app/</guid>
-            <pubDate>Thu, 15 Apr 2021 13:55:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Get inspiration, with Exceptional, curated quotes to lift your day. Built with Nextjs and Tailwindcss GitHub: https://github.com/alphaolomi/inspire-me-now]]></title>
-            <link>https://inspire-me-now.vercel.app/</link>
-            <guid>https://inspire-me-now.vercel.app/</guid>
-            <pubDate>Thu, 15 Apr 2021 13:37:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Plasmic, a visual builder for React]]></title>
-            <link>https://www.plasmic.app/</link>
-            <guid>https://www.plasmic.app/</guid>
-            <pubDate>Wed, 14 Apr 2021 19:49:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A simple react hook for paginating data]]></title>
-            <link>https://github.com/you-got-bud/use-pagination</link>
-            <guid>https://github.com/you-got-bud/use-pagination</guid>
-            <pubDate>Wed, 14 Apr 2021 21:43:35 GMT</pubDate>
         </item>
     </channel>
 </rss>

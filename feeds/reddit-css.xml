@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Thu, 15 Apr 2021 19:47:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Apr 2021 07:48:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -67,24 +67,6 @@
             <link>https://www.lambdatest.com/blog/best-css-frameworks-2021/?utm_source=Reddit&amp;utm_medium=blog&amp;utm_campaign=PM-130421-1&amp;utm_term=OrganicPosting</link>
             <guid>https://www.lambdatest.com/blog/best-css-frameworks-2021/?utm_source=Reddit&amp;utm_medium=blog&amp;utm_campaign=PM-130421-1&amp;utm_term=OrganicPosting</guid>
             <pubDate>Tue, 13 Apr 2021 14:33:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Footer overlaps content on position:relative]]></title>
-            <link>https://stackoverflow.com/questions/67078141/footer-overlapping-body-content-tried-all-existing-question-answers-on-s-o-no</link>
-            <guid>https://stackoverflow.com/questions/67078141/footer-overlapping-body-content-tried-all-existing-question-answers-on-s-o-no</guid>
-            <pubDate>Tue, 13 Apr 2021 16:57:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Complete CSS Flex Tutorial]]></title>
-            <link>https://semicolon.dev/tutorial/css/complete-css-flex-tutorial</link>
-            <guid>https://semicolon.dev/tutorial/css/complete-css-flex-tutorial</guid>
-            <pubDate>Tue, 13 Apr 2021 12:56:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Generative CSS - A program that uses CSS3's linear and radial gradients to generate beautiful backgrounds]]></title>
-            <link>https://generative-css.herokuapp.com/</link>
-            <guid>https://generative-css.herokuapp.com/</guid>
-            <pubDate>Tue, 13 Apr 2021 11:08:41 GMT</pubDate>
         </item>
     </channel>
 </rss>

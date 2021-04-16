@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Thu, 15 Apr 2021 19:47:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Apr 2021 07:48:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,12 @@
             <link>https://foo.com/</link>
             <guid>https://foo.com/</guid>
             <pubDate>Mon, 12 Apr 2021 09:04:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Open Source p2p social network that runs on your browser. Builded with WebRTC. Never has scalability issues. It always works cheaply and fast.]]></title>
+            <link>https://github.com/foxql/foxql</link>
+            <guid>https://github.com/foxql/foxql</guid>
+            <pubDate>Fri, 16 Apr 2021 04:36:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Some time ago I wrote an article about microfrontends, but put it behind Medium paywall by accident - now it's free to read.]]></title>
@@ -27,10 +33,28 @@
             <pubDate>Thu, 15 Apr 2021 16:16:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Fully accessible Menu components by headless UI tailwindcss]]></title>
+            <link>https://dev.to/nirazanbasnet/fully-accessible-menu-components-by-headless-ui-tailwindcss-4ml7</link>
+            <guid>https://dev.to/nirazanbasnet/fully-accessible-menu-components-by-headless-ui-tailwindcss-4ml7</guid>
+            <pubDate>Fri, 16 Apr 2021 07:13:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Enso 2.0 is out! Visual programming in JavaScript, Python, Java, and R. Written in Rust, running on GraalVM and WebGL.]]></title>
             <link>https://enso.org/</link>
             <guid>https://enso.org/</guid>
             <pubDate>Wed, 14 Apr 2021 21:13:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to create your own language that compile to JavaScript]]></title>
+            <link>https://hackernoon.com/creating-your-own-javascript-based-programming-language-has-never-been-easier-wju33by</link>
+            <guid>https://hackernoon.com/creating-your-own-javascript-based-programming-language-has-never-been-easier-wju33by</guid>
+            <pubDate>Thu, 15 Apr 2021 11:25:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Springboot example for beginner]]></title>
+            <link>https://github.com/sangdee/springboot-crud-examples</link>
+            <guid>https://github.com/sangdee/springboot-crud-examples</guid>
+            <pubDate>Fri, 16 Apr 2021 01:57:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL).]]></title>
@@ -115,30 +139,6 @@
             <link>https://deno.com/blog/v1.9</link>
             <guid>https://deno.com/blog/v1.9</guid>
             <pubDate>Tue, 13 Apr 2021 19:58:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A notion like web app which is fully local and supports markdown]]></title>
-            <link>https://bangle.io/</link>
-            <guid>https://bangle.io/</guid>
-            <pubDate>Wed, 14 Apr 2021 04:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Supercharge your API with Compression]]></title>
-            <link>https://dev.to/mikeeason/supercharge-your-api-with-compression-4ikp</link>
-            <guid>https://dev.to/mikeeason/supercharge-your-api-with-compression-4ikp</guid>
-            <pubDate>Wed, 14 Apr 2021 10:31:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EfficientNet - image recognition and object detection model written in node and typescript]]></title>
-            <link>https://github.com/ntedgi/node-efficientnet</link>
-            <guid>https://github.com/ntedgi/node-efficientnet</guid>
-            <pubDate>Wed, 14 Apr 2021 04:41:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[hapi pal v3: Birthday Edition]]></title>
-            <link>https://dev.to/hapipal/hapi-pal-v3-birthday-edition-n86</link>
-            <guid>https://dev.to/hapipal/hapi-pal-v3-birthday-edition-n86</guid>
-            <pubDate>Tue, 13 Apr 2021 17:50:31 GMT</pubDate>
         </item>
     </channel>
 </rss>

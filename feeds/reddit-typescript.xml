@@ -4,16 +4,10 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Thu, 15 Apr 2021 19:47:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Apr 2021 07:48:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
-        <item>
-            <title><![CDATA[Build Cool APIs In Express and TypeScript]]></title>
-            <link>https://kutia.net/build-cool-apis-in-express-and-typescript/</link>
-            <guid>https://kutia.net/build-cool-apis-in-express-and-typescript/</guid>
-            <pubDate>Thu, 15 Apr 2021 19:19:03 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Filtering of (string|null)[] to only have a string[] not working?]]></title>
             <link>https://www.typescriptlang.org/play?ssl=4&amp;ssc=26&amp;pln=1&amp;pc=1#code/MYewdgzgLgBNBOBLMBzAgveAuOUmoG0BdGAXhgIFgAoGOmAOiYLAFcAbdgGhgCIBDXkS416jZgN5c2nIjSIMAZonZQApvAAUEMgD44MAISlyM9gEogA</link>
@@ -39,16 +33,16 @@
             <pubDate>Wed, 14 Apr 2021 04:42:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Slow and Steady: Converting Sentry’s Entire Frontend to TypeScript]]></title>
-            <link>https://blog.sentry.io/2021/04/12/slow-and-steady-converting-sentrys-entire-frontend-to-typescript</link>
-            <guid>https://blog.sentry.io/2021/04/12/slow-and-steady-converting-sentrys-entire-frontend-to-typescript</guid>
-            <pubDate>Tue, 13 Apr 2021 19:25:13 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Typescript project references: Handle third-party dependencies of referenced project]]></title>
             <link>https://stackoverflow.com/questions/67070255/typescript-project-references-handle-third-party-dependencies-of-referenced-pro</link>
             <guid>https://stackoverflow.com/questions/67070255/typescript-project-references-handle-third-party-dependencies-of-referenced-pro</guid>
             <pubDate>Wed, 14 Apr 2021 13:54:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Slow and Steady: Converting Sentry’s Entire Frontend to TypeScript]]></title>
+            <link>https://blog.sentry.io/2021/04/12/slow-and-steady-converting-sentrys-entire-frontend-to-typescript</link>
+            <guid>https://blog.sentry.io/2021/04/12/slow-and-steady-converting-sentrys-entire-frontend-to-typescript</guid>
+            <pubDate>Tue, 13 Apr 2021 19:25:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@practical-fp/union-types - A Typescript library for creating discriminating union types]]></title>

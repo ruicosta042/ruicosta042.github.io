@@ -4,7 +4,7 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Thu, 15 Apr 2021 19:47:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Apr 2021 07:48:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,10 @@
             <pubDate>Thu, 15 Apr 2021 13:31:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[10 Javascript Design Patterns To Improve Your Code With]]></title>
-            <link>https://link.medium.com/uz10Gl8btfb</link>
-            <guid>https://link.medium.com/uz10Gl8btfb</guid>
-            <pubDate>Thu, 15 Apr 2021 07:17:03 GMT</pubDate>
+            <title><![CDATA[Realtio - A simple node package to take in inputs and display outputs in realtime onto the CLI]]></title>
+            <link>https://github.com/mihiraggarwal/realtio-npm</link>
+            <guid>https://github.com/mihiraggarwal/realtio-npm</guid>
+            <pubDate>Fri, 16 Apr 2021 07:36:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fnm: a fast and simple Node.js version manager]]></title>
@@ -27,10 +27,34 @@
             <pubDate>Thu, 15 Apr 2021 16:53:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[One Port to Rule Them All]]></title>
-            <link>https://httptoolkit.tech/blog/http-https-same-port/</link>
-            <guid>https://httptoolkit.tech/blog/http-https-same-port/</guid>
-            <pubDate>Thu, 15 Apr 2021 16:50:18 GMT</pubDate>
+            <title><![CDATA[10 Javascript Design Patterns To Improve Your Code With]]></title>
+            <link>https://link.medium.com/uz10Gl8btfb</link>
+            <guid>https://link.medium.com/uz10Gl8btfb</guid>
+            <pubDate>Thu, 15 Apr 2021 07:17:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Javascript News 3rd Week(Apr) – How to test UIs, Web Scraping with NodeJS, Figma designs to React code, Improving React application performance - The ArrowFn]]></title>
+            <link>https://thearrowfn.com/javascript-news-3rd-weekapr-how-to-test-uis-web-scraping-with-nodejs/</link>
+            <guid>https://thearrowfn.com/javascript-news-3rd-weekapr-how-to-test-uis-web-scraping-with-nodejs/</guid>
+            <pubDate>Fri, 16 Apr 2021 06:02:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Linked List in Javascript — Circular, and Reversed List]]></title>
+            <link>https://link.medium.com/90VpMbeKufb</link>
+            <guid>https://link.medium.com/90VpMbeKufb</guid>
+            <pubDate>Fri, 16 Apr 2021 05:42:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Camouflage: A mocking tool for HTTP/HTTPs downstream build in NodeJS]]></title>
+            <link>https://fauxauldrich.github.io/camouflage/</link>
+            <guid>https://fauxauldrich.github.io/camouflage/</guid>
+            <pubDate>Fri, 16 Apr 2021 04:54:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Passing bearer token in postman gives invalid json error]]></title>
+            <link>https://jwt.io/</link>
+            <guid>https://jwt.io/</guid>
+            <pubDate>Fri, 16 Apr 2021 04:21:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[getting console input doesn't wait]]></title>
@@ -39,16 +63,34 @@
             <pubDate>Thu, 15 Apr 2021 16:38:17 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[One Port to Rule Them All]]></title>
+            <link>https://httptoolkit.tech/blog/http-https-same-port/</link>
+            <guid>https://httptoolkit.tech/blog/http-https-same-port/</guid>
+            <pubDate>Thu, 15 Apr 2021 16:50:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Simple socket.io app to share code/images between devices on the same network]]></title>
+            <link>https://www.npmjs.com/package/localnote</link>
+            <guid>https://www.npmjs.com/package/localnote</guid>
+            <pubDate>Thu, 15 Apr 2021 23:21:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Spring Boot or Node Js application? Run on Docker!]]></title>
             <link>https://foo.com/</link>
             <guid>https://foo.com/</guid>
             <pubDate>Thu, 15 Apr 2021 15:08:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Here is the list of Node.js security risks that may cause lots of vulnerabilities and their possible solution practices that help developers create more secure apps.]]></title>
-            <link>https://www.mindinventory.com/blog/nodejs-security-best-practices/</link>
-            <guid>https://www.mindinventory.com/blog/nodejs-security-best-practices/</guid>
-            <pubDate>Thu, 15 Apr 2021 11:16:13 GMT</pubDate>
+            <title><![CDATA[Remote Senior Full Stack Developer (ReactJS/NodeJS) - Contract]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Thu, 15 Apr 2021 22:31:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A live for anyone who wants to know about Graphql, Node and Docker]]></title>
+            <link>https://www.twitch.tv/thegodstack</link>
+            <guid>https://www.twitch.tv/thegodstack</guid>
+            <pubDate>Thu, 15 Apr 2021 21:39:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I made a free random movie suggestion API using Node!]]></title>
@@ -57,58 +99,16 @@
             <pubDate>Thu, 15 Apr 2021 12:18:57 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Here is the list of Node.js security risks that may cause lots of vulnerabilities and their possible solution practices that help developers create more secure apps.]]></title>
+            <link>https://www.mindinventory.com/blog/nodejs-security-best-practices/</link>
+            <guid>https://www.mindinventory.com/blog/nodejs-security-best-practices/</guid>
+            <pubDate>Thu, 15 Apr 2021 11:16:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Do you use nvm?]]></title>
             <link>https://nodejs.dev/learn/the-npx-nodejs-package-runner</link>
             <guid>https://nodejs.dev/learn/the-npx-nodejs-package-runner</guid>
             <pubDate>Wed, 14 Apr 2021 22:25:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to securely call an authenticated API from your front end]]></title>
-            <link>https://simonplend.com/how-to-securely-call-an-authenticated-api-from-your-front-end/</link>
-            <guid>https://simonplend.com/how-to-securely-call-an-authenticated-api-from-your-front-end/</guid>
-            <pubDate>Thu, 15 Apr 2021 11:04:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Having trouble figuring out how do l combine relations in CSV in 1 run]]></title>
-            <link>https://github.com/deadcoder0904/combine-csv-startup-acquisitions-data</link>
-            <guid>https://github.com/deadcoder0904/combine-csv-startup-acquisitions-data</guid>
-            <pubDate>Thu, 15 Apr 2021 11:04:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Linked List Data Structure in Javascript]]></title>
-            <link>https://link.medium.com/62hmIlbmtfb</link>
-            <guid>https://link.medium.com/62hmIlbmtfb</guid>
-            <pubDate>Thu, 15 Apr 2021 09:37:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hasura plugin for Fastify]]></title>
-            <link>https://github.com/ManUtopiK/fastify-hasura</link>
-            <guid>https://github.com/ManUtopiK/fastify-hasura</guid>
-            <pubDate>Thu, 15 Apr 2021 09:30:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I made an app that helps you sync your clipboards between your Windows PC and your Android device.]]></title>
-            <link>https://github.com/jaychandra6/syncboard</link>
-            <guid>https://github.com/jaychandra6/syncboard</guid>
-            <pubDate>Wed, 14 Apr 2021 09:53:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Build Cool APIs In Express and TypeScript]]></title>
-            <link>https://kutia.net/build-cool-apis-in-express-and-typescript/</link>
-            <guid>https://kutia.net/build-cool-apis-in-express-and-typescript/</guid>
-            <pubDate>Thu, 15 Apr 2021 13:08:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I'm trying to make a backend that receive file using express and express-fileupload. It's ok to receive small files up to 1 or 2 GB but when I'm receiving a 3gb file, backend server show 'Killed' in console and exit automatically. I don't know how to fix it. Please help me. I'm using MX Linux.]]></title>
-            <link>https://stackoverflow.com/questions/67090838/node-express-server-show-killed-and-exit-for-no-reason-while-accepting-a-3gb-f</link>
-            <guid>https://stackoverflow.com/questions/67090838/node-express-server-show-killed-and-exit-for-no-reason-while-accepting-a-3gb-f</guid>
-            <pubDate>Thu, 15 Apr 2021 08:03:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Generate TypeScript definitions from a PostgreSQL database schema]]></title>
-            <link>https://github.com/kriasoft/knex-types</link>
-            <guid>https://github.com/kriasoft/knex-types</guid>
-            <pubDate>Wed, 14 Apr 2021 14:29:58 GMT</pubDate>
         </item>
     </channel>
 </rss>

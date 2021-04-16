@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Fri, 16 Apr 2021 12:55:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Apr 2021 19:46:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,16 +15,22 @@
             <pubDate>Mon, 12 Apr 2021 09:04:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The shortest way to conditionally insert properties into an object literal]]></title>
+            <link>https://andreasimonecosta.dev/posts/the-shortest-way-to-conditionally-insert-properties-into-an-object-literal/</link>
+            <guid>https://andreasimonecosta.dev/posts/the-shortest-way-to-conditionally-insert-properties-into-an-object-literal/</guid>
+            <pubDate>Fri, 16 Apr 2021 09:42:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Open Source p2p social network that runs on your browser. Builded with WebRTC. Never has scalability issues. It always works cheaply and fast.]]></title>
             <link>https://github.com/foxql/foxql</link>
             <guid>https://github.com/foxql/foxql</guid>
             <pubDate>Fri, 16 Apr 2021 04:36:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The shortest way to conditionally insert properties into an object literal]]></title>
-            <link>https://andreasimonecosta.dev/posts/the-shortest-way-to-conditionally-insert-properties-into-an-object-literal/</link>
-            <guid>https://andreasimonecosta.dev/posts/the-shortest-way-to-conditionally-insert-properties-into-an-object-literal/</guid>
-            <pubDate>Fri, 16 Apr 2021 09:42:23 GMT</pubDate>
+            <title><![CDATA[Content-aware image resizing in JavaScript]]></title>
+            <link>https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/</link>
+            <guid>https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/</guid>
+            <pubDate>Fri, 16 Apr 2021 16:01:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Typestates Would Have Saved the Roman Republic]]></title>
@@ -33,16 +39,22 @@
             <pubDate>Fri, 16 Apr 2021 09:21:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Why you should not use Webpack]]></title>
+            <link>https://asyncbanana.medium.com/why-you-should-not-use-webpack-f07f4fd7c116</link>
+            <guid>https://asyncbanana.medium.com/why-you-should-not-use-webpack-f07f4fd7c116</guid>
+            <pubDate>Fri, 16 Apr 2021 19:27:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing kairo.js - Reactive programming refined in three primitives, with frameworks integrations to write reactive webapp in one mental model]]></title>
+            <link>https://github.com/3Shain/kairo</link>
+            <guid>https://github.com/3Shain/kairo</guid>
+            <pubDate>Fri, 16 Apr 2021 14:29:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Some time ago I wrote an article about microfrontends, but put it behind Medium paywall by accident - now it's free to read.]]></title>
             <link>https://medium.com/jit-team/microfrontends-should-i-care-12b871f70fa3</link>
             <guid>https://medium.com/jit-team/microfrontends-should-i-care-12b871f70fa3</guid>
             <pubDate>Thu, 15 Apr 2021 11:22:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[27 JavaScript experts to follow on Twitter]]></title>
-            <link>https://www.tectalk.co/27-javascript-experts-to-follow-on-twitter/</link>
-            <guid>https://www.tectalk.co/27-javascript-experts-to-follow-on-twitter/</guid>
-            <pubDate>Fri, 16 Apr 2021 09:55:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Storybook addons for CSS]]></title>
@@ -51,16 +63,16 @@
             <pubDate>Thu, 15 Apr 2021 16:16:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Years ago I wrote 2 Javascript HTML5 Canvas jQuery plugins (EscapistDeluxe - Funky random animations) & (WoozyClock - Funky digital clock representation)]]></title>
-            <link>https://www.sabiland.com/javascript.html</link>
-            <guid>https://www.sabiland.com/javascript.html</guid>
-            <pubDate>Fri, 16 Apr 2021 08:34:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fully accessible Menu components by headless UI tailwindcss]]></title>
             <link>https://dev.to/nirazanbasnet/fully-accessible-menu-components-by-headless-ui-tailwindcss-4ml7</link>
             <guid>https://dev.to/nirazanbasnet/fully-accessible-menu-components-by-headless-ui-tailwindcss-4ml7</guid>
             <pubDate>Fri, 16 Apr 2021 07:13:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Years ago I wrote 2 Javascript HTML5 Canvas jQuery plugins (EscapistDeluxe - Funky random animations) & (WoozyClock - Funky digital clock representation)]]></title>
+            <link>https://www.sabiland.com/javascript.html</link>
+            <guid>https://www.sabiland.com/javascript.html</guid>
+            <pubDate>Fri, 16 Apr 2021 08:34:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Enso 2.0 is out! Visual programming in JavaScript, Python, Java, and R. Written in Rust, running on GraalVM and WebGL.]]></title>
@@ -79,12 +91,6 @@
             <link>http://alasql.org/</link>
             <guid>http://alasql.org/</guid>
             <pubDate>Thu, 15 Apr 2021 17:40:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Springboot example for beginner]]></title>
-            <link>https://github.com/sangdee/springboot-crud-examples</link>
-            <guid>https://github.com/sangdee/springboot-crud-examples</guid>
-            <pubDate>Fri, 16 Apr 2021 01:57:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[yare.io – a game you control by writing real JavaScript]]></title>
@@ -133,18 +139,6 @@
             <link>https://github.com/aladinyo/WhatsappyApp</link>
             <guid>https://github.com/aladinyo/WhatsappyApp</guid>
             <pubDate>Wed, 14 Apr 2021 20:09:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why some developers are avoiding app store headaches by going web-only]]></title>
-            <link>https://www.fastcompany.com/90623905/ios-web-apps</link>
-            <guid>https://www.fastcompany.com/90623905/ios-web-apps</guid>
-            <pubDate>Tue, 13 Apr 2021 18:28:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mastering Postgres transactions in Node.js]]></title>
-            <link>https://gregberge.com/blog/knex-transactions</link>
-            <guid>https://gregberge.com/blog/knex-transactions</guid>
-            <pubDate>Wed, 14 Apr 2021 11:47:34 GMT</pubDate>
         </item>
     </channel>
 </rss>

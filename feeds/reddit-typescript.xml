@@ -4,10 +4,16 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Fri, 16 Apr 2021 12:55:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Apr 2021 19:46:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[How do i resolve "cannot assign to 'scrollWidth' because it is a read-only property.ts(2540)"?]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Fri, 16 Apr 2021 12:54:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Filtering of (string|null)[] to only have a string[] not working?]]></title>
             <link>https://www.typescriptlang.org/play?ssl=4&amp;ssc=26&amp;pln=1&amp;pc=1#code/MYewdgzgLgBNBOBLMBzAgveAuOUmoG0BdGAXhgIFgAoGOmAOiYLAFcAbdgGhgCIBDXkS416jZgN5c2nIjSIMAZonZQApvAAUEMgD44MAISlyM9gEogA</link>

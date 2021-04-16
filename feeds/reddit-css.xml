@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Fri, 16 Apr 2021 12:55:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Apr 2021 19:46:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,12 @@
             <link>https://christianheilmann.com/2021/03/13/conditional-animation-with-css-properties/</link>
             <guid>https://christianheilmann.com/2021/03/13/conditional-animation-with-css-properties/</guid>
             <pubDate>Fri, 16 Apr 2021 12:25:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How can I achieve this effect (link in the post)?]]></title>
+            <link>https://microsoftedgewelcome.microsoft.com/en-us/update</link>
+            <guid>https://microsoftedgewelcome.microsoft.com/en-us/update</guid>
+            <pubDate>Fri, 16 Apr 2021 17:58:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[You can use CSS generators to avoid some time-consuming tasks. I made a collection of the best CSS generators for you.]]></title>
@@ -61,12 +67,6 @@
             <link>https://utopia.fyi/space/calculator/</link>
             <guid>https://utopia.fyi/space/calculator/</guid>
             <pubDate>Wed, 14 Apr 2021 09:21:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is it possible to define a specific website inside a CSS-file?]]></title>
-            <link>https://duckduckgo.com/</link>
-            <guid>https://duckduckgo.com/</guid>
-            <pubDate>Tue, 13 Apr 2021 21:17:22 GMT</pubDate>
         </item>
     </channel>
 </rss>

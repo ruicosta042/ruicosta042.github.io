@@ -4,7 +4,7 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Sat, 17 Apr 2021 07:48:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Apr 2021 12:54:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,12 @@
             <link>https://shakil.me/understanding-typescript-decorators/</link>
             <guid>https://shakil.me/understanding-typescript-decorators/</guid>
             <pubDate>Sat, 17 Apr 2021 01:53:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I created a typescript first state manager "Exome"]]></title>
+            <link>https://marcisbee.medium.com/announcing-new-and-simple-state-manager-exome-78b5874325c1</link>
+            <guid>https://marcisbee.medium.com/announcing-new-and-simple-state-manager-exome-78b5874325c1</guid>
+            <pubDate>Sat, 17 Apr 2021 09:16:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How do i resolve "cannot assign to 'scrollWidth' because it is a read-only property.ts(2540)"?]]></title>

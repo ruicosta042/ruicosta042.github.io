@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sat, 17 Apr 2021 07:48:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Apr 2021 12:54:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,28 +15,10 @@
             <pubDate>Mon, 12 Apr 2021 09:04:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[QUIC and HTTP/3 Support now in Firefox Nightly and Beta]]></title>
-            <link>https://hacks.mozilla.org/2021/04/quic-and-http-3-support-now-in-firefox-nightly-and-beta/</link>
-            <guid>https://hacks.mozilla.org/2021/04/quic-and-http-3-support-now-in-firefox-nightly-and-beta/</guid>
-            <pubDate>Fri, 16 Apr 2021 20:18:07 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Here is my experiment with Svelte and 3D CSS. It was super fun!]]></title>
             <link>https://jsocean.org/svelte-3d-cube-generator/</link>
             <guid>https://jsocean.org/svelte-3d-cube-generator/</guid>
             <pubDate>Sat, 17 Apr 2021 05:24:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Content-aware image resizing in JavaScript]]></title>
-            <link>https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/</link>
-            <guid>https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/</guid>
-            <pubDate>Fri, 16 Apr 2021 16:01:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The shortest way to conditionally insert properties into an object literal]]></title>
-            <link>https://andreasimonecosta.dev/posts/the-shortest-way-to-conditionally-insert-properties-into-an-object-literal/</link>
-            <guid>https://andreasimonecosta.dev/posts/the-shortest-way-to-conditionally-insert-properties-into-an-object-literal/</guid>
-            <pubDate>Fri, 16 Apr 2021 09:42:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[System design : How Instagram computes real-time trending hashtags ?]]></title>
@@ -45,10 +27,34 @@
             <pubDate>Sat, 17 Apr 2021 06:09:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I rewrote my blog with Tailwind Css, thoughts?]]></title>
-            <link>https://nosleepjavascript.com/</link>
-            <guid>https://nosleepjavascript.com/</guid>
-            <pubDate>Fri, 16 Apr 2021 22:30:44 GMT</pubDate>
+            <title><![CDATA[QUIC and HTTP/3 Support now in Firefox Nightly and Beta]]></title>
+            <link>https://hacks.mozilla.org/2021/04/quic-and-http-3-support-now-in-firefox-nightly-and-beta/</link>
+            <guid>https://hacks.mozilla.org/2021/04/quic-and-http-3-support-now-in-firefox-nightly-and-beta/</guid>
+            <pubDate>Fri, 16 Apr 2021 20:18:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My first attempt at micro-SaaS; suggestions and feedback please.]]></title>
+            <link>https://dev.to/daltonfury42/my-first-attempt-at-micro-saas-suggestions-and-feedback-please-4cf6</link>
+            <guid>https://dev.to/daltonfury42/my-first-attempt-at-micro-saas-suggestions-and-feedback-please-4cf6</guid>
+            <pubDate>Sat, 17 Apr 2021 11:53:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How satisfied are you with your current testing approach?]]></title>
+            <link>https://forms.gle/chtEKRGjNYiRAfht6</link>
+            <guid>https://forms.gle/chtEKRGjNYiRAfht6</guid>
+            <pubDate>Sat, 17 Apr 2021 11:33:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Performance trace recipes with Puppeteer]]></title>
+            <link>https://addyosmani.com/blog/puppeteer-recipes/</link>
+            <guid>https://addyosmani.com/blog/puppeteer-recipes/</guid>
+            <pubDate>Sat, 17 Apr 2021 12:38:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Content-aware image resizing in JavaScript]]></title>
+            <link>https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/</link>
+            <guid>https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/</guid>
+            <pubDate>Fri, 16 Apr 2021 16:01:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[akmittal/dash-tv-web Watch 5000+ publically available channels]]></title>
@@ -57,16 +63,40 @@
             <pubDate>Sat, 17 Apr 2021 07:22:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Open Source p2p social network that runs on your browser. Builded with WebRTC. Never has scalability issues. It always works cheaply and fast.]]></title>
-            <link>https://github.com/foxql/foxql</link>
-            <guid>https://github.com/foxql/foxql</guid>
-            <pubDate>Fri, 16 Apr 2021 04:36:09 GMT</pubDate>
+            <title><![CDATA[The shortest way to conditionally insert properties into an object literal]]></title>
+            <link>https://andreasimonecosta.dev/posts/the-shortest-way-to-conditionally-insert-properties-into-an-object-literal/</link>
+            <guid>https://andreasimonecosta.dev/posts/the-shortest-way-to-conditionally-insert-properties-into-an-object-literal/</guid>
+            <pubDate>Fri, 16 Apr 2021 09:42:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10 array methods to simplify your code]]></title>
+            <link>https://markodenic.com/10-javascript-array-methods-to-simplify-your-code/</link>
+            <guid>https://markodenic.com/10-javascript-array-methods-to-simplify-your-code/</guid>
+            <pubDate>Sat, 17 Apr 2021 08:00:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I rewrote my blog with Tailwind Css, thoughts?]]></title>
+            <link>https://nosleepjavascript.com/</link>
+            <guid>https://nosleepjavascript.com/</guid>
+            <pubDate>Fri, 16 Apr 2021 22:30:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I created a new simple to use state manager called Exome]]></title>
             <link>https://marcisbee.medium.com/announcing-new-and-simple-state-manager-exome-78b5874325c1</link>
             <guid>https://marcisbee.medium.com/announcing-new-and-simple-state-manager-exome-78b5874325c1</guid>
             <pubDate>Sat, 17 Apr 2021 07:30:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A simple file viewer app made with Neutralinojs (as a demo of Neutralinojs)]]></title>
+            <link>https://github.com/shalithasuranga/liteman</link>
+            <guid>https://github.com/shalithasuranga/liteman</guid>
+            <pubDate>Sat, 17 Apr 2021 10:49:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Open Source p2p social network that runs on your browser. Builded with WebRTC. Never has scalability issues. It always works cheaply and fast.]]></title>
+            <link>https://github.com/foxql/foxql</link>
+            <guid>https://github.com/foxql/foxql</guid>
+            <pubDate>Fri, 16 Apr 2021 04:36:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[AskJS] JavaScript code sandbox]]></title>
@@ -81,12 +111,6 @@
             <pubDate>Fri, 16 Apr 2021 20:15:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why you should not use Webpack]]></title>
-            <link>https://asyncbanana.medium.com/why-you-should-not-use-webpack-f07f4fd7c116</link>
-            <guid>https://asyncbanana.medium.com/why-you-should-not-use-webpack-f07f4fd7c116</guid>
-            <pubDate>Fri, 16 Apr 2021 19:27:31 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Introducing kairo.js - Reactive programming refined in three primitives, with frameworks integrations to write reactive webapp in one mental model]]></title>
             <link>https://github.com/3Shain/kairo</link>
             <guid>https://github.com/3Shain/kairo</guid>
@@ -97,6 +121,12 @@
             <link>https://blog.yoavlavi.com/state-machines-would-have-saved-the-roman-republic/</link>
             <guid>https://blog.yoavlavi.com/state-machines-would-have-saved-the-roman-republic/</guid>
             <pubDate>Fri, 16 Apr 2021 09:21:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why you should not use Webpack]]></title>
+            <link>https://asyncbanana.medium.com/why-you-should-not-use-webpack-f07f4fd7c116</link>
+            <guid>https://asyncbanana.medium.com/why-you-should-not-use-webpack-f07f4fd7c116</guid>
+            <pubDate>Fri, 16 Apr 2021 19:27:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Some time ago I wrote an article about microfrontends, but put it behind Medium paywall by accident - now it's free to read.]]></title>
@@ -127,36 +157,6 @@
             <link>https://enso.org/</link>
             <guid>https://enso.org/</guid>
             <pubDate>Wed, 14 Apr 2021 21:13:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to create your own language that compile to JavaScript]]></title>
-            <link>https://hackernoon.com/creating-your-own-javascript-based-programming-language-has-never-been-easier-wju33by</link>
-            <guid>https://hackernoon.com/creating-your-own-javascript-based-programming-language-has-never-been-easier-wju33by</guid>
-            <pubDate>Thu, 15 Apr 2021 11:25:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL).]]></title>
-            <link>http://alasql.org/</link>
-            <guid>http://alasql.org/</guid>
-            <pubDate>Thu, 15 Apr 2021 17:40:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[yare.io – a game you control by writing real JavaScript]]></title>
-            <link>https://yare.io/</link>
-            <guid>https://yare.io/</guid>
-            <pubDate>Wed, 14 Apr 2021 08:45:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New JavaScript Exploit Can Now Carry Out DDR4 Rowhammer Attacks]]></title>
-            <link>https://www.tectalk.co/new-javascript-exploit-can-now-carry-out-ddr4-rowhammer-attacks/</link>
-            <guid>https://www.tectalk.co/new-javascript-exploit-can-now-carry-out-ddr4-rowhammer-attacks/</guid>
-            <pubDate>Thu, 15 Apr 2021 05:56:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Private brand checks a.k.a. `#foo in obj`]]></title>
-            <link>https://v8.dev/features/private-brand-checks</link>
-            <guid>https://v8.dev/features/private-brand-checks</guid>
-            <pubDate>Wed, 14 Apr 2021 17:45:59 GMT</pubDate>
         </item>
     </channel>
 </rss>

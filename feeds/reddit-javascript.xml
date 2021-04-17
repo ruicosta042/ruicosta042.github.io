@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Fri, 16 Apr 2021 19:46:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Apr 2021 07:48:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,16 +15,16 @@
             <pubDate>Mon, 12 Apr 2021 09:04:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The shortest way to conditionally insert properties into an object literal]]></title>
-            <link>https://andreasimonecosta.dev/posts/the-shortest-way-to-conditionally-insert-properties-into-an-object-literal/</link>
-            <guid>https://andreasimonecosta.dev/posts/the-shortest-way-to-conditionally-insert-properties-into-an-object-literal/</guid>
-            <pubDate>Fri, 16 Apr 2021 09:42:23 GMT</pubDate>
+            <title><![CDATA[QUIC and HTTP/3 Support now in Firefox Nightly and Beta]]></title>
+            <link>https://hacks.mozilla.org/2021/04/quic-and-http-3-support-now-in-firefox-nightly-and-beta/</link>
+            <guid>https://hacks.mozilla.org/2021/04/quic-and-http-3-support-now-in-firefox-nightly-and-beta/</guid>
+            <pubDate>Fri, 16 Apr 2021 20:18:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Open Source p2p social network that runs on your browser. Builded with WebRTC. Never has scalability issues. It always works cheaply and fast.]]></title>
-            <link>https://github.com/foxql/foxql</link>
-            <guid>https://github.com/foxql/foxql</guid>
-            <pubDate>Fri, 16 Apr 2021 04:36:09 GMT</pubDate>
+            <title><![CDATA[Here is my experiment with Svelte and 3D CSS. It was super fun!]]></title>
+            <link>https://jsocean.org/svelte-3d-cube-generator/</link>
+            <guid>https://jsocean.org/svelte-3d-cube-generator/</guid>
+            <pubDate>Sat, 17 Apr 2021 05:24:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Content-aware image resizing in JavaScript]]></title>
@@ -33,10 +33,52 @@
             <pubDate>Fri, 16 Apr 2021 16:01:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Typestates Would Have Saved the Roman Republic]]></title>
-            <link>https://blog.yoavlavi.com/state-machines-would-have-saved-the-roman-republic/</link>
-            <guid>https://blog.yoavlavi.com/state-machines-would-have-saved-the-roman-republic/</guid>
-            <pubDate>Fri, 16 Apr 2021 09:21:49 GMT</pubDate>
+            <title><![CDATA[The shortest way to conditionally insert properties into an object literal]]></title>
+            <link>https://andreasimonecosta.dev/posts/the-shortest-way-to-conditionally-insert-properties-into-an-object-literal/</link>
+            <guid>https://andreasimonecosta.dev/posts/the-shortest-way-to-conditionally-insert-properties-into-an-object-literal/</guid>
+            <pubDate>Fri, 16 Apr 2021 09:42:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[System design : How Instagram computes real-time trending hashtags ?]]></title>
+            <link>https://blog.pankajtanwar.in/system-design-how-instagram-computes-real-time-trending-hashtags</link>
+            <guid>https://blog.pankajtanwar.in/system-design-how-instagram-computes-real-time-trending-hashtags</guid>
+            <pubDate>Sat, 17 Apr 2021 06:09:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I rewrote my blog with Tailwind Css, thoughts?]]></title>
+            <link>https://nosleepjavascript.com/</link>
+            <guid>https://nosleepjavascript.com/</guid>
+            <pubDate>Fri, 16 Apr 2021 22:30:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[akmittal/dash-tv-web Watch 5000+ publically available channels]]></title>
+            <link>https://github.com/akmittal/dash-tv-web</link>
+            <guid>https://github.com/akmittal/dash-tv-web</guid>
+            <pubDate>Sat, 17 Apr 2021 07:22:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Open Source p2p social network that runs on your browser. Builded with WebRTC. Never has scalability issues. It always works cheaply and fast.]]></title>
+            <link>https://github.com/foxql/foxql</link>
+            <guid>https://github.com/foxql/foxql</guid>
+            <pubDate>Fri, 16 Apr 2021 04:36:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I created a new simple to use state manager called Exome]]></title>
+            <link>https://marcisbee.medium.com/announcing-new-and-simple-state-manager-exome-78b5874325c1</link>
+            <guid>https://marcisbee.medium.com/announcing-new-and-simple-state-manager-exome-78b5874325c1</guid>
+            <pubDate>Sat, 17 Apr 2021 07:30:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AskJS] JavaScript code sandbox]]></title>
+            <link>http://labs.onether.com/javascript-sandbox/</link>
+            <guid>http://labs.onether.com/javascript-sandbox/</guid>
+            <pubDate>Sat, 17 Apr 2021 00:31:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Helpful content when memorizing English words]]></title>
+            <link>https://dev.to/cihat/helpful-content-when-memorizing-english-words-17hd</link>
+            <guid>https://dev.to/cihat/helpful-content-when-memorizing-english-words-17hd</guid>
+            <pubDate>Fri, 16 Apr 2021 20:15:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why you should not use Webpack]]></title>
@@ -49,6 +91,12 @@
             <link>https://github.com/3Shain/kairo</link>
             <guid>https://github.com/3Shain/kairo</guid>
             <pubDate>Fri, 16 Apr 2021 14:29:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Typestates Would Have Saved the Roman Republic]]></title>
+            <link>https://blog.yoavlavi.com/state-machines-would-have-saved-the-roman-republic/</link>
+            <guid>https://blog.yoavlavi.com/state-machines-would-have-saved-the-roman-republic/</guid>
+            <pubDate>Fri, 16 Apr 2021 09:21:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Some time ago I wrote an article about microfrontends, but put it behind Medium paywall by accident - now it's free to read.]]></title>
@@ -109,36 +157,6 @@
             <link>https://v8.dev/features/private-brand-checks</link>
             <guid>https://v8.dev/features/private-brand-checks</guid>
             <pubDate>Wed, 14 Apr 2021 17:45:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[wavesurfer.js - waveforms on the web. A simple Javascript/CSS solution for a drop-in replacement of the standard audio tag for more stylized audio playback]]></title>
-            <link>https://schollz.com/blog/waveforms/</link>
-            <guid>https://schollz.com/blog/waveforms/</guid>
-            <pubDate>Wed, 14 Apr 2021 13:46:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Slow and Steady: Converting Sentry’s Entire Frontend to TypeScript]]></title>
-            <link>https://blog.sentry.io/2021/04/12/slow-and-steady-converting-sentrys-entire-frontend-to-typescript</link>
-            <guid>https://blog.sentry.io/2021/04/12/slow-and-steady-converting-sentrys-entire-frontend-to-typescript</guid>
-            <pubDate>Tue, 13 Apr 2021 19:23:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[State Management Libraries Report Q1 2021]]></title>
-            <link>https://moiva.io/blog/2021-q1-report-state-management</link>
-            <guid>https://moiva.io/blog/2021-q1-report-state-management</guid>
-            <pubDate>Wed, 14 Apr 2021 12:24:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to make optimized tree shakeable libraries to improve your app's performance]]></title>
-            <link>https://blog.theodo.com/2021/04/library-tree-shaking/</link>
-            <guid>https://blog.theodo.com/2021/04/library-tree-shaking/</guid>
-            <pubDate>Wed, 14 Apr 2021 15:08:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WhatsApp Clone Progressive Web App]]></title>
-            <link>https://github.com/aladinyo/WhatsappyApp</link>
-            <guid>https://github.com/aladinyo/WhatsappyApp</guid>
-            <pubDate>Wed, 14 Apr 2021 20:09:06 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Fri, 16 Apr 2021 19:46:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Apr 2021 07:48:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,22 +21,46 @@
             <pubDate>Fri, 16 Apr 2021 18:08:38 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Linked List in Javascript — Circular, and Reversed List]]></title>
+            <link>https://beforesemicolon.medium.com/linked-list-in-javascript-circular-and-reversed-list-4376980f6568</link>
+            <guid>https://beforesemicolon.medium.com/linked-list-in-javascript-circular-and-reversed-list-4376980f6568</guid>
+            <pubDate>Sat, 17 Apr 2021 06:02:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[react-object-model: Object-oriented state management for react]]></title>
+            <link>https://github.com/ShenHongFei/react-object-model</link>
+            <guid>https://github.com/ShenHongFei/react-object-model</guid>
+            <pubDate>Sat, 17 Apr 2021 05:31:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SQLite database in React Native (Android)]]></title>
+            <link>https://studysection.com/blog/sqlite-database-in-react-native-android/</link>
+            <guid>https://studysection.com/blog/sqlite-database-in-react-native-android/</guid>
+            <pubDate>Sat, 17 Apr 2021 04:34:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[WinXP - Windows XP in React]]></title>
             <link>https://winxp.now.sh/</link>
             <guid>https://winxp.now.sh/</guid>
             <pubDate>Fri, 16 Apr 2021 15:23:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[About the need to create multiple .env files]]></title>
-            <link>https://create-react-app.dev/docs/adding-custom-environment-variables/</link>
-            <guid>https://create-react-app.dev/docs/adding-custom-environment-variables/</guid>
-            <pubDate>Fri, 16 Apr 2021 14:30:03 GMT</pubDate>
+            <title><![CDATA[Debounce Input for performing a query in `urql`]]></title>
+            <link>https://zillow.github.io/react-slider</link>
+            <guid>https://zillow.github.io/react-slider</guid>
+            <pubDate>Sat, 17 Apr 2021 01:33:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ToDo app i made while learning react]]></title>
-            <link>https://viktor111.github.io/todo-react-app/</link>
-            <guid>https://viktor111.github.io/todo-react-app/</guid>
-            <pubDate>Fri, 16 Apr 2021 19:26:03 GMT</pubDate>
+            <title><![CDATA[Typography.js installation workflow]]></title>
+            <link>https://kyleamathews.github.io/typography.js/</link>
+            <guid>https://kyleamathews.github.io/typography.js/</guid>
+            <pubDate>Fri, 16 Apr 2021 21:15:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ReactJS button onClick not working and I'm going insane]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Fri, 16 Apr 2021 20:17:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[macOS in Preact]]></title>
@@ -45,52 +69,10 @@
             <pubDate>Fri, 16 Apr 2021 15:22:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Introducing kairo.js - Reactive programming refined in three primitives, with frameworks integrations to write reactive webapp in one mental model]]></title>
-            <link>https://github.com/3shain/kairo</link>
-            <guid>https://github.com/3shain/kairo</guid>
-            <pubDate>Fri, 16 Apr 2021 18:54:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yet another task tracker for everyday use called Day Blueprint]]></title>
-            <link>https://github.com/BronzeCrab/day-blueprint-electron</link>
-            <guid>https://github.com/BronzeCrab/day-blueprint-electron</guid>
-            <pubDate>Fri, 16 Apr 2021 18:10:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I launched LazyI18n 2.0, an exceptionally easy way to lazy load translations in React. I'd love to hear your feedback.]]></title>
-            <link>https://github.com/CharlesStover/lazy-i18n</link>
-            <guid>https://github.com/CharlesStover/lazy-i18n</guid>
-            <pubDate>Thu, 15 Apr 2021 21:49:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Check out the QuizApp]]></title>
-            <link>https://github.com/SafdarJamal/quiz-app</link>
-            <guid>https://github.com/SafdarJamal/quiz-app</guid>
-            <pubDate>Fri, 16 Apr 2021 09:02:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to properly internationalize a React application using i18next]]></title>
-            <link>https://adrai.medium.com/how-to-properly-internationalize-a-react-application-using-i18next-e7eafa05b943</link>
-            <guid>https://adrai.medium.com/how-to-properly-internationalize-a-react-application-using-i18next-e7eafa05b943</guid>
-            <pubDate>Fri, 16 Apr 2021 12:19:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I made a JavaScript reference playlist consisting of only 1-2 minute videos]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Fri, 16 Apr 2021 15:58:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to REALLY handle mobile viewports....]]></title>
-            <link>https://torbet.co/subscribe</link>
-            <guid>https://torbet.co/subscribe</guid>
-            <pubDate>Fri, 16 Apr 2021 15:50:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Debounce Input for performing a query in `urql`]]></title>
-            <link>https://zillow.github.io/react-slider</link>
-            <guid>https://zillow.github.io/react-slider</guid>
-            <pubDate>Fri, 16 Apr 2021 11:34:18 GMT</pubDate>
+            <title><![CDATA[I rewrote my blog with Tailwind Css, thoughts?]]></title>
+            <link>https://nosleepjavascript.com/</link>
+            <guid>https://nosleepjavascript.com/</guid>
+            <pubDate>Fri, 16 Apr 2021 22:31:57 GMT</pubDate>
         </item>
     </channel>
 </rss>

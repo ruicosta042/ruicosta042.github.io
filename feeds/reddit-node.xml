@@ -4,15 +4,33 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Fri, 16 Apr 2021 19:46:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Apr 2021 07:48:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
+            <title><![CDATA[6 Ways to Create Objects in Javascript — Intro to Object & Prototype]]></title>
+            <link>https://link.medium.com/6jDC80Lqwfb</link>
+            <guid>https://link.medium.com/6jDC80Lqwfb</guid>
+            <pubDate>Sat, 17 Apr 2021 06:04:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Testing video stream cache algorithm in NodeJs.]]></title>
-            <link>https://stale-crab-12.loca.lt/</link>
-            <guid>https://stale-crab-12.loca.lt/</guid>
+            <link>http://simplefastvideostreamcache.glitch.me/</link>
+            <guid>http://simplefastvideostreamcache.glitch.me/</guid>
             <pubDate>Fri, 16 Apr 2021 14:03:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Problem with connection to database]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Sat, 17 Apr 2021 00:11:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Install Nodejs on Ubuntu]]></title>
+            <link>https://justwriteapps.com/install-nodejs-on-ubuntu</link>
+            <guid>https://justwriteapps.com/install-nodejs-on-ubuntu</guid>
+            <pubDate>Sat, 17 Apr 2021 04:00:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Node.js Starter Kit]]></title>
@@ -55,48 +73,6 @@
             <link>https://jwt.io/</link>
             <guid>https://jwt.io/</guid>
             <pubDate>Fri, 16 Apr 2021 04:21:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fnm: a fast and simple Node.js version manager]]></title>
-            <link>https://github.com/Schniz/fnm</link>
-            <guid>https://github.com/Schniz/fnm</guid>
-            <pubDate>Thu, 15 Apr 2021 16:53:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to create a tsconfig for node 14]]></title>
-            <link>https://justwriteapps.com/using-tsconfig-presets</link>
-            <guid>https://justwriteapps.com/using-tsconfig-presets</guid>
-            <pubDate>Fri, 16 Apr 2021 10:43:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10 Javascript Design Patterns To Improve Your Code With]]></title>
-            <link>https://link.medium.com/uz10Gl8btfb</link>
-            <guid>https://link.medium.com/uz10Gl8btfb</guid>
-            <pubDate>Thu, 15 Apr 2021 07:17:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Linked List in Javascript — Circular, and Reversed List]]></title>
-            <link>https://link.medium.com/90VpMbeKufb</link>
-            <guid>https://link.medium.com/90VpMbeKufb</guid>
-            <pubDate>Fri, 16 Apr 2021 05:42:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[getting console input doesn't wait]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Thu, 15 Apr 2021 16:38:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[One Port to Rule Them All]]></title>
-            <link>https://httptoolkit.tech/blog/http-https-same-port/</link>
-            <guid>https://httptoolkit.tech/blog/http-https-same-port/</guid>
-            <pubDate>Thu, 15 Apr 2021 16:50:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Simple socket.io app to share code/images between devices on the same network]]></title>
-            <link>https://www.npmjs.com/package/localnote</link>
-            <guid>https://www.npmjs.com/package/localnote</guid>
-            <pubDate>Thu, 15 Apr 2021 23:21:19 GMT</pubDate>
         </item>
     </channel>
 </rss>

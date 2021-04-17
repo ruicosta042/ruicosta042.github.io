@@ -4,15 +4,33 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Fri, 16 Apr 2021 19:46:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Apr 2021 07:48:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[I've been slowly working on making precise, responsive world flags using only div tags and CSS, no img tags. Here are some of the most challenging so far:]]></title>
+            <link>https://dkallen78.github.io/flags/asia/western-asia/georgia.html</link>
+            <guid>https://dkallen78.github.io/flags/asia/western-asia/georgia.html</guid>
+            <pubDate>Sat, 17 Apr 2021 03:58:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Conditional animations with CSS properties]]></title>
             <link>https://christianheilmann.com/2021/03/13/conditional-animation-with-css-properties/</link>
             <guid>https://christianheilmann.com/2021/03/13/conditional-animation-with-css-properties/</guid>
             <pubDate>Fri, 16 Apr 2021 12:25:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to fit Table inside DIV ?]]></title>
+            <link>https://fplnepal.com/listView/listView.php</link>
+            <guid>https://fplnepal.com/listView/listView.php</guid>
+            <pubDate>Sat, 17 Apr 2021 06:23:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Linked List in Javascript — Circular, and Reversed List]]></title>
+            <link>https://link.medium.com/90VpMbeKufb</link>
+            <guid>https://link.medium.com/90VpMbeKufb</guid>
+            <pubDate>Sat, 17 Apr 2021 06:03:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How can I achieve this effect (link in the post)?]]></title>
@@ -49,24 +67,6 @@
             <link>https://www.codeleaks.io/advanced-css-how-to-make-flexbox-animations-in-css/</link>
             <guid>https://www.codeleaks.io/advanced-css-how-to-make-flexbox-animations-in-css/</guid>
             <pubDate>Thu, 15 Apr 2021 10:38:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CSS Methodology & architecture]]></title>
-            <link>https://twitter.com/piccalilli_</link>
-            <guid>https://twitter.com/piccalilli_</guid>
-            <pubDate>Wed, 14 Apr 2021 11:52:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Say Hello To CSS Container Queries]]></title>
-            <link>https://ishadeed.com/article/say-hello-to-css-container-queries/</link>
-            <guid>https://ishadeed.com/article/say-hello-to-css-container-queries/</guid>
-            <pubDate>Tue, 13 Apr 2021 20:43:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fluid Space Calculator]]></title>
-            <link>https://utopia.fyi/space/calculator/</link>
-            <guid>https://utopia.fyi/space/calculator/</guid>
-            <pubDate>Wed, 14 Apr 2021 09:21:57 GMT</pubDate>
         </item>
     </channel>
 </rss>

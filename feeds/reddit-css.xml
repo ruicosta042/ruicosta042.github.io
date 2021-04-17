@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Sat, 17 Apr 2021 12:54:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Apr 2021 19:46:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -37,30 +37,6 @@
             <link>https://www.smashingmagazine.com/2021/04/css-overflow-issues/</link>
             <guid>https://www.smashingmagazine.com/2021/04/css-overflow-issues/</guid>
             <pubDate>Thu, 15 Apr 2021 14:51:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Display issues: Sidebar is displaying below the page content on certain pages. More details inside.]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Thu, 15 Apr 2021 16:26:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gaps? Gasp!]]></title>
-            <link>https://css-tricks.com/gaps-gasp/</link>
-            <guid>https://css-tricks.com/gaps-gasp/</guid>
-            <pubDate>Thu, 15 Apr 2021 14:48:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Advanced CSS: How to make Flexbox Animations in CSS?]]></title>
-            <link>https://www.codeleaks.io/advanced-css-how-to-make-flexbox-animations-in-css/</link>
-            <guid>https://www.codeleaks.io/advanced-css-how-to-make-flexbox-animations-in-css/</guid>
-            <pubDate>Thu, 15 Apr 2021 10:38:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CSS Methodology & architecture]]></title>
-            <link>https://twitter.com/piccalilli_</link>
-            <guid>https://twitter.com/piccalilli_</guid>
-            <pubDate>Wed, 14 Apr 2021 11:52:21 GMT</pubDate>
         </item>
     </channel>
 </rss>

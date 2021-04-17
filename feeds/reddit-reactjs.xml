@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sat, 17 Apr 2021 12:54:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Apr 2021 19:46:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,40 @@
             <pubDate>Thu, 01 Apr 2021 06:19:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Linked List in Javascript — Circular, and Reversed List]]></title>
-            <link>https://beforesemicolon.medium.com/linked-list-in-javascript-circular-and-reversed-list-4376980f6568</link>
-            <guid>https://beforesemicolon.medium.com/linked-list-in-javascript-circular-and-reversed-list-4376980f6568</guid>
-            <pubDate>Sat, 17 Apr 2021 06:02:50 GMT</pubDate>
+            <title><![CDATA[I created a tool with Next.js and Tailwind that allows you to version track your images like your code]]></title>
+            <link>https://www.sourcecompare.com/</link>
+            <guid>https://www.sourcecompare.com/</guid>
+            <pubDate>Sat, 17 Apr 2021 17:01:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I made Meme It So, a Star Trek TNG meme generator inspired by Frinkiac]]></title>
+            <link>https://memeit.so/</link>
+            <guid>https://memeit.so/</guid>
+            <pubDate>Sat, 17 Apr 2021 18:14:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pagination component using React]]></title>
+            <link>https://michalmuszynski.com/blog/pagination-component-in-react/</link>
+            <guid>https://michalmuszynski.com/blog/pagination-component-in-react/</guid>
+            <pubDate>Sat, 17 Apr 2021 19:39:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to pass input value from tsx file to js API loader file in a different directory?]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Sat, 17 Apr 2021 18:42:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React hooks and why should they get you “hooked” ?]]></title>
+            <link>https://mindaugasnakr.medium.com/react-hooks-and-why-should-they-get-you-hooked-43aead1c10a4</link>
+            <guid>https://mindaugasnakr.medium.com/react-hooks-and-why-should-they-get-you-hooked-43aead1c10a4</guid>
+            <pubDate>Sat, 17 Apr 2021 18:41:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How can I get my functions to wait until the one before has finished, before moving onto the next one?]]></title>
+            <link>https://item.name/</link>
+            <guid>https://item.name/</guid>
+            <pubDate>Sat, 17 Apr 2021 18:29:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Simple & dependency free store using custom hooks and observables]]></title>
@@ -33,46 +63,16 @@
             <pubDate>Fri, 16 Apr 2021 18:08:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[react-object-model: Object-oriented state management for react]]></title>
-            <link>https://github.com/ShenHongFei/react-object-model</link>
-            <guid>https://github.com/ShenHongFei/react-object-model</guid>
-            <pubDate>Sat, 17 Apr 2021 05:31:37 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[WinXP - Windows XP in React]]></title>
             <link>https://winxp.now.sh/</link>
             <guid>https://winxp.now.sh/</guid>
             <pubDate>Fri, 16 Apr 2021 15:23:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[SQLite database in React Native (Android)]]></title>
-            <link>https://studysection.com/blog/sqlite-database-in-react-native-android/</link>
-            <guid>https://studysection.com/blog/sqlite-database-in-react-native-android/</guid>
-            <pubDate>Sat, 17 Apr 2021 04:34:46 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[ReactJS button onClick not working and I'm going insane]]></title>
             <link>https://foo.com/</link>
             <guid>https://foo.com/</guid>
             <pubDate>Fri, 16 Apr 2021 20:17:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Debounce Input for performing a query in `urql`]]></title>
-            <link>https://zillow.github.io/react-slider</link>
-            <guid>https://zillow.github.io/react-slider</guid>
-            <pubDate>Sat, 17 Apr 2021 01:33:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Typography.js installation workflow]]></title>
-            <link>https://kyleamathews.github.io/typography.js/</link>
-            <guid>https://kyleamathews.github.io/typography.js/</guid>
-            <pubDate>Fri, 16 Apr 2021 21:15:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[macOS in Preact]]></title>
-            <link>https://macos.now.sh/</link>
-            <guid>https://macos.now.sh/</guid>
-            <pubDate>Fri, 16 Apr 2021 15:22:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

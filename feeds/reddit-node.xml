@@ -4,10 +4,22 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Sat, 17 Apr 2021 12:54:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Apr 2021 19:46:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Build a ChatApp with: (Nodejs,Socketio, Expressjs ,MongoDB) - free course from udemy]]></title>
+            <link>https://www.myfreeonlinecourses.com/2021/04/100-off-build-chatapp-with.html</link>
+            <guid>https://www.myfreeonlinecourses.com/2021/04/100-off-build-chatapp-with.html</guid>
+            <pubDate>Sat, 17 Apr 2021 18:16:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Performance trace recipes with Puppeteer]]></title>
+            <link>https://addyosmani.com/blog/puppeteer-recipes/</link>
+            <guid>https://addyosmani.com/blog/puppeteer-recipes/</guid>
+            <pubDate>Sat, 17 Apr 2021 14:19:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Testing video stream cache algorithm in NodeJs.]]></title>
             <link>http://simplefastvideostreamcache.glitch.me/</link>
@@ -37,12 +49,6 @@
             <link>https://justwriteapps.com/install-nodejs-on-ubuntu</link>
             <guid>https://justwriteapps.com/install-nodejs-on-ubuntu</guid>
             <pubDate>Sat, 17 Apr 2021 04:00:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Node.js Starter Kit]]></title>
-            <link>https://github.com/kriasoft/node-starter-kit</link>
-            <guid>https://github.com/kriasoft/node-starter-kit</guid>
-            <pubDate>Fri, 16 Apr 2021 10:11:15 GMT</pubDate>
         </item>
     </channel>
 </rss>

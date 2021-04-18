@@ -4,10 +4,22 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sat, 17 Apr 2021 19:46:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Apr 2021 07:48:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[I made a graphical JavaScript coding platform for kids and code newbies. The coding playground exposes a code editor and a canvas based area for output. The runtime is based on p5.js and p5.play. Please let me know your feedback if you get the chance to check it.]]></title>
+            <link>https://codeguppy.com/</link>
+            <guid>https://codeguppy.com/</guid>
+            <pubDate>Sat, 17 Apr 2021 16:54:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Writing Effective Tests for Modern Web Apps]]></title>
+            <link>https://caleb89taylor.medium.com/writing-effective-tests-for-modern-web-apps-48a69e34f06b</link>
+            <guid>https://caleb89taylor.medium.com/writing-effective-tests-for-modern-web-apps-48a69e34f06b</guid>
+            <pubDate>Sun, 18 Apr 2021 01:50:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Performance trace recipes with Puppeteer]]></title>
             <link>https://addyosmani.com/blog/puppeteer-recipes/</link>
@@ -19,6 +31,30 @@
             <link>https://dev.to/daltonfury42/my-first-attempt-at-micro-saas-suggestions-and-feedback-please-4cf6</link>
             <guid>https://dev.to/daltonfury42/my-first-attempt-at-micro-saas-suggestions-and-feedback-please-4cf6</guid>
             <pubDate>Sat, 17 Apr 2021 11:53:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lazy Loading with React & Intersection Observer API.]]></title>
+            <link>https://dev.to/anxinyang/easy-lazy-loading-with-react-intersection-observer-api-1dll</link>
+            <guid>https://dev.to/anxinyang/easy-lazy-loading-with-react-intersection-observer-api-1dll</guid>
+            <pubDate>Sun, 18 Apr 2021 06:57:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Swagger-stats is on the path to 1.0 release!]]></title>
+            <link>https://github.com/slanatech/swagger-stats/discussions/135</link>
+            <guid>https://github.com/slanatech/swagger-stats/discussions/135</guid>
+            <pubDate>Sat, 17 Apr 2021 17:27:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An open-source NodeJS solution to keep Github and Jira issues in sync]]></title>
+            <link>https://github.com/marcelovicentegc/octosync</link>
+            <guid>https://github.com/marcelovicentegc/octosync</guid>
+            <pubDate>Sat, 17 Apr 2021 20:04:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Detecting browser support for lazyload on images and iframes]]></title>
+            <link>https://github.com/scott-little/lazyload#detecting-lazyload-support</link>
+            <guid>https://github.com/scott-little/lazyload#detecting-lazyload-support</guid>
+            <pubDate>Sat, 17 Apr 2021 17:36:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Here is my experiment with Svelte and 3D CSS. It was super fun!]]></title>
@@ -33,10 +69,10 @@
             <pubDate>Sat, 17 Apr 2021 06:09:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I made a graphical JavaScript coding platform for kids and code newbies. The coding playground exposes a code editor and a canvas based area for output. The runtime is based on p5.js and p5.play. Please let me know your feedback if you get the chance to check it.]]></title>
-            <link>https://codeguppy.com/</link>
-            <guid>https://codeguppy.com/</guid>
-            <pubDate>Sat, 17 Apr 2021 16:54:08 GMT</pubDate>
+            <title><![CDATA[React hooks and why should they get you “hooked” ?]]></title>
+            <link>https://mindaugasnakr.medium.com/react-hooks-and-why-should-they-get-you-hooked-43aead1c10a4</link>
+            <guid>https://mindaugasnakr.medium.com/react-hooks-and-why-should-they-get-you-hooked-43aead1c10a4</guid>
+            <pubDate>Sat, 17 Apr 2021 18:43:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[QUIC and HTTP/3 Support now in Firefox Nightly and Beta]]></title>
@@ -45,28 +81,10 @@
             <pubDate>Fri, 16 Apr 2021 20:18:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Detecting browser support for lazyload on images and iframes]]></title>
-            <link>https://github.com/scott-little/lazyload#detecting-lazyload-support</link>
-            <guid>https://github.com/scott-little/lazyload#detecting-lazyload-support</guid>
-            <pubDate>Sat, 17 Apr 2021 17:36:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Swagger-stats is on the path to 1.0 release!]]></title>
-            <link>https://github.com/slanatech/swagger-stats/discussions/135</link>
-            <guid>https://github.com/slanatech/swagger-stats/discussions/135</guid>
-            <pubDate>Sat, 17 Apr 2021 17:27:26 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[akmittal/dash-tv-web Watch 5000+ publically available channels]]></title>
             <link>https://github.com/akmittal/dash-tv-web</link>
             <guid>https://github.com/akmittal/dash-tv-web</guid>
             <pubDate>Sat, 17 Apr 2021 07:22:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React hooks and why should they get you “hooked” ?]]></title>
-            <link>https://mindaugasnakr.medium.com/react-hooks-and-why-should-they-get-you-hooked-43aead1c10a4</link>
-            <guid>https://mindaugasnakr.medium.com/react-hooks-and-why-should-they-get-you-hooked-43aead1c10a4</guid>
-            <pubDate>Sat, 17 Apr 2021 18:43:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[JavaScript library to efficiently mutate data without changing the original source]]></title>
@@ -81,16 +99,16 @@
             <pubDate>Fri, 16 Apr 2021 16:01:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A simple file viewer app made with Neutralinojs (as a demo of Neutralinojs)]]></title>
-            <link>https://github.com/shalithasuranga/liteman</link>
-            <guid>https://github.com/shalithasuranga/liteman</guid>
-            <pubDate>Sat, 17 Apr 2021 10:49:28 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The shortest way to conditionally insert properties into an object literal]]></title>
             <link>https://andreasimonecosta.dev/posts/the-shortest-way-to-conditionally-insert-properties-into-an-object-literal/</link>
             <guid>https://andreasimonecosta.dev/posts/the-shortest-way-to-conditionally-insert-properties-into-an-object-literal/</guid>
             <pubDate>Fri, 16 Apr 2021 09:42:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A simple file viewer app made with Neutralinojs (as a demo of Neutralinojs)]]></title>
+            <link>https://github.com/shalithasuranga/liteman</link>
+            <guid>https://github.com/shalithasuranga/liteman</guid>
+            <pubDate>Sat, 17 Apr 2021 10:49:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I rewrote my blog with Tailwind Css, thoughts?]]></title>
@@ -133,24 +151,6 @@
             <link>https://github.com/3Shain/kairo</link>
             <guid>https://github.com/3Shain/kairo</guid>
             <pubDate>Fri, 16 Apr 2021 14:29:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why you should not use Webpack]]></title>
-            <link>https://asyncbanana.medium.com/why-you-should-not-use-webpack-f07f4fd7c116</link>
-            <guid>https://asyncbanana.medium.com/why-you-should-not-use-webpack-f07f4fd7c116</guid>
-            <pubDate>Fri, 16 Apr 2021 19:27:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Some time ago I wrote an article about microfrontends, but put it behind Medium paywall by accident - now it's free to read.]]></title>
-            <link>https://medium.com/jit-team/microfrontends-should-i-care-12b871f70fa3</link>
-            <guid>https://medium.com/jit-team/microfrontends-should-i-care-12b871f70fa3</guid>
-            <pubDate>Thu, 15 Apr 2021 11:22:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Storybook addons for CSS]]></title>
-            <link>https://storybook.js.org/blog/storybook-addons-for-css/</link>
-            <guid>https://storybook.js.org/blog/storybook-addons-for-css/</guid>
-            <pubDate>Thu, 15 Apr 2021 16:16:12 GMT</pubDate>
         </item>
     </channel>
 </rss>

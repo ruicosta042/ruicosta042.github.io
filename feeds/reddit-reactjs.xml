@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sat, 17 Apr 2021 19:46:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Apr 2021 07:48:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,10 +21,34 @@
             <pubDate>Sat, 17 Apr 2021 17:01:17 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[reactChartjs2 Doughnut overwriting state]]></title>
+            <link>https://jsfiddle.net/wetd1a42/23/</link>
+            <guid>https://jsfiddle.net/wetd1a42/23/</guid>
+            <pubDate>Sun, 18 Apr 2021 05:47:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Load More Pagination using Prisma, Urql & React?]]></title>
+            <link>https://blog.logrocket.com/pagination-in-graphql-with-prisma-the-right-way/</link>
+            <guid>https://blog.logrocket.com/pagination-in-graphql-with-prisma-the-right-way/</guid>
+            <pubDate>Sun, 18 Apr 2021 04:34:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to create React Micro Frontends from scratch using single-spa framework]]></title>
+            <link>https://medium.com/litslink/how-to-create-react-micro-frontends-from-scratch-using-single-spa-framework-in-examples-592c7f63bedf</link>
+            <guid>https://medium.com/litslink/how-to-create-react-micro-frontends-from-scratch-using-single-spa-framework-in-examples-592c7f63bedf</guid>
+            <pubDate>Sun, 18 Apr 2021 01:56:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I made Meme It So, a Star Trek TNG meme generator inspired by Frinkiac]]></title>
             <link>https://memeit.so/</link>
             <guid>https://memeit.so/</guid>
             <pubDate>Sat, 17 Apr 2021 18:14:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In need of some serious help!]]></title>
+            <link>https://secretgarden.fm/</link>
+            <guid>https://secretgarden.fm/</guid>
+            <pubDate>Sat, 17 Apr 2021 21:58:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pagination component using React]]></title>
@@ -55,24 +79,6 @@
             <link>https://reactjs.org/docs/hooks-custom.html</link>
             <guid>https://reactjs.org/docs/hooks-custom.html</guid>
             <pubDate>Sat, 17 Apr 2021 12:29:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React Suspense working in SSR with Vite]]></title>
-            <link>https://github.com/stolinski/react-suspense-vite-ssr</link>
-            <guid>https://github.com/stolinski/react-suspense-vite-ssr</guid>
-            <pubDate>Fri, 16 Apr 2021 18:08:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WinXP - Windows XP in React]]></title>
-            <link>https://winxp.now.sh/</link>
-            <guid>https://winxp.now.sh/</guid>
-            <pubDate>Fri, 16 Apr 2021 15:23:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ReactJS button onClick not working and I'm going insane]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Fri, 16 Apr 2021 20:17:28 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,15 +4,27 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Sat, 17 Apr 2021 19:46:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Apr 2021 07:48:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Created an open-source solution to keep Github and Jira issues in sync]]></title>
+            <link>https://github.com/marcelovicentegc/octosync</link>
+            <guid>https://github.com/marcelovicentegc/octosync</guid>
+            <pubDate>Sat, 17 Apr 2021 19:59:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Build a ChatApp with: (Nodejs,Socketio, Expressjs ,MongoDB) - free course from udemy]]></title>
             <link>https://www.myfreeonlinecourses.com/2021/04/100-off-build-chatapp-with.html</link>
             <guid>https://www.myfreeonlinecourses.com/2021/04/100-off-build-chatapp-with.html</guid>
             <pubDate>Sat, 17 Apr 2021 18:16:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Express.js With Typescript Decorators in Examples]]></title>
+            <link>https://medium.com/litslink/express-js-with-typescript-decorators-in-examples-5f82223159c1</link>
+            <guid>https://medium.com/litslink/express-js-with-typescript-decorators-in-examples-5f82223159c1</guid>
+            <pubDate>Sun, 18 Apr 2021 01:49:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Performance trace recipes with Puppeteer]]></title>
@@ -21,16 +33,16 @@
             <pubDate>Sat, 17 Apr 2021 14:19:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Testing video stream cache algorithm in NodeJs.]]></title>
-            <link>http://simplefastvideostreamcache.glitch.me/</link>
-            <guid>http://simplefastvideostreamcache.glitch.me/</guid>
-            <pubDate>Fri, 16 Apr 2021 14:03:10 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Need feedback: Twitter clone app with Typetron]]></title>
             <link>https://github.com/typetron/example-twitter-clone</link>
             <guid>https://github.com/typetron/example-twitter-clone</guid>
             <pubDate>Sat, 17 Apr 2021 08:43:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Testing video stream cache algorithm in NodeJs.]]></title>
+            <link>http://simplefastvideostreamcache.glitch.me/</link>
+            <guid>http://simplefastvideostreamcache.glitch.me/</guid>
+            <pubDate>Fri, 16 Apr 2021 14:03:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[6 Ways to Create Objects in Javascript — Intro to Object & Prototype]]></title>
@@ -43,12 +55,6 @@
             <link>https://foo.com/</link>
             <guid>https://foo.com/</guid>
             <pubDate>Sat, 17 Apr 2021 00:11:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Install Nodejs on Ubuntu]]></title>
-            <link>https://justwriteapps.com/install-nodejs-on-ubuntu</link>
-            <guid>https://justwriteapps.com/install-nodejs-on-ubuntu</guid>
-            <pubDate>Sat, 17 Apr 2021 04:00:05 GMT</pubDate>
         </item>
     </channel>
 </rss>

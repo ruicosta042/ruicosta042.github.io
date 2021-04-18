@@ -4,15 +4,33 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Sat, 17 Apr 2021 19:46:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Apr 2021 07:48:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Tooltip with CSS Article]]></title>
+            <link>https://link.medium.com/tUstMTXAxfb</link>
+            <guid>https://link.medium.com/tUstMTXAxfb</guid>
+            <pubDate>Sat, 17 Apr 2021 23:04:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CSS easing gradients generator recommendation]]></title>
+            <link>https://larsenwork.com/easing-gradients/</link>
+            <guid>https://larsenwork.com/easing-gradients/</guid>
+            <pubDate>Sun, 18 Apr 2021 02:45:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I've been slowly working on making precise, responsive world flags using only div tags and CSS, no img tags. Here are some of the most challenging so far:]]></title>
             <link>https://dkallen78.github.io/flags/asia/western-asia/georgia.html</link>
             <guid>https://dkallen78.github.io/flags/asia/western-asia/georgia.html</guid>
             <pubDate>Sat, 17 Apr 2021 03:58:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why is justify-content working wrong here?]]></title>
+            <link>https://css-tricks.com/a-quick-way-to-remember-difference-between-justify-content-align-items/</link>
+            <guid>https://css-tricks.com/a-quick-way-to-remember-difference-between-justify-content-align-items/</guid>
+            <pubDate>Sat, 17 Apr 2021 21:17:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Conditional animations with CSS properties]]></title>
@@ -31,12 +49,6 @@
             <link>https://markodenic.com/css-generators/</link>
             <guid>https://markodenic.com/css-generators/</guid>
             <pubDate>Thu, 15 Apr 2021 14:43:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Overflow Issues In CSS]]></title>
-            <link>https://www.smashingmagazine.com/2021/04/css-overflow-issues/</link>
-            <guid>https://www.smashingmagazine.com/2021/04/css-overflow-issues/</guid>
-            <pubDate>Thu, 15 Apr 2021 14:51:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

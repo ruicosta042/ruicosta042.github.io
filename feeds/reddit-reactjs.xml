@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sun, 18 Apr 2021 07:48:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Apr 2021 12:54:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,12 @@
             <link>https://jsfiddle.net/Luktwrdm/</link>
             <guid>https://jsfiddle.net/Luktwrdm/</guid>
             <pubDate>Thu, 01 Apr 2021 06:19:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My Ubuntu 20.04 portfolio website made with react]]></title>
+            <link>https://twitter.com/ubuntu/status/1383033647805177857</link>
+            <guid>https://twitter.com/ubuntu/status/1383033647805177857</guid>
+            <pubDate>Sun, 18 Apr 2021 12:05:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I created a tool with Next.js and Tailwind that allows you to version track your images like your code]]></title>
@@ -45,40 +51,16 @@
             <pubDate>Sat, 17 Apr 2021 18:14:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[In need of some serious help!]]></title>
-            <link>https://secretgarden.fm/</link>
-            <guid>https://secretgarden.fm/</guid>
-            <pubDate>Sat, 17 Apr 2021 21:58:11 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Pagination component using React]]></title>
             <link>https://michalmuszynski.com/blog/pagination-component-in-react/</link>
             <guid>https://michalmuszynski.com/blog/pagination-component-in-react/</guid>
             <pubDate>Sat, 17 Apr 2021 19:39:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to pass input value from tsx file to js API loader file in a different directory?]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Sat, 17 Apr 2021 18:42:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React hooks and why should they get you “hooked” ?]]></title>
-            <link>https://mindaugasnakr.medium.com/react-hooks-and-why-should-they-get-you-hooked-43aead1c10a4</link>
-            <guid>https://mindaugasnakr.medium.com/react-hooks-and-why-should-they-get-you-hooked-43aead1c10a4</guid>
-            <pubDate>Sat, 17 Apr 2021 18:41:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How can I get my functions to wait until the one before has finished, before moving onto the next one?]]></title>
-            <link>https://item.name/</link>
-            <guid>https://item.name/</guid>
-            <pubDate>Sat, 17 Apr 2021 18:29:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Simple & dependency free store using custom hooks and observables]]></title>
-            <link>https://reactjs.org/docs/hooks-custom.html</link>
-            <guid>https://reactjs.org/docs/hooks-custom.html</guid>
-            <pubDate>Sat, 17 Apr 2021 12:29:55 GMT</pubDate>
+            <title><![CDATA[In need of some serious help!]]></title>
+            <link>https://secretgarden.fm/</link>
+            <guid>https://secretgarden.fm/</guid>
+            <pubDate>Sat, 17 Apr 2021 21:58:11 GMT</pubDate>
         </item>
     </channel>
 </rss>

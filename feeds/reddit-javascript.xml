@@ -4,10 +4,16 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sun, 18 Apr 2021 07:48:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Apr 2021 12:54:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Writing Effective Tests for Modern Web Apps]]></title>
+            <link>https://caleb89taylor.medium.com/writing-effective-tests-for-modern-web-apps-48a69e34f06b</link>
+            <guid>https://caleb89taylor.medium.com/writing-effective-tests-for-modern-web-apps-48a69e34f06b</guid>
+            <pubDate>Sun, 18 Apr 2021 01:50:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I made a graphical JavaScript coding platform for kids and code newbies. The coding playground exposes a code editor and a canvas based area for output. The runtime is based on p5.js and p5.play. Please let me know your feedback if you get the chance to check it.]]></title>
             <link>https://codeguppy.com/</link>
@@ -15,10 +21,16 @@
             <pubDate>Sat, 17 Apr 2021 16:54:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Writing Effective Tests for Modern Web Apps]]></title>
-            <link>https://caleb89taylor.medium.com/writing-effective-tests-for-modern-web-apps-48a69e34f06b</link>
-            <guid>https://caleb89taylor.medium.com/writing-effective-tests-for-modern-web-apps-48a69e34f06b</guid>
-            <pubDate>Sun, 18 Apr 2021 01:50:51 GMT</pubDate>
+            <title><![CDATA[Lazy Loading with React & Intersection Observer API.]]></title>
+            <link>https://dev.to/anxinyang/easy-lazy-loading-with-react-intersection-observer-api-1dll</link>
+            <guid>https://dev.to/anxinyang/easy-lazy-loading-with-react-intersection-observer-api-1dll</guid>
+            <pubDate>Sun, 18 Apr 2021 06:57:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I turned a ThreeJS example into a game!]]></title>
+            <link>https://cubecolouringgame.netlify.app/</link>
+            <guid>https://cubecolouringgame.netlify.app/</guid>
+            <pubDate>Sun, 18 Apr 2021 07:54:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Performance trace recipes with Puppeteer]]></title>
@@ -33,10 +45,10 @@
             <pubDate>Sat, 17 Apr 2021 11:53:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lazy Loading with React & Intersection Observer API.]]></title>
-            <link>https://dev.to/anxinyang/easy-lazy-loading-with-react-intersection-observer-api-1dll</link>
-            <guid>https://dev.to/anxinyang/easy-lazy-loading-with-react-intersection-observer-api-1dll</guid>
-            <pubDate>Sun, 18 Apr 2021 06:57:19 GMT</pubDate>
+            <title><![CDATA[The shortest way to conditionally insert properties into an object literal]]></title>
+            <link>https://andreasimonecosta.dev/posts/the-shortest-way-to-conditionally-insert-properties-into-an-object-literal/</link>
+            <guid>https://andreasimonecosta.dev/posts/the-shortest-way-to-conditionally-insert-properties-into-an-object-literal/</guid>
+            <pubDate>Sun, 18 Apr 2021 09:02:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Swagger-stats is on the path to 1.0 release!]]></title>
@@ -69,12 +81,6 @@
             <pubDate>Sat, 17 Apr 2021 06:09:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React hooks and why should they get you “hooked” ?]]></title>
-            <link>https://mindaugasnakr.medium.com/react-hooks-and-why-should-they-get-you-hooked-43aead1c10a4</link>
-            <guid>https://mindaugasnakr.medium.com/react-hooks-and-why-should-they-get-you-hooked-43aead1c10a4</guid>
-            <pubDate>Sat, 17 Apr 2021 18:43:04 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[QUIC and HTTP/3 Support now in Firefox Nightly and Beta]]></title>
             <link>https://hacks.mozilla.org/2021/04/quic-and-http-3-support-now-in-firefox-nightly-and-beta/</link>
             <guid>https://hacks.mozilla.org/2021/04/quic-and-http-3-support-now-in-firefox-nightly-and-beta/</guid>
@@ -87,10 +93,10 @@
             <pubDate>Sat, 17 Apr 2021 07:22:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[JavaScript library to efficiently mutate data without changing the original source]]></title>
-            <link>https://github.com/kolodny/immutability-helper</link>
-            <guid>https://github.com/kolodny/immutability-helper</guid>
-            <pubDate>Sat, 17 Apr 2021 18:05:07 GMT</pubDate>
+            <title><![CDATA[React hooks and why should they get you “hooked” ?]]></title>
+            <link>https://mindaugasnakr.medium.com/react-hooks-and-why-should-they-get-you-hooked-43aead1c10a4</link>
+            <guid>https://mindaugasnakr.medium.com/react-hooks-and-why-should-they-get-you-hooked-43aead1c10a4</guid>
+            <pubDate>Sat, 17 Apr 2021 18:43:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Content-aware image resizing in JavaScript]]></title>
@@ -109,6 +115,12 @@
             <link>https://github.com/shalithasuranga/liteman</link>
             <guid>https://github.com/shalithasuranga/liteman</guid>
             <pubDate>Sat, 17 Apr 2021 10:49:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[JavaScript library to efficiently mutate data without changing the original source]]></title>
+            <link>https://github.com/kolodny/immutability-helper</link>
+            <guid>https://github.com/kolodny/immutability-helper</guid>
+            <pubDate>Sat, 17 Apr 2021 18:05:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I rewrote my blog with Tailwind Css, thoughts?]]></title>
@@ -139,18 +151,6 @@
             <link>https://dev.to/cihat/helpful-content-when-memorizing-english-words-17hd</link>
             <guid>https://dev.to/cihat/helpful-content-when-memorizing-english-words-17hd</guid>
             <pubDate>Fri, 16 Apr 2021 20:15:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Typestates Would Have Saved the Roman Republic]]></title>
-            <link>https://blog.yoavlavi.com/state-machines-would-have-saved-the-roman-republic/</link>
-            <guid>https://blog.yoavlavi.com/state-machines-would-have-saved-the-roman-republic/</guid>
-            <pubDate>Fri, 16 Apr 2021 09:21:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introducing kairo.js - Reactive programming refined in three primitives, with frameworks integrations to write reactive webapp in one mental model]]></title>
-            <link>https://github.com/3Shain/kairo</link>
-            <guid>https://github.com/3Shain/kairo</guid>
-            <pubDate>Fri, 16 Apr 2021 14:29:37 GMT</pubDate>
         </item>
     </channel>
 </rss>

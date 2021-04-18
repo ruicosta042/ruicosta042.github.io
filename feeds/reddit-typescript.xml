@@ -4,7 +4,7 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Sun, 18 Apr 2021 07:48:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Apr 2021 12:54:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -24,13 +24,19 @@
             <title><![CDATA[BLOG: Setup Express in TypeScript with Node.js]]></title>
             <link>https://itnext.io/setup-express-in-typescript-with-node-js-ffa3da038fc1</link>
             <guid>https://itnext.io/setup-express-in-typescript-with-node-js-ffa3da038fc1</guid>
-            <pubDate>Sun, 18 Apr 2021 07:30:52 GMT</pubDate>
+            <pubDate>Sun, 18 Apr 2021 07:49:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Express.js With Typescript Decorators in Examples]]></title>
             <link>https://medium.com/litslink/express-js-with-typescript-decorators-in-examples-5f82223159c1</link>
             <guid>https://medium.com/litslink/express-js-with-typescript-decorators-in-examples-5f82223159c1</guid>
             <pubDate>Sun, 18 Apr 2021 01:53:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BLOG: Setup Express in TypeScript with Node.js]]></title>
+            <link>https://itnext.io/setup-express-in-typescript-with-node-js-ffa3da038fc1</link>
+            <guid>https://itnext.io/setup-express-in-typescript-with-node-js-ffa3da038fc1</guid>
+            <pubDate>Sun, 18 Apr 2021 07:30:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Understanding TypeScript Decorators]]></title>
@@ -97,18 +103,6 @@
             <link>https://github.com/garronej/ts_ci</link>
             <guid>https://github.com/garronej/ts_ci</guid>
             <pubDate>Tue, 13 Apr 2021 14:45:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Node.js - Foal framework - version 2.0 release - JWT with cookies, stateless CSRF protection, JWT with RSA keys]]></title>
-            <link>https://foalts.org/blog/2021/03/11/whats-new-in-version-2-part-3</link>
-            <guid>https://foalts.org/blog/2021/03/11/whats-new-in-version-2-part-3</guid>
-            <pubDate>Tue, 13 Apr 2021 07:26:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TypeScript reached 70k stars on GitHub]]></title>
-            <link>https://twitter.com/github_tracker/status/1381528821464174597?s=20</link>
-            <guid>https://twitter.com/github_tracker/status/1381528821464174597?s=20</guid>
-            <pubDate>Mon, 12 Apr 2021 09:10:41 GMT</pubDate>
         </item>
     </channel>
 </rss>

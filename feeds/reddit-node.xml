@@ -4,14 +4,14 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Sun, 18 Apr 2021 12:54:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Apr 2021 19:46:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
             <title><![CDATA[Planning to create a full-stack open source project]]></title>
-            <link>https://github.com/gobeam</link>
-            <guid>https://github.com/gobeam</guid>
+            <link>https://strapi.io/</link>
+            <guid>https://strapi.io/</guid>
             <pubDate>Sun, 18 Apr 2021 11:03:51 GMT</pubDate>
         </item>
         <item>
@@ -43,24 +43,6 @@
             <link>https://github.com/typetron/example-twitter-clone</link>
             <guid>https://github.com/typetron/example-twitter-clone</guid>
             <pubDate>Sat, 17 Apr 2021 08:43:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Testing video stream cache algorithm in NodeJs.]]></title>
-            <link>http://simplefastvideostreamcache.glitch.me/</link>
-            <guid>http://simplefastvideostreamcache.glitch.me/</guid>
-            <pubDate>Fri, 16 Apr 2021 14:03:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[6 Ways to Create Objects in Javascript — Intro to Object & Prototype]]></title>
-            <link>https://link.medium.com/6jDC80Lqwfb</link>
-            <guid>https://link.medium.com/6jDC80Lqwfb</guid>
-            <pubDate>Sat, 17 Apr 2021 06:04:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Problem with connection to database]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Sat, 17 Apr 2021 00:11:15 GMT</pubDate>
         </item>
     </channel>
 </rss>

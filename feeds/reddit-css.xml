@@ -4,10 +4,16 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Sun, 18 Apr 2021 12:54:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Apr 2021 19:46:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Why transition isn't working for a tags ? (Even they are display : block)]]></title>
+            <link>https://jsfiddle.net/3aluw/5320Lmus/4/</link>
+            <guid>https://jsfiddle.net/3aluw/5320Lmus/4/</guid>
+            <pubDate>Sun, 18 Apr 2021 14:26:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tooltip with CSS Article]]></title>
             <link>https://link.medium.com/tUstMTXAxfb</link>

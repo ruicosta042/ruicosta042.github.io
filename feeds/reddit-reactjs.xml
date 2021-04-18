@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sun, 18 Apr 2021 12:54:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Apr 2021 19:46:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,10 @@
             <pubDate>Thu, 01 Apr 2021 06:19:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[My Ubuntu 20.04 portfolio website made with react]]></title>
-            <link>https://twitter.com/ubuntu/status/1383033647805177857</link>
-            <guid>https://twitter.com/ubuntu/status/1383033647805177857</guid>
-            <pubDate>Sun, 18 Apr 2021 12:05:14 GMT</pubDate>
+            <title><![CDATA[To learn functional components and custom hooks, I wrote a mobile-friendly Carousel component with support for touch, mouse dragging, lazy loading, thumbnails, fullscreen, keyboard navigation and RTL.]]></title>
+            <link>https://github.com/yifaneye/react-gallery-carousel</link>
+            <guid>https://github.com/yifaneye/react-gallery-carousel</guid>
+            <pubDate>Sun, 18 Apr 2021 14:14:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I created a tool with Next.js and Tailwind that allows you to version track your images like your code]]></title>
@@ -27,40 +27,34 @@
             <pubDate>Sat, 17 Apr 2021 17:01:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[reactChartjs2 Doughnut overwriting state]]></title>
-            <link>https://jsfiddle.net/wetd1a42/23/</link>
-            <guid>https://jsfiddle.net/wetd1a42/23/</guid>
-            <pubDate>Sun, 18 Apr 2021 05:47:19 GMT</pubDate>
+            <title><![CDATA[Automatically create mock JSON endpoint]]></title>
+            <link>https://the-mock-json-api.herokuapp.com/</link>
+            <guid>https://the-mock-json-api.herokuapp.com/</guid>
+            <pubDate>Sun, 18 Apr 2021 17:36:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Load More Pagination using Prisma, Urql & React?]]></title>
-            <link>https://blog.logrocket.com/pagination-in-graphql-with-prisma-the-right-way/</link>
-            <guid>https://blog.logrocket.com/pagination-in-graphql-with-prisma-the-right-way/</guid>
-            <pubDate>Sun, 18 Apr 2021 04:34:57 GMT</pubDate>
+            <title><![CDATA[Note taking web app]]></title>
+            <link>https://www.biblegateway.com/passage/?search=James+1&amp;version=NIV%C2%A0</link>
+            <guid>https://www.biblegateway.com/passage/?search=James+1&amp;version=NIV%C2%A0</guid>
+            <pubDate>Sun, 18 Apr 2021 17:47:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to create React Micro Frontends from scratch using single-spa framework]]></title>
-            <link>https://medium.com/litslink/how-to-create-react-micro-frontends-from-scratch-using-single-spa-framework-in-examples-592c7f63bedf</link>
-            <guid>https://medium.com/litslink/how-to-create-react-micro-frontends-from-scratch-using-single-spa-framework-in-examples-592c7f63bedf</guid>
-            <pubDate>Sun, 18 Apr 2021 01:56:44 GMT</pubDate>
+            <title><![CDATA[Custom Modal not rendering in Reactjs]]></title>
+            <link>https://www.npmjs.com/package/reactjs-popup</link>
+            <guid>https://www.npmjs.com/package/reactjs-popup</guid>
+            <pubDate>Sun, 18 Apr 2021 17:32:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I made Meme It So, a Star Trek TNG meme generator inspired by Frinkiac]]></title>
-            <link>https://memeit.so/</link>
-            <guid>https://memeit.so/</guid>
-            <pubDate>Sat, 17 Apr 2021 18:14:32 GMT</pubDate>
+            <title><![CDATA[React library for easy popups]]></title>
+            <link>https://github.com/aidanjw1/react-hook-popup</link>
+            <guid>https://github.com/aidanjw1/react-hook-popup</guid>
+            <pubDate>Sun, 18 Apr 2021 17:11:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pagination component using React]]></title>
-            <link>https://michalmuszynski.com/blog/pagination-component-in-react/</link>
-            <guid>https://michalmuszynski.com/blog/pagination-component-in-react/</guid>
-            <pubDate>Sat, 17 Apr 2021 19:39:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In need of some serious help!]]></title>
-            <link>https://secretgarden.fm/</link>
-            <guid>https://secretgarden.fm/</guid>
-            <pubDate>Sat, 17 Apr 2021 21:58:11 GMT</pubDate>
+            <title><![CDATA[Web based database GUI built in React / RTK]]></title>
+            <link>https://aidmin.io/</link>
+            <guid>https://aidmin.io/</guid>
+            <pubDate>Sun, 18 Apr 2021 16:40:01 GMT</pubDate>
         </item>
     </channel>
 </rss>

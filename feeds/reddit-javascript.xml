@@ -4,10 +4,16 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sun, 18 Apr 2021 12:54:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Apr 2021 19:46:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[To master JS events and DOM manipulation, I wrote a mobile-friendly detail-oriented Carousel component with support for touch, mouse dragging, lazy loading, thumbnails and RTL using React.]]></title>
+            <link>https://github.com/yifaneye/react-gallery-carousel</link>
+            <guid>https://github.com/yifaneye/react-gallery-carousel</guid>
+            <pubDate>Sun, 18 Apr 2021 14:25:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Writing Effective Tests for Modern Web Apps]]></title>
             <link>https://caleb89taylor.medium.com/writing-effective-tests-for-modern-web-apps-48a69e34f06b</link>
@@ -15,10 +21,10 @@
             <pubDate>Sun, 18 Apr 2021 01:50:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I made a graphical JavaScript coding platform for kids and code newbies. The coding playground exposes a code editor and a canvas based area for output. The runtime is based on p5.js and p5.play. Please let me know your feedback if you get the chance to check it.]]></title>
-            <link>https://codeguppy.com/</link>
-            <guid>https://codeguppy.com/</guid>
-            <pubDate>Sat, 17 Apr 2021 16:54:08 GMT</pubDate>
+            <title><![CDATA[Tilt.js - Lightweight parallax hover tilt effect]]></title>
+            <link>https://jsitor.com/ma74Z5uAt</link>
+            <guid>https://jsitor.com/ma74Z5uAt</guid>
+            <pubDate>Sun, 18 Apr 2021 13:55:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lazy Loading with React & Intersection Observer API.]]></title>
@@ -27,10 +33,34 @@
             <pubDate>Sun, 18 Apr 2021 06:57:19 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Anime.js Staggering Effect - JSitor]]></title>
+            <link>https://jsitor.com/vJQ0k2vgO</link>
+            <guid>https://jsitor.com/vJQ0k2vgO</guid>
+            <pubDate>Sun, 18 Apr 2021 16:38:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AskJS] Need help with a code challenge about Promises]]></title>
+            <link>https://jsbin.com/pefagis/edit?html,js,output</link>
+            <guid>https://jsbin.com/pefagis/edit?html,js,output</guid>
+            <pubDate>Sun, 18 Apr 2021 16:54:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I made a graphical JavaScript coding platform for kids and code newbies. The coding playground exposes a code editor and a canvas based area for output. The runtime is based on p5.js and p5.play. Please let me know your feedback if you get the chance to check it.]]></title>
+            <link>https://codeguppy.com/</link>
+            <guid>https://codeguppy.com/</guid>
+            <pubDate>Sat, 17 Apr 2021 16:54:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I turned a ThreeJS example into a game!]]></title>
             <link>https://cubecolouringgame.netlify.app/</link>
             <guid>https://cubecolouringgame.netlify.app/</guid>
             <pubDate>Sun, 18 Apr 2021 07:54:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Fastest JavaScript Frameworks]]></title>
+            <link>https://asyncbanana.medium.com/the-fastest-javascript-frameworks-ca46384bc30a</link>
+            <guid>https://asyncbanana.medium.com/the-fastest-javascript-frameworks-ca46384bc30a</guid>
+            <pubDate>Sun, 18 Apr 2021 17:22:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Performance trace recipes with Puppeteer]]></title>
@@ -43,12 +73,6 @@
             <link>https://dev.to/daltonfury42/my-first-attempt-at-micro-saas-suggestions-and-feedback-please-4cf6</link>
             <guid>https://dev.to/daltonfury42/my-first-attempt-at-micro-saas-suggestions-and-feedback-please-4cf6</guid>
             <pubDate>Sat, 17 Apr 2021 11:53:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The shortest way to conditionally insert properties into an object literal]]></title>
-            <link>https://andreasimonecosta.dev/posts/the-shortest-way-to-conditionally-insert-properties-into-an-object-literal/</link>
-            <guid>https://andreasimonecosta.dev/posts/the-shortest-way-to-conditionally-insert-properties-into-an-object-literal/</guid>
-            <pubDate>Sun, 18 Apr 2021 09:02:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Swagger-stats is on the path to 1.0 release!]]></title>
@@ -133,24 +157,6 @@
             <link>https://github.com/foxql/foxql</link>
             <guid>https://github.com/foxql/foxql</guid>
             <pubDate>Fri, 16 Apr 2021 04:36:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I created a new simple to use state manager called Exome]]></title>
-            <link>https://marcisbee.medium.com/announcing-new-and-simple-state-manager-exome-78b5874325c1</link>
-            <guid>https://marcisbee.medium.com/announcing-new-and-simple-state-manager-exome-78b5874325c1</guid>
-            <pubDate>Sat, 17 Apr 2021 07:30:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AskJS] JavaScript code sandbox]]></title>
-            <link>http://labs.onether.com/javascript-sandbox/</link>
-            <guid>http://labs.onether.com/javascript-sandbox/</guid>
-            <pubDate>Sat, 17 Apr 2021 00:31:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Helpful content when memorizing English words]]></title>
-            <link>https://dev.to/cihat/helpful-content-when-memorizing-english-words-17hd</link>
-            <guid>https://dev.to/cihat/helpful-content-when-memorizing-english-words-17hd</guid>
-            <pubDate>Fri, 16 Apr 2021 20:15:42 GMT</pubDate>
         </item>
     </channel>
 </rss>

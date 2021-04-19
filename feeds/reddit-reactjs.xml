@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sun, 18 Apr 2021 19:46:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Apr 2021 07:48:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,16 +15,34 @@
             <pubDate>Thu, 01 Apr 2021 06:19:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Just release my first ReactJS & NodeJS SaaS boilerplate]]></title>
+            <link>https://github.com/JSLancerTeam/saasgear</link>
+            <guid>https://github.com/JSLancerTeam/saasgear</guid>
+            <pubDate>Mon, 19 Apr 2021 03:39:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Creating a Sleek Masonry Gallery with React and WebAssembly]]></title>
+            <link>https://dev.to/rvanderlaan/creating-a-sleek-masonry-gallery-with-react-and-webassembly-17p2</link>
+            <guid>https://dev.to/rvanderlaan/creating-a-sleek-masonry-gallery-with-react-and-webassembly-17p2</guid>
+            <pubDate>Sun, 18 Apr 2021 21:34:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scripts may close only the windows that were opened by them workaround]]></title>
+            <link>https://react-popup.elazizi.com/react-modal/</link>
+            <guid>https://react-popup.elazizi.com/react-modal/</guid>
+            <pubDate>Mon, 19 Apr 2021 03:06:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[To learn functional components and custom hooks, I wrote a mobile-friendly Carousel component with support for touch, mouse dragging, lazy loading, thumbnails, fullscreen, keyboard navigation and RTL.]]></title>
             <link>https://github.com/yifaneye/react-gallery-carousel</link>
             <guid>https://github.com/yifaneye/react-gallery-carousel</guid>
             <pubDate>Sun, 18 Apr 2021 14:14:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I created a tool with Next.js and Tailwind that allows you to version track your images like your code]]></title>
-            <link>https://www.sourcecompare.com/</link>
-            <guid>https://www.sourcecompare.com/</guid>
-            <pubDate>Sat, 17 Apr 2021 17:01:17 GMT</pubDate>
+            <title><![CDATA[Using custom properties from libraries like `thumbClassName` doesn't style properly in Tailwind CSS?]]></title>
+            <link>https://zillow.github.io/react-slider</link>
+            <guid>https://zillow.github.io/react-slider</guid>
+            <pubDate>Mon, 19 Apr 2021 01:37:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Automatically create mock JSON endpoint]]></title>
@@ -33,28 +51,16 @@
             <pubDate>Sun, 18 Apr 2021 17:36:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Note taking web app]]></title>
-            <link>https://www.biblegateway.com/passage/?search=James+1&amp;version=NIV%C2%A0</link>
-            <guid>https://www.biblegateway.com/passage/?search=James+1&amp;version=NIV%C2%A0</guid>
-            <pubDate>Sun, 18 Apr 2021 17:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Custom Modal not rendering in Reactjs]]></title>
-            <link>https://www.npmjs.com/package/reactjs-popup</link>
-            <guid>https://www.npmjs.com/package/reactjs-popup</guid>
-            <pubDate>Sun, 18 Apr 2021 17:32:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React library for easy popups]]></title>
-            <link>https://github.com/aidanjw1/react-hook-popup</link>
-            <guid>https://github.com/aidanjw1/react-hook-popup</guid>
-            <pubDate>Sun, 18 Apr 2021 17:11:21 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Web based database GUI built in React / RTK]]></title>
             <link>https://aidmin.io/</link>
             <guid>https://aidmin.io/</guid>
             <pubDate>Sun, 18 Apr 2021 16:40:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I created a tool with Next.js and Tailwind that allows you to version track your images like your code]]></title>
+            <link>https://www.sourcecompare.com/</link>
+            <guid>https://www.sourcecompare.com/</guid>
+            <pubDate>Sat, 17 Apr 2021 17:01:17 GMT</pubDate>
         </item>
     </channel>
 </rss>

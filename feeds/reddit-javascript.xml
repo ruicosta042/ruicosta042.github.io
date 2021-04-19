@@ -4,10 +4,16 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sun, 18 Apr 2021 19:46:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Apr 2021 07:48:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[WinBox is a new professional window manager for the web. Lightweight, outstanding performance, no dependencies, fully customizable, free and open source!]]></title>
+            <link>https://github.com/nextapps-de/winbox</link>
+            <guid>https://github.com/nextapps-de/winbox</guid>
+            <pubDate>Sun, 18 Apr 2021 21:51:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[To master JS events and DOM manipulation, I wrote a mobile-friendly detail-oriented Carousel component with support for touch, mouse dragging, lazy loading, thumbnails and RTL using React.]]></title>
             <link>https://github.com/yifaneye/react-gallery-carousel</link>
@@ -15,22 +21,34 @@
             <pubDate>Sun, 18 Apr 2021 14:25:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Writing Effective Tests for Modern Web Apps]]></title>
-            <link>https://caleb89taylor.medium.com/writing-effective-tests-for-modern-web-apps-48a69e34f06b</link>
-            <guid>https://caleb89taylor.medium.com/writing-effective-tests-for-modern-web-apps-48a69e34f06b</guid>
-            <pubDate>Sun, 18 Apr 2021 01:50:51 GMT</pubDate>
+            <title><![CDATA[Gram Design Language]]></title>
+            <link>https://gramlanguage.com/</link>
+            <guid>https://gramlanguage.com/</guid>
+            <pubDate>Mon, 19 Apr 2021 05:26:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tilt.js - Lightweight parallax hover tilt effect]]></title>
-            <link>https://jsitor.com/ma74Z5uAt</link>
-            <guid>https://jsitor.com/ma74Z5uAt</guid>
-            <pubDate>Sun, 18 Apr 2021 13:55:24 GMT</pubDate>
+            <title><![CDATA[I wrote a MobX engine clone in under 200 lines of code (and zero dependencies)]]></title>
+            <link>https://github.com/dmaevsky/quarx</link>
+            <guid>https://github.com/dmaevsky/quarx</guid>
+            <pubDate>Mon, 19 Apr 2021 05:19:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lazy Loading with React & Intersection Observer API.]]></title>
-            <link>https://dev.to/anxinyang/easy-lazy-loading-with-react-intersection-observer-api-1dll</link>
-            <guid>https://dev.to/anxinyang/easy-lazy-loading-with-react-intersection-observer-api-1dll</guid>
-            <pubDate>Sun, 18 Apr 2021 06:57:19 GMT</pubDate>
+            <title><![CDATA[JavaScript Records and Tuples Proposal is in ECMAScript stage 2]]></title>
+            <link>https://github.com/tc39/proposal-record-tuple</link>
+            <guid>https://github.com/tc39/proposal-record-tuple</guid>
+            <pubDate>Mon, 19 Apr 2021 07:44:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Icon animation using Framer-Motion - JSitor]]></title>
+            <link>https://jsitor.com/iNV7gor4q</link>
+            <guid>https://jsitor.com/iNV7gor4q</guid>
+            <pubDate>Mon, 19 Apr 2021 04:58:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Calendso - The open-source Calendly alternative written in Typescript]]></title>
+            <link>https://github.com/calendso/calendso</link>
+            <guid>https://github.com/calendso/calendso</guid>
+            <pubDate>Sun, 18 Apr 2021 20:46:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Anime.js Staggering Effect - JSitor]]></title>
@@ -39,16 +57,34 @@
             <pubDate>Sun, 18 Apr 2021 16:38:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[AskJS] Need help with a code challenge about Promises]]></title>
-            <link>https://jsbin.com/pefagis/edit?html,js,output</link>
-            <guid>https://jsbin.com/pefagis/edit?html,js,output</guid>
-            <pubDate>Sun, 18 Apr 2021 16:54:06 GMT</pubDate>
+            <title><![CDATA[Tilt.js - Lightweight parallax hover tilt effect]]></title>
+            <link>https://jsitor.com/ma74Z5uAt</link>
+            <guid>https://jsitor.com/ma74Z5uAt</guid>
+            <pubDate>Sun, 18 Apr 2021 13:55:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Writing Effective Tests for Modern Web Apps]]></title>
+            <link>https://caleb89taylor.medium.com/writing-effective-tests-for-modern-web-apps-48a69e34f06b</link>
+            <guid>https://caleb89taylor.medium.com/writing-effective-tests-for-modern-web-apps-48a69e34f06b</guid>
+            <pubDate>Sun, 18 Apr 2021 01:50:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lazy Loading with React & Intersection Observer API.]]></title>
+            <link>https://dev.to/anxinyang/easy-lazy-loading-with-react-intersection-observer-api-1dll</link>
+            <guid>https://dev.to/anxinyang/easy-lazy-loading-with-react-intersection-observer-api-1dll</guid>
+            <pubDate>Sun, 18 Apr 2021 06:57:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I made a graphical JavaScript coding platform for kids and code newbies. The coding playground exposes a code editor and a canvas based area for output. The runtime is based on p5.js and p5.play. Please let me know your feedback if you get the chance to check it.]]></title>
             <link>https://codeguppy.com/</link>
             <guid>https://codeguppy.com/</guid>
             <pubDate>Sat, 17 Apr 2021 16:54:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dynamic Dimension React Container with Resize Observer]]></title>
+            <link>https://dev.to/anxinyang/dynamic-dimension-react-container-with-transition-effect-part-2-resize-observer-5h18</link>
+            <guid>https://dev.to/anxinyang/dynamic-dimension-react-container-with-transition-effect-part-2-resize-observer-5h18</guid>
+            <pubDate>Sun, 18 Apr 2021 20:08:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I turned a ThreeJS example into a game!]]></title>
@@ -117,46 +153,10 @@
             <pubDate>Sat, 17 Apr 2021 07:22:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React hooks and why should they get you “hooked” ?]]></title>
-            <link>https://mindaugasnakr.medium.com/react-hooks-and-why-should-they-get-you-hooked-43aead1c10a4</link>
-            <guid>https://mindaugasnakr.medium.com/react-hooks-and-why-should-they-get-you-hooked-43aead1c10a4</guid>
-            <pubDate>Sat, 17 Apr 2021 18:43:04 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Content-aware image resizing in JavaScript]]></title>
             <link>https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/</link>
             <guid>https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/</guid>
             <pubDate>Fri, 16 Apr 2021 16:01:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The shortest way to conditionally insert properties into an object literal]]></title>
-            <link>https://andreasimonecosta.dev/posts/the-shortest-way-to-conditionally-insert-properties-into-an-object-literal/</link>
-            <guid>https://andreasimonecosta.dev/posts/the-shortest-way-to-conditionally-insert-properties-into-an-object-literal/</guid>
-            <pubDate>Fri, 16 Apr 2021 09:42:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A simple file viewer app made with Neutralinojs (as a demo of Neutralinojs)]]></title>
-            <link>https://github.com/shalithasuranga/liteman</link>
-            <guid>https://github.com/shalithasuranga/liteman</guid>
-            <pubDate>Sat, 17 Apr 2021 10:49:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JavaScript library to efficiently mutate data without changing the original source]]></title>
-            <link>https://github.com/kolodny/immutability-helper</link>
-            <guid>https://github.com/kolodny/immutability-helper</guid>
-            <pubDate>Sat, 17 Apr 2021 18:05:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I rewrote my blog with Tailwind Css, thoughts?]]></title>
-            <link>https://nosleepjavascript.com/</link>
-            <guid>https://nosleepjavascript.com/</guid>
-            <pubDate>Fri, 16 Apr 2021 22:30:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Open Source p2p social network that runs on your browser. Builded with WebRTC. Never has scalability issues. It always works cheaply and fast.]]></title>
-            <link>https://github.com/foxql/foxql</link>
-            <guid>https://github.com/foxql/foxql</guid>
-            <pubDate>Fri, 16 Apr 2021 04:36:09 GMT</pubDate>
         </item>
     </channel>
 </rss>

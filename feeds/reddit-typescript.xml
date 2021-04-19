@@ -4,10 +4,16 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Sun, 18 Apr 2021 19:46:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Apr 2021 07:48:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Calendso - The open-source Calendly alternative.]]></title>
+            <link>https://github.com/calendso/calendso</link>
+            <guid>https://github.com/calendso/calendso</guid>
+            <pubDate>Sun, 18 Apr 2021 20:45:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Proposal: Interval Types]]></title>
             <link>https://github.com/microsoft/TypeScript/issues/43505</link>
@@ -97,12 +103,6 @@
             <link>https://github.com/practical-fp/union-types</link>
             <guid>https://github.com/practical-fp/union-types</guid>
             <pubDate>Tue, 13 Apr 2021 13:29:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ts_ci makes the creation publication and maintenance of an NPM module really easy]]></title>
-            <link>https://github.com/garronej/ts_ci</link>
-            <guid>https://github.com/garronej/ts_ci</guid>
-            <pubDate>Tue, 13 Apr 2021 14:45:22 GMT</pubDate>
         </item>
     </channel>
 </rss>

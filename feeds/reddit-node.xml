@@ -4,15 +4,33 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Sun, 18 Apr 2021 19:46:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Apr 2021 07:48:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Good reference for express open source repo]]></title>
+            <link>https://github.com/GeekyAnts/express-typescript</link>
+            <guid>https://github.com/GeekyAnts/express-typescript</guid>
+            <pubDate>Mon, 19 Apr 2021 03:20:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Planning to create a full-stack open source project]]></title>
             <link>https://strapi.io/</link>
             <guid>https://strapi.io/</guid>
             <pubDate>Sun, 18 Apr 2021 11:03:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mock JSON endpoint]]></title>
+            <link>https://the-mock-json-api.herokuapp.com/</link>
+            <guid>https://the-mock-json-api.herokuapp.com/</guid>
+            <pubDate>Sun, 18 Apr 2021 20:27:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Running modern NodeJS on Solaris]]></title>
+            <link>https://github.com/nodejs/node/pull/37772</link>
+            <guid>https://github.com/nodejs/node/pull/37772</guid>
+            <pubDate>Sun, 18 Apr 2021 19:53:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Created an open-source solution to keep Github and Jira issues in sync]]></title>
@@ -31,18 +49,6 @@
             <link>https://addyosmani.com/blog/puppeteer-recipes/</link>
             <guid>https://addyosmani.com/blog/puppeteer-recipes/</guid>
             <pubDate>Sat, 17 Apr 2021 14:19:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Express.js With Typescript Decorators in Examples]]></title>
-            <link>https://medium.com/litslink/express-js-with-typescript-decorators-in-examples-5f82223159c1</link>
-            <guid>https://medium.com/litslink/express-js-with-typescript-decorators-in-examples-5f82223159c1</guid>
-            <pubDate>Sun, 18 Apr 2021 01:49:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Need feedback: Twitter clone app with Typetron]]></title>
-            <link>https://github.com/typetron/example-twitter-clone</link>
-            <guid>https://github.com/typetron/example-twitter-clone</guid>
-            <pubDate>Sat, 17 Apr 2021 08:43:37 GMT</pubDate>
         </item>
     </channel>
 </rss>

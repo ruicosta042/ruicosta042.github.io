@@ -4,15 +4,51 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Mon, 19 Apr 2021 07:48:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Apr 2021 07:48:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Schrödinger's Discriminated Union]]></title>
+            <link>https://blog.yoavlavi.com/schroedingers/</link>
+            <guid>https://blog.yoavlavi.com/schroedingers/</guid>
+            <pubDate>Mon, 19 Apr 2021 18:02:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[disc-union - (yet another) library for working with discriminated union types]]></title>
+            <link>https://github.com/BobbyGerace/disc-union</link>
+            <guid>https://github.com/BobbyGerace/disc-union</guid>
+            <pubDate>Mon, 19 Apr 2021 22:11:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Run and Debug a Single TypeScript File in WebStorm IDE]]></title>
+            <link>https://medium.com/litslink/how-to-run-and-debug-a-single-typescript-file-in-the-webstorm-ide-53ecf93185c1</link>
+            <guid>https://medium.com/litslink/how-to-run-and-debug-a-single-typescript-file-in-the-webstorm-ide-53ecf93185c1</guid>
+            <pubDate>Mon, 19 Apr 2021 15:40:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to type defaultProps in React Higher-Order Component]]></title>
+            <link>https://www.typescriptlang.org/play?#code/JYWwDg9gTgLgBAJQKYEMDG8BmUIjgcilQ3wG4AoctCAOwGd4B3YGACwBVWkQk4BeOAB4ACnCQAPGEhoATOnADeAXwB8ACgDCuMAC5ExGADot4WtJjsAnmCQiVASn4rF5OG7hEYAVyg04JsDgUeWR0IwCzGgtrW2FnADIXd2S4GSRMFC8AGxhhHDA6PRgYiEx-bQBtfDSM7Nz8unwAXQpkpQolSjQs4PkAIS8YGFoxSWk5fTDjbUiYQQU6YAAvJD0GKGAaAHM4VST3BhQYYDRU9MycvIgC-n2UuEWVvXws-Fd3Ts6qWgY4Tm4kDIBkMRgJmGx-jw1MDhjR7ORIYCYbRDDULvVrvIBMiaKjznUrgUKN96PAULc1I4+M5BDi4AB6FQk34AIwpVJpiKBg1hDJUQA</link>
+            <guid>https://www.typescriptlang.org/play?#code/JYWwDg9gTgLgBAJQKYEMDG8BmUIjgcilQ3wG4AoctCAOwGd4B3YGACwBVWkQk4BeOAB4ACnCQAPGEhoATOnADeAXwB8ACgDCuMAC5ExGADot4WtJjsAnmCQiVASn4rF5OG7hEYAVyg04JsDgUeWR0IwCzGgtrW2FnADIXd2S4GSRMFC8AGxhhHDA6PRgYiEx-bQBtfDSM7Nz8unwAXQpkpQolSjQs4PkAIS8YGFoxSWk5fTDjbUiYQQU6YAAvJD0GKGAaAHM4VST3BhQYYDRU9MycvIgC-n2UuEWVvXws-Fd3Ts6qWgY4Tm4kDIBkMRgJmGx-jw1MDhjR7ORIYCYbRDDULvVrvIBMiaKjznUrgUKN96PAULc1I4+M5BDi4AB6FQk34AIwpVJpiKBg1hDJUQA</guid>
+            <pubDate>Mon, 19 Apr 2021 17:49:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React Components as TypeScript Generic Functions]]></title>
+            <link>https://javascript.plainenglish.io/react-components-as-typescript-generic-functions-8aa83afff597</link>
+            <guid>https://javascript.plainenglish.io/react-components-as-typescript-generic-functions-8aa83afff597</guid>
+            <pubDate>Mon, 19 Apr 2021 23:51:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Calendso - The open-source Calendly alternative.]]></title>
             <link>https://github.com/calendso/calendso</link>
             <guid>https://github.com/calendso/calendso</guid>
             <pubDate>Sun, 18 Apr 2021 20:45:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Death of Component State]]></title>
+            <link>https://github.com/gactjs/store/blob/master/docs/death-of-component-state.md</link>
+            <guid>https://github.com/gactjs/store/blob/master/docs/death-of-component-state.md</guid>
+            <pubDate>Mon, 19 Apr 2021 10:16:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Proposal: Interval Types]]></title>
@@ -73,36 +109,6 @@
             <link>https://www.typescriptlang.org/play?#code/JYWwDg9gTgLgBAJQKYEMDG8BmUIjgcilQ3wG4Aoc4AOxiSk3STgAUcwBnOAb3LjmooQSAFxwOMKDQDmFfjAAWSYWIlTqs8gF9yMAJ5hmAESSMArgBsYbCJzgBeVsDQBrADw3OAGgKLlSfAA+cjQLFA4uADkhJABhXEhqJFo4JAAPOmoAEy5kdBgAOnjwCCTaD3YOQJ4+cRgUGGc4LNMUS2tKhxr+eSUVAhbzK3xanS0KckwzagxgUrgAd2BFABU+pDdallSM5JyeOD9hAH5VSRk4LS9akyGO2y50zP2WFFhgFAsPYMCAClrYmEIsVEskYGI8hgiglSmCVgYNixggBKbpwIgwMxQaiIYiFTDQBZvLLITBuFDUPQ+JH-HpwX5gSqo+zVNyA8IcEGwlLcAp8xkPLRwAD0wX4yO0EzQpQkcDW-iy0WEXSWq3WFQePlubSsniqvyVcRhZRgyKlMvgdFljl+zNZ8uEipiAhi9gARAAjCAALyyPrdIsCpCAA</link>
             <guid>https://www.typescriptlang.org/play?#code/JYWwDg9gTgLgBAJQKYEMDG8BmUIjgcilQ3wG4Aoc4AOxiSk3STgAUcwBnOAb3LjmooQSAFxwOMKDQDmFfjAAWSYWIlTqs8gF9yMAJ5hmAESSMArgBsYbCJzgBeVsDQBrADw3OAGgKLlSfAA+cjQLFA4uADkhJABhXEhqJFo4JAAPOmoAEy5kdBgAOnjwCCTaD3YOQJ4+cRgUGGc4LNMUS2tKhxr+eSUVAhbzK3xanS0KckwzagxgUrgAd2BFABU+pDdallSM5JyeOD9hAH5VSRk4LS9akyGO2y50zP2WFFhgFAsPYMCAClrYmEIsVEskYGI8hgiglSmCVgYNixggBKbpwIgwMxQaiIYiFTDQBZvLLITBuFDUPQ+JH-HpwX5gSqo+zVNyA8IcEGwlLcAp8xkPLRwAD0wX4yO0EzQpQkcDW-iy0WEXSWq3WFQePlubSsniqvyVcRhZRgyKlMvgdFljl+zNZ8uEipiAhi9gARAAjCAALyyPrdIsCpCAA</guid>
             <pubDate>Thu, 15 Apr 2021 16:57:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Typestates Would Have Saved the Roman Republic]]></title>
-            <link>https://yoav-lavis-blog.ghost.io/state-machines-would-have-saved-the-roman-republic/</link>
-            <guid>https://yoav-lavis-blog.ghost.io/state-machines-would-have-saved-the-roman-republic/</guid>
-            <pubDate>Wed, 14 Apr 2021 16:32:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Typescript project references: Handle third-party dependencies of referenced project]]></title>
-            <link>https://stackoverflow.com/questions/67070255/typescript-project-references-handle-third-party-dependencies-of-referenced-pro</link>
-            <guid>https://stackoverflow.com/questions/67070255/typescript-project-references-handle-third-party-dependencies-of-referenced-pro</guid>
-            <pubDate>Wed, 14 Apr 2021 13:54:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EfficientNet - image recognition and object detection model written in node and typescript]]></title>
-            <link>https://github.com/ntedgi/node-efficientnet</link>
-            <guid>https://github.com/ntedgi/node-efficientnet</guid>
-            <pubDate>Wed, 14 Apr 2021 04:42:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Slow and Steady: Converting Sentry’s Entire Frontend to TypeScript]]></title>
-            <link>https://blog.sentry.io/2021/04/12/slow-and-steady-converting-sentrys-entire-frontend-to-typescript</link>
-            <guid>https://blog.sentry.io/2021/04/12/slow-and-steady-converting-sentrys-entire-frontend-to-typescript</guid>
-            <pubDate>Tue, 13 Apr 2021 19:25:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@practical-fp/union-types - A Typescript library for creating discriminating union types]]></title>
-            <link>https://github.com/practical-fp/union-types</link>
-            <guid>https://github.com/practical-fp/union-types</guid>
-            <pubDate>Tue, 13 Apr 2021 13:29:50 GMT</pubDate>
         </item>
     </channel>
 </rss>

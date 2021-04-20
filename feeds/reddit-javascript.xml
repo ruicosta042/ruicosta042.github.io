@@ -4,33 +4,51 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Mon, 19 Apr 2021 07:48:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Apr 2021 07:48:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Your /r/javascript recap for the week of April 12 - April 18]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Mon, 19 Apr 2021 09:05:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I Wrote an Open Source Analytics Platform in full Javascript in less than 30 Days.]]></title>
+            <link>https://github.com/itsrennyman/aurora</link>
+            <guid>https://github.com/itsrennyman/aurora</guid>
+            <pubDate>Mon, 19 Apr 2021 19:03:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Never too late for Firefox 88]]></title>
+            <link>https://hacks.mozilla.org/2021/04/never-too-late-for-firefox-88/</link>
+            <guid>https://hacks.mozilla.org/2021/04/never-too-late-for-firefox-88/</guid>
+            <pubDate>Mon, 19 Apr 2021 20:02:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to create a Mock Server using Faker.js and JSON-Server]]></title>
+            <link>https://shivaraj-bakale.medium.com/how-to-generate-mock-data-using-faker-js-and-json-server-1d17007a08e4</link>
+            <guid>https://shivaraj-bakale.medium.com/how-to-generate-mock-data-using-faker-js-and-json-server-1d17007a08e4</guid>
+            <pubDate>Mon, 19 Apr 2021 14:28:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Class fields and private class members are now stage 4, ready for ES2022]]></title>
+            <link>https://github.com/tc39/proposal-class-fields</link>
+            <guid>https://github.com/tc39/proposal-class-fields</guid>
+            <pubDate>Mon, 19 Apr 2021 21:07:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[sdoc - A simple documentation tool]]></title>
+            <link>https://github.com/nhevia/simple-docs</link>
+            <guid>https://github.com/nhevia/simple-docs</guid>
+            <pubDate>Tue, 20 Apr 2021 03:23:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[WinBox is a new professional window manager for the web. Lightweight, outstanding performance, no dependencies, fully customizable, free and open source!]]></title>
             <link>https://github.com/nextapps-de/winbox</link>
             <guid>https://github.com/nextapps-de/winbox</guid>
             <pubDate>Sun, 18 Apr 2021 21:51:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[To master JS events and DOM manipulation, I wrote a mobile-friendly detail-oriented Carousel component with support for touch, mouse dragging, lazy loading, thumbnails and RTL using React.]]></title>
-            <link>https://github.com/yifaneye/react-gallery-carousel</link>
-            <guid>https://github.com/yifaneye/react-gallery-carousel</guid>
-            <pubDate>Sun, 18 Apr 2021 14:25:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gram Design Language]]></title>
-            <link>https://gramlanguage.com/</link>
-            <guid>https://gramlanguage.com/</guid>
-            <pubDate>Mon, 19 Apr 2021 05:26:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I wrote a MobX engine clone in under 200 lines of code (and zero dependencies)]]></title>
-            <link>https://github.com/dmaevsky/quarx</link>
-            <guid>https://github.com/dmaevsky/quarx</guid>
-            <pubDate>Mon, 19 Apr 2021 05:19:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[JavaScript Records and Tuples Proposal is in ECMAScript stage 2]]></title>
@@ -39,10 +57,64 @@
             <pubDate>Mon, 19 Apr 2021 07:44:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[My experiences going from CSS-in-JS to Tailwind CSS]]></title>
+            <link>https://nosleepjavascript.com/tailwindcss-experience/</link>
+            <guid>https://nosleepjavascript.com/tailwindcss-experience/</guid>
+            <pubDate>Mon, 19 Apr 2021 22:04:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Changelog: swc v1.2.54]]></title>
+            <link>https://swc.rs/blog/2021/04/20/swc-1.2.54</link>
+            <guid>https://swc.rs/blog/2021/04/20/swc-1.2.54</guid>
+            <pubDate>Mon, 19 Apr 2021 16:39:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Starboard Observable: an open source ObservableHQ notebook environment]]></title>
+            <link>https://starboard.gg/gz/open-source-observablehq-nfwK2VA</link>
+            <guid>https://starboard.gg/gz/open-source-observablehq-nfwK2VA</guid>
+            <pubDate>Mon, 19 Apr 2021 17:36:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Page Transition Effect in NextJS]]></title>
+            <link>https://dev.to/anxinyang/page-transition-effect-in-nextjs-9ch</link>
+            <guid>https://dev.to/anxinyang/page-transition-effect-in-nextjs-9ch</guid>
+            <pubDate>Tue, 20 Apr 2021 01:11:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[node-beanstalk - the most comprehensive beanstalk client for nodejs]]></title>
+            <link>https://github.com/xobotyi/node-beanstalk</link>
+            <guid>https://github.com/xobotyi/node-beanstalk</guid>
+            <pubDate>Mon, 19 Apr 2021 22:45:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I wrote a MobX engine clone in under 200 lines of code (and zero dependencies)]]></title>
+            <link>https://github.com/dmaevsky/quarx</link>
+            <guid>https://github.com/dmaevsky/quarx</guid>
+            <pubDate>Mon, 19 Apr 2021 05:19:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[To master JS events and DOM manipulation, I wrote a mobile-friendly detail-oriented Carousel component with support for touch, mouse dragging, lazy loading, thumbnails and RTL using React.]]></title>
+            <link>https://github.com/yifaneye/react-gallery-carousel</link>
+            <guid>https://github.com/yifaneye/react-gallery-carousel</guid>
+            <pubDate>Sun, 18 Apr 2021 14:25:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Using template literals to create a binding engine]]></title>
+            <link>https://tobiasuhlig.medium.com/using-template-literals-to-create-a-binding-engine-1cb33155a6e8?source=friends_link&amp;sk=97c92fe8008d3e48c54933403723bf95</link>
+            <guid>https://tobiasuhlig.medium.com/using-template-literals-to-create-a-binding-engine-1cb33155a6e8?source=friends_link&amp;sk=97c92fe8008d3e48c54933403723bf95</guid>
+            <pubDate>Mon, 19 Apr 2021 13:43:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Icon animation using Framer-Motion - JSitor]]></title>
             <link>https://jsitor.com/iNV7gor4q</link>
             <guid>https://jsitor.com/iNV7gor4q</guid>
             <pubDate>Mon, 19 Apr 2021 04:58:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How BitBucket Pipeline with parallel Cypress tests can speed up CI build]]></title>
+            <link>https://docs.knapsackpro.com/2021/how-bitbucket-pipeline-with-parallel-cypress-tests-can-speed-up-ci-build</link>
+            <guid>https://docs.knapsackpro.com/2021/how-bitbucket-pipeline-with-parallel-cypress-tests-can-speed-up-ci-build</guid>
+            <pubDate>Mon, 19 Apr 2021 09:48:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Calendso - The open-source Calendly alternative written in Typescript]]></title>
@@ -85,78 +157,6 @@
             <link>https://dev.to/anxinyang/dynamic-dimension-react-container-with-transition-effect-part-2-resize-observer-5h18</link>
             <guid>https://dev.to/anxinyang/dynamic-dimension-react-container-with-transition-effect-part-2-resize-observer-5h18</guid>
             <pubDate>Sun, 18 Apr 2021 20:08:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I turned a ThreeJS example into a game!]]></title>
-            <link>https://cubecolouringgame.netlify.app/</link>
-            <guid>https://cubecolouringgame.netlify.app/</guid>
-            <pubDate>Sun, 18 Apr 2021 07:54:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Fastest JavaScript Frameworks]]></title>
-            <link>https://asyncbanana.medium.com/the-fastest-javascript-frameworks-ca46384bc30a</link>
-            <guid>https://asyncbanana.medium.com/the-fastest-javascript-frameworks-ca46384bc30a</guid>
-            <pubDate>Sun, 18 Apr 2021 17:22:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Performance trace recipes with Puppeteer]]></title>
-            <link>https://addyosmani.com/blog/puppeteer-recipes/</link>
-            <guid>https://addyosmani.com/blog/puppeteer-recipes/</guid>
-            <pubDate>Sat, 17 Apr 2021 12:38:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My first attempt at micro-SaaS; suggestions and feedback please.]]></title>
-            <link>https://dev.to/daltonfury42/my-first-attempt-at-micro-saas-suggestions-and-feedback-please-4cf6</link>
-            <guid>https://dev.to/daltonfury42/my-first-attempt-at-micro-saas-suggestions-and-feedback-please-4cf6</guid>
-            <pubDate>Sat, 17 Apr 2021 11:53:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Swagger-stats is on the path to 1.0 release!]]></title>
-            <link>https://github.com/slanatech/swagger-stats/discussions/135</link>
-            <guid>https://github.com/slanatech/swagger-stats/discussions/135</guid>
-            <pubDate>Sat, 17 Apr 2021 17:27:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An open-source NodeJS solution to keep Github and Jira issues in sync]]></title>
-            <link>https://github.com/marcelovicentegc/octosync</link>
-            <guid>https://github.com/marcelovicentegc/octosync</guid>
-            <pubDate>Sat, 17 Apr 2021 20:04:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Detecting browser support for lazyload on images and iframes]]></title>
-            <link>https://github.com/scott-little/lazyload#detecting-lazyload-support</link>
-            <guid>https://github.com/scott-little/lazyload#detecting-lazyload-support</guid>
-            <pubDate>Sat, 17 Apr 2021 17:36:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Here is my experiment with Svelte and 3D CSS. It was super fun!]]></title>
-            <link>https://jsocean.org/svelte-3d-cube-generator/</link>
-            <guid>https://jsocean.org/svelte-3d-cube-generator/</guid>
-            <pubDate>Sat, 17 Apr 2021 05:24:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[System design : How Instagram computes real-time trending hashtags ?]]></title>
-            <link>https://blog.pankajtanwar.in/system-design-how-instagram-computes-real-time-trending-hashtags</link>
-            <guid>https://blog.pankajtanwar.in/system-design-how-instagram-computes-real-time-trending-hashtags</guid>
-            <pubDate>Sat, 17 Apr 2021 06:09:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[QUIC and HTTP/3 Support now in Firefox Nightly and Beta]]></title>
-            <link>https://hacks.mozilla.org/2021/04/quic-and-http-3-support-now-in-firefox-nightly-and-beta/</link>
-            <guid>https://hacks.mozilla.org/2021/04/quic-and-http-3-support-now-in-firefox-nightly-and-beta/</guid>
-            <pubDate>Fri, 16 Apr 2021 20:18:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[akmittal/dash-tv-web Watch 5000+ publically available channels]]></title>
-            <link>https://github.com/akmittal/dash-tv-web</link>
-            <guid>https://github.com/akmittal/dash-tv-web</guid>
-            <pubDate>Sat, 17 Apr 2021 07:22:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Content-aware image resizing in JavaScript]]></title>
-            <link>https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/</link>
-            <guid>https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/</guid>
-            <pubDate>Fri, 16 Apr 2021 16:01:14 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,122 +4,122 @@
         <title>JavaScript Weekly</title>
         <link>https://javascriptweekly.com/</link>
         <description>A newsletter of JavaScript articles, news and cool projects</description>
-        <lastBuildDate>Mon, 19 Apr 2021 07:47:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Apr 2021 07:47:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
             <title><![CDATA[Comparing the New Generation of Build Tools]]></title>
-            <link>https://javascriptweekly.com/link/106578/rss</link>
-            <guid>https://javascriptweekly.com/link/106578/rss</guid>
+            <link>https://css-tricks.com/comparing-the-new-generation-of-build-tools/</link>
+            <guid>https://css-tricks.com/comparing-the-new-generation-of-build-tools/</guid>
             <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Slow and Steady: Converting Sentry’s Entire Frontend to TypeScript]]></title>
-            <link>https://javascriptweekly.com/link/106579/rss</link>
-            <guid>https://javascriptweekly.com/link/106579/rss</guid>
+            <link>https://blog.sentry.io/2021/04/12/slow-and-steady-converting-sentrys-entire-frontend-to-typescript/</link>
+            <guid>https://blog.sentry.io/2021/04/12/slow-and-steady-converting-sentrys-entire-frontend-to-typescript/</guid>
             <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[15 DevTool Secrets for JavaScript Developers]]></title>
-            <link>https://javascriptweekly.com/link/106580/rss</link>
-            <guid>https://javascriptweekly.com/link/106580/rss</guid>
+            <link>https://blog.asayer.io/15-devtool-secrets-for-javascript-developers/</link>
+            <guid>https://blog.asayer.io/15-devtool-secrets-for-javascript-developers/</guid>
             <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Thorough Guide to Working with Strings in Modern JavaScript]]></title>
-            <link>https://javascriptweekly.com/link/106558/rss</link>
-            <guid>https://javascriptweekly.com/link/106558/rss</guid>
+            <link>https://www.baseclass.io/guides/string-handling-modern-js</link>
+            <guid>https://www.baseclass.io/guides/string-handling-modern-js</guid>
             <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hyperapp – Is It a Lightweight 'React Killer'?]]></title>
-            <link>https://javascriptweekly.com/link/106559/rss</link>
-            <guid>https://javascriptweekly.com/link/106559/rss</guid>
+            <link>https://blog.asayer.io/hyperapp-is-it-the-lightweight-react-killer/</link>
+            <guid>https://blog.asayer.io/hyperapp-is-it-the-lightweight-react-killer/</guid>
             <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Simple Start to ES Modules in Node.js]]></title>
-            <link>https://javascriptweekly.com/link/106561/rss</link>
-            <guid>https://javascriptweekly.com/link/106561/rss</guid>
+            <link>https://kentcdodds.com/blog/super-simple-start-to-es-modules-in-node-js/</link>
+            <guid>https://kentcdodds.com/blog/super-simple-start-to-es-modules-in-node-js/</guid>
             <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[An Introduction to the switch(true) Pattern]]></title>
-            <link>https://javascriptweekly.com/link/106563/rss</link>
-            <guid>https://javascriptweekly.com/link/106563/rss</guid>
+            <link>https://seanbarry.dev/posts/switch-true-pattern/</link>
+            <guid>https://seanbarry.dev/posts/switch-true-pattern/</guid>
             <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to Send Tweets with a JavaScript GitHub Action]]></title>
-            <link>https://javascriptweekly.com/link/106564/rss</link>
-            <guid>https://javascriptweekly.com/link/106564/rss</guid>
+            <link>https://hibbard.eu/tweet-javascript-github-action/</link>
+            <guid>https://hibbard.eu/tweet-javascript-github-action/</guid>
             <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Real World CSS vs. CSS-in-JS Performance Comparison]]></title>
-            <link>https://javascriptweekly.com/link/106565/rss</link>
-            <guid>https://javascriptweekly.com/link/106565/rss</guid>
+            <link>https://pustelto.com/blog/css-vs-css-in-js-perf/</link>
+            <guid>https://pustelto.com/blog/css-vs-css-in-js-perf/</guid>
             <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Building a Video Streaming App with Nuxt.js, Node and Express]]></title>
-            <link>https://javascriptweekly.com/link/106566/rss</link>
-            <guid>https://javascriptweekly.com/link/106566/rss</guid>
+            <link>https://www.smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/</link>
+            <guid>https://www.smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/</guid>
             <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Building an ASCII Game Engine That Runs in the Browser]]></title>
-            <link>https://javascriptweekly.com/link/106568/rss</link>
-            <guid>https://javascriptweekly.com/link/106568/rss</guid>
+            <link>https://www.youtube.com/watch?v=B3uH517XbPs</link>
+            <guid>https://www.youtube.com/watch?v=B3uH517XbPs</guid>
             <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Deno 1.9 Released]]></title>
-            <link>https://javascriptweekly.com/link/106547/rss</link>
-            <guid>https://javascriptweekly.com/link/106547/rss</guid>
+            <link>https://deno.com/blog/v1.9</link>
+            <guid>https://deno.com/blog/v1.9</guid>
             <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Announcing react-pdf v2.0]]></title>
-            <link>https://javascriptweekly.com/link/106573/rss</link>
-            <guid>https://javascriptweekly.com/link/106573/rss</guid>
+            <link>https://react-pdf.org/blog/announcing-react-pdf-v2</link>
+            <guid>https://react-pdf.org/blog/announcing-react-pdf-v2</guid>
             <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[party.js: A Way to 'Brighten Up' Your Site with Visual Effects]]></title>
-            <link>https://javascriptweekly.com/link/106574/rss</link>
-            <guid>https://javascriptweekly.com/link/106574/rss</guid>
+            <link>https://partyjs.yiliansource.dev/</link>
+            <guid>https://partyjs.yiliansource.dev/</guid>
             <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Algolia Search API Client for JavaScript]]></title>
-            <link>https://javascriptweekly.com/link/106576/rss</link>
-            <guid>https://javascriptweekly.com/link/106576/rss</guid>
+            <link>https://github.com/algolia/algoliasearch-client-javascript</link>
+            <guid>https://github.com/algolia/algoliasearch-client-javascript</guid>
             <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[jest-puppeteer 5.0: Run Your Tests using Jest and Puppeteer]]></title>
-            <link>https://javascriptweekly.com/link/106577/rss</link>
-            <guid>https://javascriptweekly.com/link/106577/rss</guid>
+            <link>https://github.com/smooth-code/jest-puppeteer</link>
+            <guid>https://github.com/smooth-code/jest-puppeteer</guid>
             <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Going “Meta GSAP”: The Quest for “Perfect” Infinite Scrolling]]></title>
-            <link>https://javascriptweekly.com/link/106570/rss</link>
-            <guid>https://javascriptweekly.com/link/106570/rss</guid>
+            <link>https://css-tricks.com/going-meta-gsap-the-quest-for-perfect-infinite-scrolling/</link>
+            <guid>https://css-tricks.com/going-meta-gsap-the-quest-for-perfect-infinite-scrolling/</guid>
             <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tricking TypeScript Into Typing Untyped JavaScript Modules]]></title>
-            <link>https://javascriptweekly.com/link/106571/rss</link>
-            <guid>https://javascriptweekly.com/link/106571/rss</guid>
+            <link>https://kamranicus.com/tricking-typescript-into-typing-untyped-javascript-modules/</link>
+            <guid>https://kamranicus.com/tricking-typescript-into-typing-untyped-javascript-modules/</guid>
             <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[JS Classes Are Not “Just Syntactic Sugar”]]></title>
-            <link>https://javascriptweekly.com/link/106572/rss</link>
-            <guid>https://javascriptweekly.com/link/106572/rss</guid>
+            <link>https://webreflection.medium.com/js-classes-are-not-just-syntactic-sugar-28690fedf078</link>
+            <guid>https://webreflection.medium.com/js-classes-are-not-just-syntactic-sugar-28690fedf078</guid>
             <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>

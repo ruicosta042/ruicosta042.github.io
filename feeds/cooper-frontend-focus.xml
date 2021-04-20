@@ -4,134 +4,134 @@
         <title>Frontend Focus</title>
         <link>https://frontendfoc.us/</link>
         <description>A once–weekly roundup of the best front-end news, articles and tutorials. HTML, CSS, WebGL, Canvas, browser tech, and more.</description>
-        <lastBuildDate>Mon, 19 Apr 2021 07:47:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Apr 2021 07:47:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
             <title><![CDATA[What's New in Chrome 90 for Developers]]></title>
-            <link>https://frontendfoc.us/link/106322/rss</link>
-            <guid>https://frontendfoc.us/link/106322/rss</guid>
+            <link>https://developer.chrome.com/blog/new-in-chrome-90/</link>
+            <guid>https://developer.chrome.com/blog/new-in-chrome-90/</guid>
             <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Modern CSS Upgrades To Improve Accessibility]]></title>
-            <link>https://frontendfoc.us/link/106324/rss</link>
-            <guid>https://frontendfoc.us/link/106324/rss</guid>
+            <link>https://moderncss.dev/modern-css-upgrades-to-improve-accessibility/</link>
+            <guid>https://moderncss.dev/modern-css-upgrades-to-improve-accessibility/</guid>
             <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Complete Guide To HTML Email]]></title>
-            <link>https://frontendfoc.us/link/106326/rss</link>
-            <guid>https://frontendfoc.us/link/106326/rss</guid>
+            <link>https://www.smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/</link>
+            <guid>https://www.smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/</guid>
             <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Comparing the New Generation of Build Tools]]></title>
-            <link>https://frontendfoc.us/link/106327/rss</link>
-            <guid>https://frontendfoc.us/link/106327/rss</guid>
+            <link>https://css-tricks.com/comparing-the-new-generation-of-build-tools/</link>
+            <guid>https://css-tricks.com/comparing-the-new-generation-of-build-tools/</guid>
             <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Say Hello To CSS Container Queries]]></title>
-            <link>https://frontendfoc.us/link/106370/rss</link>
-            <guid>https://frontendfoc.us/link/106370/rss</guid>
+            <link>https://ishadeed.com/article/say-hello-to-css-container-queries/</link>
+            <guid>https://ishadeed.com/article/say-hello-to-css-container-queries/</guid>
             <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Visually Impaired Users Complain After Rail Websites Go Greyscale in Tribute to Prince Philip]]></title>
-            <link>https://frontendfoc.us/link/106337/rss</link>
-            <guid>https://frontendfoc.us/link/106337/rss</guid>
+            <link>https://www.theguardian.com/uk-news/2021/apr/12/visually-impaired-users-complain-rail-websites-greyscale-prince-philip</link>
+            <guid>https://www.theguardian.com/uk-news/2021/apr/12/visually-impaired-users-complain-rail-websites-greyscale-prince-philip</guid>
             <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to Convince Your Boss to Care About Speed]]></title>
-            <link>https://frontendfoc.us/link/106338/rss</link>
-            <guid>https://frontendfoc.us/link/106338/rss</guid>
+            <link>https://calibreapp.com/blog/convince-your-boss-about-performance</link>
+            <guid>https://calibreapp.com/blog/convince-your-boss-about-performance</guid>
             <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Let’s Create an Image Pop-Out Effect With SVG Clip Path]]></title>
-            <link>https://frontendfoc.us/link/106339/rss</link>
-            <guid>https://frontendfoc.us/link/106339/rss</guid>
+            <link>https://css-tricks.com/lets-create-an-image-pop-out-effect-with-svg-clip-path/</link>
+            <guid>https://css-tricks.com/lets-create-an-image-pop-out-effect-with-svg-clip-path/</guid>
             <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[HTML Inputs and Labels: A Love Story]]></title>
-            <link>https://frontendfoc.us/link/106340/rss</link>
-            <guid>https://frontendfoc.us/link/106340/rss</guid>
+            <link>https://css-tricks.com/html-inputs-and-labels-a-love-story/</link>
+            <guid>https://css-tricks.com/html-inputs-and-labels-a-love-story/</guid>
             <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Debug Web Vitals in The Field]]></title>
-            <link>https://frontendfoc.us/link/106342/rss</link>
-            <guid>https://frontendfoc.us/link/106342/rss</guid>
+            <link>https://web.dev/debug-web-vitals-in-the-field/</link>
+            <guid>https://web.dev/debug-web-vitals-in-the-field/</guid>
             <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['My Current HTML Boilerplate']]></title>
-            <link>https://frontendfoc.us/link/106343/rss</link>
-            <guid>https://frontendfoc.us/link/106343/rss</guid>
+            <link>https://www.matuzo.at/blog/html-boilerplate/</link>
+            <guid>https://www.matuzo.at/blog/html-boilerplate/</guid>
             <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Frontend Developer at X-Team (Remote)]]></title>
-            <link>https://frontendfoc.us/link/106349/rss</link>
-            <guid>https://frontendfoc.us/link/106349/rss</guid>
+            <link>https://x-team.com/remote-frontend-developer-jobs/?utm_source=cooperpress&amp;utm_medium=email-ad&amp;utm_campaign=frontend</link>
+            <guid>https://x-team.com/remote-frontend-developer-jobs/?utm_source=cooperpress&amp;utm_medium=email-ad&amp;utm_campaign=frontend</guid>
             <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Waterfaller: Find Slowdowns On Your Web Page & Create Tasks to Boost Speed and Core Web Vital Scores]]></title>
-            <link>https://frontendfoc.us/link/106353/rss</link>
-            <guid>https://frontendfoc.us/link/106353/rss</guid>
+            <link>https://waterfaller.dev/</link>
+            <guid>https://waterfaller.dev/</guid>
             <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cumulative Layout Shift Debugger: Rate and Visualize the Cumulative Layout Shifts of Any Webpage]]></title>
-            <link>https://frontendfoc.us/link/106355/rss</link>
-            <guid>https://frontendfoc.us/link/106355/rss</guid>
+            <link>https://webvitals.dev/cls</link>
+            <guid>https://webvitals.dev/cls</guid>
             <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Frontend Toolkit: A Small Collection of Useful Online Optimizers and Converters]]></title>
-            <link>https://frontendfoc.us/link/106358/rss</link>
-            <guid>https://frontendfoc.us/link/106358/rss</guid>
+            <link>https://www.fetoolkit.io/</link>
+            <guid>https://www.fetoolkit.io/</guid>
             <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[CSS-Select 4.0: A CSS Selector Compiler and Engine]]></title>
-            <link>https://frontendfoc.us/link/106359/rss</link>
-            <guid>https://frontendfoc.us/link/106359/rss</guid>
+            <link>https://github.com/fb55/css-select</link>
+            <guid>https://github.com/fb55/css-select</guid>
             <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[moovie.js: A Movie-Focused HTML5 Media Player]]></title>
-            <link>https://frontendfoc.us/link/106361/rss</link>
-            <guid>https://frontendfoc.us/link/106361/rss</guid>
+            <link>https://github.com/BMSVieira/moovie.js</link>
+            <guid>https://github.com/BMSVieira/moovie.js</guid>
             <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kaboom.js: A Fun JS Game Programming Library and Environment]]></title>
-            <link>https://frontendfoc.us/link/106364/rss</link>
-            <guid>https://frontendfoc.us/link/106364/rss</guid>
+            <link>https://replit.com/kaboom</link>
+            <guid>https://replit.com/kaboom</guid>
             <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sticky Headers: Five Ways to Make Them Better]]></title>
-            <link>https://frontendfoc.us/link/106344/rss</link>
-            <guid>https://frontendfoc.us/link/106344/rss</guid>
+            <link>https://www.nngroup.com/articles/sticky-headers/</link>
+            <guid>https://www.nngroup.com/articles/sticky-headers/</guid>
             <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Building React + Vue Support for Tailwind UI]]></title>
-            <link>https://frontendfoc.us/link/106345/rss</link>
-            <guid>https://frontendfoc.us/link/106345/rss</guid>
+            <link>https://blog.tailwindcss.com/building-react-and-vue-support-for-tailwind-ui</link>
+            <guid>https://blog.tailwindcss.com/building-react-and-vue-support-for-tailwind-ui</guid>
             <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Build a Web App with Modern JavaScript and Web Components]]></title>
-            <link>https://frontendfoc.us/link/106347/rss</link>
-            <guid>https://frontendfoc.us/link/106347/rss</guid>
+            <link>https://www.sitepoint.com/build-frameworkless-web-app-modern-javascript-web-components/</link>
+            <guid>https://www.sitepoint.com/build-frameworkless-web-app-modern-javascript-web-components/</guid>
             <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>

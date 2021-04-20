@@ -4,122 +4,122 @@
         <title>React Status</title>
         <link>https://react.statuscode.com/</link>
         <description>A weekly roundup of the latest React and React Native links and tutorials.</description>
-        <lastBuildDate>Mon, 19 Apr 2021 07:48:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Apr 2021 07:48:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
             <title><![CDATA[Leva: A GUI Panel for React]]></title>
-            <link>https://react.statuscode.com/link/106229/rss</link>
-            <guid>https://react.statuscode.com/link/106229/rss</guid>
+            <link>https://github.com/pmndrs/leva</link>
+            <guid>https://github.com/pmndrs/leva</guid>
             <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Building React Applications Using Deno: The Definite Guide]]></title>
-            <link>https://react.statuscode.com/link/106230/rss</link>
-            <guid>https://react.statuscode.com/link/106230/rss</guid>
+            <link>https://dev.to/thewritingdev/building-react-applications-using-deno-the-definite-guide-31e9</link>
+            <guid>https://dev.to/thewritingdev/building-react-applications-using-deno-the-definite-guide-31e9</guid>
             <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vue Explained to React Developers in 6 Minutes]]></title>
-            <link>https://react.statuscode.com/link/106235/rss</link>
-            <guid>https://react.statuscode.com/link/106235/rss</guid>
+            <link>https://www.youtube.com/watch?v=sUH7PDUswio</link>
+            <guid>https://www.youtube.com/watch?v=sUH7PDUswio</guid>
             <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Announcing react-pdf v2.0]]></title>
-            <link>https://react.statuscode.com/link/106236/rss</link>
-            <guid>https://react.statuscode.com/link/106236/rss</guid>
+            <link>https://react-pdf.org/blog/announcing-react-pdf-v2</link>
+            <guid>https://react-pdf.org/blog/announcing-react-pdf-v2</guid>
             <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hyperapp – Is It a Lightweight 'React Killer'?]]></title>
-            <link>https://react.statuscode.com/link/106237/rss</link>
-            <guid>https://react.statuscode.com/link/106237/rss</guid>
+            <link>https://blog.asayer.io/hyperapp-is-it-the-lightweight-react-killer/</link>
+            <guid>https://blog.asayer.io/hyperapp-is-it-the-lightweight-react-killer/</guid>
             <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Remote Full-Stack Software Developer Opportunity]]></title>
-            <link>https://react.statuscode.com/link/106239/rss</link>
-            <guid>https://react.statuscode.com/link/106239/rss</guid>
+            <link>https://apply.workable.com/faithlife/j/8863C1E362/</link>
+            <guid>https://apply.workable.com/faithlife/j/8863C1E362/</guid>
             <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Find React Jobs with Hired]]></title>
-            <link>https://react.statuscode.com/link/106240/rss</link>
-            <guid>https://react.statuscode.com/link/106240/rss</guid>
+            <link>https://hired.com/join/?utm_source=newsletter&amp;utm_medium=sponsor&amp;utm_campaign=(b2c)(l-all)(r-all)(cooper-reactstatus)&amp;utm_content=find-your-next-job</link>
+            <guid>https://hired.com/join/?utm_source=newsletter&amp;utm_medium=sponsor&amp;utm_campaign=(b2c)(l-all)(r-all)(cooper-reactstatus)&amp;utm_content=find-your-next-job</guid>
             <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Export React Components as Images Using html2canvas]]></title>
-            <link>https://react.statuscode.com/link/106241/rss</link>
-            <guid>https://react.statuscode.com/link/106241/rss</guid>
+            <link>https://t.co/NOFcmvHqnL?amp=1</link>
+            <guid>https://t.co/NOFcmvHqnL?amp=1</guid>
             <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rebuilding Our Jekyll Website with Next.js and Theme UI]]></title>
-            <link>https://react.statuscode.com/link/106243/rss</link>
-            <guid>https://react.statuscode.com/link/106243/rss</guid>
+            <link>https://ghostinspector.com/blog/rebuilding-jekyll-website-next-js-theme-ui/</link>
+            <guid>https://ghostinspector.com/blog/rebuilding-jekyll-website-next-js-theme-ui/</guid>
             <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Three.js with React Hooks]]></title>
-            <link>https://react.statuscode.com/link/106244/rss</link>
-            <guid>https://react.statuscode.com/link/106244/rss</guid>
+            <link>https://t.co/BFVnHFtfEs?amp=1</link>
+            <guid>https://t.co/BFVnHFtfEs?amp=1</guid>
             <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Useful React Tips and Tricks for Beginners]]></title>
-            <link>https://react.statuscode.com/link/106247/rss</link>
-            <guid>https://react.statuscode.com/link/106247/rss</guid>
+            <link>https://t.co/Cw387sxIXA?amp=1</link>
+            <guid>https://t.co/Cw387sxIXA?amp=1</guid>
             <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mocking APIs During Development in React]]></title>
-            <link>https://react.statuscode.com/link/106367/rss</link>
-            <guid>https://react.statuscode.com/link/106367/rss</guid>
+            <link>https://www.youtube.com/watch?v=HkWciooQVvA</link>
+            <guid>https://www.youtube.com/watch?v=HkWciooQVvA</guid>
             <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Delay Dispatching Actions in Redux using Thunk Middleware]]></title>
-            <link>https://react.statuscode.com/link/106250/rss</link>
-            <guid>https://react.statuscode.com/link/106250/rss</guid>
+            <link>https://www.amitmerchant.com/delay-dispatching-actions-in-redux-using-redux-thunk-middleware/</link>
+            <guid>https://www.amitmerchant.com/delay-dispatching-actions-in-redux-using-redux-thunk-middleware/</guid>
             <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[react-spinners-css: A Pure CSS Collection]]></title>
-            <link>https://react.statuscode.com/link/106251/rss</link>
-            <guid>https://react.statuscode.com/link/106251/rss</guid>
+            <link>https://bit.dev/joshk/react-spinners-css</link>
+            <guid>https://bit.dev/joshk/react-spinners-css</guid>
             <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[use-debounce 6.0: A Debounce Hook for React]]></title>
-            <link>https://react.statuscode.com/link/106253/rss</link>
-            <guid>https://react.statuscode.com/link/106253/rss</guid>
+            <link>https://www.npmjs.com/package/use-debounce</link>
+            <guid>https://www.npmjs.com/package/use-debounce</guid>
             <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[CCY Icons: 330+ Meticulously Combed Currency Icons]]></title>
-            <link>https://react.statuscode.com/link/106256/rss</link>
-            <guid>https://react.statuscode.com/link/106256/rss</guid>
+            <link>https://github.com/DominicTobias/ccy-icons</link>
+            <guid>https://github.com/DominicTobias/ccy-icons</guid>
             <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[react-billboardjs: Billboard.js for React]]></title>
-            <link>https://react.statuscode.com/link/106257/rss</link>
-            <guid>https://react.statuscode.com/link/106257/rss</guid>
+            <link>https://github.com/planttheidea/react-billboardjs</link>
+            <guid>https://github.com/planttheidea/react-billboardjs</guid>
             <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Next Page Tester: DOM Integration Testing for Next.js Pages]]></title>
-            <link>https://react.statuscode.com/link/106258/rss</link>
-            <guid>https://react.statuscode.com/link/106258/rss</guid>
+            <link>https://github.com/toomuchdesign/next-page-tester</link>
+            <guid>https://github.com/toomuchdesign/next-page-tester</guid>
             <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[d3-axis-for-react: Automatic Reference Marks for Scales]]></title>
-            <link>https://react.statuscode.com/link/106259/rss</link>
-            <guid>https://react.statuscode.com/link/106259/rss</guid>
+            <link>https://github.com/tmcw/d3-axis-for-react</link>
+            <guid>https://github.com/tmcw/d3-axis-for-react</guid>
             <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>

@@ -4,86 +4,86 @@
         <title>Node Weekly</title>
         <link>https://nodeweekly.com/</link>
         <description>A free, once–weekly e-mail round-up of Node.js news and articles.</description>
-        <lastBuildDate>Mon, 19 Apr 2021 07:47:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Apr 2021 07:47:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
             <title><![CDATA[A Simple Start to ES Modules in Node.js]]></title>
-            <link>https://nodeweekly.com/link/106392/rss</link>
-            <guid>https://nodeweekly.com/link/106392/rss</guid>
+            <link>https://kentcdodds.com/blog/super-simple-start-to-es-modules-in-node-js/</link>
+            <guid>https://kentcdodds.com/blog/super-simple-start-to-es-modules-in-node-js/</guid>
             <pubDate>Thu, 15 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What About Bundling Yarn 1.x with Node.js? Maybe!]]></title>
-            <link>https://nodeweekly.com/link/106393/rss</link>
-            <guid>https://nodeweekly.com/link/106393/rss</guid>
+            <link>https://github.com/nodejs/node/pull/37277</link>
+            <guid>https://github.com/nodejs/node/pull/37277</guid>
             <pubDate>Thu, 15 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Deno 1.9 Released]]></title>
-            <link>https://nodeweekly.com/link/106395/rss</link>
-            <guid>https://nodeweekly.com/link/106395/rss</guid>
+            <link>https://deno.com/blog/v1.9</link>
+            <guid>https://deno.com/blog/v1.9</guid>
             <pubDate>Thu, 15 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[5 Hours on Node DevOps with Docker]]></title>
-            <link>https://nodeweekly.com/link/106399/rss</link>
-            <guid>https://nodeweekly.com/link/106399/rss</guid>
+            <link>https://www.youtube.com/watch?v=jotpVtFwYBk</link>
+            <guid>https://www.youtube.com/watch?v=jotpVtFwYBk</guid>
             <pubDate>Thu, 15 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Building a Video Streaming App with Nuxt.js, Node and Express]]></title>
-            <link>https://nodeweekly.com/link/106400/rss</link>
-            <guid>https://nodeweekly.com/link/106400/rss</guid>
+            <link>https://www.smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/</link>
+            <guid>https://www.smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/</guid>
             <pubDate>Thu, 15 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to Send Tweets with a JavaScript GitHub Action]]></title>
-            <link>https://nodeweekly.com/link/106402/rss</link>
-            <guid>https://nodeweekly.com/link/106402/rss</guid>
+            <link>https://hibbard.eu/tweet-javascript-github-action/</link>
+            <guid>https://hibbard.eu/tweet-javascript-github-action/</guid>
             <pubDate>Thu, 15 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scraping the Web with Playwright from Node]]></title>
-            <link>https://nodeweekly.com/link/106403/rss</link>
-            <guid>https://nodeweekly.com/link/106403/rss</guid>
+            <link>https://www.scrapingbee.com/blog/playwright-web-scraping/</link>
+            <guid>https://www.scrapingbee.com/blog/playwright-web-scraping/</guid>
             <pubDate>Thu, 15 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mastering Postgres Transactions with Knex.js and Objection.js]]></title>
-            <link>https://nodeweekly.com/link/106404/rss</link>
-            <guid>https://nodeweekly.com/link/106404/rss</guid>
+            <link>https://gregberge.com/blog/knex-transactions/</link>
+            <guid>https://gregberge.com/blog/knex-transactions/</guid>
             <pubDate>Thu, 15 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[WikiJs: A Wikipedia Interface for Node.js]]></title>
-            <link>https://nodeweekly.com/link/106405/rss</link>
-            <guid>https://nodeweekly.com/link/106405/rss</guid>
+            <link>https://github.com/dijs/wiki</link>
+            <guid>https://github.com/dijs/wiki</guid>
             <pubDate>Thu, 15 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[fast-folder-size 1.2.0: Calculate the Total Size of a Directory]]></title>
-            <link>https://nodeweekly.com/link/106406/rss</link>
-            <guid>https://nodeweekly.com/link/106406/rss</guid>
+            <link>https://github.com/simoneb/fast-folder-size</link>
+            <guid>https://github.com/simoneb/fast-folder-size</guid>
             <pubDate>Thu, 15 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Electron Boilerplate 9.0: A Boilerplate for Building Electron Apps]]></title>
-            <link>https://nodeweekly.com/link/106408/rss</link>
-            <guid>https://nodeweekly.com/link/106408/rss</guid>
+            <link>https://github.com/szwacz/electron-boilerplate</link>
+            <guid>https://github.com/szwacz/electron-boilerplate</guid>
             <pubDate>Thu, 15 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[tslog 3.2: 'Beautiful' Logging for Node with TypeScript Support]]></title>
-            <link>https://nodeweekly.com/link/106409/rss</link>
-            <guid>https://nodeweekly.com/link/106409/rss</guid>
+            <link>https://tslog.js.org/#/</link>
+            <guid>https://tslog.js.org/#/</guid>
             <pubDate>Thu, 15 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[JS-YAML: A Fast YAML 1.2 Parser and Dumper]]></title>
-            <link>https://nodeweekly.com/link/106410/rss</link>
-            <guid>https://nodeweekly.com/link/106410/rss</guid>
+            <link>https://github.com/nodeca/js-yaml</link>
+            <guid>https://github.com/nodeca/js-yaml</guid>
             <pubDate>Thu, 15 Apr 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>

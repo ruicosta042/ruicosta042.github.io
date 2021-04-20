@@ -4,15 +4,27 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Mon, 19 Apr 2021 07:48:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Apr 2021 07:48:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Content layout]]></title>
-            <link>https://drive.google.com/file/d/1VhpiX5b_ojwQabnr_auawlibnbrvffJy/view?usp=drivesdk</link>
-            <guid>https://drive.google.com/file/d/1VhpiX5b_ojwQabnr_auawlibnbrvffJy/view?usp=drivesdk</guid>
-            <pubDate>Mon, 19 Apr 2021 04:24:42 GMT</pubDate>
+            <title><![CDATA[Help understanding this CSS Grid syntax?]]></title>
+            <link>http://css-tricks.com/snippets/css/complete-guide-grid</link>
+            <guid>http://css-tricks.com/snippets/css/complete-guide-grid</guid>
+            <pubDate>Tue, 20 Apr 2021 00:55:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Changing the size of a content area]]></title>
+            <link>https://overlydevotedarchivist.net/</link>
+            <guid>https://overlydevotedarchivist.net/</guid>
+            <pubDate>Mon, 19 Apr 2021 19:15:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CSS Accordion Slider Generator]]></title>
+            <link>https://accordionslider.com/</link>
+            <guid>https://accordionslider.com/</guid>
+            <pubDate>Mon, 19 Apr 2021 15:05:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I made more VS Code themes, here they are.]]></title>
@@ -55,18 +67,6 @@
             <link>https://christianheilmann.com/2021/03/13/conditional-animation-with-css-properties/</link>
             <guid>https://christianheilmann.com/2021/03/13/conditional-animation-with-css-properties/</guid>
             <pubDate>Fri, 16 Apr 2021 12:25:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How can I achieve this effect (link in the post)?]]></title>
-            <link>https://microsoftedgewelcome.microsoft.com/en-us/update</link>
-            <guid>https://microsoftedgewelcome.microsoft.com/en-us/update</guid>
-            <pubDate>Fri, 16 Apr 2021 17:58:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[You can use CSS generators to avoid some time-consuming tasks. I made a collection of the best CSS generators for you.]]></title>
-            <link>https://markodenic.com/css-generators/</link>
-            <guid>https://markodenic.com/css-generators/</guid>
-            <pubDate>Thu, 15 Apr 2021 14:43:32 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Mon, 19 Apr 2021 07:48:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Apr 2021 07:48:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,52 +15,76 @@
             <pubDate>Thu, 01 Apr 2021 06:19:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[uiwtf — an experimental laboratory for user interfaces]]></title>
+            <link>https://uiw.tf/</link>
+            <guid>https://uiw.tf/</guid>
+            <pubDate>Mon, 19 Apr 2021 08:50:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[RTK Query 0.3 Final Beta: custom query functions, lazy queries, and more!]]></title>
+            <link>https://github.com/rtk-incubator/rtk-query/releases/tag/v0.3.0</link>
+            <guid>https://github.com/rtk-incubator/rtk-query/releases/tag/v0.3.0</guid>
+            <pubDate>Mon, 19 Apr 2021 13:55:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Help debugging my react form]]></title>
+            <link>https://user-images.githubusercontent.com/15223809/115318142-5c153180-a13a-11eb-9621-1a7e9ae7efb5.JPG</link>
+            <guid>https://user-images.githubusercontent.com/15223809/115318142-5c153180-a13a-11eb-9621-1a7e9ae7efb5.JPG</guid>
+            <pubDate>Tue, 20 Apr 2021 00:17:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Star Wars exploration]]></title>
+            <link>https://qvazi.github.io/sw-api-execution/</link>
+            <guid>https://qvazi.github.io/sw-api-execution/</guid>
+            <pubDate>Mon, 19 Apr 2021 16:49:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I've made a HackerNews for automotive industry in Next.js, React and TypeScript!]]></title>
+            <link>https://autonews.io/</link>
+            <guid>https://autonews.io/</guid>
+            <pubDate>Mon, 19 Apr 2021 14:33:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React Components as TypeScript Generic Functions]]></title>
+            <link>https://javascript.plainenglish.io/react-components-as-typescript-generic-functions-8aa83afff597</link>
+            <guid>https://javascript.plainenglish.io/react-components-as-typescript-generic-functions-8aa83afff597</guid>
+            <pubDate>Mon, 19 Apr 2021 23:51:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[React Rhino] - Simple and Light weight global state management]]></title>
+            <link>https://codesandbox.io/s/react-rhino-example-svv5b</link>
+            <guid>https://codesandbox.io/s/react-rhino-example-svv5b</guid>
+            <pubDate>Mon, 19 Apr 2021 19:26:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Comparing the HashRouter and the BrowserRouter in React applications]]></title>
+            <link>https://wanago.io/2021/04/19/hashrouter-browserrouter-react/</link>
+            <guid>https://wanago.io/2021/04/19/hashrouter-browserrouter-react/</guid>
+            <pubDate>Mon, 19 Apr 2021 18:09:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Apollo client cache equivalent for REST?]]></title>
+            <link>https://www.apollographql.com/docs/react/api/link/apollo-link-rest/</link>
+            <guid>https://www.apollographql.com/docs/react/api/link/apollo-link-rest/</guid>
+            <pubDate>Mon, 19 Apr 2021 18:45:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Just release my first ReactJS & NodeJS SaaS boilerplate]]></title>
             <link>https://github.com/JSLancerTeam/saasgear</link>
             <guid>https://github.com/JSLancerTeam/saasgear</guid>
             <pubDate>Mon, 19 Apr 2021 03:39:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Creating a Sleek Masonry Gallery with React and WebAssembly]]></title>
-            <link>https://dev.to/rvanderlaan/creating-a-sleek-masonry-gallery-with-react-and-webassembly-17p2</link>
-            <guid>https://dev.to/rvanderlaan/creating-a-sleek-masonry-gallery-with-react-and-webassembly-17p2</guid>
-            <pubDate>Sun, 18 Apr 2021 21:34:55 GMT</pubDate>
+            <title><![CDATA[I compared Redux against React.Context and the winner is...]]></title>
+            <link>https://github.com/gchumillas/redux_vs_context</link>
+            <guid>https://github.com/gchumillas/redux_vs_context</guid>
+            <pubDate>Mon, 19 Apr 2021 19:01:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scripts may close only the windows that were opened by them workaround]]></title>
-            <link>https://react-popup.elazizi.com/react-modal/</link>
-            <guid>https://react-popup.elazizi.com/react-modal/</guid>
-            <pubDate>Mon, 19 Apr 2021 03:06:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[To learn functional components and custom hooks, I wrote a mobile-friendly Carousel component with support for touch, mouse dragging, lazy loading, thumbnails, fullscreen, keyboard navigation and RTL.]]></title>
-            <link>https://github.com/yifaneye/react-gallery-carousel</link>
-            <guid>https://github.com/yifaneye/react-gallery-carousel</guid>
-            <pubDate>Sun, 18 Apr 2021 14:14:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Using custom properties from libraries like `thumbClassName` doesn't style properly in Tailwind CSS?]]></title>
-            <link>https://zillow.github.io/react-slider</link>
-            <guid>https://zillow.github.io/react-slider</guid>
-            <pubDate>Mon, 19 Apr 2021 01:37:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Automatically create mock JSON endpoint]]></title>
-            <link>https://the-mock-json-api.herokuapp.com/</link>
-            <guid>https://the-mock-json-api.herokuapp.com/</guid>
-            <pubDate>Sun, 18 Apr 2021 17:36:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Web based database GUI built in React / RTK]]></title>
-            <link>https://aidmin.io/</link>
-            <guid>https://aidmin.io/</guid>
-            <pubDate>Sun, 18 Apr 2021 16:40:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I created a tool with Next.js and Tailwind that allows you to version track your images like your code]]></title>
-            <link>https://www.sourcecompare.com/</link>
-            <guid>https://www.sourcecompare.com/</guid>
-            <pubDate>Sat, 17 Apr 2021 17:01:17 GMT</pubDate>
+            <title><![CDATA[How to create a Mock Server using Faker.js and JSON-Server]]></title>
+            <link>https://shivaraj-bakale.medium.com/how-to-generate-mock-data-using-faker-js-and-json-server-1d17007a08e4</link>
+            <guid>https://shivaraj-bakale.medium.com/how-to-generate-mock-data-using-faker-js-and-json-server-1d17007a08e4</guid>
+            <pubDate>Mon, 19 Apr 2021 08:17:54 GMT</pubDate>
         </item>
     </channel>
 </rss>

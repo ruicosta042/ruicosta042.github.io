@@ -4,56 +4,56 @@
         <title>Serverless Status</title>
         <link>https://serverless.email/</link>
         <description>A weekly newsletter on serverless and function-as-a-service (FaaS) architectures and platforms including AWS Lambda and Azure Functions.</description>
-        <lastBuildDate>Mon, 19 Apr 2021 07:48:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Apr 2021 07:48:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
             <title><![CDATA[Cloudflare Workers Introduces WebSockets Support]]></title>
-            <link>https://serverless.email/link/106471/rss</link>
-            <guid>https://serverless.email/link/106471/rss</guid>
+            <link>https://blog.cloudflare.com/introducing-websockets-in-workers/</link>
+            <guid>https://blog.cloudflare.com/introducing-websockets-in-workers/</guid>
             <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Announcing Cloudflare Workers Unbound for General Availability]]></title>
-            <link>https://serverless.email/link/106472/rss</link>
-            <guid>https://serverless.email/link/106472/rss</guid>
+            <link>https://blog.cloudflare.com/workers-unbound-ga/</link>
+            <guid>https://blog.cloudflare.com/workers-unbound-ga/</guid>
             <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AWS Putting on Virtual 'Serverless Live' Event on May 19]]></title>
-            <link>https://serverless.email/link/106474/rss</link>
-            <guid>https://serverless.email/link/106474/rss</guid>
+            <link>https://aws.amazon.com/blogs/compute/register-now-for-the-serverless-live-virtual-event/</link>
+            <guid>https://aws.amazon.com/blogs/compute/register-now-for-the-serverless-live-virtual-event/</guid>
             <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Location-Based Personalization at the Edge with Cloudflare Workers]]></title>
-            <link>https://serverless.email/link/106475/rss</link>
-            <guid>https://serverless.email/link/106475/rss</guid>
+            <link>https://blog.cloudflare.com/location-based-personalization-using-workers/</link>
+            <guid>https://blog.cloudflare.com/location-based-personalization-using-workers/</guid>
             <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Getting Started with Serverless for Developers: Part 1]]></title>
-            <link>https://serverless.email/link/106476/rss</link>
-            <guid>https://serverless.email/link/106476/rss</guid>
+            <link>https://aws.amazon.com/blogs/compute/getting-started-with-serverless-for-developers-part-1/</link>
+            <guid>https://aws.amazon.com/blogs/compute/getting-started-with-serverless-for-developers-part-1/</guid>
             <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Why I Wouldn’t Choose S3 Bucket Notifications Again']]></title>
-            <link>https://serverless.email/link/106477/rss</link>
-            <guid>https://serverless.email/link/106477/rss</guid>
+            <link>https://chris-blogs.medium.com/why-i-wouldnt-choose-s3-bucket-notifications-again-84937286bfb6</link>
+            <guid>https://chris-blogs.medium.com/why-i-wouldnt-choose-s3-bucket-notifications-again-84937286bfb6</guid>
             <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Serverless and Machine Learning with Alexandra Abbas]]></title>
-            <link>https://serverless.email/link/106478/rss</link>
-            <guid>https://serverless.email/link/106478/rss</guid>
+            <link>https://www.serverlesschats.com/96/</link>
+            <guid>https://www.serverlesschats.com/96/</guid>
             <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[End-to-End Serverless ETL Orchestration with AWS]]></title>
-            <link>https://serverless.email/link/106479/rss</link>
-            <guid>https://serverless.email/link/106479/rss</guid>
+            <link>https://rittikajindal.medium.com/end-to-end-serverless-etl-orchestration-in-aws-322fedd4402f</link>
+            <guid>https://rittikajindal.medium.com/end-to-end-serverless-etl-orchestration-in-aws-322fedd4402f</guid>
             <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>

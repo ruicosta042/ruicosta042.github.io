@@ -4,10 +4,64 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Mon, 19 Apr 2021 07:48:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Apr 2021 07:48:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Technical guides for building application authorization]]></title>
+            <link>https://www.osohq.com/developers/authorization-academy</link>
+            <guid>https://www.osohq.com/developers/authorization-academy</guid>
+            <pubDate>Mon, 19 Apr 2021 21:14:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ReactJS & NodeJS SaaS boilerplate]]></title>
+            <link>https://github.com/JSLancerTeam/saasgear</link>
+            <guid>https://github.com/JSLancerTeam/saasgear</guid>
+            <pubDate>Tue, 20 Apr 2021 02:49:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Just published @napi-rs/canvas v0.0.4. Support full featured PathKit functions, and text rendering/metrics will be released soon.]]></title>
+            <link>https://github.com/Brooooooklyn/canvas#pathkit</link>
+            <guid>https://github.com/Brooooooklyn/canvas#pathkit</guid>
+            <pubDate>Tue, 20 Apr 2021 05:28:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[is-odd is bad]]></title>
+            <link>https://clips.twitch.tv/CallousAttractiveMarjoramTBTacoLeft-hixlJo6faLduEmH5</link>
+            <guid>https://clips.twitch.tv/CallousAttractiveMarjoramTBTacoLeft-hixlJo6faLduEmH5</guid>
+            <pubDate>Mon, 19 Apr 2021 08:22:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[node-beanstalk - t he most comprehensive beanstalk client for nodejs]]></title>
+            <link>https://github.com/xobotyi/node-beanstalk</link>
+            <guid>https://github.com/xobotyi/node-beanstalk</guid>
+            <pubDate>Mon, 19 Apr 2021 22:36:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is there anyone who is using Metarhia technology stack on node?]]></title>
+            <link>https://github.com/metarhia</link>
+            <guid>https://github.com/metarhia</guid>
+            <pubDate>Mon, 19 Apr 2021 18:16:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[5 ways to prevent code injection in JavaScript and Node.js]]></title>
+            <link>https://snyk.io/blog/5-ways-to-prevent-code-injection-in-javascript-and-node-js/</link>
+            <guid>https://snyk.io/blog/5-ways-to-prevent-code-injection-in-javascript-and-node-js/</guid>
+            <pubDate>Mon, 19 Apr 2021 11:55:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Most Popular Backend Frameworks – 2012/2021]]></title>
+            <link>https://statisticsanddata.org/data/most-popular-backend-frameworks-2012-2021/</link>
+            <guid>https://statisticsanddata.org/data/most-popular-backend-frameworks-2012-2021/</guid>
+            <pubDate>Mon, 19 Apr 2021 11:47:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Security Issue with Node Server]]></title>
+            <link>https://whynopadlock.com/</link>
+            <guid>https://whynopadlock.com/</guid>
+            <pubDate>Mon, 19 Apr 2021 15:27:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Good reference for express open source repo]]></title>
             <link>https://github.com/GeekyAnts/express-typescript</link>
@@ -15,40 +69,16 @@
             <pubDate>Mon, 19 Apr 2021 03:20:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Planning to create a full-stack open source project]]></title>
-            <link>https://strapi.io/</link>
-            <guid>https://strapi.io/</guid>
-            <pubDate>Sun, 18 Apr 2021 11:03:51 GMT</pubDate>
+            <title><![CDATA[Stack Data Structure in Javascript]]></title>
+            <link>https://link.medium.com/q0KVTK10zfb</link>
+            <guid>https://link.medium.com/q0KVTK10zfb</guid>
+            <pubDate>Mon, 19 Apr 2021 09:56:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mock JSON endpoint]]></title>
-            <link>https://the-mock-json-api.herokuapp.com/</link>
-            <guid>https://the-mock-json-api.herokuapp.com/</guid>
-            <pubDate>Sun, 18 Apr 2021 20:27:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Running modern NodeJS on Solaris]]></title>
-            <link>https://github.com/nodejs/node/pull/37772</link>
-            <guid>https://github.com/nodejs/node/pull/37772</guid>
-            <pubDate>Sun, 18 Apr 2021 19:53:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Created an open-source solution to keep Github and Jira issues in sync]]></title>
-            <link>https://github.com/marcelovicentegc/octosync</link>
-            <guid>https://github.com/marcelovicentegc/octosync</guid>
-            <pubDate>Sat, 17 Apr 2021 19:59:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Build a ChatApp with: (Nodejs,Socketio, Expressjs ,MongoDB) - free course from udemy]]></title>
-            <link>https://www.myfreeonlinecourses.com/2021/04/100-off-build-chatapp-with.html</link>
-            <guid>https://www.myfreeonlinecourses.com/2021/04/100-off-build-chatapp-with.html</guid>
-            <pubDate>Sat, 17 Apr 2021 18:16:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Performance trace recipes with Puppeteer]]></title>
-            <link>https://addyosmani.com/blog/puppeteer-recipes/</link>
-            <guid>https://addyosmani.com/blog/puppeteer-recipes/</guid>
-            <pubDate>Sat, 17 Apr 2021 14:19:43 GMT</pubDate>
+            <title><![CDATA[Guide: Quick and dirty Docker development environment for Node.js apps]]></title>
+            <link>https://danielgaldev.medium.com/quick-and-dirty-docker-development-environment-for-node-js-apps-70fa1a130714</link>
+            <guid>https://danielgaldev.medium.com/quick-and-dirty-docker-development-environment-for-node-js-apps-70fa1a130714</guid>
+            <pubDate>Mon, 19 Apr 2021 08:33:37 GMT</pubDate>
         </item>
     </channel>
 </rss>

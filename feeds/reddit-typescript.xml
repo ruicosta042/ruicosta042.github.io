@@ -4,10 +4,28 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Tue, 20 Apr 2021 07:48:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Apr 2021 07:48:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[ component for your React project: react-color-palette]]></title>
+            <link>https://github.com/Wondermarin/react-color-palette</link>
+            <guid>https://github.com/Wondermarin/react-color-palette</guid>
+            <pubDate>Tue, 20 Apr 2021 19:52:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Understanding `(...args: never[]) => ...` in TypeScript Handbook]]></title>
+            <link>https://www.typescriptlang.org/docs/handbook/2/conditional-types.html#inferring-within-conditional-types</link>
+            <guid>https://www.typescriptlang.org/docs/handbook/2/conditional-types.html#inferring-within-conditional-types</guid>
+            <pubDate>Tue, 20 Apr 2021 19:42:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React: Smart component API with conditional props and TypeScript]]></title>
+            <link>https://iskenxan.medium.com/react-write-awesome-component-api-with-conditional-props-and-typescript-ae9fcdd29cab?source=friends_link&amp;sk=46db215c3b72f82713d84ebb74ab962b</link>
+            <guid>https://iskenxan.medium.com/react-write-awesome-component-api-with-conditional-props-and-typescript-ae9fcdd29cab?source=friends_link&amp;sk=46db215c3b72f82713d84ebb74ab962b</guid>
+            <pubDate>Tue, 20 Apr 2021 11:24:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Schrödinger's Discriminated Union]]></title>
             <link>https://blog.yoavlavi.com/schroedingers/</link>
@@ -97,18 +115,6 @@
             <link>https://foo.com/</link>
             <guid>https://foo.com/</guid>
             <pubDate>Fri, 16 Apr 2021 12:54:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Filtering of (string|null)[] to only have a string[] not working?]]></title>
-            <link>https://www.typescriptlang.org/play?ssl=4&amp;ssc=26&amp;pln=1&amp;pc=1#code/MYewdgzgLgBNBOBLMBzAgveAuOUmoG0BdGAXhgIFgAoGOmAOiYLAFcAbdgGhgCIBDXkS416jZgN5c2nIjSIMAZonZQApvAAUEMgD44MAISlyM9gEogA</link>
-            <guid>https://www.typescriptlang.org/play?ssl=4&amp;ssc=26&amp;pln=1&amp;pc=1#code/MYewdgzgLgBNBOBLMBzAgveAuOUmoG0BdGAXhgIFgAoGOmAOiYLAFcAbdgGhgCIBDXkS416jZgN5c2nIjSIMAZonZQApvAAUEMgD44MAISlyM9gEogA</guid>
-            <pubDate>Thu, 15 Apr 2021 13:05:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to get a Subset type of interface, without Partial]]></title>
-            <link>https://www.typescriptlang.org/play?#code/JYWwDg9gTgLgBAJQKYEMDG8BmUIjgcilQ3wG4Aoc4AOxiSk3STgAUcwBnOAb3LjmooQSAFxwOMKDQDmFfjAAWSYWIlTqs8gF9yMAJ5hmAESSMArgBsYbCJzgBeVsDQBrADw3OAGgKLlSfAA+cjQLFA4uADkhJABhXEhqJFo4JAAPOmoAEy5kdBgAOnjwCCTaD3YOQJ4+cRgUGGc4LNMUS2tKhxr+eSUVAhbzK3xanS0KckwzagxgUrgAd2BFABU+pDdallSM5JyeOD9hAH5VSRk4LS9akyGO2y50zP2WFFhgFAsPYMCAClrYmEIsVEskYGI8hgiglSmCVgYNixggBKbpwIgwMxQaiIYiFTDQBZvLLITBuFDUPQ+JH-HpwX5gSqo+zVNyA8IcEGwlLcAp8xkPLRwAD0wX4yO0EzQpQkcDW-iy0WEXSWq3WFQePlubSsniqvyVcRhZRgyKlMvgdFljl+zNZ8uEipiAhi9gARAAjCAALyyPrdIsCpCAA</link>
-            <guid>https://www.typescriptlang.org/play?#code/JYWwDg9gTgLgBAJQKYEMDG8BmUIjgcilQ3wG4Aoc4AOxiSk3STgAUcwBnOAb3LjmooQSAFxwOMKDQDmFfjAAWSYWIlTqs8gF9yMAJ5hmAESSMArgBsYbCJzgBeVsDQBrADw3OAGgKLlSfAA+cjQLFA4uADkhJABhXEhqJFo4JAAPOmoAEy5kdBgAOnjwCCTaD3YOQJ4+cRgUGGc4LNMUS2tKhxr+eSUVAhbzK3xanS0KckwzagxgUrgAd2BFABU+pDdallSM5JyeOD9hAH5VSRk4LS9akyGO2y50zP2WFFhgFAsPYMCAClrYmEIsVEskYGI8hgiglSmCVgYNixggBKbpwIgwMxQaiIYiFTDQBZvLLITBuFDUPQ+JH-HpwX5gSqo+zVNyA8IcEGwlLcAp8xkPLRwAD0wX4yO0EzQpQkcDW-iy0WEXSWq3WFQePlubSsniqvyVcRhZRgyKlMvgdFljl+zNZ8uEipiAhi9gARAAjCAALyyPrdIsCpCAA</guid>
-            <pubDate>Thu, 15 Apr 2021 16:57:28 GMT</pubDate>
         </item>
     </channel>
 </rss>

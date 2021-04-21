@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Tue, 20 Apr 2021 07:48:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Apr 2021 07:48:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,76 +15,70 @@
             <pubDate>Thu, 01 Apr 2021 06:19:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[uiwtf — an experimental laboratory for user interfaces]]></title>
-            <link>https://uiw.tf/</link>
-            <guid>https://uiw.tf/</guid>
-            <pubDate>Mon, 19 Apr 2021 08:50:15 GMT</pubDate>
+            <title><![CDATA[Advanced animation patterns with Framer Motion]]></title>
+            <link>https://blog.maximeheckel.com/posts/advanced-animation-patterns-with-framer-motion/</link>
+            <guid>https://blog.maximeheckel.com/posts/advanced-animation-patterns-with-framer-motion/</guid>
+            <pubDate>Tue, 20 Apr 2021 15:43:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[RTK Query 0.3 Final Beta: custom query functions, lazy queries, and more!]]></title>
-            <link>https://github.com/rtk-incubator/rtk-query/releases/tag/v0.3.0</link>
-            <guid>https://github.com/rtk-incubator/rtk-query/releases/tag/v0.3.0</guid>
-            <pubDate>Mon, 19 Apr 2021 13:55:51 GMT</pubDate>
+            <title><![CDATA[We're making a social networking app in React Native! Please fill out our survey if interested! Details inside!]]></title>
+            <link>https://drive.google.com/file/d/1qbSUUPk2YXtUMEXYE9hkfSpyTl7V6piw/view?usp=sharing</link>
+            <guid>https://drive.google.com/file/d/1qbSUUPk2YXtUMEXYE9hkfSpyTl7V6piw/view?usp=sharing</guid>
+            <pubDate>Wed, 21 Apr 2021 01:53:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Help debugging my react form]]></title>
-            <link>https://user-images.githubusercontent.com/15223809/115318142-5c153180-a13a-11eb-9621-1a7e9ae7efb5.JPG</link>
-            <guid>https://user-images.githubusercontent.com/15223809/115318142-5c153180-a13a-11eb-9621-1a7e9ae7efb5.JPG</guid>
-            <pubDate>Tue, 20 Apr 2021 00:17:56 GMT</pubDate>
+            <title><![CDATA[How to Deploy React Router Based Application to Netlify]]></title>
+            <link>https://blog.yogeshchavan.dev/how-to-deploy-react-router-based-application-to-netlify</link>
+            <guid>https://blog.yogeshchavan.dev/how-to-deploy-react-router-based-application-to-netlify</guid>
+            <pubDate>Wed, 21 Apr 2021 07:41:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Star Wars exploration]]></title>
-            <link>https://qvazi.github.io/sw-api-execution/</link>
-            <guid>https://qvazi.github.io/sw-api-execution/</guid>
-            <pubDate>Mon, 19 Apr 2021 16:49:56 GMT</pubDate>
+            <title><![CDATA[Fower v1.0 - an utility-first CSS in JS library for rapid UI development]]></title>
+            <link>https://tailwindcss.com/</link>
+            <guid>https://tailwindcss.com/</guid>
+            <pubDate>Wed, 21 Apr 2021 07:27:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I've made a HackerNews for automotive industry in Next.js, React and TypeScript!]]></title>
-            <link>https://autonews.io/</link>
-            <guid>https://autonews.io/</guid>
-            <pubDate>Mon, 19 Apr 2021 14:33:44 GMT</pubDate>
+            <title><![CDATA[react context API empty in childs after build with rollup]]></title>
+            <link>https://ibb.co/ChYkHm9</link>
+            <guid>https://ibb.co/ChYkHm9</guid>
+            <pubDate>Wed, 21 Apr 2021 06:59:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React Components as TypeScript Generic Functions]]></title>
-            <link>https://javascript.plainenglish.io/react-components-as-typescript-generic-functions-8aa83afff597</link>
-            <guid>https://javascript.plainenglish.io/react-components-as-typescript-generic-functions-8aa83afff597</guid>
-            <pubDate>Mon, 19 Apr 2021 23:51:05 GMT</pubDate>
+            <title><![CDATA[Let's approach TypeScript together]]></title>
+            <link>https://calendly.com/preshonyee/approachable-typescript</link>
+            <guid>https://calendly.com/preshonyee/approachable-typescript</guid>
+            <pubDate>Wed, 21 Apr 2021 06:54:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[React Rhino] - Simple and Light weight global state management]]></title>
-            <link>https://codesandbox.io/s/react-rhino-example-svv5b</link>
-            <guid>https://codesandbox.io/s/react-rhino-example-svv5b</guid>
-            <pubDate>Mon, 19 Apr 2021 19:26:38 GMT</pubDate>
+            <title><![CDATA[How to Build a Data-Driven Map Using React and Mapbox]]></title>
+            <link>https://www.lostcreekdesigns.co/writing/a-complete-guide-to-sources-and-layers-in-react-and-mapbox-gl-js</link>
+            <guid>https://www.lostcreekdesigns.co/writing/a-complete-guide-to-sources-and-layers-in-react-and-mapbox-gl-js</guid>
+            <pubDate>Tue, 20 Apr 2021 14:15:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Comparing the HashRouter and the BrowserRouter in React applications]]></title>
-            <link>https://wanago.io/2021/04/19/hashrouter-browserrouter-react/</link>
-            <guid>https://wanago.io/2021/04/19/hashrouter-browserrouter-react/</guid>
-            <pubDate>Mon, 19 Apr 2021 18:09:50 GMT</pubDate>
+            <title><![CDATA[Frontity Portfolio Theme]]></title>
+            <link>https://jstemplate.net/item/portfo-frontity-personal-portfolio-theme/</link>
+            <guid>https://jstemplate.net/item/portfo-frontity-personal-portfolio-theme/</guid>
+            <pubDate>Tue, 20 Apr 2021 20:02:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Apollo client cache equivalent for REST?]]></title>
-            <link>https://www.apollographql.com/docs/react/api/link/apollo-link-rest/</link>
-            <guid>https://www.apollographql.com/docs/react/api/link/apollo-link-rest/</guid>
-            <pubDate>Mon, 19 Apr 2021 18:45:17 GMT</pubDate>
+            <title><![CDATA[Jackal]]></title>
+            <link>http://jackal.surge.sh/</link>
+            <guid>http://jackal.surge.sh/</guid>
+            <pubDate>Tue, 20 Apr 2021 17:32:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Just release my first ReactJS & NodeJS SaaS boilerplate]]></title>
-            <link>https://github.com/JSLancerTeam/saasgear</link>
-            <guid>https://github.com/JSLancerTeam/saasgear</guid>
-            <pubDate>Mon, 19 Apr 2021 03:39:15 GMT</pubDate>
+            <title><![CDATA[Get started with Next.js]]></title>
+            <link>https://javascript.plainenglish.io/what-is-next-js-and-server-side-rendering-9e24ea21c144</link>
+            <guid>https://javascript.plainenglish.io/what-is-next-js-and-server-side-rendering-9e24ea21c144</guid>
+            <pubDate>Tue, 20 Apr 2021 13:34:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I compared Redux against React.Context and the winner is...]]></title>
-            <link>https://github.com/gchumillas/redux_vs_context</link>
-            <guid>https://github.com/gchumillas/redux_vs_context</guid>
-            <pubDate>Mon, 19 Apr 2021 19:01:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to create a Mock Server using Faker.js and JSON-Server]]></title>
-            <link>https://shivaraj-bakale.medium.com/how-to-generate-mock-data-using-faker-js-and-json-server-1d17007a08e4</link>
-            <guid>https://shivaraj-bakale.medium.com/how-to-generate-mock-data-using-faker-js-and-json-server-1d17007a08e4</guid>
-            <pubDate>Mon, 19 Apr 2021 08:17:54 GMT</pubDate>
+            <title><![CDATA[Firebase - Combining Auth User & User Data (from FireStore) into single useState hook]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Tue, 20 Apr 2021 20:12:35 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,28 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Tue, 20 Apr 2021 07:48:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Apr 2021 07:48:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[My current HTML boilerplate]]></title>
+            <link>https://www.matuzo.at/blog/html-boilerplate/</link>
+            <guid>https://www.matuzo.at/blog/html-boilerplate/</guid>
+            <pubDate>Tue, 20 Apr 2021 12:42:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["Intrinsic Typography": Yay or nay?]]></title>
+            <link>https://css-tricks.com/</link>
+            <guid>https://css-tricks.com/</guid>
+            <pubDate>Tue, 20 Apr 2021 20:00:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Almost-Complete Guide to Cumulative Layout Shift]]></title>
+            <link>https://jessbpeck.com/posts/completecls/</link>
+            <guid>https://jessbpeck.com/posts/completecls/</guid>
+            <pubDate>Tue, 20 Apr 2021 13:02:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Help understanding this CSS Grid syntax?]]></title>
             <link>http://css-tricks.com/snippets/css/complete-guide-grid</link>
@@ -43,30 +61,6 @@
             <link>https://link.medium.com/tUstMTXAxfb</link>
             <guid>https://link.medium.com/tUstMTXAxfb</guid>
             <pubDate>Sat, 17 Apr 2021 23:04:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CSS easing gradients generator recommendation]]></title>
-            <link>https://larsenwork.com/easing-gradients/</link>
-            <guid>https://larsenwork.com/easing-gradients/</guid>
-            <pubDate>Sun, 18 Apr 2021 02:45:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I've been slowly working on making precise, responsive world flags using only div tags and CSS, no img tags. Here are some of the most challenging so far:]]></title>
-            <link>https://dkallen78.github.io/flags/asia/western-asia/georgia.html</link>
-            <guid>https://dkallen78.github.io/flags/asia/western-asia/georgia.html</guid>
-            <pubDate>Sat, 17 Apr 2021 03:58:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why is justify-content working wrong here?]]></title>
-            <link>https://css-tricks.com/a-quick-way-to-remember-difference-between-justify-content-align-items/</link>
-            <guid>https://css-tricks.com/a-quick-way-to-remember-difference-between-justify-content-align-items/</guid>
-            <pubDate>Sat, 17 Apr 2021 21:17:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Conditional animations with CSS properties]]></title>
-            <link>https://christianheilmann.com/2021/03/13/conditional-animation-with-css-properties/</link>
-            <guid>https://christianheilmann.com/2021/03/13/conditional-animation-with-css-properties/</guid>
-            <pubDate>Fri, 16 Apr 2021 12:25:13 GMT</pubDate>
         </item>
     </channel>
 </rss>

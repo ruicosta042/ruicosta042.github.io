@@ -4,123 +4,99 @@
         <title>React Status</title>
         <link>https://react.statuscode.com/</link>
         <description>A weekly roundup of the latest React and React Native links and tutorials.</description>
-        <lastBuildDate>Tue, 20 Apr 2021 07:48:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Apr 2021 07:48:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Leva: A GUI Panel for React]]></title>
-            <link>https://github.com/pmndrs/leva</link>
-            <guid>https://github.com/pmndrs/leva</guid>
-            <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[An Introduction to Profiling React Apps]]></title>
+            <link>https://blog.asayer.io/the-definitive-guide-to-profiling-react-applications/</link>
+            <guid>https://blog.asayer.io/the-definitive-guide-to-profiling-react-applications/</guid>
+            <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Building React Applications Using Deno: The Definite Guide]]></title>
-            <link>https://dev.to/thewritingdev/building-react-applications-using-deno-the-definite-guide-31e9</link>
-            <guid>https://dev.to/thewritingdev/building-react-applications-using-deno-the-definite-guide-31e9</guid>
-            <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Styled Components Best Practices for React Developers]]></title>
+            <link>https://www.robinwieruch.de/styled-components/</link>
+            <guid>https://www.robinwieruch.de/styled-components/</guid>
+            <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Vue Explained to React Developers in 6 Minutes]]></title>
-            <link>https://www.youtube.com/watch?v=sUH7PDUswio</link>
-            <guid>https://www.youtube.com/watch?v=sUH7PDUswio</guid>
-            <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[On Building React Support for Tailwind UI]]></title>
+            <link>https://blog.tailwindcss.com/building-react-and-vue-support-for-tailwind-ui</link>
+            <guid>https://blog.tailwindcss.com/building-react-and-vue-support-for-tailwind-ui</guid>
+            <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Announcing react-pdf v2.0]]></title>
-            <link>https://react-pdf.org/blog/announcing-react-pdf-v2</link>
-            <guid>https://react-pdf.org/blog/announcing-react-pdf-v2</guid>
-            <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Goober's 'Great Shave Off']]></title>
+            <link>https://goober.rocks/the-great-shave-off</link>
+            <guid>https://goober.rocks/the-great-shave-off</guid>
+            <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hyperapp – Is It a Lightweight 'React Killer'?]]></title>
-            <link>https://blog.asayer.io/hyperapp-is-it-the-lightweight-react-killer/</link>
-            <guid>https://blog.asayer.io/hyperapp-is-it-the-lightweight-react-killer/</guid>
-            <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[The GAAD Pledge and React Native's Commitment to Accessibility]]></title>
+            <link>https://reactnative.dev/blog/2021/04/08/GAAD-March-Accessibility-Issue-Update</link>
+            <guid>https://reactnative.dev/blog/2021/04/08/GAAD-March-Accessibility-Issue-Update</guid>
+            <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Remote Full-Stack Software Developer Opportunity]]></title>
-            <link>https://apply.workable.com/faithlife/j/8863C1E362/</link>
-            <guid>https://apply.workable.com/faithlife/j/8863C1E362/</guid>
-            <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Five Key Lessons React Tutorials Don't Teach]]></title>
+            <link>https://reedbarger.hashnode.dev/5-key-lessons-react-tutorials-dont-teach?guid=none&amp;deviceId=99503dd1-2da2-46b7-b354-bf786c9a4a08</link>
+            <guid>https://reedbarger.hashnode.dev/5-key-lessons-react-tutorials-dont-teach?guid=none&amp;deviceId=99503dd1-2da2-46b7-b354-bf786c9a4a08</guid>
+            <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Find React Jobs with Hired]]></title>
-            <link>https://hired.com/join/?utm_source=newsletter&amp;utm_medium=sponsor&amp;utm_campaign=(b2c)(l-all)(r-all)(cooper-reactstatus)&amp;utm_content=find-your-next-job</link>
-            <guid>https://hired.com/join/?utm_source=newsletter&amp;utm_medium=sponsor&amp;utm_campaign=(b2c)(l-all)(r-all)(cooper-reactstatus)&amp;utm_content=find-your-next-job</guid>
-            <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Using React Components Written in JavaScript with TypeScript Code]]></title>
+            <link>https://wanago.io/2021/04/12/react-components-in-javascript-typescript-code/</link>
+            <guid>https://wanago.io/2021/04/12/react-components-in-javascript-typescript-code/</guid>
+            <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Export React Components as Images Using html2canvas]]></title>
-            <link>https://t.co/NOFcmvHqnL?amp=1</link>
-            <guid>https://t.co/NOFcmvHqnL?amp=1</guid>
-            <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Implementing Instagram Photo Filters in React Native]]></title>
+            <link>https://www.instamobile.io/react-native-tutorials/instagram-photo-filters-react-native/</link>
+            <guid>https://www.instamobile.io/react-native-tutorials/instagram-photo-filters-react-native/</guid>
+            <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rebuilding Our Jekyll Website with Next.js and Theme UI]]></title>
-            <link>https://ghostinspector.com/blog/rebuilding-jekyll-website-next-js-theme-ui/</link>
-            <guid>https://ghostinspector.com/blog/rebuilding-jekyll-website-next-js-theme-ui/</guid>
-            <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Let's Learn Snowpack with Fred Schott]]></title>
+            <link>https://www.youtube.com/watch?v=QzjFC4Q6RaU&amp;feature=youtu.be</link>
+            <guid>https://www.youtube.com/watch?v=QzjFC4Q6RaU&amp;feature=youtu.be</guid>
+            <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Three.js with React Hooks]]></title>
-            <link>https://t.co/BFVnHFtfEs?amp=1</link>
-            <guid>https://t.co/BFVnHFtfEs?amp=1</guid>
-            <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[SolidJS — React Meets Svelte?]]></title>
+            <link>https://t.co/SzHiASYGit?amp=1</link>
+            <guid>https://t.co/SzHiASYGit?amp=1</guid>
+            <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Useful React Tips and Tricks for Beginners]]></title>
-            <link>https://t.co/Cw387sxIXA?amp=1</link>
-            <guid>https://t.co/Cw387sxIXA?amp=1</guid>
-            <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Create an Image Modal with React and JavaScript]]></title>
+            <link>https://t.co/sQVn57qwDQ?amp=1</link>
+            <guid>https://t.co/sQVn57qwDQ?amp=1</guid>
+            <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mocking APIs During Development in React]]></title>
-            <link>https://www.youtube.com/watch?v=HkWciooQVvA</link>
-            <guid>https://www.youtube.com/watch?v=HkWciooQVvA</guid>
-            <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[React Flow 9.5: Node-Oriented Applications Made Easy]]></title>
+            <link>https://reactflow.dev/</link>
+            <guid>https://reactflow.dev/</guid>
+            <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Delay Dispatching Actions in Redux using Thunk Middleware]]></title>
-            <link>https://www.amitmerchant.com/delay-dispatching-actions-in-redux-using-redux-thunk-middleware/</link>
-            <guid>https://www.amitmerchant.com/delay-dispatching-actions-in-redux-using-redux-thunk-middleware/</guid>
-            <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[react-markdown: Markdown for React Powered by Remark]]></title>
+            <link>https://github.com/remarkjs/react-markdown</link>
+            <guid>https://github.com/remarkjs/react-markdown</guid>
+            <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[react-spinners-css: A Pure CSS Collection]]></title>
-            <link>https://bit.dev/joshk/react-spinners-css</link>
-            <guid>https://bit.dev/joshk/react-spinners-css</guid>
-            <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Headless UI: Accessible UI Components for Tailwind CSS]]></title>
+            <link>https://headlessui.dev/</link>
+            <guid>https://headlessui.dev/</guid>
+            <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[use-debounce 6.0: A Debounce Hook for React]]></title>
-            <link>https://www.npmjs.com/package/use-debounce</link>
-            <guid>https://www.npmjs.com/package/use-debounce</guid>
-            <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CCY Icons: 330+ Meticulously Combed Currency Icons]]></title>
-            <link>https://github.com/DominicTobias/ccy-icons</link>
-            <guid>https://github.com/DominicTobias/ccy-icons</guid>
-            <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[react-billboardjs: Billboard.js for React]]></title>
-            <link>https://github.com/planttheidea/react-billboardjs</link>
-            <guid>https://github.com/planttheidea/react-billboardjs</guid>
-            <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Next Page Tester: DOM Integration Testing for Next.js Pages]]></title>
-            <link>https://github.com/toomuchdesign/next-page-tester</link>
-            <guid>https://github.com/toomuchdesign/next-page-tester</guid>
-            <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[d3-axis-for-react: Automatic Reference Marks for Scales]]></title>
-            <link>https://github.com/tmcw/d3-axis-for-react</link>
-            <guid>https://github.com/tmcw/d3-axis-for-react</guid>
-            <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Tabler Icons: 1250 Free MIT-licensed High-Quality SVG Icons]]></title>
+            <link>https://github.com/tabler/tabler-icons</link>
+            <guid>https://github.com/tabler/tabler-icons</guid>
+            <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

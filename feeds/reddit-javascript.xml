@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Wed, 21 Apr 2021 07:48:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Apr 2021 07:48:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,64 @@
             <pubDate>Mon, 19 Apr 2021 09:05:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Lit - New framework from Google]]></title>
+            <link>https://lit.dev/</link>
+            <guid>https://lit.dev/</guid>
+            <pubDate>Wed, 21 Apr 2021 16:56:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What's New In DevTools (Chrome 91) - Chrome Developers]]></title>
+            <link>https://developer.chrome.com/blog/new-in-devtools-91/</link>
+            <guid>https://developer.chrome.com/blog/new-in-devtools-91/</guid>
+            <pubDate>Wed, 21 Apr 2021 16:22:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Write File-Based Tests With Real Files]]></title>
+            <link>https://dev.to/dworddesign/how-to-write-file-based-tests-with-real-files-26ek</link>
+            <guid>https://dev.to/dworddesign/how-to-write-file-based-tests-with-real-files-26ek</guid>
+            <pubDate>Wed, 21 Apr 2021 11:39:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Build a Discord Bot in 6 Minutes With Node.js and Autocode]]></title>
+            <link>https://dev.to/hacubu/build-a-discord-bot-in-6-minutes-with-node-js-and-autocode-4n2d</link>
+            <guid>https://dev.to/hacubu/build-a-discord-bot-in-6-minutes-with-node-js-and-autocode-4n2d</guid>
+            <pubDate>Thu, 22 Apr 2021 07:04:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Suspense is Killing Me: Part 1]]></title>
+            <link>https://blog.6nok.org/the-suspense-is-killing-me:-part-1/</link>
+            <guid>https://blog.6nok.org/the-suspense-is-killing-me:-part-1/</guid>
+            <pubDate>Wed, 21 Apr 2021 21:50:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I wrote a small Fetch API wrapper, comes with testing utilities]]></title>
+            <link>https://github.com/tkrotoff/fetch</link>
+            <guid>https://github.com/tkrotoff/fetch</guid>
+            <pubDate>Wed, 21 Apr 2021 12:43:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Building an Offline-Ready Form With Vanilla JavaScript]]></title>
+            <link>https://welearncode.com/offline-editor/</link>
+            <guid>https://welearncode.com/offline-editor/</guid>
+            <pubDate>Wed, 21 Apr 2021 06:14:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AskJS] Totally stuck with listIndexes calls. Our volunteer social project building community migrated from Mlab to Mongo DB's Atlas in Nov and all our sites died. I've tried everything i can think to get the platform back up. Can anyone help or offer advice?]]></title>
+            <link>https://github.com/focallocal/fl-maps/blob/deploy-phm/imports/both/collections/events/index.js</link>
+            <guid>https://github.com/focallocal/fl-maps/blob/deploy-phm/imports/both/collections/events/index.js</guid>
+            <pubDate>Thu, 22 Apr 2021 00:15:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Node.js v16 released]]></title>
             <link>https://github.com/nodejs/node/releases/tag/v16.0.0</link>
             <guid>https://github.com/nodejs/node/releases/tag/v16.0.0</guid>
             <pubDate>Tue, 20 Apr 2021 16:04:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[StronglyTyped variables in JS]]></title>
+            <link>https://replit.com/talk/share/StronglyTyped-variables-in-JS/136474</link>
+            <guid>https://replit.com/talk/share/StronglyTyped-variables-in-JS/136474</guid>
+            <pubDate>Wed, 21 Apr 2021 21:12:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[From a design agency's perspective: "Building a Custom, Professionally Designed Website from Scratch with NextJS, TypeScript, and Payload CMS" - Episode 2]]></title>
@@ -27,10 +81,16 @@
             <pubDate>Tue, 20 Apr 2021 15:19:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Building an Offline-Ready Form With Vanilla JavaScript]]></title>
-            <link>https://welearncode.com/offline-editor/</link>
-            <guid>https://welearncode.com/offline-editor/</guid>
-            <pubDate>Wed, 21 Apr 2021 06:14:01 GMT</pubDate>
+            <title><![CDATA[Enhance your frontend state management with view models]]></title>
+            <link>https://tobiasuhlig.medium.com/enhance-your-frontend-state-management-with-view-models-7bf49e1a0991?source=friends_link&amp;sk=ac04c44c7cd7af4c34068a87b1207c7e</link>
+            <guid>https://tobiasuhlig.medium.com/enhance-your-frontend-state-management-with-view-models-7bf49e1a0991?source=friends_link&amp;sk=ac04c44c7cd7af4c34068a87b1207c7e</guid>
+            <pubDate>Wed, 21 Apr 2021 07:00:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AskJS] Do you think TCP/UDP will ever come to browser?]]></title>
+            <link>https://www.chromestatus.com/feature/6398297361088512</link>
+            <guid>https://www.chromestatus.com/feature/6398297361088512</guid>
+            <pubDate>Wed, 21 Apr 2021 12:15:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to track client-side JavaScript errors]]></title>
@@ -45,46 +105,22 @@
             <pubDate>Wed, 21 Apr 2021 07:28:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Enhance your frontend state management with view models]]></title>
-            <link>https://tobiasuhlig.medium.com/enhance-your-frontend-state-management-with-view-models-7bf49e1a0991?source=friends_link&amp;sk=ac04c44c7cd7af4c34068a87b1207c7e</link>
-            <guid>https://tobiasuhlig.medium.com/enhance-your-frontend-state-management-with-view-models-7bf49e1a0991?source=friends_link&amp;sk=ac04c44c7cd7af4c34068a87b1207c7e</guid>
-            <pubDate>Wed, 21 Apr 2021 07:00:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Music For Creative Minds]]></title>
-            <link>https://nicotsou.com/2021-04-20-music-for-creative-minds/</link>
-            <guid>https://nicotsou.com/2021-04-20-music-for-creative-minds/</guid>
-            <pubDate>Wed, 21 Apr 2021 06:47:46 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[ReactJS & NodeJS SaaS boilerplate]]></title>
             <link>https://github.com/JSLancerTeam/saasgear</link>
             <guid>https://github.com/JSLancerTeam/saasgear</guid>
             <pubDate>Tue, 20 Apr 2021 12:19:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[AskJS] Survey for my research paper]]></title>
-            <link>https://docs.google.com/forms/d/e/1FAIpQLScENNxP1nzrdtnLqZmTT4tzVpgWU7mrgw0kl9w78hUVqQyuZw/viewform?usp=sf_link</link>
-            <guid>https://docs.google.com/forms/d/e/1FAIpQLScENNxP1nzrdtnLqZmTT4tzVpgWU7mrgw0kl9w78hUVqQyuZw/viewform?usp=sf_link</guid>
-            <pubDate>Tue, 20 Apr 2021 18:48:45 GMT</pubDate>
+            <title><![CDATA[Audiovisual Emotion Recognition in the browser - get emotion from a face in pure JS]]></title>
+            <link>https://arjunb.westus.cloudapp.azure.com/</link>
+            <guid>https://arjunb.westus.cloudapp.azure.com/</guid>
+            <pubDate>Tue, 20 Apr 2021 21:03:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Promise of Asynchronous JavaScript]]></title>
             <link>https://medium.com/dailyjs/a-promise-of-asynchronous-javascript-2d09b9be7019</link>
             <guid>https://medium.com/dailyjs/a-promise-of-asynchronous-javascript-2d09b9be7019</guid>
             <pubDate>Tue, 20 Apr 2021 13:21:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My first legit project with node js - a cryptocurrency trading simulator]]></title>
-            <link>https://cryptochimp.herokuapp.com/</link>
-            <guid>https://cryptochimp.herokuapp.com/</guid>
-            <pubDate>Tue, 20 Apr 2021 16:35:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Audiovisual Emotion Recognition in the browser - get emotion from a face in pure JS]]></title>
-            <link>https://arjunb.westus.cloudapp.azure.com/</link>
-            <guid>https://arjunb.westus.cloudapp.azure.com/</guid>
-            <pubDate>Tue, 20 Apr 2021 21:03:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[All you can learn about Storybook in 10 minutes]]></title>
@@ -99,6 +135,12 @@
             <pubDate>Tue, 20 Apr 2021 11:47:32 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[I Wrote an Open Source Analytics Platform in full Javascript in less than 30 Days.]]></title>
+            <link>https://github.com/itsrennyman/aurora</link>
+            <guid>https://github.com/itsrennyman/aurora</guid>
+            <pubDate>Mon, 19 Apr 2021 19:03:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bundling Figma Plugin With Esbuild]]></title>
             <link>https://dev.to/daviddalbusco/bundling-figma-plugin-with-esbuild-399d</link>
             <guid>https://dev.to/daviddalbusco/bundling-figma-plugin-with-esbuild-399d</guid>
@@ -109,54 +151,6 @@
             <link>https://hyperscript.org/comparison/</link>
             <guid>https://hyperscript.org/comparison/</guid>
             <pubDate>Tue, 20 Apr 2021 20:40:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I Wrote an Open Source Analytics Platform in full Javascript in less than 30 Days.]]></title>
-            <link>https://github.com/itsrennyman/aurora</link>
-            <guid>https://github.com/itsrennyman/aurora</guid>
-            <pubDate>Mon, 19 Apr 2021 19:03:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EZGesture - Small(~1KB) alternative to Hammer.js]]></title>
-            <link>https://github.com/mhmd-22/ezgesture</link>
-            <guid>https://github.com/mhmd-22/ezgesture</guid>
-            <pubDate>Tue, 20 Apr 2021 20:10:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Never too late for Firefox 88]]></title>
-            <link>https://hacks.mozilla.org/2021/04/never-too-late-for-firefox-88/</link>
-            <guid>https://hacks.mozilla.org/2021/04/never-too-late-for-firefox-88/</guid>
-            <pubDate>Mon, 19 Apr 2021 20:02:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Node v16.0.0 (Current)]]></title>
-            <link>https://nodejs.org/en/blog/release/v16.0.0</link>
-            <guid>https://nodejs.org/en/blog/release/v16.0.0</guid>
-            <pubDate>Tue, 20 Apr 2021 18:18:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How To Mock Only One Function From A Module In Jest]]></title>
-            <link>https://keraito.medium.com/how-to-mock-only-one-function-from-a-module-in-jest-daf94265c0cc</link>
-            <guid>https://keraito.medium.com/how-to-mock-only-one-function-from-a-module-in-jest-daf94265c0cc</guid>
-            <pubDate>Tue, 20 Apr 2021 17:41:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Class fields and private class members are now stage 4, ready for ES2022]]></title>
-            <link>https://github.com/tc39/proposal-class-fields</link>
-            <guid>https://github.com/tc39/proposal-class-fields</guid>
-            <pubDate>Mon, 19 Apr 2021 21:07:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to create a Mock Server using Faker.js and JSON-Server]]></title>
-            <link>https://shivaraj-bakale.medium.com/how-to-generate-mock-data-using-faker-js-and-json-server-1d17007a08e4</link>
-            <guid>https://shivaraj-bakale.medium.com/how-to-generate-mock-data-using-faker-js-and-json-server-1d17007a08e4</guid>
-            <pubDate>Mon, 19 Apr 2021 14:28:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How CLIs in Node.js actually work]]></title>
-            <link>https://eytanmanor.medium.com/how-clis-in-node-js-actually-work-c26f913a335e</link>
-            <guid>https://eytanmanor.medium.com/how-clis-in-node-js-actually-work-c26f913a335e</guid>
-            <pubDate>Tue, 20 Apr 2021 10:16:08 GMT</pubDate>
         </item>
     </channel>
 </rss>

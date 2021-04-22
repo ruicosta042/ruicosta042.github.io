@@ -4,10 +4,22 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Wed, 21 Apr 2021 07:48:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Apr 2021 07:48:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[TypeScript Enums I Want to Actually Use]]></title>
+            <link>https://robinpokorny.com/blog/typescript-enums-i-want-to-actually-use/</link>
+            <guid>https://robinpokorny.com/blog/typescript-enums-i-want-to-actually-use/</guid>
+            <pubDate>Wed, 21 Apr 2021 12:54:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Help with declaration file syntax (omitting "function" from declare statement)]]></title>
+            <link>https://www.typescriptlang.org/docs/handbook/declaration-files/by-example.html</link>
+            <guid>https://www.typescriptlang.org/docs/handbook/declaration-files/by-example.html</guid>
+            <pubDate>Wed, 21 Apr 2021 16:50:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ component for your React project: react-color-palette]]></title>
             <link>https://github.com/Wondermarin/react-color-palette</link>
@@ -39,6 +51,12 @@
             <pubDate>Mon, 19 Apr 2021 22:11:13 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[React Components as TypeScript Generic Functions]]></title>
+            <link>https://javascript.plainenglish.io/react-components-as-typescript-generic-functions-8aa83afff597</link>
+            <guid>https://javascript.plainenglish.io/react-components-as-typescript-generic-functions-8aa83afff597</guid>
+            <pubDate>Mon, 19 Apr 2021 23:51:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How to Run and Debug a Single TypeScript File in WebStorm IDE]]></title>
             <link>https://medium.com/litslink/how-to-run-and-debug-a-single-typescript-file-in-the-webstorm-ide-53ecf93185c1</link>
             <guid>https://medium.com/litslink/how-to-run-and-debug-a-single-typescript-file-in-the-webstorm-ide-53ecf93185c1</guid>
@@ -49,12 +67,6 @@
             <link>https://www.typescriptlang.org/play?#code/JYWwDg9gTgLgBAJQKYEMDG8BmUIjgcilQ3wG4AoctCAOwGd4B3YGACwBVWkQk4BeOAB4ACnCQAPGEhoATOnADeAXwB8ACgDCuMAC5ExGADot4WtJjsAnmCQiVASn4rF5OG7hEYAVyg04JsDgUeWR0IwCzGgtrW2FnADIXd2S4GSRMFC8AGxhhHDA6PRgYiEx-bQBtfDSM7Nz8unwAXQpkpQolSjQs4PkAIS8YGFoxSWk5fTDjbUiYQQU6YAAvJD0GKGAaAHM4VST3BhQYYDRU9MycvIgC-n2UuEWVvXws-Fd3Ts6qWgY4Tm4kDIBkMRgJmGx-jw1MDhjR7ORIYCYbRDDULvVrvIBMiaKjznUrgUKN96PAULc1I4+M5BDi4AB6FQk34AIwpVJpiKBg1hDJUQA</link>
             <guid>https://www.typescriptlang.org/play?#code/JYWwDg9gTgLgBAJQKYEMDG8BmUIjgcilQ3wG4AoctCAOwGd4B3YGACwBVWkQk4BeOAB4ACnCQAPGEhoATOnADeAXwB8ACgDCuMAC5ExGADot4WtJjsAnmCQiVASn4rF5OG7hEYAVyg04JsDgUeWR0IwCzGgtrW2FnADIXd2S4GSRMFC8AGxhhHDA6PRgYiEx-bQBtfDSM7Nz8unwAXQpkpQolSjQs4PkAIS8YGFoxSWk5fTDjbUiYQQU6YAAvJD0GKGAaAHM4VST3BhQYYDRU9MycvIgC-n2UuEWVvXws-Fd3Ts6qWgY4Tm4kDIBkMRgJmGx-jw1MDhjR7ORIYCYbRDDULvVrvIBMiaKjznUrgUKN96PAULc1I4+M5BDi4AB6FQk34AIwpVJpiKBg1hDJUQA</guid>
             <pubDate>Mon, 19 Apr 2021 17:49:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React Components as TypeScript Generic Functions]]></title>
-            <link>https://javascript.plainenglish.io/react-components-as-typescript-generic-functions-8aa83afff597</link>
-            <guid>https://javascript.plainenglish.io/react-components-as-typescript-generic-functions-8aa83afff597</guid>
-            <pubDate>Mon, 19 Apr 2021 23:51:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Calendso - The open-source Calendly alternative.]]></title>
@@ -91,30 +103,6 @@
             <link>https://medium.com/litslink/express-js-with-typescript-decorators-in-examples-5f82223159c1</link>
             <guid>https://medium.com/litslink/express-js-with-typescript-decorators-in-examples-5f82223159c1</guid>
             <pubDate>Sun, 18 Apr 2021 01:53:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BLOG: Setup Express in TypeScript with Node.js]]></title>
-            <link>https://itnext.io/setup-express-in-typescript-with-node-js-ffa3da038fc1</link>
-            <guid>https://itnext.io/setup-express-in-typescript-with-node-js-ffa3da038fc1</guid>
-            <pubDate>Sun, 18 Apr 2021 07:30:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Understanding TypeScript Decorators]]></title>
-            <link>https://shakil.me/understanding-typescript-decorators/</link>
-            <guid>https://shakil.me/understanding-typescript-decorators/</guid>
-            <pubDate>Sat, 17 Apr 2021 01:53:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I created a typescript first state manager "Exome"]]></title>
-            <link>https://marcisbee.medium.com/announcing-new-and-simple-state-manager-exome-78b5874325c1</link>
-            <guid>https://marcisbee.medium.com/announcing-new-and-simple-state-manager-exome-78b5874325c1</guid>
-            <pubDate>Sat, 17 Apr 2021 09:16:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How do i resolve "cannot assign to 'scrollWidth' because it is a read-only property.ts(2540)"?]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Fri, 16 Apr 2021 12:54:22 GMT</pubDate>
         </item>
     </channel>
 </rss>

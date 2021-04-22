@@ -4,27 +4,21 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Wed, 21 Apr 2021 07:48:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Apr 2021 07:48:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Node v16 released]]></title>
-            <link>https://github.com/nodejs/node/releases/tag/v16.0.0</link>
-            <guid>https://github.com/nodejs/node/releases/tag/v16.0.0</guid>
-            <pubDate>Tue, 20 Apr 2021 16:02:50 GMT</pubDate>
+            <title><![CDATA[Share your Prisma Client across projects]]></title>
+            <link>https://isidoro-ferreiro.medium.com/share-your-prisma-client-across-projects-44d1c7aca6fd</link>
+            <guid>https://isidoro-ferreiro.medium.com/share-your-prisma-client-across-projects-44d1c7aca6fd</guid>
+            <pubDate>Wed, 21 Apr 2021 22:27:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to track client-side JavaScript errors - with a WebSocket and a Node.js server]]></title>
-            <link>https://format-express.dev/blog/how-to-track-client-side-javascript-errors</link>
-            <guid>https://format-express.dev/blog/how-to-track-client-side-javascript-errors</guid>
-            <pubDate>Tue, 20 Apr 2021 15:29:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Node v16.0.0 (Current)]]></title>
-            <link>https://nodejs.org/en/blog/release/v16.0.0/</link>
-            <guid>https://nodejs.org/en/blog/release/v16.0.0/</guid>
-            <pubDate>Tue, 20 Apr 2021 16:08:00 GMT</pubDate>
+            <title><![CDATA[Instagram Crawler legal?]]></title>
+            <link>https://www.npmjs.com/package/instagram-scraping</link>
+            <guid>https://www.npmjs.com/package/instagram-scraping</guid>
+            <pubDate>Thu, 22 Apr 2021 03:46:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[3 services to deploy your Node.js app for free]]></title>
@@ -33,76 +27,64 @@
             <pubDate>Wed, 21 Apr 2021 06:30:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Cannot read property 'temp' of undefined]]></title>
+            <link>http://api.openweathermap.org/data/2.5/forecast?q=tokyo&amp;appid=773f9918fef6bd89f6c423e2d376db3d&amp;units=metric</link>
+            <guid>http://api.openweathermap.org/data/2.5/forecast?q=tokyo&amp;appid=773f9918fef6bd89f6c423e2d376db3d&amp;units=metric</guid>
+            <pubDate>Thu, 22 Apr 2021 03:41:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Queue Data Structure in Javascript]]></title>
+            <link>https://link.medium.com/HZpcP0ttEfb</link>
+            <guid>https://link.medium.com/HZpcP0ttEfb</guid>
+            <pubDate>Thu, 22 Apr 2021 02:23:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mongoose Internals: Schemas, Schema Options, and Models]]></title>
+            <link>http://thecodebarbarian.com/mongoose-internals-schemas-options-models.html</link>
+            <guid>http://thecodebarbarian.com/mongoose-internals-schemas-options-models.html</guid>
+            <pubDate>Wed, 21 Apr 2021 21:05:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rabbitode - a rabbitmq / amqplib interface package]]></title>
+            <link>https://www.npmjs.com/package/rabbitode</link>
+            <guid>https://www.npmjs.com/package/rabbitode</guid>
+            <pubDate>Wed, 21 Apr 2021 12:14:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Node v16 released]]></title>
+            <link>https://github.com/nodejs/node/releases/tag/v16.0.0</link>
+            <guid>https://github.com/nodejs/node/releases/tag/v16.0.0</guid>
+            <pubDate>Tue, 20 Apr 2021 16:02:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Best JavaScript Courses]]></title>
+            <link>https://www.realcoder.org/2021/04/the-best-javascript-courses-on-udemy.html?m=1</link>
+            <guid>https://www.realcoder.org/2021/04/the-best-javascript-courses-on-udemy.html?m=1</guid>
+            <pubDate>Wed, 21 Apr 2021 17:38:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is There a JS Equivalence of Submitting an HTML File Form to GridFS?]]></title>
+            <link>https://stackoverflow.com/questions/67184057/is-there-a-js-equivalence-of-submitting-an-html-file-form-to-gridfs</link>
+            <guid>https://stackoverflow.com/questions/67184057/is-there-a-js-equivalence-of-submitting-an-html-file-form-to-gridfs</guid>
+            <pubDate>Wed, 21 Apr 2021 17:08:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Let's approach learning TypeScript together]]></title>
             <link>https://calendly.com/preshonyee/approachable-typescript</link>
             <guid>https://calendly.com/preshonyee/approachable-typescript</guid>
             <pubDate>Wed, 21 Apr 2021 07:07:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jest: Add delay between files changed and tests run?]]></title>
-            <link>https://en.wikipedia.org/wiki/Literate_programming</link>
-            <guid>https://en.wikipedia.org/wiki/Literate_programming</guid>
-            <pubDate>Wed, 21 Apr 2021 06:23:20 GMT</pubDate>
+            <title><![CDATA[Serverless Framework: Use Amazon S3 Object Lambda to resize images on the fly (Node.js and Sharp)]]></title>
+            <link>https://micheleriso.medium.com/serverless-framework-use-aws-s3-object-lambda-to-resize-images-on-the-fly-868a37017f3c?source=friends_link&amp;sk=92db8e93414194f87ff4ab85644470c4</link>
+            <guid>https://micheleriso.medium.com/serverless-framework-use-aws-s3-object-lambda-to-resize-images-on-the-fly-868a37017f3c?source=friends_link&amp;sk=92db8e93414194f87ff4ab85644470c4</guid>
+            <pubDate>Wed, 21 Apr 2021 10:57:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Node debugger too heavy & slow? Try dbgr ⚡️]]></title>
-            <link>https://github.com/privatenumber/dbgr</link>
-            <guid>https://github.com/privatenumber/dbgr</guid>
-            <pubDate>Tue, 20 Apr 2021 15:44:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Socket.io Acknowledgements]]></title>
-            <link>https://stackoverflow.com/questions/20417569/acknowledgment-for-socket-io-custom-event</link>
-            <guid>https://stackoverflow.com/questions/20417569/acknowledgment-for-socket-io-custom-event</guid>
-            <pubDate>Tue, 20 Apr 2021 22:36:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Node v16.0.0 (Current)]]></title>
-            <link>https://nodejs.org/en/blog/release/v16.0.0</link>
-            <guid>https://nodejs.org/en/blog/release/v16.0.0</guid>
-            <pubDate>Tue, 20 Apr 2021 18:18:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fix "Unexpected field" Error From Multer]]></title>
-            <link>https://maximorlov.com/fix-unexpected-field-error-multer/</link>
-            <guid>https://maximorlov.com/fix-unexpected-field-error-multer/</guid>
-            <pubDate>Tue, 20 Apr 2021 21:43:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Technical guides for building application authorization]]></title>
-            <link>https://www.osohq.com/developers/authorization-academy</link>
-            <guid>https://www.osohq.com/developers/authorization-academy</guid>
-            <pubDate>Mon, 19 Apr 2021 21:14:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Freelancers and Developers admire Spurtcommerce?]]></title>
-            <link>https://www.spurtcommerce.com/nodejs-shoppingcart-ecommerce-download</link>
-            <guid>https://www.spurtcommerce.com/nodejs-shoppingcart-ecommerce-download</guid>
-            <pubDate>Wed, 21 Apr 2021 05:35:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How CLIs in Node.js actually work]]></title>
-            <link>https://eytanmanor.medium.com/how-clis-in-node-js-actually-work-c26f913a335e</link>
-            <guid>https://eytanmanor.medium.com/how-clis-in-node-js-actually-work-c26f913a335e</guid>
-            <pubDate>Tue, 20 Apr 2021 10:15:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ReactJS & NodeJS SaaS boilerplate]]></title>
-            <link>https://github.com/JSLancerTeam/saasgear</link>
-            <guid>https://github.com/JSLancerTeam/saasgear</guid>
-            <pubDate>Tue, 20 Apr 2021 02:49:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NodeJS ActiveRecord]]></title>
-            <link>https://github.com/jougene/noar</link>
-            <guid>https://github.com/jougene/noar</guid>
-            <pubDate>Tue, 20 Apr 2021 09:48:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Knex.Js. Beginner’s Guide in Examples]]></title>
-            <link>https://medium.com/litslink/knex-js-tutorial-999871756f27</link>
-            <guid>https://medium.com/litslink/knex-js-tutorial-999871756f27</guid>
-            <pubDate>Tue, 20 Apr 2021 16:50:27 GMT</pubDate>
+            <title><![CDATA[Make your npm package work on both Node.js and browser]]></title>
+            <link>https://www.aspecto.io/blog/make-your-npm-package-work-on-both-node-js-and-browser/?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=make-your-npm-package-work-on-both-node-js-and-browser</link>
+            <guid>https://www.aspecto.io/blog/make-your-npm-package-work-on-both-node-js-and-browser/?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=make-your-npm-package-work-on-both-node-js-and-browser</guid>
+            <pubDate>Wed, 21 Apr 2021 14:40:25 GMT</pubDate>
         </item>
     </channel>
 </rss>

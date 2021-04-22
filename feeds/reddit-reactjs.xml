@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Wed, 21 Apr 2021 07:48:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Apr 2021 07:48:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,70 +15,76 @@
             <pubDate>Thu, 01 Apr 2021 06:19:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Advanced animation patterns with Framer Motion]]></title>
-            <link>https://blog.maximeheckel.com/posts/advanced-animation-patterns-with-framer-motion/</link>
-            <guid>https://blog.maximeheckel.com/posts/advanced-animation-patterns-with-framer-motion/</guid>
-            <pubDate>Tue, 20 Apr 2021 15:43:26 GMT</pubDate>
+            <title><![CDATA[How to add ESlint, Prettier, and Husky (Git Hook) to your React application]]></title>
+            <link>https://medium.com/litslink/react-js-adding-eslint-with-prettier-husky-git-hook-480ad39e65e9</link>
+            <guid>https://medium.com/litslink/react-js-adding-eslint-with-prettier-husky-git-hook-480ad39e65e9</guid>
+            <pubDate>Thu, 22 Apr 2021 01:49:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[We're making a social networking app in React Native! Please fill out our survey if interested! Details inside!]]></title>
-            <link>https://drive.google.com/file/d/1qbSUUPk2YXtUMEXYE9hkfSpyTl7V6piw/view?usp=sharing</link>
-            <guid>https://drive.google.com/file/d/1qbSUUPk2YXtUMEXYE9hkfSpyTl7V6piw/view?usp=sharing</guid>
-            <pubDate>Wed, 21 Apr 2021 01:53:42 GMT</pubDate>
+            <title><![CDATA[The Suspense is Killing Me: Part 1]]></title>
+            <link>https://blog.6nok.org/the-suspense-is-killing-me:-part-1/</link>
+            <guid>https://blog.6nok.org/the-suspense-is-killing-me:-part-1/</guid>
+            <pubDate>Wed, 21 Apr 2021 21:31:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to Deploy React Router Based Application to Netlify]]></title>
-            <link>https://blog.yogeshchavan.dev/how-to-deploy-react-router-based-application-to-netlify</link>
-            <guid>https://blog.yogeshchavan.dev/how-to-deploy-react-router-based-application-to-netlify</guid>
-            <pubDate>Wed, 21 Apr 2021 07:41:06 GMT</pubDate>
+            <title><![CDATA[React DnD in Examples]]></title>
+            <link>https://medium.com/litslink/react-dnd-in-examples-ce509b25839d</link>
+            <guid>https://medium.com/litslink/react-dnd-in-examples-ce509b25839d</guid>
+            <pubDate>Thu, 22 Apr 2021 01:45:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fower v1.0 - an utility-first CSS in JS library for rapid UI development]]></title>
-            <link>https://tailwindcss.com/</link>
-            <guid>https://tailwindcss.com/</guid>
-            <pubDate>Wed, 21 Apr 2021 07:27:53 GMT</pubDate>
+            <title><![CDATA[A Complete Beginner's Guide to useReducer Hook]]></title>
+            <link>https://javascript.works-hub.com/learn/a-complete-beginners-guide-to-usereducer-hook-f4a78?utm_source=reddit&amp;utm_medium=affiliates&amp;utm_campaign=javascriptworks-blog-post</link>
+            <guid>https://javascript.works-hub.com/learn/a-complete-beginners-guide-to-usereducer-hook-f4a78?utm_source=reddit&amp;utm_medium=affiliates&amp;utm_campaign=javascriptworks-blog-post</guid>
+            <pubDate>Wed, 21 Apr 2021 14:27:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[react context API empty in childs after build with rollup]]></title>
-            <link>https://ibb.co/ChYkHm9</link>
-            <guid>https://ibb.co/ChYkHm9</guid>
-            <pubDate>Wed, 21 Apr 2021 06:59:21 GMT</pubDate>
+            <title><![CDATA[Extending CRA's ESLint configuration]]></title>
+            <link>https://create-react-app.dev/docs/setting-up-your-editor#extending-or-replacing-the-default-eslint-config</link>
+            <guid>https://create-react-app.dev/docs/setting-up-your-editor#extending-or-replacing-the-default-eslint-config</guid>
+            <pubDate>Thu, 22 Apr 2021 05:28:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Let's approach TypeScript together]]></title>
-            <link>https://calendly.com/preshonyee/approachable-typescript</link>
-            <guid>https://calendly.com/preshonyee/approachable-typescript</guid>
-            <pubDate>Wed, 21 Apr 2021 06:54:15 GMT</pubDate>
+            <title><![CDATA[Passing Bearer token in headers in Redux]]></title>
+            <link>https://axios.post/</link>
+            <guid>https://axios.post/</guid>
+            <pubDate>Thu, 22 Apr 2021 04:13:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to Build a Data-Driven Map Using React and Mapbox]]></title>
-            <link>https://www.lostcreekdesigns.co/writing/a-complete-guide-to-sources-and-layers-in-react-and-mapbox-gl-js</link>
-            <guid>https://www.lostcreekdesigns.co/writing/a-complete-guide-to-sources-and-layers-in-react-and-mapbox-gl-js</guid>
-            <pubDate>Tue, 20 Apr 2021 14:15:48 GMT</pubDate>
+            <title><![CDATA[My first React game]]></title>
+            <link>https://www.coronaattackgame.com/</link>
+            <guid>https://www.coronaattackgame.com/</guid>
+            <pubDate>Thu, 22 Apr 2021 03:01:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Frontity Portfolio Theme]]></title>
-            <link>https://jstemplate.net/item/portfo-frontity-personal-portfolio-theme/</link>
-            <guid>https://jstemplate.net/item/portfo-frontity-personal-portfolio-theme/</guid>
-            <pubDate>Tue, 20 Apr 2021 20:02:23 GMT</pubDate>
+            <title><![CDATA[Deployed my first React project.. yes, a Pokedex.]]></title>
+            <link>https://material-ui.com/</link>
+            <guid>https://material-ui.com/</guid>
+            <pubDate>Wed, 21 Apr 2021 13:57:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jackal]]></title>
-            <link>http://jackal.surge.sh/</link>
-            <guid>http://jackal.surge.sh/</guid>
-            <pubDate>Tue, 20 Apr 2021 17:32:02 GMT</pubDate>
+            <title><![CDATA[Comparing the New Generation of Build Tools]]></title>
+            <link>https://css-tricks.com/comparing-the-new-generation-of-build-tools/</link>
+            <guid>https://css-tricks.com/comparing-the-new-generation-of-build-tools/</guid>
+            <pubDate>Wed, 21 Apr 2021 08:14:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Get started with Next.js]]></title>
-            <link>https://javascript.plainenglish.io/what-is-next-js-and-server-side-rendering-9e24ea21c144</link>
-            <guid>https://javascript.plainenglish.io/what-is-next-js-and-server-side-rendering-9e24ea21c144</guid>
-            <pubDate>Tue, 20 Apr 2021 13:34:40 GMT</pubDate>
+            <title><![CDATA[NextJs - Full setup in 4 simple steps]]></title>
+            <link>https://www.sandromaglione.com/2021/04/21/how-to-create-a-nextjs-app-with-typescript-eslint-and-prettier/</link>
+            <guid>https://www.sandromaglione.com/2021/04/21/how-to-create-a-nextjs-app-with-typescript-eslint-and-prettier/</guid>
+            <pubDate>Wed, 21 Apr 2021 18:53:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Firebase - Combining Auth User & User Data (from FireStore) into single useState hook]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Tue, 20 Apr 2021 20:12:35 GMT</pubDate>
+            <title><![CDATA[React beginner: how can I get the id of the element the server outputs and assign it as the key of the  tag in my component instead of using Math.random()? Source code included]]></title>
+            <link>https://github.com/ashkan-ahmadi/todo-app-react/blob/main/src/ToDo.js#L42</link>
+            <guid>https://github.com/ashkan-ahmadi/todo-app-react/blob/main/src/ToDo.js#L42</guid>
+            <pubDate>Wed, 21 Apr 2021 20:47:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[18 Tips For a Better Code Review (TS/JS)]]></title>
+            <link>https://pagepro.co/blog/18-tips-for-a-better-react-code-review-ts-js/</link>
+            <guid>https://pagepro.co/blog/18-tips-for-a-better-react-code-review-ts-js/</guid>
+            <pubDate>Wed, 21 Apr 2021 13:12:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

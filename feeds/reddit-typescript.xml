@@ -4,10 +4,22 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Thu, 22 Apr 2021 07:48:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Apr 2021 07:48:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Babel alternative in TypeScript that's 2x faster than esbuild]]></title>
+            <link>https://twitter.com/sitnikcode/status/1384854744259248130</link>
+            <guid>https://twitter.com/sitnikcode/status/1384854744259248130</guid>
+            <pubDate>Thu, 22 Apr 2021 10:47:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[best way of handling authentication]]></title>
+            <link>https://docs.microsoft.com/en-us/azure/developer/javascript/tutorial/single-page-application-azure-login-button-sdk-msal</link>
+            <guid>https://docs.microsoft.com/en-us/azure/developer/javascript/tutorial/single-page-application-azure-login-button-sdk-msal</guid>
+            <pubDate>Thu, 22 Apr 2021 21:33:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[TypeScript Enums I Want to Actually Use]]></title>
             <link>https://robinpokorny.com/blog/typescript-enums-i-want-to-actually-use/</link>
@@ -97,12 +109,6 @@
             <link>https://itnext.io/setup-express-in-typescript-with-node-js-ffa3da038fc1</link>
             <guid>https://itnext.io/setup-express-in-typescript-with-node-js-ffa3da038fc1</guid>
             <pubDate>Sun, 18 Apr 2021 07:49:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Express.js With Typescript Decorators in Examples]]></title>
-            <link>https://medium.com/litslink/express-js-with-typescript-decorators-in-examples-5f82223159c1</link>
-            <guid>https://medium.com/litslink/express-js-with-typescript-decorators-in-examples-5f82223159c1</guid>
-            <pubDate>Sun, 18 Apr 2021 01:53:07 GMT</pubDate>
         </item>
     </channel>
 </rss>

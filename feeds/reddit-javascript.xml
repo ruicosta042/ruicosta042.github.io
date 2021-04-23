@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Thu, 22 Apr 2021 07:48:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Apr 2021 07:48:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,88 @@
             <pubDate>Mon, 19 Apr 2021 09:05:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Voice-enabling an Angular App with Wake Words]]></title>
+            <link>https://medium.com/picovoice/voice-enabling-an-angular-app-with-wake-words-dae4c9f26f9f</link>
+            <guid>https://medium.com/picovoice/voice-enabling-an-angular-app-with-wake-words-dae4c9f26f9f</guid>
+            <pubDate>Thu, 22 Apr 2021 15:09:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It is now possible to customize Keycloak's login pages with React]]></title>
+            <link>https://github.com/InseeFrLab/keycloakify</link>
+            <guid>https://github.com/InseeFrLab/keycloakify</guid>
+            <pubDate>Thu, 22 Apr 2021 16:53:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[3 Years of VueJS (2021)]]></title>
+            <link>https://anthony-sarkis.medium.com/3-years-of-vuejs-2021-7e3127a930dc</link>
+            <guid>https://anthony-sarkis.medium.com/3-years-of-vuejs-2021-7e3127a930dc</guid>
+            <pubDate>Thu, 22 Apr 2021 22:18:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React: Custom hook for accessing storage]]></title>
+            <link>https://dev.to/link2twenty/react-custom-hook-for-accessing-storage-1e5n</link>
+            <guid>https://dev.to/link2twenty/react-custom-hook-for-accessing-storage-1e5n</guid>
+            <pubDate>Thu, 22 Apr 2021 09:11:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pyodide Spin Out and 0.17 Release]]></title>
+            <link>https://hacks.mozilla.org/2021/04/pyodide-spin-out-and-0-17-release/</link>
+            <guid>https://hacks.mozilla.org/2021/04/pyodide-spin-out-and-0-17-release/</guid>
+            <pubDate>Thu, 22 Apr 2021 17:31:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Of Chickens and Pigs - The Dilemma of Creator Self Promotion]]></title>
+            <link>https://dev.to/this-is-learning/of-chickens-and-pigs-the-dilemma-of-creator-self-promotion-51ea</link>
+            <guid>https://dev.to/this-is-learning/of-chickens-and-pigs-the-dilemma-of-creator-self-promotion-51ea</guid>
+            <pubDate>Thu, 22 Apr 2021 18:30:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting Hooked on Stoxy. Global State management hooks made simple]]></title>
+            <link>https://dev.to/matsuuu/getting-hooked-on-stoxy-1fh4</link>
+            <guid>https://dev.to/matsuuu/getting-hooked-on-stoxy-1fh4</guid>
+            <pubDate>Thu, 22 Apr 2021 17:50:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Build a Discord Bot in 6 Minutes With Node.js and Autocode]]></title>
+            <link>https://dev.to/hacubu/build-a-discord-bot-in-6-minutes-with-node-js-and-autocode-4n2d</link>
+            <guid>https://dev.to/hacubu/build-a-discord-bot-in-6-minutes-with-node-js-and-autocode-4n2d</guid>
+            <pubDate>Thu, 22 Apr 2021 07:04:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Updates from 82nd meeting of TC39]]></title>
+            <link>https://dev.to/hemanth/updates-from-82nd-meeting-of-tc39-4032</link>
+            <guid>https://dev.to/hemanth/updates-from-82nd-meeting-of-tc39-4032</guid>
+            <pubDate>Thu, 22 Apr 2021 14:50:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Interview with Jory Burson, Community Director, OpenJS Foundation on Open Source Standards]]></title>
+            <link>https://www.linuxfoundation.org/en/blog/interview-with-jory-burson-community-director-openjs-foundation-on-open-source-standards</link>
+            <guid>https://www.linuxfoundation.org/en/blog/interview-with-jory-burson-community-director-openjs-foundation-on-open-source-standards</guid>
+            <pubDate>Thu, 22 Apr 2021 15:05:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AskJS] What is the best way to handle data when testing with Jest?]]></title>
+            <link>https://gist.github.com/devmeireles/94856790f486e5cac149b303eca71032#file-jest-test-ts-L103</link>
+            <guid>https://gist.github.com/devmeireles/94856790f486e5cac149b303eca71032#file-jest-test-ts-L103</guid>
+            <pubDate>Thu, 22 Apr 2021 22:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Easier than ever to experiment with cross-compatible Web Components, thanks to the Lit team!]]></title>
+            <link>https://lit.dev/playground/#sample=examples/hello-world-javascript</link>
+            <guid>https://lit.dev/playground/#sample=examples/hello-world-javascript</guid>
+            <pubDate>Thu, 22 Apr 2021 14:34:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Lit - New framework from Google]]></title>
             <link>https://lit.dev/</link>
             <guid>https://lit.dev/</guid>
             <pubDate>Wed, 21 Apr 2021 16:56:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Enhance your frontend state management with view models — Part2]]></title>
+            <link>https://tobiasuhlig.medium.com/enhance-your-frontend-state-management-with-view-models-part2-5a9384bd863c?source=friends_link&amp;sk=e63a577e4118c767de0d289af266482c</link>
+            <guid>https://tobiasuhlig.medium.com/enhance-your-frontend-state-management-with-view-models-part2-5a9384bd863c?source=friends_link&amp;sk=e63a577e4118c767de0d289af266482c</guid>
+            <pubDate>Thu, 22 Apr 2021 07:56:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What's New In DevTools (Chrome 91) - Chrome Developers]]></title>
@@ -33,12 +111,6 @@
             <pubDate>Wed, 21 Apr 2021 11:39:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Build a Discord Bot in 6 Minutes With Node.js and Autocode]]></title>
-            <link>https://dev.to/hacubu/build-a-discord-bot-in-6-minutes-with-node-js-and-autocode-4n2d</link>
-            <guid>https://dev.to/hacubu/build-a-discord-bot-in-6-minutes-with-node-js-and-autocode-4n2d</guid>
-            <pubDate>Thu, 22 Apr 2021 07:04:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Suspense is Killing Me: Part 1]]></title>
             <link>https://blog.6nok.org/the-suspense-is-killing-me:-part-1/</link>
             <guid>https://blog.6nok.org/the-suspense-is-killing-me:-part-1/</guid>
@@ -51,22 +123,16 @@
             <pubDate>Wed, 21 Apr 2021 12:43:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Building an Offline-Ready Form With Vanilla JavaScript]]></title>
-            <link>https://welearncode.com/offline-editor/</link>
-            <guid>https://welearncode.com/offline-editor/</guid>
-            <pubDate>Wed, 21 Apr 2021 06:14:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[[AskJS] Totally stuck with listIndexes calls. Our volunteer social project building community migrated from Mlab to Mongo DB's Atlas in Nov and all our sites died. I've tried everything i can think to get the platform back up. Can anyone help or offer advice?]]></title>
             <link>https://github.com/focallocal/fl-maps/blob/deploy-phm/imports/both/collections/events/index.js</link>
             <guid>https://github.com/focallocal/fl-maps/blob/deploy-phm/imports/both/collections/events/index.js</guid>
             <pubDate>Thu, 22 Apr 2021 00:15:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Node.js v16 released]]></title>
-            <link>https://github.com/nodejs/node/releases/tag/v16.0.0</link>
-            <guid>https://github.com/nodejs/node/releases/tag/v16.0.0</guid>
-            <pubDate>Tue, 20 Apr 2021 16:04:41 GMT</pubDate>
+            <title><![CDATA[Building an Offline-Ready Form With Vanilla JavaScript]]></title>
+            <link>https://welearncode.com/offline-editor/</link>
+            <guid>https://welearncode.com/offline-editor/</guid>
+            <pubDate>Wed, 21 Apr 2021 06:14:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[StronglyTyped variables in JS]]></title>
@@ -75,82 +141,10 @@
             <pubDate>Wed, 21 Apr 2021 21:12:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[From a design agency's perspective: "Building a Custom, Professionally Designed Website from Scratch with NextJS, TypeScript, and Payload CMS" - Episode 2]]></title>
-            <link>https://payloadcms.com/blog/building-professionally-designed-site-nextjs-typescript-episode-2</link>
-            <guid>https://payloadcms.com/blog/building-professionally-designed-site-nextjs-typescript-episode-2</guid>
-            <pubDate>Tue, 20 Apr 2021 15:19:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Enhance your frontend state management with view models]]></title>
-            <link>https://tobiasuhlig.medium.com/enhance-your-frontend-state-management-with-view-models-7bf49e1a0991?source=friends_link&amp;sk=ac04c44c7cd7af4c34068a87b1207c7e</link>
-            <guid>https://tobiasuhlig.medium.com/enhance-your-frontend-state-management-with-view-models-7bf49e1a0991?source=friends_link&amp;sk=ac04c44c7cd7af4c34068a87b1207c7e</guid>
-            <pubDate>Wed, 21 Apr 2021 07:00:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AskJS] Do you think TCP/UDP will ever come to browser?]]></title>
-            <link>https://www.chromestatus.com/feature/6398297361088512</link>
-            <guid>https://www.chromestatus.com/feature/6398297361088512</guid>
-            <pubDate>Wed, 21 Apr 2021 12:15:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to track client-side JavaScript errors]]></title>
-            <link>https://format-express.dev/blog/how-to-track-client-side-javascript-errors</link>
-            <guid>https://format-express.dev/blog/how-to-track-client-side-javascript-errors</guid>
-            <pubDate>Tue, 20 Apr 2021 20:08:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lightning-fast Websites with Gatsby]]></title>
-            <link>https://bebensee.it/en/blog/lightning-fast-websites-with-gatsby/index.html</link>
-            <guid>https://bebensee.it/en/blog/lightning-fast-websites-with-gatsby/index.html</guid>
-            <pubDate>Wed, 21 Apr 2021 07:28:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ReactJS & NodeJS SaaS boilerplate]]></title>
-            <link>https://github.com/JSLancerTeam/saasgear</link>
-            <guid>https://github.com/JSLancerTeam/saasgear</guid>
-            <pubDate>Tue, 20 Apr 2021 12:19:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Audiovisual Emotion Recognition in the browser - get emotion from a face in pure JS]]></title>
-            <link>https://arjunb.westus.cloudapp.azure.com/</link>
-            <guid>https://arjunb.westus.cloudapp.azure.com/</guid>
-            <pubDate>Tue, 20 Apr 2021 21:03:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Promise of Asynchronous JavaScript]]></title>
-            <link>https://medium.com/dailyjs/a-promise-of-asynchronous-javascript-2d09b9be7019</link>
-            <guid>https://medium.com/dailyjs/a-promise-of-asynchronous-javascript-2d09b9be7019</guid>
-            <pubDate>Tue, 20 Apr 2021 13:21:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[All you can learn about Storybook in 10 minutes]]></title>
-            <link>https://alexandru-tapirdea.medium.com/all-you-can-learn-about-storybook-in-10-minutes-1e75d601e2c</link>
-            <guid>https://alexandru-tapirdea.medium.com/all-you-can-learn-about-storybook-in-10-minutes-1e75d601e2c</guid>
-            <pubDate>Tue, 20 Apr 2021 16:35:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Awesome JS Tooling not in JS]]></title>
-            <link>https://github.com/RobinCsl/awesome-js-tooling-not-in-js</link>
-            <guid>https://github.com/RobinCsl/awesome-js-tooling-not-in-js</guid>
-            <pubDate>Tue, 20 Apr 2021 11:47:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I Wrote an Open Source Analytics Platform in full Javascript in less than 30 Days.]]></title>
-            <link>https://github.com/itsrennyman/aurora</link>
-            <guid>https://github.com/itsrennyman/aurora</guid>
-            <pubDate>Mon, 19 Apr 2021 19:03:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bundling Figma Plugin With Esbuild]]></title>
-            <link>https://dev.to/daviddalbusco/bundling-figma-plugin-with-esbuild-399d</link>
-            <guid>https://dev.to/daviddalbusco/bundling-figma-plugin-with-esbuild-399d</guid>
-            <pubDate>Tue, 20 Apr 2021 18:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[///_hyperscript]]></title>
-            <link>https://hyperscript.org/comparison/</link>
-            <guid>https://hyperscript.org/comparison/</guid>
-            <pubDate>Tue, 20 Apr 2021 20:40:31 GMT</pubDate>
+            <title><![CDATA[Node.js v16 released]]></title>
+            <link>https://github.com/nodejs/node/releases/tag/v16.0.0</link>
+            <guid>https://github.com/nodejs/node/releases/tag/v16.0.0</guid>
+            <pubDate>Tue, 20 Apr 2021 16:04:41 GMT</pubDate>
         </item>
     </channel>
 </rss>

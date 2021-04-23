@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Thu, 22 Apr 2021 07:48:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Apr 2021 07:48:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,76 +15,76 @@
             <pubDate>Thu, 01 Apr 2021 06:19:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[I even bought a custom domain for an assessment in the hiring process, what do you think?]]></title>
+            <link>https://swapi.dev/</link>
+            <guid>https://swapi.dev/</guid>
+            <pubDate>Fri, 23 Apr 2021 02:54:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React Tables Guide And Best Examples]]></title>
+            <link>https://flatlogic.com/blog/react-tables-guide-and-best-examples/</link>
+            <guid>https://flatlogic.com/blog/react-tables-guide-and-best-examples/</guid>
+            <pubDate>Thu, 22 Apr 2021 15:57:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TIL you no longer have to eject CRA to customize the build path]]></title>
+            <link>https://github.com/facebook/create-react-app/blob/master/CHANGELOG.md#402-2021-02-03</link>
+            <guid>https://github.com/facebook/create-react-app/blob/master/CHANGELOG.md#402-2021-02-03</guid>
+            <pubDate>Thu, 22 Apr 2021 08:14:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Complete Guide To Incremental Static Regeneration (ISR) With Next.js]]></title>
+            <link>https://www.smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/</link>
+            <guid>https://www.smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/</guid>
+            <pubDate>Thu, 22 Apr 2021 12:43:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KendoReact Grid with Detail Editor]]></title>
+            <link>https://docs.telerik.com/kendo-ui/knowledge-base/detail-template-editor</link>
+            <guid>https://docs.telerik.com/kendo-ui/knowledge-base/detail-template-editor</guid>
+            <pubDate>Fri, 23 Apr 2021 06:41:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[process is not defined, Vite-React-TS-Tailwind]]></title>
+            <link>https://github.com/ShubhamVerma1811/vite-debug-process</link>
+            <guid>https://github.com/ShubhamVerma1811/vite-debug-process</guid>
+            <pubDate>Fri, 23 Apr 2021 05:37:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My final year MERN stack project - Online Auditorium and Turf Booking System]]></title>
+            <link>https://kjsieit-onlinebooking.netlify.app/</link>
+            <guid>https://kjsieit-onlinebooking.netlify.app/</guid>
+            <pubDate>Thu, 22 Apr 2021 14:20:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I created a reusable Next.js setup that works like a wordpress theme. Give me feedback if you like.]]></title>
+            <link>https://github.com/julianhandl/nextjs-wordpress-frontend</link>
+            <guid>https://github.com/julianhandl/nextjs-wordpress-frontend</guid>
+            <pubDate>Thu, 22 Apr 2021 18:39:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How to add ESlint, Prettier, and Husky (Git Hook) to your React application]]></title>
             <link>https://medium.com/litslink/react-js-adding-eslint-with-prettier-husky-git-hook-480ad39e65e9</link>
             <guid>https://medium.com/litslink/react-js-adding-eslint-with-prettier-husky-git-hook-480ad39e65e9</guid>
             <pubDate>Thu, 22 Apr 2021 01:49:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Suspense is Killing Me: Part 1]]></title>
-            <link>https://blog.6nok.org/the-suspense-is-killing-me:-part-1/</link>
-            <guid>https://blog.6nok.org/the-suspense-is-killing-me:-part-1/</guid>
-            <pubDate>Wed, 21 Apr 2021 21:31:02 GMT</pubDate>
+            <title><![CDATA[All you need to know about React Router in Examples]]></title>
+            <link>https://medium.com/litslink/react-js-router-in-examples-93c778a37888</link>
+            <guid>https://medium.com/litslink/react-js-router-in-examples-93c778a37888</guid>
+            <pubDate>Thu, 22 Apr 2021 20:05:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React DnD in Examples]]></title>
-            <link>https://medium.com/litslink/react-dnd-in-examples-ce509b25839d</link>
-            <guid>https://medium.com/litslink/react-dnd-in-examples-ce509b25839d</guid>
-            <pubDate>Thu, 22 Apr 2021 01:45:20 GMT</pubDate>
+            <title><![CDATA[Building a "command line" component within an app?]]></title>
+            <link>https://www.routine.co/</link>
+            <guid>https://www.routine.co/</guid>
+            <pubDate>Thu, 22 Apr 2021 22:01:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Complete Beginner's Guide to useReducer Hook]]></title>
-            <link>https://javascript.works-hub.com/learn/a-complete-beginners-guide-to-usereducer-hook-f4a78?utm_source=reddit&amp;utm_medium=affiliates&amp;utm_campaign=javascriptworks-blog-post</link>
-            <guid>https://javascript.works-hub.com/learn/a-complete-beginners-guide-to-usereducer-hook-f4a78?utm_source=reddit&amp;utm_medium=affiliates&amp;utm_campaign=javascriptworks-blog-post</guid>
-            <pubDate>Wed, 21 Apr 2021 14:27:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Extending CRA's ESLint configuration]]></title>
-            <link>https://create-react-app.dev/docs/setting-up-your-editor#extending-or-replacing-the-default-eslint-config</link>
-            <guid>https://create-react-app.dev/docs/setting-up-your-editor#extending-or-replacing-the-default-eslint-config</guid>
-            <pubDate>Thu, 22 Apr 2021 05:28:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Passing Bearer token in headers in Redux]]></title>
-            <link>https://axios.post/</link>
-            <guid>https://axios.post/</guid>
-            <pubDate>Thu, 22 Apr 2021 04:13:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My first React game]]></title>
-            <link>https://www.coronaattackgame.com/</link>
-            <guid>https://www.coronaattackgame.com/</guid>
-            <pubDate>Thu, 22 Apr 2021 03:01:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deployed my first React project.. yes, a Pokedex.]]></title>
-            <link>https://material-ui.com/</link>
-            <guid>https://material-ui.com/</guid>
-            <pubDate>Wed, 21 Apr 2021 13:57:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comparing the New Generation of Build Tools]]></title>
-            <link>https://css-tricks.com/comparing-the-new-generation-of-build-tools/</link>
-            <guid>https://css-tricks.com/comparing-the-new-generation-of-build-tools/</guid>
-            <pubDate>Wed, 21 Apr 2021 08:14:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NextJs - Full setup in 4 simple steps]]></title>
-            <link>https://www.sandromaglione.com/2021/04/21/how-to-create-a-nextjs-app-with-typescript-eslint-and-prettier/</link>
-            <guid>https://www.sandromaglione.com/2021/04/21/how-to-create-a-nextjs-app-with-typescript-eslint-and-prettier/</guid>
-            <pubDate>Wed, 21 Apr 2021 18:53:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React beginner: how can I get the id of the element the server outputs and assign it as the key of the  tag in my component instead of using Math.random()? Source code included]]></title>
-            <link>https://github.com/ashkan-ahmadi/todo-app-react/blob/main/src/ToDo.js#L42</link>
-            <guid>https://github.com/ashkan-ahmadi/todo-app-react/blob/main/src/ToDo.js#L42</guid>
-            <pubDate>Wed, 21 Apr 2021 20:47:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[18 Tips For a Better Code Review (TS/JS)]]></title>
-            <link>https://pagepro.co/blog/18-tips-for-a-better-react-code-review-ts-js/</link>
-            <guid>https://pagepro.co/blog/18-tips-for-a-better-react-code-review-ts-js/</guid>
-            <pubDate>Wed, 21 Apr 2021 13:12:52 GMT</pubDate>
+            <title><![CDATA[Async custom hook]]></title>
+            <link>https://medium.com/swlh/understanding-custom-react-hooks-by-using-them-ce62a8342375</link>
+            <guid>https://medium.com/swlh/understanding-custom-react-hooks-by-using-them-ce62a8342375</guid>
+            <pubDate>Thu, 22 Apr 2021 19:08:06 GMT</pubDate>
         </item>
     </channel>
 </rss>

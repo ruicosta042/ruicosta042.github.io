@@ -4,87 +4,81 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Thu, 22 Apr 2021 07:48:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Apr 2021 07:48:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Share your Prisma Client across projects]]></title>
-            <link>https://isidoro-ferreiro.medium.com/share-your-prisma-client-across-projects-44d1c7aca6fd</link>
-            <guid>https://isidoro-ferreiro.medium.com/share-your-prisma-client-across-projects-44d1c7aca6fd</guid>
-            <pubDate>Wed, 21 Apr 2021 22:27:50 GMT</pubDate>
+            <title><![CDATA[NodeJS 16 is officially released]]></title>
+            <link>https://sudosecurity.org/nodejs-16-is-officially-released/</link>
+            <guid>https://sudosecurity.org/nodejs-16-is-officially-released/</guid>
+            <pubDate>Fri, 23 Apr 2021 00:34:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Instagram Crawler legal?]]></title>
-            <link>https://www.npmjs.com/package/instagram-scraping</link>
-            <guid>https://www.npmjs.com/package/instagram-scraping</guid>
-            <pubDate>Thu, 22 Apr 2021 03:46:47 GMT</pubDate>
+            <title><![CDATA[How to use Binary UUIDs in Prisma]]></title>
+            <link>https://hinty.io/ivictbor/how-to-use-binary-uuids-in-prisma/</link>
+            <guid>https://hinty.io/ivictbor/how-to-use-binary-uuids-in-prisma/</guid>
+            <pubDate>Thu, 22 Apr 2021 14:52:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[3 services to deploy your Node.js app for free]]></title>
-            <link>https://blog.logrocket.com/free-services-deploy-node-js-app/</link>
-            <guid>https://blog.logrocket.com/free-services-deploy-node-js-app/</guid>
-            <pubDate>Wed, 21 Apr 2021 06:30:15 GMT</pubDate>
+            <title><![CDATA[Looking for ideas & collaborators for node-coding-challenges]]></title>
+            <link>https://github.com/alexgurr/react-coding-challenges</link>
+            <guid>https://github.com/alexgurr/react-coding-challenges</guid>
+            <pubDate>Fri, 23 Apr 2021 03:01:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cannot read property 'temp' of undefined]]></title>
-            <link>http://api.openweathermap.org/data/2.5/forecast?q=tokyo&amp;appid=773f9918fef6bd89f6c423e2d376db3d&amp;units=metric</link>
-            <guid>http://api.openweathermap.org/data/2.5/forecast?q=tokyo&amp;appid=773f9918fef6bd89f6c423e2d376db3d&amp;units=metric</guid>
-            <pubDate>Thu, 22 Apr 2021 03:41:44 GMT</pubDate>
+            <title><![CDATA[How to use Twitter Search API using JavaScript]]></title>
+            <link>https://javascript.plainenglish.io/how-to-use-twitter-api-with-javascript-998237ac1c17</link>
+            <guid>https://javascript.plainenglish.io/how-to-use-twitter-api-with-javascript-998237ac1c17</guid>
+            <pubDate>Fri, 23 Apr 2021 02:49:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Queue Data Structure in Javascript]]></title>
-            <link>https://link.medium.com/HZpcP0ttEfb</link>
-            <guid>https://link.medium.com/HZpcP0ttEfb</guid>
-            <pubDate>Thu, 22 Apr 2021 02:23:13 GMT</pubDate>
+            <title><![CDATA[How to write a photoshop script to resize the image until it covers the whole canvas? (fit the shortest)]]></title>
+            <link>https://digital-photography-school.com/how-to-batch-resize-in-photoshop/</link>
+            <guid>https://digital-photography-school.com/how-to-batch-resize-in-photoshop/</guid>
+            <pubDate>Fri, 23 Apr 2021 05:41:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mongoose Internals: Schemas, Schema Options, and Models]]></title>
-            <link>http://thecodebarbarian.com/mongoose-internals-schemas-options-models.html</link>
-            <guid>http://thecodebarbarian.com/mongoose-internals-schemas-options-models.html</guid>
-            <pubDate>Wed, 21 Apr 2021 21:05:14 GMT</pubDate>
+            <title><![CDATA[Javascript News 4th Week(Apr) – Modern window manager for the web, Node.js v16, Most Popular Backend Frameworks, Potentially avoidable re-renders, 3 Years of VueJS - The ArrowFn]]></title>
+            <link>https://thearrowfn.com/javascript-news-4th-weekapr-modern-window-manager-for-the-web-node-js-v16-most-popular-backend-frameworks-potentially-avoidable-re-renders-3-years-of-vuejs/</link>
+            <guid>https://thearrowfn.com/javascript-news-4th-weekapr-modern-window-manager-for-the-web-node-js-v16-most-popular-backend-frameworks-potentially-avoidable-re-renders-3-years-of-vuejs/</guid>
+            <pubDate>Fri, 23 Apr 2021 04:47:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rabbitode - a rabbitmq / amqplib interface package]]></title>
-            <link>https://www.npmjs.com/package/rabbitode</link>
-            <guid>https://www.npmjs.com/package/rabbitode</guid>
-            <pubDate>Wed, 21 Apr 2021 12:14:14 GMT</pubDate>
+            <title><![CDATA[Swagger stats is good for production enviroment?]]></title>
+            <link>https://swaggerstats.io/</link>
+            <guid>https://swaggerstats.io/</guid>
+            <pubDate>Thu, 22 Apr 2021 20:53:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Node v16 released]]></title>
-            <link>https://github.com/nodejs/node/releases/tag/v16.0.0</link>
-            <guid>https://github.com/nodejs/node/releases/tag/v16.0.0</guid>
-            <pubDate>Tue, 20 Apr 2021 16:02:50 GMT</pubDate>
+            <title><![CDATA[V8 JavaScript Engine 9.0 Improves JavaScript to WebAssembly Performance]]></title>
+            <link>https://www.infoq.com/news/2021/03/v8-9-webassemly/</link>
+            <guid>https://www.infoq.com/news/2021/03/v8-9-webassemly/</guid>
+            <pubDate>Thu, 22 Apr 2021 15:01:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Best JavaScript Courses]]></title>
-            <link>https://www.realcoder.org/2021/04/the-best-javascript-courses-on-udemy.html?m=1</link>
-            <guid>https://www.realcoder.org/2021/04/the-best-javascript-courses-on-udemy.html?m=1</guid>
-            <pubDate>Wed, 21 Apr 2021 17:38:39 GMT</pubDate>
+            <title><![CDATA[Advice for a pentesting newbie]]></title>
+            <link>https://freecodecamp.org/</link>
+            <guid>https://freecodecamp.org/</guid>
+            <pubDate>Thu, 22 Apr 2021 17:23:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Is There a JS Equivalence of Submitting an HTML File Form to GridFS?]]></title>
-            <link>https://stackoverflow.com/questions/67184057/is-there-a-js-equivalence-of-submitting-an-html-file-form-to-gridfs</link>
-            <guid>https://stackoverflow.com/questions/67184057/is-there-a-js-equivalence-of-submitting-an-html-file-form-to-gridfs</guid>
-            <pubDate>Wed, 21 Apr 2021 17:08:34 GMT</pubDate>
+            <title><![CDATA[napi-rs 1.6.0 released, support N-API 8 features]]></title>
+            <link>https://napi.rs/changelog/napi#napi160</link>
+            <guid>https://napi.rs/changelog/napi#napi160</guid>
+            <pubDate>Thu, 22 Apr 2021 12:20:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Let's approach learning TypeScript together]]></title>
-            <link>https://calendly.com/preshonyee/approachable-typescript</link>
-            <guid>https://calendly.com/preshonyee/approachable-typescript</guid>
-            <pubDate>Wed, 21 Apr 2021 07:07:10 GMT</pubDate>
+            <title><![CDATA[Deno Company forms to back Node.js rival]]></title>
+            <link>https://www.infoworld.com/article/3613709/deno-company-forms-to-back-nodejs-rival.html</link>
+            <guid>https://www.infoworld.com/article/3613709/deno-company-forms-to-back-nodejs-rival.html</guid>
+            <pubDate>Thu, 22 Apr 2021 14:54:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Serverless Framework: Use Amazon S3 Object Lambda to resize images on the fly (Node.js and Sharp)]]></title>
-            <link>https://micheleriso.medium.com/serverless-framework-use-aws-s3-object-lambda-to-resize-images-on-the-fly-868a37017f3c?source=friends_link&amp;sk=92db8e93414194f87ff4ab85644470c4</link>
-            <guid>https://micheleriso.medium.com/serverless-framework-use-aws-s3-object-lambda-to-resize-images-on-the-fly-868a37017f3c?source=friends_link&amp;sk=92db8e93414194f87ff4ab85644470c4</guid>
-            <pubDate>Wed, 21 Apr 2021 10:57:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Make your npm package work on both Node.js and browser]]></title>
-            <link>https://www.aspecto.io/blog/make-your-npm-package-work-on-both-node-js-and-browser/?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=make-your-npm-package-work-on-both-node-js-and-browser</link>
-            <guid>https://www.aspecto.io/blog/make-your-npm-package-work-on-both-node-js-and-browser/?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=make-your-npm-package-work-on-both-node-js-and-browser</guid>
-            <pubDate>Wed, 21 Apr 2021 14:40:25 GMT</pubDate>
+            <title><![CDATA[The Most Popular Databases – 2006/2021]]></title>
+            <link>https://statisticsanddata.org/data/the-most-popular-databases-2006-2021/</link>
+            <guid>https://statisticsanddata.org/data/the-most-popular-databases-2006-2021/</guid>
+            <pubDate>Thu, 22 Apr 2021 13:58:25 GMT</pubDate>
         </item>
     </channel>
 </rss>

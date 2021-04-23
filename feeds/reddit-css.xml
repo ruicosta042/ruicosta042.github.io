@@ -4,14 +4,14 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Thu, 22 Apr 2021 07:48:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Apr 2021 07:48:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
             <title><![CDATA[How did Apple.com match white video background with site background?]]></title>
-            <link>https://www.apple.com/105/media/us/home/2021/10dd06f2-9a7d-4629-86f1-8c06fca93c00/anim/hero/medium.mp4</link>
-            <guid>https://www.apple.com/105/media/us/home/2021/10dd06f2-9a7d-4629-86f1-8c06fca93c00/anim/hero/medium.mp4</guid>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
             <pubDate>Thu, 22 Apr 2021 07:24:02 GMT</pubDate>
         </item>
         <item>
@@ -49,24 +49,6 @@
             <link>https://jessbpeck.com/posts/completecls/</link>
             <guid>https://jessbpeck.com/posts/completecls/</guid>
             <pubDate>Tue, 20 Apr 2021 13:02:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Help understanding this CSS Grid syntax?]]></title>
-            <link>http://css-tricks.com/snippets/css/complete-guide-grid</link>
-            <guid>http://css-tricks.com/snippets/css/complete-guide-grid</guid>
-            <pubDate>Tue, 20 Apr 2021 00:55:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Changing the size of a content area]]></title>
-            <link>https://overlydevotedarchivist.net/</link>
-            <guid>https://overlydevotedarchivist.net/</guid>
-            <pubDate>Mon, 19 Apr 2021 19:15:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CSS Accordion Slider Generator]]></title>
-            <link>https://accordionslider.com/</link>
-            <guid>https://accordionslider.com/</guid>
-            <pubDate>Mon, 19 Apr 2021 15:05:55 GMT</pubDate>
         </item>
     </channel>
 </rss>

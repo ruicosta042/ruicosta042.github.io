@@ -4,10 +4,46 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Fri, 23 Apr 2021 07:48:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Apr 2021 07:48:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Flexbox-Guide]]></title>
+            <link>https://flexbox-guide.vercel.app/</link>
+            <guid>https://flexbox-guide.vercel.app/</guid>
+            <pubDate>Fri, 23 Apr 2021 13:14:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Let's light it 🔥 up! - A small post to show how flame animation can take your emoji to next level!]]></title>
+            <link>https://blog.shhdharmen.me/lets-light-it-up</link>
+            <guid>https://blog.shhdharmen.me/lets-light-it-up</guid>
+            <pubDate>Fri, 23 Apr 2021 17:17:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Making (and Potential Benefits) of a CSS Font]]></title>
+            <link>https://css-tricks.com/the-making-and-potential-benefits-of-a-css-font/</link>
+            <guid>https://css-tricks.com/the-making-and-potential-benefits-of-a-css-font/</guid>
+            <pubDate>Fri, 23 Apr 2021 09:52:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hey, its 's made almost 80% from CSS]]></title>
+            <link>http://drippyparrot.com/</link>
+            <guid>http://drippyparrot.com/</guid>
+            <pubDate>Fri, 23 Apr 2021 19:06:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fower v1.0 is released]]></title>
+            <link>https://forsigner.medium.com/fower-v1-0-8df48723de0b?source=friends_link&amp;sk=1cd32f9577a8f12533a6bf733a12f179</link>
+            <guid>https://forsigner.medium.com/fower-v1-0-8df48723de0b?source=friends_link&amp;sk=1cd32f9577a8f12533a6bf733a12f179</guid>
+            <pubDate>Fri, 23 Apr 2021 08:02:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CSS-only search boxes]]></title>
+            <link>https://www.sliderrevolution.com/resources/css-search-box/</link>
+            <guid>https://www.sliderrevolution.com/resources/css-search-box/</guid>
+            <pubDate>Fri, 23 Apr 2021 09:50:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How did Apple.com match white video background with site background?]]></title>
             <link>https://foo.com/</link>
@@ -19,36 +55,6 @@
             <link>https://css-irl.info/quick-tip-style-pseudo-elements-with-javascript-using-custom-properties/</link>
             <guid>https://css-irl.info/quick-tip-style-pseudo-elements-with-javascript-using-custom-properties/</guid>
             <pubDate>Wed, 21 Apr 2021 12:23:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I'm going crazy over this weird spacing issue!]]></title>
-            <link>https://montenegroya.bigg.digital/evraklar-fiyatlar/</link>
-            <guid>https://montenegroya.bigg.digital/evraklar-fiyatlar/</guid>
-            <pubDate>Wed, 21 Apr 2021 16:09:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Working around the viewport-based fluid typography bug in Safari]]></title>
-            <link>https://www.sarasoueidan.com/blog/safari-fluid-typography-bug-fix/</link>
-            <guid>https://www.sarasoueidan.com/blog/safari-fluid-typography-bug-fix/</guid>
-            <pubDate>Wed, 21 Apr 2021 12:21:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My current HTML boilerplate]]></title>
-            <link>https://www.matuzo.at/blog/html-boilerplate/</link>
-            <guid>https://www.matuzo.at/blog/html-boilerplate/</guid>
-            <pubDate>Tue, 20 Apr 2021 12:42:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Intrinsic Typography": Yay or nay?]]></title>
-            <link>https://css-tricks.com/</link>
-            <guid>https://css-tricks.com/</guid>
-            <pubDate>Tue, 20 Apr 2021 20:00:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Almost-Complete Guide to Cumulative Layout Shift]]></title>
-            <link>https://jessbpeck.com/posts/completecls/</link>
-            <guid>https://jessbpeck.com/posts/completecls/</guid>
-            <pubDate>Tue, 20 Apr 2021 13:02:02 GMT</pubDate>
         </item>
     </channel>
 </rss>

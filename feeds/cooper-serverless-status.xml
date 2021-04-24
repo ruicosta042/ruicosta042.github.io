@@ -4,57 +4,81 @@
         <title>Serverless Status</title>
         <link>https://serverless.email/</link>
         <description>A weekly newsletter on serverless and function-as-a-service (FaaS) architectures and platforms including AWS Lambda and Azure Functions.</description>
-        <lastBuildDate>Tue, 20 Apr 2021 07:48:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Apr 2021 07:48:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Cloudflare Workers Introduces WebSockets Support]]></title>
-            <link>https://blog.cloudflare.com/introducing-websockets-in-workers/</link>
-            <guid>https://blog.cloudflare.com/introducing-websockets-in-workers/</guid>
-            <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Why Serverless Will Enable the Edge Computing Revolution]]></title>
+            <link>https://medium.com/serverless-transformation/why-serverless-will-enable-the-edge-computing-revolution-4f52f3f8a7b0</link>
+            <guid>https://medium.com/serverless-transformation/why-serverless-will-enable-the-edge-computing-revolution-4f52f3f8a7b0</guid>
+            <pubDate>Fri, 23 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Announcing Cloudflare Workers Unbound for General Availability]]></title>
-            <link>https://blog.cloudflare.com/workers-unbound-ga/</link>
-            <guid>https://blog.cloudflare.com/workers-unbound-ga/</guid>
-            <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[5 AWS Lambda Lessons Learned After 2 Billion Function Executions]]></title>
+            <link>https://medium.com/creditorwatch/aws-lambda-facts-you-wish-to-know-before-processing-2-billion-lambda-executions-2021-78fe77183c80</link>
+            <guid>https://medium.com/creditorwatch/aws-lambda-facts-you-wish-to-know-before-processing-2-billion-lambda-executions-2021-78fe77183c80</guid>
+            <pubDate>Fri, 23 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AWS Putting on Virtual 'Serverless Live' Event on May 19]]></title>
-            <link>https://aws.amazon.com/blogs/compute/register-now-for-the-serverless-live-virtual-event/</link>
-            <guid>https://aws.amazon.com/blogs/compute/register-now-for-the-serverless-live-virtual-event/</guid>
-            <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Porting DOOM to Fastly's Serverless Edge Platform]]></title>
+            <link>https://www.fastly.com/blog/compute-edge-porting-the-iconic-video-game-doom</link>
+            <guid>https://www.fastly.com/blog/compute-edge-porting-the-iconic-video-game-doom</guid>
+            <pubDate>Fri, 23 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Location-Based Personalization at the Edge with Cloudflare Workers]]></title>
-            <link>https://blog.cloudflare.com/location-based-personalization-using-workers/</link>
-            <guid>https://blog.cloudflare.com/location-based-personalization-using-workers/</guid>
-            <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Why AWS Lambda Pricing Has to Change for the Enterprise]]></title>
+            <link>https://www.infoq.com/articles/aws-lambda-price-change/</link>
+            <guid>https://www.infoq.com/articles/aws-lambda-price-change/</guid>
+            <pubDate>Fri, 23 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Getting Started with Serverless for Developers: Part 1]]></title>
-            <link>https://aws.amazon.com/blogs/compute/getting-started-with-serverless-for-developers-part-1/</link>
-            <guid>https://aws.amazon.com/blogs/compute/getting-started-with-serverless-for-developers-part-1/</guid>
-            <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Amazon RDS for PostgreSQL Now Integrates with AWS Lambda]]></title>
+            <link>https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rds-postgresql-integrates-aws-lambda/</link>
+            <guid>https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rds-postgresql-integrates-aws-lambda/</guid>
+            <pubDate>Fri, 23 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Why I Wouldn’t Choose S3 Bucket Notifications Again']]></title>
-            <link>https://chris-blogs.medium.com/why-i-wouldnt-choose-s3-bucket-notifications-again-84937286bfb6</link>
-            <guid>https://chris-blogs.medium.com/why-i-wouldnt-choose-s3-bucket-notifications-again-84937286bfb6</guid>
-            <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Node.js Support in Cloudflare Workers]]></title>
+            <link>https://blog.cloudflare.com/node-js-support-cloudflare-workers/</link>
+            <guid>https://blog.cloudflare.com/node-js-support-cloudflare-workers/</guid>
+            <pubDate>Fri, 23 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Serverless and Machine Learning with Alexandra Abbas]]></title>
-            <link>https://www.serverlesschats.com/96/</link>
-            <guid>https://www.serverlesschats.com/96/</guid>
-            <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How Serverless Fits in to the Cyclical Nature of the Industry]]></title>
+            <link>https://www.serverlesschats.com/97/</link>
+            <guid>https://www.serverlesschats.com/97/</guid>
+            <pubDate>Fri, 23 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[End-to-End Serverless ETL Orchestration with AWS]]></title>
-            <link>https://rittikajindal.medium.com/end-to-end-serverless-etl-orchestration-in-aws-322fedd4402f</link>
-            <guid>https://rittikajindal.medium.com/end-to-end-serverless-etl-orchestration-in-aws-322fedd4402f</guid>
-            <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to Test Your EventBridge Integrations]]></title>
+            <link>https://serverlessfirst.com/eventbridge-testing-guide/</link>
+            <guid>https://serverlessfirst.com/eventbridge-testing-guide/</guid>
+            <pubDate>Fri, 23 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Thorough Guide to CORS on API Gateway]]></title>
+            <link>https://dev.to/aws-builders/your-complete-api-gateway-and-cors-guide-11jb</link>
+            <guid>https://dev.to/aws-builders/your-complete-api-gateway-and-cors-guide-11jb</guid>
+            <pubDate>Fri, 23 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Modelling AWS Step Functions Workflow Input and Output Path Processing with Data Flow Simulator]]></title>
+            <link>https://aws.amazon.com/blogs/compute/modeling-workflow-input-output-path-processing-with-data-flow-simulator/</link>
+            <guid>https://aws.amazon.com/blogs/compute/modeling-workflow-input-output-path-processing-with-data-flow-simulator/</guid>
+            <pubDate>Fri, 23 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Going Serverless: A Case Study]]></title>
+            <link>https://m.youtube.com/watch?v=hG3D-Nl0y3A</link>
+            <guid>https://m.youtube.com/watch?v=hG3D-Nl0y3A</guid>
+            <pubDate>Fri, 23 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Latency Comparison Among Serverless Databases: DynamoDB vs FaunaDB vs Upstash]]></title>
+            <link>https://blog.upstash.com/latency-comparison</link>
+            <guid>https://blog.upstash.com/latency-comparison</guid>
+            <pubDate>Fri, 23 Apr 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

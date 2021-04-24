@@ -4,10 +4,16 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Fri, 23 Apr 2021 07:48:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Apr 2021 07:48:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Making Custom Game Engine in TypeScript: How I outperformed the Mozilla team]]></title>
+            <link>https://jerrygreen.me/blog/making-custom-game-engine</link>
+            <guid>https://jerrygreen.me/blog/making-custom-game-engine</guid>
+            <pubDate>Fri, 23 Apr 2021 13:33:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Babel alternative in TypeScript that's 2x faster than esbuild]]></title>
             <link>https://twitter.com/sitnikcode/status/1384854744259248130</link>
@@ -97,18 +103,6 @@
             <link>https://github.com/microsoft/TypeScript/issues/43505</link>
             <guid>https://github.com/microsoft/TypeScript/issues/43505</guid>
             <pubDate>Sat, 17 Apr 2021 23:54:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Writing Effective Tests for Modern Web Apps]]></title>
-            <link>https://caleb89taylor.medium.com/writing-effective-tests-for-modern-web-apps-48a69e34f06b</link>
-            <guid>https://caleb89taylor.medium.com/writing-effective-tests-for-modern-web-apps-48a69e34f06b</guid>
-            <pubDate>Sun, 18 Apr 2021 02:15:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BLOG: Setup Express in TypeScript with Node.js]]></title>
-            <link>https://itnext.io/setup-express-in-typescript-with-node-js-ffa3da038fc1</link>
-            <guid>https://itnext.io/setup-express-in-typescript-with-node-js-ffa3da038fc1</guid>
-            <pubDate>Sun, 18 Apr 2021 07:49:30 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,123 +4,123 @@
         <title>JavaScript Weekly</title>
         <link>https://javascriptweekly.com/</link>
         <description>A newsletter of JavaScript articles, news and cool projects</description>
-        <lastBuildDate>Fri, 23 Apr 2021 07:48:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Apr 2021 07:48:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Comparing the New Generation of Build Tools]]></title>
-            <link>https://css-tricks.com/comparing-the-new-generation-of-build-tools/</link>
-            <guid>https://css-tricks.com/comparing-the-new-generation-of-build-tools/</guid>
-            <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Starting a TypeScript Project in 2021]]></title>
+            <link>https://www.metachris.com/2021/04/starting-a-typescript-project-in-2021/</link>
+            <guid>https://www.metachris.com/2021/04/starting-a-typescript-project-in-2021/</guid>
+            <pubDate>Fri, 23 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Slow and Steady: Converting Sentry’s Entire Frontend to TypeScript]]></title>
-            <link>https://blog.sentry.io/2021/04/12/slow-and-steady-converting-sentrys-entire-frontend-to-typescript/</link>
-            <guid>https://blog.sentry.io/2021/04/12/slow-and-steady-converting-sentrys-entire-frontend-to-typescript/</guid>
-            <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Node.js 16 Released]]></title>
+            <link>https://nodejs.medium.com/node-js-16-available-now-7f5099a97e70</link>
+            <guid>https://nodejs.medium.com/node-js-16-available-now-7f5099a97e70</guid>
+            <pubDate>Fri, 23 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[15 DevTool Secrets for JavaScript Developers]]></title>
-            <link>https://blog.asayer.io/15-devtool-secrets-for-javascript-developers/</link>
-            <guid>https://blog.asayer.io/15-devtool-secrets-for-javascript-developers/</guid>
-            <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Solving a Mystery Behavior of parseInt()]]></title>
+            <link>https://dmitripavlutin.com/parseint-mystery-javascript/</link>
+            <guid>https://dmitripavlutin.com/parseint-mystery-javascript/</guid>
+            <pubDate>Fri, 23 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Thorough Guide to Working with Strings in Modern JavaScript]]></title>
-            <link>https://www.baseclass.io/guides/string-handling-modern-js</link>
-            <guid>https://www.baseclass.io/guides/string-handling-modern-js</guid>
-            <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How Josh Comeau Builds His Blog]]></title>
+            <link>https://www.joshwcomeau.com/blog/how-i-built-my-blog/</link>
+            <guid>https://www.joshwcomeau.com/blog/how-i-built-my-blog/</guid>
+            <pubDate>Fri, 23 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hyperapp – Is It a Lightweight 'React Killer'?]]></title>
-            <link>https://blog.asayer.io/hyperapp-is-it-the-lightweight-react-killer/</link>
-            <guid>https://blog.asayer.io/hyperapp-is-it-the-lightweight-react-killer/</guid>
-            <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to Convert HTML to an Image with Puppeteer from Node]]></title>
+            <link>https://cheatcode.co/tutorials/how-to-convert-html-to-an-image-using-puppeteer-in-node-js</link>
+            <guid>https://cheatcode.co/tutorials/how-to-convert-html-to-an-image-using-puppeteer-in-node-js</guid>
+            <pubDate>Fri, 23 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Simple Start to ES Modules in Node.js]]></title>
-            <link>https://kentcdodds.com/blog/super-simple-start-to-es-modules-in-node-js/</link>
-            <guid>https://kentcdodds.com/blog/super-simple-start-to-es-modules-in-node-js/</guid>
-            <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Debugging JavaScript Efficiently with Chrome DevTools]]></title>
+            <link>https://lo-victoria.com/debugging-javascript-efficiently-with-chrome-devtools?guid=none&amp;deviceId=b610e957-2fc3-43fe-a8b5-cacc84f95690</link>
+            <guid>https://lo-victoria.com/debugging-javascript-efficiently-with-chrome-devtools?guid=none&amp;deviceId=b610e957-2fc3-43fe-a8b5-cacc84f95690</guid>
+            <pubDate>Fri, 23 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[An Introduction to the switch(true) Pattern]]></title>
-            <link>https://seanbarry.dev/posts/switch-true-pattern/</link>
-            <guid>https://seanbarry.dev/posts/switch-true-pattern/</guid>
-            <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Five Key Lessons React Tutorials Don't Teach]]></title>
+            <link>https://reedbarger.hashnode.dev/5-key-lessons-react-tutorials-dont-teach?guid=none&amp;deviceId=9f3f9a6c-fc40-4169-8b52-8500bab816bb</link>
+            <guid>https://reedbarger.hashnode.dev/5-key-lessons-react-tutorials-dont-teach?guid=none&amp;deviceId=9f3f9a6c-fc40-4169-8b52-8500bab816bb</guid>
+            <pubDate>Fri, 23 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to Send Tweets with a JavaScript GitHub Action]]></title>
-            <link>https://hibbard.eu/tweet-javascript-github-action/</link>
-            <guid>https://hibbard.eu/tweet-javascript-github-action/</guid>
-            <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Web Performance Recipes with Puppeteer]]></title>
+            <link>https://addyosmani.com/blog/puppeteer-recipes/</link>
+            <guid>https://addyosmani.com/blog/puppeteer-recipes/</guid>
+            <pubDate>Fri, 23 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Real World CSS vs. CSS-in-JS Performance Comparison]]></title>
-            <link>https://pustelto.com/blog/css-vs-css-in-js-perf/</link>
-            <guid>https://pustelto.com/blog/css-vs-css-in-js-perf/</guid>
-            <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to Streamline Angular Reactivity]]></title>
+            <link>https://javascript.plainenglish.io/angular-reactivity-streamlined-831754b60a11</link>
+            <guid>https://javascript.plainenglish.io/angular-reactivity-streamlined-831754b60a11</guid>
+            <pubDate>Fri, 23 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Building a Video Streaming App with Nuxt.js, Node and Express]]></title>
-            <link>https://www.smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/</link>
-            <guid>https://www.smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/</guid>
-            <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Sucrase: A Super-Fast Babel Alternative]]></title>
+            <link>https://sucrase.io/</link>
+            <guid>https://sucrase.io/</guid>
+            <pubDate>Fri, 23 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Building an ASCII Game Engine That Runs in the Browser]]></title>
-            <link>https://m.youtube.com/watch?v=B3uH517XbPs</link>
-            <guid>https://m.youtube.com/watch?v=B3uH517XbPs</guid>
-            <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Prisma ORM Toolkit Now 'Ready For Production']]></title>
+            <link>https://www.prisma.io/blog/prisma-the-complete-orm-inw24qjeawmb</link>
+            <guid>https://www.prisma.io/blog/prisma-the-complete-orm-inw24qjeawmb</guid>
+            <pubDate>Fri, 23 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Deno 1.9 Released]]></title>
-            <link>https://deno.com/blog/v1.9</link>
-            <guid>https://deno.com/blog/v1.9</guid>
-            <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[WinBox: An HTML5 'Window Manager' for the Web]]></title>
+            <link>https://nextapps-de.github.io/winbox/</link>
+            <guid>https://nextapps-de.github.io/winbox/</guid>
+            <pubDate>Fri, 23 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Announcing react-pdf v2.0]]></title>
-            <link>https://react-pdf.org/blog/announcing-react-pdf-v2</link>
-            <guid>https://react-pdf.org/blog/announcing-react-pdf-v2</guid>
-            <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Volta 1.0.4: The JavaScript Tool Installer and Launcher]]></title>
+            <link>https://volta.sh/</link>
+            <guid>https://volta.sh/</guid>
+            <pubDate>Fri, 23 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[party.js: A Way to 'Brighten Up' Your Site with Visual Effects]]></title>
-            <link>https://partyjs.yiliansource.dev/</link>
-            <guid>https://partyjs.yiliansource.dev/</guid>
-            <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Inkline: A Customizable Vue.js UI/UX Library]]></title>
+            <link>https://inkline.io/</link>
+            <guid>https://inkline.io/</guid>
+            <pubDate>Fri, 23 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Algolia Search API Client for JavaScript]]></title>
-            <link>https://github.com/algolia/algoliasearch-client-javascript</link>
-            <guid>https://github.com/algolia/algoliasearch-client-javascript</guid>
-            <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[js-image-carver: Content-Aware Image Resizer and Object Remover]]></title>
+            <link>https://trekhleb.dev/js-image-carver/</link>
+            <guid>https://trekhleb.dev/js-image-carver/</guid>
+            <pubDate>Fri, 23 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[jest-puppeteer 5.0: Run Your Tests using Jest and Puppeteer]]></title>
-            <link>https://github.com/smooth-code/jest-puppeteer</link>
-            <guid>https://github.com/smooth-code/jest-puppeteer</guid>
-            <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[A Complete Guide To Incremental Static Regeneration (ISR) with Next.js]]></title>
+            <link>https://www.smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/</link>
+            <guid>https://www.smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/</guid>
+            <pubDate>Fri, 23 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Going “Meta GSAP”: The Quest for “Perfect” Infinite Scrolling]]></title>
-            <link>https://css-tricks.com/going-meta-gsap-the-quest-for-perfect-infinite-scrolling/</link>
-            <guid>https://css-tricks.com/going-meta-gsap-the-quest-for-perfect-infinite-scrolling/</guid>
-            <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Styled Components Best Practices for React Developers]]></title>
+            <link>https://www.robinwieruch.de/styled-components/</link>
+            <guid>https://www.robinwieruch.de/styled-components/</guid>
+            <pubDate>Fri, 23 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tricking TypeScript Into Typing Untyped JavaScript Modules]]></title>
-            <link>https://kamranicus.com/tricking-typescript-into-typing-untyped-javascript-modules/</link>
-            <guid>https://kamranicus.com/tricking-typescript-into-typing-untyped-javascript-modules/</guid>
-            <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Voice-Enabling an Angular App with Wake Words]]></title>
+            <link>https://medium.com/picovoice/voice-enabling-an-angular-app-with-wake-words-dae4c9f26f9f</link>
+            <guid>https://medium.com/picovoice/voice-enabling-an-angular-app-with-wake-words-dae4c9f26f9f</guid>
+            <pubDate>Fri, 23 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[JS Classes Are Not “Just Syntactic Sugar”]]></title>
-            <link>https://webreflection.medium.com/js-classes-are-not-just-syntactic-sugar-28690fedf078</link>
-            <guid>https://webreflection.medium.com/js-classes-are-not-just-syntactic-sugar-28690fedf078</guid>
-            <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Compodoc: The Missing Documentation Tool for Your Angular App]]></title>
+            <link>https://compodoc.app/</link>
+            <guid>https://compodoc.app/</guid>
+            <pubDate>Fri, 23 Apr 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

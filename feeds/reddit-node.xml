@@ -4,15 +4,39 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Fri, 23 Apr 2021 07:48:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Apr 2021 07:48:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Automated Binance trading bot - Buy low/Sell high with stop loss limit/Trade multiple cryptocurrencies]]></title>
+            <link>https://github.com/chrisleekr/binance-trading-bot</link>
+            <guid>https://github.com/chrisleekr/binance-trading-bot</guid>
+            <pubDate>Fri, 23 Apr 2021 14:49:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Using multiple package managers? Use npx ci instead of npm ci]]></title>
+            <link>https://github.com/privatenumber/ci</link>
+            <guid>https://github.com/privatenumber/ci</guid>
+            <pubDate>Fri, 23 Apr 2021 15:46:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Help using puppeteer and MediaRecorder to record a canvas.]]></title>
+            <link>https://mozilla.org/</link>
+            <guid>https://mozilla.org/</guid>
+            <pubDate>Fri, 23 Apr 2021 17:29:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NodeJS 16 is officially released]]></title>
             <link>https://sudosecurity.org/nodejs-16-is-officially-released/</link>
             <guid>https://sudosecurity.org/nodejs-16-is-officially-released/</guid>
             <pubDate>Fri, 23 Apr 2021 00:34:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Separation of concerns: example with a Nodejs-Fastify-MongoDB stack]]></title>
+            <link>https://lorenzofox3.medium.com/separation-of-concerns-example-with-a-nodejs-fastify-mongodb-stack-2158577a8875?source=friends_link&amp;sk=8cb54504e115e62767bf121a96b1ceca</link>
+            <guid>https://lorenzofox3.medium.com/separation-of-concerns-example-with-a-nodejs-fastify-mongodb-stack-2158577a8875?source=friends_link&amp;sk=8cb54504e115e62767bf121a96b1ceca</guid>
+            <pubDate>Fri, 23 Apr 2021 12:44:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to use Binary UUIDs in Prisma]]></title>
@@ -27,12 +51,6 @@
             <pubDate>Fri, 23 Apr 2021 03:01:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to use Twitter Search API using JavaScript]]></title>
-            <link>https://javascript.plainenglish.io/how-to-use-twitter-api-with-javascript-998237ac1c17</link>
-            <guid>https://javascript.plainenglish.io/how-to-use-twitter-api-with-javascript-998237ac1c17</guid>
-            <pubDate>Fri, 23 Apr 2021 02:49:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[How to write a photoshop script to resize the image until it covers the whole canvas? (fit the shortest)]]></title>
             <link>https://digital-photography-school.com/how-to-batch-resize-in-photoshop/</link>
             <guid>https://digital-photography-school.com/how-to-batch-resize-in-photoshop/</guid>
@@ -45,40 +63,16 @@
             <pubDate>Fri, 23 Apr 2021 04:47:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How to use Twitter Search API using JavaScript]]></title>
+            <link>https://javascript.plainenglish.io/how-to-use-twitter-api-with-javascript-998237ac1c17</link>
+            <guid>https://javascript.plainenglish.io/how-to-use-twitter-api-with-javascript-998237ac1c17</guid>
+            <pubDate>Fri, 23 Apr 2021 02:49:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Swagger stats is good for production enviroment?]]></title>
             <link>https://swaggerstats.io/</link>
             <guid>https://swaggerstats.io/</guid>
             <pubDate>Thu, 22 Apr 2021 20:53:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[V8 JavaScript Engine 9.0 Improves JavaScript to WebAssembly Performance]]></title>
-            <link>https://www.infoq.com/news/2021/03/v8-9-webassemly/</link>
-            <guid>https://www.infoq.com/news/2021/03/v8-9-webassemly/</guid>
-            <pubDate>Thu, 22 Apr 2021 15:01:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Advice for a pentesting newbie]]></title>
-            <link>https://freecodecamp.org/</link>
-            <guid>https://freecodecamp.org/</guid>
-            <pubDate>Thu, 22 Apr 2021 17:23:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[napi-rs 1.6.0 released, support N-API 8 features]]></title>
-            <link>https://napi.rs/changelog/napi#napi160</link>
-            <guid>https://napi.rs/changelog/napi#napi160</guid>
-            <pubDate>Thu, 22 Apr 2021 12:20:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deno Company forms to back Node.js rival]]></title>
-            <link>https://www.infoworld.com/article/3613709/deno-company-forms-to-back-nodejs-rival.html</link>
-            <guid>https://www.infoworld.com/article/3613709/deno-company-forms-to-back-nodejs-rival.html</guid>
-            <pubDate>Thu, 22 Apr 2021 14:54:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Most Popular Databases – 2006/2021]]></title>
-            <link>https://statisticsanddata.org/data/the-most-popular-databases-2006-2021/</link>
-            <guid>https://statisticsanddata.org/data/the-most-popular-databases-2006-2021/</guid>
-            <pubDate>Thu, 22 Apr 2021 13:58:25 GMT</pubDate>
         </item>
     </channel>
 </rss>

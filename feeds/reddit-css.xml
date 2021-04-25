@@ -4,15 +4,27 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Sat, 24 Apr 2021 07:48:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Apr 2021 07:48:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Flexbox-Guide]]></title>
-            <link>https://flexbox-guide.vercel.app/</link>
-            <guid>https://flexbox-guide.vercel.app/</guid>
-            <pubDate>Fri, 23 Apr 2021 13:14:07 GMT</pubDate>
+            <title><![CDATA[Help with nested CCS Grids and hover states/click events]]></title>
+            <link>https://awesome-sammet-42a758.netlify.app/</link>
+            <guid>https://awesome-sammet-42a758.netlify.app/</guid>
+            <pubDate>Sat, 24 Apr 2021 19:28:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beginner needs help with animate on scroll and cards.]]></title>
+            <link>https://jsfiddle.net/HDriver/9anzw6mu/3/</link>
+            <guid>https://jsfiddle.net/HDriver/9anzw6mu/3/</guid>
+            <pubDate>Sat, 24 Apr 2021 14:56:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Create A Cool Animated Navbar With Toggle Button]]></title>
+            <link>https://www.instagram.com/p/COBhMnjD8tw/</link>
+            <guid>https://www.instagram.com/p/COBhMnjD8tw/</guid>
+            <pubDate>Sat, 24 Apr 2021 09:45:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Let's light it 🔥 up! - A small post to show how flame animation can take your emoji to next level!]]></title>
@@ -49,12 +61,6 @@
             <link>https://foo.com/</link>
             <guid>https://foo.com/</guid>
             <pubDate>Thu, 22 Apr 2021 07:24:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Quick Tip: Style Pseudo-elements with Javascript Using Custom Properties]]></title>
-            <link>https://css-irl.info/quick-tip-style-pseudo-elements-with-javascript-using-custom-properties/</link>
-            <guid>https://css-irl.info/quick-tip-style-pseudo-elements-with-javascript-using-custom-properties/</guid>
-            <pubDate>Wed, 21 Apr 2021 12:23:03 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sat, 24 Apr 2021 07:48:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Apr 2021 07:48:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,88 @@
             <pubDate>Mon, 19 Apr 2021 09:05:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[[AskJS] Spend 1 Minute a day to improve your JavaScript Programming Skills]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Sun, 25 Apr 2021 04:11:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I made a Free Drag and Drop Dashboard Builder]]></title>
+            <link>https://www.loopple.com/</link>
+            <guid>https://www.loopple.com/</guid>
+            <pubDate>Sat, 24 Apr 2021 13:42:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I made an open-source mind-map application]]></title>
+            <link>https://kiri.vercel.app/</link>
+            <guid>https://kiri.vercel.app/</guid>
+            <pubDate>Sat, 24 Apr 2021 17:50:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Me & my buddy spent the past week building Aspire.app! Super basic idea: a lightning fast way for developers to spin up a beautiful homepage and showcase themselves. We'd really appreciate feedback & advice from the community! :) Built with pizza & javascript!]]></title>
+            <link>https://aspire.app/</link>
+            <guid>https://aspire.app/</guid>
+            <pubDate>Sat, 24 Apr 2021 17:45:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[3 use cases for ES6 generators]]></title>
+            <link>https://dev.to/alekseiberezkin/3-use-cases-for-es6-generators-3375</link>
+            <guid>https://dev.to/alekseiberezkin/3-use-cases-for-es6-generators-3375</guid>
+            <pubDate>Sat, 24 Apr 2021 16:16:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[TIL you can name regex capture groups, e.g.: 'John Doe'.match(/^(?\w+)\s+(?\w+)/).groups => {first: "John", last: "Doe"}]]></title>
             <link>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Groups_and_Ranges#using_named_groups</link>
             <guid>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Groups_and_Ranges#using_named_groups</guid>
             <pubDate>Sat, 24 Apr 2021 00:43:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[fast-path-set: 3x faster drop-in replacement for lodash.set]]></title>
+            <link>https://github.com/galvez/fast-path-set</link>
+            <guid>https://github.com/galvez/fast-path-set</guid>
+            <pubDate>Sat, 24 Apr 2021 23:18:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Interactive Maps using Leaflet]]></title>
+            <link>https://piyushsinha.tech/interactive-maps-using-leaflet</link>
+            <guid>https://piyushsinha.tech/interactive-maps-using-leaflet</guid>
+            <pubDate>Sun, 25 Apr 2021 05:29:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Angular 12 improves performance and so much more]]></title>
+            <link>https://sudosecurity.org/angular-12-released/</link>
+            <guid>https://sudosecurity.org/angular-12-released/</guid>
+            <pubDate>Sun, 25 Apr 2021 03:04:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[logzone : a package to print pretty log messages. you can use predefined or customize your own!]]></title>
+            <link>https://github.com/muhammedMoussa/logzone#readme</link>
+            <guid>https://github.com/muhammedMoussa/logzone#readme</guid>
+            <pubDate>Sat, 24 Apr 2021 16:50:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I created a Free open source Landing Page Template. Built with NextJS, React, TypeScript, Tailwind CSS]]></title>
+            <link>https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template</link>
+            <guid>https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template</guid>
+            <pubDate>Sat, 24 Apr 2021 10:43:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I have made an open source npm package wrapped around Twitter Standard Search API named TWI-JS.]]></title>
+            <link>https://www.npmjs.com/package/twi-js</link>
+            <guid>https://www.npmjs.com/package/twi-js</guid>
+            <pubDate>Sat, 24 Apr 2021 16:26:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Send Notifications in Chrome Extensions]]></title>
+            <link>https://blog.shahednasser.com/how-to-send-notifications-in-chrome-extensions/</link>
+            <guid>https://blog.shahednasser.com/how-to-send-notifications-in-chrome-extensions/</guid>
+            <pubDate>Sat, 24 Apr 2021 12:58:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eva.js - A front-end game engine specifically for creating interactive game projects.]]></title>
+            <link>https://eva.js.org/#/</link>
+            <guid>https://eva.js.org/#/</guid>
+            <pubDate>Sat, 24 Apr 2021 18:50:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[React 17 adds support for KeyboardEvent.code property to SyntheticEvent]]></title>
@@ -27,10 +105,16 @@
             <pubDate>Fri, 23 Apr 2021 14:56:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Advanced Discord.js: Cache APIs Requests with Redis]]></title>
-            <link>https://dev.to/en3sis/advanced-discord-js-cache-apis-requests-with-redis-4d8a</link>
-            <guid>https://dev.to/en3sis/advanced-discord-js-cache-apis-requests-with-redis-4d8a</guid>
-            <pubDate>Fri, 23 Apr 2021 14:03:21 GMT</pubDate>
+            <title><![CDATA[JavaScript Execution Context]]></title>
+            <link>https://luigicruz.dev/blog/execution-context</link>
+            <guid>https://luigicruz.dev/blog/execution-context</guid>
+            <pubDate>Sat, 24 Apr 2021 11:10:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LeetCode Palindrome Number]]></title>
+            <link>https://alkeshghorpade.me/post/leetcode-palindrome-number</link>
+            <guid>https://alkeshghorpade.me/post/leetcode-palindrome-number</guid>
+            <pubDate>Sat, 24 Apr 2021 18:05:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[i5ik/vanillaview VanillaView is a JavaScript library for building user interfaces.]]></title>
@@ -39,28 +123,28 @@
             <pubDate>Sat, 24 Apr 2021 07:44:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Quickly - JavaScript & React snippets]]></title>
-            <link>https://quickly.vercel.app/</link>
-            <guid>https://quickly.vercel.app/</guid>
-            <pubDate>Sat, 24 Apr 2021 05:47:38 GMT</pubDate>
+            <title><![CDATA[Safari (Webkit) about to release support for JS modules inside the worker scope]]></title>
+            <link>https://tobiasuhlig.medium.com/safari-webkit-about-to-release-support-for-js-modules-inside-the-worker-scope-9dd33fc20190?source=friends_link&amp;sk=db61a01446ca5a51ee2f932aad9ca890</link>
+            <guid>https://tobiasuhlig.medium.com/safari-webkit-about-to-release-support-for-js-modules-inside-the-worker-scope-9dd33fc20190?source=friends_link&amp;sk=db61a01446ca5a51ee2f932aad9ca890</guid>
+            <pubDate>Sat, 24 Apr 2021 11:25:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Advanced Discord.js: Cache APIs Requests with Redis]]></title>
+            <link>https://dev.to/en3sis/advanced-discord-js-cache-apis-requests-with-redis-4d8a</link>
+            <guid>https://dev.to/en3sis/advanced-discord-js-cache-apis-requests-with-redis-4d8a</guid>
+            <pubDate>Fri, 23 Apr 2021 14:03:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mind blower oneliner]]></title>
+            <link>https://stackoverflow.com/a/53453045/2752520</link>
+            <guid>https://stackoverflow.com/a/53453045/2752520</guid>
+            <pubDate>Sat, 24 Apr 2021 04:40:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TC39er.us with Guy Bedford!]]></title>
             <link>https://tc39er.us/posts/episode-10-guy-bedford/</link>
             <guid>https://tc39er.us/posts/episode-10-guy-bedford/</guid>
             <pubDate>Sat, 24 Apr 2021 01:59:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A simple way to use Web Worker with React-Create-APP - No eject needed]]></title>
-            <link>https://dev.to/anxinyang/a-simple-way-to-use-web-worker-with-react-create-app-no-eject-needed-1c08</link>
-            <guid>https://dev.to/anxinyang/a-simple-way-to-use-web-worker-with-react-create-app-no-eject-needed-1c08</guid>
-            <pubDate>Sat, 24 Apr 2021 05:25:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[XState Machines *as* Components]]></title>
-            <link>https://github.com/NullVoxPopuli/ember-statechart-component</link>
-            <guid>https://github.com/NullVoxPopuli/ember-statechart-component</guid>
-            <pubDate>Fri, 23 Apr 2021 21:45:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Complete, in-depth overview of Sync and Async Iterators and Generators]]></title>
@@ -75,94 +159,10 @@
             <pubDate>Fri, 23 Apr 2021 13:52:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to use CSS flex gap in unsupported browsers]]></title>
-            <link>https://nosleepjavascript.com/flex-gap-in-unsupported-browsers/</link>
-            <guid>https://nosleepjavascript.com/flex-gap-in-unsupported-browsers/</guid>
-            <pubDate>Fri, 23 Apr 2021 22:38:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[$999 Worth of Ultimate Python Bookshelf by Packt for $18 (-97% OFF)]]></title>
-            <link>http://kinjaldeal.org/java</link>
-            <guid>http://kinjaldeal.org/java</guid>
-            <pubDate>Sat, 24 Apr 2021 00:51:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Voice-enabling an Angular App with Wake Words]]></title>
-            <link>https://medium.com/picovoice/voice-enabling-an-angular-app-with-wake-words-dae4c9f26f9f</link>
-            <guid>https://medium.com/picovoice/voice-enabling-an-angular-app-with-wake-words-dae4c9f26f9f</guid>
-            <pubDate>Thu, 22 Apr 2021 15:09:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It is now possible to customize Keycloak's login pages with React]]></title>
-            <link>https://github.com/InseeFrLab/keycloakify</link>
-            <guid>https://github.com/InseeFrLab/keycloakify</guid>
-            <pubDate>Thu, 22 Apr 2021 16:53:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3 Years of VueJS (2021)]]></title>
-            <link>https://anthony-sarkis.medium.com/3-years-of-vuejs-2021-7e3127a930dc</link>
-            <guid>https://anthony-sarkis.medium.com/3-years-of-vuejs-2021-7e3127a930dc</guid>
-            <pubDate>Thu, 22 Apr 2021 22:18:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React: Custom hook for accessing storage]]></title>
-            <link>https://dev.to/link2twenty/react-custom-hook-for-accessing-storage-1e5n</link>
-            <guid>https://dev.to/link2twenty/react-custom-hook-for-accessing-storage-1e5n</guid>
-            <pubDate>Thu, 22 Apr 2021 09:11:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pyodide Spin Out and 0.17 Release]]></title>
-            <link>https://hacks.mozilla.org/2021/04/pyodide-spin-out-and-0-17-release/</link>
-            <guid>https://hacks.mozilla.org/2021/04/pyodide-spin-out-and-0-17-release/</guid>
-            <pubDate>Thu, 22 Apr 2021 17:31:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Updates from 82nd meeting of TC39]]></title>
-            <link>https://dev.to/hemanth/updates-from-82nd-meeting-of-tc39-4032</link>
-            <guid>https://dev.to/hemanth/updates-from-82nd-meeting-of-tc39-4032</guid>
-            <pubDate>Thu, 22 Apr 2021 14:50:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Build a Discord Bot in 6 Minutes With Node.js and Autocode]]></title>
-            <link>https://dev.to/hacubu/build-a-discord-bot-in-6-minutes-with-node-js-and-autocode-4n2d</link>
-            <guid>https://dev.to/hacubu/build-a-discord-bot-in-6-minutes-with-node-js-and-autocode-4n2d</guid>
-            <pubDate>Thu, 22 Apr 2021 07:04:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting Hooked on Stoxy. Global State management hooks made simple]]></title>
-            <link>https://dev.to/matsuuu/getting-hooked-on-stoxy-1fh4</link>
-            <guid>https://dev.to/matsuuu/getting-hooked-on-stoxy-1fh4</guid>
-            <pubDate>Thu, 22 Apr 2021 17:50:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Interview with Jory Burson, Community Director, OpenJS Foundation on Open Source Standards]]></title>
-            <link>https://www.linuxfoundation.org/en/blog/interview-with-jory-burson-community-director-openjs-foundation-on-open-source-standards</link>
-            <guid>https://www.linuxfoundation.org/en/blog/interview-with-jory-burson-community-director-openjs-foundation-on-open-source-standards</guid>
-            <pubDate>Thu, 22 Apr 2021 15:05:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Easier than ever to experiment with cross-compatible Web Components, thanks to the Lit team!]]></title>
-            <link>https://lit.dev/playground/#sample=examples/hello-world-javascript</link>
-            <guid>https://lit.dev/playground/#sample=examples/hello-world-javascript</guid>
-            <pubDate>Thu, 22 Apr 2021 14:34:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lit - New framework from Google]]></title>
-            <link>https://lit.dev/</link>
-            <guid>https://lit.dev/</guid>
-            <pubDate>Wed, 21 Apr 2021 16:56:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Enhance your frontend state management with view models — Part2]]></title>
-            <link>https://tobiasuhlig.medium.com/enhance-your-frontend-state-management-with-view-models-part2-5a9384bd863c?source=friends_link&amp;sk=e63a577e4118c767de0d289af266482c</link>
-            <guid>https://tobiasuhlig.medium.com/enhance-your-frontend-state-management-with-view-models-part2-5a9384bd863c?source=friends_link&amp;sk=e63a577e4118c767de0d289af266482c</guid>
-            <pubDate>Thu, 22 Apr 2021 07:56:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What's New In DevTools (Chrome 91) - Chrome Developers]]></title>
-            <link>https://developer.chrome.com/blog/new-in-devtools-91/</link>
-            <guid>https://developer.chrome.com/blog/new-in-devtools-91/</guid>
-            <pubDate>Wed, 21 Apr 2021 16:22:18 GMT</pubDate>
+            <title><![CDATA[XState Machines *as* Components]]></title>
+            <link>https://github.com/NullVoxPopuli/ember-statechart-component</link>
+            <guid>https://github.com/NullVoxPopuli/ember-statechart-component</guid>
+            <pubDate>Fri, 23 Apr 2021 21:45:05 GMT</pubDate>
         </item>
     </channel>
 </rss>

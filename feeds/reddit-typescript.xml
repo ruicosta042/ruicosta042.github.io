@@ -4,10 +4,22 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Sat, 24 Apr 2021 07:48:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Apr 2021 07:48:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Design Patterns. Strategy Pattern in Examples]]></title>
+            <link>https://medium.com/litslink/design-patterns-strategy-in-examples-eae7bf10a817</link>
+            <guid>https://medium.com/litslink/design-patterns-strategy-in-examples-eae7bf10a817</guid>
+            <pubDate>Sat, 24 Apr 2021 17:43:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A front-end game engine specifically for creating interactive game projects.]]></title>
+            <link>https://eva.js.org/#/</link>
+            <guid>https://eva.js.org/#/</guid>
+            <pubDate>Sat, 24 Apr 2021 18:47:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Making Custom Game Engine in TypeScript: How I outperformed the Mozilla team]]></title>
             <link>https://jerrygreen.me/blog/making-custom-game-engine</link>
@@ -69,6 +81,12 @@
             <pubDate>Mon, 19 Apr 2021 22:11:13 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How to type defaultProps in React Higher-Order Component]]></title>
+            <link>https://www.typescriptlang.org/play?#code/JYWwDg9gTgLgBAJQKYEMDG8BmUIjgcilQ3wG4AoctCAOwGd4B3YGACwBVWkQk4BeOAB4ACnCQAPGEhoATOnADeAXwB8ACgDCuMAC5ExGADot4WtJjsAnmCQiVASn4rF5OG7hEYAVyg04JsDgUeWR0IwCzGgtrW2FnADIXd2S4GSRMFC8AGxhhHDA6PRgYiEx-bQBtfDSM7Nz8unwAXQpkpQolSjQs4PkAIS8YGFoxSWk5fTDjbUiYQQU6YAAvJD0GKGAaAHM4VST3BhQYYDRU9MycvIgC-n2UuEWVvXws-Fd3Ts6qWgY4Tm4kDIBkMRgJmGx-jw1MDhjR7ORIYCYbRDDULvVrvIBMiaKjznUrgUKN96PAULc1I4+M5BDi4AB6FQk34AIwpVJpiKBg1hDJUQA</link>
+            <guid>https://www.typescriptlang.org/play?#code/JYWwDg9gTgLgBAJQKYEMDG8BmUIjgcilQ3wG4AoctCAOwGd4B3YGACwBVWkQk4BeOAB4ACnCQAPGEhoATOnADeAXwB8ACgDCuMAC5ExGADot4WtJjsAnmCQiVASn4rF5OG7hEYAVyg04JsDgUeWR0IwCzGgtrW2FnADIXd2S4GSRMFC8AGxhhHDA6PRgYiEx-bQBtfDSM7Nz8unwAXQpkpQolSjQs4PkAIS8YGFoxSWk5fTDjbUiYQQU6YAAvJD0GKGAaAHM4VST3BhQYYDRU9MycvIgC-n2UuEWVvXws-Fd3Ts6qWgY4Tm4kDIBkMRgJmGx-jw1MDhjR7ORIYCYbRDDULvVrvIBMiaKjznUrgUKN96PAULc1I4+M5BDi4AB6FQk34AIwpVJpiKBg1hDJUQA</guid>
+            <pubDate>Mon, 19 Apr 2021 17:49:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[React Components as TypeScript Generic Functions]]></title>
             <link>https://javascript.plainenglish.io/react-components-as-typescript-generic-functions-8aa83afff597</link>
             <guid>https://javascript.plainenglish.io/react-components-as-typescript-generic-functions-8aa83afff597</guid>
@@ -81,28 +99,10 @@
             <pubDate>Mon, 19 Apr 2021 15:40:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to type defaultProps in React Higher-Order Component]]></title>
-            <link>https://www.typescriptlang.org/play?#code/JYWwDg9gTgLgBAJQKYEMDG8BmUIjgcilQ3wG4AoctCAOwGd4B3YGACwBVWkQk4BeOAB4ACnCQAPGEhoATOnADeAXwB8ACgDCuMAC5ExGADot4WtJjsAnmCQiVASn4rF5OG7hEYAVyg04JsDgUeWR0IwCzGgtrW2FnADIXd2S4GSRMFC8AGxhhHDA6PRgYiEx-bQBtfDSM7Nz8unwAXQpkpQolSjQs4PkAIS8YGFoxSWk5fTDjbUiYQQU6YAAvJD0GKGAaAHM4VST3BhQYYDRU9MycvIgC-n2UuEWVvXws-Fd3Ts6qWgY4Tm4kDIBkMRgJmGx-jw1MDhjR7ORIYCYbRDDULvVrvIBMiaKjznUrgUKN96PAULc1I4+M5BDi4AB6FQk34AIwpVJpiKBg1hDJUQA</link>
-            <guid>https://www.typescriptlang.org/play?#code/JYWwDg9gTgLgBAJQKYEMDG8BmUIjgcilQ3wG4AoctCAOwGd4B3YGACwBVWkQk4BeOAB4ACnCQAPGEhoATOnADeAXwB8ACgDCuMAC5ExGADot4WtJjsAnmCQiVASn4rF5OG7hEYAVyg04JsDgUeWR0IwCzGgtrW2FnADIXd2S4GSRMFC8AGxhhHDA6PRgYiEx-bQBtfDSM7Nz8unwAXQpkpQolSjQs4PkAIS8YGFoxSWk5fTDjbUiYQQU6YAAvJD0GKGAaAHM4VST3BhQYYDRU9MycvIgC-n2UuEWVvXws-Fd3Ts6qWgY4Tm4kDIBkMRgJmGx-jw1MDhjR7ORIYCYbRDDULvVrvIBMiaKjznUrgUKN96PAULc1I4+M5BDi4AB6FQk34AIwpVJpiKBg1hDJUQA</guid>
-            <pubDate>Mon, 19 Apr 2021 17:49:40 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Calendso - The open-source Calendly alternative.]]></title>
             <link>https://github.com/calendso/calendso</link>
             <guid>https://github.com/calendso/calendso</guid>
             <pubDate>Sun, 18 Apr 2021 20:45:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Death of Component State]]></title>
-            <link>https://github.com/gactjs/store/blob/master/docs/death-of-component-state.md</link>
-            <guid>https://github.com/gactjs/store/blob/master/docs/death-of-component-state.md</guid>
-            <pubDate>Mon, 19 Apr 2021 10:16:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Proposal: Interval Types]]></title>
-            <link>https://github.com/microsoft/TypeScript/issues/43505</link>
-            <guid>https://github.com/microsoft/TypeScript/issues/43505</guid>
-            <pubDate>Sat, 17 Apr 2021 23:54:30 GMT</pubDate>
         </item>
     </channel>
 </rss>

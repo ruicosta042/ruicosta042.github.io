@@ -2,18 +2,18 @@
 
 ## Read
 
-| Author             | Title                                                                        | Genre           | Date       |
-| ------------------ | ---------------------------------------------------------------------------- | --------------- | ---------- |
-| Max Tegmark        | Life 3.0: Being Human in the Age of Artificial Intelligence                  | Non-fiction     | 2019-01-06 |
-| Thomas Ligotti     | Songs of a Dead Dreamer and Grimscribe                                       | Horror          | 2019-03-08 |
-| William Poundstone | Prisoner's Dilemma: John Von Neumann, Game Theory and the Puzzle of the Bomb | Non-fiction     | 2019-08-01 |
-| Alfred Bester      | The Demolished Man                                                           | Science fiction | 2019-09-21 |
-| Douglas Coupland   | Extraordinary Canadians: Marshall Mcluhan                                    | Biography       | 2019-12-07 |
-| Ursula K. Le Guin  | The Left Hand of Darkness                                                    | Science fiction | 2020-02-18 |
-| Andrew Marr        | The Making of Modern Britain                                                 | History         | 2020-06-13 |
-| Niall Ferguson     | Empire: How Britain Made the Modern World                                    | History         | 2020-07-12 |
-| Andrew Marr        | A History of Modern Britain                                                  | History         | 2020-07-19 |
-| Ted Chiang         | Stories of Your Life and Other Stories                                       | Science fiction | 2021-04-25 |
+| Author             | Title                                                                        | Date       |
+| ------------------ | ---------------------------------------------------------------------------- | ---------- |
+| Max Tegmark        | Life 3.0: Being Human in the Age of Artificial Intelligence                  | 2019-01-06 |
+| Thomas Ligotti     | Songs of a Dead Dreamer and Grimscribe                                       | 2019-03-08 |
+| William Poundstone | Prisoner's Dilemma: John Von Neumann, Game Theory and the Puzzle of the Bomb | 2019-08-01 |
+| Alfred Bester      | The Demolished Man                                                           | 2019-09-21 |
+| Douglas Coupland   | Extraordinary Canadians: Marshall Mcluhan                                    | 2019-12-07 |
+| Ursula K. Le Guin  | The Left Hand of Darkness                                                    | 2020-02-18 |
+| Andrew Marr        | The Making of Modern Britain                                                 | 2020-06-13 |
+| Niall Ferguson     | Empire: How Britain Made the Modern World                                    | 2020-07-12 |
+| Andrew Marr        | A History of Modern Britain                                                  | 2020-07-19 |
+| Ted Chiang         | Stories of Your Life and Other Stories                                       | 2021-04-25 |
 
 ## Ready to read
 
@@ -26,7 +26,7 @@
 | Stanisław Lem    | The Cyberiad                                                                                    | Science fiction |
 | Stephen Fry      | Mythos: The Greek Myths Retold                                                                  | History         |
 
-## To read
+## Want to read
 
 _Science fiction_
 

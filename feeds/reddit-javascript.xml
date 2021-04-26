@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sun, 25 Apr 2021 07:48:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Apr 2021 07:49:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,28 +15,40 @@
             <pubDate>Mon, 19 Apr 2021 09:05:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[AskJS] Spend 1 Minute a day to improve your JavaScript Programming Skills]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Sun, 25 Apr 2021 04:11:53 GMT</pubDate>
+            <title><![CDATA[We got an interview with the developer of Replit’s Kaboom game dev framework this week! We talked about learning to code, how the idea for Kaboom came about, and what he’s has been listening to lately. I thought /r/javascript might be interested in checking it out!]]></title>
+            <link>https://console.substack.com/p/console-50?r=3cbez&amp;utm_campaign=post&amp;utm_medium=web&amp;utm_source=javascript_subreddit</link>
+            <guid>https://console.substack.com/p/console-50?r=3cbez&amp;utm_campaign=post&amp;utm_medium=web&amp;utm_source=javascript_subreddit</guid>
+            <pubDate>Sun, 25 Apr 2021 15:43:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cross browser window state management]]></title>
+            <link>https://tobiasuhlig.medium.com/cross-browser-window-state-management-77bf837b6574?source=friends_link&amp;sk=c164f00034976283f28fd8a0ad361ba2</link>
+            <guid>https://tobiasuhlig.medium.com/cross-browser-window-state-management-77bf837b6574?source=friends_link&amp;sk=c164f00034976283f28fd8a0ad361ba2</guid>
+            <pubDate>Mon, 26 Apr 2021 06:05:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Daily Share: A Custom React Hook that handles duplicate API call]]></title>
+            <link>https://dev.to/anxinyang/daily-share-a-custom-react-hook-that-handles-duplicate-api-call-41cd</link>
+            <guid>https://dev.to/anxinyang/daily-share-a-custom-react-hook-that-handles-duplicate-api-call-41cd</guid>
+            <pubDate>Mon, 26 Apr 2021 02:04:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MyEditorCool - online editing your remote file in github/onedrive/etc. with any editor you want!]]></title>
+            <link>http://myeditor.cool/</link>
+            <guid>http://myeditor.cool/</guid>
+            <pubDate>Mon, 26 Apr 2021 07:16:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AskJS] Attempting to send two XMLHttpRequest in a for loop but it crashes my website, I'm using d3.js to create two charts]]></title>
+            <link>https://req.open/</link>
+            <guid>https://req.open/</guid>
+            <pubDate>Mon, 26 Apr 2021 06:51:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I made a Free Drag and Drop Dashboard Builder]]></title>
             <link>https://www.loopple.com/</link>
             <guid>https://www.loopple.com/</guid>
             <pubDate>Sat, 24 Apr 2021 13:42:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I made an open-source mind-map application]]></title>
-            <link>https://kiri.vercel.app/</link>
-            <guid>https://kiri.vercel.app/</guid>
-            <pubDate>Sat, 24 Apr 2021 17:50:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Me & my buddy spent the past week building Aspire.app! Super basic idea: a lightning fast way for developers to spin up a beautiful homepage and showcase themselves. We'd really appreciate feedback & advice from the community! :) Built with pizza & javascript!]]></title>
-            <link>https://aspire.app/</link>
-            <guid>https://aspire.app/</guid>
-            <pubDate>Sat, 24 Apr 2021 17:45:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[3 use cases for ES6 generators]]></title>
@@ -51,22 +63,16 @@
             <pubDate>Sat, 24 Apr 2021 00:43:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[fast-path-set: 3x faster drop-in replacement for lodash.set]]></title>
-            <link>https://github.com/galvez/fast-path-set</link>
-            <guid>https://github.com/galvez/fast-path-set</guid>
-            <pubDate>Sat, 24 Apr 2021 23:18:47 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Interactive Maps using Leaflet]]></title>
             <link>https://piyushsinha.tech/interactive-maps-using-leaflet</link>
             <guid>https://piyushsinha.tech/interactive-maps-using-leaflet</guid>
             <pubDate>Sun, 25 Apr 2021 05:29:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Angular 12 improves performance and so much more]]></title>
-            <link>https://sudosecurity.org/angular-12-released/</link>
-            <guid>https://sudosecurity.org/angular-12-released/</guid>
-            <pubDate>Sun, 25 Apr 2021 03:04:15 GMT</pubDate>
+            <title><![CDATA[fast-path-set: 3x faster drop-in replacement for lodash.set]]></title>
+            <link>https://github.com/galvez/fast-path-set</link>
+            <guid>https://github.com/galvez/fast-path-set</guid>
+            <pubDate>Sat, 24 Apr 2021 23:18:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[logzone : a package to print pretty log messages. you can use predefined or customize your own!]]></title>
@@ -81,16 +87,16 @@
             <pubDate>Sat, 24 Apr 2021 10:43:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I have made an open source npm package wrapped around Twitter Standard Search API named TWI-JS.]]></title>
-            <link>https://www.npmjs.com/package/twi-js</link>
-            <guid>https://www.npmjs.com/package/twi-js</guid>
-            <pubDate>Sat, 24 Apr 2021 16:26:35 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[How to Send Notifications in Chrome Extensions]]></title>
             <link>https://blog.shahednasser.com/how-to-send-notifications-in-chrome-extensions/</link>
             <guid>https://blog.shahednasser.com/how-to-send-notifications-in-chrome-extensions/</guid>
             <pubDate>Sat, 24 Apr 2021 12:58:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I have made an open source npm package wrapped around Twitter Standard Search API named TWI-JS.]]></title>
+            <link>https://www.npmjs.com/package/twi-js</link>
+            <guid>https://www.npmjs.com/package/twi-js</guid>
+            <pubDate>Sat, 24 Apr 2021 16:26:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Eva.js - A front-end game engine specifically for creating interactive game projects.]]></title>
@@ -99,22 +105,16 @@
             <pubDate>Sat, 24 Apr 2021 18:50:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React 17 adds support for KeyboardEvent.code property to SyntheticEvent]]></title>
-            <link>https://blog.saeloun.com/2021/04/23/react-keyboard-event-code</link>
-            <guid>https://blog.saeloun.com/2021/04/23/react-keyboard-event-code</guid>
-            <pubDate>Fri, 23 Apr 2021 14:56:29 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[JavaScript Execution Context]]></title>
             <link>https://luigicruz.dev/blog/execution-context</link>
             <guid>https://luigicruz.dev/blog/execution-context</guid>
             <pubDate>Sat, 24 Apr 2021 11:10:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[LeetCode Palindrome Number]]></title>
-            <link>https://alkeshghorpade.me/post/leetcode-palindrome-number</link>
-            <guid>https://alkeshghorpade.me/post/leetcode-palindrome-number</guid>
-            <pubDate>Sat, 24 Apr 2021 18:05:20 GMT</pubDate>
+            <title><![CDATA[React 17 adds support for KeyboardEvent.code property to SyntheticEvent]]></title>
+            <link>https://blog.saeloun.com/2021/04/23/react-keyboard-event-code</link>
+            <guid>https://blog.saeloun.com/2021/04/23/react-keyboard-event-code</guid>
+            <pubDate>Fri, 23 Apr 2021 14:56:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[i5ik/vanillaview VanillaView is a JavaScript library for building user interfaces.]]></title>
@@ -139,30 +139,6 @@
             <link>https://stackoverflow.com/a/53453045/2752520</link>
             <guid>https://stackoverflow.com/a/53453045/2752520</guid>
             <pubDate>Sat, 24 Apr 2021 04:40:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TC39er.us with Guy Bedford!]]></title>
-            <link>https://tc39er.us/posts/episode-10-guy-bedford/</link>
-            <guid>https://tc39er.us/posts/episode-10-guy-bedford/</guid>
-            <pubDate>Sat, 24 Apr 2021 01:59:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Complete, in-depth overview of Sync and Async Iterators and Generators]]></title>
-            <link>https://andreasimonecosta.dev/series/javascript-iterators-and-generators/</link>
-            <guid>https://andreasimonecosta.dev/series/javascript-iterators-and-generators/</guid>
-            <pubDate>Fri, 23 Apr 2021 09:19:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The webworkers driven UI framework neo.mjs version 2 release announcement]]></title>
-            <link>https://tobiasuhlig.medium.com/the-webworkers-driven-ui-framework-neo-mjs-version-2-release-announcement-b91b476d6f16?source=friends_link&amp;sk=e6eb21f75475f431ad9215d63a44fb53</link>
-            <guid>https://tobiasuhlig.medium.com/the-webworkers-driven-ui-framework-neo-mjs-version-2-release-announcement-b91b476d6f16?source=friends_link&amp;sk=e6eb21f75475f431ad9215d63a44fb53</guid>
-            <pubDate>Fri, 23 Apr 2021 13:52:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[XState Machines *as* Components]]></title>
-            <link>https://github.com/NullVoxPopuli/ember-statechart-component</link>
-            <guid>https://github.com/NullVoxPopuli/ember-statechart-component</guid>
-            <pubDate>Fri, 23 Apr 2021 21:45:05 GMT</pubDate>
         </item>
     </channel>
 </rss>

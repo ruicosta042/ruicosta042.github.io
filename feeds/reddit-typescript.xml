@@ -4,15 +4,33 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Sun, 25 Apr 2021 07:48:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Apr 2021 07:49:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Basic type definition for a simple class?]]></title>
+            <link>https://gist.github.com/acomito/af725fc0fd442a7405feb81c07fbca86</link>
+            <guid>https://gist.github.com/acomito/af725fc0fd442a7405feb81c07fbca86</guid>
+            <pubDate>Sun, 25 Apr 2021 13:04:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Typeorm Query Parser is url string parser for typeorm.]]></title>
+            <link>https://github.com/gentritabazi01/typeorm-simple-query-parser</link>
+            <guid>https://github.com/gentritabazi01/typeorm-simple-query-parser</guid>
+            <pubDate>Sun, 25 Apr 2021 18:57:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Design Patterns. Strategy Pattern in Examples]]></title>
             <link>https://medium.com/litslink/design-patterns-strategy-in-examples-eae7bf10a817</link>
             <guid>https://medium.com/litslink/design-patterns-strategy-in-examples-eae7bf10a817</guid>
             <pubDate>Sat, 24 Apr 2021 17:43:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Design patterns. Decorator in examples]]></title>
+            <link>https://medium.com/litslink/decorator-design-pattern-in-examples-3f9738f7a380</link>
+            <guid>https://medium.com/litslink/decorator-design-pattern-in-examples-3f9738f7a380</guid>
+            <pubDate>Sun, 25 Apr 2021 14:31:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A front-end game engine specifically for creating interactive game projects.]]></title>
@@ -73,36 +91,6 @@
             <link>https://blog.yoavlavi.com/schroedingers/</link>
             <guid>https://blog.yoavlavi.com/schroedingers/</guid>
             <pubDate>Mon, 19 Apr 2021 18:02:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[disc-union - (yet another) library for working with discriminated union types]]></title>
-            <link>https://github.com/BobbyGerace/disc-union</link>
-            <guid>https://github.com/BobbyGerace/disc-union</guid>
-            <pubDate>Mon, 19 Apr 2021 22:11:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to type defaultProps in React Higher-Order Component]]></title>
-            <link>https://www.typescriptlang.org/play?#code/JYWwDg9gTgLgBAJQKYEMDG8BmUIjgcilQ3wG4AoctCAOwGd4B3YGACwBVWkQk4BeOAB4ACnCQAPGEhoATOnADeAXwB8ACgDCuMAC5ExGADot4WtJjsAnmCQiVASn4rF5OG7hEYAVyg04JsDgUeWR0IwCzGgtrW2FnADIXd2S4GSRMFC8AGxhhHDA6PRgYiEx-bQBtfDSM7Nz8unwAXQpkpQolSjQs4PkAIS8YGFoxSWk5fTDjbUiYQQU6YAAvJD0GKGAaAHM4VST3BhQYYDRU9MycvIgC-n2UuEWVvXws-Fd3Ts6qWgY4Tm4kDIBkMRgJmGx-jw1MDhjR7ORIYCYbRDDULvVrvIBMiaKjznUrgUKN96PAULc1I4+M5BDi4AB6FQk34AIwpVJpiKBg1hDJUQA</link>
-            <guid>https://www.typescriptlang.org/play?#code/JYWwDg9gTgLgBAJQKYEMDG8BmUIjgcilQ3wG4AoctCAOwGd4B3YGACwBVWkQk4BeOAB4ACnCQAPGEhoATOnADeAXwB8ACgDCuMAC5ExGADot4WtJjsAnmCQiVASn4rF5OG7hEYAVyg04JsDgUeWR0IwCzGgtrW2FnADIXd2S4GSRMFC8AGxhhHDA6PRgYiEx-bQBtfDSM7Nz8unwAXQpkpQolSjQs4PkAIS8YGFoxSWk5fTDjbUiYQQU6YAAvJD0GKGAaAHM4VST3BhQYYDRU9MycvIgC-n2UuEWVvXws-Fd3Ts6qWgY4Tm4kDIBkMRgJmGx-jw1MDhjR7ORIYCYbRDDULvVrvIBMiaKjznUrgUKN96PAULc1I4+M5BDi4AB6FQk34AIwpVJpiKBg1hDJUQA</guid>
-            <pubDate>Mon, 19 Apr 2021 17:49:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React Components as TypeScript Generic Functions]]></title>
-            <link>https://javascript.plainenglish.io/react-components-as-typescript-generic-functions-8aa83afff597</link>
-            <guid>https://javascript.plainenglish.io/react-components-as-typescript-generic-functions-8aa83afff597</guid>
-            <pubDate>Mon, 19 Apr 2021 23:51:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Run and Debug a Single TypeScript File in WebStorm IDE]]></title>
-            <link>https://medium.com/litslink/how-to-run-and-debug-a-single-typescript-file-in-the-webstorm-ide-53ecf93185c1</link>
-            <guid>https://medium.com/litslink/how-to-run-and-debug-a-single-typescript-file-in-the-webstorm-ide-53ecf93185c1</guid>
-            <pubDate>Mon, 19 Apr 2021 15:40:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Calendso - The open-source Calendly alternative.]]></title>
-            <link>https://github.com/calendso/calendso</link>
-            <guid>https://github.com/calendso/calendso</guid>
-            <pubDate>Sun, 18 Apr 2021 20:45:01 GMT</pubDate>
         </item>
     </channel>
 </rss>

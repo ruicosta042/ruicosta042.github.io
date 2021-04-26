@@ -4,15 +4,57 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Sun, 25 Apr 2021 07:48:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Apr 2021 07:49:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Web Scraping with Deno - Is It Worth Trying?]]></title>
+            <link>https://scrapingant.com/blog/deno-web-scraping</link>
+            <guid>https://scrapingant.com/blog/deno-web-scraping</guid>
+            <pubDate>Mon, 26 Apr 2021 07:23:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Very light SGBD for NodeJS, MonoDB]]></title>
+            <link>https://www.npmjs.com/package/monodb</link>
+            <guid>https://www.npmjs.com/package/monodb</guid>
+            <pubDate>Sun, 25 Apr 2021 14:35:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[functions-differ: Deploy only the Firebase Functions that changed]]></title>
+            <link>https://github.com/haroldadmin/functions-differ</link>
+            <guid>https://github.com/haroldadmin/functions-differ</guid>
+            <pubDate>Sun, 25 Apr 2021 09:45:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[how to install a new version.]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Sun, 25 Apr 2021 16:57:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Map/Dictionary Data Structure in Javascript]]></title>
             <link>https://link.medium.com/DWQXpLRsJfb</link>
             <guid>https://link.medium.com/DWQXpLRsJfb</guid>
             <pubDate>Sun, 25 Apr 2021 02:32:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[RegTech Solutions In A Nutshell: How To Build A Software Solution To Meet Compliance And Regulatory Requirements]]></title>
+            <link>http://regtech-solutions.space/</link>
+            <guid>http://regtech-solutions.space/</guid>
+            <pubDate>Sun, 25 Apr 2021 16:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NestJS vs. Spring Framework In Java - Which Should I Choose?]]></title>
+            <link>http://springframework.space/</link>
+            <guid>http://springframework.space/</guid>
+            <pubDate>Sun, 25 Apr 2021 16:02:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Node.js is still way faster than Deno]]></title>
+            <link>https://alexhultman.medium.com/node-js-is-still-way-faster-than-deno-e5b7ba1cd8bd</link>
+            <guid>https://alexhultman.medium.com/node-js-is-still-way-faster-than-deno-e5b7ba1cd8bd</guid>
+            <pubDate>Sun, 25 Apr 2021 15:57:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Node.js -Create a multi column csv file without using external library .]]></title>
@@ -25,42 +67,6 @@
             <link>https://www.npmjs.com/package/twi-js</link>
             <guid>https://www.npmjs.com/package/twi-js</guid>
             <pubDate>Sat, 24 Apr 2021 16:25:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Screenshot mp4 with the default Chromium]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Sat, 24 Apr 2021 18:53:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Automated Binance trading bot - Buy low/Sell high with stop loss limit/Trade multiple cryptocurrencies]]></title>
-            <link>https://github.com/chrisleekr/binance-trading-bot</link>
-            <guid>https://github.com/chrisleekr/binance-trading-bot</guid>
-            <pubDate>Fri, 23 Apr 2021 14:49:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reqlogs - monitor requests on your server]]></title>
-            <link>https://www.npmjs.com/package/reqlogs</link>
-            <guid>https://www.npmjs.com/package/reqlogs</guid>
-            <pubDate>Sat, 24 Apr 2021 09:00:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Using multiple package managers? Use npx ci instead of npm ci]]></title>
-            <link>https://github.com/privatenumber/ci</link>
-            <guid>https://github.com/privatenumber/ci</guid>
-            <pubDate>Fri, 23 Apr 2021 15:46:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Help using puppeteer and MediaRecorder to record a canvas.]]></title>
-            <link>https://mozilla.org/</link>
-            <guid>https://mozilla.org/</guid>
-            <pubDate>Fri, 23 Apr 2021 17:29:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NodeJS 16 is officially released]]></title>
-            <link>https://sudosecurity.org/nodejs-16-is-officially-released/</link>
-            <guid>https://sudosecurity.org/nodejs-16-is-officially-released/</guid>
-            <pubDate>Fri, 23 Apr 2021 00:34:11 GMT</pubDate>
         </item>
     </channel>
 </rss>

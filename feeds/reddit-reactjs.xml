@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sun, 25 Apr 2021 07:48:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Apr 2021 07:49:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,58 +15,70 @@
             <pubDate>Thu, 01 Apr 2021 06:19:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Self taught beginner here. Is this portfolio good enough for an entry level position interview?]]></title>
+            <link>http://www.darnell-portfolio.com/</link>
+            <guid>http://www.darnell-portfolio.com/</guid>
+            <pubDate>Sun, 25 Apr 2021 15:14:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Redux Toolkit v1.6 alpha.1: RTK Query APIs integrated and smaller bundles with Redux 4.1!]]></title>
+            <link>https://github.com/reduxjs/redux-toolkit/releases/tag/v1.6.0-alpha.1</link>
+            <guid>https://github.com/reduxjs/redux-toolkit/releases/tag/v1.6.0-alpha.1</guid>
+            <pubDate>Sun, 25 Apr 2021 14:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Am I good enough? Hi Devs! No internships/corporate experience looking to land my first entry level job with this resume and portfolio.]]></title>
+            <link>https://www.jackmain.com/</link>
+            <guid>https://www.jackmain.com/</guid>
+            <pubDate>Sun, 25 Apr 2021 23:03:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I have made an open source Portfolio CMS with react]]></title>
+            <link>https://github.com/arifszn/ezfolio</link>
+            <guid>https://github.com/arifszn/ezfolio</guid>
+            <pubDate>Sun, 25 Apr 2021 16:27:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My first react app]]></title>
+            <link>https://recipe-app-0601.netlify.app/</link>
+            <guid>https://recipe-app-0601.netlify.app/</guid>
+            <pubDate>Mon, 26 Apr 2021 06:27:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A simple password generator build using Typescript and React. It's my first app build using Typescript in react]]></title>
+            <link>https://github.com/devyuji/passd</link>
+            <guid>https://github.com/devyuji/passd</guid>
+            <pubDate>Mon, 26 Apr 2021 05:42:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Explore The React Table Tutorial: Project Setup and useTable (Part 1)]]></title>
+            <link>https://react-table.tanstack.com/docs/api/useTable</link>
+            <guid>https://react-table.tanstack.com/docs/api/useTable</guid>
+            <pubDate>Mon, 26 Apr 2021 05:35:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I'm Building an open-source analytics platform based on React as an experiment. Currently is a Beta. I'd love to have some feedback from you! Many Thanks, Guys!]]></title>
+            <link>https://github.com/itsrennyman/aurora</link>
+            <guid>https://github.com/itsrennyman/aurora</guid>
+            <pubDate>Sun, 25 Apr 2021 23:38:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I need help with this error on mobile]]></title>
+            <link>https://github.com/marlon-lopez/pokemon-app</link>
+            <guid>https://github.com/marlon-lopez/pokemon-app</guid>
+            <pubDate>Mon, 26 Apr 2021 00:43:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zustand vs Jotai vs Recoil vs React-query]]></title>
+            <link>https://socket.io/</link>
+            <guid>https://socket.io/</guid>
+            <pubDate>Sun, 25 Apr 2021 18:18:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Launching Aspire.app - The Homepage for Developers]]></title>
             <link>http://aspire.app/</link>
             <guid>http://aspire.app/</guid>
             <pubDate>Sat, 24 Apr 2021 18:36:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[15 DevTool Secrets for JavaScript Developers]]></title>
-            <link>https://blog.asayer.io/15-devtool-secrets-for-javascript-developers</link>
-            <guid>https://blog.asayer.io/15-devtool-secrets-for-javascript-developers</guid>
-            <pubDate>Sat, 24 Apr 2021 10:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I updated my blog to use Incremental Static Regeneration (ISR) with Next.js. the result is Amazing! Reviewer is so much welcome :)]]></title>
-            <link>https://krehwell.com/</link>
-            <guid>https://krehwell.com/</guid>
-            <pubDate>Sat, 24 Apr 2021 23:07:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Recently started learning React. Here's my 2nd React app, Web Frameworks Benchmarks.]]></title>
-            <link>https://github.com/the-benchmarker/web-frameworks</link>
-            <guid>https://github.com/the-benchmarker/web-frameworks</guid>
-            <pubDate>Sun, 25 Apr 2021 02:40:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reactube - a Youtube frontend with no Ads]]></title>
-            <link>https://github.com/AJAYK-01/Reactube</link>
-            <guid>https://github.com/AJAYK-01/Reactube</guid>
-            <pubDate>Sat, 24 Apr 2021 07:00:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Material-ui license question]]></title>
-            <link>https://material-ui.com/store/license/</link>
-            <guid>https://material-ui.com/store/license/</guid>
-            <pubDate>Sat, 24 Apr 2021 15:07:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[✅Easily manage the loading component according to the status of the asynchronous methods via loadio]]></title>
-            <link>https://codesandbox.io/s/example-usage-loadio-loz1y?fontsize=14&amp;hidenavigation=1&amp;theme=dark</link>
-            <guid>https://codesandbox.io/s/example-usage-loadio-loz1y?fontsize=14&amp;hidenavigation=1&amp;theme=dark</guid>
-            <pubDate>Sat, 24 Apr 2021 19:17:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Migrating from create-react-app to Vite]]></title>
-            <link>https://phelipetls.github.io/posts/migrating-from-cra-to-vite/</link>
-            <guid>https://phelipetls.github.io/posts/migrating-from-cra-to-vite/</guid>
-            <pubDate>Sat, 24 Apr 2021 15:02:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I made a "read-more" Package for reaact]]></title>
-            <link>https://github.com/the-wrong-guy/read-more-more#readme</link>
-            <guid>https://github.com/the-wrong-guy/read-more-more#readme</guid>
-            <pubDate>Sat, 24 Apr 2021 20:24:29 GMT</pubDate>
         </item>
     </channel>
 </rss>

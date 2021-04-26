@@ -81,6 +81,12 @@ _History_
 | Robin Waterfield     | Creators, Conquerors, and Citizens : A History of Ancient Greece                            |
 | Toby Wilkinson       | The Rise and Fall of Ancient Egypt                                                          |
 
+_Biography_
+
+|                  |                                                                          |
+| ---------------- | ------------------------------------------------------------------------ |
+| Emmanuel Carrère | I Am Alive and You are Dead: A Journey Inside the Mind of Philip K. Dick |
+
 _Tech_
 
 |                 |                                                                                                   |

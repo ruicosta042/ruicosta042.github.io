@@ -4,21 +4,45 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Mon, 26 Apr 2021 07:49:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Apr 2021 07:48:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Your /r/javascript recap for the week of April 12 - April 18]]></title>
+            <title><![CDATA[Your /r/javascript recap for the week of April 19 - April 25]]></title>
             <link>https://foo.com/</link>
             <guid>https://foo.com/</guid>
-            <pubDate>Mon, 19 Apr 2021 09:05:09 GMT</pubDate>
+            <pubDate>Mon, 26 Apr 2021 09:04:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[We got an interview with the developer of Replit’s Kaboom game dev framework this week! We talked about learning to code, how the idea for Kaboom came about, and what he’s has been listening to lately. I thought /r/javascript might be interested in checking it out!]]></title>
-            <link>https://console.substack.com/p/console-50?r=3cbez&amp;utm_campaign=post&amp;utm_medium=web&amp;utm_source=javascript_subreddit</link>
-            <guid>https://console.substack.com/p/console-50?r=3cbez&amp;utm_campaign=post&amp;utm_medium=web&amp;utm_source=javascript_subreddit</guid>
-            <pubDate>Sun, 25 Apr 2021 15:43:58 GMT</pubDate>
+            <title><![CDATA[Playing with JavaScript Objects]]></title>
+            <link>https://nehasoni.hashnode.dev/playing-with-javascript-objects-1</link>
+            <guid>https://nehasoni.hashnode.dev/playing-with-javascript-objects-1</guid>
+            <pubDate>Tue, 27 Apr 2021 04:47:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is it prime? my React.js game]]></title>
+            <link>https://jeanp117.github.io/Is-it-prime/</link>
+            <guid>https://jeanp117.github.io/Is-it-prime/</guid>
+            <pubDate>Mon, 26 Apr 2021 10:28:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Passwordless in 10 minutes - one JavaScript SDK to implement one-click, WebAuthn, and QR-code login flows.]]></title>
+            <link>https://blog.idemeum.com/passwordless-in-10-minutes-idemeum-javascript-sdk/</link>
+            <guid>https://blog.idemeum.com/passwordless-in-10-minutes-idemeum-javascript-sdk/</guid>
+            <pubDate>Tue, 27 Apr 2021 07:26:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AskJS] ISO: Best bin packing implementation in JS (2D)]]></title>
+            <link>https://github.com/jakesgordon/bin-packing</link>
+            <guid>https://github.com/jakesgordon/bin-packing</guid>
+            <pubDate>Tue, 27 Apr 2021 03:11:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[slide-element, a ~500 byte (gzipped), jQuery-reminiscent library for sliding elements open & closed]]></title>
+            <link>https://github.com/alexmacarthur/slide-element</link>
+            <guid>https://github.com/alexmacarthur/slide-element</guid>
+            <pubDate>Tue, 27 Apr 2021 04:30:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cross browser window state management]]></title>
@@ -27,22 +51,76 @@
             <pubDate>Mon, 26 Apr 2021 06:05:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Promisified node builtins]]></title>
+            <link>https://h3manth.com/new/blog/2021/promisified-node-built-ins/</link>
+            <guid>https://h3manth.com/new/blog/2021/promisified-node-built-ins/</guid>
+            <pubDate>Mon, 26 Apr 2021 20:31:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I made a 3d boids implementation]]></title>
+            <link>https://github.com/ercang/boids-js</link>
+            <guid>https://github.com/ercang/boids-js</guid>
+            <pubDate>Mon, 26 Apr 2021 13:45:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WebRTC Demystified: How to add audio/video call capabilities to your JS app]]></title>
+            <link>https://ullal-aaron.medium.com/what-powers-google-meet-and-microsoft-teams-webrtc-demystified-step-by-step-tutorial-e0cb422010f7</link>
+            <guid>https://ullal-aaron.medium.com/what-powers-google-meet-and-microsoft-teams-webrtc-demystified-step-by-step-tutorial-e0cb422010f7</guid>
+            <pubDate>Mon, 26 Apr 2021 16:58:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Infinite Scroll with React Hook]]></title>
+            <link>https://dev.to/anxinyang/infinite-scroll-with-react-hook-intersection-observer-img</link>
+            <guid>https://dev.to/anxinyang/infinite-scroll-with-react-hook-intersection-observer-img</guid>
+            <pubDate>Tue, 27 Apr 2021 00:08:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AskJS] Have I found a bug in the current Intl.DateTimeFormat implementation?]]></title>
+            <link>https://402.ecma-international.org/7.0/#table-datetimeformat-components</link>
+            <guid>https://402.ecma-international.org/7.0/#table-datetimeformat-components</guid>
+            <pubDate>Mon, 26 Apr 2021 11:20:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Data types in JavaScript]]></title>
+            <link>https://the10technology.blogspot.com/2021/04/data-types-in-javascript.html</link>
+            <guid>https://the10technology.blogspot.com/2021/04/data-types-in-javascript.html</guid>
+            <pubDate>Tue, 27 Apr 2021 01:21:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We got an interview with the developer of Replit’s Kaboom game dev framework this week! We talked about learning to code, how the idea for Kaboom came about, and what he’s has been listening to lately. I thought /r/javascript might be interested in checking it out!]]></title>
+            <link>https://console.substack.com/p/console-50?r=3cbez&amp;utm_campaign=post&amp;utm_medium=web&amp;utm_source=javascript_subreddit</link>
+            <guid>https://console.substack.com/p/console-50?r=3cbez&amp;utm_campaign=post&amp;utm_medium=web&amp;utm_source=javascript_subreddit</guid>
+            <pubDate>Sun, 25 Apr 2021 15:43:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sample lightweight apps built with Neutralinojs]]></title>
+            <link>https://neutralino.js.org/apps/</link>
+            <guid>https://neutralino.js.org/apps/</guid>
+            <pubDate>Mon, 26 Apr 2021 09:12:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SWR: React Hooks for Data Fetching Vercel is the BEST!]]></title>
+            <link>https://swr.vercel.app/</link>
+            <guid>https://swr.vercel.app/</guid>
+            <pubDate>Mon, 26 Apr 2021 11:34:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Daily Share: A Custom React Hook that handles duplicate API call]]></title>
             <link>https://dev.to/anxinyang/daily-share-a-custom-react-hook-that-handles-duplicate-api-call-41cd</link>
             <guid>https://dev.to/anxinyang/daily-share-a-custom-react-hook-that-handles-duplicate-api-call-41cd</guid>
             <pubDate>Mon, 26 Apr 2021 02:04:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[React UI Kit Compare April 2021]]></title>
+            <link>http://react-compare.ellenlangelaar.nl/</link>
+            <guid>http://react-compare.ellenlangelaar.nl/</guid>
+            <pubDate>Mon, 26 Apr 2021 08:38:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[MyEditorCool - online editing your remote file in github/onedrive/etc. with any editor you want!]]></title>
             <link>http://myeditor.cool/</link>
             <guid>http://myeditor.cool/</guid>
             <pubDate>Mon, 26 Apr 2021 07:16:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AskJS] Attempting to send two XMLHttpRequest in a for loop but it crashes my website, I'm using d3.js to create two charts]]></title>
-            <link>https://req.open/</link>
-            <guid>https://req.open/</guid>
-            <pubDate>Mon, 26 Apr 2021 06:51:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I made a Free Drag and Drop Dashboard Builder]]></title>
@@ -63,82 +141,10 @@
             <pubDate>Sat, 24 Apr 2021 00:43:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Interactive Maps using Leaflet]]></title>
-            <link>https://piyushsinha.tech/interactive-maps-using-leaflet</link>
-            <guid>https://piyushsinha.tech/interactive-maps-using-leaflet</guid>
-            <pubDate>Sun, 25 Apr 2021 05:29:15 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[fast-path-set: 3x faster drop-in replacement for lodash.set]]></title>
             <link>https://github.com/galvez/fast-path-set</link>
             <guid>https://github.com/galvez/fast-path-set</guid>
             <pubDate>Sat, 24 Apr 2021 23:18:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[logzone : a package to print pretty log messages. you can use predefined or customize your own!]]></title>
-            <link>https://github.com/muhammedMoussa/logzone#readme</link>
-            <guid>https://github.com/muhammedMoussa/logzone#readme</guid>
-            <pubDate>Sat, 24 Apr 2021 16:50:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I created a Free open source Landing Page Template. Built with NextJS, React, TypeScript, Tailwind CSS]]></title>
-            <link>https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template</link>
-            <guid>https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template</guid>
-            <pubDate>Sat, 24 Apr 2021 10:43:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Send Notifications in Chrome Extensions]]></title>
-            <link>https://blog.shahednasser.com/how-to-send-notifications-in-chrome-extensions/</link>
-            <guid>https://blog.shahednasser.com/how-to-send-notifications-in-chrome-extensions/</guid>
-            <pubDate>Sat, 24 Apr 2021 12:58:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I have made an open source npm package wrapped around Twitter Standard Search API named TWI-JS.]]></title>
-            <link>https://www.npmjs.com/package/twi-js</link>
-            <guid>https://www.npmjs.com/package/twi-js</guid>
-            <pubDate>Sat, 24 Apr 2021 16:26:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eva.js - A front-end game engine specifically for creating interactive game projects.]]></title>
-            <link>https://eva.js.org/#/</link>
-            <guid>https://eva.js.org/#/</guid>
-            <pubDate>Sat, 24 Apr 2021 18:50:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JavaScript Execution Context]]></title>
-            <link>https://luigicruz.dev/blog/execution-context</link>
-            <guid>https://luigicruz.dev/blog/execution-context</guid>
-            <pubDate>Sat, 24 Apr 2021 11:10:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React 17 adds support for KeyboardEvent.code property to SyntheticEvent]]></title>
-            <link>https://blog.saeloun.com/2021/04/23/react-keyboard-event-code</link>
-            <guid>https://blog.saeloun.com/2021/04/23/react-keyboard-event-code</guid>
-            <pubDate>Fri, 23 Apr 2021 14:56:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[i5ik/vanillaview VanillaView is a JavaScript library for building user interfaces.]]></title>
-            <link>https://github.com/i5ik/vanillaview</link>
-            <guid>https://github.com/i5ik/vanillaview</guid>
-            <pubDate>Sat, 24 Apr 2021 07:44:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Safari (Webkit) about to release support for JS modules inside the worker scope]]></title>
-            <link>https://tobiasuhlig.medium.com/safari-webkit-about-to-release-support-for-js-modules-inside-the-worker-scope-9dd33fc20190?source=friends_link&amp;sk=db61a01446ca5a51ee2f932aad9ca890</link>
-            <guid>https://tobiasuhlig.medium.com/safari-webkit-about-to-release-support-for-js-modules-inside-the-worker-scope-9dd33fc20190?source=friends_link&amp;sk=db61a01446ca5a51ee2f932aad9ca890</guid>
-            <pubDate>Sat, 24 Apr 2021 11:25:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Advanced Discord.js: Cache APIs Requests with Redis]]></title>
-            <link>https://dev.to/en3sis/advanced-discord-js-cache-apis-requests-with-redis-4d8a</link>
-            <guid>https://dev.to/en3sis/advanced-discord-js-cache-apis-requests-with-redis-4d8a</guid>
-            <pubDate>Fri, 23 Apr 2021 14:03:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mind blower oneliner]]></title>
-            <link>https://stackoverflow.com/a/53453045/2752520</link>
-            <guid>https://stackoverflow.com/a/53453045/2752520</guid>
-            <pubDate>Sat, 24 Apr 2021 04:40:53 GMT</pubDate>
         </item>
     </channel>
 </rss>

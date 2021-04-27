@@ -4,15 +4,45 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Mon, 26 Apr 2021 07:49:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Apr 2021 07:48:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Web Scraping with Deno - Is It Worth Trying?]]></title>
-            <link>https://scrapingant.com/blog/deno-web-scraping</link>
-            <guid>https://scrapingant.com/blog/deno-web-scraping</guid>
-            <pubDate>Mon, 26 Apr 2021 07:23:40 GMT</pubDate>
+            <title><![CDATA[Strapi CMS released the Internationalization feature in v3.6]]></title>
+            <link>https://strapi.io/blog/announcing-content-internationalization-v3-6</link>
+            <guid>https://strapi.io/blog/announcing-content-internationalization-v3-6</guid>
+            <pubDate>Mon, 26 Apr 2021 10:15:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Foy: A simple, light-weight, type-friendly and modern task runner for nodejs, to make it easier for you to write NPM scripts.]]></title>
+            <link>https://github.com/zaaack/foy</link>
+            <guid>https://github.com/zaaack/foy</guid>
+            <pubDate>Tue, 27 Apr 2021 06:34:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can't resolve "TypeError: Converting circular structure to JSON"]]></title>
+            <link>https://www.npmjs.com/package/google-spreadsheet</link>
+            <guid>https://www.npmjs.com/package/google-spreadsheet</guid>
+            <pubDate>Tue, 27 Apr 2021 05:18:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NodeJS Build/Release Architecture?]]></title>
+            <link>https://www.npmjs.com/package/dotenv</link>
+            <guid>https://www.npmjs.com/package/dotenv</guid>
+            <pubDate>Mon, 26 Apr 2021 19:26:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[E2E tests for CLI applications]]></title>
+            <link>https://github.com/vesln/nixt</link>
+            <guid>https://github.com/vesln/nixt</guid>
+            <pubDate>Mon, 26 Apr 2021 14:28:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Minimalistic node typescrit boilerplate]]></title>
+            <link>https://github.com/MaximilianHagelstam/ts-node-starter</link>
+            <guid>https://github.com/MaximilianHagelstam/ts-node-starter</guid>
+            <pubDate>Mon, 26 Apr 2021 13:48:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Very light SGBD for NodeJS, MonoDB]]></title>
@@ -27,46 +57,16 @@
             <pubDate>Sun, 25 Apr 2021 09:45:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Web Scraping with Deno - Is It Worth Trying?]]></title>
+            <link>https://scrapingant.com/blog/deno-web-scraping</link>
+            <guid>https://scrapingant.com/blog/deno-web-scraping</guid>
+            <pubDate>Mon, 26 Apr 2021 07:23:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[how to install a new version.]]></title>
             <link>https://foo.com/</link>
             <guid>https://foo.com/</guid>
             <pubDate>Sun, 25 Apr 2021 16:57:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Map/Dictionary Data Structure in Javascript]]></title>
-            <link>https://link.medium.com/DWQXpLRsJfb</link>
-            <guid>https://link.medium.com/DWQXpLRsJfb</guid>
-            <pubDate>Sun, 25 Apr 2021 02:32:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RegTech Solutions In A Nutshell: How To Build A Software Solution To Meet Compliance And Regulatory Requirements]]></title>
-            <link>http://regtech-solutions.space/</link>
-            <guid>http://regtech-solutions.space/</guid>
-            <pubDate>Sun, 25 Apr 2021 16:45:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NestJS vs. Spring Framework In Java - Which Should I Choose?]]></title>
-            <link>http://springframework.space/</link>
-            <guid>http://springframework.space/</guid>
-            <pubDate>Sun, 25 Apr 2021 16:02:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Node.js is still way faster than Deno]]></title>
-            <link>https://alexhultman.medium.com/node-js-is-still-way-faster-than-deno-e5b7ba1cd8bd</link>
-            <guid>https://alexhultman.medium.com/node-js-is-still-way-faster-than-deno-e5b7ba1cd8bd</guid>
-            <pubDate>Sun, 25 Apr 2021 15:57:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Node.js -Create a multi column csv file without using external library .]]></title>
-            <link>https://www.monkwhocode.com/2021/04/create-multi-column-csv-report-in.html</link>
-            <guid>https://www.monkwhocode.com/2021/04/create-multi-column-csv-report-in.html</guid>
-            <pubDate>Sat, 24 Apr 2021 11:08:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Twi-JS — An open source package wrapped around Twitter Standard Search API.]]></title>
-            <link>https://www.npmjs.com/package/twi-js</link>
-            <guid>https://www.npmjs.com/package/twi-js</guid>
-            <pubDate>Sat, 24 Apr 2021 16:25:12 GMT</pubDate>
         </item>
     </channel>
 </rss>

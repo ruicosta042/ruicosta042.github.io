@@ -4,15 +4,51 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Mon, 26 Apr 2021 07:49:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Apr 2021 07:48:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[A painless guide to understanding CSS positioning]]></title>
+            <link>https://www.peterlynch.dev/</link>
+            <guid>https://www.peterlynch.dev/</guid>
+            <pubDate>Mon, 26 Apr 2021 11:04:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors]]></title>
+            <link>https://www.smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/</link>
+            <guid>https://www.smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/</guid>
+            <pubDate>Tue, 27 Apr 2021 07:33:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting started with CSS Custom Properties]]></title>
+            <link>https://piccalil.li/tutorial/getting-started-with-css-custom-properties</link>
+            <guid>https://piccalil.li/tutorial/getting-started-with-css-custom-properties</guid>
+            <pubDate>Tue, 27 Apr 2021 07:25:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Complete CSS Flex Tutorial]]></title>
             <link>https://semicolon.dev/tutorial/css/complete-css-flex-tutorial</link>
             <guid>https://semicolon.dev/tutorial/css/complete-css-flex-tutorial</guid>
             <pubDate>Mon, 26 Apr 2021 00:30:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shrinking web page?]]></title>
+            <link>https://www.tui.co.uk/</link>
+            <guid>https://www.tui.co.uk/</guid>
+            <pubDate>Mon, 26 Apr 2021 21:24:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Incomplete List of Mistakes in the Design of CSS [CSS Working Group Wiki]]]></title>
+            <link>https://wiki.csswg.org/ideas/mistakes</link>
+            <guid>https://wiki.csswg.org/ideas/mistakes</guid>
+            <pubDate>Mon, 26 Apr 2021 13:43:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting started with CSS Custom Properties - Tutorial]]></title>
+            <link>https://piccalil.li/tutorial/getting-started-with-css-custom-properties</link>
+            <guid>https://piccalil.li/tutorial/getting-started-with-css-custom-properties</guid>
+            <pubDate>Mon, 26 Apr 2021 13:44:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pattern Monster - SVG Pattern Generator]]></title>
@@ -25,42 +61,6 @@
             <link>https://www.lizvwells.com/</link>
             <guid>https://www.lizvwells.com/</guid>
             <pubDate>Sun, 25 Apr 2021 19:21:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Help with nested CCS Grids and hover states/click events]]></title>
-            <link>https://awesome-sammet-42a758.netlify.app/</link>
-            <guid>https://awesome-sammet-42a758.netlify.app/</guid>
-            <pubDate>Sat, 24 Apr 2021 19:28:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beginner needs help with animate on scroll and cards.]]></title>
-            <link>https://jsfiddle.net/HDriver/9anzw6mu/3/</link>
-            <guid>https://jsfiddle.net/HDriver/9anzw6mu/3/</guid>
-            <pubDate>Sat, 24 Apr 2021 14:56:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Create A Cool Animated Navbar With Toggle Button]]></title>
-            <link>https://www.instagram.com/p/COBhMnjD8tw/</link>
-            <guid>https://www.instagram.com/p/COBhMnjD8tw/</guid>
-            <pubDate>Sat, 24 Apr 2021 09:45:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Let's light it 🔥 up! - A small post to show how flame animation can take your emoji to next level!]]></title>
-            <link>https://blog.shhdharmen.me/lets-light-it-up</link>
-            <guid>https://blog.shhdharmen.me/lets-light-it-up</guid>
-            <pubDate>Fri, 23 Apr 2021 17:17:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Making (and Potential Benefits) of a CSS Font]]></title>
-            <link>https://css-tricks.com/the-making-and-potential-benefits-of-a-css-font/</link>
-            <guid>https://css-tricks.com/the-making-and-potential-benefits-of-a-css-font/</guid>
-            <pubDate>Fri, 23 Apr 2021 09:52:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hey, its 's made almost 80% from CSS]]></title>
-            <link>http://drippyparrot.com/</link>
-            <guid>http://drippyparrot.com/</guid>
-            <pubDate>Fri, 23 Apr 2021 19:06:53 GMT</pubDate>
         </item>
     </channel>
 </rss>

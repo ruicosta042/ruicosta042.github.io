@@ -4,10 +4,40 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Mon, 26 Apr 2021 07:49:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Apr 2021 07:48:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[How we use Apollo to manage GraphQL data in our Next.js Typescript application]]></title>
+            <link>https://www.dolthub.com/blog/2021-04-26-apollo-client-with-graphql-and-typescript/</link>
+            <guid>https://www.dolthub.com/blog/2021-04-26-apollo-client-with-graphql-and-typescript/</guid>
+            <pubDate>Tue, 27 Apr 2021 00:22:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Help needed]]></title>
+            <link>https://stackoverflow.com/questions/67268590/typescript-types-of-payloadaction</link>
+            <guid>https://stackoverflow.com/questions/67268590/typescript-types-of-payloadaction</guid>
+            <pubDate>Mon, 26 Apr 2021 20:32:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Minimalistic node typescrit boilerplate]]></title>
+            <link>https://github.com/MaximilianHagelstam/ts-node-starter</link>
+            <guid>https://github.com/MaximilianHagelstam/ts-node-starter</guid>
+            <pubDate>Mon, 26 Apr 2021 13:43:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Argument of type 'Instance' is not assignable to parameter of type 'string'.ts(2345)]]></title>
+            <link>https://www.npmjs.com/package/tinycolor2</link>
+            <guid>https://www.npmjs.com/package/tinycolor2</guid>
+            <pubDate>Mon, 26 Apr 2021 13:19:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beginner and Typescript novice; need to understand some code.]]></title>
+            <link>https://github.com/EkaanshArora/Agora-Dynamic-VideoChat-Rooms/blob/main/App.tsx#L47</link>
+            <guid>https://github.com/EkaanshArora/Agora-Dynamic-VideoChat-Rooms/blob/main/App.tsx#L47</guid>
+            <pubDate>Mon, 26 Apr 2021 08:38:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Basic type definition for a simple class?]]></title>
             <link>https://gist.github.com/acomito/af725fc0fd442a7405feb81c07fbca86</link>
@@ -61,36 +91,6 @@
             <link>https://robinpokorny.com/blog/typescript-enums-i-want-to-actually-use/</link>
             <guid>https://robinpokorny.com/blog/typescript-enums-i-want-to-actually-use/</guid>
             <pubDate>Wed, 21 Apr 2021 12:54:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Help with declaration file syntax (omitting "function" from declare statement)]]></title>
-            <link>https://www.typescriptlang.org/docs/handbook/declaration-files/by-example.html</link>
-            <guid>https://www.typescriptlang.org/docs/handbook/declaration-files/by-example.html</guid>
-            <pubDate>Wed, 21 Apr 2021 16:50:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ component for your React project: react-color-palette]]></title>
-            <link>https://github.com/Wondermarin/react-color-palette</link>
-            <guid>https://github.com/Wondermarin/react-color-palette</guid>
-            <pubDate>Tue, 20 Apr 2021 19:52:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Understanding `(...args: never[]) => ...` in TypeScript Handbook]]></title>
-            <link>https://www.typescriptlang.org/docs/handbook/2/conditional-types.html#inferring-within-conditional-types</link>
-            <guid>https://www.typescriptlang.org/docs/handbook/2/conditional-types.html#inferring-within-conditional-types</guid>
-            <pubDate>Tue, 20 Apr 2021 19:42:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React: Smart component API with conditional props and TypeScript]]></title>
-            <link>https://iskenxan.medium.com/react-write-awesome-component-api-with-conditional-props-and-typescript-ae9fcdd29cab?source=friends_link&amp;sk=46db215c3b72f82713d84ebb74ab962b</link>
-            <guid>https://iskenxan.medium.com/react-write-awesome-component-api-with-conditional-props-and-typescript-ae9fcdd29cab?source=friends_link&amp;sk=46db215c3b72f82713d84ebb74ab962b</guid>
-            <pubDate>Tue, 20 Apr 2021 11:24:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Schrödinger's Discriminated Union]]></title>
-            <link>https://blog.yoavlavi.com/schroedingers/</link>
-            <guid>https://blog.yoavlavi.com/schroedingers/</guid>
-            <pubDate>Mon, 19 Apr 2021 18:02:59 GMT</pubDate>
         </item>
     </channel>
 </rss>

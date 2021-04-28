@@ -4,15 +4,21 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Tue, 27 Apr 2021 07:48:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Apr 2021 07:48:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[A painless guide to understanding CSS positioning]]></title>
-            <link>https://www.peterlynch.dev/</link>
-            <guid>https://www.peterlynch.dev/</guid>
-            <pubDate>Mon, 26 Apr 2021 11:04:25 GMT</pubDate>
+            <title><![CDATA[Styles For Individual Bullet Points]]></title>
+            <link>https://web.dev/css-marker-pseudo-element/</link>
+            <guid>https://web.dev/css-marker-pseudo-element/</guid>
+            <pubDate>Wed, 28 Apr 2021 04:25:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Practical Use Cases For CSS Variables]]></title>
+            <link>https://ishadeed.com/article/practical-css-variables/</link>
+            <guid>https://ishadeed.com/article/practical-css-variables/</guid>
+            <pubDate>Tue, 27 Apr 2021 18:45:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors]]></title>
@@ -21,22 +27,58 @@
             <pubDate>Tue, 27 Apr 2021 07:33:38 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Problem with grid positioning]]></title>
+            <link>http://www.vseppe.gc-m.be/Gip/test.html</link>
+            <guid>http://www.vseppe.gc-m.be/Gip/test.html</guid>
+            <pubDate>Tue, 27 Apr 2021 13:17:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CSS Tips]]></title>
+            <link>https://markodenic.com/css-tips/</link>
+            <guid>https://markodenic.com/css-tips/</guid>
+            <pubDate>Tue, 27 Apr 2021 12:46:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Getting started with CSS Custom Properties]]></title>
             <link>https://piccalil.li/tutorial/getting-started-with-css-custom-properties</link>
             <guid>https://piccalil.li/tutorial/getting-started-with-css-custom-properties</guid>
             <pubDate>Tue, 27 Apr 2021 07:25:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Complete CSS Flex Tutorial]]></title>
-            <link>https://semicolon.dev/tutorial/css/complete-css-flex-tutorial</link>
-            <guid>https://semicolon.dev/tutorial/css/complete-css-flex-tutorial</guid>
-            <pubDate>Mon, 26 Apr 2021 00:30:36 GMT</pubDate>
+            <title><![CDATA[can't set the background]]></title>
+            <link>https://replit.com/@ChrisTurindwa/praktijkopdracht#</link>
+            <guid>https://replit.com/@ChrisTurindwa/praktijkopdracht#</guid>
+            <pubDate>Tue, 27 Apr 2021 20:46:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Shrinking web page?]]></title>
-            <link>https://www.tui.co.uk/</link>
-            <guid>https://www.tui.co.uk/</guid>
-            <pubDate>Mon, 26 Apr 2021 21:24:16 GMT</pubDate>
+            <title><![CDATA[How To Use CSS Media Queries For Responsive Design?]]></title>
+            <link>https://www.lambdatest.com/blog/css-media-queries-for-responsive-design/?utm_source=Reddit&amp;utm_medium=blog&amp;utm_campaign=PM-270421-1&amp;utm_term=OrganicPosting</link>
+            <guid>https://www.lambdatest.com/blog/css-media-queries-for-responsive-design/?utm_source=Reddit&amp;utm_medium=blog&amp;utm_campaign=PM-270421-1&amp;utm_term=OrganicPosting</guid>
+            <pubDate>Tue, 27 Apr 2021 11:44:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CSS - Basics To Advanced for front end development (2021) - free course from udemy]]></title>
+            <link>https://www.myfreeonlinecourses.com/2021/04/100-off-css-basics-to-advanced-for.html</link>
+            <guid>https://www.myfreeonlinecourses.com/2021/04/100-off-css-basics-to-advanced-for.html</guid>
+            <pubDate>Tue, 27 Apr 2021 18:19:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GPT-3 and CSS Frameworks]]></title>
+            <link>http://www.vcarrer.com/2021/04/gpt-3-and-css-frameworks.html</link>
+            <guid>http://www.vcarrer.com/2021/04/gpt-3-and-css-frameworks.html</guid>
+            <pubDate>Tue, 27 Apr 2021 08:21:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[INCORRECTLY USING MEDIA QUERIES? or....?]]></title>
+            <link>https://github.com/LeSnip3r/vjha.github.io/tree/main/chatapp</link>
+            <guid>https://github.com/LeSnip3r/vjha.github.io/tree/main/chatapp</guid>
+            <pubDate>Tue, 27 Apr 2021 14:08:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A painless guide to understanding CSS positioning]]></title>
+            <link>https://www.peterlynch.dev/</link>
+            <guid>https://www.peterlynch.dev/</guid>
+            <pubDate>Mon, 26 Apr 2021 11:04:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Incomplete List of Mistakes in the Design of CSS [CSS Working Group Wiki]]]></title>
@@ -45,22 +87,10 @@
             <pubDate>Mon, 26 Apr 2021 13:43:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Getting started with CSS Custom Properties - Tutorial]]></title>
-            <link>https://piccalil.li/tutorial/getting-started-with-css-custom-properties</link>
-            <guid>https://piccalil.li/tutorial/getting-started-with-css-custom-properties</guid>
-            <pubDate>Mon, 26 Apr 2021 13:44:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pattern Monster - SVG Pattern Generator]]></title>
-            <link>https://pattern.monster/</link>
-            <guid>https://pattern.monster/</guid>
-            <pubDate>Sun, 25 Apr 2021 11:39:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beginner Needs Help with Scrolling Gradient Border for Website]]></title>
-            <link>https://www.lizvwells.com/</link>
-            <guid>https://www.lizvwells.com/</guid>
-            <pubDate>Sun, 25 Apr 2021 19:21:56 GMT</pubDate>
+            <title><![CDATA[The Complete CSS Flex Tutorial]]></title>
+            <link>https://semicolon.dev/tutorial/css/complete-css-flex-tutorial</link>
+            <guid>https://semicolon.dev/tutorial/css/complete-css-flex-tutorial</guid>
+            <pubDate>Mon, 26 Apr 2021 00:30:36 GMT</pubDate>
         </item>
     </channel>
 </rss>

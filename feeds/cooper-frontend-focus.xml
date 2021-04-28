@@ -4,7 +4,7 @@
         <title>Frontend Focus</title>
         <link>https://frontendfoc.us/</link>
         <description>A once–weekly roundup of the best front-end news, articles and tutorials. HTML, CSS, WebGL, Canvas, browser tech, and more.</description>
-        <lastBuildDate>Tue, 27 Apr 2021 07:47:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Apr 2021 07:47:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -88,14 +88,14 @@
         </item>
         <item>
             <title><![CDATA[The Best Approach to Lazy Load Images for Maximum Performance]]></title>
-            <link>https://codeadrian.hashnode.dev/the-best-approach-to-lazy-load-images-for-maximum-performance?guid=none&amp;deviceId=b6ddc950-e06d-476f-827a-224a0c5a3a85</link>
-            <guid>https://codeadrian.hashnode.dev/the-best-approach-to-lazy-load-images-for-maximum-performance?guid=none&amp;deviceId=b6ddc950-e06d-476f-827a-224a0c5a3a85</guid>
+            <link>https://codeadrian.hashnode.dev/the-best-approach-to-lazy-load-images-for-maximum-performance?guid=none&amp;deviceId=f0ffe6ef-18e6-4cfa-9501-796c66f9ebce</link>
+            <guid>https://codeadrian.hashnode.dev/the-best-approach-to-lazy-load-images-for-maximum-performance?guid=none&amp;deviceId=f0ffe6ef-18e6-4cfa-9501-796c66f9ebce</guid>
             <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Debugging JavaScript Efficiently with Chrome DevTools]]></title>
-            <link>https://lo-victoria.com/debugging-javascript-efficiently-with-chrome-devtools?guid=none&amp;deviceId=45bf2b2e-c979-4957-be20-83a3d9b3dabf</link>
-            <guid>https://lo-victoria.com/debugging-javascript-efficiently-with-chrome-devtools?guid=none&amp;deviceId=45bf2b2e-c979-4957-be20-83a3d9b3dabf</guid>
+            <link>https://lo-victoria.com/debugging-javascript-efficiently-with-chrome-devtools?guid=none&amp;deviceId=aee995a4-721e-4a88-8594-ea3bcf0c7b89</link>
+            <guid>https://lo-victoria.com/debugging-javascript-efficiently-with-chrome-devtools?guid=none&amp;deviceId=aee995a4-721e-4a88-8594-ea3bcf0c7b89</guid>
             <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>

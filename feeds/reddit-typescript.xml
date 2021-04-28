@@ -4,15 +4,51 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Tue, 27 Apr 2021 07:48:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Apr 2021 07:48:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Writing better TypeScript]]></title>
+            <link>https://stefan-bauer.online/writing-better-type-script/</link>
+            <guid>https://stefan-bauer.online/writing-better-type-script/</guid>
+            <pubDate>Wed, 28 Apr 2021 06:33:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Typescript validation library/macro is looking for maintainers]]></title>
+            <link>https://github.com/vedantroy/typecheck.macro/issues/23</link>
+            <guid>https://github.com/vedantroy/typecheck.macro/issues/23</guid>
+            <pubDate>Tue, 27 Apr 2021 17:29:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I'm having a really hard time understanding how to import a DefinitelyTyped module.]]></title>
+            <link>https://github.com/pinqy520/three-typescript-starter</link>
+            <guid>https://github.com/pinqy520/three-typescript-starter</guid>
+            <pubDate>Tue, 27 Apr 2021 17:56:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How we use Apollo to manage GraphQL data in our Next.js Typescript application]]></title>
             <link>https://www.dolthub.com/blog/2021-04-26-apollo-client-with-graphql-and-typescript/</link>
             <guid>https://www.dolthub.com/blog/2021-04-26-apollo-client-with-graphql-and-typescript/</guid>
             <pubDate>Tue, 27 Apr 2021 00:22:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TypeScript Beginners: Here Are The 5 Areas You Must Master]]></title>
+            <link>https://medium.com/@GavMac2010/typescript-beginners-here-are-the-5-areas-you-must-master-75aee5cd4483?source=friends_link&amp;sk=091c86aa65fdb69c58237acf8c38cf9d</link>
+            <guid>https://medium.com/@GavMac2010/typescript-beginners-here-are-the-5-areas-you-must-master-75aee5cd4483?source=friends_link&amp;sk=091c86aa65fdb69c58237acf8c38cf9d</guid>
+            <pubDate>Tue, 27 Apr 2021 20:57:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Implement a binary tree using Typescript]]></title>
+            <link>https://alexisbouchez.com/posts/implement-a-binary-tree-using-typescript</link>
+            <guid>https://alexisbouchez.com/posts/implement-a-binary-tree-using-typescript</guid>
+            <pubDate>Tue, 27 Apr 2021 18:11:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TS2339: Property 'length' does not exist on type 'HexNode'. How do I extend & merge local types & downloaded TS types?]]></title>
+            <link>https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/gradient-parser/index.d.ts</link>
+            <guid>https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/gradient-parser/index.d.ts</guid>
+            <pubDate>Tue, 27 Apr 2021 10:35:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Help needed]]></title>
@@ -33,6 +69,12 @@
             <pubDate>Mon, 26 Apr 2021 13:19:17 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Making typescript aware of this methods set in a constructor?]]></title>
+            <link>https://this.email/</link>
+            <guid>https://this.email/</guid>
+            <pubDate>Mon, 26 Apr 2021 13:52:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Beginner and Typescript novice; need to understand some code.]]></title>
             <link>https://github.com/EkaanshArora/Agora-Dynamic-VideoChat-Rooms/blob/main/App.tsx#L47</link>
             <guid>https://github.com/EkaanshArora/Agora-Dynamic-VideoChat-Rooms/blob/main/App.tsx#L47</guid>
@@ -49,48 +91,6 @@
             <link>https://github.com/gentritabazi01/typeorm-simple-query-parser</link>
             <guid>https://github.com/gentritabazi01/typeorm-simple-query-parser</guid>
             <pubDate>Sun, 25 Apr 2021 18:57:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Design Patterns. Strategy Pattern in Examples]]></title>
-            <link>https://medium.com/litslink/design-patterns-strategy-in-examples-eae7bf10a817</link>
-            <guid>https://medium.com/litslink/design-patterns-strategy-in-examples-eae7bf10a817</guid>
-            <pubDate>Sat, 24 Apr 2021 17:43:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Design patterns. Decorator in examples]]></title>
-            <link>https://medium.com/litslink/decorator-design-pattern-in-examples-3f9738f7a380</link>
-            <guid>https://medium.com/litslink/decorator-design-pattern-in-examples-3f9738f7a380</guid>
-            <pubDate>Sun, 25 Apr 2021 14:31:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A front-end game engine specifically for creating interactive game projects.]]></title>
-            <link>https://eva.js.org/#/</link>
-            <guid>https://eva.js.org/#/</guid>
-            <pubDate>Sat, 24 Apr 2021 18:47:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Making Custom Game Engine in TypeScript: How I outperformed the Mozilla team]]></title>
-            <link>https://jerrygreen.me/blog/making-custom-game-engine</link>
-            <guid>https://jerrygreen.me/blog/making-custom-game-engine</guid>
-            <pubDate>Fri, 23 Apr 2021 13:33:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Babel alternative in TypeScript that's 2x faster than esbuild]]></title>
-            <link>https://twitter.com/sitnikcode/status/1384854744259248130</link>
-            <guid>https://twitter.com/sitnikcode/status/1384854744259248130</guid>
-            <pubDate>Thu, 22 Apr 2021 10:47:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[best way of handling authentication]]></title>
-            <link>https://docs.microsoft.com/en-us/azure/developer/javascript/tutorial/single-page-application-azure-login-button-sdk-msal</link>
-            <guid>https://docs.microsoft.com/en-us/azure/developer/javascript/tutorial/single-page-application-azure-login-button-sdk-msal</guid>
-            <pubDate>Thu, 22 Apr 2021 21:33:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TypeScript Enums I Want to Actually Use]]></title>
-            <link>https://robinpokorny.com/blog/typescript-enums-i-want-to-actually-use/</link>
-            <guid>https://robinpokorny.com/blog/typescript-enums-i-want-to-actually-use/</guid>
-            <pubDate>Wed, 21 Apr 2021 12:54:46 GMT</pubDate>
         </item>
     </channel>
 </rss>

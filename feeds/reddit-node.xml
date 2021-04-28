@@ -4,15 +4,33 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Tue, 27 Apr 2021 07:48:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Apr 2021 07:48:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Strapi CMS released the Internationalization feature in v3.6]]></title>
-            <link>https://strapi.io/blog/announcing-content-internationalization-v3-6</link>
-            <guid>https://strapi.io/blog/announcing-content-internationalization-v3-6</guid>
-            <pubDate>Mon, 26 Apr 2021 10:15:48 GMT</pubDate>
+            <title><![CDATA[libuv in Node.js]]></title>
+            <link>https://www.thesystemsprogrammer.com/posts/how-does-event-driven-programming-even-work</link>
+            <guid>https://www.thesystemsprogrammer.com/posts/how-does-event-driven-programming-even-work</guid>
+            <pubDate>Wed, 28 Apr 2021 03:59:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Build an HTTPS-intercepting JavaScript proxy in 30 seconds flat]]></title>
+            <link>https://httptoolkit.tech/blog/javascript-mitm-proxy-mockttp/</link>
+            <guid>https://httptoolkit.tech/blog/javascript-mitm-proxy-mockttp/</guid>
+            <pubDate>Tue, 27 Apr 2021 14:26:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FoalTS - Node.JS and TypeScript framework - March Release - Prisma, GraphiQL and multiple env management]]></title>
+            <link>https://foalts.org/docs/databases/using-another-orm/</link>
+            <guid>https://foalts.org/docs/databases/using-another-orm/</guid>
+            <pubDate>Wed, 28 Apr 2021 07:37:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to deploy a socket.io based project?]]></title>
+            <link>https://socket.io/</link>
+            <guid>https://socket.io/</guid>
+            <pubDate>Tue, 27 Apr 2021 19:48:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Foy: A simple, light-weight, type-friendly and modern task runner for nodejs, to make it easier for you to write NPM scripts.]]></title>
@@ -21,52 +39,40 @@
             <pubDate>Tue, 27 Apr 2021 06:34:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Feature flags with rollout percentage for Node.js apps]]></title>
+            <link>https://github.com/cdimascio/flagger-on</link>
+            <guid>https://github.com/cdimascio/flagger-on</guid>
+            <pubDate>Tue, 27 Apr 2021 14:56:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Data structure problem 2 with javascript solution. Interview problem]]></title>
+            <link>https://www.monkwhocode.com/2021/04/data-structure-problem-2-stack-valid.html</link>
+            <guid>https://www.monkwhocode.com/2021/04/data-structure-problem-2-stack-valid.html</guid>
+            <pubDate>Tue, 27 Apr 2021 13:28:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Confused with reverse proxy]]></title>
+            <link>https://www.npmjs.com/package/http-proxy</link>
+            <guid>https://www.npmjs.com/package/http-proxy</guid>
+            <pubDate>Tue, 27 Apr 2021 12:49:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Can't resolve "TypeError: Converting circular structure to JSON"]]></title>
             <link>https://www.npmjs.com/package/google-spreadsheet</link>
             <guid>https://www.npmjs.com/package/google-spreadsheet</guid>
             <pubDate>Tue, 27 Apr 2021 05:18:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NodeJS Build/Release Architecture?]]></title>
-            <link>https://www.npmjs.com/package/dotenv</link>
-            <guid>https://www.npmjs.com/package/dotenv</guid>
-            <pubDate>Mon, 26 Apr 2021 19:26:19 GMT</pubDate>
+            <title><![CDATA[Strapi CMS released the Internationalization feature in v3.6]]></title>
+            <link>https://strapi.io/blog/announcing-content-internationalization-v3-6</link>
+            <guid>https://strapi.io/blog/announcing-content-internationalization-v3-6</guid>
+            <pubDate>Mon, 26 Apr 2021 10:15:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[E2E tests for CLI applications]]></title>
-            <link>https://github.com/vesln/nixt</link>
-            <guid>https://github.com/vesln/nixt</guid>
-            <pubDate>Mon, 26 Apr 2021 14:28:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Minimalistic node typescrit boilerplate]]></title>
-            <link>https://github.com/MaximilianHagelstam/ts-node-starter</link>
-            <guid>https://github.com/MaximilianHagelstam/ts-node-starter</guid>
-            <pubDate>Mon, 26 Apr 2021 13:48:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Very light SGBD for NodeJS, MonoDB]]></title>
-            <link>https://www.npmjs.com/package/monodb</link>
-            <guid>https://www.npmjs.com/package/monodb</guid>
-            <pubDate>Sun, 25 Apr 2021 14:35:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[functions-differ: Deploy only the Firebase Functions that changed]]></title>
-            <link>https://github.com/haroldadmin/functions-differ</link>
-            <guid>https://github.com/haroldadmin/functions-differ</guid>
-            <pubDate>Sun, 25 Apr 2021 09:45:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Web Scraping with Deno - Is It Worth Trying?]]></title>
-            <link>https://scrapingant.com/blog/deno-web-scraping</link>
-            <guid>https://scrapingant.com/blog/deno-web-scraping</guid>
-            <pubDate>Mon, 26 Apr 2021 07:23:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[how to install a new version.]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Sun, 25 Apr 2021 16:57:32 GMT</pubDate>
+            <title><![CDATA[How To Set Up a Node.js Application for Production on Ubuntu 16.04]]></title>
+            <link>https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-16-04/#/##</link>
+            <guid>https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-16-04/#/##</guid>
+            <pubDate>Tue, 27 Apr 2021 15:44:04 GMT</pubDate>
         </item>
     </channel>
 </rss>

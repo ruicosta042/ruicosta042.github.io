@@ -4,21 +4,69 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Wed, 28 Apr 2021 07:48:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Apr 2021 07:47:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Styles For Individual Bullet Points]]></title>
-            <link>https://web.dev/css-marker-pseudo-element/</link>
-            <guid>https://web.dev/css-marker-pseudo-element/</guid>
-            <pubDate>Wed, 28 Apr 2021 04:25:22 GMT</pubDate>
+            <title><![CDATA[How Flexbox works — explained with big, colorful, animated gifs]]></title>
+            <link>https://www.freecodecamp.org/news/an-animated-guide-to-flexbox-d280cf6afc35/</link>
+            <guid>https://www.freecodecamp.org/news/an-animated-guide-to-flexbox-d280cf6afc35/</guid>
+            <pubDate>Thu, 29 Apr 2021 01:01:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is this CSS or a video played back and forth?]]></title>
+            <link>https://www.apple.com/ipad-pro/</link>
+            <guid>https://www.apple.com/ipad-pro/</guid>
+            <pubDate>Wed, 28 Apr 2021 21:48:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Simple arrow text symbol copy/paste picker]]></title>
+            <link>http://www.psd-dude.com/tutorials/resources/arrow-symbol.aspx</link>
+            <guid>http://www.psd-dude.com/tutorials/resources/arrow-symbol.aspx</guid>
+            <pubDate>Wed, 28 Apr 2021 18:27:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Weird error on Edge Mobile for my portfolio website]]></title>
+            <link>https://darenlobo.me/</link>
+            <guid>https://darenlobo.me/</guid>
+            <pubDate>Wed, 28 Apr 2021 18:11:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A collection of front-end debugging script snippets to be used in the Sources panel in Chrome DevTools.]]></title>
+            <link>https://github.com/matuzo/DevToolsSnippets</link>
+            <guid>https://github.com/matuzo/DevToolsSnippets</guid>
+            <pubDate>Wed, 28 Apr 2021 13:23:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Do you have to pay license fees to use "web-safe" fonts like arial, helvetica, etc commercially in a website?]]></title>
+            <link>https://www.fonts.com/font/monotype/arial/licenses</link>
+            <guid>https://www.fonts.com/font/monotype/arial/licenses</guid>
+            <pubDate>Wed, 28 Apr 2021 16:00:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Complete Guide to Custom Properties]]></title>
+            <link>https://css-tricks.com/a-complete-guide-to-custom-properties/</link>
+            <guid>https://css-tricks.com/a-complete-guide-to-custom-properties/</guid>
+            <pubDate>Wed, 28 Apr 2021 13:00:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A developer-first layout engine for web]]></title>
+            <link>https://forsigner.medium.com/first-of-all-this-article-has-a-bit-of-a-headline-and-i-apologize-to-the-readers-c7f6e66952af?source=friends_link&amp;sk=5b53901d8ccda979c0d67422765aa45f</link>
+            <guid>https://forsigner.medium.com/first-of-all-this-article-has-a-bit-of-a-headline-and-i-apologize-to-the-readers-c7f6e66952af?source=friends_link&amp;sk=5b53901d8ccda979c0d67422765aa45f</guid>
+            <pubDate>Wed, 28 Apr 2021 11:16:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Practical Use Cases For CSS Variables]]></title>
             <link>https://ishadeed.com/article/practical-css-variables/</link>
             <guid>https://ishadeed.com/article/practical-css-variables/</guid>
             <pubDate>Tue, 27 Apr 2021 18:45:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Styles For Individual Bullet Points]]></title>
+            <link>https://web.dev/css-marker-pseudo-element/</link>
+            <guid>https://web.dev/css-marker-pseudo-element/</guid>
+            <pubDate>Wed, 28 Apr 2021 04:25:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors]]></title>
@@ -31,66 +79,6 @@
             <link>http://www.vseppe.gc-m.be/Gip/test.html</link>
             <guid>http://www.vseppe.gc-m.be/Gip/test.html</guid>
             <pubDate>Tue, 27 Apr 2021 13:17:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CSS Tips]]></title>
-            <link>https://markodenic.com/css-tips/</link>
-            <guid>https://markodenic.com/css-tips/</guid>
-            <pubDate>Tue, 27 Apr 2021 12:46:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting started with CSS Custom Properties]]></title>
-            <link>https://piccalil.li/tutorial/getting-started-with-css-custom-properties</link>
-            <guid>https://piccalil.li/tutorial/getting-started-with-css-custom-properties</guid>
-            <pubDate>Tue, 27 Apr 2021 07:25:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[can't set the background]]></title>
-            <link>https://replit.com/@ChrisTurindwa/praktijkopdracht#</link>
-            <guid>https://replit.com/@ChrisTurindwa/praktijkopdracht#</guid>
-            <pubDate>Tue, 27 Apr 2021 20:46:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How To Use CSS Media Queries For Responsive Design?]]></title>
-            <link>https://www.lambdatest.com/blog/css-media-queries-for-responsive-design/?utm_source=Reddit&amp;utm_medium=blog&amp;utm_campaign=PM-270421-1&amp;utm_term=OrganicPosting</link>
-            <guid>https://www.lambdatest.com/blog/css-media-queries-for-responsive-design/?utm_source=Reddit&amp;utm_medium=blog&amp;utm_campaign=PM-270421-1&amp;utm_term=OrganicPosting</guid>
-            <pubDate>Tue, 27 Apr 2021 11:44:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CSS - Basics To Advanced for front end development (2021) - free course from udemy]]></title>
-            <link>https://www.myfreeonlinecourses.com/2021/04/100-off-css-basics-to-advanced-for.html</link>
-            <guid>https://www.myfreeonlinecourses.com/2021/04/100-off-css-basics-to-advanced-for.html</guid>
-            <pubDate>Tue, 27 Apr 2021 18:19:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GPT-3 and CSS Frameworks]]></title>
-            <link>http://www.vcarrer.com/2021/04/gpt-3-and-css-frameworks.html</link>
-            <guid>http://www.vcarrer.com/2021/04/gpt-3-and-css-frameworks.html</guid>
-            <pubDate>Tue, 27 Apr 2021 08:21:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[INCORRECTLY USING MEDIA QUERIES? or....?]]></title>
-            <link>https://github.com/LeSnip3r/vjha.github.io/tree/main/chatapp</link>
-            <guid>https://github.com/LeSnip3r/vjha.github.io/tree/main/chatapp</guid>
-            <pubDate>Tue, 27 Apr 2021 14:08:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A painless guide to understanding CSS positioning]]></title>
-            <link>https://www.peterlynch.dev/</link>
-            <guid>https://www.peterlynch.dev/</guid>
-            <pubDate>Mon, 26 Apr 2021 11:04:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Incomplete List of Mistakes in the Design of CSS [CSS Working Group Wiki]]]></title>
-            <link>https://wiki.csswg.org/ideas/mistakes</link>
-            <guid>https://wiki.csswg.org/ideas/mistakes</guid>
-            <pubDate>Mon, 26 Apr 2021 13:43:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Complete CSS Flex Tutorial]]></title>
-            <link>https://semicolon.dev/tutorial/css/complete-css-flex-tutorial</link>
-            <guid>https://semicolon.dev/tutorial/css/complete-css-flex-tutorial</guid>
-            <pubDate>Mon, 26 Apr 2021 00:30:36 GMT</pubDate>
         </item>
     </channel>
 </rss>

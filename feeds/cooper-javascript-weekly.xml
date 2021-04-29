@@ -4,7 +4,7 @@
         <title>JavaScript Weekly</title>
         <link>https://javascriptweekly.com/</link>
         <description>A newsletter of JavaScript articles, news and cool projects</description>
-        <lastBuildDate>Wed, 28 Apr 2021 07:47:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Apr 2021 07:46:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -40,14 +40,14 @@
         </item>
         <item>
             <title><![CDATA[Debugging JavaScript Efficiently with Chrome DevTools]]></title>
-            <link>https://lo-victoria.com/debugging-javascript-efficiently-with-chrome-devtools?guid=none&amp;deviceId=8fe3e178-7d66-4e2f-9b98-f9e465eca25d</link>
-            <guid>https://lo-victoria.com/debugging-javascript-efficiently-with-chrome-devtools?guid=none&amp;deviceId=8fe3e178-7d66-4e2f-9b98-f9e465eca25d</guid>
+            <link>https://lo-victoria.com/debugging-javascript-efficiently-with-chrome-devtools?guid=none&amp;deviceId=62eb5559-c744-416e-8d68-31635e699242</link>
+            <guid>https://lo-victoria.com/debugging-javascript-efficiently-with-chrome-devtools?guid=none&amp;deviceId=62eb5559-c744-416e-8d68-31635e699242</guid>
             <pubDate>Fri, 23 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Five Key Lessons React Tutorials Don't Teach]]></title>
-            <link>https://reedbarger.hashnode.dev/5-key-lessons-react-tutorials-dont-teach?guid=none&amp;deviceId=41249a03-eb8b-48df-8047-d7eb938ba33e</link>
-            <guid>https://reedbarger.hashnode.dev/5-key-lessons-react-tutorials-dont-teach?guid=none&amp;deviceId=41249a03-eb8b-48df-8047-d7eb938ba33e</guid>
+            <link>https://reedbarger.hashnode.dev/5-key-lessons-react-tutorials-dont-teach?guid=none&amp;deviceId=7b62345e-53eb-4b3b-8c2e-f0297d063c14</link>
+            <guid>https://reedbarger.hashnode.dev/5-key-lessons-react-tutorials-dont-teach?guid=none&amp;deviceId=7b62345e-53eb-4b3b-8c2e-f0297d063c14</guid>
             <pubDate>Fri, 23 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>

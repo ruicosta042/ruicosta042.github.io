@@ -4,15 +4,27 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Wed, 28 Apr 2021 07:48:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Apr 2021 07:47:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Build a course management REST API]]></title>
+            <link>https://catalins.tech/build-a-rest-api-with-harperdb-and-fastifyjs</link>
+            <guid>https://catalins.tech/build-a-rest-api-with-harperdb-and-fastifyjs</guid>
+            <pubDate>Thu, 29 Apr 2021 04:42:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[libuv in Node.js]]></title>
             <link>https://www.thesystemsprogrammer.com/posts/how-does-event-driven-programming-even-work</link>
             <guid>https://www.thesystemsprogrammer.com/posts/how-does-event-driven-programming-even-work</guid>
             <pubDate>Wed, 28 Apr 2021 03:59:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Intro to OpenAPI: Swagger, the spec, code generation and monitoring]]></title>
+            <link>https://www.checklyhq.com/guides/openapi-swagger/</link>
+            <guid>https://www.checklyhq.com/guides/openapi-swagger/</guid>
+            <pubDate>Wed, 28 Apr 2021 13:07:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Build an HTTPS-intercepting JavaScript proxy in 30 seconds flat]]></title>
@@ -21,58 +33,10 @@
             <pubDate>Tue, 27 Apr 2021 14:26:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[FoalTS - Node.JS and TypeScript framework - March Release - Prisma, GraphiQL and multiple env management]]></title>
-            <link>https://foalts.org/docs/databases/using-another-orm/</link>
-            <guid>https://foalts.org/docs/databases/using-another-orm/</guid>
-            <pubDate>Wed, 28 Apr 2021 07:37:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to deploy a socket.io based project?]]></title>
-            <link>https://socket.io/</link>
-            <guid>https://socket.io/</guid>
-            <pubDate>Tue, 27 Apr 2021 19:48:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Foy: A simple, light-weight, type-friendly and modern task runner for nodejs, to make it easier for you to write NPM scripts.]]></title>
-            <link>https://github.com/zaaack/foy</link>
-            <guid>https://github.com/zaaack/foy</guid>
-            <pubDate>Tue, 27 Apr 2021 06:34:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Feature flags with rollout percentage for Node.js apps]]></title>
-            <link>https://github.com/cdimascio/flagger-on</link>
-            <guid>https://github.com/cdimascio/flagger-on</guid>
-            <pubDate>Tue, 27 Apr 2021 14:56:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Data structure problem 2 with javascript solution. Interview problem]]></title>
-            <link>https://www.monkwhocode.com/2021/04/data-structure-problem-2-stack-valid.html</link>
-            <guid>https://www.monkwhocode.com/2021/04/data-structure-problem-2-stack-valid.html</guid>
-            <pubDate>Tue, 27 Apr 2021 13:28:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Confused with reverse proxy]]></title>
-            <link>https://www.npmjs.com/package/http-proxy</link>
-            <guid>https://www.npmjs.com/package/http-proxy</guid>
-            <pubDate>Tue, 27 Apr 2021 12:49:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can't resolve "TypeError: Converting circular structure to JSON"]]></title>
-            <link>https://www.npmjs.com/package/google-spreadsheet</link>
-            <guid>https://www.npmjs.com/package/google-spreadsheet</guid>
-            <pubDate>Tue, 27 Apr 2021 05:18:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Strapi CMS released the Internationalization feature in v3.6]]></title>
-            <link>https://strapi.io/blog/announcing-content-internationalization-v3-6</link>
-            <guid>https://strapi.io/blog/announcing-content-internationalization-v3-6</guid>
-            <pubDate>Mon, 26 Apr 2021 10:15:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How To Set Up a Node.js Application for Production on Ubuntu 16.04]]></title>
-            <link>https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-16-04/#/##</link>
-            <guid>https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-16-04/#/##</guid>
-            <pubDate>Tue, 27 Apr 2021 15:44:04 GMT</pubDate>
+            <title><![CDATA[Node transform stream stop without any event firing or giving error]]></title>
+            <link>http://stackoverflow.com/questions/67297199/node-stream-stops-with-out-any-error-or-event-firing</link>
+            <guid>http://stackoverflow.com/questions/67297199/node-stream-stops-with-out-any-error-or-event-firing</guid>
+            <pubDate>Wed, 28 Apr 2021 09:39:42 GMT</pubDate>
         </item>
     </channel>
 </rss>

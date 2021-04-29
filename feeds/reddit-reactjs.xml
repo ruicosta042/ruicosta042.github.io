@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Wed, 28 Apr 2021 07:48:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Apr 2021 07:47:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,46 +15,52 @@
             <pubDate>Thu, 01 Apr 2021 06:19:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Managing loading status for React is much easier with loadio]]></title>
-            <link>https://dev.to/hepter/managing-loading-status-for-react-is-much-easier-with-loadio-1n8n</link>
-            <guid>https://dev.to/hepter/managing-loading-status-for-react-is-much-easier-with-loadio-1n8n</guid>
-            <pubDate>Wed, 28 Apr 2021 07:41:12 GMT</pubDate>
+            <title><![CDATA[A Visual Guide To React Mental Models]]></title>
+            <link>https://obedparla.com/code/a-visual-guide-to-react-mental-models/</link>
+            <guid>https://obedparla.com/code/a-visual-guide-to-react-mental-models/</guid>
+            <pubDate>Wed, 28 Apr 2021 13:26:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[useEffect and useState is not working]]></title>
-            <link>https://codesandbox.io/s/stupefied-hopper-rnbhy?file=/src/App.js:2118-2135</link>
-            <guid>https://codesandbox.io/s/stupefied-hopper-rnbhy?file=/src/App.js:2118-2135</guid>
-            <pubDate>Wed, 28 Apr 2021 06:47:59 GMT</pubDate>
+            <title><![CDATA[Next.js 10.2 – Improved Performance, Accessibility, and Automatic Webfont Optimization]]></title>
+            <link>https://nextjs.org/10-2</link>
+            <guid>https://nextjs.org/10-2</guid>
+            <pubDate>Wed, 28 Apr 2021 14:56:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I published my first React component to the npm repository: Material-Duration-Picker. It's a simple component like Material-UI's DatePicker that allows you to enter a custom duration. What do you think?]]></title>
-            <link>https://www.npmjs.com/package/material-duration-picker</link>
-            <guid>https://www.npmjs.com/package/material-duration-picker</guid>
-            <pubDate>Wed, 28 Apr 2021 00:27:53 GMT</pubDate>
+            <title><![CDATA[Free ultimate React resources. Zero to Hero in React]]></title>
+            <link>https://devwriteups.com/free-ultimate-react-resources-zero-to-hero-in-react</link>
+            <guid>https://devwriteups.com/free-ultimate-react-resources-zero-to-hero-in-react</guid>
+            <pubDate>Thu, 29 Apr 2021 07:41:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React + TailwindCSS boilerplate]]></title>
-            <link>https://github.com/Wiegand92/react-tw</link>
-            <guid>https://github.com/Wiegand92/react-tw</guid>
-            <pubDate>Tue, 27 Apr 2021 19:45:49 GMT</pubDate>
+            <title><![CDATA[I wrote a library for handling wizard forms in React]]></title>
+            <link>https://github.com/sbacic/react-wizard</link>
+            <guid>https://github.com/sbacic/react-wizard</guid>
+            <pubDate>Wed, 28 Apr 2021 18:34:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Project code structures]]></title>
-            <link>https://dimitrisstefanakis.medium.com/react-project-structure-3a7a95f557b8</link>
-            <guid>https://dimitrisstefanakis.medium.com/react-project-structure-3a7a95f557b8</guid>
-            <pubDate>Tue, 27 Apr 2021 16:47:24 GMT</pubDate>
+            <title><![CDATA[Logzone: a package to print pretty log messages. you can use predefined or customize your own!]]></title>
+            <link>https://www.npmjs.com/package/logzone</link>
+            <guid>https://www.npmjs.com/package/logzone</guid>
+            <pubDate>Thu, 29 Apr 2021 01:35:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[sockjs-node/info in production]]></title>
-            <link>http://localhost:3000/sockjs-node/info?%27</link>
-            <guid>http://localhost:3000/sockjs-node/info?%27</guid>
-            <pubDate>Tue, 27 Apr 2021 19:55:02 GMT</pubDate>
+            <title><![CDATA[react hook for scheduling a callback function for later render]]></title>
+            <link>https://www.npmjs.com/package/react-use-call-onnext-render</link>
+            <guid>https://www.npmjs.com/package/react-use-call-onnext-render</guid>
+            <pubDate>Wed, 28 Apr 2021 17:16:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Best Open Source Courses/Resources to learn Algorithms on my own?]]></title>
+            <title><![CDATA[ component for your React project: react-color-palette]]></title>
+            <link>https://github.com/Wondermarin/react-color-palette</link>
+            <guid>https://github.com/Wondermarin/react-color-palette</guid>
+            <pubDate>Wed, 28 Apr 2021 18:10:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NextAuth Hasura Refresh Tokens]]></title>
             <link>https://foo.com/</link>
             <guid>https://foo.com/</guid>
-            <pubDate>Tue, 27 Apr 2021 19:42:01 GMT</pubDate>
+            <pubDate>Wed, 28 Apr 2021 17:38:11 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Wed, 28 Apr 2021 07:48:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Apr 2021 07:47:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,16 +15,94 @@
             <pubDate>Mon, 26 Apr 2021 09:04:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Angular team is deprecating support for Internet Explorer 11 in Angular v12 (to be released in May 2021 and supported through November 2022), and plans to remove support for this browser in Angular v13 (late 2021)]]></title>
+            <link>https://github.com/angular/angular/issues/41840</link>
+            <guid>https://github.com/angular/angular/issues/41840</guid>
+            <pubDate>Wed, 28 Apr 2021 14:52:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fluid: Simple, lightweight, and blazing-fast UI library at only around 1.5 KB minified and gzipped]]></title>
+            <link>https://github.com/HereIsKevin/fluid/</link>
+            <guid>https://github.com/HereIsKevin/fluid/</guid>
+            <pubDate>Wed, 28 Apr 2021 18:06:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Implementing Redux from Scratch]]></title>
+            <link>https://codecrunch.org/redux-from-scratch-implementation-205c5b3be018</link>
+            <guid>https://codecrunch.org/redux-from-scratch-implementation-205c5b3be018</guid>
+            <pubDate>Wed, 28 Apr 2021 09:34:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lazy loading for card layout items and tabs → neo.mjs v2.0.10]]></title>
+            <link>https://tobiasuhlig.medium.com/lazy-loading-for-card-layout-items-and-tabs-neo-mjs-v2-0-10-2bd1c16cd458?source=friends_link&amp;sk=c4651bfff3026ea7fe29f9589bde15b6</link>
+            <guid>https://tobiasuhlig.medium.com/lazy-loading-for-card-layout-items-and-tabs-neo-mjs-v2-0-10-2bd1c16cd458?source=friends_link&amp;sk=c4651bfff3026ea7fe29f9589bde15b6</guid>
+            <pubDate>Thu, 29 Apr 2021 05:42:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AskJS] Can someone explain the code below line / block by block?]]></title>
+            <link>https://mcmxcv.eu/</link>
+            <guid>https://mcmxcv.eu/</guid>
+            <pubDate>Thu, 29 Apr 2021 07:14:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The missing migration guide: from Vue CLI to Vite · Moiva.io Blog]]></title>
+            <link>https://moiva.io/blog/the-missing-migration-guide-from-vue-cli-to-vite</link>
+            <guid>https://moiva.io/blog/the-missing-migration-guide-from-vue-cli-to-vite</guid>
+            <pubDate>Wed, 28 Apr 2021 12:41:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tunnel Run game in ~170 lines of pure JS]]></title>
             <link>https://slicker.me/javascript/tunnel/fullscreen.htm</link>
             <guid>https://slicker.me/javascript/tunnel/fullscreen.htm</guid>
             <pubDate>Tue, 27 Apr 2021 18:23:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Build an HTTPS-intercepting JavaScript proxy in 30 seconds flat]]></title>
-            <link>https://httptoolkit.tech/blog/javascript-mitm-proxy-mockttp/</link>
-            <guid>https://httptoolkit.tech/blog/javascript-mitm-proxy-mockttp/</guid>
-            <pubDate>Tue, 27 Apr 2021 14:26:52 GMT</pubDate>
+            <title><![CDATA[Build forms without effort.]]></title>
+            <link>https://github.com/use-form/use-form</link>
+            <guid>https://github.com/use-form/use-form</guid>
+            <pubDate>Wed, 28 Apr 2021 11:49:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A quick and easy intro to working with popups in javascript and passing data between different browser windows]]></title>
+            <link>https://iabhishek.dev/post/popups-with-javascript-a-quick-introduction</link>
+            <guid>https://iabhishek.dev/post/popups-with-javascript-a-quick-introduction</guid>
+            <pubDate>Wed, 28 Apr 2021 18:28:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Send automatic patch notes to your Discord server on new releases, using GitHub actions]]></title>
+            <link>https://github.com/nhevia/discord-styled-releases</link>
+            <guid>https://github.com/nhevia/discord-styled-releases</guid>
+            <pubDate>Wed, 28 Apr 2021 12:09:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hack Tips - Chrome Dino Game Endless Runner. Check it This Trick.]]></title>
+            <link>https://ilabacademy.blogspot.com/2021/04/hack-tips-chrome-dino-game-endless.html</link>
+            <guid>https://ilabacademy.blogspot.com/2021/04/hack-tips-chrome-dino-game-endless.html</guid>
+            <pubDate>Wed, 28 Apr 2021 13:51:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tutorial: How to create a basic cryptocurrency chart app with (near) real-time updating, by using React Hooks and Plotly]]></title>
+            <link>https://techika.com/2021/04/28/cryptocurrency-real-time-chart/</link>
+            <guid>https://techika.com/2021/04/28/cryptocurrency-real-time-chart/</guid>
+            <pubDate>Wed, 28 Apr 2021 14:46:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Contributing to GitLab and Lighthouse CI]]></title>
+            <link>https://candrews.integralblue.com/2021/04/contributing-to-gitlab-and-lighthouse-ci/</link>
+            <guid>https://candrews.integralblue.com/2021/04/contributing-to-gitlab-and-lighthouse-ci/</guid>
+            <pubDate>Wed, 28 Apr 2021 15:09:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What usage metrics and crash reports do you use for JavaScript libraries?]]></title>
+            <link>https://www.npmjs.com/package/@bugout/humbug</link>
+            <guid>https://www.npmjs.com/package/@bugout/humbug</guid>
+            <pubDate>Wed, 28 Apr 2021 18:39:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[JavaScript for Data Science]]></title>
+            <link>http://js4ds.org/</link>
+            <guid>http://js4ds.org/</guid>
+            <pubDate>Wed, 28 Apr 2021 18:07:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Enso 2.0 Syntax Reference is out! Enso is a visual / textual programming language with a seamless polyglot interoperability with Python, Java, R, and JavaScript. Written in Rust, Java, and GraalVM.]]></title>
@@ -33,16 +111,28 @@
             <pubDate>Wed, 28 Apr 2021 04:07:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Destructuring in JavaScript | Feedback appreciated]]></title>
-            <link>https://mark-omarov.medium.com/destructuring-in-javascript-fd28ace815ff</link>
-            <guid>https://mark-omarov.medium.com/destructuring-in-javascript-fd28ace815ff</guid>
-            <pubDate>Wed, 28 Apr 2021 05:12:12 GMT</pubDate>
+            <title><![CDATA[[AskJS] What do you think of my one click tool to generate unit test on simple functions?]]></title>
+            <link>https://playground.ponicode.com/unit-test</link>
+            <guid>https://playground.ponicode.com/unit-test</guid>
+            <pubDate>Wed, 28 Apr 2021 16:26:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Learn how some of the new features in JavaScript can help you write cleaner code.]]></title>
-            <link>https://deepsource.io/blog/javascript-code-quality-best-practices/</link>
-            <guid>https://deepsource.io/blog/javascript-code-quality-best-practices/</guid>
-            <pubDate>Wed, 28 Apr 2021 06:49:05 GMT</pubDate>
+            <title><![CDATA[Build an HTTPS-intercepting JavaScript proxy in 30 seconds flat]]></title>
+            <link>https://httptoolkit.tech/blog/javascript-mitm-proxy-mockttp/</link>
+            <guid>https://httptoolkit.tech/blog/javascript-mitm-proxy-mockttp/</guid>
+            <pubDate>Tue, 27 Apr 2021 14:26:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Basic understanding of "this" keyword in javascript]]></title>
+            <link>https://dev.to/hssanbzlm/javascript-basic-understanding-of-this-binding-40p9</link>
+            <guid>https://dev.to/hssanbzlm/javascript-basic-understanding-of-this-binding-40p9</guid>
+            <pubDate>Wed, 28 Apr 2021 21:47:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why People Are Afraid Of The DOM?]]></title>
+            <link>https://nicotsou.com/dom-issues/</link>
+            <guid>https://nicotsou.com/dom-issues/</guid>
+            <pubDate>Wed, 28 Apr 2021 21:09:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I created a tool to hide a short message in an image using EXIF GPS data. GitHub project link in the comments for more info, feedback appreciated!]]></title>
@@ -67,84 +157,6 @@
             <link>https://dev.to/brayanarrieta/new-javascript-features-ecmascript-2021-with-examples-3hfm</link>
             <guid>https://dev.to/brayanarrieta/new-javascript-features-ecmascript-2021-with-examples-3hfm</guid>
             <pubDate>Tue, 27 Apr 2021 20:15:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GLTF implementation based on WebGPU backend]]></title>
-            <link>https://github.com/Reon90/redcube</link>
-            <guid>https://github.com/Reon90/redcube</guid>
-            <pubDate>Tue, 27 Apr 2021 18:33:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Automatically Generate Changelog for your node.js projects (step by step)]]></title>
-            <link>https://dev.to/brayanarrieta/how-to-automatically-generate-changelog-for-your-node-js-projects-43jk</link>
-            <guid>https://dev.to/brayanarrieta/how-to-automatically-generate-changelog-for-your-node-js-projects-43jk</guid>
-            <pubDate>Tue, 27 Apr 2021 16:57:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Content-Aware Image Resizing in Go and JavaScript]]></title>
-            <link>https://www.tectalk.co/content-aware-image-resizing-in-go-and-javascript/</link>
-            <guid>https://www.tectalk.co/content-aware-image-resizing-in-go-and-javascript/</guid>
-            <pubDate>Tue, 27 Apr 2021 07:55:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Creating Keyboard shortcuts of combination of keys in JavaScript]]></title>
-            <link>https://www.amitmerchant.com/creating-keyboard-shortcuts-combination-keys-javascript/</link>
-            <guid>https://www.amitmerchant.com/creating-keyboard-shortcuts-combination-keys-javascript/</guid>
-            <pubDate>Tue, 27 Apr 2021 10:22:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is it prime? my React.js game]]></title>
-            <link>https://jeanp117.github.io/Is-it-prime/</link>
-            <guid>https://jeanp117.github.io/Is-it-prime/</guid>
-            <pubDate>Mon, 26 Apr 2021 10:28:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[slide-element, a ~500 byte (gzipped), jQuery-reminiscent library for sliding elements open & closed]]></title>
-            <link>https://github.com/alexmacarthur/slide-element</link>
-            <guid>https://github.com/alexmacarthur/slide-element</guid>
-            <pubDate>Tue, 27 Apr 2021 04:30:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AskJS] ISO: Best bin packing implementation in JS (2D)]]></title>
-            <link>https://github.com/jakesgordon/bin-packing</link>
-            <guid>https://github.com/jakesgordon/bin-packing</guid>
-            <pubDate>Tue, 27 Apr 2021 03:11:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Promisified node builtins]]></title>
-            <link>https://h3manth.com/new/blog/2021/promisified-node-built-ins/</link>
-            <guid>https://h3manth.com/new/blog/2021/promisified-node-built-ins/</guid>
-            <pubDate>Mon, 26 Apr 2021 20:31:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cross browser window state management]]></title>
-            <link>https://tobiasuhlig.medium.com/cross-browser-window-state-management-77bf837b6574?source=friends_link&amp;sk=c164f00034976283f28fd8a0ad361ba2</link>
-            <guid>https://tobiasuhlig.medium.com/cross-browser-window-state-management-77bf837b6574?source=friends_link&amp;sk=c164f00034976283f28fd8a0ad361ba2</guid>
-            <pubDate>Mon, 26 Apr 2021 06:05:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I made a 3d boids implementation]]></title>
-            <link>https://github.com/ercang/boids-js</link>
-            <guid>https://github.com/ercang/boids-js</guid>
-            <pubDate>Mon, 26 Apr 2021 13:45:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WebRTC Demystified: How to add audio/video call capabilities to your JS app]]></title>
-            <link>https://ullal-aaron.medium.com/what-powers-google-meet-and-microsoft-teams-webrtc-demystified-step-by-step-tutorial-e0cb422010f7</link>
-            <guid>https://ullal-aaron.medium.com/what-powers-google-meet-and-microsoft-teams-webrtc-demystified-step-by-step-tutorial-e0cb422010f7</guid>
-            <pubDate>Mon, 26 Apr 2021 16:58:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Infinite Scroll with React Hook]]></title>
-            <link>https://dev.to/anxinyang/infinite-scroll-with-react-hook-intersection-observer-img</link>
-            <guid>https://dev.to/anxinyang/infinite-scroll-with-react-hook-intersection-observer-img</guid>
-            <pubDate>Tue, 27 Apr 2021 00:08:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AskJS] Have I found a bug in the current Intl.DateTimeFormat implementation?]]></title>
-            <link>https://402.ecma-international.org/7.0/#table-datetimeformat-components</link>
-            <guid>https://402.ecma-international.org/7.0/#table-datetimeformat-components</guid>
-            <pubDate>Mon, 26 Apr 2021 11:20:06 GMT</pubDate>
         </item>
     </channel>
 </rss>

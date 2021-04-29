@@ -4,7 +4,7 @@
         <title>Serverless Status</title>
         <link>https://serverless.email/</link>
         <description>A weekly newsletter on serverless and function-as-a-service (FaaS) architectures and platforms including AWS Lambda and Azure Functions.</description>
-        <lastBuildDate>Sun, 25 Apr 2021 07:48:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Apr 2021 07:47:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -70,8 +70,8 @@
         </item>
         <item>
             <title><![CDATA[Going Serverless: A Case Study]]></title>
-            <link>https://www.youtube.com/watch?v=hG3D-Nl0y3A</link>
-            <guid>https://www.youtube.com/watch?v=hG3D-Nl0y3A</guid>
+            <link>https://m.youtube.com/watch?v=hG3D-Nl0y3A</link>
+            <guid>https://m.youtube.com/watch?v=hG3D-Nl0y3A</guid>
             <pubDate>Fri, 23 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>

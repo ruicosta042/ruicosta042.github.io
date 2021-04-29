@@ -4,105 +4,117 @@
         <title>Frontend Focus</title>
         <link>https://frontendfoc.us/</link>
         <description>A once–weekly roundup of the best front-end news, articles and tutorials. HTML, CSS, WebGL, Canvas, browser tech, and more.</description>
-        <lastBuildDate>Wed, 28 Apr 2021 07:47:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Apr 2021 07:46:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[An In-Depth Guide To Measuring Core Web Vitals]]></title>
-            <link>https://www.smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/</link>
-            <guid>https://www.smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/</guid>
-            <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors]]></title>
+            <link>https://www.smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/</link>
+            <guid>https://www.smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/</guid>
+            <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Introducing CSS Grid Inspector in Safari]]></title>
-            <link>https://webkit.org/blog/11588/introducing-css-grid-inspector/</link>
-            <guid>https://webkit.org/blog/11588/introducing-css-grid-inspector/</guid>
-            <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Getting Started with CSS Custom Properties]]></title>
+            <link>https://piccalil.li/tutorial/getting-started-with-css-custom-properties/</link>
+            <guid>https://piccalil.li/tutorial/getting-started-with-css-custom-properties/</guid>
+            <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['CSS is a Strongly Typed Language']]></title>
-            <link>https://css-tricks.com/css-is-a-strongly-typed-language/</link>
-            <guid>https://css-tricks.com/css-is-a-strongly-typed-language/</guid>
-            <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Generating and Solving Sudokus in CSS]]></title>
+            <link>https://css-tricks.com/generating-and-solving-sudokus-in-css/</link>
+            <guid>https://css-tricks.com/generating-and-solving-sudokus-in-css/</guid>
+            <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Resolving Overflow Issues in CSS]]></title>
-            <link>https://www.smashingmagazine.com/2021/04/css-overflow-issues/</link>
-            <guid>https://www.smashingmagazine.com/2021/04/css-overflow-issues/</guid>
-            <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to Bake Layers of Accessibility Testing Into Your Process]]></title>
+            <link>https://www.smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/</link>
+            <guid>https://www.smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/</guid>
+            <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Best Practices for Cookie Notices]]></title>
-            <link>https://web.dev/cookie-notice-best-practices/</link>
-            <guid>https://web.dev/cookie-notice-best-practices/</guid>
-            <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[The Complete Guide to Google's Core Web Vitals Performance Metrics]]></title>
+            <link>https://blog.asayer.io/the-complete-guide-to-google-s-core-web-vitals-performance-metrics/</link>
+            <guid>https://blog.asayer.io/the-complete-guide-to-google-s-core-web-vitals-performance-metrics/</guid>
+            <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Slow and Steady: Converting Sentry’s Entire Frontend to TypeScript]]></title>
-            <link>https://blog.sentry.io/2021/04/12/slow-and-steady-converting-sentrys-entire-frontend-to-typescript/?hss_channel=tw-464217126</link>
-            <guid>https://blog.sentry.io/2021/04/12/slow-and-steady-converting-sentrys-entire-frontend-to-typescript/?hss_channel=tw-464217126</guid>
-            <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[A Webpack Tutorial for Beginners: A Step-by-Step Guide]]></title>
+            <link>https://www.codeinwp.com/blog/webpack-tutorial-for-beginners/</link>
+            <guid>https://www.codeinwp.com/blog/webpack-tutorial-for-beginners/</guid>
+            <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Floating an Element to the Bottom Corner]]></title>
-            <link>https://css-tricks.com/float-an-element-to-the-bottom-corner/</link>
-            <guid>https://css-tricks.com/float-an-element-to-the-bottom-corner/</guid>
-            <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Customizing Tailwind CSS]]></title>
+            <link>https://allround.io/articles/customizing-tailwind-css</link>
+            <guid>https://allround.io/articles/customizing-tailwind-css</guid>
+            <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Real World CSS vs. CSS-in-JS Performance Comparison]]></title>
-            <link>https://pustelto.com/blog/css-vs-css-in-js-perf/</link>
-            <guid>https://pustelto.com/blog/css-vs-css-in-js-perf/</guid>
-            <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to Test Website Speed the Right Way]]></title>
+            <link>https://sematext.com/blog/measure-website-speed/</link>
+            <guid>https://sematext.com/blog/measure-website-speed/</guid>
+            <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Style Check: Audit The Effect of Different CSS Sources on Plain HTML Elements]]></title>
-            <link>https://style-check.austingil.com/</link>
-            <guid>https://style-check.austingil.com/</guid>
-            <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[The Making (and Potential Benefits) of a CSS Font]]></title>
+            <link>https://css-tricks.com/the-making-and-potential-benefits-of-a-css-font/</link>
+            <guid>https://css-tricks.com/the-making-and-potential-benefits-of-a-css-font/</guid>
+            <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Font Brief: Discover Fonts Based on Font Attributes]]></title>
-            <link>https://www.fontbrief.com/fontbrief</link>
-            <guid>https://www.fontbrief.com/fontbrief</guid>
-            <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Lighthouse Metrics: Global Performance Insights for Your Site]]></title>
+            <link>https://lighthouse-metrics.com/</link>
+            <guid>https://lighthouse-metrics.com/</guid>
+            <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Soft UI Dashboard: A Free Bootstrap 5 Dashboard]]></title>
-            <link>https://github.com/creativetimofficial/soft-ui-dashboard</link>
-            <guid>https://github.com/creativetimofficial/soft-ui-dashboard</guid>
-            <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Grid.js: An Advanced Table Control]]></title>
+            <link>https://gridjs.io/</link>
+            <guid>https://gridjs.io/</guid>
+            <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Alternative Tweet Embeds: Embed Tweets Without Compromising Your Users' Privacy and Your Site's Performance]]></title>
-            <link>https://alternative-twitter-embeds.glitch.me/</link>
-            <guid>https://alternative-twitter-embeds.glitch.me/</guid>
-            <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Uncut: An Open Source Typeface Catalogue, Focusing On Somewhat Contemporary Type]]></title>
+            <link>https://uncut.wtf/</link>
+            <guid>https://uncut.wtf/</guid>
+            <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sergey: A Tiny Static Site Generator]]></title>
-            <link>https://sergey.cool/</link>
-            <guid>https://sergey.cool/</guid>
-            <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[WinBox: An HTML5 Window Manager for the Web]]></title>
+            <link>https://nextapps-de.github.io/winbox/</link>
+            <guid>https://nextapps-de.github.io/winbox/</guid>
+            <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Best Approach to Lazy Load Images for Maximum Performance]]></title>
-            <link>https://codeadrian.hashnode.dev/the-best-approach-to-lazy-load-images-for-maximum-performance?guid=none&amp;deviceId=f0ffe6ef-18e6-4cfa-9501-796c66f9ebce</link>
-            <guid>https://codeadrian.hashnode.dev/the-best-approach-to-lazy-load-images-for-maximum-performance?guid=none&amp;deviceId=f0ffe6ef-18e6-4cfa-9501-796c66f9ebce</guid>
-            <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Inkline: A Customizable Vue.js UI/UX Library]]></title>
+            <link>https://inkline.io/</link>
+            <guid>https://inkline.io/</guid>
+            <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Debugging JavaScript Efficiently with Chrome DevTools]]></title>
-            <link>https://lo-victoria.com/debugging-javascript-efficiently-with-chrome-devtools?guid=none&amp;deviceId=aee995a4-721e-4a88-8594-ea3bcf0c7b89</link>
-            <guid>https://lo-victoria.com/debugging-javascript-efficiently-with-chrome-devtools?guid=none&amp;deviceId=aee995a4-721e-4a88-8594-ea3bcf0c7b89</guid>
-            <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[stylelint: A 'Mighty' Modern Style Linter]]></title>
+            <link>https://stylelint.io/</link>
+            <guid>https://stylelint.io/</guid>
+            <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Going “Meta GSAP”: The Quest for “Perfect” Infinite Scrolling]]></title>
-            <link>https://css-tricks.com/going-meta-gsap-the-quest-for-perfect-infinite-scrolling/</link>
-            <guid>https://css-tricks.com/going-meta-gsap-the-quest-for-perfect-infinite-scrolling/</guid>
-            <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to Style and Define The Color of Radio and Checkbox Inputs]]></title>
+            <link>https://www.stefanjudis.com/snippets/how-to-style-and-define-the-color-of-radio-and-checkbox-inputs/</link>
+            <guid>https://www.stefanjudis.com/snippets/how-to-style-and-define-the-color-of-radio-and-checkbox-inputs/</guid>
+            <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Build and Deploy a Responsive Gallery Portfolio using HTML and CSS]]></title>
+            <link>https://www.youtube.com/watch?v=exghLWA3ZIU</link>
+            <guid>https://www.youtube.com/watch?v=exghLWA3ZIU</guid>
+            <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Web Developer's Guide to AVIF Images]]></title>
+            <link>https://darekkay.com/blog/avif-images/</link>
+            <guid>https://darekkay.com/blog/avif-images/</guid>
+            <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

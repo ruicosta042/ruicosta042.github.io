@@ -4,7 +4,7 @@
         <title>JavaScript Weekly</title>
         <link>https://javascriptweekly.com/</link>
         <description>A newsletter of JavaScript articles, news and cool projects</description>
-        <lastBuildDate>Thu, 29 Apr 2021 07:46:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Apr 2021 07:49:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -16,8 +16,8 @@
         </item>
         <item>
             <title><![CDATA[Node.js 16 Released]]></title>
-            <link>https://nodejs.medium.com/node-js-16-available-now-7f5099a97e70</link>
-            <guid>https://nodejs.medium.com/node-js-16-available-now-7f5099a97e70</guid>
+            <link>https://medium.com/the-node-js-collection/node-js-16-available-now-7f5099a97e70</link>
+            <guid>https://medium.com/the-node-js-collection/node-js-16-available-now-7f5099a97e70</guid>
             <pubDate>Fri, 23 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -40,14 +40,14 @@
         </item>
         <item>
             <title><![CDATA[Debugging JavaScript Efficiently with Chrome DevTools]]></title>
-            <link>https://lo-victoria.com/debugging-javascript-efficiently-with-chrome-devtools?guid=none&amp;deviceId=62eb5559-c744-416e-8d68-31635e699242</link>
-            <guid>https://lo-victoria.com/debugging-javascript-efficiently-with-chrome-devtools?guid=none&amp;deviceId=62eb5559-c744-416e-8d68-31635e699242</guid>
+            <link>https://lo-victoria.com/debugging-javascript-efficiently-with-chrome-devtools?guid=none&amp;deviceId=b13f8c90-f96c-4ead-9fdc-b41232406bd6</link>
+            <guid>https://lo-victoria.com/debugging-javascript-efficiently-with-chrome-devtools?guid=none&amp;deviceId=b13f8c90-f96c-4ead-9fdc-b41232406bd6</guid>
             <pubDate>Fri, 23 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Five Key Lessons React Tutorials Don't Teach]]></title>
-            <link>https://reedbarger.hashnode.dev/5-key-lessons-react-tutorials-dont-teach?guid=none&amp;deviceId=7b62345e-53eb-4b3b-8c2e-f0297d063c14</link>
-            <guid>https://reedbarger.hashnode.dev/5-key-lessons-react-tutorials-dont-teach?guid=none&amp;deviceId=7b62345e-53eb-4b3b-8c2e-f0297d063c14</guid>
+            <link>https://reedbarger.hashnode.dev/5-key-lessons-react-tutorials-dont-teach?guid=none&amp;deviceId=65179d62-80d2-40a4-b4b2-95484b5e6603</link>
+            <guid>https://reedbarger.hashnode.dev/5-key-lessons-react-tutorials-dont-teach?guid=none&amp;deviceId=65179d62-80d2-40a4-b4b2-95484b5e6603</guid>
             <pubDate>Fri, 23 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>

@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Thu, 29 Apr 2021 07:47:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Apr 2021 07:49:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,16 +15,10 @@
             <pubDate>Thu, 01 Apr 2021 06:19:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Visual Guide To React Mental Models]]></title>
-            <link>https://obedparla.com/code/a-visual-guide-to-react-mental-models/</link>
-            <guid>https://obedparla.com/code/a-visual-guide-to-react-mental-models/</guid>
-            <pubDate>Wed, 28 Apr 2021 13:26:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Next.js 10.2 – Improved Performance, Accessibility, and Automatic Webfont Optimization]]></title>
-            <link>https://nextjs.org/10-2</link>
-            <guid>https://nextjs.org/10-2</guid>
-            <pubDate>Wed, 28 Apr 2021 14:56:37 GMT</pubDate>
+            <title><![CDATA[useStateMachine - a ½ kb state machine hook for React]]></title>
+            <link>https://github.com/cassiozen/useStateMachine</link>
+            <guid>https://github.com/cassiozen/useStateMachine</guid>
+            <pubDate>Fri, 30 Apr 2021 00:51:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Free ultimate React resources. Zero to Hero in React]]></title>
@@ -33,34 +27,70 @@
             <pubDate>Thu, 29 Apr 2021 07:41:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I wrote a library for handling wizard forms in React]]></title>
-            <link>https://github.com/sbacic/react-wizard</link>
-            <guid>https://github.com/sbacic/react-wizard</guid>
-            <pubDate>Wed, 28 Apr 2021 18:34:14 GMT</pubDate>
+            <title><![CDATA[Use a mock server to build the frontend while the backend is being implemented]]></title>
+            <link>https://medium.com/python-geek/youre-developing-your-api-clients-the-wrong-way-3e7b4ff4d7e8?sk=716e627879edf9e4dd6c9cfe9ccfff24</link>
+            <guid>https://medium.com/python-geek/youre-developing-your-api-clients-the-wrong-way-3e7b4ff4d7e8?sk=716e627879edf9e4dd6c9cfe9ccfff24</guid>
+            <pubDate>Thu, 29 Apr 2021 19:10:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Logzone: a package to print pretty log messages. you can use predefined or customize your own!]]></title>
-            <link>https://www.npmjs.com/package/logzone</link>
-            <guid>https://www.npmjs.com/package/logzone</guid>
-            <pubDate>Thu, 29 Apr 2021 01:35:30 GMT</pubDate>
+            <title><![CDATA[Want to test your components but the backend is not ready to serve the data? Try Mock backend.]]></title>
+            <link>https://blog.graphqleditor.com/guide-mock-backend/</link>
+            <guid>https://blog.graphqleditor.com/guide-mock-backend/</guid>
+            <pubDate>Thu, 29 Apr 2021 13:50:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[react hook for scheduling a callback function for later render]]></title>
-            <link>https://www.npmjs.com/package/react-use-call-onnext-render</link>
-            <guid>https://www.npmjs.com/package/react-use-call-onnext-render</guid>
-            <pubDate>Wed, 28 Apr 2021 17:16:42 GMT</pubDate>
+            <title><![CDATA[background-image CSS not applying after build?]]></title>
+            <link>https://github.com/AvantGov/resume</link>
+            <guid>https://github.com/AvantGov/resume</guid>
+            <pubDate>Fri, 30 Apr 2021 06:28:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ component for your React project: react-color-palette]]></title>
-            <link>https://github.com/Wondermarin/react-color-palette</link>
-            <guid>https://github.com/Wondermarin/react-color-palette</guid>
-            <pubDate>Wed, 28 Apr 2021 18:10:27 GMT</pubDate>
+            <title><![CDATA[JavaScript based Windows XP recreation (Concept 2021)]]></title>
+            <link>https://rebornxp.js.org/</link>
+            <guid>https://rebornxp.js.org/</guid>
+            <pubDate>Fri, 30 Apr 2021 05:39:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NextAuth Hasura Refresh Tokens]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Wed, 28 Apr 2021 17:38:11 GMT</pubDate>
+            <title><![CDATA[I created an alternative to Omegle with some interesting additions. What do you think about this?]]></title>
+            <link>https://boger.js.org/</link>
+            <guid>https://boger.js.org/</guid>
+            <pubDate>Thu, 29 Apr 2021 17:12:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FireQuery, Firebase React Hooks]]></title>
+            <link>https://github.com/LeulAria/FireQuery</link>
+            <guid>https://github.com/LeulAria/FireQuery</guid>
+            <pubDate>Thu, 29 Apr 2021 16:20:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wants to use Hotjar's API safely through React's environment?]]></title>
+            <link>https://github.com/olavoparno/react-use-hotjar</link>
+            <guid>https://github.com/olavoparno/react-use-hotjar</guid>
+            <pubDate>Thu, 29 Apr 2021 22:00:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is there a way to select if an instance of an object is created?]]></title>
+            <link>http://www.domain.com/query/book123</link>
+            <guid>http://www.domain.com/query/book123</guid>
+            <pubDate>Thu, 29 Apr 2021 23:20:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Question on testing hooks with enzyme (or any other testing library if they would work better)]]></title>
+            <link>https://www.reactnative.guide/7-testing/7.3-enzyme-testing.html</link>
+            <guid>https://www.reactnative.guide/7-testing/7.3-enzyme-testing.html</guid>
+            <pubDate>Thu, 29 Apr 2021 18:46:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Visual Guide To React Mental Models]]></title>
+            <link>https://obedparla.com/code/a-visual-guide-to-react-mental-models/</link>
+            <guid>https://obedparla.com/code/a-visual-guide-to-react-mental-models/</guid>
+            <pubDate>Wed, 28 Apr 2021 13:26:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fire Query, a react firebase hooks (alpha)]]></title>
+            <link>https://github.com/LeulAria/FireQuery</link>
+            <guid>https://github.com/LeulAria/FireQuery</guid>
+            <pubDate>Thu, 29 Apr 2021 16:51:10 GMT</pubDate>
         </item>
     </channel>
 </rss>

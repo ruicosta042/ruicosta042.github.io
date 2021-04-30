@@ -4,39 +4,81 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Thu, 29 Apr 2021 07:47:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Apr 2021 07:49:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Build a course management REST API]]></title>
-            <link>https://catalins.tech/build-a-rest-api-with-harperdb-and-fastifyjs</link>
-            <guid>https://catalins.tech/build-a-rest-api-with-harperdb-and-fastifyjs</guid>
-            <pubDate>Thu, 29 Apr 2021 04:42:12 GMT</pubDate>
+            <title><![CDATA[The Complete MERN Stack Development course 2021 - free course from udemy]]></title>
+            <link>https://www.myfreeonlinecourses.com/2021/04/100-off-complete-mern-stack-development.html</link>
+            <guid>https://www.myfreeonlinecourses.com/2021/04/100-off-complete-mern-stack-development.html</guid>
+            <pubDate>Thu, 29 Apr 2021 16:44:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[libuv in Node.js]]></title>
-            <link>https://www.thesystemsprogrammer.com/posts/how-does-event-driven-programming-even-work</link>
-            <guid>https://www.thesystemsprogrammer.com/posts/how-does-event-driven-programming-even-work</guid>
-            <pubDate>Wed, 28 Apr 2021 03:59:12 GMT</pubDate>
+            <title><![CDATA[Feature flags with rollout percentage for Node.js apps]]></title>
+            <link>https://github.com/cdimascio/flagger-on</link>
+            <guid>https://github.com/cdimascio/flagger-on</guid>
+            <pubDate>Fri, 30 Apr 2021 07:13:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Intro to OpenAPI: Swagger, the spec, code generation and monitoring]]></title>
-            <link>https://www.checklyhq.com/guides/openapi-swagger/</link>
-            <guid>https://www.checklyhq.com/guides/openapi-swagger/</guid>
-            <pubDate>Wed, 28 Apr 2021 13:07:03 GMT</pubDate>
+            <title><![CDATA[Learn, What’s New in Node v16?]]></title>
+            <link>https://nodejs.org/en/about/releases/</link>
+            <guid>https://nodejs.org/en/about/releases/</guid>
+            <pubDate>Fri, 30 Apr 2021 05:40:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Build an HTTPS-intercepting JavaScript proxy in 30 seconds flat]]></title>
-            <link>https://httptoolkit.tech/blog/javascript-mitm-proxy-mockttp/</link>
-            <guid>https://httptoolkit.tech/blog/javascript-mitm-proxy-mockttp/</guid>
-            <pubDate>Tue, 27 Apr 2021 14:26:59 GMT</pubDate>
+            <title><![CDATA[Javascript News 5th Week(Apr) – Redux v4.1.0, Angular 12 improvements, React 17 adds support for KeyboardEvent.code, Redux from Scratch - The ArrowFn]]></title>
+            <link>https://thearrowfn.com/javascript-news-5th-weekapr-redux-v4-1-0-angular-12-improvements-react-17-adds-support-for-keyboardevent-code-redux-from-scratch/</link>
+            <guid>https://thearrowfn.com/javascript-news-5th-weekapr-redux-v4-1-0-angular-12-improvements-react-17-adds-support-for-keyboardevent-code-redux-from-scratch/</guid>
+            <pubDate>Fri, 30 Apr 2021 05:39:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Node transform stream stop without any event firing or giving error]]></title>
-            <link>http://stackoverflow.com/questions/67297199/node-stream-stops-with-out-any-error-or-event-firing</link>
-            <guid>http://stackoverflow.com/questions/67297199/node-stream-stops-with-out-any-error-or-event-firing</guid>
-            <pubDate>Wed, 28 Apr 2021 09:39:42 GMT</pubDate>
+            <title><![CDATA[Set Data Structure in Javascript]]></title>
+            <link>https://link.medium.com/vxPw4oOXRfb</link>
+            <guid>https://link.medium.com/vxPw4oOXRfb</guid>
+            <pubDate>Fri, 30 Apr 2021 05:27:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Monorepo or not?]]></title>
+            <link>https://github.com/kaviarjs/kaviar</link>
+            <guid>https://github.com/kaviarjs/kaviar</guid>
+            <pubDate>Fri, 30 Apr 2021 05:11:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[how to deploy an app built with react.js and strapi on namecheap.com]]></title>
+            <link>https://namecheap.com/</link>
+            <guid>https://namecheap.com/</guid>
+            <pubDate>Fri, 30 Apr 2021 00:14:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Do I Design this Schema?]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Thu, 29 Apr 2021 21:59:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Webpage lifecycle and socket.io client disconnection]]></title>
+            <link>http://socket.io/</link>
+            <guid>http://socket.io/</guid>
+            <pubDate>Thu, 29 Apr 2021 13:23:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[object methods not showing on client side]]></title>
+            <link>https://socket.io/</link>
+            <guid>https://socket.io/</guid>
+            <pubDate>Thu, 29 Apr 2021 13:07:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CLI Streaming Player for the nerd in you]]></title>
+            <link>https://github.com/mugendi/geek-play</link>
+            <guid>https://github.com/mugendi/geek-play</guid>
+            <pubDate>Thu, 29 Apr 2021 09:15:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTF Eventloop?]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Thu, 29 Apr 2021 21:28:12 GMT</pubDate>
         </item>
     </channel>
 </rss>

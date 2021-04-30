@@ -4,99 +4,111 @@
         <title>Node Weekly</title>
         <link>https://nodeweekly.com/</link>
         <description>A free, once–weekly e-mail round-up of Node.js news and articles.</description>
-        <lastBuildDate>Fri, 23 Apr 2021 07:48:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Apr 2021 07:49:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Node.js 16 Available Now]]></title>
-            <link>https://nodejs.medium.com/node-js-16-available-now-7f5099a97e70</link>
-            <guid>https://nodejs.medium.com/node-js-16-available-now-7f5099a97e70</guid>
-            <pubDate>Thu, 22 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to Use ECMAScript Modules in Node]]></title>
+            <link>https://dmitripavlutin.com/ecmascript-modules-nodejs/</link>
+            <guid>https://dmitripavlutin.com/ecmascript-modules-nodejs/</guid>
+            <pubDate>Thu, 29 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Prisma ORM Toolkit Now 'Ready For Production']]></title>
-            <link>https://www.prisma.io/blog/prisma-the-complete-orm-inw24qjeawmb</link>
-            <guid>https://www.prisma.io/blog/prisma-the-complete-orm-inw24qjeawmb</guid>
-            <pubDate>Thu, 22 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[What's Next? The Future of Node.js]]></title>
+            <link>https://www.youtube.com/watch?v=vrnToZP47Ro</link>
+            <guid>https://www.youtube.com/watch?v=vrnToZP47Ro</guid>
+            <pubDate>Thu, 29 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Web Performance Recipes with Puppeteer]]></title>
-            <link>https://addyosmani.com/blog/puppeteer-recipes/</link>
-            <guid>https://addyosmani.com/blog/puppeteer-recipes/</guid>
-            <pubDate>Thu, 22 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Do You Use Node for Scripting Instead of bash?]]></title>
+            <link>https://lobste.rs/s/bsv2yp/do_you_use_nodejs_for_scripting_instead</link>
+            <guid>https://lobste.rs/s/bsv2yp/do_you_use_nodejs_for_scripting_instead</guid>
+            <pubDate>Thu, 29 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Three Services Where You Can Deploy a Node App for Free]]></title>
-            <link>https://blog.logrocket.com/free-services-deploy-node-js-app/</link>
-            <guid>https://blog.logrocket.com/free-services-deploy-node-js-app/</guid>
-            <pubDate>Thu, 22 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[tinyhttp 1.3: A Tiny Web Framework as a Replacement for Express]]></title>
+            <link>https://github.com/talentlessguy/tinyhttp</link>
+            <guid>https://github.com/talentlessguy/tinyhttp</guid>
+            <pubDate>Thu, 29 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to Convert HTML to an Image with Puppeteer from Node]]></title>
-            <link>https://cheatcode.co/tutorials/how-to-convert-html-to-an-image-using-puppeteer-in-node-js</link>
-            <guid>https://cheatcode.co/tutorials/how-to-convert-html-to-an-image-using-puppeteer-in-node-js</guid>
-            <pubDate>Thu, 22 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[My Favorite Microservice Design Patterns for Node]]></title>
+            <link>https://blog.bitsrc.io/my-favorite-microservice-design-patterns-for-node-js-fe048c635d83</link>
+            <guid>https://blog.bitsrc.io/my-favorite-microservice-design-patterns-for-node-js-fe048c635d83</guid>
+            <pubDate>Thu, 29 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mongoose Internals: Schemas, Schema Options, and Models]]></title>
-            <link>https://thecodebarbarian.com/mongoose-internals-schemas-options-models.html</link>
-            <guid>https://thecodebarbarian.com/mongoose-internals-schemas-options-models.html</guid>
-            <pubDate>Thu, 22 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to Find Unused npm Dependencies]]></title>
+            <link>https://joshtronic.com/2021/04/25/find-unused-npm-dependencies/</link>
+            <guid>https://joshtronic.com/2021/04/25/find-unused-npm-dependencies/</guid>
+            <pubDate>Thu, 29 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Work with GitHub Actions in Your Terminal with GitHub CLI]]></title>
-            <link>https://github.blog/2021-04-15-work-with-github-actions-in-your-terminal-with-github-cli/</link>
-            <guid>https://github.blog/2021-04-15-work-with-github-actions-in-your-terminal-with-github-cli/</guid>
-            <pubDate>Thu, 22 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Building a Realtime Chat App with React, Node.js, and Socket.io]]></title>
+            <link>https://www.youtube.com/watch?v=HggSXt1Hzfk</link>
+            <guid>https://www.youtube.com/watch?v=HggSXt1Hzfk</guid>
+            <pubDate>Thu, 29 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Volta 1.0.4: The JavaScript Tool Installer and Launcher]]></title>
-            <link>https://volta.sh/</link>
-            <guid>https://volta.sh/</guid>
-            <pubDate>Thu, 22 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[You Need To See These ES12 (ECMAScript 2021) Features]]></title>
+            <link>https://www.youtube.com/watch?v=1hFGxkJcTHU</link>
+            <guid>https://www.youtube.com/watch?v=1hFGxkJcTHU</guid>
+            <pubDate>Thu, 29 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[terminal-link 3.0: Create Clickable Links in the Terminal]]></title>
-            <link>https://github.com/sindresorhus/terminal-link</link>
-            <guid>https://github.com/sindresorhus/terminal-link</guid>
-            <pubDate>Thu, 22 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Foal: A TypeScript-Based All-Inclusive Web Framework for Node]]></title>
+            <link>https://foalts.org/</link>
+            <guid>https://foalts.org/</guid>
+            <pubDate>Thu, 29 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[dbgr: A New Lightweight 'Debugger' for Node]]></title>
-            <link>https://github.com/privatenumber/dbgr</link>
-            <guid>https://github.com/privatenumber/dbgr</guid>
-            <pubDate>Thu, 22 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[ioredis 4.27: A Performance Focused Redis Client for Node]]></title>
+            <link>https://github.com/luin/ioredis</link>
+            <guid>https://github.com/luin/ioredis</guid>
+            <pubDate>Thu, 29 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pure C++ Node.js Bindings for RocksDB 5.0]]></title>
-            <link>https://github.com/Level/rocksdb</link>
-            <guid>https://github.com/Level/rocksdb</guid>
-            <pubDate>Thu, 22 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[A Node Wrapper for the Tesseract OCR API]]></title>
+            <link>https://github.com/zapolnoch/node-tesseract-ocr</link>
+            <guid>https://github.com/zapolnoch/node-tesseract-ocr</guid>
+            <pubDate>Thu, 29 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Complete Guide To Incremental Static Regeneration (ISR) with Next.js]]></title>
-            <link>https://www.smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/</link>
-            <guid>https://www.smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/</guid>
-            <pubDate>Thu, 22 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[functions-differ: Deploy Only the Firebase Functions That Changed]]></title>
+            <link>https://github.com/haroldadmin/functions-differ</link>
+            <guid>https://github.com/haroldadmin/functions-differ</guid>
+            <pubDate>Thu, 29 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[PDF to Printer 2.0: Print PDF Files from Node and Electron]]></title>
-            <link>https://github.com/artiebits/pdf-to-printer</link>
-            <guid>https://github.com/artiebits/pdf-to-printer</guid>
-            <pubDate>Thu, 22 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[snakecase-keys: Convert an Object's Keys to snake_case]]></title>
+            <link>https://github.com/bendrucker/snakecase-keys</link>
+            <guid>https://github.com/bendrucker/snakecase-keys</guid>
+            <pubDate>Thu, 29 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[supports-color 9.0: Detect Whether a Terminal Supports Color]]></title>
-            <link>https://github.com/chalk/supports-color</link>
-            <guid>https://github.com/chalk/supports-color</guid>
-            <pubDate>Thu, 22 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Build An HTTPS-Intercepting JavaScript Proxy in 30 Seconds Flat]]></title>
+            <link>https://httptoolkit.tech/blog/javascript-mitm-proxy-mockttp/</link>
+            <guid>https://httptoolkit.tech/blog/javascript-mitm-proxy-mockttp/</guid>
+            <pubDate>Thu, 29 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[node-express-boilerplate: A Boilerplate for Building Production-Ready RESTful APIs with Express and Mongoose]]></title>
-            <link>https://github.com/hagopj13/node-express-boilerplate</link>
-            <guid>https://github.com/hagopj13/node-express-boilerplate</guid>
-            <pubDate>Thu, 22 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to Use Binary UUIDs in Prisma]]></title>
+            <link>https://hinty.io/ivictbor/how-to-use-binary-uuids-in-prisma/</link>
+            <guid>https://hinty.io/ivictbor/how-to-use-binary-uuids-in-prisma/</guid>
+            <pubDate>Thu, 29 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ask HN: Is Learning Go Worth It If You Know Node?]]></title>
+            <link>https://news.ycombinator.com/item?id=26939626</link>
+            <guid>https://news.ycombinator.com/item?id=26939626</guid>
+            <pubDate>Thu, 29 Apr 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[pkg 5.1.0: Package Your Node Project Into an Executable]]></title>
+            <link>https://github.com/vercel/pkg</link>
+            <guid>https://github.com/vercel/pkg</guid>
+            <pubDate>Thu, 29 Apr 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

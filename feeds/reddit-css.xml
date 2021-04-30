@@ -4,15 +4,45 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Thu, 29 Apr 2021 07:47:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Apr 2021 07:49:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[The Complete Guide to CSS Position — static, relative, absolute, fixed, and sticky]]></title>
+            <link>https://codecrunch.org/css-position-23ad6d0cc5f9</link>
+            <guid>https://codecrunch.org/css-position-23ad6d0cc5f9</guid>
+            <pubDate>Fri, 30 Apr 2021 07:20:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[font-display: swap --> not working on my site! What am I doing wrong here?]]></title>
+            <link>https://nextlevelartwork.com/</link>
+            <guid>https://nextlevelartwork.com/</guid>
+            <pubDate>Fri, 30 Apr 2021 01:49:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SASS in 5 minutes: All in one]]></title>
+            <link>https://frontendz.com/2020/09/18/sass-in-5-minutes-all-in-one/</link>
+            <guid>https://frontendz.com/2020/09/18/sass-in-5-minutes-all-in-one/</guid>
+            <pubDate>Thu, 29 Apr 2021 16:29:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[fit-content and fit-content()]]></title>
+            <link>https://www.quirksmode.org/blog/archives/2021/04/fitcontent_and.html</link>
+            <guid>https://www.quirksmode.org/blog/archives/2021/04/fitcontent_and.html</guid>
+            <pubDate>Thu, 29 Apr 2021 12:56:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How Flexbox works — explained with big, colorful, animated gifs]]></title>
             <link>https://www.freecodecamp.org/news/an-animated-guide-to-flexbox-d280cf6afc35/</link>
             <guid>https://www.freecodecamp.org/news/an-animated-guide-to-flexbox-d280cf6afc35/</guid>
             <pubDate>Thu, 29 Apr 2021 01:01:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How do you put a position: absolute  at the top of the page?]]></title>
+            <link>https://stackoverflow.com/questions/5104093/css-absolute-position-an-inner-div-to-the-top-of-the-page-ignoring-parents-relat</link>
+            <guid>https://stackoverflow.com/questions/5104093/css-absolute-position-an-inner-div-to-the-top-of-the-page-ignoring-parents-relat</guid>
+            <pubDate>Thu, 29 Apr 2021 21:03:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is this CSS or a video played back and forth?]]></title>
@@ -21,16 +51,16 @@
             <pubDate>Wed, 28 Apr 2021 21:48:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Simple arrow text symbol copy/paste picker]]></title>
-            <link>http://www.psd-dude.com/tutorials/resources/arrow-symbol.aspx</link>
-            <guid>http://www.psd-dude.com/tutorials/resources/arrow-symbol.aspx</guid>
-            <pubDate>Wed, 28 Apr 2021 18:27:29 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Weird error on Edge Mobile for my portfolio website]]></title>
             <link>https://darenlobo.me/</link>
             <guid>https://darenlobo.me/</guid>
             <pubDate>Wed, 28 Apr 2021 18:11:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Simple arrow text symbol copy/paste picker]]></title>
+            <link>http://www.psd-dude.com/tutorials/resources/arrow-symbol.aspx</link>
+            <guid>http://www.psd-dude.com/tutorials/resources/arrow-symbol.aspx</guid>
+            <pubDate>Wed, 28 Apr 2021 18:27:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A collection of front-end debugging script snippets to be used in the Sources panel in Chrome DevTools.]]></title>
@@ -61,24 +91,6 @@
             <link>https://ishadeed.com/article/practical-css-variables/</link>
             <guid>https://ishadeed.com/article/practical-css-variables/</guid>
             <pubDate>Tue, 27 Apr 2021 18:45:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Styles For Individual Bullet Points]]></title>
-            <link>https://web.dev/css-marker-pseudo-element/</link>
-            <guid>https://web.dev/css-marker-pseudo-element/</guid>
-            <pubDate>Wed, 28 Apr 2021 04:25:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors]]></title>
-            <link>https://www.smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/</link>
-            <guid>https://www.smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/</guid>
-            <pubDate>Tue, 27 Apr 2021 07:33:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Problem with grid positioning]]></title>
-            <link>http://www.vseppe.gc-m.be/Gip/test.html</link>
-            <guid>http://www.vseppe.gc-m.be/Gip/test.html</guid>
-            <pubDate>Tue, 27 Apr 2021 13:17:48 GMT</pubDate>
         </item>
     </channel>
 </rss>

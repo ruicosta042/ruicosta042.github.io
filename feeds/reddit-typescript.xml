@@ -4,10 +4,16 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Thu, 29 Apr 2021 07:47:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Apr 2021 07:49:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[A JavaScript optimizing compiler: JavaScript -> TypeScript -> C++ -> JavaScript]]></title>
+            <link>https://medium.com/leaningtech/a-javascript-optimizing-compiler-3fd3f49bd071</link>
+            <guid>https://medium.com/leaningtech/a-javascript-optimizing-compiler-3fd3f49bd071</guid>
+            <pubDate>Thu, 29 Apr 2021 11:43:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Writing better TypeScript]]></title>
             <link>https://stefan-bauer.online/writing-better-type-script/</link>
@@ -55,30 +61,6 @@
             <link>https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/gradient-parser/index.d.ts</link>
             <guid>https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/gradient-parser/index.d.ts</guid>
             <pubDate>Tue, 27 Apr 2021 10:35:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Help needed]]></title>
-            <link>https://stackoverflow.com/questions/67268590/typescript-types-of-payloadaction</link>
-            <guid>https://stackoverflow.com/questions/67268590/typescript-types-of-payloadaction</guid>
-            <pubDate>Mon, 26 Apr 2021 20:32:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Minimalistic node typescrit boilerplate]]></title>
-            <link>https://github.com/MaximilianHagelstam/ts-node-starter</link>
-            <guid>https://github.com/MaximilianHagelstam/ts-node-starter</guid>
-            <pubDate>Mon, 26 Apr 2021 13:43:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Argument of type 'Instance' is not assignable to parameter of type 'string'.ts(2345)]]></title>
-            <link>https://www.npmjs.com/package/tinycolor2</link>
-            <guid>https://www.npmjs.com/package/tinycolor2</guid>
-            <pubDate>Mon, 26 Apr 2021 13:19:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Making typescript aware of this methods set in a constructor?]]></title>
-            <link>https://this.email/</link>
-            <guid>https://this.email/</guid>
-            <pubDate>Mon, 26 Apr 2021 13:52:29 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,22 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Fri, 30 Apr 2021 07:49:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 May 2021 07:49:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[why am I getting a linting error here?]]></title>
+            <link>https://www.typescriptlang.org/play?#code/MYewdgzgLgBCBGArGBeGBvAUDHMCCAXBtrqQEJFanW4DCRAjADQk0C+LpHmbA3KzUGkBQoZlCRYtGEQBEtWanmz+48NBgA3AIYAbVHCQA6PAG1ZZWQF1TtK6oCmADwAOIAE6woATxcP8Bj5+IABmhogm5pY2dvyi8TBAA</link>
+            <guid>https://www.typescriptlang.org/play?#code/MYewdgzgLgBCBGArGBeGBvAUDHMCCAXBtrqQEJFanW4DCRAjADQk0C+LpHmbA3KzUGkBQoZlCRYtGEQBEtWanmz+48NBgA3AIYAbVHCQA6PAG1ZZWQF1TtK6oCmADwAOIAE6woATxcP8Bj5+IABmhogm5pY2dvyi8TBAA</guid>
+            <pubDate>Sat, 01 May 2021 06:41:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[…and naming things; Tailwind CSS, Typescript and mammals]]></title>
+            <link>https://kristiandupont.medium.com/and-naming-things-tailwind-css-typescript-and-mammals-9eab459633d2</link>
+            <guid>https://kristiandupont.medium.com/and-naming-things-tailwind-css-typescript-and-mammals-9eab459633d2</guid>
+            <pubDate>Fri, 30 Apr 2021 12:48:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A JavaScript optimizing compiler: JavaScript -> TypeScript -> C++ -> JavaScript]]></title>
             <link>https://medium.com/leaningtech/a-javascript-optimizing-compiler-3fd3f49bd071</link>
@@ -55,12 +67,6 @@
             <link>https://alexisbouchez.com/posts/implement-a-binary-tree-using-typescript</link>
             <guid>https://alexisbouchez.com/posts/implement-a-binary-tree-using-typescript</guid>
             <pubDate>Tue, 27 Apr 2021 18:11:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TS2339: Property 'length' does not exist on type 'HexNode'. How do I extend & merge local types & downloaded TS types?]]></title>
-            <link>https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/gradient-parser/index.d.ts</link>
-            <guid>https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/gradient-parser/index.d.ts</guid>
-            <pubDate>Tue, 27 Apr 2021 10:35:46 GMT</pubDate>
         </item>
     </channel>
 </rss>

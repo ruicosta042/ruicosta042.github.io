@@ -4,21 +4,45 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Fri, 30 Apr 2021 07:49:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 May 2021 07:49:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[The Complete Guide to CSS Position — static, relative, absolute, fixed, and sticky]]></title>
-            <link>https://codecrunch.org/css-position-23ad6d0cc5f9</link>
-            <guid>https://codecrunch.org/css-position-23ad6d0cc5f9</guid>
-            <pubDate>Fri, 30 Apr 2021 07:20:39 GMT</pubDate>
+            <title><![CDATA[Feedback on my first website for a client?]]></title>
+            <link>https://www.dmabrahams.com/latest/index</link>
+            <guid>https://www.dmabrahams.com/latest/index</guid>
+            <pubDate>Fri, 30 Apr 2021 22:32:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How can I get a table to format in Gmail?]]></title>
+            <link>https://github.com/clyall/FormEmailer</link>
+            <guid>https://github.com/clyall/FormEmailer</guid>
+            <pubDate>Fri, 30 Apr 2021 18:25:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blocked scroll on mobile after pressing "ADD TO CART" button -- any idea why this would happen?]]></title>
+            <link>https://nextlevelartwork.com/</link>
+            <guid>https://nextlevelartwork.com/</guid>
+            <pubDate>Fri, 30 Apr 2021 18:11:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dark Mode with Style Dictionary]]></title>
+            <link>https://dbanks.design/blog/dark-mode-with-style-dictionary/</link>
+            <guid>https://dbanks.design/blog/dark-mode-with-style-dictionary/</guid>
+            <pubDate>Fri, 30 Apr 2021 13:29:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[font-display: swap --> not working on my site! What am I doing wrong here?]]></title>
             <link>https://nextlevelartwork.com/</link>
             <guid>https://nextlevelartwork.com/</guid>
             <pubDate>Fri, 30 Apr 2021 01:49:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Complete Guide to CSS Position — static, relative, absolute, fixed, and sticky]]></title>
+            <link>https://codecrunch.org/css-position-23ad6d0cc5f9</link>
+            <guid>https://codecrunch.org/css-position-23ad6d0cc5f9</guid>
+            <pubDate>Fri, 30 Apr 2021 07:20:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SASS in 5 minutes: All in one]]></title>
@@ -57,40 +81,10 @@
             <pubDate>Wed, 28 Apr 2021 18:11:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Simple arrow text symbol copy/paste picker]]></title>
-            <link>http://www.psd-dude.com/tutorials/resources/arrow-symbol.aspx</link>
-            <guid>http://www.psd-dude.com/tutorials/resources/arrow-symbol.aspx</guid>
-            <pubDate>Wed, 28 Apr 2021 18:27:29 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A collection of front-end debugging script snippets to be used in the Sources panel in Chrome DevTools.]]></title>
             <link>https://github.com/matuzo/DevToolsSnippets</link>
             <guid>https://github.com/matuzo/DevToolsSnippets</guid>
             <pubDate>Wed, 28 Apr 2021 13:23:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Do you have to pay license fees to use "web-safe" fonts like arial, helvetica, etc commercially in a website?]]></title>
-            <link>https://www.fonts.com/font/monotype/arial/licenses</link>
-            <guid>https://www.fonts.com/font/monotype/arial/licenses</guid>
-            <pubDate>Wed, 28 Apr 2021 16:00:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Complete Guide to Custom Properties]]></title>
-            <link>https://css-tricks.com/a-complete-guide-to-custom-properties/</link>
-            <guid>https://css-tricks.com/a-complete-guide-to-custom-properties/</guid>
-            <pubDate>Wed, 28 Apr 2021 13:00:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A developer-first layout engine for web]]></title>
-            <link>https://forsigner.medium.com/first-of-all-this-article-has-a-bit-of-a-headline-and-i-apologize-to-the-readers-c7f6e66952af?source=friends_link&amp;sk=5b53901d8ccda979c0d67422765aa45f</link>
-            <guid>https://forsigner.medium.com/first-of-all-this-article-has-a-bit-of-a-headline-and-i-apologize-to-the-readers-c7f6e66952af?source=friends_link&amp;sk=5b53901d8ccda979c0d67422765aa45f</guid>
-            <pubDate>Wed, 28 Apr 2021 11:16:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Practical Use Cases For CSS Variables]]></title>
-            <link>https://ishadeed.com/article/practical-css-variables/</link>
-            <guid>https://ishadeed.com/article/practical-css-variables/</guid>
-            <pubDate>Tue, 27 Apr 2021 18:45:46 GMT</pubDate>
         </item>
     </channel>
 </rss>

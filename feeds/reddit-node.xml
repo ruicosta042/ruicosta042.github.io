@@ -4,27 +4,57 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Fri, 30 Apr 2021 07:49:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 May 2021 07:49:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[The Complete MERN Stack Development course 2021 - free course from udemy]]></title>
-            <link>https://www.myfreeonlinecourses.com/2021/04/100-off-complete-mern-stack-development.html</link>
-            <guid>https://www.myfreeonlinecourses.com/2021/04/100-off-complete-mern-stack-development.html</guid>
-            <pubDate>Thu, 29 Apr 2021 16:44:10 GMT</pubDate>
+            <title><![CDATA[Starter with OpenApi, Queue, Cron Jobs, TypeScript and more!!!]]></title>
+            <link>https://github.com/kutia-software-company/express-typescript-starter</link>
+            <guid>https://github.com/kutia-software-company/express-typescript-starter</guid>
+            <pubDate>Fri, 30 Apr 2021 23:51:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Feature flags with rollout percentage for Node.js apps]]></title>
-            <link>https://github.com/cdimascio/flagger-on</link>
-            <guid>https://github.com/cdimascio/flagger-on</guid>
-            <pubDate>Fri, 30 Apr 2021 07:13:23 GMT</pubDate>
+            <title><![CDATA[Build a SaaS Platform with Stripe (featuring Auth0 & Prisma)]]></title>
+            <link>https://jonmeyers.io/blog/build-a-saas-platform-with-stripe</link>
+            <guid>https://jonmeyers.io/blog/build-a-saas-platform-with-stripe</guid>
+            <pubDate>Fri, 30 Apr 2021 12:51:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Learn, What’s New in Node v16?]]></title>
-            <link>https://nodejs.org/en/about/releases/</link>
-            <guid>https://nodejs.org/en/about/releases/</guid>
-            <pubDate>Fri, 30 Apr 2021 05:40:23 GMT</pubDate>
+            <title><![CDATA[Socket IO: A confusion regarding 'namespace' feature.]]></title>
+            <link>https://stackoverflow.com/questions/67306889/a-confusion-regarding-namespaces-feature-of-socket-io-library</link>
+            <guid>https://stackoverflow.com/questions/67306889/a-confusion-regarding-namespaces-feature-of-socket-io-library</guid>
+            <pubDate>Fri, 30 Apr 2021 22:19:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Build a SaaS using Rocket: authentication, user management, billing and more!]]></title>
+            <link>https://rocketapp.me/</link>
+            <guid>https://rocketapp.me/</guid>
+            <pubDate>Fri, 30 Apr 2021 18:25:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Load .env files with encrypted secrets into process.env]]></title>
+            <link>https://github.com/kriasoft/envars</link>
+            <guid>https://github.com/kriasoft/envars</guid>
+            <pubDate>Fri, 30 Apr 2021 11:44:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10 Unexpected Charges to Avoid on Your AWS Bill]]></title>
+            <link>https://www.cloudhealthtech.com/blog/unexpected-cloud-costs-aws-bill</link>
+            <guid>https://www.cloudhealthtech.com/blog/unexpected-cloud-costs-aws-bill</guid>
+            <pubDate>Fri, 30 Apr 2021 23:31:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Node.js v10 Is Being End-of-Lifed Today, but What Does It All Mean?]]></title>
+            <link>https://lakatos.medium.com/node-js-10-is-being-end-of-lifed-today-but-what-does-it-all-mean-cec2c275bdcc</link>
+            <guid>https://lakatos.medium.com/node-js-10-is-being-end-of-lifed-today-but-what-does-it-all-mean-cec2c275bdcc</guid>
+            <pubDate>Fri, 30 Apr 2021 17:43:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Monorepo or not?]]></title>
+            <link>https://github.com/kaviarjs/kaviar</link>
+            <guid>https://github.com/kaviarjs/kaviar</guid>
+            <pubDate>Fri, 30 Apr 2021 05:11:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Javascript News 5th Week(Apr) – Redux v4.1.0, Angular 12 improvements, React 17 adds support for KeyboardEvent.code, Redux from Scratch - The ArrowFn]]></title>
@@ -39,46 +69,16 @@
             <pubDate>Fri, 30 Apr 2021 05:27:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Monorepo or not?]]></title>
-            <link>https://github.com/kaviarjs/kaviar</link>
-            <guid>https://github.com/kaviarjs/kaviar</guid>
-            <pubDate>Fri, 30 Apr 2021 05:11:10 GMT</pubDate>
+            <title><![CDATA[Feature flags with rollout percentage for Node.js apps]]></title>
+            <link>https://github.com/cdimascio/flagger-on</link>
+            <guid>https://github.com/cdimascio/flagger-on</guid>
+            <pubDate>Fri, 30 Apr 2021 07:13:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[how to deploy an app built with react.js and strapi on namecheap.com]]></title>
-            <link>https://namecheap.com/</link>
-            <guid>https://namecheap.com/</guid>
-            <pubDate>Fri, 30 Apr 2021 00:14:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Do I Design this Schema?]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Thu, 29 Apr 2021 21:59:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Webpage lifecycle and socket.io client disconnection]]></title>
-            <link>http://socket.io/</link>
-            <guid>http://socket.io/</guid>
-            <pubDate>Thu, 29 Apr 2021 13:23:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[object methods not showing on client side]]></title>
-            <link>https://socket.io/</link>
-            <guid>https://socket.io/</guid>
-            <pubDate>Thu, 29 Apr 2021 13:07:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CLI Streaming Player for the nerd in you]]></title>
-            <link>https://github.com/mugendi/geek-play</link>
-            <guid>https://github.com/mugendi/geek-play</guid>
-            <pubDate>Thu, 29 Apr 2021 09:15:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTF Eventloop?]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Thu, 29 Apr 2021 21:28:12 GMT</pubDate>
+            <title><![CDATA[The Complete MERN Stack Development course 2021 - free course from udemy]]></title>
+            <link>https://www.myfreeonlinecourses.com/2021/04/100-off-complete-mern-stack-development.html</link>
+            <guid>https://www.myfreeonlinecourses.com/2021/04/100-off-complete-mern-stack-development.html</guid>
+            <pubDate>Thu, 29 Apr 2021 16:44:10 GMT</pubDate>
         </item>
     </channel>
 </rss>

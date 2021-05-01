@@ -4,7 +4,7 @@
         <title>Node Weekly</title>
         <link>https://nodeweekly.com/</link>
         <description>A free, once–weekly e-mail round-up of Node.js news and articles.</description>
-        <lastBuildDate>Fri, 30 Apr 2021 07:49:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 May 2021 07:48:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -46,8 +46,8 @@
         </item>
         <item>
             <title><![CDATA[Building a Realtime Chat App with React, Node.js, and Socket.io]]></title>
-            <link>https://www.youtube.com/watch?v=HggSXt1Hzfk</link>
-            <guid>https://www.youtube.com/watch?v=HggSXt1Hzfk</guid>
+            <link>https://m.youtube.com/watch?v=HggSXt1Hzfk</link>
+            <guid>https://m.youtube.com/watch?v=HggSXt1Hzfk</guid>
             <pubDate>Thu, 29 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>

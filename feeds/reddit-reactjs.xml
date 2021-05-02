@@ -4,63 +4,75 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sat, 01 May 2021 07:49:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 May 2021 07:49:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Beginner's Thread / Easy Questions (April 2021)]]></title>
+            <title><![CDATA[Beginner's Thread / Easy Questions (May 2021)]]></title>
             <link>https://jsfiddle.net/Luktwrdm/</link>
             <guid>https://jsfiddle.net/Luktwrdm/</guid>
-            <pubDate>Thu, 01 Apr 2021 06:19:54 GMT</pubDate>
+            <pubDate>Sat, 01 May 2021 18:04:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who's Hiring? [May 2021]]]></title>
+            <link>https://news.ycombinator.com/item?id=21683554</link>
+            <guid>https://news.ycombinator.com/item?id=21683554</guid>
+            <pubDate>Sat, 01 May 2021 18:07:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[react-three-fiber]FPS-like effect in a 3D model scene through keyboard events]]></title>
+            <link>https://threejs.org/docs/index.html?q=controls#examples/en/controls/PointerLockControls</link>
+            <guid>https://threejs.org/docs/index.html?q=controls#examples/en/controls/PointerLockControls</guid>
+            <pubDate>Sun, 02 May 2021 07:14:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I made a tiny react library to created frosted glass effect of icons]]></title>
+            <link>https://github.com/JP1016/react-icon-blur</link>
+            <guid>https://github.com/JP1016/react-icon-blur</guid>
+            <pubDate>Sat, 01 May 2021 10:23:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Connecting express / node backend with React frontend]]></title>
+            <link>https://swayam-blog.hashnode.dev/how-to-integrate-react-frontend-with-node-backend</link>
+            <guid>https://swayam-blog.hashnode.dev/how-to-integrate-react-frontend-with-node-backend</guid>
+            <pubDate>Sun, 02 May 2021 04:30:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Calculate degrees of Linear Gradient in Canvas using Konva with React?]]></title>
+            <link>https://stackoverflow.com/questions/67346704/calculate-degrees-in-canvas-using-konva-with-react</link>
+            <guid>https://stackoverflow.com/questions/67346704/calculate-degrees-in-canvas-using-konva-with-react</guid>
+            <pubDate>Sun, 02 May 2021 02:58:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React Hook - Cannot Call Parent Component Dispatch in Child Component onComplete Callback]]></title>
+            <link>https://stackoverflow.com/questions/67352046/react-hook-cannot-call-parent-component-dispatch-in-child-component-oncomplete</link>
+            <guid>https://stackoverflow.com/questions/67352046/react-hook-cannot-call-parent-component-dispatch-in-child-component-oncomplete</guid>
+            <pubDate>Sun, 02 May 2021 00:43:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A question about pagination with react-relay version 11.]]></title>
+            <link>https://blog.logrocket.com/whats-new-in-relay-v11/#:%7E:text=The%20newest%20version%20of%20Relay%20released%20on%20March%209th%2C%202021,React%20applications%20using%20React%20Hooks.</link>
+            <guid>https://blog.logrocket.com/whats-new-in-relay-v11/#:%7E:text=The%20newest%20version%20of%20Relay%20released%20on%20March%209th%2C%202021,React%20applications%20using%20React%20Hooks.</guid>
+            <pubDate>Sat, 01 May 2021 21:23:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React Swiper Pagination (paginationBulletRender)]]></title>
+            <link>https://reactjs.org/link/attribute-behavior</link>
+            <guid>https://reactjs.org/link/attribute-behavior</guid>
+            <pubDate>Sat, 01 May 2021 20:57:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Voyager - My first React app, also open source!]]></title>
+            <link>https://tatirajurishabh.github.io/voyager/</link>
+            <guid>https://tatirajurishabh.github.io/voyager/</guid>
+            <pubDate>Sat, 01 May 2021 13:02:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How To Create A Google Chrome Extension With React]]></title>
             <link>https://medium.com/litslink/how-to-create-google-chrome-extension-using-react-js-5c9e343323ff</link>
             <guid>https://medium.com/litslink/how-to-create-google-chrome-extension-using-react-js-5c9e343323ff</guid>
             <pubDate>Fri, 30 Apr 2021 15:35:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Adapting tutorial to stream audio from React.js to Flask]]></title>
-            <link>https://medium.com/google-cloud/building-a-client-side-web-app-which-streams-audio-from-a-browser-microphone-to-a-server-part-ii-df20ddb47d4e</link>
-            <guid>https://medium.com/google-cloud/building-a-client-side-web-app-which-streams-audio-from-a-browser-microphone-to-a-server-part-ii-df20ddb47d4e</guid>
-            <pubDate>Sat, 01 May 2021 06:24:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[need help making this app idea]]></title>
-            <link>https://reactjsexample.com/a-hooks-to-svg-drawing/</link>
-            <guid>https://reactjsexample.com/a-hooks-to-svg-drawing/</guid>
-            <pubDate>Sat, 01 May 2021 04:31:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why you should use Chakra UI in React]]></title>
-            <link>https://blog.dastasoft.com/posts/why-you-should-use-chakra-ui-in-react</link>
-            <guid>https://blog.dastasoft.com/posts/why-you-should-use-chakra-ui-in-react</guid>
-            <pubDate>Fri, 30 Apr 2021 22:38:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to embed simple react apps in Wordpress for beginners]]></title>
-            <link>https://blisspointers.com/early-retirement-calculator-for-fire-movement/</link>
-            <guid>https://blisspointers.com/early-retirement-calculator-for-fire-movement/</guid>
-            <pubDate>Sat, 01 May 2021 05:46:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[useStateMachine - a ½ kb state machine hook for React]]></title>
-            <link>https://github.com/cassiozen/useStateMachine</link>
-            <guid>https://github.com/cassiozen/useStateMachine</guid>
-            <pubDate>Fri, 30 Apr 2021 00:51:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Transform a React App into a PWA]]></title>
-            <link>https://medium.com/@toricpope/transform-a-react-app-into-a-progressive-web-app-pwa-dea336bd96e6</link>
-            <guid>https://medium.com/@toricpope/transform-a-react-app-into-a-progressive-web-app-pwa-dea336bd96e6</guid>
-            <pubDate>Fri, 30 Apr 2021 15:31:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JSONToForm – A JSON Parser that can take a JSON file and turn it into a React Hook Form.]]></title>
-            <link>https://github.com/JustinYuann/JSONToForm</link>
-            <guid>https://github.com/JustinYuann/JSONToForm</guid>
-            <pubDate>Fri, 30 Apr 2021 18:21:31 GMT</pubDate>
         </item>
     </channel>
 </rss>

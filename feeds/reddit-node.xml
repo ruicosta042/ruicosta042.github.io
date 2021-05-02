@@ -4,15 +4,69 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Sat, 01 May 2021 07:49:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 May 2021 07:49:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Prisma for NodeJS is ready for Production Environments]]></title>
+            <link>https://sudosecurity.org/prisma-for-nodejs-is-released/</link>
+            <guid>https://sudosecurity.org/prisma-for-nodejs-is-released/</guid>
+            <pubDate>Sun, 02 May 2021 00:10:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Extract text from image using node.js.]]></title>
+            <link>http://theflowingfact.blogspot.com/2020/05/nodejs-extract-text-from-image-using.html</link>
+            <guid>http://theflowingfact.blogspot.com/2020/05/nodejs-extract-text-from-image-using.html</guid>
+            <pubDate>Sun, 02 May 2021 03:47:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cloning JavaScript objects with graph theory]]></title>
+            <link>https://andreasimonecosta.dev/posts/cloning-javascript-objects-with-graph-theory/</link>
+            <guid>https://andreasimonecosta.dev/posts/cloning-javascript-objects-with-graph-theory/</guid>
+            <pubDate>Sat, 01 May 2021 08:37:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[Node/Nextjs] Is it common for Node to spawn many processes?]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Sun, 02 May 2021 01:21:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Having issues securing my API using middleware because of socket events]]></title>
+            <link>https://socket.io/</link>
+            <guid>https://socket.io/</guid>
+            <pubDate>Sat, 01 May 2021 20:08:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Partner Up for Learning]]></title>
+            <link>https://discord.gg/ayeGrsaSG2</link>
+            <guid>https://discord.gg/ayeGrsaSG2</guid>
+            <pubDate>Sat, 01 May 2021 19:35:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Leon Open-Source Personal Assistant: Getting Rid of Dust / 1.0.0-beta.4]]></title>
+            <link>https://blog.getleon.ai/getting-rid-of-dust-1-0-0-beta-4/</link>
+            <guid>https://blog.getleon.ai/getting-rid-of-dust-1-0-0-beta-4/</guid>
+            <pubDate>Sat, 01 May 2021 14:02:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[help]]></title>
+            <link>https://api.whatsapp.com/send</link>
+            <guid>https://api.whatsapp.com/send</guid>
+            <pubDate>Sun, 02 May 2021 01:47:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Starter with OpenApi, Queue, Cron Jobs, TypeScript and more!!!]]></title>
             <link>https://github.com/kutia-software-company/express-typescript-starter</link>
             <guid>https://github.com/kutia-software-company/express-typescript-starter</guid>
             <pubDate>Fri, 30 Apr 2021 23:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[someone please help me with this error I got while performing a POST request tor Reddit API]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Sat, 01 May 2021 16:04:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Build a SaaS Platform with Stripe (featuring Auth0 & Prisma)]]></title>
@@ -25,60 +79,6 @@
             <link>https://stackoverflow.com/questions/67306889/a-confusion-regarding-namespaces-feature-of-socket-io-library</link>
             <guid>https://stackoverflow.com/questions/67306889/a-confusion-regarding-namespaces-feature-of-socket-io-library</guid>
             <pubDate>Fri, 30 Apr 2021 22:19:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Build a SaaS using Rocket: authentication, user management, billing and more!]]></title>
-            <link>https://rocketapp.me/</link>
-            <guid>https://rocketapp.me/</guid>
-            <pubDate>Fri, 30 Apr 2021 18:25:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Load .env files with encrypted secrets into process.env]]></title>
-            <link>https://github.com/kriasoft/envars</link>
-            <guid>https://github.com/kriasoft/envars</guid>
-            <pubDate>Fri, 30 Apr 2021 11:44:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10 Unexpected Charges to Avoid on Your AWS Bill]]></title>
-            <link>https://www.cloudhealthtech.com/blog/unexpected-cloud-costs-aws-bill</link>
-            <guid>https://www.cloudhealthtech.com/blog/unexpected-cloud-costs-aws-bill</guid>
-            <pubDate>Fri, 30 Apr 2021 23:31:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Node.js v10 Is Being End-of-Lifed Today, but What Does It All Mean?]]></title>
-            <link>https://lakatos.medium.com/node-js-10-is-being-end-of-lifed-today-but-what-does-it-all-mean-cec2c275bdcc</link>
-            <guid>https://lakatos.medium.com/node-js-10-is-being-end-of-lifed-today-but-what-does-it-all-mean-cec2c275bdcc</guid>
-            <pubDate>Fri, 30 Apr 2021 17:43:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Monorepo or not?]]></title>
-            <link>https://github.com/kaviarjs/kaviar</link>
-            <guid>https://github.com/kaviarjs/kaviar</guid>
-            <pubDate>Fri, 30 Apr 2021 05:11:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Javascript News 5th Week(Apr) – Redux v4.1.0, Angular 12 improvements, React 17 adds support for KeyboardEvent.code, Redux from Scratch - The ArrowFn]]></title>
-            <link>https://thearrowfn.com/javascript-news-5th-weekapr-redux-v4-1-0-angular-12-improvements-react-17-adds-support-for-keyboardevent-code-redux-from-scratch/</link>
-            <guid>https://thearrowfn.com/javascript-news-5th-weekapr-redux-v4-1-0-angular-12-improvements-react-17-adds-support-for-keyboardevent-code-redux-from-scratch/</guid>
-            <pubDate>Fri, 30 Apr 2021 05:39:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Set Data Structure in Javascript]]></title>
-            <link>https://link.medium.com/vxPw4oOXRfb</link>
-            <guid>https://link.medium.com/vxPw4oOXRfb</guid>
-            <pubDate>Fri, 30 Apr 2021 05:27:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Feature flags with rollout percentage for Node.js apps]]></title>
-            <link>https://github.com/cdimascio/flagger-on</link>
-            <guid>https://github.com/cdimascio/flagger-on</guid>
-            <pubDate>Fri, 30 Apr 2021 07:13:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Complete MERN Stack Development course 2021 - free course from udemy]]></title>
-            <link>https://www.myfreeonlinecourses.com/2021/04/100-off-complete-mern-stack-development.html</link>
-            <guid>https://www.myfreeonlinecourses.com/2021/04/100-off-complete-mern-stack-development.html</guid>
-            <pubDate>Thu, 29 Apr 2021 16:44:10 GMT</pubDate>
         </item>
     </channel>
 </rss>

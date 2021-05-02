@@ -4,10 +4,34 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Sat, 01 May 2021 07:49:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 May 2021 07:49:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[GitHub style split diffs in your terminal]]></title>
+            <link>https://github.com/banga/git-split-diffs</link>
+            <guid>https://github.com/banga/git-split-diffs</guid>
+            <pubDate>Sat, 01 May 2021 21:56:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I reverse engineered a npm registry from scratch. It is written entirely in TypeScript and has a low amount of dependencies.]]></title>
+            <link>https://github.com/Tanuel/baggy</link>
+            <guid>https://github.com/Tanuel/baggy</guid>
+            <pubDate>Sun, 02 May 2021 01:34:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Declaring variables within blocks and returning them in a method]]></title>
+            <link>https://www.typescriptlang.org/play?ssl=1&amp;ssc=1&amp;pln=17&amp;pc=2#code/GYVwdgxgLglg9mABAIwIYCcAUYQFsBciOuyApugJSIDeAUIg4jMItnogHyICMADFXUZDEUABbo4AdyKlpAUXQSsAcnJLlFeowC+tLQ3SkoIdEmK1dtUJFgJEwOHDYEieMpULF3NfSPQBPH2FGABsjRAA3VBCQUkQAXhQMZ00hbUQIVCgIUVZSAV8hMKhI6NiEngBWX0shQ2NTUpjSCyA</link>
+            <guid>https://www.typescriptlang.org/play?ssl=1&amp;ssc=1&amp;pln=17&amp;pc=2#code/GYVwdgxgLglg9mABAIwIYCcAUYQFsBciOuyApugJSIDeAUIg4jMItnogHyICMADFXUZDEUABbo4AdyKlpAUXQSsAcnJLlFeowC+tLQ3SkoIdEmK1dtUJFgJEwOHDYEieMpULF3NfSPQBPH2FGABsjRAA3VBCQUkQAXhQMZ00hbUQIVCgIUVZSAV8hMKhI6NiEngBWX0shQ2NTUpjSCyA</guid>
+            <pubDate>Sun, 02 May 2021 01:23:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Help mapping JSON string to types]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Sat, 01 May 2021 20:56:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[why am I getting a linting error here?]]></title>
             <link>https://www.typescriptlang.org/play?#code/MYewdgzgLgBCBGArGBeGBvAUDHMCCAXBtrqQEJFanW4DCRAjADQk0C+LpHmbA3KzUGkBQoZlCRYtGEQBEtWanmz+48NBgA3AIYAbVHCQA6PAG1ZZWQF1TtK6oCmADwAOIAE6woATxcP8Bj5+IABmhogm5pY2dvyi8TBAA</link>
@@ -19,6 +43,12 @@
             <link>https://kristiandupont.medium.com/and-naming-things-tailwind-css-typescript-and-mammals-9eab459633d2</link>
             <guid>https://kristiandupont.medium.com/and-naming-things-tailwind-css-typescript-and-mammals-9eab459633d2</guid>
             <pubDate>Fri, 30 Apr 2021 12:48:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Type safe symbol map]]></title>
+            <link>https://www.typescriptlang.org/play?#code/FAYw9gdgzgLgBAZQIxwLyIJ4FsBGYA2AFAETLECUA3KJLIgExqa4EkL0XXACWEMApgCcAZgEMQ-OAEk+KAN5wAbqPwBXfkgBccCKtxDKcAL48+QsROl9GC5Wv71tsQbwDmhk6YEjxkqQmw8fABZUQAHODlgOBi4AG1kAF1tGRgkABpo2IT6ZKsYekzPGAwwv1CwgBVS-gAeSrh+AA8BCAATKDgAa34MMGFpAJYQ8IA+Jgr69MHAggq4ysTRrnBoeCxwlIrqstqevoH-WZGw8fQIfgB3OArCKmAaNbhXfhgpASwmesaW-nbO-b9GbDCqjQhdbSVcgpIZBeaLNDjKKxOCCV6qQQQOAbMIAOheMHB5AAhHBRJ0jiDwgtEoYAPQAKjgAHUABYYODcTowVlcuAgcnwC4SKBQUSCDAAfjgDLpwE8qzoAjo6DuiMiWRiivgihQ6AJ734WEIyCocE1SiQuLs6j1cCQ1BR2qUjH1r0NxvY9xRino1pU6ldcGIHGoRiAA</link>
+            <guid>https://www.typescriptlang.org/play?#code/FAYw9gdgzgLgBAZQIxwLyIJ4FsBGYA2AFAETLECUA3KJLIgExqa4EkL0XXACWEMApgCcAZgEMQ-OAEk+KAN5wAbqPwBXfkgBccCKtxDKcAL48+QsROl9GC5Wv71tsQbwDmhk6YEjxkqQmw8fABZUQAHODlgOBi4AG1kAF1tGRgkABpo2IT6ZKsYekzPGAwwv1CwgBVS-gAeSrh+AA8BCAATKDgAa34MMGFpAJYQ8IA+Jgr69MHAggq4ysTRrnBoeCxwlIrqstqevoH-WZGw8fQIfgB3OArCKmAaNbhXfhgpASwmesaW-nbO-b9GbDCqjQhdbSVcgpIZBeaLNDjKKxOCCV6qQQQOAbMIAOheMHB5AAhHBRJ0jiDwgtEoYAPQAKjgAHUABYYODcTowVlcuAgcnwC4SKBQUSCDAAfjgDLpwE8qzoAjo6DuiMiWRiivgihQ6AJ734WEIyCocE1SiQuLs6j1cCQ1BR2qUjH1r0NxvY9xRino1pU6ldcGIHGoRiAA</guid>
+            <pubDate>Fri, 30 Apr 2021 20:42:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A JavaScript optimizing compiler: JavaScript -> TypeScript -> C++ -> JavaScript]]></title>
@@ -49,24 +79,6 @@
             <link>https://medium.com/@GavMac2010/typescript-beginners-here-are-the-5-areas-you-must-master-75aee5cd4483?source=friends_link&amp;sk=091c86aa65fdb69c58237acf8c38cf9d</link>
             <guid>https://medium.com/@GavMac2010/typescript-beginners-here-are-the-5-areas-you-must-master-75aee5cd4483?source=friends_link&amp;sk=091c86aa65fdb69c58237acf8c38cf9d</guid>
             <pubDate>Tue, 27 Apr 2021 20:57:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I'm having a really hard time understanding how to import a DefinitelyTyped module.]]></title>
-            <link>https://github.com/pinqy520/three-typescript-starter</link>
-            <guid>https://github.com/pinqy520/three-typescript-starter</guid>
-            <pubDate>Tue, 27 Apr 2021 17:56:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How we use Apollo to manage GraphQL data in our Next.js Typescript application]]></title>
-            <link>https://www.dolthub.com/blog/2021-04-26-apollo-client-with-graphql-and-typescript/</link>
-            <guid>https://www.dolthub.com/blog/2021-04-26-apollo-client-with-graphql-and-typescript/</guid>
-            <pubDate>Tue, 27 Apr 2021 00:22:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Implement a binary tree using Typescript]]></title>
-            <link>https://alexisbouchez.com/posts/implement-a-binary-tree-using-typescript</link>
-            <guid>https://alexisbouchez.com/posts/implement-a-binary-tree-using-typescript</guid>
-            <pubDate>Tue, 27 Apr 2021 18:11:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

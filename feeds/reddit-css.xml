@@ -4,10 +4,28 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Sat, 01 May 2021 07:49:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 May 2021 07:49:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Learn about Flexbox with interactive tool that generates CSS]]></title>
+            <link>https://www.task17.com/tools/flexbox/</link>
+            <guid>https://www.task17.com/tools/flexbox/</guid>
+            <pubDate>Sat, 01 May 2021 23:25:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How we display tournament brackets on Leaguepedia using CSS grid & pseudoelements]]></title>
+            <link>https://river.me/blog/tournament-brackets/</link>
+            <guid>https://river.me/blog/tournament-brackets/</guid>
+            <pubDate>Sat, 01 May 2021 21:35:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I made a tiny react library to created frosted glass effect of icons]]></title>
+            <link>https://github.com/JP1016/react-icon-blur</link>
+            <guid>https://github.com/JP1016/react-icon-blur</guid>
+            <pubDate>Sat, 01 May 2021 10:29:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Feedback on my first website for a client?]]></title>
             <link>https://www.dmabrahams.com/latest/index</link>
@@ -45,12 +63,6 @@
             <pubDate>Fri, 30 Apr 2021 07:20:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[SASS in 5 minutes: All in one]]></title>
-            <link>https://frontendz.com/2020/09/18/sass-in-5-minutes-all-in-one/</link>
-            <guid>https://frontendz.com/2020/09/18/sass-in-5-minutes-all-in-one/</guid>
-            <pubDate>Thu, 29 Apr 2021 16:29:08 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[fit-content and fit-content()]]></title>
             <link>https://www.quirksmode.org/blog/archives/2021/04/fitcontent_and.html</link>
             <guid>https://www.quirksmode.org/blog/archives/2021/04/fitcontent_and.html</guid>
@@ -73,18 +85,6 @@
             <link>https://www.apple.com/ipad-pro/</link>
             <guid>https://www.apple.com/ipad-pro/</guid>
             <pubDate>Wed, 28 Apr 2021 21:48:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Weird error on Edge Mobile for my portfolio website]]></title>
-            <link>https://darenlobo.me/</link>
-            <guid>https://darenlobo.me/</guid>
-            <pubDate>Wed, 28 Apr 2021 18:11:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A collection of front-end debugging script snippets to be used in the Sources panel in Chrome DevTools.]]></title>
-            <link>https://github.com/matuzo/DevToolsSnippets</link>
-            <guid>https://github.com/matuzo/DevToolsSnippets</guid>
-            <pubDate>Wed, 28 Apr 2021 13:23:42 GMT</pubDate>
         </item>
     </channel>
 </rss>

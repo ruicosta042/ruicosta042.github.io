@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sat, 01 May 2021 07:49:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 May 2021 07:49:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,16 +15,40 @@
             <pubDate>Mon, 26 Apr 2021 09:04:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Can you beat other players using JavaScript in this Bomberman-like programming challenge?]]></title>
+            <link>https://bomberjam.anthonysimmon.com/</link>
+            <guid>https://bomberjam.anthonysimmon.com/</guid>
+            <pubDate>Sat, 01 May 2021 15:29:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[Ask for Feedback] MyKeys: Save or share your passwords into a long encrypted URL!]]></title>
+            <link>https://mykeys.live/</link>
+            <guid>https://mykeys.live/</guid>
+            <pubDate>Sat, 01 May 2021 18:15:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ractive-player now exports to mp4! Create interactive *and* "real" videos in React]]></title>
             <link>https://ractive-player.org/blog/2021/05/01/rp-master</link>
             <guid>https://ractive-player.org/blog/2021/05/01/rp-master</guid>
             <pubDate>Sat, 01 May 2021 05:03:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I built this in Javascript: Put text.fish/ before any URL to skip paywalls]]></title>
-            <link>https://text.fish/</link>
-            <guid>https://text.fish/</guid>
-            <pubDate>Fri, 30 Apr 2021 15:59:05 GMT</pubDate>
+            <title><![CDATA[Aurora Analytics - Made in NextJS is now v0.5!]]></title>
+            <link>https://www.useaurora.app/</link>
+            <guid>https://www.useaurora.app/</guid>
+            <pubDate>Sat, 01 May 2021 22:20:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Leon Open-Source Personal Assistant: Getting Rid of Dust / 1.0.0-beta.4]]></title>
+            <link>https://blog.getleon.ai/getting-rid-of-dust-1-0-0-beta-4/</link>
+            <guid>https://blog.getleon.ai/getting-rid-of-dust-1-0-0-beta-4/</guid>
+            <pubDate>Sat, 01 May 2021 14:03:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New formatting concept for JSON based virtual DOM]]></title>
+            <link>https://tobiasuhlig.medium.com/new-formatting-concept-for-json-based-virtual-dom-ee52acc5e04a?source=friends_link&amp;sk=94f69dc71f662e0027118052ceb2db38</link>
+            <guid>https://tobiasuhlig.medium.com/new-formatting-concept-for-json-based-virtual-dom-ee52acc5e04a?source=friends_link&amp;sk=94f69dc71f662e0027118052ceb2db38</guid>
+            <pubDate>Sat, 01 May 2021 15:27:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Node.js v10 Is Being End-of-Lifed Today, but What Does It All Mean?]]></title>
@@ -33,10 +57,10 @@
             <pubDate>Fri, 30 Apr 2021 17:43:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Framer Motion - Grid - JSitor]]></title>
-            <link>https://jsitor.com/oER-aokNz</link>
-            <guid>https://jsitor.com/oER-aokNz</guid>
-            <pubDate>Sat, 01 May 2021 07:43:19 GMT</pubDate>
+            <title><![CDATA[2 JavaScript memory concerns for React developers]]></title>
+            <link>https://dev.to/alekseiberezkin/2-javascript-memory-concerns-for-react-developers-19i1</link>
+            <guid>https://dev.to/alekseiberezkin/2-javascript-memory-concerns-for-react-developers-19i1</guid>
+            <pubDate>Sat, 01 May 2021 15:43:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cloning JavaScript objects with graph theory]]></title>
@@ -63,16 +87,16 @@
             <pubDate>Fri, 30 Apr 2021 22:02:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A JavaScript optimizing compiler]]></title>
-            <link>https://medium.com/leaningtech/a-javascript-optimizing-compiler-3fd3f49bd071</link>
-            <guid>https://medium.com/leaningtech/a-javascript-optimizing-compiler-3fd3f49bd071</guid>
-            <pubDate>Thu, 29 Apr 2021 10:03:41 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[JavaScript Design Patterns]]></title>
             <link>https://www.dofactory.com/javascript/design-patterns</link>
             <guid>https://www.dofactory.com/javascript/design-patterns</guid>
             <pubDate>Fri, 30 Apr 2021 11:41:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A JavaScript optimizing compiler]]></title>
+            <link>https://medium.com/leaningtech/a-javascript-optimizing-compiler-3fd3f49bd071</link>
+            <guid>https://medium.com/leaningtech/a-javascript-optimizing-compiler-3fd3f49bd071</guid>
+            <pubDate>Thu, 29 Apr 2021 10:03:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UI testing - types of tests]]></title>
@@ -121,24 +145,6 @@
             <link>http://js4ds.org/</link>
             <guid>http://js4ds.org/</guid>
             <pubDate>Wed, 28 Apr 2021 18:07:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AskJS] What do you think of my one click tool to generate unit test on simple functions?]]></title>
-            <link>https://playground.ponicode.com/unit-test</link>
-            <guid>https://playground.ponicode.com/unit-test</guid>
-            <pubDate>Wed, 28 Apr 2021 16:26:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A quick and easy intro to working with popups in javascript and passing data between different browser windows]]></title>
-            <link>https://iabhishek.dev/post/popups-with-javascript-a-quick-introduction</link>
-            <guid>https://iabhishek.dev/post/popups-with-javascript-a-quick-introduction</guid>
-            <pubDate>Wed, 28 Apr 2021 18:28:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The missing migration guide: from Vue CLI to Vite · Moiva.io Blog]]></title>
-            <link>https://moiva.io/blog/the-missing-migration-guide-from-vue-cli-to-vite</link>
-            <guid>https://moiva.io/blog/the-missing-migration-guide-from-vue-cli-to-vite</guid>
-            <pubDate>Wed, 28 Apr 2021 12:41:15 GMT</pubDate>
         </item>
     </channel>
 </rss>

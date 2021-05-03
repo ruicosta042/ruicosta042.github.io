@@ -4,10 +4,58 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Sun, 02 May 2021 07:49:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 May 2021 07:50:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Interesting observation here about the event loop which had me puzzled for a while]]></title>
+            <link>https://stackoverflow.com/questions/47724811/why-setimmediate-execute-before-fs-readfile-in-nodejs-event-loops-works#:~:text=setImmediate()%20is%20registered%20into,(running%20in%20the%20background).</link>
+            <guid>https://stackoverflow.com/questions/47724811/why-setimmediate-execute-before-fs-readfile-in-nodejs-event-loops-works#:~:text=setImmediate()%20is%20registered%20into,(running%20in%20the%20background).</guid>
+            <pubDate>Sun, 02 May 2021 19:40:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I made an authentication server that handles user registration, authentication & authorization with JWT.]]></title>
+            <link>https://github.com/coluck/authentication-server</link>
+            <guid>https://github.com/coluck/authentication-server</guid>
+            <pubDate>Mon, 03 May 2021 06:47:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What’s new in NodeJS v16?]]></title>
+            <link>https://medium.com/javarevisited/whats-new-in-nodejs-v16-b15e3734a51c</link>
+            <guid>https://medium.com/javarevisited/whats-new-in-nodejs-v16-b15e3734a51c</guid>
+            <pubDate>Sun, 02 May 2021 12:49:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[npm install react-chatbot-kit]]></title>
+            <link>mailto:react@17.0.2</link>
+            <guid>mailto:react@17.0.2</guid>
+            <pubDate>Sun, 02 May 2021 19:58:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is this how you respond to an API auth challenge?]]></title>
+            <link>https://github.com/jlobos/instagram-web-api#getchallengeparams</link>
+            <guid>https://github.com/jlobos/instagram-web-api#getchallengeparams</guid>
+            <pubDate>Sun, 02 May 2021 21:26:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Managing user devices with stateless authentication (w/ example)]]></title>
+            <link>https://link.medium.com/X5QFSpO1Vfb</link>
+            <guid>https://link.medium.com/X5QFSpO1Vfb</guid>
+            <pubDate>Sun, 02 May 2021 16:13:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How should I store Authentication Tokens for different users on my web app?]]></title>
+            <link>https://127.0.0.1:3000/</link>
+            <guid>https://127.0.0.1:3000/</guid>
+            <pubDate>Sun, 02 May 2021 11:02:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reference project to scaffold a Kubernetes Node Express app]]></title>
+            <link>https://skaffold.dev/</link>
+            <guid>https://skaffold.dev/</guid>
+            <pubDate>Sun, 02 May 2021 11:58:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Prisma for NodeJS is ready for Production Environments]]></title>
             <link>https://sudosecurity.org/prisma-for-nodejs-is-released/</link>
@@ -43,42 +91,6 @@
             <link>https://discord.gg/ayeGrsaSG2</link>
             <guid>https://discord.gg/ayeGrsaSG2</guid>
             <pubDate>Sat, 01 May 2021 19:35:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Leon Open-Source Personal Assistant: Getting Rid of Dust / 1.0.0-beta.4]]></title>
-            <link>https://blog.getleon.ai/getting-rid-of-dust-1-0-0-beta-4/</link>
-            <guid>https://blog.getleon.ai/getting-rid-of-dust-1-0-0-beta-4/</guid>
-            <pubDate>Sat, 01 May 2021 14:02:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[help]]></title>
-            <link>https://api.whatsapp.com/send</link>
-            <guid>https://api.whatsapp.com/send</guid>
-            <pubDate>Sun, 02 May 2021 01:47:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Starter with OpenApi, Queue, Cron Jobs, TypeScript and more!!!]]></title>
-            <link>https://github.com/kutia-software-company/express-typescript-starter</link>
-            <guid>https://github.com/kutia-software-company/express-typescript-starter</guid>
-            <pubDate>Fri, 30 Apr 2021 23:51:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[someone please help me with this error I got while performing a POST request tor Reddit API]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Sat, 01 May 2021 16:04:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Build a SaaS Platform with Stripe (featuring Auth0 & Prisma)]]></title>
-            <link>https://jonmeyers.io/blog/build-a-saas-platform-with-stripe</link>
-            <guid>https://jonmeyers.io/blog/build-a-saas-platform-with-stripe</guid>
-            <pubDate>Fri, 30 Apr 2021 12:51:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Socket IO: A confusion regarding 'namespace' feature.]]></title>
-            <link>https://stackoverflow.com/questions/67306889/a-confusion-regarding-namespaces-feature-of-socket-io-library</link>
-            <guid>https://stackoverflow.com/questions/67306889/a-confusion-regarding-namespaces-feature-of-socket-io-library</guid>
-            <pubDate>Fri, 30 Apr 2021 22:19:15 GMT</pubDate>
         </item>
     </channel>
 </rss>

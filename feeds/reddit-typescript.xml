@@ -4,10 +4,16 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Sun, 02 May 2021 07:49:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 May 2021 07:50:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Typescript and react conditional render]]></title>
+            <link>https://www.typescriptlang.org/play?#code/JYWwDg9gTgLgBAJQKYEMDGMA0cDeBhCcCAOyWJgF84AzKQuAcilQwYG4BYAKG5gE8wSOABEoKajALgUxPnAC8ubnBVxgAEwBccYgFcANvuWriKEEm0BnGFGDEA5pm4VOPLv0FwpYGXMUB5EGAYAB5RcUlCH1lsBg0GAD44ADIlLlU1LR1dEAAjJChXF25eASEABTowSwU0jLQo321vXzgAHxExCRaY4xUSYSR9JBgkHr5tAAoG6VkASSy9PIKASgUkgDcIDScuChKuNH0USxrxhAgAdzgkAA9R4nUzqJIyeBDKiGqknD64AAsZOphoNhqNxrVJmt5D8-hkYP9gJYAHRgKoogZDEZjRqySYIpGo9HImbRPjIjQrVwZYpuDLMR4FSHQ2HpDKqZgwXRQYhwSZw9kqELqYAbBICwUZYWihI4AkotFfFGk3zI0zmCghAD0IrFEslQt14rZBtNcBCuV0MBgJDgIssKFyw3U8jliIVxJVsgp6gU8kUekMVBIeH0wDQAGtXfLkYDHiCseDcXwKFrjWbBdqjfqpTqZfqVn99nsDndILA7UhqCgDPBzlc2EA</link>
+            <guid>https://www.typescriptlang.org/play?#code/JYWwDg9gTgLgBAJQKYEMDGMA0cDeBhCcCAOyWJgF84AzKQuAcilQwYG4BYAKG5gE8wSOABEoKajALgUxPnAC8ubnBVxgAEwBccYgFcANvuWriKEEm0BnGFGDEA5pm4VOPLv0FwpYGXMUB5EGAYAB5RcUlCH1lsBg0GAD44ADIlLlU1LR1dEAAjJChXF25eASEABTowSwU0jLQo321vXzgAHxExCRaY4xUSYSR9JBgkHr5tAAoG6VkASSy9PIKASgUkgDcIDScuChKuNH0USxrxhAgAdzgkAA9R4nUzqJIyeBDKiGqknD64AAsZOphoNhqNxrVJmt5D8-hkYP9gJYAHRgKoogZDEZjRqySYIpGo9HImbRPjIjQrVwZYpuDLMR4FSHQ2HpDKqZgwXRQYhwSZw9kqELqYAbBICwUZYWihI4AkotFfFGk3zI0zmCghAD0IrFEslQt14rZBtNcBCuV0MBgJDgIssKFyw3U8jliIVxJVsgp6gU8kUekMVBIeH0wDQAGtXfLkYDHiCseDcXwKFrjWbBdqjfqpTqZfqVn99nsDndILA7UhqCgDPBzlc2EA</guid>
+            <pubDate>Mon, 03 May 2021 01:54:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[GitHub style split diffs in your terminal]]></title>
             <link>https://github.com/banga/git-split-diffs</link>
@@ -73,12 +79,6 @@
             <link>https://github.com/vedantroy/typecheck.macro/issues/23</link>
             <guid>https://github.com/vedantroy/typecheck.macro/issues/23</guid>
             <pubDate>Tue, 27 Apr 2021 17:29:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TypeScript Beginners: Here Are The 5 Areas You Must Master]]></title>
-            <link>https://medium.com/@GavMac2010/typescript-beginners-here-are-the-5-areas-you-must-master-75aee5cd4483?source=friends_link&amp;sk=091c86aa65fdb69c58237acf8c38cf9d</link>
-            <guid>https://medium.com/@GavMac2010/typescript-beginners-here-are-the-5-areas-you-must-master-75aee5cd4483?source=friends_link&amp;sk=091c86aa65fdb69c58237acf8c38cf9d</guid>
-            <pubDate>Tue, 27 Apr 2021 20:57:05 GMT</pubDate>
         </item>
     </channel>
 </rss>

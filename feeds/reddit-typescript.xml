@@ -4,10 +4,22 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Mon, 03 May 2021 07:50:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 May 2021 07:48:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Vaccine Notifier (India) - A simple way to get notified on Chrome when vaccine slots are available]]></title>
+            <link>https://www.vaccinenotifier.in/</link>
+            <guid>https://www.vaccinenotifier.in/</guid>
+            <pubDate>Tue, 04 May 2021 05:11:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[`window.getComputedStyle` Object is possibly 'null'.ts(2531)]]></title>
+            <link>https://stackoverflow.com/a/24366628/6141587</link>
+            <guid>https://stackoverflow.com/a/24366628/6141587</guid>
+            <pubDate>Mon, 03 May 2021 13:37:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Typescript and react conditional render]]></title>
             <link>https://www.typescriptlang.org/play?#code/JYWwDg9gTgLgBAJQKYEMDGMA0cDeBhCcCAOyWJgF84AzKQuAcilQwYG4BYAKG5gE8wSOABEoKajALgUxPnAC8ubnBVxgAEwBccYgFcANvuWriKEEm0BnGFGDEA5pm4VOPLv0FwpYGXMUB5EGAYAB5RcUlCH1lsBg0GAD44ADIlLlU1LR1dEAAjJChXF25eASEABTowSwU0jLQo321vXzgAHxExCRaY4xUSYSR9JBgkHr5tAAoG6VkASSy9PIKASgUkgDcIDScuChKuNH0USxrxhAgAdzgkAA9R4nUzqJIyeBDKiGqknD64AAsZOphoNhqNxrVJmt5D8-hkYP9gJYAHRgKoogZDEZjRqySYIpGo9HImbRPjIjQrVwZYpuDLMR4FSHQ2HpDKqZgwXRQYhwSZw9kqELqYAbBICwUZYWihI4AkotFfFGk3zI0zmCghAD0IrFEslQt14rZBtNcBCuV0MBgJDgIssKFyw3U8jliIVxJVsgp6gU8kUekMVBIeH0wDQAGtXfLkYDHiCseDcXwKFrjWbBdqjfqpTqZfqVn99nsDndILA7UhqCgDPBzlc2EA</link>
@@ -73,12 +85,6 @@
             <link>https://calendly.com/victorofoegbu0009/typescript</link>
             <guid>https://calendly.com/victorofoegbu0009/typescript</guid>
             <pubDate>Wed, 28 Apr 2021 11:43:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Typescript validation library/macro is looking for maintainers]]></title>
-            <link>https://github.com/vedantroy/typecheck.macro/issues/23</link>
-            <guid>https://github.com/vedantroy/typecheck.macro/issues/23</guid>
-            <pubDate>Tue, 27 Apr 2021 17:29:02 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,52 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Mon, 03 May 2021 07:50:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 May 2021 07:48:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[In-depth Tutorial: How to build a free Discord bot with Node.js and Autocode]]></title>
+            <link>https://autocode.com/guides/how-to-build-a-discord-bot/</link>
+            <guid>https://autocode.com/guides/how-to-build-a-discord-bot/</guid>
+            <pubDate>Tue, 04 May 2021 06:12:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Top 10 Node.js Security Best Practices]]></title>
+            <link>https://solaceinfotech.com/blog/whats-new-in-node-js-15/</link>
+            <guid>https://solaceinfotech.com/blog/whats-new-in-node-js-15/</guid>
+            <pubDate>Tue, 04 May 2021 06:52:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[API with NestJS #34. Handling CPU-intensive tasks with queues]]></title>
+            <link>https://wanago.io/2021/05/03/api-nestjs-cpu-intensive-tasks-queues/</link>
+            <guid>https://wanago.io/2021/05/03/api-nestjs-cpu-intensive-tasks-queues/</guid>
+            <pubDate>Mon, 03 May 2021 18:45:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I made an authentication server that handles user registration, authentication & authorization with JWT.]]></title>
+            <link>https://github.com/coluck/authentication-server</link>
+            <guid>https://github.com/coluck/authentication-server</guid>
+            <pubDate>Mon, 03 May 2021 06:47:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I made a(nother) NVM for Windows]]></title>
+            <link>https://github.com/FoxAndFly/NodeSwap</link>
+            <guid>https://github.com/FoxAndFly/NodeSwap</guid>
+            <pubDate>Mon, 03 May 2021 20:18:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[how to get data from Axios object]]></title>
+            <link>https://r.data/</link>
+            <guid>https://r.data/</guid>
+            <pubDate>Mon, 03 May 2021 20:27:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Just released a tool to organize your screen shots by date and parse them for text so they can be searched via grep / Finder / Explorer - Let me know what you think]]></title>
+            <link>https://www.npmjs.com/package/cluttr</link>
+            <guid>https://www.npmjs.com/package/cluttr</guid>
+            <pubDate>Mon, 03 May 2021 12:36:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Interesting observation here about the event loop which had me puzzled for a while]]></title>
             <link>https://stackoverflow.com/questions/47724811/why-setimmediate-execute-before-fs-readfile-in-nodejs-event-loops-works#:~:text=setImmediate()%20is%20registered%20into,(running%20in%20the%20background).</link>
@@ -15,10 +57,10 @@
             <pubDate>Sun, 02 May 2021 19:40:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I made an authentication server that handles user registration, authentication & authorization with JWT.]]></title>
-            <link>https://github.com/coluck/authentication-server</link>
-            <guid>https://github.com/coluck/authentication-server</guid>
-            <pubDate>Mon, 03 May 2021 06:47:02 GMT</pubDate>
+            <title><![CDATA[npm install ticker-symbol-search]]></title>
+            <link>https://www.npmjs.com/package/ticker-symbol-search</link>
+            <guid>https://www.npmjs.com/package/ticker-symbol-search</guid>
+            <pubDate>Mon, 03 May 2021 16:39:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What’s new in NodeJS v16?]]></title>
@@ -31,66 +73,6 @@
             <link>mailto:react@17.0.2</link>
             <guid>mailto:react@17.0.2</guid>
             <pubDate>Sun, 02 May 2021 19:58:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is this how you respond to an API auth challenge?]]></title>
-            <link>https://github.com/jlobos/instagram-web-api#getchallengeparams</link>
-            <guid>https://github.com/jlobos/instagram-web-api#getchallengeparams</guid>
-            <pubDate>Sun, 02 May 2021 21:26:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Managing user devices with stateless authentication (w/ example)]]></title>
-            <link>https://link.medium.com/X5QFSpO1Vfb</link>
-            <guid>https://link.medium.com/X5QFSpO1Vfb</guid>
-            <pubDate>Sun, 02 May 2021 16:13:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How should I store Authentication Tokens for different users on my web app?]]></title>
-            <link>https://127.0.0.1:3000/</link>
-            <guid>https://127.0.0.1:3000/</guid>
-            <pubDate>Sun, 02 May 2021 11:02:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reference project to scaffold a Kubernetes Node Express app]]></title>
-            <link>https://skaffold.dev/</link>
-            <guid>https://skaffold.dev/</guid>
-            <pubDate>Sun, 02 May 2021 11:58:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prisma for NodeJS is ready for Production Environments]]></title>
-            <link>https://sudosecurity.org/prisma-for-nodejs-is-released/</link>
-            <guid>https://sudosecurity.org/prisma-for-nodejs-is-released/</guid>
-            <pubDate>Sun, 02 May 2021 00:10:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Extract text from image using node.js.]]></title>
-            <link>http://theflowingfact.blogspot.com/2020/05/nodejs-extract-text-from-image-using.html</link>
-            <guid>http://theflowingfact.blogspot.com/2020/05/nodejs-extract-text-from-image-using.html</guid>
-            <pubDate>Sun, 02 May 2021 03:47:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cloning JavaScript objects with graph theory]]></title>
-            <link>https://andreasimonecosta.dev/posts/cloning-javascript-objects-with-graph-theory/</link>
-            <guid>https://andreasimonecosta.dev/posts/cloning-javascript-objects-with-graph-theory/</guid>
-            <pubDate>Sat, 01 May 2021 08:37:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[Node/Nextjs] Is it common for Node to spawn many processes?]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Sun, 02 May 2021 01:21:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Having issues securing my API using middleware because of socket events]]></title>
-            <link>https://socket.io/</link>
-            <guid>https://socket.io/</guid>
-            <pubDate>Sat, 01 May 2021 20:08:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Partner Up for Learning]]></title>
-            <link>https://discord.gg/ayeGrsaSG2</link>
-            <guid>https://discord.gg/ayeGrsaSG2</guid>
-            <pubDate>Sat, 01 May 2021 19:35:03 GMT</pubDate>
         </item>
     </channel>
 </rss>

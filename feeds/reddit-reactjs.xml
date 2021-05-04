@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Mon, 03 May 2021 07:50:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 May 2021 07:48:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,70 +21,58 @@
             <pubDate>Sat, 01 May 2021 18:07:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Trigonometric Function Visualizer, my first project in ReactJS!]]></title>
-            <link>https://streamable.com/kkepug</link>
-            <guid>https://streamable.com/kkepug</guid>
-            <pubDate>Sun, 02 May 2021 10:20:41 GMT</pubDate>
+            <title><![CDATA[How React hooks work - in depth]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Mon, 03 May 2021 12:17:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Judge my portfolio/employability]]></title>
-            <link>https://www.andrew43.dev/</link>
-            <guid>https://www.andrew43.dev/</guid>
-            <pubDate>Mon, 03 May 2021 02:24:15 GMT</pubDate>
+            <title><![CDATA[Mantine – new React library, 60+ hooks and components with dark theme support]]></title>
+            <link>https://mantine.dev/</link>
+            <guid>https://mantine.dev/</guid>
+            <pubDate>Mon, 03 May 2021 15:06:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pretty happy with how this menu turned out. Beautiful-React-DnD is amazing!]]></title>
-            <link>https://im3.ezgif.com/tmp/ezgif-3-8afec7d9a524.gif</link>
-            <guid>https://im3.ezgif.com/tmp/ezgif-3-8afec7d9a524.gif</guid>
-            <pubDate>Sun, 02 May 2021 23:06:55 GMT</pubDate>
+            <title><![CDATA[Vaccine Notifier - Get notifications when a vaccine slot is available for your age group in India]]></title>
+            <link>https://www.vaccinenotifier.in/</link>
+            <guid>https://www.vaccinenotifier.in/</guid>
+            <pubDate>Tue, 04 May 2021 05:09:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Request : Feedback on My Portfolio built on React]]></title>
-            <link>https://tusharshahi.github.io/</link>
-            <guid>https://tusharshahi.github.io/</guid>
-            <pubDate>Sun, 02 May 2021 17:23:42 GMT</pubDate>
+            <title><![CDATA[Improving slow mounts in React apps]]></title>
+            <link>https://aggelosarvanitakis.medium.com/improving-slow-mounts-in-react-apps-cff5117696dc?source=friends_link&amp;sk=f0ec0408c4f0c744c6d4f4748267d174</link>
+            <guid>https://aggelosarvanitakis.medium.com/improving-slow-mounts-in-react-apps-cff5117696dc?source=friends_link&amp;sk=f0ec0408c4f0c744c6d4f4748267d174</guid>
+            <pubDate>Mon, 03 May 2021 09:12:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I wrote a Carousel component using React.js that SOLVES the 20 common issues with other carousels]]></title>
-            <link>https://yifanai.com/rc</link>
-            <guid>https://yifanai.com/rc</guid>
-            <pubDate>Sun, 02 May 2021 11:48:59 GMT</pubDate>
+            <title><![CDATA[An article on React best practices]]></title>
+            <link>https://onoufriosm.medium.com/react-best-practices-react-at-scale-part-1-74234290ef19</link>
+            <guid>https://onoufriosm.medium.com/react-best-practices-react-at-scale-part-1-74234290ef19</guid>
+            <pubDate>Mon, 03 May 2021 20:58:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Open-sourcing Remotebear, a remote jobs aggregator built with Node.js and Next.js]]></title>
-            <link>https://mmazzarolo.com/blog/2021-05-01-open-sourcing-remotebear/</link>
-            <guid>https://mmazzarolo.com/blog/2021-05-01-open-sourcing-remotebear/</guid>
-            <pubDate>Sun, 02 May 2021 12:54:25 GMT</pubDate>
+            <title><![CDATA[Is 0kb of JavaScript in your Future?]]></title>
+            <link>https://dev.to/this-is-learning/is-0kb-of-javascript-in-your-future-48og</link>
+            <guid>https://dev.to/this-is-learning/is-0kb-of-javascript-in-your-future-48og</guid>
+            <pubDate>Mon, 03 May 2021 17:53:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[hard time in understanding some concepts]]></title>
-            <link>https://gist.github.com/sebmarkbage/a5ef436427437a98408672108df01919</link>
-            <guid>https://gist.github.com/sebmarkbage/a5ef436427437a98408672108df01919</guid>
-            <pubDate>Mon, 03 May 2021 00:16:26 GMT</pubDate>
+            <title><![CDATA[A small, low-feature library to help render loading states]]></title>
+            <link>https://github.com/JeremyRH/react-promise-utils</link>
+            <guid>https://github.com/JeremyRH/react-promise-utils</guid>
+            <pubDate>Tue, 04 May 2021 02:13:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Paperboard - a cli application for managing a reading list of bookmarks from the Internet]]></title>
-            <link>https://github.com/majidsajadi/paperboard</link>
-            <guid>https://github.com/majidsajadi/paperboard</guid>
-            <pubDate>Sun, 02 May 2021 20:52:06 GMT</pubDate>
+            <title><![CDATA[Looking for News Outlet API for posting Press Releases. (Or a point to some documentation on how else to achieve this.)]]></title>
+            <link>https://www.prlog.org/</link>
+            <guid>https://www.prlog.org/</guid>
+            <pubDate>Tue, 04 May 2021 00:26:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Todo App With GraphQL, Express.js & React - Episode 1]]></title>
-            <link>https://ardaorkin.hashnode.dev/todo-app-with-graphql-expressjs-and-react-episode-1</link>
-            <guid>https://ardaorkin.hashnode.dev/todo-app-with-graphql-expressjs-and-react-episode-1</guid>
-            <pubDate>Sun, 02 May 2021 17:02:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JS to TSX i need some help]]></title>
-            <link>https://event.target/</link>
-            <guid>https://event.target/</guid>
-            <pubDate>Sun, 02 May 2021 20:27:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Just created my first medium article about react hooks. Would be nice to get some feedback if you like it and what you else want me to write about.]]></title>
-            <link>https://kahlei.de/how-to-successfully-manage-react-hooks-from-scratch-a5d0f0cad8fe</link>
-            <guid>https://kahlei.de/how-to-successfully-manage-react-hooks-from-scratch-a5d0f0cad8fe</guid>
-            <pubDate>Sun, 02 May 2021 20:19:44 GMT</pubDate>
+            <title><![CDATA[C#, JQuery, MS SQL Server vs. React.JS-based application]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Mon, 03 May 2021 23:32:28 GMT</pubDate>
         </item>
     </channel>
 </rss>

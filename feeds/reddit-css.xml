@@ -4,87 +4,45 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Sun, 02 May 2021 07:49:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 May 2021 07:48:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[I did a small study of popular/important websites CSS design: Is my approach to CSS wrong?]]></title>
+            <link>https://stackoverflow.com/questions/29229523/how-and-why-to-use-display-table-cell-css</link>
+            <guid>https://stackoverflow.com/questions/29229523/how-and-why-to-use-display-table-cell-css</guid>
+            <pubDate>Mon, 03 May 2021 21:21:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CSS Hell - To Hell with bad CSS!]]></title>
+            <link>https://csshell.dev/</link>
+            <guid>https://csshell.dev/</guid>
+            <pubDate>Mon, 03 May 2021 13:54:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Should DevTools teach the CSS cascade?]]></title>
+            <link>https://www.stefanjudis.com/blog/should-devtools-teach-the-css-cascade/</link>
+            <guid>https://www.stefanjudis.com/blog/should-devtools-teach-the-css-cascade/</guid>
+            <pubDate>Mon, 03 May 2021 13:52:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Animate a Mobile Hamburger Bar Menu Using CSS and Just a Hint of JavaScript]]></title>
+            <link>https://blog.bitsrc.io/animate-a-mobile-hamburger-bar-menu-using-css-and-just-a-hint-of-javascript-f31f928eb992</link>
+            <guid>https://blog.bitsrc.io/animate-a-mobile-hamburger-bar-menu-using-css-and-just-a-hint-of-javascript-f31f928eb992</guid>
+            <pubDate>Mon, 03 May 2021 22:56:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quick CSS3 Overview...]]></title>
+            <link>https://www.tutorialslogic.com/css?.v.3.</link>
+            <guid>https://www.tutorialslogic.com/css?.v.3.</guid>
+            <pubDate>Mon, 03 May 2021 12:58:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Learn about Flexbox with interactive tool that generates CSS]]></title>
             <link>https://www.task17.com/tools/flexbox/</link>
             <guid>https://www.task17.com/tools/flexbox/</guid>
             <pubDate>Sat, 01 May 2021 23:25:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How we display tournament brackets on Leaguepedia using CSS grid & pseudoelements]]></title>
-            <link>https://river.me/blog/tournament-brackets/</link>
-            <guid>https://river.me/blog/tournament-brackets/</guid>
-            <pubDate>Sat, 01 May 2021 21:35:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I made a tiny react library to created frosted glass effect of icons]]></title>
-            <link>https://github.com/JP1016/react-icon-blur</link>
-            <guid>https://github.com/JP1016/react-icon-blur</guid>
-            <pubDate>Sat, 01 May 2021 10:29:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Feedback on my first website for a client?]]></title>
-            <link>https://www.dmabrahams.com/latest/index</link>
-            <guid>https://www.dmabrahams.com/latest/index</guid>
-            <pubDate>Fri, 30 Apr 2021 22:32:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How can I get a table to format in Gmail?]]></title>
-            <link>https://github.com/clyall/FormEmailer</link>
-            <guid>https://github.com/clyall/FormEmailer</guid>
-            <pubDate>Fri, 30 Apr 2021 18:25:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blocked scroll on mobile after pressing "ADD TO CART" button -- any idea why this would happen?]]></title>
-            <link>https://nextlevelartwork.com/</link>
-            <guid>https://nextlevelartwork.com/</guid>
-            <pubDate>Fri, 30 Apr 2021 18:11:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dark Mode with Style Dictionary]]></title>
-            <link>https://dbanks.design/blog/dark-mode-with-style-dictionary/</link>
-            <guid>https://dbanks.design/blog/dark-mode-with-style-dictionary/</guid>
-            <pubDate>Fri, 30 Apr 2021 13:29:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[font-display: swap --> not working on my site! What am I doing wrong here?]]></title>
-            <link>https://nextlevelartwork.com/</link>
-            <guid>https://nextlevelartwork.com/</guid>
-            <pubDate>Fri, 30 Apr 2021 01:49:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Complete Guide to CSS Position — static, relative, absolute, fixed, and sticky]]></title>
-            <link>https://codecrunch.org/css-position-23ad6d0cc5f9</link>
-            <guid>https://codecrunch.org/css-position-23ad6d0cc5f9</guid>
-            <pubDate>Fri, 30 Apr 2021 07:20:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[fit-content and fit-content()]]></title>
-            <link>https://www.quirksmode.org/blog/archives/2021/04/fitcontent_and.html</link>
-            <guid>https://www.quirksmode.org/blog/archives/2021/04/fitcontent_and.html</guid>
-            <pubDate>Thu, 29 Apr 2021 12:56:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Flexbox works — explained with big, colorful, animated gifs]]></title>
-            <link>https://www.freecodecamp.org/news/an-animated-guide-to-flexbox-d280cf6afc35/</link>
-            <guid>https://www.freecodecamp.org/news/an-animated-guide-to-flexbox-d280cf6afc35/</guid>
-            <pubDate>Thu, 29 Apr 2021 01:01:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How do you put a position: absolute  at the top of the page?]]></title>
-            <link>https://stackoverflow.com/questions/5104093/css-absolute-position-an-inner-div-to-the-top-of-the-page-ignoring-parents-relat</link>
-            <guid>https://stackoverflow.com/questions/5104093/css-absolute-position-an-inner-div-to-the-top-of-the-page-ignoring-parents-relat</guid>
-            <pubDate>Thu, 29 Apr 2021 21:03:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is this CSS or a video played back and forth?]]></title>
-            <link>https://www.apple.com/ipad-pro/</link>
-            <guid>https://www.apple.com/ipad-pro/</guid>
-            <pubDate>Wed, 28 Apr 2021 21:48:51 GMT</pubDate>
         </item>
     </channel>
 </rss>

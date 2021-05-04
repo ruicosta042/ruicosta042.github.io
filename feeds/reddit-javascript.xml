@@ -4,15 +4,87 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Mon, 03 May 2021 07:50:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 May 2021 07:48:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Your /r/javascript recap for the week of April 19 - April 25]]></title>
+            <title><![CDATA[Your /r/javascript recap for the week of April 26 - May 02]]></title>
             <link>https://foo.com/</link>
             <guid>https://foo.com/</guid>
-            <pubDate>Mon, 26 Apr 2021 09:04:55 GMT</pubDate>
+            <pubDate>Mon, 03 May 2021 09:03:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is 0kb of JavaScript in your Future?]]></title>
+            <link>https://dev.to/this-is-learning/is-0kb-of-javascript-in-your-future-48og</link>
+            <guid>https://dev.to/this-is-learning/is-0kb-of-javascript-in-your-future-48og</guid>
+            <pubDate>Mon, 03 May 2021 17:52:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In-depth Tutorial: How to build a free Discord bot with Node.js and Autocode (x-post r/node)]]></title>
+            <link>https://autocode.com/guides/how-to-build-a-discord-bot/</link>
+            <guid>https://autocode.com/guides/how-to-build-a-discord-bot/</guid>
+            <pubDate>Tue, 04 May 2021 06:12:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mantine – new React library, 60+ hooks and components with dark theme support]]></title>
+            <link>https://mantine.dev/</link>
+            <guid>https://mantine.dev/</guid>
+            <pubDate>Mon, 03 May 2021 14:55:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Build a SaaS Platform with Next.js, Auth0, Prisma and Stripe]]></title>
+            <link>https://jonmeyers.io/blog/build-a-saas-platform-with-stripe</link>
+            <guid>https://jonmeyers.io/blog/build-a-saas-platform-with-stripe</guid>
+            <pubDate>Mon, 03 May 2021 12:59:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I built a cool 3D visualization library, grafar]]></title>
+            <link>https://thoughtspile.github.io/grafar/?new</link>
+            <guid>https://thoughtspile.github.io/grafar/?new</guid>
+            <pubDate>Mon, 03 May 2021 19:25:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ESBuild and SWC result in more than fifteen times speed up for builds.]]></title>
+            <link>https://github.com/djalbat/watchful-cli</link>
+            <guid>https://github.com/djalbat/watchful-cli</guid>
+            <pubDate>Mon, 03 May 2021 21:23:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I found this particles library while searching for some ideas for my projects and it's awesome. It has also react, vue, angular and more components.]]></title>
+            <link>https://github.com/matteobruni/tsparticles</link>
+            <guid>https://github.com/matteobruni/tsparticles</guid>
+            <pubDate>Mon, 03 May 2021 22:19:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Measuring Web Performance in 2021: The Definitive Guide]]></title>
+            <link>https://requestmetrics.com/web-performance/measure-web-performance</link>
+            <guid>https://requestmetrics.com/web-performance/measure-web-performance</guid>
+            <pubDate>Mon, 03 May 2021 16:53:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I just created the chrome extension 'Reddit Wherever'. It allows you to view Reddit posts/comments of your current URL. Feedback would be appreciated (GitHub in comments).]]></title>
+            <link>https://chrome.google.com/webstore/detail/reddit-wherever/delfgcgfgfjlllhhcgiaacchlnhljbcm</link>
+            <guid>https://chrome.google.com/webstore/detail/reddit-wherever/delfgcgfgfjlllhhcgiaacchlnhljbcm</guid>
+            <pubDate>Mon, 03 May 2021 00:37:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SyncPaint 0.8 adds drawing shapes]]></title>
+            <link>https://github.com/pkrasicki/SyncPaint/releases/tag/v0.8</link>
+            <guid>https://github.com/pkrasicki/SyncPaint/releases/tag/v0.8</guid>
+            <pubDate>Mon, 03 May 2021 17:10:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Solaire v0.1 - A simple and intuitive framework for building Discord bots]]></title>
+            <link>https://github.com/wwselleck/solaire-discord</link>
+            <guid>https://github.com/wwselleck/solaire-discord</guid>
+            <pubDate>Mon, 03 May 2021 19:22:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Test your web application to see if it uses outdated APIs.]]></title>
+            <link>https://github.com/nuxodin/cleanup.js</link>
+            <guid>https://github.com/nuxodin/cleanup.js</guid>
+            <pubDate>Mon, 03 May 2021 12:09:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Spotlight.js v0.7.0 has finally arrived!]]></title>
@@ -21,10 +93,34 @@
             <pubDate>Sun, 02 May 2021 18:26:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I just created the chrome extension 'Reddit Wherever'. It allows you to view Reddit posts/comments of your current URL. Feedback would be appreciated (GitHub in comments).]]></title>
-            <link>https://chrome.google.com/webstore/detail/reddit-wherever/delfgcgfgfjlllhhcgiaacchlnhljbcm</link>
-            <guid>https://chrome.google.com/webstore/detail/reddit-wherever/delfgcgfgfjlllhhcgiaacchlnhljbcm</guid>
-            <pubDate>Mon, 03 May 2021 00:37:26 GMT</pubDate>
+            <title><![CDATA[When to useCallback and useMemo in our React projects?]]></title>
+            <link>https://brayanarrieta.hashnode.dev/when-to-usecallback-and-usememo-in-our-react-projects</link>
+            <guid>https://brayanarrieta.hashnode.dev/when-to-usecallback-and-usememo-in-our-react-projects</guid>
+            <pubDate>Mon, 03 May 2021 21:47:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I ported the react icon blur library to Angular]]></title>
+            <link>https://github.com/wadie/ngx-icon-blur</link>
+            <guid>https://github.com/wadie/ngx-icon-blur</guid>
+            <pubDate>Mon, 03 May 2021 08:00:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GitHub Profile README Generator]]></title>
+            <link>https://github.com/rahulbanerjee26/githubProfileReadmeGenerator</link>
+            <guid>https://github.com/rahulbanerjee26/githubProfileReadmeGenerator</guid>
+            <pubDate>Mon, 03 May 2021 15:24:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reduce State Management Footprint with React Query]]></title>
+            <link>https://blog.testdouble.com/posts/2021-05-03-reduce-state-management-with-react-query/</link>
+            <guid>https://blog.testdouble.com/posts/2021-05-03-reduce-state-management-with-react-query/</guid>
+            <pubDate>Mon, 03 May 2021 14:42:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NestJS + React (Next.js) in one MVC repo for rapid prototyping]]></title>
+            <link>https://csaba-apagyi.medium.com/nestjs-react-next-js-in-one-mvc-repo-for-rapid-prototyping-faed42a194ca</link>
+            <guid>https://csaba-apagyi.medium.com/nestjs-react-next-js-in-one-mvc-repo-for-rapid-prototyping-faed42a194ca</guid>
+            <pubDate>Mon, 03 May 2021 12:51:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Random-colors-palette]]></title>
@@ -61,90 +157,6 @@
             <link>https://alkeshghorpade.me/post/leetcode-container-with-most-water</link>
             <guid>https://alkeshghorpade.me/post/leetcode-container-with-most-water</guid>
             <pubDate>Sun, 02 May 2021 16:47:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ractive-player now exports to mp4! Create interactive *and* "real" videos in React]]></title>
-            <link>https://ractive-player.org/blog/2021/05/01/rp-master</link>
-            <guid>https://ractive-player.org/blog/2021/05/01/rp-master</guid>
-            <pubDate>Sat, 01 May 2021 05:03:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Leon Open-Source Personal Assistant: Getting Rid of Dust / 1.0.0-beta.4]]></title>
-            <link>https://blog.getleon.ai/getting-rid-of-dust-1-0-0-beta-4/</link>
-            <guid>https://blog.getleon.ai/getting-rid-of-dust-1-0-0-beta-4/</guid>
-            <pubDate>Sat, 01 May 2021 14:03:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New formatting concept for JSON based virtual DOM]]></title>
-            <link>https://tobiasuhlig.medium.com/new-formatting-concept-for-json-based-virtual-dom-ee52acc5e04a?source=friends_link&amp;sk=94f69dc71f662e0027118052ceb2db38</link>
-            <guid>https://tobiasuhlig.medium.com/new-formatting-concept-for-json-based-virtual-dom-ee52acc5e04a?source=friends_link&amp;sk=94f69dc71f662e0027118052ceb2db38</guid>
-            <pubDate>Sat, 01 May 2021 15:27:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Node.js v10 Is Being End-of-Lifed Today, but What Does It All Mean?]]></title>
-            <link>https://lakatos.medium.com/node-js-10-is-being-end-of-lifed-today-but-what-does-it-all-mean-cec2c275bdcc</link>
-            <guid>https://lakatos.medium.com/node-js-10-is-being-end-of-lifed-today-but-what-does-it-all-mean-cec2c275bdcc</guid>
-            <pubDate>Fri, 30 Apr 2021 17:43:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cloning JavaScript objects with graph theory]]></title>
-            <link>https://andreasimonecosta.dev/posts/cloning-javascript-objects-with-graph-theory/</link>
-            <guid>https://andreasimonecosta.dev/posts/cloning-javascript-objects-with-graph-theory/</guid>
-            <pubDate>Fri, 30 Apr 2021 18:21:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2 JavaScript memory concerns for React developers]]></title>
-            <link>https://dev.to/alekseiberezkin/2-javascript-memory-concerns-for-react-developers-19i1</link>
-            <guid>https://dev.to/alekseiberezkin/2-javascript-memory-concerns-for-react-developers-19i1</guid>
-            <pubDate>Sat, 01 May 2021 15:43:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AskJS] Why are large, sprawling functions more common than small, compact ones?]]></title>
-            <link>https://github.com/bahmutov</link>
-            <guid>https://github.com/bahmutov</guid>
-            <pubDate>Fri, 30 Apr 2021 15:49:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[manifetch: A manifest-based fetch() API client builder.]]></title>
-            <link>https://github.com/terixjs/manifetch</link>
-            <guid>https://github.com/terixjs/manifetch</guid>
-            <pubDate>Fri, 30 Apr 2021 04:11:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Declarative Shadow DOM]]></title>
-            <link>https://h3manth.com/new/blog/2021/declarative-shadow-dom/</link>
-            <guid>https://h3manth.com/new/blog/2021/declarative-shadow-dom/</guid>
-            <pubDate>Fri, 30 Apr 2021 22:02:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JavaScript Design Patterns]]></title>
-            <link>https://www.dofactory.com/javascript/design-patterns</link>
-            <guid>https://www.dofactory.com/javascript/design-patterns</guid>
-            <pubDate>Fri, 30 Apr 2021 11:41:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A JavaScript optimizing compiler]]></title>
-            <link>https://medium.com/leaningtech/a-javascript-optimizing-compiler-3fd3f49bd071</link>
-            <guid>https://medium.com/leaningtech/a-javascript-optimizing-compiler-3fd3f49bd071</guid>
-            <pubDate>Thu, 29 Apr 2021 10:03:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UI testing - types of tests]]></title>
-            <link>https://kristijan-pajtasev.hashnode.dev/ui-testing-types-of-tests</link>
-            <guid>https://kristijan-pajtasev.hashnode.dev/ui-testing-types-of-tests</guid>
-            <pubDate>Fri, 30 Apr 2021 11:40:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scaling out JavaScript Monorepos with Yarn Workspaces]]></title>
-            <link>https://semaphoreci.com/blog/javascript-monorepos-yarn-workspaces</link>
-            <guid>https://semaphoreci.com/blog/javascript-monorepos-yarn-workspaces</guid>
-            <pubDate>Thu, 29 Apr 2021 13:00:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Open source [ReactJS] [Vanilla JavaScript] [Golang] live polling site/stream wrapper for the NFL draft starting tonight (8pm EST)]]></title>
-            <link>https://github.com/EmperorEarth/aliask-gtm-nfl-draft</link>
-            <guid>https://github.com/EmperorEarth/aliask-gtm-nfl-draft</guid>
-            <pubDate>Thu, 29 Apr 2021 13:28:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

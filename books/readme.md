@@ -13,6 +13,7 @@
 | Andrew Marr        | The Making of Modern Britain                                                 | 2020-06-13 |
 | Niall Ferguson     | Empire: How Britain Made the Modern World                                    | 2020-07-12 |
 | Andrew Marr        | A History of Modern Britain                                                  | 2020-07-19 |
+| Iain M. Banks      | The State of the Art                                                         | 2021-02-12 |
 | Ted Chiang         | Stories of Your Life and Other Stories                                       | 2021-04-25 |
 
 ## Ready to read

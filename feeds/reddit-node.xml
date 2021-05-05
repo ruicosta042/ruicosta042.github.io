@@ -4,10 +4,16 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Tue, 04 May 2021 07:48:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 May 2021 07:48:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[All you need to know to move from CommonJS to ECMAScript Modules (ESM) in Node.js]]></title>
+            <link>https://pawelgrzybek.com/all-you-need-to-know-to-move-from-commonjs-to-ecmascript-modules-esm-in-node-js/</link>
+            <guid>https://pawelgrzybek.com/all-you-need-to-know-to-move-from-commonjs-to-ecmascript-modules-esm-in-node-js/</guid>
+            <pubDate>Wed, 05 May 2021 06:38:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[In-depth Tutorial: How to build a free Discord bot with Node.js and Autocode]]></title>
             <link>https://autocode.com/guides/how-to-build-a-discord-bot/</link>
@@ -15,10 +21,28 @@
             <pubDate>Tue, 04 May 2021 06:12:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Top 10 Node.js Security Best Practices]]></title>
-            <link>https://solaceinfotech.com/blog/whats-new-in-node-js-15/</link>
-            <guid>https://solaceinfotech.com/blog/whats-new-in-node-js-15/</guid>
-            <pubDate>Tue, 04 May 2021 06:52:25 GMT</pubDate>
+            <title><![CDATA[Im finishing up my phone number verification API and am looking for Javascript beta testers! Receive $50 in platform credits or 75% off as a token of my gratitude (details in comments)]]></title>
+            <link>https://jverify.us/</link>
+            <guid>https://jverify.us/</guid>
+            <pubDate>Tue, 04 May 2021 19:13:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fix syntax errors]]></title>
+            <link>https://flatiron.app/</link>
+            <guid>https://flatiron.app/</guid>
+            <pubDate>Tue, 04 May 2021 20:39:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Implementing Discord bot in NodeJS that requires new members to introduce themselves]]></title>
+            <link>https://wasp-lang.dev/blog/2021/04/29/discord-bot-introduction</link>
+            <guid>https://wasp-lang.dev/blog/2021/04/29/discord-bot-introduction</guid>
+            <pubDate>Tue, 04 May 2021 16:12:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Node v16.1.0 (Current)]]></title>
+            <link>https://nodejs.org/en/blog/release/v16.1.0/</link>
+            <guid>https://nodejs.org/en/blog/release/v16.1.0/</guid>
+            <pubDate>Tue, 04 May 2021 15:27:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[API with NestJS #34. Handling CPU-intensive tasks with queues]]></title>
@@ -33,46 +57,16 @@
             <pubDate>Mon, 03 May 2021 06:47:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Top 10 Node.js Security Best Practices]]></title>
+            <link>https://solaceinfotech.com/blog/whats-new-in-node-js-15/</link>
+            <guid>https://solaceinfotech.com/blog/whats-new-in-node-js-15/</guid>
+            <pubDate>Tue, 04 May 2021 06:52:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I made a(nother) NVM for Windows]]></title>
             <link>https://github.com/FoxAndFly/NodeSwap</link>
             <guid>https://github.com/FoxAndFly/NodeSwap</guid>
             <pubDate>Mon, 03 May 2021 20:18:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[how to get data from Axios object]]></title>
-            <link>https://r.data/</link>
-            <guid>https://r.data/</guid>
-            <pubDate>Mon, 03 May 2021 20:27:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Just released a tool to organize your screen shots by date and parse them for text so they can be searched via grep / Finder / Explorer - Let me know what you think]]></title>
-            <link>https://www.npmjs.com/package/cluttr</link>
-            <guid>https://www.npmjs.com/package/cluttr</guid>
-            <pubDate>Mon, 03 May 2021 12:36:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Interesting observation here about the event loop which had me puzzled for a while]]></title>
-            <link>https://stackoverflow.com/questions/47724811/why-setimmediate-execute-before-fs-readfile-in-nodejs-event-loops-works#:~:text=setImmediate()%20is%20registered%20into,(running%20in%20the%20background).</link>
-            <guid>https://stackoverflow.com/questions/47724811/why-setimmediate-execute-before-fs-readfile-in-nodejs-event-loops-works#:~:text=setImmediate()%20is%20registered%20into,(running%20in%20the%20background).</guid>
-            <pubDate>Sun, 02 May 2021 19:40:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[npm install ticker-symbol-search]]></title>
-            <link>https://www.npmjs.com/package/ticker-symbol-search</link>
-            <guid>https://www.npmjs.com/package/ticker-symbol-search</guid>
-            <pubDate>Mon, 03 May 2021 16:39:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What’s new in NodeJS v16?]]></title>
-            <link>https://medium.com/javarevisited/whats-new-in-nodejs-v16-b15e3734a51c</link>
-            <guid>https://medium.com/javarevisited/whats-new-in-nodejs-v16-b15e3734a51c</guid>
-            <pubDate>Sun, 02 May 2021 12:49:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[npm install react-chatbot-kit]]></title>
-            <link>mailto:react@17.0.2</link>
-            <guid>mailto:react@17.0.2</guid>
-            <pubDate>Sun, 02 May 2021 19:58:54 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>JavaScript Weekly</title>
         <link>https://javascriptweekly.com/</link>
         <description>A newsletter of JavaScript articles, news and cool projects</description>
-        <lastBuildDate>Sat, 01 May 2021 07:48:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 May 2021 07:48:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -16,8 +16,8 @@
         </item>
         <item>
             <title><![CDATA[What's Next? The Future of Node.js]]></title>
-            <link>https://www.youtube.com/watch?v=vrnToZP47Ro</link>
-            <guid>https://www.youtube.com/watch?v=vrnToZP47Ro</guid>
+            <link>https://m.youtube.com/watch?v=vrnToZP47Ro</link>
+            <guid>https://m.youtube.com/watch?v=vrnToZP47Ro</guid>
             <pubDate>Fri, 30 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>

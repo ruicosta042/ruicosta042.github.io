@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Tue, 04 May 2021 07:48:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 May 2021 07:48:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,16 +21,10 @@
             <pubDate>Sat, 01 May 2021 18:07:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How React hooks work - in depth]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Mon, 03 May 2021 12:17:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mantine – new React library, 60+ hooks and components with dark theme support]]></title>
-            <link>https://mantine.dev/</link>
-            <guid>https://mantine.dev/</guid>
-            <pubDate>Mon, 03 May 2021 15:06:12 GMT</pubDate>
+            <title><![CDATA[Never write React Cards/Modals more than once anymore!🎫]]></title>
+            <link>https://www.npmjs.com/package/cardon</link>
+            <guid>https://www.npmjs.com/package/cardon</guid>
+            <pubDate>Wed, 05 May 2021 05:24:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vaccine Notifier - Get notifications when a vaccine slot is available for your age group in India]]></title>
@@ -39,40 +33,40 @@
             <pubDate>Tue, 04 May 2021 05:09:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Improving slow mounts in React apps]]></title>
-            <link>https://aggelosarvanitakis.medium.com/improving-slow-mounts-in-react-apps-cff5117696dc?source=friends_link&amp;sk=f0ec0408c4f0c744c6d4f4748267d174</link>
-            <guid>https://aggelosarvanitakis.medium.com/improving-slow-mounts-in-react-apps-cff5117696dc?source=friends_link&amp;sk=f0ec0408c4f0c744c6d4f4748267d174</guid>
-            <pubDate>Mon, 03 May 2021 09:12:23 GMT</pubDate>
+            <title><![CDATA[Error in removing eventListener as a clean function in useEffect return statement.]]></title>
+            <link>https://drive.google.com/file/d/17t7QB0XdNum-KfPIVlwuPbFIQlSkNULu/view?usp=sharing</link>
+            <guid>https://drive.google.com/file/d/17t7QB0XdNum-KfPIVlwuPbFIQlSkNULu/view?usp=sharing</guid>
+            <pubDate>Wed, 05 May 2021 06:09:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[An article on React best practices]]></title>
-            <link>https://onoufriosm.medium.com/react-best-practices-react-at-scale-part-1-74234290ef19</link>
-            <guid>https://onoufriosm.medium.com/react-best-practices-react-at-scale-part-1-74234290ef19</guid>
-            <pubDate>Mon, 03 May 2021 20:58:45 GMT</pubDate>
+            <title><![CDATA[State not updating correctly]]></title>
+            <link>https://ibb.co/RzgmdWh</link>
+            <guid>https://ibb.co/RzgmdWh</guid>
+            <pubDate>Wed, 05 May 2021 05:21:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Is 0kb of JavaScript in your Future?]]></title>
-            <link>https://dev.to/this-is-learning/is-0kb-of-javascript-in-your-future-48og</link>
-            <guid>https://dev.to/this-is-learning/is-0kb-of-javascript-in-your-future-48og</guid>
-            <pubDate>Mon, 03 May 2021 17:53:37 GMT</pubDate>
+            <title><![CDATA[Google Place lookup]]></title>
+            <link>https://github.com/Tintef/react-google-places-autocomplete</link>
+            <guid>https://github.com/Tintef/react-google-places-autocomplete</guid>
+            <pubDate>Wed, 05 May 2021 03:02:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A small, low-feature library to help render loading states]]></title>
-            <link>https://github.com/JeremyRH/react-promise-utils</link>
-            <guid>https://github.com/JeremyRH/react-promise-utils</guid>
-            <pubDate>Tue, 04 May 2021 02:13:42 GMT</pubDate>
+            <title><![CDATA[Count down timer useState doesnt work!]]></title>
+            <link>https://codesandbox.io/s/crazy-keller-f3rvu?file=/src/App.js</link>
+            <guid>https://codesandbox.io/s/crazy-keller-f3rvu?file=/src/App.js</guid>
+            <pubDate>Wed, 05 May 2021 02:20:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Looking for News Outlet API for posting Press Releases. (Or a point to some documentation on how else to achieve this.)]]></title>
-            <link>https://www.prlog.org/</link>
-            <guid>https://www.prlog.org/</guid>
-            <pubDate>Tue, 04 May 2021 00:26:19 GMT</pubDate>
+            <title><![CDATA[[Please HELP]Unable to save firebase redirect email in localstorage from heroku but works fine in localhost.]]></title>
+            <link>http://yakandyeti.herokuapp.com/</link>
+            <guid>http://yakandyeti.herokuapp.com/</guid>
+            <pubDate>Wed, 05 May 2021 02:13:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[C#, JQuery, MS SQL Server vs. React.JS-based application]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Mon, 03 May 2021 23:32:28 GMT</pubDate>
+            <title><![CDATA[JSON data with Rechart and React props]]></title>
+            <link>https://stackoverflow.com/questions/67393284/json-data-with-rechart-and-react-props</link>
+            <guid>https://stackoverflow.com/questions/67393284/json-data-with-rechart-and-react-props</guid>
+            <pubDate>Tue, 04 May 2021 23:50:16 GMT</pubDate>
         </item>
     </channel>
 </rss>

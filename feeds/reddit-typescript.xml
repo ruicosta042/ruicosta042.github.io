@@ -4,27 +4,39 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Tue, 04 May 2021 07:48:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 May 2021 07:48:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Vaccine Notifier (India) - A simple way to get notified on Chrome when vaccine slots are available]]></title>
-            <link>https://www.vaccinenotifier.in/</link>
-            <guid>https://www.vaccinenotifier.in/</guid>
-            <pubDate>Tue, 04 May 2021 05:11:17 GMT</pubDate>
+            <title><![CDATA[Converting Javascript package to Typescript]]></title>
+            <link>https://github.com/gayathrithedev/react-native-chip-input</link>
+            <guid>https://github.com/gayathrithedev/react-native-chip-input</guid>
+            <pubDate>Wed, 05 May 2021 07:00:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I created a Github action using typescript that auto-populates your Github readme learned section using remote notion db.]]></title>
+            <link>https://github.com/Devorein/github-readme-learn-section-notion</link>
+            <guid>https://github.com/Devorein/github-readme-learn-section-notion</guid>
+            <pubDate>Tue, 04 May 2021 14:00:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to practically use unions to prevent invalid states?]]></title>
+            <link>https://www.typescriptlang.org/play?#code/C4TwDgpgBAQghgZwgEQE4HswBN0HcB2UAvFAN5RwA2lAXFAEbrqURz4DcUAtgJb4R1GzVhygh0AV1QJBTFm04BfAFChIUNJhwEAysDjBoJZVFNkK1OsFQSInXvzoAzKkk7ipMqC8puoiqAAfEzNyKlpvVztuPgFI32iPaSsbaIDgs3Nw5yj7WJTbd0lk+L90qBDTMMtS6Ic460KxYq9GtIrlAGN0fARgKCwMbDx8PQM4zWHdfUNiMkqLCLaAGgX6nITVzKSvHyRVlS6evqgkFk7gADEeSkNUAHkwYB4egAVEBD4AcwBJUZmjFAABSYZ49OgAcnCEKCUAh9RhgThOwhyygYFQEAAbmNDHRJtp-uMAJT4oaE3FGAB881MLH6-Fw11uEFQAFk4GAyVoRpT2CEeE5gaCXoQiOK4dDibSzIzmXcOWA5tUlqk0etamidhskP5+aZFBAEqQFgB6U1QH5Cs4QC4QLBQEU9KA8BD4CH9YDoL5fFgO51UTFwLAgNHoVAuoWMYAACxi-CgADJmp4KJiLEGQ6cjbbDFgFoKgQBCDHYykAbSd+AAukEkUDSziAeX4bEIbXE8nGxWISjq8TiSbMqY5TcFZzlVAAHQz7sAtHZTVQStPUXVuhFwY86bjFdgmsqTKG40LEcQJlj1mKyeLlbxuJ7CBalo66CKfVmQ-+EIhTHAKSEKOLLspy-LvsoyjmgAqp8+BfFAvroPQVBQFicCoDwcD0CwwK4JIlAOvQ0BBhcpwAi6hCxq6UCdIgEDSjgEAIFA+DoP0eGoAA1kcvT9DaFzyqyjz7gA6jwsaSMAACCqBfBIXAQPg-QkCCq7gpK1CInCCKwr2LQQqSGjkry5FEDSQ5QPSLHnoJIFckZ25EoYH6CsKalihKUKadKFlnhewHXiQKoFE+96vs+nivnqITHkgvmRkCW5TE5EAtgiHbJklFLNnpnjtoOp7Wf545KkF04zllJnjAuNSPmie5rhulU7oYDU9NWX4GkacWFUBJU3jUd4anVKYlI+0VHjFP6mH+AFFbZipgfykEWj8WCsNQICnOgClUXBlk8Jx0BUcxeESARUAcdx3S8dm5xXJeqAACrer6gKqfukLQrpOlIrl0gGdyyWUsQ5khFZfVXpydDwEgBIjJOM5Ts1KUTZGbn7sQnlSjKfkLROZW3mqYVLtqtRo7FEDxZDdltTWcybsZLWpVW1Yfl+N0nI0sYgAA0hAIDMSQ9z0AAVrmU5HYLQI04qxJTk4j1AkCUvEmZ82PYq5ZSxQzFS+gQrw8z-YuU4xbczGfMCwgU4sHBsYFcOGsBQTWSDcTw1RBFY1RBTv4QP+qCATZmugco4FAA</link>
+            <guid>https://www.typescriptlang.org/play?#code/C4TwDgpgBAQghgZwgEQE4HswBN0HcB2UAvFAN5RwA2lAXFAEbrqURz4DcUAtgJb4R1GzVhygh0AV1QJBTFm04BfAFChIUNJhwEAysDjBoJZVFNkK1OsFQSInXvzoAzKkk7ipMqC8puoiqAAfEzNyKlpvVztuPgFI32iPaSsbaIDgs3Nw5yj7WJTbd0lk+L90qBDTMMtS6Ic460KxYq9GtIrlAGN0fARgKCwMbDx8PQM4zWHdfUNiMkqLCLaAGgX6nITVzKSvHyRVlS6evqgkFk7gADEeSkNUAHkwYB4egAVEBD4AcwBJUZmjFAABSYZ49OgAcnCEKCUAh9RhgThOwhyygYFQEAAbmNDHRJtp-uMAJT4oaE3FGAB881MLH6-Fw11uEFQAFk4GAyVoRpT2CEeE5gaCXoQiOK4dDibSzIzmXcOWA5tUlqk0etamidhskP5+aZFBAEqQFgB6U1QH5Cs4QC4QLBQEU9KA8BD4CH9YDoL5fFgO51UTFwLAgNHoVAuoWMYAACxi-CgADJmp4KJiLEGQ6cjbbDFgFoKgQBCDHYykAbSd+AAukEkUDSziAeX4bEIbXE8nGxWISjq8TiSbMqY5TcFZzlVAAHQz7sAtHZTVQStPUXVuhFwY86bjFdgmsqTKG40LEcQJlj1mKyeLlbxuJ7CBalo66CKfVmQ-+EIhTHAKSEKOLLspy-LvsoyjmgAqp8+BfFAvroPQVBQFicCoDwcD0CwwK4JIlAOvQ0BBhcpwAi6hCxq6UCdIgEDSjgEAIFA+DoP0eGoAA1kcvT9DaFzyqyjz7gA6jwsaSMAACCqBfBIXAQPg-QkCCq7gpK1CInCCKwr2LQQqSGjkry5FEDSQ5QPSLHnoJIFckZ25EoYH6CsKalihKUKadKFlnhewHXiQKoFE+96vs+nivnqITHkgvmRkCW5TE5EAtgiHbJklFLNnpnjtoOp7Wf545KkF04zllJnjAuNSPmie5rhulU7oYDU9NWX4GkacWFUBJU3jUd4anVKYlI+0VHjFP6mH+AFFbZipgfykEWj8WCsNQICnOgClUXBlk8Jx0BUcxeESARUAcdx3S8dm5xXJeqAACrer6gKqfukLQrpOlIrl0gGdyyWUsQ5khFZfVXpydDwEgBIjJOM5Ts1KUTZGbn7sQnlSjKfkLROZW3mqYVLtqtRo7FEDxZDdltTWcybsZLWpVW1Yfl+N0nI0sYgAA0hAIDMSQ9z0AAVrmU5HYLQI04qxJTk4j1AkCUvEmZ82PYq5ZSxQzFS+gQrw8z-YuU4xbczGfMCwgU4sHBsYFcOGsBQTWSDcTw1RBFY1RBTv4QP+qCATZmugco4FAA</guid>
+            <pubDate>Tue, 04 May 2021 15:18:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I have made a decorators based testing framework for typescript called oral.]]></title>
+            <link>https://github.com/tanay-pingalkar/oral</link>
+            <guid>https://github.com/tanay-pingalkar/oral</guid>
+            <pubDate>Tue, 04 May 2021 08:59:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[`window.getComputedStyle` Object is possibly 'null'.ts(2531)]]></title>
             <link>https://stackoverflow.com/a/24366628/6141587</link>
             <guid>https://stackoverflow.com/a/24366628/6141587</guid>
             <pubDate>Mon, 03 May 2021 13:37:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Typescript and react conditional render]]></title>
-            <link>https://www.typescriptlang.org/play?#code/JYWwDg9gTgLgBAJQKYEMDGMA0cDeBhCcCAOyWJgF84AzKQuAcilQwYG4BYAKG5gE8wSOABEoKajALgUxPnAC8ubnBVxgAEwBccYgFcANvuWriKEEm0BnGFGDEA5pm4VOPLv0FwpYGXMUB5EGAYAB5RcUlCH1lsBg0GAD44ADIlLlU1LR1dEAAjJChXF25eASEABTowSwU0jLQo321vXzgAHxExCRaY4xUSYSR9JBgkHr5tAAoG6VkASSy9PIKASgUkgDcIDScuChKuNH0USxrxhAgAdzgkAA9R4nUzqJIyeBDKiGqknD64AAsZOphoNhqNxrVJmt5D8-hkYP9gJYAHRgKoogZDEZjRqySYIpGo9HImbRPjIjQrVwZYpuDLMR4FSHQ2HpDKqZgwXRQYhwSZw9kqELqYAbBICwUZYWihI4AkotFfFGk3zI0zmCghAD0IrFEslQt14rZBtNcBCuV0MBgJDgIssKFyw3U8jliIVxJVsgp6gU8kUekMVBIeH0wDQAGtXfLkYDHiCseDcXwKFrjWbBdqjfqpTqZfqVn99nsDndILA7UhqCgDPBzlc2EA</link>
-            <guid>https://www.typescriptlang.org/play?#code/JYWwDg9gTgLgBAJQKYEMDGMA0cDeBhCcCAOyWJgF84AzKQuAcilQwYG4BYAKG5gE8wSOABEoKajALgUxPnAC8ubnBVxgAEwBccYgFcANvuWriKEEm0BnGFGDEA5pm4VOPLv0FwpYGXMUB5EGAYAB5RcUlCH1lsBg0GAD44ADIlLlU1LR1dEAAjJChXF25eASEABTowSwU0jLQo321vXzgAHxExCRaY4xUSYSR9JBgkHr5tAAoG6VkASSy9PIKASgUkgDcIDScuChKuNH0USxrxhAgAdzgkAA9R4nUzqJIyeBDKiGqknD64AAsZOphoNhqNxrVJmt5D8-hkYP9gJYAHRgKoogZDEZjRqySYIpGo9HImbRPjIjQrVwZYpuDLMR4FSHQ2HpDKqZgwXRQYhwSZw9kqELqYAbBICwUZYWihI4AkotFfFGk3zI0zmCghAD0IrFEslQt14rZBtNcBCuV0MBgJDgIssKFyw3U8jliIVxJVsgp6gU8kUekMVBIeH0wDQAGtXfLkYDHiCseDcXwKFrjWbBdqjfqpTqZfqVn99nsDndILA7UhqCgDPBzlc2EA</guid>
-            <pubDate>Mon, 03 May 2021 01:54:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[GitHub style split diffs in your terminal]]></title>
@@ -61,30 +73,6 @@
             <link>https://kristiandupont.medium.com/and-naming-things-tailwind-css-typescript-and-mammals-9eab459633d2</link>
             <guid>https://kristiandupont.medium.com/and-naming-things-tailwind-css-typescript-and-mammals-9eab459633d2</guid>
             <pubDate>Fri, 30 Apr 2021 12:48:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Type safe symbol map]]></title>
-            <link>https://www.typescriptlang.org/play?#code/FAYw9gdgzgLgBAZQIxwLyIJ4FsBGYA2AFAETLECUA3KJLIgExqa4EkL0XXACWEMApgCcAZgEMQ-OAEk+KAN5wAbqPwBXfkgBccCKtxDKcAL48+QsROl9GC5Wv71tsQbwDmhk6YEjxkqQmw8fABZUQAHODlgOBi4AG1kAF1tGRgkABpo2IT6ZKsYekzPGAwwv1CwgBVS-gAeSrh+AA8BCAATKDgAa34MMGFpAJYQ8IA+Jgr69MHAggq4ysTRrnBoeCxwlIrqstqevoH-WZGw8fQIfgB3OArCKmAaNbhXfhgpASwmesaW-nbO-b9GbDCqjQhdbSVcgpIZBeaLNDjKKxOCCV6qQQQOAbMIAOheMHB5AAhHBRJ0jiDwgtEoYAPQAKjgAHUABYYODcTowVlcuAgcnwC4SKBQUSCDAAfjgDLpwE8qzoAjo6DuiMiWRiivgihQ6AJ734WEIyCocE1SiQuLs6j1cCQ1BR2qUjH1r0NxvY9xRino1pU6ldcGIHGoRiAA</link>
-            <guid>https://www.typescriptlang.org/play?#code/FAYw9gdgzgLgBAZQIxwLyIJ4FsBGYA2AFAETLECUA3KJLIgExqa4EkL0XXACWEMApgCcAZgEMQ-OAEk+KAN5wAbqPwBXfkgBccCKtxDKcAL48+QsROl9GC5Wv71tsQbwDmhk6YEjxkqQmw8fABZUQAHODlgOBi4AG1kAF1tGRgkABpo2IT6ZKsYekzPGAwwv1CwgBVS-gAeSrh+AA8BCAATKDgAa34MMGFpAJYQ8IA+Jgr69MHAggq4ysTRrnBoeCxwlIrqstqevoH-WZGw8fQIfgB3OArCKmAaNbhXfhgpASwmesaW-nbO-b9GbDCqjQhdbSVcgpIZBeaLNDjKKxOCCV6qQQQOAbMIAOheMHB5AAhHBRJ0jiDwgtEoYAPQAKjgAHUABYYODcTowVlcuAgcnwC4SKBQUSCDAAfjgDLpwE8qzoAjo6DuiMiWRiivgihQ6AJ734WEIyCocE1SiQuLs6j1cCQ1BR2qUjH1r0NxvY9xRino1pU6ldcGIHGoRiAA</guid>
-            <pubDate>Fri, 30 Apr 2021 20:42:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A JavaScript optimizing compiler: JavaScript -> TypeScript -> C++ -> JavaScript]]></title>
-            <link>https://medium.com/leaningtech/a-javascript-optimizing-compiler-3fd3f49bd071</link>
-            <guid>https://medium.com/leaningtech/a-javascript-optimizing-compiler-3fd3f49bd071</guid>
-            <pubDate>Thu, 29 Apr 2021 11:43:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Writing better TypeScript]]></title>
-            <link>https://stefan-bauer.online/writing-better-type-script/</link>
-            <guid>https://stefan-bauer.online/writing-better-type-script/</guid>
-            <pubDate>Wed, 28 Apr 2021 06:33:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Random Typescript Chat]]></title>
-            <link>https://calendly.com/victorofoegbu0009/typescript</link>
-            <guid>https://calendly.com/victorofoegbu0009/typescript</guid>
-            <pubDate>Wed, 28 Apr 2021 11:43:34 GMT</pubDate>
         </item>
     </channel>
 </rss>

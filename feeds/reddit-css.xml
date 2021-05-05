@@ -4,10 +4,28 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Tue, 04 May 2021 07:48:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 May 2021 07:48:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[How CSS pseudo-elements work a ridiculously simple explanation]]></title>
+            <link>https://peterlunch.com/css-pseudo-elements/?utm_source=reddit-css&amp;utm_medium=link&amp;utm_campaign=css-psuedo-elements</link>
+            <guid>https://peterlunch.com/css-pseudo-elements/?utm_source=reddit-css&amp;utm_medium=link&amp;utm_campaign=css-psuedo-elements</guid>
+            <pubDate>Tue, 04 May 2021 10:08:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The State of CSS Cross-Browser Development]]></title>
+            <link>https://ishadeed.com/article/cross-browser-development/</link>
+            <guid>https://ishadeed.com/article/cross-browser-development/</guid>
+            <pubDate>Tue, 04 May 2021 19:36:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Two options for using custom properties]]></title>
+            <link>https://www.quirksmode.org/blog/archives/2021/05/two_options_for.html</link>
+            <guid>https://www.quirksmode.org/blog/archives/2021/05/two_options_for.html</guid>
+            <pubDate>Tue, 04 May 2021 15:04:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I did a small study of popular/important websites CSS design: Is my approach to CSS wrong?]]></title>
             <link>https://stackoverflow.com/questions/29229523/how-and-why-to-use-display-table-cell-css</link>
@@ -31,18 +49,6 @@
             <link>https://blog.bitsrc.io/animate-a-mobile-hamburger-bar-menu-using-css-and-just-a-hint-of-javascript-f31f928eb992</link>
             <guid>https://blog.bitsrc.io/animate-a-mobile-hamburger-bar-menu-using-css-and-just-a-hint-of-javascript-f31f928eb992</guid>
             <pubDate>Mon, 03 May 2021 22:56:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Quick CSS3 Overview...]]></title>
-            <link>https://www.tutorialslogic.com/css?.v.3.</link>
-            <guid>https://www.tutorialslogic.com/css?.v.3.</guid>
-            <pubDate>Mon, 03 May 2021 12:58:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Learn about Flexbox with interactive tool that generates CSS]]></title>
-            <link>https://www.task17.com/tools/flexbox/</link>
-            <guid>https://www.task17.com/tools/flexbox/</guid>
-            <pubDate>Sat, 01 May 2021 23:25:05 GMT</pubDate>
         </item>
     </channel>
 </rss>

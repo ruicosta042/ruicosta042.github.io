@@ -4,7 +4,7 @@
         <title>Frontend Focus</title>
         <link>https://frontendfoc.us/</link>
         <description>A once–weekly roundup of the best front-end news, articles and tutorials. HTML, CSS, WebGL, Canvas, browser tech, and more.</description>
-        <lastBuildDate>Tue, 04 May 2021 07:47:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 May 2021 07:48:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -106,8 +106,8 @@
         </item>
         <item>
             <title><![CDATA[Build and Deploy a Responsive Gallery Portfolio using HTML and CSS]]></title>
-            <link>https://m.youtube.com/watch?v=exghLWA3ZIU</link>
-            <guid>https://m.youtube.com/watch?v=exghLWA3ZIU</guid>
+            <link>https://www.youtube.com/watch?v=exghLWA3ZIU</link>
+            <guid>https://www.youtube.com/watch?v=exghLWA3ZIU</guid>
             <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>

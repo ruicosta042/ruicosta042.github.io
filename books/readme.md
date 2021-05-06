@@ -29,7 +29,7 @@
 
 ## Want to read
 
-_Science fiction_
+**Science fiction**
 
 |                    |                              |
 | ------------------ | ---------------------------- |
@@ -38,7 +38,7 @@ _Science fiction_
 | Iain M. Banks      | The Player Of Games          |
 | Robert A. Heinlein | The Moon is a Harsh Mistress |
 
-_Popular science_
+**Popular science**
 
 |                      |                                                                                               |
 | -------------------- | --------------------------------------------------------------------------------------------- |
@@ -51,7 +51,7 @@ _Popular science_
 | Melanie Mitchell     | Artificial Intelligence : A Guide for Thinking Humans                                         |
 | Siddhartha Mukherjee | The Gene : An Intimate History                                                                |
 
-_Non fiction_
+**Non fiction**
 
 |                           |                                                                                      |
 | ------------------------- | ------------------------------------------------------------------------------------ |
@@ -66,29 +66,29 @@ _Non fiction_
 | Simon Singh               | The Code Book : The Secret History of Codes and Code-Breaking                        |
 | Susan Cain                | Quiet: The Power of Introverts in a World That Can't Stop Talking                    |
 
-_History_
+**History**
 
-|                      |                                                                                             |
-| -------------------- | ------------------------------------------------------------------------------------------- |
-| Albert Hourani       | A History of the Arab Peoples                                                               |
-| Alexander Lee        | Machiavelli : His Life and Times                                                            |
-| Andrew Chaikin       | A Man on the Moon : The Voyages of the Apollo Astronauts                                    |
-| Christopher Harding  | Japan Story : In Search of a Nation, 1850 to the Present                                    |
-| David Edgerton       | The Rise and Fall of the British Nation : A Twentieth-Century History                       |
-| Jill Lepore          | These Truths : A History of the United States                                               |
-| John Lewis Gaddis    | The Cold War                                                                                |
-| Professor Mary Beard | SPQR : A History of Ancient Rome                                                            |
-| Richard Holmes       | The Age of Wonder : How the Romantic Generation Discovered the Beauty and Terror of Science |
-| Robin Waterfield     | Creators, Conquerors, and Citizens : A History of Ancient Greece                            |
-| Toby Wilkinson       | The Rise and Fall of Ancient Egypt                                                          |
+|                      |                                                                                            |
+| -------------------- | ------------------------------------------------------------------------------------------ |
+| Albert Hourani       | A History of the Arab Peoples                                                              |
+| Andrew Chaikin       | A Man on the Moon : The Voyages of the Apollo Astronauts                                   |
+| Anthony Gottlieb     | The Dream of Enlightenment                                                                 |
+| Anthony Gottlieb     | The Dream of Reason                                                                        |
+| Christopher Harding  | Japan Story : In Search of a Nation, 1850 to the Present                                   |
+| David Edgerton       | The Rise and Fall of the British Nation : A Twentieth-Century History                      |
+| Jill Lepore          | These Truths : A History of the United States                                              |
+| John Lewis Gaddis    | The Cold War                                                                               |
+| Professor Mary Beard | SPQR : A History of Ancient Rome                                                           |
+| Richard Holmes       | The Age of Wonder: How the Romantic Generation Discovered the Beauty and Terror of Science |
+| Toby Wilkinson       | The Rise and Fall of Ancient Egypt                                                         |
 
-_Biography_
+**Biography**
 
 |                  |                                                                          |
 | ---------------- | ------------------------------------------------------------------------ |
 | Emmanuel Carrère | I Am Alive and You are Dead: A Journey Inside the Mind of Philip K. Dick |
 
-_Tech_
+**Tech**
 
 |                 |                                                                                                   |
 | --------------- | ------------------------------------------------------------------------------------------------- |

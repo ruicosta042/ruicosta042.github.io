@@ -4,10 +4,40 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Wed, 05 May 2021 07:48:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 May 2021 07:49:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Dependency Managers Don’t Manage Your Dependencies]]></title>
+            <link>https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies</link>
+            <guid>https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies</guid>
+            <pubDate>Wed, 05 May 2021 22:51:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hire a certified node js developer for your business projects!]]></title>
+            <link>https://www.bacancytechnology.com/node-js-development</link>
+            <guid>https://www.bacancytechnology.com/node-js-development</guid>
+            <pubDate>Thu, 06 May 2021 05:37:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Project ideas ?]]></title>
+            <link>https://github.com/glamboyosa/create-readmes</link>
+            <guid>https://github.com/glamboyosa/create-readmes</guid>
+            <pubDate>Wed, 05 May 2021 14:59:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to implement an exponential backoff retry strategy in Javascript]]></title>
+            <link>https://advancedweb.hu/how-to-implement-an-exponential-backoff-retry-strategy-in-javascript/</link>
+            <guid>https://advancedweb.hu/how-to-implement-an-exponential-backoff-retry-strategy-in-javascript/</guid>
+            <pubDate>Wed, 05 May 2021 21:06:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nesting GitHub’s API in your GraphQL Schema]]></title>
+            <link>https://www.parabol.co/blog/nest-github-api-in-graphql-schema</link>
+            <guid>https://www.parabol.co/blog/nest-github-api-in-graphql-schema</guid>
+            <pubDate>Wed, 05 May 2021 20:34:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[All you need to know to move from CommonJS to ECMAScript Modules (ESM) in Node.js]]></title>
             <link>https://pawelgrzybek.com/all-you-need-to-know-to-move-from-commonjs-to-ecmascript-modules-esm-in-node-js/</link>
@@ -15,58 +45,16 @@
             <pubDate>Wed, 05 May 2021 06:38:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[In-depth Tutorial: How to build a free Discord bot with Node.js and Autocode]]></title>
-            <link>https://autocode.com/guides/how-to-build-a-discord-bot/</link>
-            <guid>https://autocode.com/guides/how-to-build-a-discord-bot/</guid>
-            <pubDate>Tue, 04 May 2021 06:12:16 GMT</pubDate>
+            <title><![CDATA[[HELP] isModified() always returns true]]></title>
+            <link>https://stackoverflow.com/questions/67394027/mongoose-pre-save-hook-ismodified-always-returns-true</link>
+            <guid>https://stackoverflow.com/questions/67394027/mongoose-pre-save-hook-ismodified-always-returns-true</guid>
+            <pubDate>Wed, 05 May 2021 09:42:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Im finishing up my phone number verification API and am looking for Javascript beta testers! Receive $50 in platform credits or 75% off as a token of my gratitude (details in comments)]]></title>
-            <link>https://jverify.us/</link>
-            <guid>https://jverify.us/</guid>
-            <pubDate>Tue, 04 May 2021 19:13:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fix syntax errors]]></title>
-            <link>https://flatiron.app/</link>
-            <guid>https://flatiron.app/</guid>
-            <pubDate>Tue, 04 May 2021 20:39:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Implementing Discord bot in NodeJS that requires new members to introduce themselves]]></title>
-            <link>https://wasp-lang.dev/blog/2021/04/29/discord-bot-introduction</link>
-            <guid>https://wasp-lang.dev/blog/2021/04/29/discord-bot-introduction</guid>
-            <pubDate>Tue, 04 May 2021 16:12:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Node v16.1.0 (Current)]]></title>
-            <link>https://nodejs.org/en/blog/release/v16.1.0/</link>
-            <guid>https://nodejs.org/en/blog/release/v16.1.0/</guid>
-            <pubDate>Tue, 04 May 2021 15:27:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[API with NestJS #34. Handling CPU-intensive tasks with queues]]></title>
-            <link>https://wanago.io/2021/05/03/api-nestjs-cpu-intensive-tasks-queues/</link>
-            <guid>https://wanago.io/2021/05/03/api-nestjs-cpu-intensive-tasks-queues/</guid>
-            <pubDate>Mon, 03 May 2021 18:45:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I made an authentication server that handles user registration, authentication & authorization with JWT.]]></title>
-            <link>https://github.com/coluck/authentication-server</link>
-            <guid>https://github.com/coluck/authentication-server</guid>
-            <pubDate>Mon, 03 May 2021 06:47:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Top 10 Node.js Security Best Practices]]></title>
-            <link>https://solaceinfotech.com/blog/whats-new-in-node-js-15/</link>
-            <guid>https://solaceinfotech.com/blog/whats-new-in-node-js-15/</guid>
-            <pubDate>Tue, 04 May 2021 06:52:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I made a(nother) NVM for Windows]]></title>
-            <link>https://github.com/FoxAndFly/NodeSwap</link>
-            <guid>https://github.com/FoxAndFly/NodeSwap</guid>
-            <pubDate>Mon, 03 May 2021 20:18:28 GMT</pubDate>
+            <title><![CDATA[What makes Node.js special?]]></title>
+            <link>https://exceed-team.com/tech/top-node.js-frameworks-to-use-in-2021?s=re&amp;a=a</link>
+            <guid>https://exceed-team.com/tech/top-node.js-frameworks-to-use-in-2021?s=re&amp;a=a</guid>
+            <pubDate>Wed, 05 May 2021 13:51:39 GMT</pubDate>
         </item>
     </channel>
 </rss>

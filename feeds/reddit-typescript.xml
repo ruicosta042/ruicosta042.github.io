@@ -4,10 +4,22 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Wed, 05 May 2021 07:48:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 May 2021 07:49:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Splice an array into an array causing error to be thrown]]></title>
+            <link>https://stackoverflow.com/a/12190006/436493</link>
+            <guid>https://stackoverflow.com/a/12190006/436493</guid>
+            <pubDate>Wed, 05 May 2021 14:51:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Function parameter types aren't inferred for overloaded function type]]></title>
+            <link>https://www.typescriptlang.org/play?#code/JYOwLgpgTgZghgYwgAgMJwDYYEaINbIDeAUMsgBQBumArhAFzIg0C220ANMgCYD2IDZPAwBnCAEpGlXsG4BuUhWoY6jAZU49+gsFDqTk02QoC+xYhAAeAB15QwPCAgxwoKGDRAIwwfsj0g5AjYjOhYuAh4Bkby5gHkVLQQXHwC4sgAvAB8ROYm4kA</link>
+            <guid>https://www.typescriptlang.org/play?#code/JYOwLgpgTgZghgYwgAgMJwDYYEaINbIDeAUMsgBQBumArhAFzIg0C220ANMgCYD2IDZPAwBnCAEpGlXsG4BuUhWoY6jAZU49+gsFDqTk02QoC+xYhAAeAB15QwPCAgxwoKGDRAIwwfsj0g5AjYjOhYuAh4Bkby5gHkVLQQXHwC4sgAvAB8ROYm4kA</guid>
+            <pubDate>Wed, 05 May 2021 12:21:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Converting Javascript package to Typescript]]></title>
             <link>https://github.com/gayathrithedev/react-native-chip-input</link>
@@ -49,30 +61,6 @@
             <link>https://github.com/Tanuel/baggy</link>
             <guid>https://github.com/Tanuel/baggy</guid>
             <pubDate>Sun, 02 May 2021 01:34:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Declaring variables within blocks and returning them in a method]]></title>
-            <link>https://www.typescriptlang.org/play?ssl=1&amp;ssc=1&amp;pln=17&amp;pc=2#code/GYVwdgxgLglg9mABAIwIYCcAUYQFsBciOuyApugJSIDeAUIg4jMItnogHyICMADFXUZDEUABbo4AdyKlpAUXQSsAcnJLlFeowC+tLQ3SkoIdEmK1dtUJFgJEwOHDYEieMpULF3NfSPQBPH2FGABsjRAA3VBCQUkQAXhQMZ00hbUQIVCgIUVZSAV8hMKhI6NiEngBWX0shQ2NTUpjSCyA</link>
-            <guid>https://www.typescriptlang.org/play?ssl=1&amp;ssc=1&amp;pln=17&amp;pc=2#code/GYVwdgxgLglg9mABAIwIYCcAUYQFsBciOuyApugJSIDeAUIg4jMItnogHyICMADFXUZDEUABbo4AdyKlpAUXQSsAcnJLlFeowC+tLQ3SkoIdEmK1dtUJFgJEwOHDYEieMpULF3NfSPQBPH2FGABsjRAA3VBCQUkQAXhQMZ00hbUQIVCgIUVZSAV8hMKhI6NiEngBWX0shQ2NTUpjSCyA</guid>
-            <pubDate>Sun, 02 May 2021 01:23:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Help mapping JSON string to types]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Sat, 01 May 2021 20:56:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[why am I getting a linting error here?]]></title>
-            <link>https://www.typescriptlang.org/play?#code/MYewdgzgLgBCBGArGBeGBvAUDHMCCAXBtrqQEJFanW4DCRAjADQk0C+LpHmbA3KzUGkBQoZlCRYtGEQBEtWanmz+48NBgA3AIYAbVHCQA6PAG1ZZWQF1TtK6oCmADwAOIAE6woATxcP8Bj5+IABmhogm5pY2dvyi8TBAA</link>
-            <guid>https://www.typescriptlang.org/play?#code/MYewdgzgLgBCBGArGBeGBvAUDHMCCAXBtrqQEJFanW4DCRAjADQk0C+LpHmbA3KzUGkBQoZlCRYtGEQBEtWanmz+48NBgA3AIYAbVHCQA6PAG1ZZWQF1TtK6oCmADwAOIAE6woATxcP8Bj5+IABmhogm5pY2dvyi8TBAA</guid>
-            <pubDate>Sat, 01 May 2021 06:41:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[…and naming things; Tailwind CSS, Typescript and mammals]]></title>
-            <link>https://kristiandupont.medium.com/and-naming-things-tailwind-css-typescript-and-mammals-9eab459633d2</link>
-            <guid>https://kristiandupont.medium.com/and-naming-things-tailwind-css-typescript-and-mammals-9eab459633d2</guid>
-            <pubDate>Fri, 30 Apr 2021 12:48:57 GMT</pubDate>
         </item>
     </channel>
 </rss>

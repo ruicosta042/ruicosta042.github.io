@@ -4,105 +4,105 @@
         <title>React Status</title>
         <link>https://react.statuscode.com/</link>
         <description>A weekly roundup of the latest React and React Native links and tutorials.</description>
-        <lastBuildDate>Thu, 29 Apr 2021 07:46:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 May 2021 07:48:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[React Table Guide and Best React Table Examples]]></title>
-            <link>https://flatlogic.com/blog/react-table-guide-and-best-react-table-examples/</link>
-            <guid>https://flatlogic.com/blog/react-table-guide-and-best-react-table-examples/</guid>
-            <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Mantine: A New React Component Library]]></title>
+            <link>https://mantine.dev/</link>
+            <guid>https://mantine.dev/</guid>
+            <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Redux 4.1 Released]]></title>
-            <link>https://github.com/reduxjs/redux/releases/tag/v4.1.0</link>
-            <guid>https://github.com/reduxjs/redux/releases/tag/v4.1.0</guid>
-            <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[A Comparison of Five React Frameworks]]></title>
+            <link>https://m.youtube.com/watch?v=dfMhRYOtglg&amp;feature=youtu.be</link>
+            <guid>https://m.youtube.com/watch?v=dfMhRYOtglg&amp;feature=youtu.be</guid>
+            <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React Components as TypeScript Generic Functions]]></title>
-            <link>https://t.co/1Fq7h75TFH?amp=1</link>
-            <guid>https://t.co/1Fq7h75TFH?amp=1</guid>
-            <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Next.js 10.2]]></title>
+            <link>https://nextjs.org/blog/next-10-2</link>
+            <guid>https://nextjs.org/blog/next-10-2</guid>
+            <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How To Build a Table of Contents in React]]></title>
-            <link>https://www.emgoto.com/react-table-of-contents/</link>
-            <guid>https://www.emgoto.com/react-table-of-contents/</guid>
-            <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Ten Apps That Use React Native]]></title>
+            <link>https://t.co/Jkko0Sc0VO?amp=1</link>
+            <guid>https://t.co/Jkko0Sc0VO?amp=1</guid>
+            <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[21 Best Practices for a Clean React Project]]></title>
-            <link>https://t.co/foz0nkgTUb?amp=1</link>
-            <guid>https://t.co/foz0nkgTUb?amp=1</guid>
-            <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[TypeScript Function Syntaxes]]></title>
+            <link>https://kentcdodds.com/blog/typescript-function-syntaxes/</link>
+            <guid>https://kentcdodds.com/blog/typescript-function-syntaxes/</guid>
+            <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Handling Offline Mode in React Native]]></title>
-            <link>https://around25.com/blog/handling-offline-mode-in-react-native/</link>
-            <guid>https://around25.com/blog/handling-offline-mode-in-react-native/</guid>
-            <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[A Vite 2.0 Crash Course]]></title>
+            <link>https://www.youtube.com/watch?v=LQQ3CR2JTX8</link>
+            <guid>https://www.youtube.com/watch?v=LQQ3CR2JTX8</guid>
+            <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How To Deploy a React Router-Based Application to Netlify]]></title>
-            <link>https://www.freecodecamp.org/news/how-to-deploy-react-router-based-app-to-netlify/</link>
-            <guid>https://www.freecodecamp.org/news/how-to-deploy-react-router-based-app-to-netlify/</guid>
-            <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Creating a Web App with Yarn Workspace, TypeScript, esbuild, React, and Express]]></title>
+            <link>https://halftheopposite.dev/post/app-yarn-typescript-esbuild-part-1</link>
+            <guid>https://halftheopposite.dev/post/app-yarn-typescript-esbuild-part-1</guid>
+            <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Build an SaaS Platform with Stripe]]></title>
-            <link>https://jonmeyers.io/blog/build-a-saas-platform-with-stripe</link>
-            <guid>https://jonmeyers.io/blog/build-a-saas-platform-with-stripe</guid>
-            <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Adding Image Upload to a React Native App with AWS Amplify]]></title>
+            <link>https://dev.to/aws/adding-image-upload-to-a-react-native-app-with-aws-amplify-4j7m</link>
+            <guid>https://dev.to/aws/adding-image-upload-to-a-react-native-app-with-aws-amplify-4j7m</guid>
+            <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Google Sheets Using React TypeScript]]></title>
-            <link>https://t.co/tdh4Cuitve?amp=1</link>
-            <guid>https://t.co/tdh4Cuitve?amp=1</guid>
-            <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Create a Whack a Mole Game With React and JavaScript]]></title>
+            <link>https://t.co/ua5FS8JCmf?amp=1</link>
+            <guid>https://t.co/ua5FS8JCmf?amp=1</guid>
+            <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How To Add a Netlify Form to a React App Built With create-react-app]]></title>
-            <link>https://www.freecodecamp.org/news/how-to-add-a-netlify-form-to-a-react-app/</link>
-            <guid>https://www.freecodecamp.org/news/how-to-add-a-netlify-form-to-a-react-app/</guid>
-            <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[React 17 Adds Support for KeyboardEvent.code Property to SyntheticEvent]]></title>
+            <link>https://blog.saeloun.com/2021/04/23/react-keyboard-event-code</link>
+            <guid>https://blog.saeloun.com/2021/04/23/react-keyboard-event-code</guid>
+            <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Replay 3.0: A React Video Player]]></title>
-            <link>https://github.com/vimond/replay</link>
-            <guid>https://github.com/vimond/replay</guid>
-            <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[react-scroll-sync: Synced Scroll Position Across Multiple Scrollable Elements]]></title>
+            <link>https://github.com/okonet/react-scroll-sync</link>
+            <guid>https://github.com/okonet/react-scroll-sync</guid>
+            <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[useSound: A Hook for Sound Effects]]></title>
-            <link>https://github.com/joshwcomeau/use-sound</link>
-            <guid>https://github.com/joshwcomeau/use-sound</guid>
-            <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[React Hooks Cheat Sheet]]></title>
+            <link>https://gumroad.com/l/react-hooks-cheatsheet</link>
+            <guid>https://gumroad.com/l/react-hooks-cheatsheet</guid>
+            <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Best React Native Libraries for Leveraging Native Features]]></title>
-            <link>https://blog.logrocket.com/the-best-react-native-libraries-for-leveraging-native-features/</link>
-            <guid>https://blog.logrocket.com/the-best-react-native-libraries-for-leveraging-native-features/</guid>
-            <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[ClickableBox: Automatically Add onClick to HTML Elements]]></title>
+            <link>https://github.com/danoc/clickable-box</link>
+            <guid>https://github.com/danoc/clickable-box</guid>
+            <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Helix: ClojureScript Wrapper for React]]></title>
-            <link>https://github.com/lilactown/helix</link>
-            <guid>https://github.com/lilactown/helix</guid>
-            <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[State Designer: Optimizing the State Management Design Experience]]></title>
+            <link>https://www.state-designer.com/</link>
+            <guid>https://www.state-designer.com/</guid>
+            <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[next-translate: Simple i18n Translations for Next.js]]></title>
-            <link>https://github.com/vinissimus/next-translate</link>
-            <guid>https://github.com/vinissimus/next-translate</guid>
-            <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Framer Motion Hooks]]></title>
+            <link>https://github.com/matthiaaas/framer-motion-hooks</link>
+            <guid>https://github.com/matthiaaas/framer-motion-hooks</guid>
+            <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[GeoStyler: A Generic Styler for Map Data]]></title>
-            <link>https://github.com/geostyler/geostyler</link>
-            <guid>https://github.com/geostyler/geostyler</guid>
-            <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Chat UI Kit React: Roll Your Own]]></title>
+            <link>https://github.com/chatscope/chat-ui-kit-react</link>
+            <guid>https://github.com/chatscope/chat-ui-kit-react</guid>
+            <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

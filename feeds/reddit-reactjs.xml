@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Wed, 05 May 2021 07:48:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 May 2021 07:49:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,52 +21,76 @@
             <pubDate>Sat, 01 May 2021 18:07:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Never write React Cards/Modals more than once anymore!🎫]]></title>
-            <link>https://www.npmjs.com/package/cardon</link>
-            <guid>https://www.npmjs.com/package/cardon</guid>
-            <pubDate>Wed, 05 May 2021 05:24:12 GMT</pubDate>
+            <title><![CDATA[I made a website that tells you what food is safe for your dog]]></title>
+            <link>https://github.com/Trinityyi/can-my-dog-eat</link>
+            <guid>https://github.com/Trinityyi/can-my-dog-eat</guid>
+            <pubDate>Wed, 05 May 2021 13:33:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Vaccine Notifier - Get notifications when a vaccine slot is available for your age group in India]]></title>
-            <link>https://www.vaccinenotifier.in/</link>
-            <guid>https://www.vaccinenotifier.in/</guid>
-            <pubDate>Tue, 04 May 2021 05:09:29 GMT</pubDate>
+            <title><![CDATA[Why I finally chose React over Vue]]></title>
+            <link>https://medium.com/@billwohlers/why-i-finally-chose-react-over-vue-f090cb0e097a</link>
+            <guid>https://medium.com/@billwohlers/why-i-finally-chose-react-over-vue-f090cb0e097a</guid>
+            <pubDate>Thu, 06 May 2021 03:02:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Error in removing eventListener as a clean function in useEffect return statement.]]></title>
-            <link>https://drive.google.com/file/d/17t7QB0XdNum-KfPIVlwuPbFIQlSkNULu/view?usp=sharing</link>
-            <guid>https://drive.google.com/file/d/17t7QB0XdNum-KfPIVlwuPbFIQlSkNULu/view?usp=sharing</guid>
-            <pubDate>Wed, 05 May 2021 06:09:11 GMT</pubDate>
+            <title><![CDATA[Visual Testing Handbook—in-depth guide to testing UI appearance with Storybook]]></title>
+            <link>https://storybook.js.org/tutorials/visual-testing-handbook/</link>
+            <guid>https://storybook.js.org/tutorials/visual-testing-handbook/</guid>
+            <pubDate>Wed, 05 May 2021 15:59:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[State not updating correctly]]></title>
-            <link>https://ibb.co/RzgmdWh</link>
-            <guid>https://ibb.co/RzgmdWh</guid>
-            <pubDate>Wed, 05 May 2021 05:21:27 GMT</pubDate>
+            <title><![CDATA[React Project to help People]]></title>
+            <link>mailto:kuldipmochi96@gmail.com</link>
+            <guid>mailto:kuldipmochi96@gmail.com</guid>
+            <pubDate>Thu, 06 May 2021 03:14:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Google Place lookup]]></title>
-            <link>https://github.com/Tintef/react-google-places-autocomplete</link>
-            <guid>https://github.com/Tintef/react-google-places-autocomplete</guid>
-            <pubDate>Wed, 05 May 2021 03:02:16 GMT</pubDate>
+            <title><![CDATA[Material UI Static Date Picker]]></title>
+            <link>https://material-ui.com/components/pickers/</link>
+            <guid>https://material-ui.com/components/pickers/</guid>
+            <pubDate>Thu, 06 May 2021 00:04:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Count down timer useState doesnt work!]]></title>
-            <link>https://codesandbox.io/s/crazy-keller-f3rvu?file=/src/App.js</link>
-            <guid>https://codesandbox.io/s/crazy-keller-f3rvu?file=/src/App.js</guid>
-            <pubDate>Wed, 05 May 2021 02:20:01 GMT</pubDate>
+            <title><![CDATA[How to Develop a Flight Tracker Application with React Gantt Chart]]></title>
+            <link>https://www.syncfusion.com/blogs/post/flight-tracker-application-with-react-gantt-chart.aspx</link>
+            <guid>https://www.syncfusion.com/blogs/post/flight-tracker-application-with-react-gantt-chart.aspx</guid>
+            <pubDate>Thu, 06 May 2021 03:11:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[Please HELP]Unable to save firebase redirect email in localstorage from heroku but works fine in localhost.]]></title>
-            <link>http://yakandyeti.herokuapp.com/</link>
-            <guid>http://yakandyeti.herokuapp.com/</guid>
-            <pubDate>Wed, 05 May 2021 02:13:48 GMT</pubDate>
+            <title><![CDATA[Started learning react this year and made a full-stack social media app. With a lot of help from youtube 😛]]></title>
+            <link>https://github.com/PiPo2Tr/think-it</link>
+            <guid>https://github.com/PiPo2Tr/think-it</guid>
+            <pubDate>Wed, 05 May 2021 08:52:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[JSON data with Rechart and React props]]></title>
-            <link>https://stackoverflow.com/questions/67393284/json-data-with-rechart-and-react-props</link>
-            <guid>https://stackoverflow.com/questions/67393284/json-data-with-rechart-and-react-props</guid>
-            <pubDate>Tue, 04 May 2021 23:50:16 GMT</pubDate>
+            <title><![CDATA[I made a decentralized Q&A website where you earn tokens from upvotes - Uses server-side rendering!]]></title>
+            <link>https://musing.io/#</link>
+            <guid>https://musing.io/#</guid>
+            <pubDate>Wed, 05 May 2021 13:50:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Server-side pagination in React.]]></title>
+            <link>https://everblogs.com/react/3-simple-steps-to-add-pagination-in-react/</link>
+            <guid>https://everblogs.com/react/3-simple-steps-to-add-pagination-in-react/</guid>
+            <pubDate>Wed, 05 May 2021 18:19:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Destructing state right before render]]></title>
+            <link>https://mystate.data/</link>
+            <guid>https://mystate.data/</guid>
+            <pubDate>Wed, 05 May 2021 21:17:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React useFilter hook]]></title>
+            <link>https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers</link>
+            <guid>https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers</guid>
+            <pubDate>Wed, 05 May 2021 15:12:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Has anyone shared code between your web app and Electron app?]]></title>
+            <link>https://slack.engineering/interops-labyrinth-sharing-code-between-web-electron-apps/</link>
+            <guid>https://slack.engineering/interops-labyrinth-sharing-code-between-web-electron-apps/</guid>
+            <pubDate>Wed, 05 May 2021 19:29:29 GMT</pubDate>
         </item>
     </channel>
 </rss>

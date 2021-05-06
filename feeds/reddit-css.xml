@@ -4,10 +4,34 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Wed, 05 May 2021 07:48:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 May 2021 07:49:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Summary of Bootstrap v5 changes & releases up to the latest STABLE VERSION that was released yesterday]]></title>
+            <link>https://mdbootstrap.com/docs/standard/bootstrap-5/</link>
+            <guid>https://mdbootstrap.com/docs/standard/bootstrap-5/</guid>
+            <pubDate>Thu, 06 May 2021 07:29:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is it possible to create a fixed mask over a non-fixed container ?]]></title>
+            <link>https://emojipedia.org/cross-mark/</link>
+            <guid>https://emojipedia.org/cross-mark/</guid>
+            <pubDate>Thu, 06 May 2021 07:37:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Toggling CSS Custom Properties with Radio Buttons]]></title>
+            <link>https://css-irl.info/toggling-css-custom-properties-with-radio-buttons/</link>
+            <guid>https://css-irl.info/toggling-css-custom-properties-with-radio-buttons/</guid>
+            <pubDate>Wed, 05 May 2021 13:08:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Build a real world responsive website with Html 5 css 3 & JS - Free Course From Udemy]]></title>
+            <link>https://www.myfreeonlinecourses.com/2021/05/100-off-build-real-world-responsive.html</link>
+            <guid>https://www.myfreeonlinecourses.com/2021/05/100-off-build-real-world-responsive.html</guid>
+            <pubDate>Wed, 05 May 2021 12:55:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How CSS pseudo-elements work a ridiculously simple explanation]]></title>
             <link>https://peterlunch.com/css-pseudo-elements/?utm_source=reddit-css&amp;utm_medium=link&amp;utm_campaign=css-psuedo-elements</link>
@@ -19,36 +43,6 @@
             <link>https://ishadeed.com/article/cross-browser-development/</link>
             <guid>https://ishadeed.com/article/cross-browser-development/</guid>
             <pubDate>Tue, 04 May 2021 19:36:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two options for using custom properties]]></title>
-            <link>https://www.quirksmode.org/blog/archives/2021/05/two_options_for.html</link>
-            <guid>https://www.quirksmode.org/blog/archives/2021/05/two_options_for.html</guid>
-            <pubDate>Tue, 04 May 2021 15:04:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I did a small study of popular/important websites CSS design: Is my approach to CSS wrong?]]></title>
-            <link>https://stackoverflow.com/questions/29229523/how-and-why-to-use-display-table-cell-css</link>
-            <guid>https://stackoverflow.com/questions/29229523/how-and-why-to-use-display-table-cell-css</guid>
-            <pubDate>Mon, 03 May 2021 21:21:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CSS Hell - To Hell with bad CSS!]]></title>
-            <link>https://csshell.dev/</link>
-            <guid>https://csshell.dev/</guid>
-            <pubDate>Mon, 03 May 2021 13:54:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Should DevTools teach the CSS cascade?]]></title>
-            <link>https://www.stefanjudis.com/blog/should-devtools-teach-the-css-cascade/</link>
-            <guid>https://www.stefanjudis.com/blog/should-devtools-teach-the-css-cascade/</guid>
-            <pubDate>Mon, 03 May 2021 13:52:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Animate a Mobile Hamburger Bar Menu Using CSS and Just a Hint of JavaScript]]></title>
-            <link>https://blog.bitsrc.io/animate-a-mobile-hamburger-bar-menu-using-css-and-just-a-hint-of-javascript-f31f928eb992</link>
-            <guid>https://blog.bitsrc.io/animate-a-mobile-hamburger-bar-menu-using-css-and-just-a-hint-of-javascript-f31f928eb992</guid>
-            <pubDate>Mon, 03 May 2021 22:56:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

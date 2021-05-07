@@ -4,10 +4,28 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Thu, 06 May 2021 07:49:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 May 2021 07:48:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Dependency leaking lib "dom" into my tsconfig]]></title>
+            <link>https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/supertest/tsconfig.json#L6</link>
+            <guid>https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/supertest/tsconfig.json#L6</guid>
+            <pubDate>Thu, 06 May 2021 15:48:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hammer: Using esbuild to create better tools for the web]]></title>
+            <link>https://github.com/sinclairzx81/hammer</link>
+            <guid>https://github.com/sinclairzx81/hammer</guid>
+            <pubDate>Thu, 06 May 2021 08:15:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How should I use useRef with TS & React, Object is possibly 'null'. error]]></title>
+            <link>https://videoelement.current.play/</link>
+            <guid>https://videoelement.current.play/</guid>
+            <pubDate>Thu, 06 May 2021 12:49:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Splice an array into an array causing error to be thrown]]></title>
             <link>https://stackoverflow.com/a/12190006/436493</link>
@@ -43,24 +61,6 @@
             <link>https://github.com/tanay-pingalkar/oral</link>
             <guid>https://github.com/tanay-pingalkar/oral</guid>
             <pubDate>Tue, 04 May 2021 08:59:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[`window.getComputedStyle` Object is possibly 'null'.ts(2531)]]></title>
-            <link>https://stackoverflow.com/a/24366628/6141587</link>
-            <guid>https://stackoverflow.com/a/24366628/6141587</guid>
-            <pubDate>Mon, 03 May 2021 13:37:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GitHub style split diffs in your terminal]]></title>
-            <link>https://github.com/banga/git-split-diffs</link>
-            <guid>https://github.com/banga/git-split-diffs</guid>
-            <pubDate>Sat, 01 May 2021 21:56:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I reverse engineered a npm registry from scratch. It is written entirely in TypeScript and has a low amount of dependencies.]]></title>
-            <link>https://github.com/Tanuel/baggy</link>
-            <guid>https://github.com/Tanuel/baggy</guid>
-            <pubDate>Sun, 02 May 2021 01:34:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

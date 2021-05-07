@@ -4,10 +4,52 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Thu, 06 May 2021 07:49:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 May 2021 07:48:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Real-time log monitoring in the browser using Node.js]]></title>
+            <link>https://roarr.io/</link>
+            <guid>https://roarr.io/</guid>
+            <pubDate>Fri, 07 May 2021 01:44:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Javascript News 1st Week(May) – Babel 7.14.0 Released, Redux 4.1, Next.js 10.2, 15 DevTool Secrets for JavaScript Developers, Node.js 10 went End Of Life - The ArrowFn]]></title>
+            <link>https://thearrowfn.com/javascript-news-1st-weekmay-babel-7-14-0-released-redux-4-1/</link>
+            <guid>https://thearrowfn.com/javascript-news-1st-weekmay-babel-7-14-0-released-redux-4-1/</guid>
+            <pubDate>Fri, 07 May 2021 06:02:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Understanding relationship-based access control (ReBAC)]]></title>
+            <link>https://www.osohq.com/academy/authorization-academy-chapter-4-modeling-relationships</link>
+            <guid>https://www.osohq.com/academy/authorization-academy-chapter-4-modeling-relationships</guid>
+            <pubDate>Thu, 06 May 2021 17:51:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A very over-engineered todo Node app on AWS - Elasticsearch, ECS, Lambda, CodePipeline]]></title>
+            <link>https://github.com/MatthewCYLau/aws-react-elasticsearch-terraform</link>
+            <guid>https://github.com/MatthewCYLau/aws-react-elasticsearch-terraform</guid>
+            <pubDate>Thu, 06 May 2021 22:10:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hello, Modules!]]></title>
+            <link>https://blog.sindresorhus.com/hello-modules-d1010b4e777b</link>
+            <guid>https://blog.sindresorhus.com/hello-modules-d1010b4e777b</guid>
+            <pubDate>Thu, 06 May 2021 09:04:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[node-wasm-run allows running arbitrary WASM/WASI files in V8 engine]]></title>
+            <link>https://twitter.com/wasm3_engine/status/1390210490756915201</link>
+            <guid>https://twitter.com/wasm3_engine/status/1390210490756915201</guid>
+            <pubDate>Thu, 06 May 2021 10:33:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to test a function that works with time]]></title>
+            <link>https://cri.dev/posts/2021-05-06-test-javascript-nodejs-function-time-date/</link>
+            <guid>https://cri.dev/posts/2021-05-06-test-javascript-nodejs-function-time-date/</guid>
+            <pubDate>Thu, 06 May 2021 10:36:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dependency Managers Don’t Manage Your Dependencies]]></title>
             <link>https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies</link>
@@ -15,10 +57,10 @@
             <pubDate>Wed, 05 May 2021 22:51:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hire a certified node js developer for your business projects!]]></title>
-            <link>https://www.bacancytechnology.com/node-js-development</link>
-            <guid>https://www.bacancytechnology.com/node-js-development</guid>
-            <pubDate>Thu, 06 May 2021 05:37:10 GMT</pubDate>
+            <title><![CDATA[Effecient way for creating partition in large file to feed in to a node worker thread]]></title>
+            <link>https://github.com/mafintosh/csv-parser</link>
+            <guid>https://github.com/mafintosh/csv-parser</guid>
+            <pubDate>Thu, 06 May 2021 11:23:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Project ideas ?]]></title>
@@ -27,34 +69,10 @@
             <pubDate>Wed, 05 May 2021 14:59:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to implement an exponential backoff retry strategy in Javascript]]></title>
-            <link>https://advancedweb.hu/how-to-implement-an-exponential-backoff-retry-strategy-in-javascript/</link>
-            <guid>https://advancedweb.hu/how-to-implement-an-exponential-backoff-retry-strategy-in-javascript/</guid>
-            <pubDate>Wed, 05 May 2021 21:06:15 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Nesting GitHub’s API in your GraphQL Schema]]></title>
             <link>https://www.parabol.co/blog/nest-github-api-in-graphql-schema</link>
             <guid>https://www.parabol.co/blog/nest-github-api-in-graphql-schema</guid>
             <pubDate>Wed, 05 May 2021 20:34:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[All you need to know to move from CommonJS to ECMAScript Modules (ESM) in Node.js]]></title>
-            <link>https://pawelgrzybek.com/all-you-need-to-know-to-move-from-commonjs-to-ecmascript-modules-esm-in-node-js/</link>
-            <guid>https://pawelgrzybek.com/all-you-need-to-know-to-move-from-commonjs-to-ecmascript-modules-esm-in-node-js/</guid>
-            <pubDate>Wed, 05 May 2021 06:38:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[HELP] isModified() always returns true]]></title>
-            <link>https://stackoverflow.com/questions/67394027/mongoose-pre-save-hook-ismodified-always-returns-true</link>
-            <guid>https://stackoverflow.com/questions/67394027/mongoose-pre-save-hook-ismodified-always-returns-true</guid>
-            <pubDate>Wed, 05 May 2021 09:42:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What makes Node.js special?]]></title>
-            <link>https://exceed-team.com/tech/top-node.js-frameworks-to-use-in-2021?s=re&amp;a=a</link>
-            <guid>https://exceed-team.com/tech/top-node.js-frameworks-to-use-in-2021?s=re&amp;a=a</guid>
-            <pubDate>Wed, 05 May 2021 13:51:39 GMT</pubDate>
         </item>
     </channel>
 </rss>

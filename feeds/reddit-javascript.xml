@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Thu, 06 May 2021 07:49:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 May 2021 07:48:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,30 @@
             <link>https://foo.com/</link>
             <guid>https://foo.com/</guid>
             <pubDate>Mon, 03 May 2021 09:03:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A package for writing scripts on JavaScript instead of Bash]]></title>
+            <link>https://github.com/google/zx</link>
+            <guid>https://github.com/google/zx</guid>
+            <pubDate>Thu, 06 May 2021 19:56:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ad4ad, a free advertising system where you can get your site advertised by advertising other sites using a small ad in the corner. Made with Nodejs and JS.]]></title>
+            <link>https://ad.aakhilv.me/</link>
+            <guid>https://ad.aakhilv.me/</guid>
+            <pubDate>Thu, 06 May 2021 21:45:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How we sped up Chrome DevTools stack traces by 10x - Chrome Developers]]></title>
+            <link>https://developer.chrome.com/blog/faster-stack-traces/</link>
+            <guid>https://developer.chrome.com/blog/faster-stack-traces/</guid>
+            <pubDate>Thu, 06 May 2021 08:49:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to test a function that works with time]]></title>
+            <link>https://cri.dev/posts/2021-05-06-test-javascript-nodejs-function-time-date/</link>
+            <guid>https://cri.dev/posts/2021-05-06-test-javascript-nodejs-function-time-date/</guid>
+            <pubDate>Thu, 06 May 2021 15:33:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Visual Studio Code April 2021]]></title>
@@ -27,22 +51,16 @@
             <pubDate>Thu, 06 May 2021 02:34:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[AskJS] Is it just me or is core-js fundamentally broken?]]></title>
-            <link>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/Trim#polyfill</link>
-            <guid>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/Trim#polyfill</guid>
-            <pubDate>Wed, 05 May 2021 12:27:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[V8 release v9.1]]></title>
             <link>https://v8.dev/blog/v8-release-91</link>
             <guid>https://v8.dev/blog/v8-release-91</guid>
             <pubDate>Wed, 05 May 2021 22:31:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dependency Managers Don’t Manage Your Dependencies]]></title>
-            <link>https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies</link>
-            <guid>https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies</guid>
-            <pubDate>Wed, 05 May 2021 22:50:05 GMT</pubDate>
+            <title><![CDATA[[AskJS] Is it just me or is core-js fundamentally broken?]]></title>
+            <link>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/Trim#polyfill</link>
+            <guid>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/Trim#polyfill</guid>
+            <pubDate>Wed, 05 May 2021 12:27:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What’s New in RxJS 7]]></title>
@@ -51,16 +69,22 @@
             <pubDate>Wed, 05 May 2021 18:48:50 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Dependency Managers Don’t Manage Your Dependencies]]></title>
+            <link>https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies</link>
+            <guid>https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies</guid>
+            <pubDate>Wed, 05 May 2021 22:50:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How to opt-out Federated Learning of Cohorts (FLoC) using JavaScript]]></title>
             <link>https://drag13.io/posts/how-turn-off-floc-javascript/index.html</link>
             <guid>https://drag13.io/posts/how-turn-off-floc-javascript/index.html</guid>
             <pubDate>Wed, 05 May 2021 20:16:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hello, Modules!]]></title>
-            <link>https://blog.sindresorhus.com/hello-modules-d1010b4e777b</link>
-            <guid>https://blog.sindresorhus.com/hello-modules-d1010b4e777b</guid>
-            <pubDate>Wed, 05 May 2021 17:48:29 GMT</pubDate>
+            <title><![CDATA[christian-git: A CLI Tool to Sanctify Your Git Workflow]]></title>
+            <link>https://github.com/alexmacarthur/christian-git</link>
+            <guid>https://github.com/alexmacarthur/christian-git</guid>
+            <pubDate>Thu, 06 May 2021 12:59:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Built an email tracker with Node.js and React]]></title>
@@ -75,16 +99,16 @@
             <pubDate>Tue, 04 May 2021 15:01:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Announcing Rome Tools Inc, an open source first company]]></title>
-            <link>https://rome.tools/blog/announcing-rome-tools-inc/</link>
-            <guid>https://rome.tools/blog/announcing-rome-tools-inc/</guid>
-            <pubDate>Tue, 04 May 2021 16:01:35 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[How to implement an exponential backoff retry strategy in Javascript]]></title>
             <link>https://advancedweb.hu/how-to-implement-an-exponential-backoff-retry-strategy-in-javascript/</link>
             <guid>https://advancedweb.hu/how-to-implement-an-exponential-backoff-retry-strategy-in-javascript/</guid>
             <pubDate>Wed, 05 May 2021 06:09:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Announcing Rome Tools Inc, an open source first company]]></title>
+            <link>https://rome.tools/blog/announcing-rome-tools-inc/</link>
+            <guid>https://rome.tools/blog/announcing-rome-tools-inc/</guid>
+            <pubDate>Tue, 04 May 2021 16:01:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Increasing performance by batching IndexedDB writes with mergebounce]]></title>
@@ -103,48 +127,6 @@
             <link>https://github.com/endenwer/svelte-restate</link>
             <guid>https://github.com/endenwer/svelte-restate</guid>
             <pubDate>Wed, 05 May 2021 06:33:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HTML Sanitizer API]]></title>
-            <link>https://wicg.github.io/sanitizer-api/</link>
-            <guid>https://wicg.github.io/sanitizer-api/</guid>
-            <pubDate>Wed, 05 May 2021 00:03:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In-depth Tutorial: How to build a free Discord bot with Node.js and Autocode (x-post r/node)]]></title>
-            <link>https://autocode.com/guides/how-to-build-a-discord-bot/</link>
-            <guid>https://autocode.com/guides/how-to-build-a-discord-bot/</guid>
-            <pubDate>Tue, 04 May 2021 06:12:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AskJS] What are existing libraries for parsing / filtering using Kibana query language?]]></title>
-            <link>https://github.com/crcn/sift.js/</link>
-            <guid>https://github.com/crcn/sift.js/</guid>
-            <pubDate>Tue, 04 May 2021 21:21:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In-depth exploration of JavaScript iteration protocols]]></title>
-            <link>https://www.nodejsdesignpatterns.com/blog/javascript-async-iterators</link>
-            <guid>https://www.nodejsdesignpatterns.com/blog/javascript-async-iterators</guid>
-            <pubDate>Tue, 04 May 2021 13:26:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Translate English to Mandalorian with Twilio Serverless and SMS in JavaScript]]></title>
-            <link>https://www.twilio.com/blog/mandalorian-translator-sms</link>
-            <guid>https://www.twilio.com/blog/mandalorian-translator-sms</guid>
-            <pubDate>Wed, 05 May 2021 02:55:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Embed consumer grade analytics in your Apps]]></title>
-            <link>https://github.com/thoughtspot/visual-embed-sdk</link>
-            <guid>https://github.com/thoughtspot/visual-embed-sdk</guid>
-            <pubDate>Tue, 04 May 2021 19:47:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Implementing stable WebRTC architecture using React]]></title>
-            <link>https://yown.it/live-video-call-webrtc</link>
-            <guid>https://yown.it/live-video-call-webrtc</guid>
-            <pubDate>Tue, 04 May 2021 12:09:51 GMT</pubDate>
         </item>
     </channel>
 </rss>

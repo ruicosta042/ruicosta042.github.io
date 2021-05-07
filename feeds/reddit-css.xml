@@ -4,15 +4,39 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Thu, 06 May 2021 07:49:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 May 2021 07:48:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Summary of Bootstrap v5 changes & releases up to the latest STABLE VERSION that was released yesterday]]></title>
-            <link>https://mdbootstrap.com/docs/standard/bootstrap-5/</link>
-            <guid>https://mdbootstrap.com/docs/standard/bootstrap-5/</guid>
-            <pubDate>Thu, 06 May 2021 07:29:04 GMT</pubDate>
+            <title><![CDATA[Charts.css has reached v1.0.0 now]]></title>
+            <link>https://chartscss.org/</link>
+            <guid>https://chartscss.org/</guid>
+            <pubDate>Fri, 07 May 2021 06:01:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fluid Typography - Create Text That Scales With The Window Size, So That Your Headings Look Great On Any Screen.]]></title>
+            <link>https://fluid-typography.netlify.app/</link>
+            <guid>https://fluid-typography.netlify.app/</guid>
+            <pubDate>Thu, 06 May 2021 12:54:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HTML Tips]]></title>
+            <link>https://markodenic.com/html-tips/</link>
+            <guid>https://markodenic.com/html-tips/</guid>
+            <pubDate>Thu, 06 May 2021 12:41:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bootstrap 5 stable launched on Product Hunt]]></title>
+            <link>https://www.producthunt.com/posts/bootstrap-5-stable</link>
+            <guid>https://www.producthunt.com/posts/bootstrap-5-stable</guid>
+            <pubDate>Thu, 06 May 2021 11:42:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Container Queries Explainer & Proposal]]></title>
+            <link>https://www.miriamsuzanne.com/2021/05/02/container-queries/</link>
+            <guid>https://www.miriamsuzanne.com/2021/05/02/container-queries/</guid>
+            <pubDate>Thu, 06 May 2021 07:56:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is it possible to create a fixed mask over a non-fixed container ?]]></title>
@@ -31,18 +55,6 @@
             <link>https://www.myfreeonlinecourses.com/2021/05/100-off-build-real-world-responsive.html</link>
             <guid>https://www.myfreeonlinecourses.com/2021/05/100-off-build-real-world-responsive.html</guid>
             <pubDate>Wed, 05 May 2021 12:55:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How CSS pseudo-elements work a ridiculously simple explanation]]></title>
-            <link>https://peterlunch.com/css-pseudo-elements/?utm_source=reddit-css&amp;utm_medium=link&amp;utm_campaign=css-psuedo-elements</link>
-            <guid>https://peterlunch.com/css-pseudo-elements/?utm_source=reddit-css&amp;utm_medium=link&amp;utm_campaign=css-psuedo-elements</guid>
-            <pubDate>Tue, 04 May 2021 10:08:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The State of CSS Cross-Browser Development]]></title>
-            <link>https://ishadeed.com/article/cross-browser-development/</link>
-            <guid>https://ishadeed.com/article/cross-browser-development/</guid>
-            <pubDate>Tue, 04 May 2021 19:36:45 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Thu, 06 May 2021 07:49:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 May 2021 07:48:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,76 +21,52 @@
             <pubDate>Sat, 01 May 2021 18:07:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[I made a React web app (my first) for finding the best rental homes matches]]></title>
+            <link>https://ratedrentals.ca/</link>
+            <guid>https://ratedrentals.ca/</guid>
+            <pubDate>Thu, 06 May 2021 18:35:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Would love to ditch apollo/client, but getDataFromTree is too good?]]></title>
+            <link>https://github.com/vercel/next.js/pull/21426#issuecomment-765324962</link>
+            <guid>https://github.com/vercel/next.js/pull/21426#issuecomment-765324962</guid>
+            <pubDate>Fri, 07 May 2021 04:33:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mantine - components and hooks library]]></title>
+            <link>https://mantine.dev/</link>
+            <guid>https://mantine.dev/</guid>
+            <pubDate>Fri, 07 May 2021 07:48:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How too make 2 api calls?]]></title>
+            <link>https://jsfiddle.net/61joqmh3/</link>
+            <guid>https://jsfiddle.net/61joqmh3/</guid>
+            <pubDate>Fri, 07 May 2021 02:40:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A question about react-dnd and SVG elements]]></title>
+            <link>https://www.npmjs.com/package/react-dnd-mouse-backend</link>
+            <guid>https://www.npmjs.com/package/react-dnd-mouse-backend</guid>
+            <pubDate>Fri, 07 May 2021 06:22:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Material UI + React]]></title>
+            <link>https://codesandbox.io/s/eager-wiles-5djoq?file=/src/App.tsx</link>
+            <guid>https://codesandbox.io/s/eager-wiles-5djoq?file=/src/App.tsx</guid>
+            <pubDate>Thu, 06 May 2021 20:27:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How To Style Your Next.JS Projects EXACTLY Like Google (in TypeScript)]]></title>
+            <link>https://blog.jarrodwatts.com/nextjs-eslint-prettier-husky</link>
+            <guid>https://blog.jarrodwatts.com/nextjs-eslint-prettier-husky</guid>
+            <pubDate>Thu, 06 May 2021 15:17:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I made a website that tells you what food is safe for your dog]]></title>
             <link>https://github.com/Trinityyi/can-my-dog-eat</link>
             <guid>https://github.com/Trinityyi/can-my-dog-eat</guid>
             <pubDate>Wed, 05 May 2021 13:33:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why I finally chose React over Vue]]></title>
-            <link>https://medium.com/@billwohlers/why-i-finally-chose-react-over-vue-f090cb0e097a</link>
-            <guid>https://medium.com/@billwohlers/why-i-finally-chose-react-over-vue-f090cb0e097a</guid>
-            <pubDate>Thu, 06 May 2021 03:02:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Visual Testing Handbook—in-depth guide to testing UI appearance with Storybook]]></title>
-            <link>https://storybook.js.org/tutorials/visual-testing-handbook/</link>
-            <guid>https://storybook.js.org/tutorials/visual-testing-handbook/</guid>
-            <pubDate>Wed, 05 May 2021 15:59:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React Project to help People]]></title>
-            <link>mailto:kuldipmochi96@gmail.com</link>
-            <guid>mailto:kuldipmochi96@gmail.com</guid>
-            <pubDate>Thu, 06 May 2021 03:14:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Material UI Static Date Picker]]></title>
-            <link>https://material-ui.com/components/pickers/</link>
-            <guid>https://material-ui.com/components/pickers/</guid>
-            <pubDate>Thu, 06 May 2021 00:04:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Develop a Flight Tracker Application with React Gantt Chart]]></title>
-            <link>https://www.syncfusion.com/blogs/post/flight-tracker-application-with-react-gantt-chart.aspx</link>
-            <guid>https://www.syncfusion.com/blogs/post/flight-tracker-application-with-react-gantt-chart.aspx</guid>
-            <pubDate>Thu, 06 May 2021 03:11:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Started learning react this year and made a full-stack social media app. With a lot of help from youtube 😛]]></title>
-            <link>https://github.com/PiPo2Tr/think-it</link>
-            <guid>https://github.com/PiPo2Tr/think-it</guid>
-            <pubDate>Wed, 05 May 2021 08:52:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I made a decentralized Q&A website where you earn tokens from upvotes - Uses server-side rendering!]]></title>
-            <link>https://musing.io/#</link>
-            <guid>https://musing.io/#</guid>
-            <pubDate>Wed, 05 May 2021 13:50:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Server-side pagination in React.]]></title>
-            <link>https://everblogs.com/react/3-simple-steps-to-add-pagination-in-react/</link>
-            <guid>https://everblogs.com/react/3-simple-steps-to-add-pagination-in-react/</guid>
-            <pubDate>Wed, 05 May 2021 18:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Destructing state right before render]]></title>
-            <link>https://mystate.data/</link>
-            <guid>https://mystate.data/</guid>
-            <pubDate>Wed, 05 May 2021 21:17:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React useFilter hook]]></title>
-            <link>https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers</link>
-            <guid>https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers</guid>
-            <pubDate>Wed, 05 May 2021 15:12:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Has anyone shared code between your web app and Electron app?]]></title>
-            <link>https://slack.engineering/interops-labyrinth-sharing-code-between-web-electron-apps/</link>
-            <guid>https://slack.engineering/interops-labyrinth-sharing-code-between-web-electron-apps/</guid>
-            <pubDate>Wed, 05 May 2021 19:29:29 GMT</pubDate>
         </item>
     </channel>
 </rss>

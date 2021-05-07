@@ -4,14 +4,14 @@
         <title>Serverless Status</title>
         <link>https://serverless.email/</link>
         <description>A weekly newsletter on serverless and function-as-a-service (FaaS) architectures and platforms including AWS Lambda and Azure Functions.</description>
-        <lastBuildDate>Sat, 01 May 2021 07:49:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 May 2021 07:48:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
             <title><![CDATA[What Serverless Computing Is and Should Become: The Next Phase of Cloud Computing]]></title>
-            <link>https://cacm.acm.org/magazines/2021/5/252179-what-serverless-computing-is-and-should-become/fulltext</link>
-            <guid>https://cacm.acm.org/magazines/2021/5/252179-what-serverless-computing-is-and-should-become/fulltext</guid>
+            <link>https://m-cacm.acm.org/magazines/2021/5/252179-what-serverless-computing-is-and-should-become/fulltext</link>
+            <guid>https://m-cacm.acm.org/magazines/2021/5/252179-what-serverless-computing-is-and-should-become/fulltext</guid>
             <pubDate>Fri, 30 Apr 2021 00:00:00 GMT</pubDate>
         </item>
         <item>

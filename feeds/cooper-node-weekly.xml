@@ -4,111 +4,93 @@
         <title>Node Weekly</title>
         <link>https://nodeweekly.com/</link>
         <description>A free, once–weekly e-mail round-up of Node.js news and articles.</description>
-        <lastBuildDate>Sun, 02 May 2021 07:48:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 May 2021 07:48:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[How to Use ECMAScript Modules in Node]]></title>
-            <link>https://dmitripavlutin.com/ecmascript-modules-nodejs/</link>
-            <guid>https://dmitripavlutin.com/ecmascript-modules-nodejs/</guid>
-            <pubDate>Thu, 29 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Sindre Tears Off the CommonJS Bandaid, Moves Exclusively to ES Modules]]></title>
+            <link>https://blog.sindresorhus.com/hello-modules-d1010b4e777b</link>
+            <guid>https://blog.sindresorhus.com/hello-modules-d1010b4e777b</guid>
+            <pubDate>Thu, 06 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What's Next? The Future of Node.js]]></title>
-            <link>https://www.youtube.com/watch?v=vrnToZP47Ro</link>
-            <guid>https://www.youtube.com/watch?v=vrnToZP47Ro</guid>
-            <pubDate>Thu, 29 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Dependency Managers Don’t Manage Your Dependencies]]></title>
+            <link>https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies</link>
+            <guid>https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies</guid>
+            <pubDate>Thu, 06 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Do You Use Node for Scripting Instead of bash?]]></title>
-            <link>https://lobste.rs/s/bsv2yp/do_you_use_nodejs_for_scripting_instead</link>
-            <guid>https://lobste.rs/s/bsv2yp/do_you_use_nodejs_for_scripting_instead</guid>
-            <pubDate>Thu, 29 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Node 16.1 (Current) Released]]></title>
+            <link>https://nodejs.org/en/blog/release/v16.1.0/</link>
+            <guid>https://nodejs.org/en/blog/release/v16.1.0/</guid>
+            <pubDate>Thu, 06 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[tinyhttp 1.3: A Tiny Web Framework as a Replacement for Express]]></title>
-            <link>https://github.com/talentlessguy/tinyhttp</link>
-            <guid>https://github.com/talentlessguy/tinyhttp</guid>
-            <pubDate>Thu, 29 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Build a SaaS Platform with Stripe]]></title>
+            <link>https://jonmeyers.io/blog/build-a-saas-platform-with-stripe</link>
+            <guid>https://jonmeyers.io/blog/build-a-saas-platform-with-stripe</guid>
+            <pubDate>Thu, 06 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[My Favorite Microservice Design Patterns for Node]]></title>
-            <link>https://blog.bitsrc.io/my-favorite-microservice-design-patterns-for-node-js-fe048c635d83</link>
-            <guid>https://blog.bitsrc.io/my-favorite-microservice-design-patterns-for-node-js-fe048c635d83</guid>
-            <pubDate>Thu, 29 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[terminal-image 2.0: Display Images in the Terminal]]></title>
+            <link>https://github.com/sindresorhus/terminal-image</link>
+            <guid>https://github.com/sindresorhus/terminal-image</guid>
+            <pubDate>Thu, 06 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to Find Unused npm Dependencies]]></title>
-            <link>https://joshtronic.com/2021/04/25/find-unused-npm-dependencies/</link>
-            <guid>https://joshtronic.com/2021/04/25/find-unused-npm-dependencies/</guid>
-            <pubDate>Thu, 29 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[node-dev 7.0: Zero-Conf Node Process Restarting]]></title>
+            <link>https://github.com/fgnass/node-dev</link>
+            <guid>https://github.com/fgnass/node-dev</guid>
+            <pubDate>Thu, 06 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Building a Realtime Chat App with React, Node.js, and Socket.io]]></title>
-            <link>https://www.youtube.com/watch?v=HggSXt1Hzfk</link>
-            <guid>https://www.youtube.com/watch?v=HggSXt1Hzfk</guid>
-            <pubDate>Thu, 29 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Dotenv 9.0: Load Environment Variables From .env in Node]]></title>
+            <link>https://github.com/motdotla/dotenv</link>
+            <guid>https://github.com/motdotla/dotenv</guid>
+            <pubDate>Thu, 06 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[You Need To See These ES12 (ECMAScript 2021) Features]]></title>
-            <link>https://www.youtube.com/watch?v=1hFGxkJcTHU</link>
-            <guid>https://www.youtube.com/watch?v=1hFGxkJcTHU</guid>
-            <pubDate>Thu, 29 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[sitemap.js 7.0: Sitemap Generation Library and CLI Tool]]></title>
+            <link>https://github.com/ekalinin/sitemap.js</link>
+            <guid>https://github.com/ekalinin/sitemap.js</guid>
+            <pubDate>Thu, 06 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Foal: A TypeScript-Based All-Inclusive Web Framework for Node]]></title>
-            <link>https://foalts.org/</link>
-            <guid>https://foalts.org/</guid>
-            <pubDate>Thu, 29 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[The Braintree Node.js Library 3.4]]></title>
+            <link>https://github.com/braintree/braintree_node</link>
+            <guid>https://github.com/braintree/braintree_node</guid>
+            <pubDate>Thu, 06 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ioredis 4.27: A Performance Focused Redis Client for Node]]></title>
-            <link>https://github.com/luin/ioredis</link>
-            <guid>https://github.com/luin/ioredis</guid>
-            <pubDate>Thu, 29 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[MapSCII: A Text-Based World Map Renderer for the Console]]></title>
+            <link>https://github.com/rastapasta/mapscii</link>
+            <guid>https://github.com/rastapasta/mapscii</guid>
+            <pubDate>Thu, 06 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Node Wrapper for the Tesseract OCR API]]></title>
-            <link>https://github.com/zapolnoch/node-tesseract-ocr</link>
-            <guid>https://github.com/zapolnoch/node-tesseract-ocr</guid>
-            <pubDate>Thu, 29 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Synchronizing Async Functions in Node]]></title>
+            <link>https://www.youtube.com/watch?v=sPKYeQkzvVk</link>
+            <guid>https://www.youtube.com/watch?v=sPKYeQkzvVk</guid>
+            <pubDate>Thu, 06 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[functions-differ: Deploy Only the Firebase Functions That Changed]]></title>
-            <link>https://github.com/haroldadmin/functions-differ</link>
-            <guid>https://github.com/haroldadmin/functions-differ</guid>
-            <pubDate>Thu, 29 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to Build a Discord Bot with Node.js and Autocode]]></title>
+            <link>https://autocode.com/guides/how-to-build-a-discord-bot/</link>
+            <guid>https://autocode.com/guides/how-to-build-a-discord-bot/</guid>
+            <pubDate>Thu, 06 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[snakecase-keys: Convert an Object's Keys to snake_case]]></title>
-            <link>https://github.com/bendrucker/snakecase-keys</link>
-            <guid>https://github.com/bendrucker/snakecase-keys</guid>
-            <pubDate>Thu, 29 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Cloning JavaScript Objects with Graph Theory]]></title>
+            <link>https://andreasimonecosta.dev/posts/cloning-javascript-objects-with-graph-theory/</link>
+            <guid>https://andreasimonecosta.dev/posts/cloning-javascript-objects-with-graph-theory/</guid>
+            <pubDate>Thu, 06 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Build An HTTPS-Intercepting JavaScript Proxy in 30 Seconds Flat]]></title>
-            <link>https://httptoolkit.tech/blog/javascript-mitm-proxy-mockttp/</link>
-            <guid>https://httptoolkit.tech/blog/javascript-mitm-proxy-mockttp/</guid>
-            <pubDate>Thu, 29 Apr 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Use Binary UUIDs in Prisma]]></title>
-            <link>https://hinty.io/ivictbor/how-to-use-binary-uuids-in-prisma/</link>
-            <guid>https://hinty.io/ivictbor/how-to-use-binary-uuids-in-prisma/</guid>
-            <pubDate>Thu, 29 Apr 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ask HN: Is Learning Go Worth It If You Know Node?]]></title>
-            <link>https://news.ycombinator.com/item?id=26939626</link>
-            <guid>https://news.ycombinator.com/item?id=26939626</guid>
-            <pubDate>Thu, 29 Apr 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[pkg 5.1.0: Package Your Node Project Into an Executable]]></title>
-            <link>https://github.com/vercel/pkg</link>
-            <guid>https://github.com/vercel/pkg</guid>
-            <pubDate>Thu, 29 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Understanding Types with SQLite and Node.js]]></title>
+            <link>https://www.grouparoo.com/blog/understanding-types-sqlite-node</link>
+            <guid>https://www.grouparoo.com/blog/understanding-types-sqlite-node</guid>
+            <pubDate>Thu, 06 May 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

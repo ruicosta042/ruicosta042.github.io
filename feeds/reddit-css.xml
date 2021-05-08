@@ -4,7 +4,7 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Fri, 07 May 2021 07:48:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 May 2021 07:49:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,24 @@
             <link>https://chartscss.org/</link>
             <guid>https://chartscss.org/</guid>
             <pubDate>Fri, 07 May 2021 06:01:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Suggestions on how to implement this slide-up div overlay]]></title>
+            <link>https://jsfiddle.net/o0kmphvf/8/</link>
+            <guid>https://jsfiddle.net/o0kmphvf/8/</guid>
+            <pubDate>Fri, 07 May 2021 21:11:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Grand Theft Auto (in CSS)]]></title>
+            <link>https://github.com/beclamide/gta-css</link>
+            <guid>https://github.com/beclamide/gta-css</guid>
+            <pubDate>Fri, 07 May 2021 14:11:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Exploring color-contrast() for the First Time]]></title>
+            <link>https://css-tricks.com/exploring-color-contrast-for-the-first-time/</link>
+            <guid>https://css-tricks.com/exploring-color-contrast-for-the-first-time/</guid>
+            <pubDate>Fri, 07 May 2021 13:33:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fluid Typography - Create Text That Scales With The Window Size, So That Your Headings Look Great On Any Screen.]]></title>
@@ -25,36 +43,6 @@
             <link>https://markodenic.com/html-tips/</link>
             <guid>https://markodenic.com/html-tips/</guid>
             <pubDate>Thu, 06 May 2021 12:41:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bootstrap 5 stable launched on Product Hunt]]></title>
-            <link>https://www.producthunt.com/posts/bootstrap-5-stable</link>
-            <guid>https://www.producthunt.com/posts/bootstrap-5-stable</guid>
-            <pubDate>Thu, 06 May 2021 11:42:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Container Queries Explainer & Proposal]]></title>
-            <link>https://www.miriamsuzanne.com/2021/05/02/container-queries/</link>
-            <guid>https://www.miriamsuzanne.com/2021/05/02/container-queries/</guid>
-            <pubDate>Thu, 06 May 2021 07:56:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is it possible to create a fixed mask over a non-fixed container ?]]></title>
-            <link>https://emojipedia.org/cross-mark/</link>
-            <guid>https://emojipedia.org/cross-mark/</guid>
-            <pubDate>Thu, 06 May 2021 07:37:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Toggling CSS Custom Properties with Radio Buttons]]></title>
-            <link>https://css-irl.info/toggling-css-custom-properties-with-radio-buttons/</link>
-            <guid>https://css-irl.info/toggling-css-custom-properties-with-radio-buttons/</guid>
-            <pubDate>Wed, 05 May 2021 13:08:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Build a real world responsive website with Html 5 css 3 & JS - Free Course From Udemy]]></title>
-            <link>https://www.myfreeonlinecourses.com/2021/05/100-off-build-real-world-responsive.html</link>
-            <guid>https://www.myfreeonlinecourses.com/2021/05/100-off-build-real-world-responsive.html</guid>
-            <pubDate>Wed, 05 May 2021 12:55:06 GMT</pubDate>
         </item>
     </channel>
 </rss>

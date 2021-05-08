@@ -4,10 +4,40 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Fri, 07 May 2021 07:48:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 May 2021 07:49:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[I've created a repo with sorting algos for learning purposes]]></title>
+            <link>https://github.com/kubabialy/typescript_sorting_algorithms</link>
+            <guid>https://github.com/kubabialy/typescript_sorting_algorithms</guid>
+            <pubDate>Fri, 07 May 2021 21:02:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Typescript Decorators in Examples]]></title>
+            <link>https://medium.com/litslink/typescript-decorators-in-examples-c3afcd3c7ff8</link>
+            <guid>https://medium.com/litslink/typescript-decorators-in-examples-c3afcd3c7ff8</guid>
+            <pubDate>Fri, 07 May 2021 18:40:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tetris which always gives you the worst piece]]></title>
+            <link>https://qntm.org/hatetris</link>
+            <guid>https://qntm.org/hatetris</guid>
+            <pubDate>Fri, 07 May 2021 15:06:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[md-in-place : file imports and toc generation in-place for markdown files via simple html comments]]></title>
+            <link>https://github.com/lillallol/md-in-place</link>
+            <guid>https://github.com/lillallol/md-in-place</guid>
+            <pubDate>Fri, 07 May 2021 22:27:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Calling ReasonML from TypeScript (or Flow)]]></title>
+            <link>https://micheleriva.medium.com/calling-reasonml-from-typescript-or-flow-the-easy-way-6372cbf4ead3?source=friends_link&amp;sk=ba9a03c966899ebd1b1bfbf9130aab87</link>
+            <guid>https://micheleriva.medium.com/calling-reasonml-from-typescript-or-flow-the-easy-way-6372cbf4ead3?source=friends_link&amp;sk=ba9a03c966899ebd1b1bfbf9130aab87</guid>
+            <pubDate>Fri, 07 May 2021 09:46:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dependency leaking lib "dom" into my tsconfig]]></title>
             <link>https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/supertest/tsconfig.json#L6</link>
@@ -49,18 +79,6 @@
             <link>https://github.com/Devorein/github-readme-learn-section-notion</link>
             <guid>https://github.com/Devorein/github-readme-learn-section-notion</guid>
             <pubDate>Tue, 04 May 2021 14:00:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to practically use unions to prevent invalid states?]]></title>
-            <link>https://www.typescriptlang.org/play?#code/C4TwDgpgBAQghgZwgEQE4HswBN0HcB2UAvFAN5RwA2lAXFAEbrqURz4DcUAtgJb4R1GzVhygh0AV1QJBTFm04BfAFChIUNJhwEAysDjBoJZVFNkK1OsFQSInXvzoAzKkk7ipMqC8puoiqAAfEzNyKlpvVztuPgFI32iPaSsbaIDgs3Nw5yj7WJTbd0lk+L90qBDTMMtS6Ic460KxYq9GtIrlAGN0fARgKCwMbDx8PQM4zWHdfUNiMkqLCLaAGgX6nITVzKSvHyRVlS6evqgkFk7gADEeSkNUAHkwYB4egAVEBD4AcwBJUZmjFAABSYZ49OgAcnCEKCUAh9RhgThOwhyygYFQEAAbmNDHRJtp-uMAJT4oaE3FGAB881MLH6-Fw11uEFQAFk4GAyVoRpT2CEeE5gaCXoQiOK4dDibSzIzmXcOWA5tUlqk0etamidhskP5+aZFBAEqQFgB6U1QH5Cs4QC4QLBQEU9KA8BD4CH9YDoL5fFgO51UTFwLAgNHoVAuoWMYAACxi-CgADJmp4KJiLEGQ6cjbbDFgFoKgQBCDHYykAbSd+AAukEkUDSziAeX4bEIbXE8nGxWISjq8TiSbMqY5TcFZzlVAAHQz7sAtHZTVQStPUXVuhFwY86bjFdgmsqTKG40LEcQJlj1mKyeLlbxuJ7CBalo66CKfVmQ-+EIhTHAKSEKOLLspy-LvsoyjmgAqp8+BfFAvroPQVBQFicCoDwcD0CwwK4JIlAOvQ0BBhcpwAi6hCxq6UCdIgEDSjgEAIFA+DoP0eGoAA1kcvT9DaFzyqyjz7gA6jwsaSMAACCqBfBIXAQPg-QkCCq7gpK1CInCCKwr2LQQqSGjkry5FEDSQ5QPSLHnoJIFckZ25EoYH6CsKalihKUKadKFlnhewHXiQKoFE+96vs+nivnqITHkgvmRkCW5TE5EAtgiHbJklFLNnpnjtoOp7Wf545KkF04zllJnjAuNSPmie5rhulU7oYDU9NWX4GkacWFUBJU3jUd4anVKYlI+0VHjFP6mH+AFFbZipgfykEWj8WCsNQICnOgClUXBlk8Jx0BUcxeESARUAcdx3S8dm5xXJeqAACrer6gKqfukLQrpOlIrl0gGdyyWUsQ5khFZfVXpydDwEgBIjJOM5Ts1KUTZGbn7sQnlSjKfkLROZW3mqYVLtqtRo7FEDxZDdltTWcybsZLWpVW1Yfl+N0nI0sYgAA0hAIDMSQ9z0AAVrmU5HYLQI04qxJTk4j1AkCUvEmZ82PYq5ZSxQzFS+gQrw8z-YuU4xbczGfMCwgU4sHBsYFcOGsBQTWSDcTw1RBFY1RBTv4QP+qCATZmugco4FAA</link>
-            <guid>https://www.typescriptlang.org/play?#code/C4TwDgpgBAQghgZwgEQE4HswBN0HcB2UAvFAN5RwA2lAXFAEbrqURz4DcUAtgJb4R1GzVhygh0AV1QJBTFm04BfAFChIUNJhwEAysDjBoJZVFNkK1OsFQSInXvzoAzKkk7ipMqC8puoiqAAfEzNyKlpvVztuPgFI32iPaSsbaIDgs3Nw5yj7WJTbd0lk+L90qBDTMMtS6Ic460KxYq9GtIrlAGN0fARgKCwMbDx8PQM4zWHdfUNiMkqLCLaAGgX6nITVzKSvHyRVlS6evqgkFk7gADEeSkNUAHkwYB4egAVEBD4AcwBJUZmjFAABSYZ49OgAcnCEKCUAh9RhgThOwhyygYFQEAAbmNDHRJtp-uMAJT4oaE3FGAB881MLH6-Fw11uEFQAFk4GAyVoRpT2CEeE5gaCXoQiOK4dDibSzIzmXcOWA5tUlqk0etamidhskP5+aZFBAEqQFgB6U1QH5Cs4QC4QLBQEU9KA8BD4CH9YDoL5fFgO51UTFwLAgNHoVAuoWMYAACxi-CgADJmp4KJiLEGQ6cjbbDFgFoKgQBCDHYykAbSd+AAukEkUDSziAeX4bEIbXE8nGxWISjq8TiSbMqY5TcFZzlVAAHQz7sAtHZTVQStPUXVuhFwY86bjFdgmsqTKG40LEcQJlj1mKyeLlbxuJ7CBalo66CKfVmQ-+EIhTHAKSEKOLLspy-LvsoyjmgAqp8+BfFAvroPQVBQFicCoDwcD0CwwK4JIlAOvQ0BBhcpwAi6hCxq6UCdIgEDSjgEAIFA+DoP0eGoAA1kcvT9DaFzyqyjz7gA6jwsaSMAACCqBfBIXAQPg-QkCCq7gpK1CInCCKwr2LQQqSGjkry5FEDSQ5QPSLHnoJIFckZ25EoYH6CsKalihKUKadKFlnhewHXiQKoFE+96vs+nivnqITHkgvmRkCW5TE5EAtgiHbJklFLNnpnjtoOp7Wf545KkF04zllJnjAuNSPmie5rhulU7oYDU9NWX4GkacWFUBJU3jUd4anVKYlI+0VHjFP6mH+AFFbZipgfykEWj8WCsNQICnOgClUXBlk8Jx0BUcxeESARUAcdx3S8dm5xXJeqAACrer6gKqfukLQrpOlIrl0gGdyyWUsQ5khFZfVXpydDwEgBIjJOM5Ts1KUTZGbn7sQnlSjKfkLROZW3mqYVLtqtRo7FEDxZDdltTWcybsZLWpVW1Yfl+N0nI0sYgAA0hAIDMSQ9z0AAVrmU5HYLQI04qxJTk4j1AkCUvEmZ82PYq5ZSxQzFS+gQrw8z-YuU4xbczGfMCwgU4sHBsYFcOGsBQTWSDcTw1RBFY1RBTv4QP+qCATZmugco4FAA</guid>
-            <pubDate>Tue, 04 May 2021 15:18:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I have made a decorators based testing framework for typescript called oral.]]></title>
-            <link>https://github.com/tanay-pingalkar/oral</link>
-            <guid>https://github.com/tanay-pingalkar/oral</guid>
-            <pubDate>Tue, 04 May 2021 08:59:06 GMT</pubDate>
         </item>
     </channel>
 </rss>

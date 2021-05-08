@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Fri, 07 May 2021 07:48:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 May 2021 07:49:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,52 +21,52 @@
             <pubDate>Sat, 01 May 2021 18:07:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I made a React web app (my first) for finding the best rental homes matches]]></title>
-            <link>https://ratedrentals.ca/</link>
-            <guid>https://ratedrentals.ca/</guid>
-            <pubDate>Thu, 06 May 2021 18:35:22 GMT</pubDate>
+            <title><![CDATA[annoying "Warning: Invalid DOM property" warning (react, tailwind, craco)]]></title>
+            <link>https://github.com/insin/babel-plugin-react-html-attrs</link>
+            <guid>https://github.com/insin/babel-plugin-react-html-attrs</guid>
+            <pubDate>Sat, 08 May 2021 06:50:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Would love to ditch apollo/client, but getDataFromTree is too good?]]></title>
-            <link>https://github.com/vercel/next.js/pull/21426#issuecomment-765324962</link>
-            <guid>https://github.com/vercel/next.js/pull/21426#issuecomment-765324962</guid>
-            <pubDate>Fri, 07 May 2021 04:33:13 GMT</pubDate>
+            <title><![CDATA[Playing with react-voodoo :) ( https://github.com/react-voodoo/react-voodoo )]]></title>
+            <link>https://github.com/react-voodoo/react-voodoo/raw/master/doc/assets/demo.gif?sanitize=true</link>
+            <guid>https://github.com/react-voodoo/react-voodoo/raw/master/doc/assets/demo.gif?sanitize=true</guid>
+            <pubDate>Sat, 08 May 2021 06:36:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Should I consider creating a JSON Object from the array in following scenario?]]></title>
+            <link>https://codesandbox.io/s/primereact-datatable-simple-syovz?file=/src/cars-small.json</link>
+            <guid>https://codesandbox.io/s/primereact-datatable-simple-syovz?file=/src/cars-small.json</guid>
+            <pubDate>Fri, 07 May 2021 17:49:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Made a Forum for Online Book Discussion]]></title>
+            <link>https://www.wondri.com/home</link>
+            <guid>https://www.wondri.com/home</guid>
+            <pubDate>Fri, 07 May 2021 18:22:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Best Practices + Code Review + Mobile Display Issues]]></title>
+            <link>https://calc-solver.com/twin-paradox-under-special-relativity-calculator</link>
+            <guid>https://calc-solver.com/twin-paradox-under-special-relativity-calculator</guid>
+            <pubDate>Sat, 08 May 2021 02:25:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Undefined mapping over an response data from api]]></title>
+            <link>https://discord.com/channels/239433591950540801/239433678126710784</link>
+            <guid>https://discord.com/channels/239433591950540801/239433678126710784</guid>
+            <pubDate>Sat, 08 May 2021 00:26:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How do you use the images produced from the module Sharp in a React project?]]></title>
+            <link>https://github.com/lovell/sharp</link>
+            <guid>https://github.com/lovell/sharp</guid>
+            <pubDate>Fri, 07 May 2021 21:03:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mantine - components and hooks library]]></title>
             <link>https://mantine.dev/</link>
             <guid>https://mantine.dev/</guid>
             <pubDate>Fri, 07 May 2021 07:48:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How too make 2 api calls?]]></title>
-            <link>https://jsfiddle.net/61joqmh3/</link>
-            <guid>https://jsfiddle.net/61joqmh3/</guid>
-            <pubDate>Fri, 07 May 2021 02:40:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A question about react-dnd and SVG elements]]></title>
-            <link>https://www.npmjs.com/package/react-dnd-mouse-backend</link>
-            <guid>https://www.npmjs.com/package/react-dnd-mouse-backend</guid>
-            <pubDate>Fri, 07 May 2021 06:22:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Material UI + React]]></title>
-            <link>https://codesandbox.io/s/eager-wiles-5djoq?file=/src/App.tsx</link>
-            <guid>https://codesandbox.io/s/eager-wiles-5djoq?file=/src/App.tsx</guid>
-            <pubDate>Thu, 06 May 2021 20:27:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How To Style Your Next.JS Projects EXACTLY Like Google (in TypeScript)]]></title>
-            <link>https://blog.jarrodwatts.com/nextjs-eslint-prettier-husky</link>
-            <guid>https://blog.jarrodwatts.com/nextjs-eslint-prettier-husky</guid>
-            <pubDate>Thu, 06 May 2021 15:17:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I made a website that tells you what food is safe for your dog]]></title>
-            <link>https://github.com/Trinityyi/can-my-dog-eat</link>
-            <guid>https://github.com/Trinityyi/can-my-dog-eat</guid>
-            <pubDate>Wed, 05 May 2021 13:33:48 GMT</pubDate>
         </item>
     </channel>
 </rss>

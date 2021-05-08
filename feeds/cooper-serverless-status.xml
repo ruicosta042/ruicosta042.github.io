@@ -4,75 +4,39 @@
         <title>Serverless Status</title>
         <link>https://serverless.email/</link>
         <description>A weekly newsletter on serverless and function-as-a-service (FaaS) architectures and platforms including AWS Lambda and Azure Functions.</description>
-        <lastBuildDate>Fri, 07 May 2021 07:48:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 May 2021 07:49:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[What Serverless Computing Is and Should Become: The Next Phase of Cloud Computing]]></title>
-            <link>https://m-cacm.acm.org/magazines/2021/5/252179-what-serverless-computing-is-and-should-become/fulltext</link>
-            <guid>https://m-cacm.acm.org/magazines/2021/5/252179-what-serverless-computing-is-and-should-become/fulltext</guid>
-            <pubDate>Fri, 30 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[AWS Introduces 'CloudFront Functions']]></title>
+            <link>https://aws.amazon.com/blogs/aws/introducing-cloudfront-functions-run-your-code-at-the-edge-with-low-latency-at-any-scale/</link>
+            <guid>https://aws.amazon.com/blogs/aws/introducing-cloudfront-functions-run-your-code-at-the-edge-with-low-latency-at-any-scale/</guid>
+            <pubDate>Fri, 07 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Better Together: AWS SAM and AWS CDK]]></title>
-            <link>https://aws.amazon.com/blogs/compute/better-together-aws-sam-and-aws-cdk/</link>
-            <guid>https://aws.amazon.com/blogs/compute/better-together-aws-sam-and-aws-cdk/</guid>
-            <pubDate>Fri, 30 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[The Best Supported Serverless Languages]]></title>
+            <link>https://dylananthony.com/posts/best-supported-serverless-languages</link>
+            <guid>https://dylananthony.com/posts/best-supported-serverless-languages</guid>
+            <pubDate>Fri, 07 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Google Cloud Functions Adds PHP Support]]></title>
-            <link>https://cloud.google.com/blog/products/application-development/php-comes-to-cloud-functions</link>
-            <guid>https://cloud.google.com/blog/products/application-development/php-comes-to-cloud-functions</guid>
-            <pubDate>Fri, 30 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Google Cloud's 'Power of Serverless' Event Next Week]]></title>
+            <link>https://cloudonair.withgoogle.com/events/serverless-may2021</link>
+            <guid>https://cloudonair.withgoogle.com/events/serverless-may2021</guid>
+            <pubDate>Fri, 07 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Modifying Data on the Fly with S3 Object Lambda]]></title>
-            <link>https://www.youtube.com/watch?v=EDv9f9A-jck</link>
-            <guid>https://www.youtube.com/watch?v=EDv9f9A-jck</guid>
-            <pubDate>Fri, 30 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Using Grafana to Troubleshoot a Serverless Application]]></title>
+            <link>https://aws.amazon.com/blogs/opensource/using-amazon-managed-service-for-grafana-to-troubleshoot-a-serverless-application/</link>
+            <guid>https://aws.amazon.com/blogs/opensource/using-amazon-managed-service-for-grafana-to-troubleshoot-a-serverless-application/</guid>
+            <pubDate>Fri, 07 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Optical Character Recognition with AWS Textract]]></title>
-            <link>https://dev.to/sehmimhaque/getting-started-with-optical-character-recognition-using-python-and-aws-2mc8</link>
-            <guid>https://dev.to/sehmimhaque/getting-started-with-optical-character-recognition-using-python-and-aws-2mc8</guid>
-            <pubDate>Fri, 30 Apr 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Using Librosa on AWS Lambda for Audio Analysis]]></title>
-            <link>https://gianlucazuccarelli.medium.com/librosa-and-aws-lambda-20e48f23b57e</link>
-            <guid>https://gianlucazuccarelli.medium.com/librosa-and-aws-lambda-20e48f23b57e</guid>
-            <pubDate>Fri, 30 Apr 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Running GraphQL on Lambda with Rust]]></title>
-            <link>https://dylananthony.com/posts/graphql-lambda-rust</link>
-            <guid>https://dylananthony.com/posts/graphql-lambda-rust</guid>
-            <pubDate>Fri, 30 Apr 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why We Moved From Lambda to ECS]]></title>
-            <link>https://prismatic.io/blog/why-we-moved-from-lambda-to-ecs/</link>
-            <guid>https://prismatic.io/blog/why-we-moved-from-lambda-to-ecs/</guid>
-            <pubDate>Fri, 30 Apr 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introducing EventBridge Atlas]]></title>
-            <link>https://www.boyney.io/blog/2021-04-28-introducing-eventbridge-atlas</link>
-            <guid>https://www.boyney.io/blog/2021-04-28-introducing-eventbridge-atlas</guid>
-            <pubDate>Fri, 30 Apr 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[functions-differ: Deploy Only the Firebase Functions That Changed]]></title>
-            <link>https://github.com/haroldadmin/functions-differ</link>
-            <guid>https://github.com/haroldadmin/functions-differ</guid>
-            <pubDate>Fri, 30 Apr 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yake: A DSL for Writing AWS Lambda Handlers in Ruby]]></title>
-            <link>https://github.com/amancevice/yake</link>
-            <guid>https://github.com/amancevice/yake</guid>
-            <pubDate>Fri, 30 Apr 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA['Please Fix The AWS Free Tier Before Somebody Gets Hurt']]></title>
+            <link>https://cloudirregular.substack.com/p/please-fix-the-aws-free-tier-before</link>
+            <guid>https://cloudirregular.substack.com/p/please-fix-the-aws-free-tier-before</guid>
+            <pubDate>Fri, 07 May 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

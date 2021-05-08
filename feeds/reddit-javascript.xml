@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Fri, 07 May 2021 07:48:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 May 2021 07:49:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,16 +15,76 @@
             <pubDate>Mon, 03 May 2021 09:03:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Expanding Single Page Apps into multiple Browser Windows — Part 2]]></title>
+            <link>https://tobiasuhlig.medium.com/expanding-single-page-apps-into-multiple-browser-windows-part-2-2619ab40361d?source=friends_link&amp;sk=c0b82c4b9ab86633f4e1b950adaff49b</link>
+            <guid>https://tobiasuhlig.medium.com/expanding-single-page-apps-into-multiple-browser-windows-part-2-2619ab40361d?source=friends_link&amp;sk=c0b82c4b9ab86633f4e1b950adaff49b</guid>
+            <pubDate>Fri, 07 May 2021 13:26:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Linkinator: A super simple site crawler and broken link checker]]></title>
+            <link>https://github.com/JustinBeckwith/linkinator</link>
+            <guid>https://github.com/JustinBeckwith/linkinator</guid>
+            <pubDate>Sat, 08 May 2021 04:32:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Make A Link Preview: Ultimate Step By Step Guide using Javascript]]></title>
+            <link>https://beingcoders.9mood.com/make-a-link-preview-ultimate-step-by-step-guide-2a53e6af9bbe?sk=60e63752aa1823aeb0401051066bb89a</link>
+            <guid>https://beingcoders.9mood.com/make-a-link-preview-ultimate-step-by-step-guide-2a53e6af9bbe?sk=60e63752aa1823aeb0401051066bb89a</guid>
+            <pubDate>Fri, 07 May 2021 18:23:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AskJS] Good network/graph diagramming tool]]></title>
+            <link>http://sigmajs.org/</link>
+            <guid>http://sigmajs.org/</guid>
+            <pubDate>Sat, 08 May 2021 04:25:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A custom element ``, let you easily create layout similar to Adobe After Effects]]></title>
+            <link>https://github.com/mantou132/gem-panel</link>
+            <guid>https://github.com/mantou132/gem-panel</guid>
+            <pubDate>Fri, 07 May 2021 22:41:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to write better JavaScript using plumbing techniques]]></title>
+            <link>https://piotrjaworski.medium.com/how-to-write-better-javascript-using-plumbing-techniques-68aa78be817c</link>
+            <guid>https://piotrjaworski.medium.com/how-to-write-better-javascript-using-plumbing-techniques-68aa78be817c</guid>
+            <pubDate>Fri, 07 May 2021 19:16:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A package for writing scripts on JavaScript instead of Bash]]></title>
             <link>https://github.com/google/zx</link>
             <guid>https://github.com/google/zx</guid>
             <pubDate>Thu, 06 May 2021 19:56:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How to Schedule Jobs with Github Actions]]></title>
+            <link>https://www.nunocruz.pt/blog/how-to-schedule-jobs-github-actions</link>
+            <guid>https://www.nunocruz.pt/blog/how-to-schedule-jobs-github-actions</guid>
+            <pubDate>Fri, 07 May 2021 08:15:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A JavaScript Library that executes your callback when specified element get added to DOM]]></title>
+            <link>https://dev.to/cstayyab/let-me-wait-for-it-and-call-you-back-said-wait-for-it-js-50h1</link>
+            <guid>https://dev.to/cstayyab/let-me-wait-for-it-and-call-you-back-said-wait-for-it-js-50h1</guid>
+            <pubDate>Fri, 07 May 2021 11:06:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Testing On Mobile Devices the Easy Way]]></title>
+            <link>https://yagudaev.com/posts/testing-on-mobile-devices-the-easy-way</link>
+            <guid>https://yagudaev.com/posts/testing-on-mobile-devices-the-easy-way</guid>
+            <pubDate>Fri, 07 May 2021 14:50:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ad4ad, a free advertising system where you can get your site advertised by advertising other sites using a small ad in the corner. Made with Nodejs and JS.]]></title>
             <link>https://ad.aakhilv.me/</link>
             <guid>https://ad.aakhilv.me/</guid>
             <pubDate>Thu, 06 May 2021 21:45:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Care about your users, don't minify your JS! | LibrePlanet 2021]]></title>
+            <link>https://framatube.org/videos/watch/2e4c7cf0-8797-4712-8eda-1d5912937b51</link>
+            <guid>https://framatube.org/videos/watch/2e4c7cf0-8797-4712-8eda-1d5912937b51</guid>
+            <pubDate>Fri, 07 May 2021 19:04:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How we sped up Chrome DevTools stack traces by 10x - Chrome Developers]]></title>
@@ -61,72 +121,6 @@
             <link>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/Trim#polyfill</link>
             <guid>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/Trim#polyfill</guid>
             <pubDate>Wed, 05 May 2021 12:27:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What’s New in RxJS 7]]></title>
-            <link>https://medium.com/volosoft/whats-new-in-rxjs-7-a11cc564c6c0?utm_source=reddit&amp;utm_medium=organic&amp;utm_campaign=whats_new_in_rxjs_article</link>
-            <guid>https://medium.com/volosoft/whats-new-in-rxjs-7-a11cc564c6c0?utm_source=reddit&amp;utm_medium=organic&amp;utm_campaign=whats_new_in_rxjs_article</guid>
-            <pubDate>Wed, 05 May 2021 18:48:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dependency Managers Don’t Manage Your Dependencies]]></title>
-            <link>https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies</link>
-            <guid>https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies</guid>
-            <pubDate>Wed, 05 May 2021 22:50:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to opt-out Federated Learning of Cohorts (FLoC) using JavaScript]]></title>
-            <link>https://drag13.io/posts/how-turn-off-floc-javascript/index.html</link>
-            <guid>https://drag13.io/posts/how-turn-off-floc-javascript/index.html</guid>
-            <pubDate>Wed, 05 May 2021 20:16:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[christian-git: A CLI Tool to Sanctify Your Git Workflow]]></title>
-            <link>https://github.com/alexmacarthur/christian-git</link>
-            <guid>https://github.com/alexmacarthur/christian-git</guid>
-            <pubDate>Thu, 06 May 2021 12:59:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Built an email tracker with Node.js and React]]></title>
-            <link>https://github.com/esmaydogdu/mail-tracker-client</link>
-            <guid>https://github.com/esmaydogdu/mail-tracker-client</guid>
-            <pubDate>Wed, 05 May 2021 22:07:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UPDATE: I'm launching a side project to award folks for building rad "non-corporate-y" stuff for the web. If you're working on something for a local community, I'd love to throw you some coffee money!]]></title>
-            <link>https://henrygives.coffee/winners/collection-1-local-communities/</link>
-            <guid>https://henrygives.coffee/winners/collection-1-local-communities/</guid>
-            <pubDate>Tue, 04 May 2021 15:01:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to implement an exponential backoff retry strategy in Javascript]]></title>
-            <link>https://advancedweb.hu/how-to-implement-an-exponential-backoff-retry-strategy-in-javascript/</link>
-            <guid>https://advancedweb.hu/how-to-implement-an-exponential-backoff-retry-strategy-in-javascript/</guid>
-            <pubDate>Wed, 05 May 2021 06:09:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Announcing Rome Tools Inc, an open source first company]]></title>
-            <link>https://rome.tools/blog/announcing-rome-tools-inc/</link>
-            <guid>https://rome.tools/blog/announcing-rome-tools-inc/</guid>
-            <pubDate>Tue, 04 May 2021 16:01:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Increasing performance by batching IndexedDB writes with mergebounce]]></title>
-            <link>https://opkode.com/blog/2021-05-05-mergebounce-indexeddb/</link>
-            <guid>https://opkode.com/blog/2021-05-05-mergebounce-indexeddb/</guid>
-            <pubDate>Wed, 05 May 2021 13:07:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I made a real time 2, 3 and 4 dimensions N-body gravity simulation with three.js and wasm]]></title>
-            <link>https://florian.mounier.dev/annealation/</link>
-            <guid>https://florian.mounier.dev/annealation/</guid>
-            <pubDate>Tue, 04 May 2021 13:02:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Immutable store for Svelte with full Typescript support and Redux Devtools integration]]></title>
-            <link>https://github.com/endenwer/svelte-restate</link>
-            <guid>https://github.com/endenwer/svelte-restate</guid>
-            <pubDate>Wed, 05 May 2021 06:33:50 GMT</pubDate>
         </item>
     </channel>
 </rss>

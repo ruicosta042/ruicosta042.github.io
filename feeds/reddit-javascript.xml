@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sat, 08 May 2021 07:49:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 May 2021 07:48:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,28 @@
             <pubDate>Mon, 03 May 2021 09:03:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Expanding Single Page Apps into multiple Browser Windows — Part 2]]></title>
-            <link>https://tobiasuhlig.medium.com/expanding-single-page-apps-into-multiple-browser-windows-part-2-2619ab40361d?source=friends_link&amp;sk=c0b82c4b9ab86633f4e1b950adaff49b</link>
-            <guid>https://tobiasuhlig.medium.com/expanding-single-page-apps-into-multiple-browser-windows-part-2-2619ab40361d?source=friends_link&amp;sk=c0b82c4b9ab86633f4e1b950adaff49b</guid>
-            <pubDate>Fri, 07 May 2021 13:26:37 GMT</pubDate>
+            <title><![CDATA[ok6 - Minimal JavaScript library for writing tests and assertions:]]></title>
+            <link>https://www.npmjs.com/package/ok6</link>
+            <guid>https://www.npmjs.com/package/ok6</guid>
+            <pubDate>Sun, 09 May 2021 03:42:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fair benchmark of javascript build tools]]></title>
+            <link>https://github.com/kdy1/benchmark-done-right</link>
+            <guid>https://github.com/kdy1/benchmark-done-right</guid>
+            <pubDate>Sat, 08 May 2021 16:24:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hammer: A build tool for node and browser applications]]></title>
+            <link>https://github.com/sinclairzx81/hammer</link>
+            <guid>https://github.com/sinclairzx81/hammer</guid>
+            <pubDate>Sun, 09 May 2021 07:33:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We are researchers that work to improve Machine Learning models. If you have experience with python and/or java and a few minutes to spare please take our survey!]]></title>
+            <link>https://usc.qualtrics.com/jfe/form/SV_cHEhJ5YRoEOBwcC?Q_CHL=social&amp;Q_SocialSource=reddit</link>
+            <guid>https://usc.qualtrics.com/jfe/form/SV_cHEhJ5YRoEOBwcC?Q_CHL=social&amp;Q_SocialSource=reddit</guid>
+            <pubDate>Sat, 08 May 2021 22:53:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Linkinator: A super simple site crawler and broken link checker]]></title>
@@ -27,22 +45,34 @@
             <pubDate>Sat, 08 May 2021 04:32:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[JS cobrowsing demo]]></title>
+            <link>https://comebrowsewithme.com/</link>
+            <guid>https://comebrowsewithme.com/</guid>
+            <pubDate>Sat, 08 May 2021 20:37:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Expanding Single Page Apps into multiple Browser Windows — Part 2]]></title>
+            <link>https://tobiasuhlig.medium.com/expanding-single-page-apps-into-multiple-browser-windows-part-2-2619ab40361d?source=friends_link&amp;sk=c0b82c4b9ab86633f4e1b950adaff49b</link>
+            <guid>https://tobiasuhlig.medium.com/expanding-single-page-apps-into-multiple-browser-windows-part-2-2619ab40361d?source=friends_link&amp;sk=c0b82c4b9ab86633f4e1b950adaff49b</guid>
+            <pubDate>Fri, 07 May 2021 13:26:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Make A Link Preview: Ultimate Step By Step Guide using Javascript]]></title>
             <link>https://beingcoders.9mood.com/make-a-link-preview-ultimate-step-by-step-guide-2a53e6af9bbe?sk=60e63752aa1823aeb0401051066bb89a</link>
             <guid>https://beingcoders.9mood.com/make-a-link-preview-ultimate-step-by-step-guide-2a53e6af9bbe?sk=60e63752aa1823aeb0401051066bb89a</guid>
             <pubDate>Fri, 07 May 2021 18:23:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[AskJS] Good network/graph diagramming tool]]></title>
-            <link>http://sigmajs.org/</link>
-            <guid>http://sigmajs.org/</guid>
-            <pubDate>Sat, 08 May 2021 04:25:20 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A custom element ``, let you easily create layout similar to Adobe After Effects]]></title>
             <link>https://github.com/mantou132/gem-panel</link>
             <guid>https://github.com/mantou132/gem-panel</guid>
             <pubDate>Fri, 07 May 2021 22:41:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AskJS] Good network/graph diagramming tool]]></title>
+            <link>http://sigmajs.org/</link>
+            <guid>http://sigmajs.org/</guid>
+            <pubDate>Sat, 08 May 2021 04:25:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to write better JavaScript using plumbing techniques]]></title>
@@ -97,30 +127,6 @@
             <link>https://cri.dev/posts/2021-05-06-test-javascript-nodejs-function-time-date/</link>
             <guid>https://cri.dev/posts/2021-05-06-test-javascript-nodejs-function-time-date/</guid>
             <pubDate>Thu, 06 May 2021 15:33:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Visual Studio Code April 2021]]></title>
-            <link>https://code.visualstudio.com/updates/v1_56</link>
-            <guid>https://code.visualstudio.com/updates/v1_56</guid>
-            <pubDate>Wed, 05 May 2021 21:03:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Create a satellite tracker completely in JavaScript]]></title>
-            <link>https://dev.to/omar4ur/create-a-satellite-tracker-from-scratch-in-30-lines-of-javascript-32gk</link>
-            <guid>https://dev.to/omar4ur/create-a-satellite-tracker-from-scratch-in-30-lines-of-javascript-32gk</guid>
-            <pubDate>Thu, 06 May 2021 02:34:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[V8 release v9.1]]></title>
-            <link>https://v8.dev/blog/v8-release-91</link>
-            <guid>https://v8.dev/blog/v8-release-91</guid>
-            <pubDate>Wed, 05 May 2021 22:31:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AskJS] Is it just me or is core-js fundamentally broken?]]></title>
-            <link>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/Trim#polyfill</link>
-            <guid>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/Trim#polyfill</guid>
-            <pubDate>Wed, 05 May 2021 12:27:57 GMT</pubDate>
         </item>
     </channel>
 </rss>

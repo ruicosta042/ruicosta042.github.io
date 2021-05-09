@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sat, 08 May 2021 07:49:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 May 2021 07:48:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,52 +21,70 @@
             <pubDate>Sat, 01 May 2021 18:07:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[annoying "Warning: Invalid DOM property" warning (react, tailwind, craco)]]></title>
-            <link>https://github.com/insin/babel-plugin-react-html-attrs</link>
-            <guid>https://github.com/insin/babel-plugin-react-html-attrs</guid>
-            <pubDate>Sat, 08 May 2021 06:50:13 GMT</pubDate>
+            <title><![CDATA[A very over-engineered React todo app on AWS - Elasticsearch, ECS, Lambda, CodePipeline]]></title>
+            <link>https://github.com/MatthewCYLau/aws-react-elasticsearch-terraform</link>
+            <guid>https://github.com/MatthewCYLau/aws-react-elasticsearch-terraform</guid>
+            <pubDate>Sat, 08 May 2021 22:42:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Playing with react-voodoo :) ( https://github.com/react-voodoo/react-voodoo )]]></title>
-            <link>https://github.com/react-voodoo/react-voodoo/raw/master/doc/assets/demo.gif?sanitize=true</link>
-            <guid>https://github.com/react-voodoo/react-voodoo/raw/master/doc/assets/demo.gif?sanitize=true</guid>
-            <pubDate>Sat, 08 May 2021 06:36:49 GMT</pubDate>
+            <title><![CDATA[Learn React By Building A Twitter Clone]]></title>
+            <link>https://nicotsou.com/react-twitter-clone/</link>
+            <guid>https://nicotsou.com/react-twitter-clone/</guid>
+            <pubDate>Sat, 08 May 2021 10:06:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Should I consider creating a JSON Object from the array in following scenario?]]></title>
-            <link>https://codesandbox.io/s/primereact-datatable-simple-syovz?file=/src/cars-small.json</link>
-            <guid>https://codesandbox.io/s/primereact-datatable-simple-syovz?file=/src/cars-small.json</guid>
-            <pubDate>Fri, 07 May 2021 17:49:52 GMT</pubDate>
+            <title><![CDATA[How to Animate Items Out of an Array in React]]></title>
+            <link>https://typeofnan.dev/how-to-animate-items-out-of-an-array-in-react/</link>
+            <guid>https://typeofnan.dev/how-to-animate-items-out-of-an-array-in-react/</guid>
+            <pubDate>Sun, 09 May 2021 01:13:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Made a Forum for Online Book Discussion]]></title>
-            <link>https://www.wondri.com/home</link>
-            <guid>https://www.wondri.com/home</guid>
-            <pubDate>Fri, 07 May 2021 18:22:20 GMT</pubDate>
+            <title><![CDATA[Is it possible to use CRA/react-scripts with dependencies that have .mjs extensions?]]></title>
+            <link>https://github.com/reactioncommerce/reaction-component-library/issues/399#issuecomment-467860022</link>
+            <guid>https://github.com/reactioncommerce/reaction-component-library/issues/399#issuecomment-467860022</guid>
+            <pubDate>Sun, 09 May 2021 04:44:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Best Practices + Code Review + Mobile Display Issues]]></title>
-            <link>https://calc-solver.com/twin-paradox-under-special-relativity-calculator</link>
-            <guid>https://calc-solver.com/twin-paradox-under-special-relativity-calculator</guid>
-            <pubDate>Sat, 08 May 2021 02:25:11 GMT</pubDate>
+            <title><![CDATA[New Project / First React Project -- I am interested in your opinion!]]></title>
+            <link>http://www.thecrowd.ml/</link>
+            <guid>http://www.thecrowd.ml/</guid>
+            <pubDate>Sat, 08 May 2021 21:31:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Undefined mapping over an response data from api]]></title>
-            <link>https://discord.com/channels/239433591950540801/239433678126710784</link>
-            <guid>https://discord.com/channels/239433591950540801/239433678126710784</guid>
-            <pubDate>Sat, 08 May 2021 00:26:27 GMT</pubDate>
+            <title><![CDATA[Self Taught Beginner: Getting Started/"create-react-app"?]]></title>
+            <link>https://reactjs.org/docs/add-react-to-a-website.html</link>
+            <guid>https://reactjs.org/docs/add-react-to-a-website.html</guid>
+            <pubDate>Sat, 08 May 2021 13:59:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How do you use the images produced from the module Sharp in a React project?]]></title>
-            <link>https://github.com/lovell/sharp</link>
-            <guid>https://github.com/lovell/sharp</guid>
-            <pubDate>Fri, 07 May 2021 21:03:35 GMT</pubDate>
+            <title><![CDATA[Managing Loading Status for React is Much Easier with Loadio (https://javascript.plainenglish.io/managing-loading-status-for-react-is-much-easier-with-loadio-20b61fd0119c?source=reddit.com)]]></title>
+            <link>https://raw.githubusercontent.com/hepter/loadio/master/docs/demo.gif</link>
+            <guid>https://raw.githubusercontent.com/hepter/loadio/master/docs/demo.gif</guid>
+            <pubDate>Sun, 09 May 2021 01:37:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mantine - components and hooks library]]></title>
-            <link>https://mantine.dev/</link>
-            <guid>https://mantine.dev/</guid>
-            <pubDate>Fri, 07 May 2021 07:48:02 GMT</pubDate>
+            <title><![CDATA[Conway's game of life implemented in rust + wasm + reactjs + threejs.]]></title>
+            <link>https://rustwasm.github.io/docs/book/</link>
+            <guid>https://rustwasm.github.io/docs/book/</guid>
+            <pubDate>Sat, 08 May 2021 12:25:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Looking to build an interactive calendar component like this. Any expert here can give suggestions on which library may work?]]></title>
+            <link>http://demo.bs.hbsys.de/?date=2021-05-08</link>
+            <guid>http://demo.bs.hbsys.de/?date=2021-05-08</guid>
+            <pubDate>Sat, 08 May 2021 17:30:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[double dropdown in headlessui/tailwind and React]]></title>
+            <link>https://headlessui.dev/react/menu</link>
+            <guid>https://headlessui.dev/react/menu</guid>
+            <pubDate>Sat, 08 May 2021 20:19:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why my build is only white empty screen?]]></title>
+            <link>https://github.com/Serjeel-Ranjan-911/ShareText</link>
+            <guid>https://github.com/Serjeel-Ranjan-911/ShareText</guid>
+            <pubDate>Sat, 08 May 2021 20:02:03 GMT</pubDate>
         </item>
     </channel>
 </rss>

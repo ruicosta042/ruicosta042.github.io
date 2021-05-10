@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sun, 09 May 2021 07:48:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 May 2021 07:49:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,70 +21,76 @@
             <pubDate>Sat, 01 May 2021 18:07:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Here is my Social Network clone I have developed in the last two months as my first Full Stack Project]]></title>
+            <link>https://streamable.com/04x2y0</link>
+            <guid>https://streamable.com/04x2y0</guid>
+            <pubDate>Mon, 10 May 2021 06:08:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I made a Google Keep Clone with React/Redux and Firebase]]></title>
+            <link>https://streamable.com/w2ivme</link>
+            <guid>https://streamable.com/w2ivme</guid>
+            <pubDate>Sun, 09 May 2021 22:43:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10 Expensive React App Mistakes to Avoid]]></title>
+            <link>https://beforesemicolon.medium.com/10-expensive-react-app-mistakes-to-avoid-c9985d9bcad</link>
+            <guid>https://beforesemicolon.medium.com/10-expensive-react-app-mistakes-to-avoid-c9985d9bcad</guid>
+            <pubDate>Mon, 10 May 2021 07:00:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My First Full Stack React Developer Job At 17!]]></title>
+            <link>https://twitter.com/guytorbet</link>
+            <guid>https://twitter.com/guytorbet</guid>
+            <pubDate>Sun, 09 May 2021 18:50:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What maps library do you use inside of React to draw markers?]]></title>
+            <link>https://www.alltrails.com/explore</link>
+            <guid>https://www.alltrails.com/explore</guid>
+            <pubDate>Mon, 10 May 2021 06:43:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A very over-engineered React todo app on AWS - Elasticsearch, ECS, Lambda, CodePipeline]]></title>
             <link>https://github.com/MatthewCYLau/aws-react-elasticsearch-terraform</link>
             <guid>https://github.com/MatthewCYLau/aws-react-elasticsearch-terraform</guid>
             <pubDate>Sat, 08 May 2021 22:42:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Learn React By Building A Twitter Clone]]></title>
-            <link>https://nicotsou.com/react-twitter-clone/</link>
-            <guid>https://nicotsou.com/react-twitter-clone/</guid>
-            <pubDate>Sat, 08 May 2021 10:06:13 GMT</pubDate>
+            <title><![CDATA[Building a React color picker]]></title>
+            <link>https://lorenzopepe.dev/blog/react-color-picker</link>
+            <guid>https://lorenzopepe.dev/blog/react-color-picker</guid>
+            <pubDate>Sun, 09 May 2021 14:11:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to Animate Items Out of an Array in React]]></title>
-            <link>https://typeofnan.dev/how-to-animate-items-out-of-an-array-in-react/</link>
-            <guid>https://typeofnan.dev/how-to-animate-items-out-of-an-array-in-react/</guid>
-            <pubDate>Sun, 09 May 2021 01:13:45 GMT</pubDate>
+            <title><![CDATA[NEED HELP: npm package - Moving from class component to hooks]]></title>
+            <link>https://www.npmjs.com/package/react-datalist-input</link>
+            <guid>https://www.npmjs.com/package/react-datalist-input</guid>
+            <pubDate>Mon, 10 May 2021 02:07:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Is it possible to use CRA/react-scripts with dependencies that have .mjs extensions?]]></title>
-            <link>https://github.com/reactioncommerce/reaction-component-library/issues/399#issuecomment-467860022</link>
-            <guid>https://github.com/reactioncommerce/reaction-component-library/issues/399#issuecomment-467860022</guid>
-            <pubDate>Sun, 09 May 2021 04:44:11 GMT</pubDate>
+            <title><![CDATA[Portfolio Showoff! Would love to get some opinions :)]]></title>
+            <link>https://paytonjewell.dev/</link>
+            <guid>https://paytonjewell.dev/</guid>
+            <pubDate>Mon, 10 May 2021 00:35:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[New Project / First React Project -- I am interested in your opinion!]]></title>
-            <link>http://www.thecrowd.ml/</link>
-            <guid>http://www.thecrowd.ml/</guid>
-            <pubDate>Sat, 08 May 2021 21:31:43 GMT</pubDate>
+            <title><![CDATA[Underrated React Hooks]]></title>
+            <link>https://dev.to/salarc123/underrated-react-hooks-jek</link>
+            <guid>https://dev.to/salarc123/underrated-react-hooks-jek</guid>
+            <pubDate>Sun, 09 May 2021 17:36:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Self Taught Beginner: Getting Started/"create-react-app"?]]></title>
-            <link>https://reactjs.org/docs/add-react-to-a-website.html</link>
-            <guid>https://reactjs.org/docs/add-react-to-a-website.html</guid>
-            <pubDate>Sat, 08 May 2021 13:59:01 GMT</pubDate>
+            <title><![CDATA[random-colors-palette]]></title>
+            <link>https://github.com/gaetanozappi/random-colors-palette</link>
+            <guid>https://github.com/gaetanozappi/random-colors-palette</guid>
+            <pubDate>Sun, 09 May 2021 21:13:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Managing Loading Status for React is Much Easier with Loadio (https://javascript.plainenglish.io/managing-loading-status-for-react-is-much-easier-with-loadio-20b61fd0119c?source=reddit.com)]]></title>
-            <link>https://raw.githubusercontent.com/hepter/loadio/master/docs/demo.gif</link>
-            <guid>https://raw.githubusercontent.com/hepter/loadio/master/docs/demo.gif</guid>
-            <pubDate>Sun, 09 May 2021 01:37:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Conway's game of life implemented in rust + wasm + reactjs + threejs.]]></title>
-            <link>https://rustwasm.github.io/docs/book/</link>
-            <guid>https://rustwasm.github.io/docs/book/</guid>
-            <pubDate>Sat, 08 May 2021 12:25:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Looking to build an interactive calendar component like this. Any expert here can give suggestions on which library may work?]]></title>
-            <link>http://demo.bs.hbsys.de/?date=2021-05-08</link>
-            <guid>http://demo.bs.hbsys.de/?date=2021-05-08</guid>
-            <pubDate>Sat, 08 May 2021 17:30:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[double dropdown in headlessui/tailwind and React]]></title>
-            <link>https://headlessui.dev/react/menu</link>
-            <guid>https://headlessui.dev/react/menu</guid>
-            <pubDate>Sat, 08 May 2021 20:19:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why my build is only white empty screen?]]></title>
-            <link>https://github.com/Serjeel-Ranjan-911/ShareText</link>
-            <guid>https://github.com/Serjeel-Ranjan-911/ShareText</guid>
-            <pubDate>Sat, 08 May 2021 20:02:03 GMT</pubDate>
+            <title><![CDATA[Pagination component in ReactJs using Bootstrap]]></title>
+            <link>https://www.akashmittal.com/pagination-reactjs-bootstrap/</link>
+            <guid>https://www.akashmittal.com/pagination-reactjs-bootstrap/</guid>
+            <pubDate>Sun, 09 May 2021 20:24:25 GMT</pubDate>
         </item>
     </channel>
 </rss>

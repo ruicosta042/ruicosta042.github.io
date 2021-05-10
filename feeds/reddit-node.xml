@@ -4,10 +4,82 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Sun, 09 May 2021 07:48:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 May 2021 07:49:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Tracing how http server works under the hood.]]></title>
+            <link>https://gist.github.com/deostroll/5c851b8354491801e5572cbff6457fa9#file-notes-md</link>
+            <guid>https://gist.github.com/deostroll/5c851b8354491801e5572cbff6457fa9#file-notes-md</guid>
+            <pubDate>Sun, 09 May 2021 18:30:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AutoReddit - tried to build a SAAS product but failed miserably!!!]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Mon, 10 May 2021 07:29:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10 Expensive React App Mistakes to Avoid]]></title>
+            <link>https://beforesemicolon.medium.com/10-expensive-react-app-mistakes-to-avoid-c9985d9bcad</link>
+            <guid>https://beforesemicolon.medium.com/10-expensive-react-app-mistakes-to-avoid-c9985d9bcad</guid>
+            <pubDate>Mon, 10 May 2021 07:01:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Light Weight, Cross-platform Node.js Utility to open URLs in browser with zero dependencies]]></title>
+            <link>https://www.npmjs.com/package/out-url</link>
+            <guid>https://www.npmjs.com/package/out-url</guid>
+            <pubDate>Sun, 09 May 2021 16:06:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[25 More JavaScript Code Solutions You Need To Know About]]></title>
+            <link>http://beforesemicolon.medium.com/25-more-javascript-code-solutions-you-need-to-know-about-6ee344c2da58</link>
+            <guid>http://beforesemicolon.medium.com/25-more-javascript-code-solutions-you-need-to-know-about-6ee344c2da58</guid>
+            <pubDate>Mon, 10 May 2021 07:02:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[3D Printed Robot Hand Integrated with my Twitch through nodejs]]></title>
+            <link>https://clips.twitch.tv/ArtsyFantasticMinkDoritosChip-L8fpav0mYW-VGp_g</link>
+            <guid>https://clips.twitch.tv/ArtsyFantasticMinkDoritosChip-L8fpav0mYW-VGp_g</guid>
+            <pubDate>Sun, 09 May 2021 20:01:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why is only one 'data' event emitted when stdout exceeds the buffer size?]]></title>
+            <link>https://github.com/Almenon/AREPL-vscode/pull/332</link>
+            <guid>https://github.com/Almenon/AREPL-vscode/pull/332</guid>
+            <pubDate>Mon, 10 May 2021 03:35:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Deploy Cloud Run for Nodejs Projects in Nx Workspace]]></title>
+            <link>https://dalenguyen.medium.com/deploy-cloud-run-for-nodejs-projects-in-nx-workspace-ac1611f17f4e?source=friends_link&amp;sk=c852a88017f747831ea7dae8c4782d3d</link>
+            <guid>https://dalenguyen.medium.com/deploy-cloud-run-for-nodejs-projects-in-nx-workspace-ac1611f17f4e?source=friends_link&amp;sk=c852a88017f747831ea7dae8c4782d3d</guid>
+            <pubDate>Sun, 09 May 2021 21:04:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[You Won’t Make it Far without Knowing How to Work with Data]]></title>
+            <link>https://link.medium.com/lSHzw4kn8fb</link>
+            <guid>https://link.medium.com/lSHzw4kn8fb</guid>
+            <pubDate>Mon, 10 May 2021 02:47:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spikes in downloads when publishing in npm. What causes that and other questions.]]></title>
+            <link>https://www.npmjs.com/%7Elillallol</link>
+            <guid>https://www.npmjs.com/%7Elillallol</guid>
+            <pubDate>Sun, 09 May 2021 08:39:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Deploy Node.js application with Caddy, Docker & docker-compose on DigitalOcean]]></title>
+            <link>https://tomanagle.medium.com/deploy-node-js-application-with-caddy-docker-docker-compose-on-digitalocean-c20ef46d47ed</link>
+            <guid>https://tomanagle.medium.com/deploy-node-js-application-with-caddy-docker-docker-compose-on-digitalocean-c20ef46d47ed</guid>
+            <pubDate>Sun, 09 May 2021 09:55:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Search Through Different Social Media Platforms with Node.js]]></title>
+            <link>https://blog.shahednasser.com/how-to-search-through-different-social-media-platforms-with-node-js/</link>
+            <guid>https://blog.shahednasser.com/how-to-search-through-different-social-media-platforms-with-node-js/</guid>
+            <pubDate>Sun, 09 May 2021 19:49:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hammer: A build tool for node and browser applications]]></title>
             <link>https://github.com/sinclairzx81/hammer</link>
@@ -15,64 +87,22 @@
             <pubDate>Sun, 09 May 2021 07:32:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Make your own Storage Engine for Multer in TypeScript]]></title>
-            <link>https://1761ary.medium.com/custom-storage-engine-for-multer-in-typescript-613ebd35d61e</link>
-            <guid>https://1761ary.medium.com/custom-storage-engine-for-multer-in-typescript-613ebd35d61e</guid>
-            <pubDate>Sat, 08 May 2021 21:31:27 GMT</pubDate>
+            <title><![CDATA[Should I use Auth0 user_id as my unique identifier, and how to access it?]]></title>
+            <link>https://auth0.com/blog/complete-guide-to-react-user-authentication/</link>
+            <guid>https://auth0.com/blog/complete-guide-to-react-user-authentication/</guid>
+            <pubDate>Sun, 09 May 2021 15:30:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Express.js public IP is not correct]]></title>
-            <link>https://35.191.15.172/</link>
-            <guid>https://35.191.15.172/</guid>
-            <pubDate>Sat, 08 May 2021 20:51:03 GMT</pubDate>
+            <title><![CDATA[The Most Popular Programming Languages - 1965/2021 - New Update]]></title>
+            <link>https://statisticsanddata.org/data/the-most-popular-programming-languages-1965-2021/</link>
+            <guid>https://statisticsanddata.org/data/the-most-popular-programming-languages-1965-2021/</guid>
+            <pubDate>Sun, 09 May 2021 14:26:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[COVID-19 Vaccine Tracker and Notifier]]></title>
-            <link>https://github.com/luciferreeves/vaccinosaurus</link>
-            <guid>https://github.com/luciferreeves/vaccinosaurus</guid>
-            <pubDate>Sat, 08 May 2021 20:57:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Let's Build a Binary Clock in Node.js]]></title>
-            <link>https://aonemd.me/posts/let-s-build-a-binary-clock-in-node-js/</link>
-            <guid>https://aonemd.me/posts/let-s-build-a-binary-clock-in-node-js/</guid>
-            <pubDate>Sat, 08 May 2021 13:20:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Contract first, strictly typed endpoints in TypeScript with runtime validation]]></title>
-            <link>https://link.medium.com/SucNOK0P5fb</link>
-            <guid>https://link.medium.com/SucNOK0P5fb</guid>
-            <pubDate>Sat, 08 May 2021 14:03:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Schedule A Cron Job In NodeJS Using node-cron | Geekstrick]]></title>
-            <link>https://www.geekstrick.com/schedule-a-cron-job-in-nodejs-using-node-cron/</link>
-            <guid>https://www.geekstrick.com/schedule-a-cron-job-in-nodejs-using-node-cron/</guid>
-            <pubDate>Sat, 08 May 2021 09:49:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to fetch socket id of another user from the client side?]]></title>
-            <link>https://socket.io/</link>
-            <guid>https://socket.io/</guid>
-            <pubDate>Sat, 08 May 2021 12:29:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Real-time log monitoring in the browser using Node.js]]></title>
-            <link>https://roarr.io/</link>
-            <guid>https://roarr.io/</guid>
-            <pubDate>Fri, 07 May 2021 01:44:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Messenger Chat App, Join Link Below]]></title>
-            <link>https://github.com/enesinan/facebook-messenger</link>
-            <guid>https://github.com/enesinan/facebook-messenger</guid>
-            <pubDate>Sat, 08 May 2021 12:35:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Linkinator: A super simple site crawler and broken link checker]]></title>
-            <link>https://github.com/JustinBeckwith/linkinator</link>
-            <guid>https://github.com/JustinBeckwith/linkinator</guid>
-            <pubDate>Sat, 08 May 2021 04:32:06 GMT</pubDate>
+            <title><![CDATA[How To Install or Update Node by Using nvm (Node Version Manager) | mxkvl.com]]></title>
+            <link>https://mxkvl.com/blog/article/how-to-install-or-update-node-by-using-nvm</link>
+            <guid>https://mxkvl.com/blog/article/how-to-install-or-update-node-by-using-nvm</guid>
+            <pubDate>Sun, 09 May 2021 18:08:37 GMT</pubDate>
         </item>
     </channel>
 </rss>

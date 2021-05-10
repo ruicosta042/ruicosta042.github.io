@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sun, 09 May 2021 07:48:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 May 2021 07:49:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -13,6 +13,42 @@
             <link>https://foo.com/</link>
             <guid>https://foo.com/</guid>
             <pubDate>Mon, 03 May 2021 09:03:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How JavaScript works: 3 types of polymorphism]]></title>
+            <link>https://blog.sessionstack.com/how-javascript-works-3-types-of-polymorphism-f10ff4992be1</link>
+            <guid>https://blog.sessionstack.com/how-javascript-works-3-types-of-polymorphism-f10ff4992be1</guid>
+            <pubDate>Sun, 09 May 2021 22:29:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Are you refactoring code the right way?]]></title>
+            <link>https://iskenxan.medium.com/are-you-refactoring-code-the-right-way-e215a4f3fe59?sk=155ecfdbb77681aec4c7883a5c0f9b80</link>
+            <guid>https://iskenxan.medium.com/are-you-refactoring-code-the-right-way-e215a4f3fe59?sk=155ecfdbb77681aec4c7883a5c0f9b80</guid>
+            <pubDate>Mon, 10 May 2021 07:06:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mothers Day CSS Card]]></title>
+            <link>https://bc-experiments.herokuapp.com/mothers-day/</link>
+            <guid>https://bc-experiments.herokuapp.com/mothers-day/</guid>
+            <pubDate>Mon, 10 May 2021 00:02:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hammer: A build tool for node and browser applications]]></title>
+            <link>https://github.com/sinclairzx81/hammer</link>
+            <guid>https://github.com/sinclairzx81/hammer</guid>
+            <pubDate>Sun, 09 May 2021 07:33:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ajv JSON validator online event on May 20, 10am PT (6pm UK)]]></title>
+            <link>https://us02web.zoom.us/webinar/register/4116205728277/WN_erJ_t4ICTHOnGC1SOybNnw</link>
+            <guid>https://us02web.zoom.us/webinar/register/4116205728277/WN_erJ_t4ICTHOnGC1SOybNnw</guid>
+            <pubDate>Sun, 09 May 2021 15:17:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Portable Unix shell commands for Node.js]]></title>
+            <link>https://github.com/shelljs/shelljs</link>
+            <guid>https://github.com/shelljs/shelljs</guid>
+            <pubDate>Mon, 10 May 2021 00:33:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ok6 - Minimal JavaScript library for writing tests and assertions:]]></title>
@@ -25,12 +61,6 @@
             <link>https://github.com/kdy1/benchmark-done-right</link>
             <guid>https://github.com/kdy1/benchmark-done-right</guid>
             <pubDate>Sat, 08 May 2021 16:24:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hammer: A build tool for node and browser applications]]></title>
-            <link>https://github.com/sinclairzx81/hammer</link>
-            <guid>https://github.com/sinclairzx81/hammer</guid>
-            <pubDate>Sun, 09 May 2021 07:33:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[We are researchers that work to improve Machine Learning models. If you have experience with python and/or java and a few minutes to spare please take our survey!]]></title>
@@ -57,16 +87,16 @@
             <pubDate>Fri, 07 May 2021 13:26:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Make A Link Preview: Ultimate Step By Step Guide using Javascript]]></title>
-            <link>https://beingcoders.9mood.com/make-a-link-preview-ultimate-step-by-step-guide-2a53e6af9bbe?sk=60e63752aa1823aeb0401051066bb89a</link>
-            <guid>https://beingcoders.9mood.com/make-a-link-preview-ultimate-step-by-step-guide-2a53e6af9bbe?sk=60e63752aa1823aeb0401051066bb89a</guid>
-            <pubDate>Fri, 07 May 2021 18:23:24 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A custom element ``, let you easily create layout similar to Adobe After Effects]]></title>
             <link>https://github.com/mantou132/gem-panel</link>
             <guid>https://github.com/mantou132/gem-panel</guid>
             <pubDate>Fri, 07 May 2021 22:41:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Make A Link Preview: Ultimate Step By Step Guide using Javascript]]></title>
+            <link>https://beingcoders.9mood.com/make-a-link-preview-ultimate-step-by-step-guide-2a53e6af9bbe?sk=60e63752aa1823aeb0401051066bb89a</link>
+            <guid>https://beingcoders.9mood.com/make-a-link-preview-ultimate-step-by-step-guide-2a53e6af9bbe?sk=60e63752aa1823aeb0401051066bb89a</guid>
+            <pubDate>Fri, 07 May 2021 18:23:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[AskJS] Good network/graph diagramming tool]]></title>
@@ -109,24 +139,6 @@
             <link>https://ad.aakhilv.me/</link>
             <guid>https://ad.aakhilv.me/</guid>
             <pubDate>Thu, 06 May 2021 21:45:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Care about your users, don't minify your JS! | LibrePlanet 2021]]></title>
-            <link>https://framatube.org/videos/watch/2e4c7cf0-8797-4712-8eda-1d5912937b51</link>
-            <guid>https://framatube.org/videos/watch/2e4c7cf0-8797-4712-8eda-1d5912937b51</guid>
-            <pubDate>Fri, 07 May 2021 19:04:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How we sped up Chrome DevTools stack traces by 10x - Chrome Developers]]></title>
-            <link>https://developer.chrome.com/blog/faster-stack-traces/</link>
-            <guid>https://developer.chrome.com/blog/faster-stack-traces/</guid>
-            <pubDate>Thu, 06 May 2021 08:49:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to test a function that works with time]]></title>
-            <link>https://cri.dev/posts/2021-05-06-test-javascript-nodejs-function-time-date/</link>
-            <guid>https://cri.dev/posts/2021-05-06-test-javascript-nodejs-function-time-date/</guid>
-            <pubDate>Thu, 06 May 2021 15:33:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

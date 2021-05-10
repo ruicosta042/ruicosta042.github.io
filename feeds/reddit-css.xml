@@ -4,10 +4,16 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Sun, 09 May 2021 07:48:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 May 2021 07:49:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Made a Mother's Day E-Card using only CSS animations]]></title>
+            <link>http://bc-experiments.herokuapp.com/mothers-day/</link>
+            <guid>http://bc-experiments.herokuapp.com/mothers-day/</guid>
+            <pubDate>Mon, 10 May 2021 00:25:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[CSS-only fluid modular type scales]]></title>
             <link>https://utopia.fyi/blog/css-modular-scales/</link>

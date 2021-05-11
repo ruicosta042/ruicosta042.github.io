@@ -40,49 +40,53 @@
 
 |                      |                                                                                              |
 | -------------------- | -------------------------------------------------------------------------------------------- |
-| David Quammen        | Spillover: the powerful, prescient book that predicted the Covid-19 coronavirus pandemic.    |
+| David A. Sinclair    | Lifespan: Why We Age - and Why We Don't Have to                                              |
+| David Quammen        | Spillover: Animal Infections and the Next Human Pandemic                                     |
 | David Spiegelhalter  | The Art of Statistics: Learning from Data                                                    |
-| Dr David A. Sinclair | Lifespan: Why We Age - and Why We Don't Have to                                              |
 | Kit Yates            | The Maths of Life and Death                                                                  |
 | Mark Miodownik       | Stuff Matters: The Strange Stories of the Marvellous Materials that Shape Our Man-made World |
 | Matthew Walker       | Why We Sleep: The New Science of Sleep and Dreams                                            |
 | Melanie Mitchell     | Artificial Intelligence : A Guide for Thinking Humans                                        |
+| Oliver Morton        | The Moon: A History for the Future                                                           |
 | Siddhartha Mukherjee | The Gene: An Intimate History                                                                |
+| Steve Brusatte       | The Rise and Fall of the Dinosaurs: The Untold Story of a Lost World                         |
 
 **Non fiction**
 
-|                           |                                                                                     |
-| ------------------------- | ----------------------------------------------------------------------------------- |
-| David Graeber             | Debt, Updated And Expanded                                                          |
-| James C. Scott            | Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed |
-| Jared Diamond             | Guns, Germs and Steel                                                               |
-| Kassia St Clair           | The Secret Lives of Colour                                                          |
-| Kory Stamper              | Word by Word: The Secret Life of Dictionaries                                       |
-| Michael Pollan            | The Omnivore's Dilemma: The Search for a Perfect Meal in a Fast-Food World          |
-| Phil Thornton             | The Great Economists: Ten Economists whose thinking changed the way we live         |
-| Professor Shoshana Zuboff | The Age of Surveillance Capitalism                                                  |
-| Simon Singh               | The Code Book: The Secret History of Codes and Code-Breaking                        |
-| Susan Cain                | Quiet: The Power of Introverts in a World That Can't Stop Talking                   |
+|                 |                                                                                     |
+| --------------- | ----------------------------------------------------------------------------------- |
+| Ha-Joon Chang   | Economics: The User's Guide                                                         |
+| James C. Scott  | Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed |
+| Jared Diamond   | Guns, Germs and Steel                                                               |
+| Kassia St Clair | The Secret Lives of Colour                                                          |
+| Kory Stamper    | Word by Word: The Secret Life of Dictionaries                                       |
+| Michael Pollan  | The Omnivore's Dilemma: The Search for a Perfect Meal in a Fast-Food World          |
+| Phil Thornton   | The Great Economists: Ten Economists whose thinking changed the way we live         |
+| Shoshana Zuboff | The Age of Surveillance Capitalism                                                  |
+| Simon Singh     | The Code Book: The Secret History of Codes and Code-Breaking                        |
+| Susan Cain      | Quiet: The Power of Introverts in a World That Can't Stop Talking                   |
 
 **History**
 
-|                      |                                                                                            |
-| -------------------- | ------------------------------------------------------------------------------------------ |
-| Albert Hourani       | A History of the Arab Peoples                                                              |
-| Andrew Chaikin       | A Man on the Moon: The Voyages of the Apollo Astronauts                                    |
-| Christopher Harding  | Japan Story: In Search of a Nation, 1850 to the Present                                    |
-| David Edgerton       | The Rise and Fall of the British Nation : A Twentieth-Century History                      |
-| Jill Lepore          | These Truths: A History of the United States                                               |
-| John Lewis Gaddis    | The Cold War                                                                               |
-| Professor Mary Beard | SPQR: A History of Ancient Rome                                                            |
-| Richard Holmes       | The Age of Wonder: How the Romantic Generation Discovered the Beauty and Terror of Science |
-| Toby Wilkinson       | The Rise and Fall of Ancient Egypt                                                         |
+|                     |                                                                                            |
+| ------------------- | ------------------------------------------------------------------------------------------ |
+| Albert Hourani      | A History of the Arab Peoples                                                              |
+| Andrew Chaikin      | A Man on the Moon: The Voyages of the Apollo Astronauts                                    |
+| Christopher Harding | Japan Story: In Search of a Nation, 1850 to the Present                                    |
+| David Edgerton      | The Rise and Fall of the British Nation : A Twentieth-Century History                      |
+| Jill Lepore         | These Truths: A History of the United States                                               |
+| John Lewis Gaddis   | The Cold War                                                                               |
+| Mary Beard          | SPQR: A History of Ancient Rome                                                            |
+| Neil Price          | The Children of Ash and Elm: A History of the Vikings                                      |
+| Richard Holmes      | The Age of Wonder: How the Romantic Generation Discovered the Beauty and Terror of Science |
+| Toby Wilkinson      | The Rise and Fall of Ancient Egypt                                                         |
 
 **Biography**
 
 |                  |                                                                          |
 | ---------------- | ------------------------------------------------------------------------ |
 | Emmanuel Carrère | I Am Alive and You are Dead: A Journey Inside the Mind of Philip K. Dick |
+| Sue Prideaux     | I Am Dynamite!: A Life of Friedrich Nietzsche                            |
 
 **Tech**
 
@@ -90,5 +94,5 @@
 | --------------- | ------------------------------------------------------------------------------------------------ |
 | Charles Petzold | Code: The Hidden Language of Computer Hardware and Software                                      |
 | Clive Thompson  | Coders: The Making of a New Tribe and the Remaking of the World                                  |
-| Dr Kevin Kelly  | The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future             |
+| Kevin Kelly     | The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future             |
 | Walter Isaacson | Innovators: How a Group of Inventors, Hackers, Geniuses and Geeks Created the Digital Revolution |

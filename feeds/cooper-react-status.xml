@@ -4,7 +4,7 @@
         <title>React Status</title>
         <link>https://react.statuscode.com/</link>
         <description>A weekly roundup of the latest React and React Native links and tutorials.</description>
-        <lastBuildDate>Mon, 10 May 2021 07:49:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 May 2021 07:49:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -40,8 +40,8 @@
         </item>
         <item>
             <title><![CDATA[A Vite 2.0 Crash Course]]></title>
-            <link>https://www.youtube.com/watch?v=LQQ3CR2JTX8</link>
-            <guid>https://www.youtube.com/watch?v=LQQ3CR2JTX8</guid>
+            <link>https://m.youtube.com/watch?v=LQQ3CR2JTX8</link>
+            <guid>https://m.youtube.com/watch?v=LQQ3CR2JTX8</guid>
             <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>

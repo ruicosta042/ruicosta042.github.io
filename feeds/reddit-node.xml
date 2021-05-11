@@ -4,15 +4,51 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Mon, 10 May 2021 07:49:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 May 2021 07:49:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[JWT should not be your default for sessions]]></title>
+            <link>https://evertpot.com/jwt-is-a-bad-default/</link>
+            <guid>https://evertpot.com/jwt-is-a-bad-default/</guid>
+            <pubDate>Mon, 10 May 2021 21:30:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to securely send sensitive information over JWT, or how to rethink my current architecture?]]></title>
+            <link>https://github.com/subnub/myDrive</link>
+            <guid>https://github.com/subnub/myDrive</guid>
+            <pubDate>Mon, 10 May 2021 19:49:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Uncaught errors in Node.js and the browser]]></title>
+            <link>https://wanago.io/2021/05/10/uncaught-errors-node-js-browser/</link>
+            <guid>https://wanago.io/2021/05/10/uncaught-errors-node-js-browser/</guid>
+            <pubDate>Mon, 10 May 2021 16:20:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tinyws - tiny WebSocket middleware for Node.js]]></title>
+            <link>https://github.com/talentlessguy/tinyws</link>
+            <guid>https://github.com/talentlessguy/tinyws</guid>
+            <pubDate>Mon, 10 May 2021 19:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[File Upload In Angular 7 And Node JS | Geekstrick - Node Js Tutorial]]></title>
+            <link>https://www.geekstrick.com/file-upload-in-angular-7-and-node-js/</link>
+            <guid>https://www.geekstrick.com/file-upload-in-angular-7-and-node-js/</guid>
+            <pubDate>Mon, 10 May 2021 09:05:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tracing how http server works under the hood.]]></title>
             <link>https://gist.github.com/deostroll/5c851b8354491801e5572cbff6457fa9#file-notes-md</link>
             <guid>https://gist.github.com/deostroll/5c851b8354491801e5572cbff6457fa9#file-notes-md</guid>
             <pubDate>Sun, 09 May 2021 18:30:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why can't I write code inside my browser?]]></title>
+            <link>https://tomcritchlow.com/2021/01/14/new-browsers/</link>
+            <guid>https://tomcritchlow.com/2021/01/14/new-browsers/</guid>
+            <pubDate>Mon, 10 May 2021 21:05:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AutoReddit - tried to build a SAAS product but failed miserably!!!]]></title>
@@ -21,22 +57,16 @@
             <pubDate>Mon, 10 May 2021 07:29:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[10 Expensive React App Mistakes to Avoid]]></title>
-            <link>https://beforesemicolon.medium.com/10-expensive-react-app-mistakes-to-avoid-c9985d9bcad</link>
-            <guid>https://beforesemicolon.medium.com/10-expensive-react-app-mistakes-to-avoid-c9985d9bcad</guid>
-            <pubDate>Mon, 10 May 2021 07:01:17 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Light Weight, Cross-platform Node.js Utility to open URLs in browser with zero dependencies]]></title>
             <link>https://www.npmjs.com/package/out-url</link>
             <guid>https://www.npmjs.com/package/out-url</guid>
             <pubDate>Sun, 09 May 2021 16:06:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[25 More JavaScript Code Solutions You Need To Know About]]></title>
-            <link>http://beforesemicolon.medium.com/25-more-javascript-code-solutions-you-need-to-know-about-6ee344c2da58</link>
-            <guid>http://beforesemicolon.medium.com/25-more-javascript-code-solutions-you-need-to-know-about-6ee344c2da58</guid>
-            <pubDate>Mon, 10 May 2021 07:02:58 GMT</pubDate>
+            <title><![CDATA[How does middleware work in Express?]]></title>
+            <link>https://simonplend.com/how-does-middleware-work-in-express/</link>
+            <guid>https://simonplend.com/how-does-middleware-work-in-express/</guid>
+            <pubDate>Mon, 10 May 2021 12:23:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[3D Printed Robot Hand Integrated with my Twitch through nodejs]]></title>
@@ -45,64 +75,10 @@
             <pubDate>Sun, 09 May 2021 20:01:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why is only one 'data' event emitted when stdout exceeds the buffer size?]]></title>
-            <link>https://github.com/Almenon/AREPL-vscode/pull/332</link>
-            <guid>https://github.com/Almenon/AREPL-vscode/pull/332</guid>
-            <pubDate>Mon, 10 May 2021 03:35:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deploy Cloud Run for Nodejs Projects in Nx Workspace]]></title>
-            <link>https://dalenguyen.medium.com/deploy-cloud-run-for-nodejs-projects-in-nx-workspace-ac1611f17f4e?source=friends_link&amp;sk=c852a88017f747831ea7dae8c4782d3d</link>
-            <guid>https://dalenguyen.medium.com/deploy-cloud-run-for-nodejs-projects-in-nx-workspace-ac1611f17f4e?source=friends_link&amp;sk=c852a88017f747831ea7dae8c4782d3d</guid>
-            <pubDate>Sun, 09 May 2021 21:04:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[You Won’t Make it Far without Knowing How to Work with Data]]></title>
-            <link>https://link.medium.com/lSHzw4kn8fb</link>
-            <guid>https://link.medium.com/lSHzw4kn8fb</guid>
-            <pubDate>Mon, 10 May 2021 02:47:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spikes in downloads when publishing in npm. What causes that and other questions.]]></title>
-            <link>https://www.npmjs.com/%7Elillallol</link>
-            <guid>https://www.npmjs.com/%7Elillallol</guid>
-            <pubDate>Sun, 09 May 2021 08:39:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deploy Node.js application with Caddy, Docker & docker-compose on DigitalOcean]]></title>
-            <link>https://tomanagle.medium.com/deploy-node-js-application-with-caddy-docker-docker-compose-on-digitalocean-c20ef46d47ed</link>
-            <guid>https://tomanagle.medium.com/deploy-node-js-application-with-caddy-docker-docker-compose-on-digitalocean-c20ef46d47ed</guid>
-            <pubDate>Sun, 09 May 2021 09:55:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Search Through Different Social Media Platforms with Node.js]]></title>
-            <link>https://blog.shahednasser.com/how-to-search-through-different-social-media-platforms-with-node-js/</link>
-            <guid>https://blog.shahednasser.com/how-to-search-through-different-social-media-platforms-with-node-js/</guid>
-            <pubDate>Sun, 09 May 2021 19:49:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hammer: A build tool for node and browser applications]]></title>
-            <link>https://github.com/sinclairzx81/hammer</link>
-            <guid>https://github.com/sinclairzx81/hammer</guid>
-            <pubDate>Sun, 09 May 2021 07:32:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Should I use Auth0 user_id as my unique identifier, and how to access it?]]></title>
-            <link>https://auth0.com/blog/complete-guide-to-react-user-authentication/</link>
-            <guid>https://auth0.com/blog/complete-guide-to-react-user-authentication/</guid>
-            <pubDate>Sun, 09 May 2021 15:30:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Most Popular Programming Languages - 1965/2021 - New Update]]></title>
-            <link>https://statisticsanddata.org/data/the-most-popular-programming-languages-1965-2021/</link>
-            <guid>https://statisticsanddata.org/data/the-most-popular-programming-languages-1965-2021/</guid>
-            <pubDate>Sun, 09 May 2021 14:26:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How To Install or Update Node by Using nvm (Node Version Manager) | mxkvl.com]]></title>
-            <link>https://mxkvl.com/blog/article/how-to-install-or-update-node-by-using-nvm</link>
-            <guid>https://mxkvl.com/blog/article/how-to-install-or-update-node-by-using-nvm</guid>
-            <pubDate>Sun, 09 May 2021 18:08:37 GMT</pubDate>
+            <title><![CDATA[25 More JavaScript Code Solutions You Need To Know About]]></title>
+            <link>http://beforesemicolon.medium.com/25-more-javascript-code-solutions-you-need-to-know-about-6ee344c2da58</link>
+            <guid>http://beforesemicolon.medium.com/25-more-javascript-code-solutions-you-need-to-know-about-6ee344c2da58</guid>
+            <pubDate>Mon, 10 May 2021 07:02:58 GMT</pubDate>
         </item>
     </channel>
 </rss>

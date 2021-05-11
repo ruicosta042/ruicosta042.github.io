@@ -4,10 +4,34 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Sun, 09 May 2021 07:48:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 May 2021 07:49:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Looking for CloudFormation Resource Templates as Type Definitions]]></title>
+            <link>https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-resource-specification.html</link>
+            <guid>https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-resource-specification.html</guid>
+            <pubDate>Tue, 11 May 2021 02:28:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reactjs + MaterialUI + Typescript = <3]]></title>
+            <link>https://tsh.io/blog/why-typescript/</link>
+            <guid>https://tsh.io/blog/why-typescript/</guid>
+            <pubDate>Mon, 10 May 2021 13:19:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It’s time we admit the truth about Javascript]]></title>
+            <link>https://medium.com/@billwohlers/its-time-we-admit-the-truth-about-javascript-98d197c0f1ec</link>
+            <guid>https://medium.com/@billwohlers/its-time-we-admit-the-truth-about-javascript-98d197c0f1ec</guid>
+            <pubDate>Tue, 11 May 2021 01:13:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Please add optional named parameters to TypeScript]]></title>
+            <link>https://betterprogramming.pub/named-parameters-in-typescript-e32c763d2b2e</link>
+            <guid>https://betterprogramming.pub/named-parameters-in-typescript-e32c763d2b2e</guid>
+            <pubDate>Tue, 11 May 2021 03:37:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Extracting types from a function signature]]></title>
             <link>https://www.typescriptlang.org/play?#code/PTAEDkHsBcFMC4BQJSgIICcDmAVAngA6xrQA8OANBAHygC2AllgBbSgDOssdoGsAJgFcAdvwCGwtmPagA7rFABjSIIA2-UIM7ps+Iu3LUA2uAC6VAEaDoyMKGjMFAM0gY6sDKAAUEjZGGqePaOoC5uHlRoAGJoAJIA0gCUoGKqqpCyMlr2kJraynQE1gKgAAbgpewAdLaoUa6gDMLs0BKKsFTySirqeQqYuITEZJSgAMqCdKTgAIxUACzUtA3skO4OTVigqgwA1goOYtA1KN4AQjgA6lQOHrAA5DLCueyCBASubGEcO4qbVBgmKwAPzjNawDbCLY7fagPSwdhGADMVSqAFZTMDEohENAhqAACIAUQAwgAlIkAWSJ4Bw01oAF4IKBYAAPOCiGRGJpODwQOaNYS8zzgABMplAoIA+lLieSqTScKLSCYBWLTLR4KAZXKKdTaTN6QBuXH4nWkvWKw3gRnMtkc-gyAAMktAwlgADc+UhUL6-f6A77wCz2bBOaAZq6XT7A7HA8H7WHHaBRa7IzG45nUAnQ+Gka7Uxms3Gcw6ZPNXfmi8X4yGy6A0a6K9Wa-7S0mZAA2V2NlutoN1jugADsru7ff7dtzyYAHK7RxP++3wwBOV1zrXur0YI2TwOmoja2UWhW05U20BM5fJ7lCvkE0VUHn3mamRB7gOgowPqgE1+D8MjCdKgnQlUEt29d8PwDP8AOTF0v3NeV9RwQ0H2oKgVwlRdJ2-R8j11U9UNIP9qDfaC-U3T0PBNPFDzGWJKQABQAGViKIAE16UvKd61vYVCXw59PD-ciP1BB84OdV1YK1cAoL3OTaPxIkAEUAFU0BY6Y1VFW0GOYtjOJ02hE3DAzWPYrixVoUFoAwQQFC1JxUk4E1aigOAkFOIxWS1f9SAAWloIxX1qUBQtAAAfTRRFgJwmgECUgpC1lgX85LgoitL-Oi2L+HixL+DfU5ZEcPh0FALKznoWAJBkQ42DQRoZGkdgmGEMQLFUA5cjOE5gHCqB3VuHr2HYChwtQJwREUaAGH8UAsBmLw-LdSYLD5GKRAKhL3X4Kg8E3DaPGSABvABfcKGBkZQMD4ObLGsKbQlm+bFqwUVVvS9a6E2jBDuOv7TtAS7rpkcAAHlRk2xQxC0A4Qj4ABHQQGD4DQxGwSYwzYUo8FKJQJHuL5IDSDJggUSACHezrVHCrGsBxyQylZUoBvCylXAUBhCk+CRoECG5mBu0BmDEd4w3YJA6IUS4iViMlYKZXyfv-MybzWiQ8DA+wHKc0JXIUD8UHsxyDzlhWldTFWcojCUNa5LXhDwKhUSqRnpZSF2jFMXWzYNlzVG0VAUCDzgLdAeXFYJfNbbVh3pydn7tbd1FPa1bXff9-XQGco3Q7AAOcVl0AmIYRRdhIcgqAvBkFLhKSIt1rwG79CDPEzFAGCcZlRegSBcgsJgAQhQQMGaMoO9KBvki1HAm98rVhNAdS0497AvZXgA1Fu299NTNO08AQNMpO9cc111LzsuK6rsht9-E8UPpahZ5vhfHeyn6V7X0B3YzoKASu9XSt1jIfLS0xT5NwDlfPKO1Cr7RvuXSu1dH6EmfoqV+78qLbl3HGFAqx1giyhHIXGcgMD+CwCXfEKDdhREoVMUYdcG6f3Pr7UB+9UAcJrCgZ4LIeruEkOwHBjcv6q0zi7degCd573ARpSBJ9QBOjPvWWBoIF5ajoQwtYpB0GERfjaN+fo55umojuLuYAiEQhIVseQLNZCUKhDQw8dCcCQBrjQHi2j0YtHAJ4m0ylXF3yiL46A-jmG2hlD4jAfiAlUF9tQIJChokhLCRE2uVAcBoHiDSRkrDF5yMDNk3J8kTE3wgcfaBX91HeC4XCHJNJRFsL4mtX+0jN7LzvJ4EBoIwHFMadeVqPtdapMrqE2J4S9FP2Qlgm0CT3YlJpFQdSGob4d2aYvO27T-7p06UAvkvS6mxiWUM72eAOHSilDEuJ+jMG0npAs1EpyVnwLintJKmozHblER3fBsZCHgkhHY8hjiqEuIUNoxh7jPFRDJJDSkWTIb5L9JU0gcKEXVPPrU-pAY3EeNGDgZFmzxFFIDDw4sfDciwEEbjER5T55bMka7XZG8sBb26aAI5uL-RQrWDCu5syHkYspBhDBQq6REqWCS9h2zOV-wAfs2RnDYx8roAKmZlphXwtFZqoi5BkXGN9KYv5liOBAtsWQhxTjqGRwGPCAwOBbQtKHF4RV7KukCXUskBktBtZwNwTRO1ughjV0iTxF14Y3V7I9Qczw3rLx+pdq6Oh1c-4XkDTuYNgx9A6KYVQEVzqm7RrZRyr1Pqk1BFBGq0gf9C3rPMcknQOaER5phaMEVSKi1fxLTI+VFbzkppCdCjxdadVdobXgnEKAxjgnsAiaAIjI44CJGMHAspYCKEjEyAxWCVxJJNmAGcy7V3roJJum24qtV0mRBQcUB7eFgFvWFUuK610bsUHHK9+qjAzgoKBB9lKn3DgoFhE977z2KArDu+5N65gAf+VmFAQFQNvlfaej9jYmRot3Q80K-6NSYUA6AU2+sIVwgwyQbdt9UFkBQxGKg+EkQLHMMo4jFF-QoCdOB9dJBL2pro6yJ0WpgKgFZDMfyVBWSih+vhVkSIfrMbE-MH68xWNInYyRsA+ZtrvKKuRt96683UZrfRgUTHWN6UQ5OZDFmeNSjzfx4dujfLCeUVJiTDGxMya1HJhTWokSWYfch6Tsm3m7SKlJ-zoAdP5UQUlAzGH3EmbvjCszjGqCBcY5p1syHRMvvxIZqU7inOVzS0JkTHnJPedk1FxT6ngtPvy4x8L8XirkZlDKNAZIADiWHspudE+J6roXfN1YC1JlTWp5hSbRD9DETaittsgCl8ZI6VTNZTJlhYVAMQZYbDlv0tntugDU-Z5bpX6HrfS1tmLO2GyWYScxzsGprOFwikx+7GJzsjq-WqmFnWpTdb6ydtEh3H0RViwgj5B1TutZh2hwrGHlvQZo1d-lHibufdO7t1jK4ElzHvW9rTzcfsY-6-9zHm3sczYe-dqzSGn1vlqESVkYhCg9UQDNYQc0FrCFCCtCr7mxMzDVlJnzv1-rjY4PZTY50rrc954tJwX08CebOpAXYnmLCDx6hIX2F1Dqii1Br3YxvJceEN6APASITea9tzFq3eB5h292C7i3GALry6529PnS0fBAyl6ACwWoWiAihFQRQofZdQl9pNLM-AtT2tDWQWWkBe5OHMxhepvoEDNodaQNPGeZjGHFFQAMhD2cKGkNsRKKQddehz6gd2dBtZJ5Dbm9bRfQj4QFBp86DdlDNDYBgTzYfNgcKZIoE0foh8tF4Ob4QJ1PC6Yi0gpk-AZ++jnyPh3S-gYr7izDnisAt+oB37wd3puHdIgujxVvPtXwmiukAA</link>
@@ -61,18 +85,6 @@
             <link>https://github.com/sinclairzx81/hammer</link>
             <guid>https://github.com/sinclairzx81/hammer</guid>
             <pubDate>Thu, 06 May 2021 08:15:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How should I use useRef with TS & React, Object is possibly 'null'. error]]></title>
-            <link>https://videoelement.current.play/</link>
-            <guid>https://videoelement.current.play/</guid>
-            <pubDate>Thu, 06 May 2021 12:49:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Splice an array into an array causing error to be thrown]]></title>
-            <link>https://stackoverflow.com/a/12190006/436493</link>
-            <guid>https://stackoverflow.com/a/12190006/436493</guid>
-            <pubDate>Wed, 05 May 2021 14:51:40 GMT</pubDate>
         </item>
     </channel>
 </rss>

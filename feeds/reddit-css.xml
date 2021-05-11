@@ -4,15 +4,45 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Mon, 10 May 2021 07:49:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 May 2021 07:49:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[React Bootstrap 5 - new open source library, #1 on ProductHunt today]]></title>
+            <link>https://www.producthunt.com/posts/react-bootstrap-5</link>
+            <guid>https://www.producthunt.com/posts/react-bootstrap-5</guid>
+            <pubDate>Tue, 11 May 2021 07:23:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iconic — Free “do wtf you want with” pixel-perfect icons]]></title>
+            <link>https://iconic.app/</link>
+            <guid>https://iconic.app/</guid>
+            <pubDate>Mon, 10 May 2021 12:52:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Build Amazing Websites w/ HTML, CSS, Sass, JavaScript & More - free course from udemy]]></title>
+            <link>https://www.myfreeonlinecourses.com/2021/05/build-amazing-websites-w-html-css-sass.html</link>
+            <guid>https://www.myfreeonlinecourses.com/2021/05/build-amazing-websites-w-html-css-sass.html</guid>
+            <pubDate>Tue, 11 May 2021 00:27:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Understanding Display by Rachel Andrew]]></title>
+            <link>https://noti.st/rachelandrew/VeraEX/understanding-display</link>
+            <guid>https://noti.st/rachelandrew/VeraEX/understanding-display</guid>
+            <pubDate>Mon, 10 May 2021 12:52:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Made a Mother's Day E-Card using only CSS animations]]></title>
             <link>http://bc-experiments.herokuapp.com/mothers-day/</link>
             <guid>http://bc-experiments.herokuapp.com/mothers-day/</guid>
             <pubDate>Mon, 10 May 2021 00:25:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10 CSS Tricks You Need to Know About (Part 2)]]></title>
+            <link>https://beforesemicolon.medium.com/10-css-tricks-you-need-to-know-about-part-2-df52ee0b2937</link>
+            <guid>https://beforesemicolon.medium.com/10-css-tricks-you-need-to-know-about-part-2-df52ee0b2937</guid>
+            <pubDate>Mon, 10 May 2021 16:55:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[CSS-only fluid modular type scales]]></title>
@@ -37,12 +67,6 @@
             <link>https://jsfiddle.net/o0kmphvf/8/</link>
             <guid>https://jsfiddle.net/o0kmphvf/8/</guid>
             <pubDate>Fri, 07 May 2021 21:11:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Exploring color-contrast() for the First Time]]></title>
-            <link>https://css-tricks.com/exploring-color-contrast-for-the-first-time/</link>
-            <guid>https://css-tricks.com/exploring-color-contrast-for-the-first-time/</guid>
-            <pubDate>Fri, 07 May 2021 13:33:20 GMT</pubDate>
         </item>
     </channel>
 </rss>

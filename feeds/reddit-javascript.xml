@@ -4,15 +4,27 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Mon, 10 May 2021 07:49:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 May 2021 07:49:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Your /r/javascript recap for the week of April 26 - May 02]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Mon, 03 May 2021 09:03:56 GMT</pubDate>
+            <title><![CDATA[Your /r/javascript recap for the week of May 03 - May 09]]></title>
+            <link>https://github.com/google/zx</link>
+            <guid>https://github.com/google/zx</guid>
+            <pubDate>Mon, 10 May 2021 09:03:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tinyws — tiny WebSocket middleware for Node.js]]></title>
+            <link>https://github.com/talentlessguy/tinyws</link>
+            <guid>https://github.com/talentlessguy/tinyws</guid>
+            <pubDate>Mon, 10 May 2021 21:27:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Does JS code run - Execution context and Call stack]]></title>
+            <link>https://dev.to/prashan81992916/how-does-js-code-run-execution-context-and-call-stack-3a7</link>
+            <guid>https://dev.to/prashan81992916/how-does-js-code-run-execution-context-and-call-stack-3a7</guid>
+            <pubDate>Tue, 11 May 2021 04:49:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How JavaScript works: 3 types of polymorphism]]></title>
@@ -21,16 +33,16 @@
             <pubDate>Sun, 09 May 2021 22:29:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Are you refactoring code the right way?]]></title>
-            <link>https://iskenxan.medium.com/are-you-refactoring-code-the-right-way-e215a4f3fe59?sk=155ecfdbb77681aec4c7883a5c0f9b80</link>
-            <guid>https://iskenxan.medium.com/are-you-refactoring-code-the-right-way-e215a4f3fe59?sk=155ecfdbb77681aec4c7883a5c0f9b80</guid>
-            <pubDate>Mon, 10 May 2021 07:06:50 GMT</pubDate>
+            <title><![CDATA[Components are Pure Overhead]]></title>
+            <link>https://dev.to/this-is-learning/components-are-pure-overhead-hpm</link>
+            <guid>https://dev.to/this-is-learning/components-are-pure-overhead-hpm</guid>
+            <pubDate>Mon, 10 May 2021 17:29:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mothers Day CSS Card]]></title>
-            <link>https://bc-experiments.herokuapp.com/mothers-day/</link>
-            <guid>https://bc-experiments.herokuapp.com/mothers-day/</guid>
-            <pubDate>Mon, 10 May 2021 00:02:10 GMT</pubDate>
+            <title><![CDATA[Portable Unix shell commands for Node.js]]></title>
+            <link>https://github.com/shelljs/shelljs</link>
+            <guid>https://github.com/shelljs/shelljs</guid>
+            <pubDate>Mon, 10 May 2021 00:33:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hammer: A build tool for node and browser applications]]></title>
@@ -45,10 +57,10 @@
             <pubDate>Sun, 09 May 2021 15:17:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Portable Unix shell commands for Node.js]]></title>
-            <link>https://github.com/shelljs/shelljs</link>
-            <guid>https://github.com/shelljs/shelljs</guid>
-            <pubDate>Mon, 10 May 2021 00:33:20 GMT</pubDate>
+            <title><![CDATA[Why jQuery should be more appreciated]]></title>
+            <link>https://notecanvas.com/content/blog/why_jquery_should_be_more_appreciated/1089</link>
+            <guid>https://notecanvas.com/content/blog/why_jquery_should_be_more_appreciated/1089</guid>
+            <pubDate>Mon, 10 May 2021 14:37:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ok6 - Minimal JavaScript library for writing tests and assertions:]]></title>
@@ -61,12 +73,6 @@
             <link>https://github.com/kdy1/benchmark-done-right</link>
             <guid>https://github.com/kdy1/benchmark-done-right</guid>
             <pubDate>Sat, 08 May 2021 16:24:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We are researchers that work to improve Machine Learning models. If you have experience with python and/or java and a few minutes to spare please take our survey!]]></title>
-            <link>https://usc.qualtrics.com/jfe/form/SV_cHEhJ5YRoEOBwcC?Q_CHL=social&amp;Q_SocialSource=reddit</link>
-            <guid>https://usc.qualtrics.com/jfe/form/SV_cHEhJ5YRoEOBwcC?Q_CHL=social&amp;Q_SocialSource=reddit</guid>
-            <pubDate>Sat, 08 May 2021 22:53:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Linkinator: A super simple site crawler and broken link checker]]></title>
@@ -99,12 +105,6 @@
             <pubDate>Fri, 07 May 2021 18:23:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[AskJS] Good network/graph diagramming tool]]></title>
-            <link>http://sigmajs.org/</link>
-            <guid>http://sigmajs.org/</guid>
-            <pubDate>Sat, 08 May 2021 04:25:20 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[How to write better JavaScript using plumbing techniques]]></title>
             <link>https://piotrjaworski.medium.com/how-to-write-better-javascript-using-plumbing-techniques-68aa78be817c</link>
             <guid>https://piotrjaworski.medium.com/how-to-write-better-javascript-using-plumbing-techniques-68aa78be817c</guid>
@@ -133,12 +133,6 @@
             <link>https://yagudaev.com/posts/testing-on-mobile-devices-the-easy-way</link>
             <guid>https://yagudaev.com/posts/testing-on-mobile-devices-the-easy-way</guid>
             <pubDate>Fri, 07 May 2021 14:50:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ad4ad, a free advertising system where you can get your site advertised by advertising other sites using a small ad in the corner. Made with Nodejs and JS.]]></title>
-            <link>https://ad.aakhilv.me/</link>
-            <guid>https://ad.aakhilv.me/</guid>
-            <pubDate>Thu, 06 May 2021 21:45:47 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Mon, 10 May 2021 07:49:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 May 2021 07:49:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,76 +21,64 @@
             <pubDate>Sat, 01 May 2021 18:07:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[React for Bootstrap 5 - useful kit, #1 on ProductHunt]]></title>
+            <link>https://www.producthunt.com/posts/react-bootstrap-5</link>
+            <guid>https://www.producthunt.com/posts/react-bootstrap-5</guid>
+            <pubDate>Tue, 11 May 2021 07:18:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Presenting a free version of Berrydashboard.io React admin template.]]></title>
+            <link>https://blog.berrydashboard.io/berry-free-react-admin-template/</link>
+            <guid>https://blog.berrydashboard.io/berry-free-react-admin-template/</guid>
+            <pubDate>Tue, 11 May 2021 02:10:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Here is my Social Network clone I have developed in the last two months as my first Full Stack Project]]></title>
             <link>https://streamable.com/04x2y0</link>
             <guid>https://streamable.com/04x2y0</guid>
             <pubDate>Mon, 10 May 2021 06:08:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I made a Google Keep Clone with React/Redux and Firebase]]></title>
-            <link>https://streamable.com/w2ivme</link>
-            <guid>https://streamable.com/w2ivme</guid>
-            <pubDate>Sun, 09 May 2021 22:43:49 GMT</pubDate>
+            <title><![CDATA[Make.cm: Build React templates and turn them into PDF, image and videos]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Tue, 11 May 2021 03:41:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[10 Expensive React App Mistakes to Avoid]]></title>
-            <link>https://beforesemicolon.medium.com/10-expensive-react-app-mistakes-to-avoid-c9985d9bcad</link>
-            <guid>https://beforesemicolon.medium.com/10-expensive-react-app-mistakes-to-avoid-c9985d9bcad</guid>
-            <pubDate>Mon, 10 May 2021 07:00:50 GMT</pubDate>
+            <title><![CDATA[Filter for array not working? Changing string to num]]></title>
+            <link>http://api.tvmaze.com/search/shows?q=girls</link>
+            <guid>http://api.tvmaze.com/search/shows?q=girls</guid>
+            <pubDate>Tue, 11 May 2021 03:31:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[My First Full Stack React Developer Job At 17!]]></title>
-            <link>https://twitter.com/guytorbet</link>
-            <guid>https://twitter.com/guytorbet</guid>
-            <pubDate>Sun, 09 May 2021 18:50:09 GMT</pubDate>
+            <title><![CDATA[How to replicate this sandbox example with hooks?]]></title>
+            <link>https://codesandbox.io/embed/react-example-9rqpp?codemirror=1</link>
+            <guid>https://codesandbox.io/embed/react-example-9rqpp?codemirror=1</guid>
+            <pubDate>Tue, 11 May 2021 01:33:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What maps library do you use inside of React to draw markers?]]></title>
-            <link>https://www.alltrails.com/explore</link>
-            <guid>https://www.alltrails.com/explore</guid>
-            <pubDate>Mon, 10 May 2021 06:43:12 GMT</pubDate>
+            <title><![CDATA[Axios not sending cookie header on safari (PC) and on mobile devices]]></title>
+            <link>https://stackoverflow.com/questions/67479248/react-js-axios-wont-send-cookie-header-in-any-request</link>
+            <guid>https://stackoverflow.com/questions/67479248/react-js-axios-wont-send-cookie-header-in-any-request</guid>
+            <pubDate>Tue, 11 May 2021 00:59:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A very over-engineered React todo app on AWS - Elasticsearch, ECS, Lambda, CodePipeline]]></title>
-            <link>https://github.com/MatthewCYLau/aws-react-elasticsearch-terraform</link>
-            <guid>https://github.com/MatthewCYLau/aws-react-elasticsearch-terraform</guid>
-            <pubDate>Sat, 08 May 2021 22:42:38 GMT</pubDate>
+            <title><![CDATA[Fix Jest mock 'cannot access before initialization' error]]></title>
+            <link>https://blog.bam.tech/developer-news/fix-jest-mock-cannot-access-before-initialization-error</link>
+            <guid>https://blog.bam.tech/developer-news/fix-jest-mock-cannot-access-before-initialization-error</guid>
+            <pubDate>Mon, 10 May 2021 16:09:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Building a React color picker]]></title>
-            <link>https://lorenzopepe.dev/blog/react-color-picker</link>
-            <guid>https://lorenzopepe.dev/blog/react-color-picker</guid>
-            <pubDate>Sun, 09 May 2021 14:11:45 GMT</pubDate>
+            <title><![CDATA[Solitaire clone with MobX & TypeScript]]></title>
+            <link>https://mobx.js.org/README.html</link>
+            <guid>https://mobx.js.org/README.html</guid>
+            <pubDate>Mon, 10 May 2021 09:27:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NEED HELP: npm package - Moving from class component to hooks]]></title>
-            <link>https://www.npmjs.com/package/react-datalist-input</link>
-            <guid>https://www.npmjs.com/package/react-datalist-input</guid>
-            <pubDate>Mon, 10 May 2021 02:07:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Portfolio Showoff! Would love to get some opinions :)]]></title>
-            <link>https://paytonjewell.dev/</link>
-            <guid>https://paytonjewell.dev/</guid>
-            <pubDate>Mon, 10 May 2021 00:35:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Underrated React Hooks]]></title>
-            <link>https://dev.to/salarc123/underrated-react-hooks-jek</link>
-            <guid>https://dev.to/salarc123/underrated-react-hooks-jek</guid>
-            <pubDate>Sun, 09 May 2021 17:36:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[random-colors-palette]]></title>
-            <link>https://github.com/gaetanozappi/random-colors-palette</link>
-            <guid>https://github.com/gaetanozappi/random-colors-palette</guid>
-            <pubDate>Sun, 09 May 2021 21:13:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pagination component in ReactJs using Bootstrap]]></title>
-            <link>https://www.akashmittal.com/pagination-reactjs-bootstrap/</link>
-            <guid>https://www.akashmittal.com/pagination-reactjs-bootstrap/</guid>
-            <pubDate>Sun, 09 May 2021 20:24:25 GMT</pubDate>
+            <title><![CDATA[Writing my first react custom hook]]></title>
+            <link>https://blog.rajatkapoor.me/writing-my-first-custom-react-hook-useoutsideclick</link>
+            <guid>https://blog.rajatkapoor.me/writing-my-first-custom-react-hook-useoutsideclick</guid>
+            <pubDate>Mon, 10 May 2021 15:07:22 GMT</pubDate>
         </item>
     </channel>
 </rss>

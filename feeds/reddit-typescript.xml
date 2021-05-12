@@ -4,10 +4,22 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Tue, 11 May 2021 07:49:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 May 2021 07:51:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[I used all my brain power to make this: fully-typed tiny decoder library to easily deserialize you data]]></title>
+            <link>https://github.com/michaljanocko/schemawax</link>
+            <guid>https://github.com/michaljanocko/schemawax</guid>
+            <pubDate>Tue, 11 May 2021 14:32:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[String Literal Templates and Tag hierarchies]]></title>
+            <link>https://ikoshelev.azurewebsites.net/search/id/16/Pragmatic-uses-of-TypeScript-type-system-03-Tag-hierarchies-via-Template-Literal-Types</link>
+            <guid>https://ikoshelev.azurewebsites.net/search/id/16/Pragmatic-uses-of-TypeScript-type-system-03-Tag-hierarchies-via-Template-Literal-Types</guid>
+            <pubDate>Tue, 11 May 2021 12:54:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Looking for CloudFormation Resource Templates as Type Definitions]]></title>
             <link>https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-resource-specification.html</link>
@@ -55,36 +67,6 @@
             <link>https://medium.com/litslink/typescript-decorators-in-examples-c3afcd3c7ff8</link>
             <guid>https://medium.com/litslink/typescript-decorators-in-examples-c3afcd3c7ff8</guid>
             <pubDate>Fri, 07 May 2021 18:40:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tetris which always gives you the worst piece]]></title>
-            <link>https://qntm.org/hatetris</link>
-            <guid>https://qntm.org/hatetris</guid>
-            <pubDate>Fri, 07 May 2021 15:06:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[md-in-place : file imports and toc generation in-place for markdown files via simple html comments]]></title>
-            <link>https://github.com/lillallol/md-in-place</link>
-            <guid>https://github.com/lillallol/md-in-place</guid>
-            <pubDate>Fri, 07 May 2021 22:27:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Calling ReasonML from TypeScript (or Flow)]]></title>
-            <link>https://micheleriva.medium.com/calling-reasonml-from-typescript-or-flow-the-easy-way-6372cbf4ead3?source=friends_link&amp;sk=ba9a03c966899ebd1b1bfbf9130aab87</link>
-            <guid>https://micheleriva.medium.com/calling-reasonml-from-typescript-or-flow-the-easy-way-6372cbf4ead3?source=friends_link&amp;sk=ba9a03c966899ebd1b1bfbf9130aab87</guid>
-            <pubDate>Fri, 07 May 2021 09:46:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dependency leaking lib "dom" into my tsconfig]]></title>
-            <link>https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/supertest/tsconfig.json#L6</link>
-            <guid>https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/supertest/tsconfig.json#L6</guid>
-            <pubDate>Thu, 06 May 2021 15:48:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hammer: Using esbuild to create better tools for the web]]></title>
-            <link>https://github.com/sinclairzx81/hammer</link>
-            <guid>https://github.com/sinclairzx81/hammer</guid>
-            <pubDate>Thu, 06 May 2021 08:15:41 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Tue, 11 May 2021 07:49:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 May 2021 07:51:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -27,58 +27,58 @@
             <pubDate>Tue, 11 May 2021 07:18:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Parcel Bundler renders an empty page]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Wed, 12 May 2021 05:26:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[react jobs]]></title>
+            <link>https://startworkingremotely.com/jobs?q=react</link>
+            <guid>https://startworkingremotely.com/jobs?q=react</guid>
+            <pubDate>Wed, 12 May 2021 05:07:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cross-Browser Voice Commands with React]]></title>
+            <link>https://medium.com/picovoice/cross-browser-voice-commands-with-react-bae0560fce8</link>
+            <guid>https://medium.com/picovoice/cross-browser-voice-commands-with-react-bae0560fce8</guid>
+            <pubDate>Tue, 11 May 2021 15:04:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to use images from sharp module in React and Webpack project]]></title>
+            <link>https://codesandbox.io/s/holy-sun-5il46?file=/src/pages/Home.js</link>
+            <guid>https://codesandbox.io/s/holy-sun-5il46?file=/src/pages/Home.js</guid>
+            <pubDate>Wed, 12 May 2021 02:05:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How do I only run a page's script while on current page using React Router?]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Wed, 12 May 2021 01:37:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Transiciones de pantalla fallan en react Native]]></title>
+            <link>https://codersgt.com/wp-content/uploads/2021/04/SVID_20210414_002905_1.mp4</link>
+            <guid>https://codersgt.com/wp-content/uploads/2021/04/SVID_20210414_002905_1.mp4</guid>
+            <pubDate>Wed, 12 May 2021 01:16:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NextJS: NextAuth Need help with Token Refresh not setting]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Tue, 11 May 2021 23:40:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Presenting a free version of Berrydashboard.io React admin template.]]></title>
             <link>https://blog.berrydashboard.io/berry-free-react-admin-template/</link>
             <guid>https://blog.berrydashboard.io/berry-free-react-admin-template/</guid>
             <pubDate>Tue, 11 May 2021 02:10:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Here is my Social Network clone I have developed in the last two months as my first Full Stack Project]]></title>
-            <link>https://streamable.com/04x2y0</link>
-            <guid>https://streamable.com/04x2y0</guid>
-            <pubDate>Mon, 10 May 2021 06:08:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Make.cm: Build React templates and turn them into PDF, image and videos]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Tue, 11 May 2021 03:41:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Filter for array not working? Changing string to num]]></title>
-            <link>http://api.tvmaze.com/search/shows?q=girls</link>
-            <guid>http://api.tvmaze.com/search/shows?q=girls</guid>
-            <pubDate>Tue, 11 May 2021 03:31:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to replicate this sandbox example with hooks?]]></title>
-            <link>https://codesandbox.io/embed/react-example-9rqpp?codemirror=1</link>
-            <guid>https://codesandbox.io/embed/react-example-9rqpp?codemirror=1</guid>
-            <pubDate>Tue, 11 May 2021 01:33:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Axios not sending cookie header on safari (PC) and on mobile devices]]></title>
-            <link>https://stackoverflow.com/questions/67479248/react-js-axios-wont-send-cookie-header-in-any-request</link>
-            <guid>https://stackoverflow.com/questions/67479248/react-js-axios-wont-send-cookie-header-in-any-request</guid>
-            <pubDate>Tue, 11 May 2021 00:59:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fix Jest mock 'cannot access before initialization' error]]></title>
-            <link>https://blog.bam.tech/developer-news/fix-jest-mock-cannot-access-before-initialization-error</link>
-            <guid>https://blog.bam.tech/developer-news/fix-jest-mock-cannot-access-before-initialization-error</guid>
-            <pubDate>Mon, 10 May 2021 16:09:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Solitaire clone with MobX & TypeScript]]></title>
-            <link>https://mobx.js.org/README.html</link>
-            <guid>https://mobx.js.org/README.html</guid>
-            <pubDate>Mon, 10 May 2021 09:27:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Writing my first react custom hook]]></title>
-            <link>https://blog.rajatkapoor.me/writing-my-first-custom-react-hook-useoutsideclick</link>
-            <guid>https://blog.rajatkapoor.me/writing-my-first-custom-react-hook-useoutsideclick</guid>
-            <pubDate>Mon, 10 May 2021 15:07:22 GMT</pubDate>
+            <title><![CDATA[How can I use jest mock in a onClick element inside a component without props? (React testing library)]]></title>
+            <link>https://github.com/testing-library/react-testing-library</link>
+            <guid>https://github.com/testing-library/react-testing-library</guid>
+            <pubDate>Tue, 11 May 2021 13:45:12 GMT</pubDate>
         </item>
     </channel>
 </rss>

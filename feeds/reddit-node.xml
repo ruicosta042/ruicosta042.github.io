@@ -4,15 +4,39 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Tue, 11 May 2021 07:49:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 May 2021 07:51:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Node v14.17.0 (LTS)]]></title>
+            <link>https://nodejs.org/en/blog/release/v14.17.0/</link>
+            <guid>https://nodejs.org/en/blog/release/v14.17.0/</guid>
+            <pubDate>Tue, 11 May 2021 23:42:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[JWT should not be your default for sessions]]></title>
             <link>https://evertpot.com/jwt-is-a-bad-default/</link>
             <guid>https://evertpot.com/jwt-is-a-bad-default/</guid>
             <pubDate>Mon, 10 May 2021 21:30:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Looking for a grid display package]]></title>
+            <link>https://datatables.net/</link>
+            <guid>https://datatables.net/</guid>
+            <pubDate>Tue, 11 May 2021 23:40:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meet zx: A Better Way to Write Scripts with Node.js]]></title>
+            <link>https://alexlakatos.com/node/2021/05/11/better-way-to-script/</link>
+            <guid>https://alexlakatos.com/node/2021/05/11/better-way-to-script/</guid>
+            <pubDate>Tue, 11 May 2021 21:05:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Most Popular Backend Frameworks – 2012/2021]]></title>
+            <link>https://statisticsanddata.org/data/most-popular-backend-frameworks-2012-2021/</link>
+            <guid>https://statisticsanddata.org/data/most-popular-backend-frameworks-2012-2021/</guid>
+            <pubDate>Tue, 11 May 2021 14:50:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to securely send sensitive information over JWT, or how to rethink my current architecture?]]></title>
@@ -21,64 +45,22 @@
             <pubDate>Mon, 10 May 2021 19:49:06 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[10 Javascript Design Patterns To Improve Your Code With]]></title>
+            <link>https://link.medium.com/4aSHqpbJagb</link>
+            <guid>https://link.medium.com/4aSHqpbJagb</guid>
+            <pubDate>Tue, 11 May 2021 12:46:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10 Things Experienced Developers Know Well]]></title>
+            <link>https://link.medium.com/9UbhXXToagb</link>
+            <guid>https://link.medium.com/9UbhXXToagb</guid>
+            <pubDate>Tue, 11 May 2021 08:02:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Uncaught errors in Node.js and the browser]]></title>
             <link>https://wanago.io/2021/05/10/uncaught-errors-node-js-browser/</link>
             <guid>https://wanago.io/2021/05/10/uncaught-errors-node-js-browser/</guid>
             <pubDate>Mon, 10 May 2021 16:20:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[tinyws - tiny WebSocket middleware for Node.js]]></title>
-            <link>https://github.com/talentlessguy/tinyws</link>
-            <guid>https://github.com/talentlessguy/tinyws</guid>
-            <pubDate>Mon, 10 May 2021 19:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[File Upload In Angular 7 And Node JS | Geekstrick - Node Js Tutorial]]></title>
-            <link>https://www.geekstrick.com/file-upload-in-angular-7-and-node-js/</link>
-            <guid>https://www.geekstrick.com/file-upload-in-angular-7-and-node-js/</guid>
-            <pubDate>Mon, 10 May 2021 09:05:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tracing how http server works under the hood.]]></title>
-            <link>https://gist.github.com/deostroll/5c851b8354491801e5572cbff6457fa9#file-notes-md</link>
-            <guid>https://gist.github.com/deostroll/5c851b8354491801e5572cbff6457fa9#file-notes-md</guid>
-            <pubDate>Sun, 09 May 2021 18:30:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why can't I write code inside my browser?]]></title>
-            <link>https://tomcritchlow.com/2021/01/14/new-browsers/</link>
-            <guid>https://tomcritchlow.com/2021/01/14/new-browsers/</guid>
-            <pubDate>Mon, 10 May 2021 21:05:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AutoReddit - tried to build a SAAS product but failed miserably!!!]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Mon, 10 May 2021 07:29:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Light Weight, Cross-platform Node.js Utility to open URLs in browser with zero dependencies]]></title>
-            <link>https://www.npmjs.com/package/out-url</link>
-            <guid>https://www.npmjs.com/package/out-url</guid>
-            <pubDate>Sun, 09 May 2021 16:06:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How does middleware work in Express?]]></title>
-            <link>https://simonplend.com/how-does-middleware-work-in-express/</link>
-            <guid>https://simonplend.com/how-does-middleware-work-in-express/</guid>
-            <pubDate>Mon, 10 May 2021 12:23:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3D Printed Robot Hand Integrated with my Twitch through nodejs]]></title>
-            <link>https://clips.twitch.tv/ArtsyFantasticMinkDoritosChip-L8fpav0mYW-VGp_g</link>
-            <guid>https://clips.twitch.tv/ArtsyFantasticMinkDoritosChip-L8fpav0mYW-VGp_g</guid>
-            <pubDate>Sun, 09 May 2021 20:01:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[25 More JavaScript Code Solutions You Need To Know About]]></title>
-            <link>http://beforesemicolon.medium.com/25-more-javascript-code-solutions-you-need-to-know-about-6ee344c2da58</link>
-            <guid>http://beforesemicolon.medium.com/25-more-javascript-code-solutions-you-need-to-know-about-6ee344c2da58</guid>
-            <pubDate>Mon, 10 May 2021 07:02:58 GMT</pubDate>
         </item>
     </channel>
 </rss>

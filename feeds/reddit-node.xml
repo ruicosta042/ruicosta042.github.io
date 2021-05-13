@@ -4,10 +4,52 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Wed, 12 May 2021 07:51:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 May 2021 07:52:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Writing a Blockchain in Node.js]]></title>
+            <link>https://micheleriva.medium.com/writing-a-blockchain-in-node-js-cd3e903226cf?source=friends_link&amp;sk=e5cbc7f6702ec8836a6085466c010e7f</link>
+            <guid>https://micheleriva.medium.com/writing-a-blockchain-in-node-js-cd3e903226cf?source=friends_link&amp;sk=e5cbc7f6702ec8836a6085466c010e7f</guid>
+            <pubDate>Wed, 12 May 2021 11:37:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Complete NodeJS course with express, socket io and MongoDB - free course from udemy]]></title>
+            <link>https://www.myfreeonlinecourses.com/2021/03/100-off-complete-nodejs-course-with.html</link>
+            <guid>https://www.myfreeonlinecourses.com/2021/03/100-off-complete-nodejs-course-with.html</guid>
+            <pubDate>Wed, 12 May 2021 14:56:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Robot Hand Update! Twitch Chat can now Rock Paper Scissors!]]></title>
+            <link>https://clips.twitch.tv/ElegantRacySeahorseHumbleLife-4s_LGJf-nLBhRbk8</link>
+            <guid>https://clips.twitch.tv/ElegantRacySeahorseHumbleLife-4s_LGJf-nLBhRbk8</guid>
+            <pubDate>Wed, 12 May 2021 22:27:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[facebook/docusaurus v2 beta finally released, after 2 years of alphas]]></title>
+            <link>https://docusaurus.io/blog/2021/05/12/announcing-docusaurus-two-beta</link>
+            <guid>https://docusaurus.io/blog/2021/05/12/announcing-docusaurus-two-beta</guid>
+            <pubDate>Wed, 12 May 2021 17:24:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10 NodeJs Things You Should Know & Master to be a Pro]]></title>
+            <link>https://link.medium.com/dcs3aUZGcgb</link>
+            <guid>https://link.medium.com/dcs3aUZGcgb</guid>
+            <pubDate>Wed, 12 May 2021 17:10:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Setup Simple Workflow To Write Node TypeScript Application In Live Reload]]></title>
+            <link>https://mxkvl.com/blog/article/setup-simple-workflow-to-write-node-typeScript-application-in-live-reload</link>
+            <guid>https://mxkvl.com/blog/article/setup-simple-workflow-to-write-node-typeScript-application-in-live-reload</guid>
+            <pubDate>Wed, 12 May 2021 19:24:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenTelemetry Elasticsearch instrumentation for Node.js]]></title>
+            <link>https://www.aspecto.io/blog/why-this-opentelemetry-elasticsearch-instrumentation-for-node-js-is-different/?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=rnode-opentelemetry-elasticsearch-instrumentation-nodejs</link>
+            <guid>https://www.aspecto.io/blog/why-this-opentelemetry-elasticsearch-instrumentation-for-node-js-is-different/?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=rnode-opentelemetry-elasticsearch-instrumentation-nodejs</guid>
+            <pubDate>Wed, 12 May 2021 14:47:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Node v14.17.0 (LTS)]]></title>
             <link>https://nodejs.org/en/blog/release/v14.17.0/</link>
@@ -15,52 +57,16 @@
             <pubDate>Tue, 11 May 2021 23:42:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[JWT should not be your default for sessions]]></title>
-            <link>https://evertpot.com/jwt-is-a-bad-default/</link>
-            <guid>https://evertpot.com/jwt-is-a-bad-default/</guid>
-            <pubDate>Mon, 10 May 2021 21:30:39 GMT</pubDate>
+            <title><![CDATA[Changing the primary key's data type with Sequelize]]></title>
+            <link>https://www.grouparoo.com/blog/change-primary-key-sequelize</link>
+            <guid>https://www.grouparoo.com/blog/change-primary-key-sequelize</guid>
+            <pubDate>Wed, 12 May 2021 16:57:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Looking for a grid display package]]></title>
-            <link>https://datatables.net/</link>
-            <guid>https://datatables.net/</guid>
-            <pubDate>Tue, 11 May 2021 23:40:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meet zx: A Better Way to Write Scripts with Node.js]]></title>
-            <link>https://alexlakatos.com/node/2021/05/11/better-way-to-script/</link>
-            <guid>https://alexlakatos.com/node/2021/05/11/better-way-to-script/</guid>
-            <pubDate>Tue, 11 May 2021 21:05:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Most Popular Backend Frameworks – 2012/2021]]></title>
-            <link>https://statisticsanddata.org/data/most-popular-backend-frameworks-2012-2021/</link>
-            <guid>https://statisticsanddata.org/data/most-popular-backend-frameworks-2012-2021/</guid>
-            <pubDate>Tue, 11 May 2021 14:50:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to securely send sensitive information over JWT, or how to rethink my current architecture?]]></title>
-            <link>https://github.com/subnub/myDrive</link>
-            <guid>https://github.com/subnub/myDrive</guid>
-            <pubDate>Mon, 10 May 2021 19:49:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10 Javascript Design Patterns To Improve Your Code With]]></title>
-            <link>https://link.medium.com/4aSHqpbJagb</link>
-            <guid>https://link.medium.com/4aSHqpbJagb</guid>
-            <pubDate>Tue, 11 May 2021 12:46:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10 Things Experienced Developers Know Well]]></title>
-            <link>https://link.medium.com/9UbhXXToagb</link>
-            <guid>https://link.medium.com/9UbhXXToagb</guid>
-            <pubDate>Tue, 11 May 2021 08:02:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Uncaught errors in Node.js and the browser]]></title>
-            <link>https://wanago.io/2021/05/10/uncaught-errors-node-js-browser/</link>
-            <guid>https://wanago.io/2021/05/10/uncaught-errors-node-js-browser/</guid>
-            <pubDate>Mon, 10 May 2021 16:20:46 GMT</pubDate>
+            <title><![CDATA[Scaling frontend monorepo - Paradise or hell? How tooling and Nx can help?]]></title>
+            <link>https://medium.com/productboard-engineering/scaling-monorepo-to-infinity-and-beyond-79bed3d302b2</link>
+            <guid>https://medium.com/productboard-engineering/scaling-monorepo-to-infinity-and-beyond-79bed3d302b2</guid>
+            <pubDate>Wed, 12 May 2021 10:38:11 GMT</pubDate>
         </item>
     </channel>
 </rss>

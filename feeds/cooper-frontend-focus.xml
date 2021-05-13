@@ -4,111 +4,111 @@
         <title>Frontend Focus</title>
         <link>https://frontendfoc.us/</link>
         <description>A once–weekly roundup of the best front-end news, articles and tutorials. HTML, CSS, WebGL, Canvas, browser tech, and more.</description>
-        <lastBuildDate>Thu, 06 May 2021 07:47:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 May 2021 07:51:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[The History of CSS]]></title>
-            <link>https://css-tricks.com/chapter-8-css/</link>
-            <guid>https://css-tricks.com/chapter-8-css/</guid>
-            <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Bootstrap 5 Released]]></title>
+            <link>https://blog.getbootstrap.com/2021/05/05/bootstrap-5/</link>
+            <guid>https://blog.getbootstrap.com/2021/05/05/bootstrap-5/</guid>
+            <pubDate>Wed, 12 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Humble <img> Element and Core Web Vitals]]></title>
-            <link>https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/</link>
-            <guid>https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/</guid>
-            <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Can I Email..? Support Tables for HTML and CSS in Emails]]></title>
+            <link>https://www.caniemail.com/</link>
+            <guid>https://www.caniemail.com/</guid>
+            <pubDate>Wed, 12 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[New WebKit Features in Safari 14.1]]></title>
-            <link>https://webkit.org/blog/11648/new-webkit-features-in-safari-14-1/</link>
-            <guid>https://webkit.org/blog/11648/new-webkit-features-in-safari-14-1/</guid>
-            <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[A Primer on CSS Container Queries]]></title>
+            <link>https://www.smashingmagazine.com/2021/05/complete-guide-css-container-queries/</link>
+            <guid>https://www.smashingmagazine.com/2021/05/complete-guide-css-container-queries/</guid>
+            <pubDate>Wed, 12 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to Create Actions for Selected Text With the Selection API]]></title>
-            <link>https://css-tricks.com/how-to-create-actions-for-selected-text-with-the-selection-api/</link>
-            <guid>https://css-tricks.com/how-to-create-actions-for-selected-text-with-the-selection-api/</guid>
-            <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Next Gen CSS: @container]]></title>
+            <link>https://css-tricks.com/next-gen-css-container/</link>
+            <guid>https://css-tricks.com/next-gen-css-container/</guid>
+            <pubDate>Wed, 12 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Performance-Testing the Google I/O Site]]></title>
-            <link>https://jakearchibald.com/2021/io-site-perf/</link>
-            <guid>https://jakearchibald.com/2021/io-site-perf/</guid>
-            <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Optimizing Web Vitals using Lighthouse]]></title>
+            <link>https://web.dev/optimize-vitals-lighthouse/</link>
+            <guid>https://web.dev/optimize-vitals-lighthouse/</guid>
+            <pubDate>Wed, 12 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The State of CSS Cross-Browser Development]]></title>
-            <link>https://ishadeed.com/article/cross-browser-development/</link>
-            <guid>https://ishadeed.com/article/cross-browser-development/</guid>
-            <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How Web Components are Used at GitHub]]></title>
+            <link>https://github.blog/2021-05-04-how-we-use-web-components-at-github/</link>
+            <guid>https://github.blog/2021-05-04-how-we-use-web-components-at-github/</guid>
+            <pubDate>Wed, 12 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Understanding Design Systems: Designing Component APIs]]></title>
-            <link>https://javascript.plainenglish.io/design-systems-designing-component-apis-25dcf81d26f5</link>
-            <guid>https://javascript.plainenglish.io/design-systems-designing-component-apis-25dcf81d26f5</guid>
-            <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Web Accessibility for Newbies]]></title>
+            <link>https://t.co/ziGxmnOkxT?amp=1</link>
+            <guid>https://t.co/ziGxmnOkxT?amp=1</guid>
+            <pubDate>Wed, 12 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Iconic: A Free Set of 'Do-what-you-want' Pixel-Perfect Icons]]></title>
-            <link>https://iconic.app/</link>
-            <guid>https://iconic.app/</guid>
-            <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[What I Learned by Relearning HTML]]></title>
+            <link>https://www.dannyguo.com/blog/what-i-learned-by-relearning-html</link>
+            <guid>https://www.dannyguo.com/blog/what-i-learned-by-relearning-html</guid>
+            <pubDate>Wed, 12 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[CQFill: A Polyfill for CSS Container Queries]]></title>
-            <link>https://github.com/jsxtools/cqfill</link>
-            <guid>https://github.com/jsxtools/cqfill</guid>
-            <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Practical Use Cases For CSS Variables]]></title>
+            <link>https://ishadeed.com/article/practical-css-variables/</link>
+            <guid>https://ishadeed.com/article/practical-css-variables/</guid>
+            <pubDate>Wed, 12 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[CSS Filters Generator: A Live Playground for CSS Filters]]></title>
-            <link>https://justcode.today/filters/</link>
-            <guid>https://justcode.today/filters/</guid>
-            <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Using 'Computer Modern' on the Web]]></title>
+            <link>https://www.checkmyworking.com/cm-web-fonts/</link>
+            <guid>https://www.checkmyworking.com/cm-web-fonts/</guid>
+            <pubDate>Wed, 12 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Eva.js: A Frontend Game Engine for Creating Interactive Game Projects]]></title>
-            <link>https://github.com/eva-engine/eva.js</link>
-            <guid>https://github.com/eva-engine/eva.js</guid>
-            <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Bootstarters: A Free Set of Bootstrap 5 Templates]]></title>
+            <link>https://www.bootstarters.com/</link>
+            <guid>https://www.bootstarters.com/</guid>
+            <pubDate>Wed, 12 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[QuickSnippets: Categorized Code Snippets Sourced from Tweets]]></title>
-            <link>https://quicksnippets.dev/?category=css</link>
-            <guid>https://quicksnippets.dev/?category=css</guid>
-            <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Hammer: An esbuild-Powered Build Tool for HTML Applications]]></title>
+            <link>https://github.com/sinclairzx81/hammer</link>
+            <guid>https://github.com/sinclairzx81/hammer</guid>
+            <pubDate>Wed, 12 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Font Subsetter: A Fast and Easy to Use Font Subset Generator]]></title>
-            <link>https://everythingfonts.com/subsetter</link>
-            <guid>https://everythingfonts.com/subsetter</guid>
-            <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Awesome Landing Page: A Collection of Beautiful and Practical Landing Page Templates]]></title>
+            <link>https://github.com/nordicgiant2/awesome-landing-page</link>
+            <guid>https://github.com/nordicgiant2/awesome-landing-page</guid>
+            <pubDate>Wed, 12 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Don't You Forget About Me: Overlooked Breakpoints in Responsive Design]]></title>
-            <link>https://polypane.app/blog/overlooked-breakpoints-in-responsive-design/</link>
-            <guid>https://polypane.app/blog/overlooked-breakpoints-in-responsive-design/</guid>
-            <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to Use the Vibration API on Your Site]]></title>
+            <link>https://blog.bibekkakati.me/how-to-use-vibration-api-in-your-website?guid=none&amp;deviceId=ff36a96c-f2f9-4def-991c-3c0a3fee4c1b</link>
+            <guid>https://blog.bibekkakati.me/how-to-use-vibration-api-in-your-website?guid=none&amp;deviceId=ff36a96c-f2f9-4def-991c-3c0a3fee4c1b</guid>
+            <pubDate>Wed, 12 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Top Metrics You Need to Understand When Measuring Frontend Performance]]></title>
-            <link>https://blog.asayer.io/top-metrics-you-need-to-understand-when-measuring-front-end-performance/</link>
-            <guid>https://blog.asayer.io/top-metrics-you-need-to-understand-when-measuring-front-end-performance/</guid>
-            <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Auditing Design Systems for Accessibility]]></title>
+            <link>https://www.deque.com/blog/auditing-design-systems-for-accessibility/</link>
+            <guid>https://www.deque.com/blog/auditing-design-systems-for-accessibility/</guid>
+            <pubDate>Wed, 12 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Variable Fonts in WordPress: How to Use Them and Why]]></title>
-            <link>https://creativethemes.com/blocksy/blog/variable-fonts-in-wordpress/</link>
-            <guid>https://creativethemes.com/blocksy/blog/variable-fonts-in-wordpress/</guid>
-            <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Criticism Pushes The Web Forward]]></title>
+            <link>https://hiddedevries.nl/en/blog/2021-05-08-criticism-pushes-the-web-forward/</link>
+            <guid>https://hiddedevries.nl/en/blog/2021-05-08-criticism-pushes-the-web-forward/</guid>
+            <pubDate>Wed, 12 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Evolution of Jamstack]]></title>
-            <link>https://www.smashingmagazine.com/2021/05/evolution-jamstack/</link>
-            <guid>https://www.smashingmagazine.com/2021/05/evolution-jamstack/</guid>
-            <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How We Sped Up Chrome DevTools Stack Traces by 10x]]></title>
+            <link>https://developer.chrome.com/blog/faster-stack-traces/</link>
+            <guid>https://developer.chrome.com/blog/faster-stack-traces/</guid>
+            <pubDate>Wed, 12 May 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

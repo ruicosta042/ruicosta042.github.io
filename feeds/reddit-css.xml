@@ -4,10 +4,52 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Wed, 12 May 2021 07:51:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 May 2021 07:52:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[CSS Houdini - a set of low-level APIs that exposes parts of the CSS engine, giving developers the power to extend CSS by hooking into the styling and layout process of a browser’s rendering engine. Houdini is a group of APIs that give developers direct access to the CSS Object Model (CSSOM)]]></title>
+            <link>https://developer.mozilla.org/en-US/docs/Web/Houdini</link>
+            <guid>https://developer.mozilla.org/en-US/docs/Web/Houdini</guid>
+            <pubDate>Wed, 12 May 2021 22:51:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I am failing the FreeCodeCamp assignment but I can't see the mistake.]]></title>
+            <link>https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage</link>
+            <guid>https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage</guid>
+            <pubDate>Wed, 12 May 2021 20:10:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Complete CSS Flex Tutorial]]></title>
+            <link>https://semicolon.dev/tutorial/css/complete-css-flex-tutorial</link>
+            <guid>https://semicolon.dev/tutorial/css/complete-css-flex-tutorial</guid>
+            <pubDate>Wed, 12 May 2021 22:39:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to make a card occupy the maximum height it can in a grid? (Tailwind)]]></title>
+            <link>https://stackoverflow.com/questions/67499203/how-to-make-a-card-occupy-maximum-height-it-can-in-a-grid</link>
+            <guid>https://stackoverflow.com/questions/67499203/how-to-make-a-card-occupy-maximum-height-it-can-in-a-grid</guid>
+            <pubDate>Thu, 13 May 2021 05:43:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Component-level art direction with CSS Container Queries]]></title>
+            <link>https://www.sarasoueidan.com/blog/component-level-art-direction-with-container-queries-and-picture/</link>
+            <guid>https://www.sarasoueidan.com/blog/component-level-art-direction-with-container-queries-and-picture/</guid>
+            <pubDate>Wed, 12 May 2021 12:36:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Ultimate CSS Selectors Cheat Sheet You Must Know]]></title>
+            <link>https://www.lambdatest.com/blog/css-selectors-cheat-sheet/?utm_source=Reddit&amp;utm_medium=blog&amp;utm_campaign=PM-120521-1&amp;utm_term=OrganicPosting</link>
+            <guid>https://www.lambdatest.com/blog/css-selectors-cheat-sheet/?utm_source=Reddit&amp;utm_medium=blog&amp;utm_campaign=PM-120521-1&amp;utm_term=OrganicPosting</guid>
+            <pubDate>Wed, 12 May 2021 13:56:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Vendor Prefixing Dead?]]></title>
+            <link>https://css-tricks.com/is-vendor-prefixing-dead/</link>
+            <guid>https://css-tricks.com/is-vendor-prefixing-dead/</guid>
+            <pubDate>Wed, 12 May 2021 12:29:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[React Bootstrap 5 - new open source library, #1 on ProductHunt today]]></title>
             <link>https://www.producthunt.com/posts/react-bootstrap-5</link>
@@ -43,30 +85,6 @@
             <link>https://iconic.app/</link>
             <guid>https://iconic.app/</guid>
             <pubDate>Mon, 10 May 2021 12:52:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Build Amazing Websites w/ HTML, CSS, Sass, JavaScript & More - free course from udemy]]></title>
-            <link>https://www.myfreeonlinecourses.com/2021/05/build-amazing-websites-w-html-css-sass.html</link>
-            <guid>https://www.myfreeonlinecourses.com/2021/05/build-amazing-websites-w-html-css-sass.html</guid>
-            <pubDate>Tue, 11 May 2021 00:27:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Understanding Display by Rachel Andrew]]></title>
-            <link>https://noti.st/rachelandrew/VeraEX/understanding-display</link>
-            <guid>https://noti.st/rachelandrew/VeraEX/understanding-display</guid>
-            <pubDate>Mon, 10 May 2021 12:52:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Made a Mother's Day E-Card using only CSS animations]]></title>
-            <link>http://bc-experiments.herokuapp.com/mothers-day/</link>
-            <guid>http://bc-experiments.herokuapp.com/mothers-day/</guid>
-            <pubDate>Mon, 10 May 2021 00:25:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10 CSS Tricks You Need to Know About (Part 2)]]></title>
-            <link>https://beforesemicolon.medium.com/10-css-tricks-you-need-to-know-about-part-2-df52ee0b2937</link>
-            <guid>https://beforesemicolon.medium.com/10-css-tricks-you-need-to-know-about-part-2-df52ee0b2937</guid>
-            <pubDate>Mon, 10 May 2021 16:55:18 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>JavaScript Weekly</title>
         <link>https://javascriptweekly.com/</link>
         <description>A newsletter of JavaScript articles, news and cool projects</description>
-        <lastBuildDate>Sat, 08 May 2021 07:48:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 May 2021 07:52:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -106,8 +106,8 @@
         </item>
         <item>
             <title><![CDATA[A Talk About the TC39 Decimal Proposal]]></title>
-            <link>https://www.youtube.com/watch?v=XuWhe6jgq5E</link>
-            <guid>https://www.youtube.com/watch?v=XuWhe6jgq5E</guid>
+            <link>https://m.youtube.com/watch?v=XuWhe6jgq5E</link>
+            <guid>https://m.youtube.com/watch?v=XuWhe6jgq5E</guid>
             <pubDate>Fri, 07 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>

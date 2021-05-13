@@ -4,7 +4,7 @@
         <title>Node Weekly</title>
         <link>https://nodeweekly.com/</link>
         <description>A free, once–weekly e-mail round-up of Node.js news and articles.</description>
-        <lastBuildDate>Mon, 10 May 2021 07:49:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 May 2021 07:52:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -70,8 +70,8 @@
         </item>
         <item>
             <title><![CDATA[Synchronizing Async Functions in Node]]></title>
-            <link>https://www.youtube.com/watch?v=sPKYeQkzvVk</link>
-            <guid>https://www.youtube.com/watch?v=sPKYeQkzvVk</guid>
+            <link>https://m.youtube.com/watch?v=sPKYeQkzvVk</link>
+            <guid>https://m.youtube.com/watch?v=sPKYeQkzvVk</guid>
             <pubDate>Thu, 06 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>

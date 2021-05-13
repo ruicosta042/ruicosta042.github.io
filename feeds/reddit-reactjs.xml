@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Wed, 12 May 2021 07:51:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 May 2021 07:52:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,64 +21,82 @@
             <pubDate>Sat, 01 May 2021 18:07:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React for Bootstrap 5 - useful kit, #1 on ProductHunt]]></title>
-            <link>https://www.producthunt.com/posts/react-bootstrap-5</link>
-            <guid>https://www.producthunt.com/posts/react-bootstrap-5</guid>
-            <pubDate>Tue, 11 May 2021 07:18:10 GMT</pubDate>
+            <title><![CDATA[Semantic HTML In React. Is it scoped to the page or component?]]></title>
+            <link>https://gyazo.com/b47a8ce2dba6b55ad6a2f9a4b249f2f7</link>
+            <guid>https://gyazo.com/b47a8ce2dba6b55ad6a2f9a4b249f2f7</guid>
+            <pubDate>Thu, 13 May 2021 05:18:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Parcel Bundler renders an empty page]]></title>
+            <title><![CDATA[facebook/docusaurus v2 beta finally released, after 2 years of alphas]]></title>
+            <link>https://docusaurus.io/blog/2021/05/12/announcing-docusaurus-two-beta</link>
+            <guid>https://docusaurus.io/blog/2021/05/12/announcing-docusaurus-two-beta</guid>
+            <pubDate>Wed, 12 May 2021 17:21:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I've been using this super simple React virtualisation technique in my app successfully for 9+ months now, so I decided to release it on npm. It's based on IntersectionObservers and is waaaay easier to implement than react-virtualised/window. Also it's only 46 lines of es5.]]></title>
+            <link>https://dev.to/angus_russell/super-simple-list-virtualization-in-react-with-intersectionobserver-3o6g</link>
+            <guid>https://dev.to/angus_russell/super-simple-list-virtualization-in-react-with-intersectionobserver-3o6g</guid>
+            <pubDate>Wed, 12 May 2021 22:41:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The best way to create public documentation for your software applications]]></title>
             <link>https://foo.com/</link>
             <guid>https://foo.com/</guid>
-            <pubDate>Wed, 12 May 2021 05:26:23 GMT</pubDate>
+            <pubDate>Wed, 12 May 2021 22:05:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[react jobs]]></title>
-            <link>https://startworkingremotely.com/jobs?q=react</link>
-            <guid>https://startworkingremotely.com/jobs?q=react</guid>
-            <pubDate>Wed, 12 May 2021 05:07:08 GMT</pubDate>
+            <title><![CDATA[UI-Testing TypeScript React apps with Puppeteer and Jest]]></title>
+            <link>https://matteolobello.medium.com/ui-testing-typescript-react-apps-with-puppeteer-and-jest-a48684f5d8dc?source=friends_link&amp;sk=5834dce9f1ccdbe0870fa360fc8d8799</link>
+            <guid>https://matteolobello.medium.com/ui-testing-typescript-react-apps-with-puppeteer-and-jest-a48684f5d8dc?source=friends_link&amp;sk=5834dce9f1ccdbe0870fa360fc8d8799</guid>
+            <pubDate>Wed, 12 May 2021 19:52:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cross-Browser Voice Commands with React]]></title>
-            <link>https://medium.com/picovoice/cross-browser-voice-commands-with-react-bae0560fce8</link>
-            <guid>https://medium.com/picovoice/cross-browser-voice-commands-with-react-bae0560fce8</guid>
-            <pubDate>Tue, 11 May 2021 15:04:04 GMT</pubDate>
+            <title><![CDATA[I made a coffee logging app]]></title>
+            <link>https://chronicles.coffee/</link>
+            <guid>https://chronicles.coffee/</guid>
+            <pubDate>Wed, 12 May 2021 15:47:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to use images from sharp module in React and Webpack project]]></title>
-            <link>https://codesandbox.io/s/holy-sun-5il46?file=/src/pages/Home.js</link>
-            <guid>https://codesandbox.io/s/holy-sun-5il46?file=/src/pages/Home.js</guid>
-            <pubDate>Wed, 12 May 2021 02:05:47 GMT</pubDate>
+            <title><![CDATA[How to handle Immutability in React? (Immer Library to rescue)]]></title>
+            <link>https://github.com/immerjs/use-immer</link>
+            <guid>https://github.com/immerjs/use-immer</guid>
+            <pubDate>Wed, 12 May 2021 21:27:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How do I only run a page's script while on current page using React Router?]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Wed, 12 May 2021 01:37:38 GMT</pubDate>
+            <title><![CDATA[Building a Distributed React Design System with Independent Components]]></title>
+            <link>https://blog.bitsrc.io/building-a-react-design-system-for-adoption-and-scale-1d34538619d1</link>
+            <guid>https://blog.bitsrc.io/building-a-react-design-system-for-adoption-and-scale-1d34538619d1</guid>
+            <pubDate>Wed, 12 May 2021 18:00:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Transiciones de pantalla fallan en react Native]]></title>
-            <link>https://codersgt.com/wp-content/uploads/2021/04/SVID_20210414_002905_1.mp4</link>
-            <guid>https://codersgt.com/wp-content/uploads/2021/04/SVID_20210414_002905_1.mp4</guid>
-            <pubDate>Wed, 12 May 2021 01:16:32 GMT</pubDate>
+            <title><![CDATA[function not hydrating with current state]]></title>
+            <link>https://codesandbox.io/s/vigorous-grothendieck-suudj</link>
+            <guid>https://codesandbox.io/s/vigorous-grothendieck-suudj</guid>
+            <pubDate>Wed, 12 May 2021 22:16:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NextJS: NextAuth Need help with Token Refresh not setting]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Tue, 11 May 2021 23:40:06 GMT</pubDate>
+            <title><![CDATA[data-setbg from bootstrape template on React]]></title>
+            <link>https://stackoverflow.com/questions/52087169/css-background-image-renders-as-urlundefined-even-though-i-defined-it-jsx</link>
+            <guid>https://stackoverflow.com/questions/52087169/css-background-image-renders-as-urlundefined-even-though-i-defined-it-jsx</guid>
+            <pubDate>Wed, 12 May 2021 21:43:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Presenting a free version of Berrydashboard.io React admin template.]]></title>
-            <link>https://blog.berrydashboard.io/berry-free-react-admin-template/</link>
-            <guid>https://blog.berrydashboard.io/berry-free-react-admin-template/</guid>
-            <pubDate>Tue, 11 May 2021 02:10:43 GMT</pubDate>
+            <title><![CDATA[Steal my code -> privacy-focused blazing fast tweet embeds]]></title>
+            <link>https://swizec.com/blog/build-privacy-focused-blazing-fast-tweet-embeds-codewithswiz-30/</link>
+            <guid>https://swizec.com/blog/build-privacy-focused-blazing-fast-tweet-embeds-codewithswiz-30/</guid>
+            <pubDate>Wed, 12 May 2021 21:43:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How can I use jest mock in a onClick element inside a component without props? (React testing library)]]></title>
-            <link>https://github.com/testing-library/react-testing-library</link>
-            <guid>https://github.com/testing-library/react-testing-library</guid>
-            <pubDate>Tue, 11 May 2021 13:45:12 GMT</pubDate>
+            <title><![CDATA[Persisting logged in the user]]></title>
+            <link>https://codesandbox.io/s/optimistic-newton-qjfgw</link>
+            <guid>https://codesandbox.io/s/optimistic-newton-qjfgw</guid>
+            <pubDate>Wed, 12 May 2021 21:30:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[preload all images in a create-react-app?]]></title>
+            <link>https://gist.github.com/acomito/4110e4b46eabb5ef0fee548f91e9e3be</link>
+            <guid>https://gist.github.com/acomito/4110e4b46eabb5ef0fee548f91e9e3be</guid>
+            <pubDate>Wed, 12 May 2021 20:36:19 GMT</pubDate>
         </item>
     </channel>
 </rss>

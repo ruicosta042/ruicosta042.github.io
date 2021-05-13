@@ -4,10 +4,16 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Wed, 12 May 2021 07:51:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 May 2021 07:52:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Announcing TypeScript 4.3 RC]]></title>
+            <link>https://devblogs.microsoft.com/typescript/announcing-typescript-4-3-rc/</link>
+            <guid>https://devblogs.microsoft.com/typescript/announcing-typescript-4-3-rc/</guid>
+            <pubDate>Wed, 12 May 2021 22:34:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I used all my brain power to make this: fully-typed tiny decoder library to easily deserialize you data]]></title>
             <link>https://github.com/michaljanocko/schemawax</link>
@@ -61,12 +67,6 @@
             <link>https://github.com/kubabialy/typescript_sorting_algorithms</link>
             <guid>https://github.com/kubabialy/typescript_sorting_algorithms</guid>
             <pubDate>Fri, 07 May 2021 21:02:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Typescript Decorators in Examples]]></title>
-            <link>https://medium.com/litslink/typescript-decorators-in-examples-c3afcd3c7ff8</link>
-            <guid>https://medium.com/litslink/typescript-decorators-in-examples-c3afcd3c7ff8</guid>
-            <pubDate>Fri, 07 May 2021 18:40:33 GMT</pubDate>
         </item>
     </channel>
 </rss>

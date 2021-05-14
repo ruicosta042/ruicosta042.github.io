@@ -4,93 +4,99 @@
         <title>Node Weekly</title>
         <link>https://nodeweekly.com/</link>
         <description>A free, once–weekly e-mail round-up of Node.js news and articles.</description>
-        <lastBuildDate>Thu, 13 May 2021 07:52:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 May 2021 07:52:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Sindre Tears Off the CommonJS Bandaid, Moves Exclusively to ES Modules]]></title>
-            <link>https://blog.sindresorhus.com/hello-modules-d1010b4e777b</link>
-            <guid>https://blog.sindresorhus.com/hello-modules-d1010b4e777b</guid>
-            <pubDate>Thu, 06 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Node v14.17.0 (LTS) Released]]></title>
+            <link>https://nodejs.org/en/blog/release/v14.17.0/</link>
+            <guid>https://nodejs.org/en/blog/release/v14.17.0/</guid>
+            <pubDate>Thu, 13 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dependency Managers Don’t Manage Your Dependencies]]></title>
-            <link>https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies</link>
-            <guid>https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies</guid>
-            <pubDate>Thu, 06 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[zx: A Tool for Writing Better Shell Scripts]]></title>
+            <link>https://github.com/google/zx</link>
+            <guid>https://github.com/google/zx</guid>
+            <pubDate>Thu, 13 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Node 16.1 (Current) Released]]></title>
-            <link>https://nodejs.org/en/blog/release/v16.1.0/</link>
-            <guid>https://nodejs.org/en/blog/release/v16.1.0/</guid>
-            <pubDate>Thu, 06 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Why JWT Should Not Be Your Default for Sessions]]></title>
+            <link>https://evertpot.com/jwt-is-a-bad-default/</link>
+            <guid>https://evertpot.com/jwt-is-a-bad-default/</guid>
+            <pubDate>Thu, 13 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Build a SaaS Platform with Stripe]]></title>
-            <link>https://jonmeyers.io/blog/build-a-saas-platform-with-stripe</link>
-            <guid>https://jonmeyers.io/blog/build-a-saas-platform-with-stripe</guid>
-            <pubDate>Thu, 06 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[The Node.js Docker Cheatsheet]]></title>
+            <link>https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/NodeJS_Docker_Cheat_Sheet.md</link>
+            <guid>https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/NodeJS_Docker_Cheat_Sheet.md</guid>
+            <pubDate>Thu, 13 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[terminal-image 2.0: Display Images in the Terminal]]></title>
-            <link>https://github.com/sindresorhus/terminal-image</link>
-            <guid>https://github.com/sindresorhus/terminal-image</guid>
-            <pubDate>Thu, 06 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to Implement a Simple Task Queue in Node]]></title>
+            <link>https://www.sitepoint.com/implement-task-queue-node-js/</link>
+            <guid>https://www.sitepoint.com/implement-task-queue-node-js/</guid>
+            <pubDate>Thu, 13 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[node-dev 7.0: Zero-Conf Node Process Restarting]]></title>
-            <link>https://github.com/fgnass/node-dev</link>
-            <guid>https://github.com/fgnass/node-dev</guid>
-            <pubDate>Thu, 06 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Have You Tried Deno Yet?]]></title>
+            <link>https://www.youtube.com/watch?v=4mS1yoPud1Q</link>
+            <guid>https://www.youtube.com/watch?v=4mS1yoPud1Q</guid>
+            <pubDate>Thu, 13 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dotenv 9.0: Load Environment Variables From .env in Node]]></title>
-            <link>https://github.com/motdotla/dotenv</link>
-            <guid>https://github.com/motdotla/dotenv</guid>
-            <pubDate>Thu, 06 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[a12n-server: A 'Ready-to-Launch' User and Authentication System]]></title>
+            <link>https://github.com/curveball/a12n-server</link>
+            <guid>https://github.com/curveball/a12n-server</guid>
+            <pubDate>Thu, 13 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[sitemap.js 7.0: Sitemap Generation Library and CLI Tool]]></title>
-            <link>https://github.com/ekalinin/sitemap.js</link>
-            <guid>https://github.com/ekalinin/sitemap.js</guid>
-            <pubDate>Thu, 06 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[ShellJS: Portable Unix Shell Commands for Node]]></title>
+            <link>https://github.com/shelljs/shelljs</link>
+            <guid>https://github.com/shelljs/shelljs</guid>
+            <pubDate>Thu, 13 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Braintree Node.js Library 3.4]]></title>
-            <link>https://github.com/braintree/braintree_node</link>
-            <guid>https://github.com/braintree/braintree_node</guid>
-            <pubDate>Thu, 06 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Useful Tools for Parsing and Annotating PDFs in Node]]></title>
+            <link>https://spin.atomicobject.com/2021/05/04/tools-modifying-pdfs/</link>
+            <guid>https://spin.atomicobject.com/2021/05/04/tools-modifying-pdfs/</guid>
+            <pubDate>Thu, 13 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[MapSCII: A Text-Based World Map Renderer for the Console]]></title>
-            <link>https://github.com/rastapasta/mapscii</link>
-            <guid>https://github.com/rastapasta/mapscii</guid>
-            <pubDate>Thu, 06 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Meow 10.0: A Straightforward CLI App Helper]]></title>
+            <link>https://github.com/sindresorhus/meow</link>
+            <guid>https://github.com/sindresorhus/meow</guid>
+            <pubDate>Thu, 13 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Synchronizing Async Functions in Node]]></title>
-            <link>https://m.youtube.com/watch?v=sPKYeQkzvVk</link>
-            <guid>https://m.youtube.com/watch?v=sPKYeQkzvVk</guid>
-            <pubDate>Thu, 06 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[node-mssql 7.0: A Microsoft SQL Server Client for Node]]></title>
+            <link>https://github.com/tediousjs/node-mssql</link>
+            <guid>https://github.com/tediousjs/node-mssql</guid>
+            <pubDate>Thu, 13 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to Build a Discord Bot with Node.js and Autocode]]></title>
-            <link>https://autocode.com/guides/how-to-build-a-discord-bot/</link>
-            <guid>https://autocode.com/guides/how-to-build-a-discord-bot/</guid>
-            <pubDate>Thu, 06 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to Test a Function That Works with Time]]></title>
+            <link>https://cri.dev/posts/2021-05-06-test-javascript-nodejs-function-time-date/</link>
+            <guid>https://cri.dev/posts/2021-05-06-test-javascript-nodejs-function-time-date/</guid>
+            <pubDate>Thu, 13 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cloning JavaScript Objects with Graph Theory]]></title>
-            <link>https://andreasimonecosta.dev/posts/cloning-javascript-objects-with-graph-theory/</link>
-            <guid>https://andreasimonecosta.dev/posts/cloning-javascript-objects-with-graph-theory/</guid>
-            <pubDate>Thu, 06 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to Install Node.js 16 on Ubuntu 20.04 LTS]]></title>
+            <link>https://joshtronic.com/2021/05/09/how-to-install-nodejs-16-on-ubuntu-2004-lts/</link>
+            <guid>https://joshtronic.com/2021/05/09/how-to-install-nodejs-16-on-ubuntu-2004-lts/</guid>
+            <pubDate>Thu, 13 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Understanding Types with SQLite and Node.js]]></title>
-            <link>https://www.grouparoo.com/blog/understanding-types-sqlite-node</link>
-            <guid>https://www.grouparoo.com/blog/understanding-types-sqlite-node</guid>
-            <pubDate>Thu, 06 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to Programmatically Change a Route in Next.js]]></title>
+            <link>https://flaviocopes.com/nextjs-programmatically-change-route/</link>
+            <guid>https://flaviocopes.com/nextjs-programmatically-change-route/</guid>
+            <pubDate>Thu, 13 May 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Concurrently: Run Multiple Commands Concurrently]]></title>
+            <link>https://github.com/kimmobrunfeldt/concurrently</link>
+            <guid>https://github.com/kimmobrunfeldt/concurrently</guid>
+            <pubDate>Thu, 13 May 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

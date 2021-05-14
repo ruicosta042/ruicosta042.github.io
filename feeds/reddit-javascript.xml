@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Thu, 13 May 2021 07:52:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 May 2021 07:52:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,64 @@
             <pubDate>Mon, 10 May 2021 09:03:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Drop IE11 support plan for Vue 3]]></title>
+            <link>https://github.com/vuejs/rfcs/blob/master/active-rfcs/0038-vue3-ie11-support.md</link>
+            <guid>https://github.com/vuejs/rfcs/blob/master/active-rfcs/0038-vue3-ie11-support.md</guid>
+            <pubDate>Thu, 13 May 2021 13:51:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Aurora. Website's analytics made easy! Cookieless & Privacy Focus out of the Box. Built in NextJS.]]></title>
+            <link>https://github.com/itsrennyman/aurora/tree/main</link>
+            <guid>https://github.com/itsrennyman/aurora/tree/main</guid>
+            <pubDate>Thu, 13 May 2021 20:59:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How JavaScript works: regular expressions (RegExp)]]></title>
+            <link>https://blog.sessionstack.com/how-javascript-works-regular-expressions-regexp-e187e9082913</link>
+            <guid>https://blog.sessionstack.com/how-javascript-works-regular-expressions-regexp-e187e9082913</guid>
+            <pubDate>Fri, 14 May 2021 07:38:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Simple JavaScript Projects for begineers]]></title>
+            <link>https://github.com/AaryamanBhardwaj/JavaScript-Only-Projects</link>
+            <guid>https://github.com/AaryamanBhardwaj/JavaScript-Only-Projects</guid>
+            <pubDate>Fri, 14 May 2021 07:19:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Announcing TypeScript 4.3 RC]]></title>
             <link>https://devblogs.microsoft.com/typescript/announcing-typescript-4-3-rc/</link>
             <guid>https://devblogs.microsoft.com/typescript/announcing-typescript-4-3-rc/</guid>
             <pubDate>Wed, 12 May 2021 22:35:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Simple-Fast-Prefix-Completions -- The fastest autocomplete package in javascript?]]></title>
+            <link>https://github.com/lukesmurray/simple-fast-prefix-completions</link>
+            <guid>https://github.com/lukesmurray/simple-fast-prefix-completions</guid>
+            <pubDate>Thu, 13 May 2021 13:52:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A tiny blogging platform that lets you write posts in Google Docs and syncs with a Google Drive directory.]]></title>
+            <link>https://hexo.press/</link>
+            <guid>https://hexo.press/</guid>
+            <pubDate>Thu, 13 May 2021 17:27:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mapbox GL JS v2: 3D Maps + Camera API + Sky API Launch]]></title>
+            <link>https://www.mapbox.com/blog/mapbox-gl-js-v2-3d-maps-camera-api-sky-api-launch</link>
+            <guid>https://www.mapbox.com/blog/mapbox-gl-js-v2-3d-maps-camera-api-sky-api-launch</guid>
+            <pubDate>Thu, 13 May 2021 22:31:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dashboard using JavaScript]]></title>
+            <link>https://company.jadksa.com/</link>
+            <guid>https://company.jadksa.com/</guid>
+            <pubDate>Fri, 14 May 2021 04:10:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[JavaScript Spreadsheet Chart Feature Overview]]></title>
+            <link>https://www.syncfusion.com/blogs/post/javascript-spreadsheet-chart-feature-overview.aspx</link>
+            <guid>https://www.syncfusion.com/blogs/post/javascript-spreadsheet-chart-feature-overview.aspx</guid>
+            <pubDate>Thu, 13 May 2021 12:06:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Exalt - A JavaScript framework for building universal apps.]]></title>
@@ -27,28 +81,16 @@
             <pubDate>Thu, 13 May 2021 00:19:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Angular 12 is available now]]></title>
-            <link>https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49</link>
-            <guid>https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49</guid>
-            <pubDate>Thu, 13 May 2021 01:32:04 GMT</pubDate>
+            <title><![CDATA[Simple Server-sent events example in Node.js/JavaScript]]></title>
+            <link>https://cri.dev/posts/2021-05-11-simple-server-sent-events-sse-eventsource-nodejs-javascript/</link>
+            <guid>https://cri.dev/posts/2021-05-11-simple-server-sent-events-sse-eventsource-nodejs-javascript/</guid>
+            <pubDate>Thu, 13 May 2021 17:28:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Prettier 2.3. In which assignments are consistent, short keys non-breaking, and Handlebars official]]></title>
-            <link>https://prettier.io/blog/2021/05/09/2.3.0.html</link>
-            <guid>https://prettier.io/blog/2021/05/09/2.3.0.html</guid>
-            <pubDate>Wed, 12 May 2021 07:08:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[facebook/docusaurus v2 beta finally released, after 2 years of alphas]]></title>
-            <link>https://docusaurus.io/blog/2021/05/12/announcing-docusaurus-two-beta</link>
-            <guid>https://docusaurus.io/blog/2021/05/12/announcing-docusaurus-two-beta</guid>
-            <pubDate>Wed, 12 May 2021 17:25:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[untab - a productivity tool to boost your browser workflow]]></title>
-            <link>https://github.com/blenderskool/untab</link>
-            <guid>https://github.com/blenderskool/untab</guid>
-            <pubDate>Thu, 13 May 2021 02:06:13 GMT</pubDate>
+            <title><![CDATA[How to Speak Binary in TypeScript]]></title>
+            <link>https://voltrevo.medium.com/how-to-speak-binary-in-typescript-950437e7c0df</link>
+            <guid>https://voltrevo.medium.com/how-to-speak-binary-in-typescript-950437e7c0df</guid>
+            <pubDate>Thu, 13 May 2021 09:36:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Reactive variables straight into html. I have created a js library called replacejs who add reactivity in your html. I have also made a playground in itself to see it, this is the github link to know more about it.]]></title>
@@ -57,10 +99,34 @@
             <pubDate>Thu, 13 May 2021 05:41:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Do you really know what variable hoisting in JS is ???(Part 1)]]></title>
-            <link>https://dev.to/prashan81992916/do-you-really-know-what-variable-hoisting-in-js-is-part-1-503p</link>
-            <guid>https://dev.to/prashan81992916/do-you-really-know-what-variable-hoisting-in-js-is-part-1-503p</guid>
-            <pubDate>Thu, 13 May 2021 05:00:00 GMT</pubDate>
+            <title><![CDATA[Random-colors-palette]]></title>
+            <link>https://gaetanozappi.github.io/random-colors-palette/</link>
+            <guid>https://gaetanozappi.github.io/random-colors-palette/</guid>
+            <pubDate>Thu, 13 May 2021 14:02:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[facebook/docusaurus v2 beta finally released, after 2 years of alphas]]></title>
+            <link>https://docusaurus.io/blog/2021/05/12/announcing-docusaurus-two-beta</link>
+            <guid>https://docusaurus.io/blog/2021/05/12/announcing-docusaurus-two-beta</guid>
+            <pubDate>Wed, 12 May 2021 17:25:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prettier 2.3. In which assignments are consistent, short keys non-breaking, and Handlebars official]]></title>
+            <link>https://prettier.io/blog/2021/05/09/2.3.0.html</link>
+            <guid>https://prettier.io/blog/2021/05/09/2.3.0.html</guid>
+            <pubDate>Wed, 12 May 2021 07:08:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[untab - a productivity tool to boost your browser workflow]]></title>
+            <link>https://github.com/blenderskool/untab</link>
+            <guid>https://github.com/blenderskool/untab</guid>
+            <pubDate>Thu, 13 May 2021 02:06:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Angular 12 is available now]]></title>
+            <link>https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49</link>
+            <guid>https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49</guid>
+            <pubDate>Thu, 13 May 2021 01:32:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lerna hello world: creating a monorepo for multiple node packages]]></title>
@@ -73,78 +139,6 @@
             <link>https://s-kngstn.github.io/wu-loremipsum/</link>
             <guid>https://s-kngstn.github.io/wu-loremipsum/</guid>
             <pubDate>Tue, 11 May 2021 20:29:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Most Awesome Hooks for your React project]]></title>
-            <link>https://brayanarrieta.hashnode.dev/most-awesome-hooks-for-your-react-project-1</link>
-            <guid>https://brayanarrieta.hashnode.dev/most-awesome-hooks-for-your-react-project-1</guid>
-            <pubDate>Wed, 12 May 2021 20:43:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React Design Patterns]]></title>
-            <link>https://blog.kiprosh.com/react_design_patterns_part_one/</link>
-            <guid>https://blog.kiprosh.com/react_design_patterns_part_one/</guid>
-            <pubDate>Thu, 13 May 2021 04:15:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scaling frontend monorepo - Paradise or hell? How tooling and Nx can help?]]></title>
-            <link>https://medium.com/productboard-engineering/scaling-monorepo-to-infinity-and-beyond-79bed3d302b2</link>
-            <guid>https://medium.com/productboard-engineering/scaling-monorepo-to-infinity-and-beyond-79bed3d302b2</guid>
-            <pubDate>Wed, 12 May 2021 10:38:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PawanKolhe/color-calendar A customizable events calendar component library]]></title>
-            <link>https://github.com/PawanKolhe/color-calendar</link>
-            <guid>https://github.com/PawanKolhe/color-calendar</guid>
-            <pubDate>Wed, 12 May 2021 11:26:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Babel.js is used by millions, so why are we running out of money?]]></title>
-            <link>https://babeljs.io/blog/2021/05/10/funding-update.html</link>
-            <guid>https://babeljs.io/blog/2021/05/10/funding-update.html</guid>
-            <pubDate>Tue, 11 May 2021 08:05:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[txtai 3.0 released - Machine-learning workflows, similarity search and JavaScript support via API]]></title>
-            <link>https://github.com/neuml/txtai</link>
-            <guid>https://github.com/neuml/txtai</guid>
-            <pubDate>Wed, 12 May 2021 01:32:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Automate daily routine tasks with IFTTT & Netlify functions]]></title>
-            <link>https://blog.ranjithnair.dev/programming/2020-10-06-how-to-use-netlify-functions-with-ifttt-webhooks/</link>
-            <guid>https://blog.ranjithnair.dev/programming/2020-10-06-how-to-use-netlify-functions-with-ifttt-webhooks/</guid>
-            <pubDate>Wed, 12 May 2021 04:21:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is #DevOps kryptonite for JS Devs? Join our event, 12th May, 13:00 CST]]></title>
-            <link>https://digital-platform.pentalog.com/pentabar-javascript-operations-should-i-build-or-should-i-not.html</link>
-            <guid>https://digital-platform.pentalog.com/pentabar-javascript-operations-should-i-build-or-should-i-not.html</guid>
-            <pubDate>Wed, 12 May 2021 12:53:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I made a MERN ready-to-use template that automatically manages the Express.js layers.]]></title>
-            <link>https://github.com/ScaleDynamics/react-mongodb-template</link>
-            <guid>https://github.com/ScaleDynamics/react-mongodb-template</guid>
-            <pubDate>Wed, 12 May 2021 08:19:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cross-Browser Voice Commands with React]]></title>
-            <link>https://medium.com/picovoice/cross-browser-voice-commands-with-react-bae0560fce8</link>
-            <guid>https://medium.com/picovoice/cross-browser-voice-commands-with-react-bae0560fce8</guid>
-            <pubDate>Tue, 11 May 2021 15:08:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HASH.JS | A JavaScript library ( easy to use)]]></title>
-            <link>https://dev.to/raghav9official/hash-js-a-javascript-library-easy-to-use-2f6p</link>
-            <guid>https://dev.to/raghav9official/hash-js-a-javascript-library-easy-to-use-2f6p</guid>
-            <pubDate>Wed, 12 May 2021 04:40:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meet zx: A Better Way to Write Scripts with Node.js]]></title>
-            <link>https://alexlakatos.com/node/2021/05/11/better-way-to-script/</link>
-            <guid>https://alexlakatos.com/node/2021/05/11/better-way-to-script/</guid>
-            <pubDate>Tue, 11 May 2021 21:05:25 GMT</pubDate>
         </item>
     </channel>
 </rss>

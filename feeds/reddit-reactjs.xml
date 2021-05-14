@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Thu, 13 May 2021 07:52:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 May 2021 07:52:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,82 +21,76 @@
             <pubDate>Sat, 01 May 2021 18:07:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Semantic HTML In React. Is it scoped to the page or component?]]></title>
-            <link>https://gyazo.com/b47a8ce2dba6b55ad6a2f9a4b249f2f7</link>
-            <guid>https://gyazo.com/b47a8ce2dba6b55ad6a2f9a4b249f2f7</guid>
-            <pubDate>Thu, 13 May 2021 05:18:14 GMT</pubDate>
+            <title><![CDATA[React Responsive Routing (3R)]]></title>
+            <link>https://www.npmjs.com/package/react-media</link>
+            <guid>https://www.npmjs.com/package/react-media</guid>
+            <pubDate>Fri, 14 May 2021 01:18:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[facebook/docusaurus v2 beta finally released, after 2 years of alphas]]></title>
-            <link>https://docusaurus.io/blog/2021/05/12/announcing-docusaurus-two-beta</link>
-            <guid>https://docusaurus.io/blog/2021/05/12/announcing-docusaurus-two-beta</guid>
-            <pubDate>Wed, 12 May 2021 17:21:44 GMT</pubDate>
+            <title><![CDATA[Time Enna - A Timezone Conversion Utility App]]></title>
+            <link>https://timeenna.com/</link>
+            <guid>https://timeenna.com/</guid>
+            <pubDate>Fri, 14 May 2021 07:47:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I've been using this super simple React virtualisation technique in my app successfully for 9+ months now, so I decided to release it on npm. It's based on IntersectionObservers and is waaaay easier to implement than react-virtualised/window. Also it's only 46 lines of es5.]]></title>
-            <link>https://dev.to/angus_russell/super-simple-list-virtualization-in-react-with-intersectionobserver-3o6g</link>
-            <guid>https://dev.to/angus_russell/super-simple-list-virtualization-in-react-with-intersectionobserver-3o6g</guid>
-            <pubDate>Wed, 12 May 2021 22:41:03 GMT</pubDate>
+            <title><![CDATA[Small Project Ideas for ReactJS]]></title>
+            <link>https://github.com/arbaz52</link>
+            <guid>https://github.com/arbaz52</guid>
+            <pubDate>Fri, 14 May 2021 06:04:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The best way to create public documentation for your software applications]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Wed, 12 May 2021 22:05:55 GMT</pubDate>
+            <title><![CDATA[Need help - how can I get the multiple camera sources in ReactJS]]></title>
+            <link>https://codesandbox.io/s/multiple-camera-sources-kn6qx</link>
+            <guid>https://codesandbox.io/s/multiple-camera-sources-kn6qx</guid>
+            <pubDate>Fri, 14 May 2021 04:31:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[UI-Testing TypeScript React apps with Puppeteer and Jest]]></title>
-            <link>https://matteolobello.medium.com/ui-testing-typescript-react-apps-with-puppeteer-and-jest-a48684f5d8dc?source=friends_link&amp;sk=5834dce9f1ccdbe0870fa360fc8d8799</link>
-            <guid>https://matteolobello.medium.com/ui-testing-typescript-react-apps-with-puppeteer-and-jest-a48684f5d8dc?source=friends_link&amp;sk=5834dce9f1ccdbe0870fa360fc8d8799</guid>
-            <pubDate>Wed, 12 May 2021 19:52:00 GMT</pubDate>
+            <title><![CDATA[Should you use id attributes in a React application?]]></title>
+            <link>https://github.com/codesandbox/codesandbox-client/blob/master/packages/app/src/app/pages/Dashboard/index.tsx</link>
+            <guid>https://github.com/codesandbox/codesandbox-client/blob/master/packages/app/src/app/pages/Dashboard/index.tsx</guid>
+            <pubDate>Fri, 14 May 2021 03:25:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I made a coffee logging app]]></title>
-            <link>https://chronicles.coffee/</link>
-            <guid>https://chronicles.coffee/</guid>
-            <pubDate>Wed, 12 May 2021 15:47:02 GMT</pubDate>
+            <title><![CDATA[Build a Responsive Mega Menu Using React Bootstrap]]></title>
+            <link>https://www.grouparoo.com/blog/build-a-mega-menu-with-react-bootstrap</link>
+            <guid>https://www.grouparoo.com/blog/build-a-mega-menu-with-react-bootstrap</guid>
+            <pubDate>Thu, 13 May 2021 23:21:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to handle Immutability in React? (Immer Library to rescue)]]></title>
-            <link>https://github.com/immerjs/use-immer</link>
-            <guid>https://github.com/immerjs/use-immer</guid>
-            <pubDate>Wed, 12 May 2021 21:27:04 GMT</pubDate>
+            <title><![CDATA[Work Smarter, Not Harder To Create A React App With ReacType]]></title>
+            <link>https://github.com/open-source-labs/ReacType</link>
+            <guid>https://github.com/open-source-labs/ReacType</guid>
+            <pubDate>Thu, 13 May 2021 19:01:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Building a Distributed React Design System with Independent Components]]></title>
-            <link>https://blog.bitsrc.io/building-a-react-design-system-for-adoption-and-scale-1d34538619d1</link>
-            <guid>https://blog.bitsrc.io/building-a-react-design-system-for-adoption-and-scale-1d34538619d1</guid>
-            <pubDate>Wed, 12 May 2021 18:00:58 GMT</pubDate>
+            <title><![CDATA[Expose Database over Rest API with TypeORM and First-Class Entity]]></title>
+            <link>https://javascript.plainenglish.io/70f2f53bb2a8</link>
+            <guid>https://javascript.plainenglish.io/70f2f53bb2a8</guid>
+            <pubDate>Thu, 13 May 2021 21:53:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[function not hydrating with current state]]></title>
-            <link>https://codesandbox.io/s/vigorous-grothendieck-suudj</link>
-            <guid>https://codesandbox.io/s/vigorous-grothendieck-suudj</guid>
-            <pubDate>Wed, 12 May 2021 22:16:25 GMT</pubDate>
+            <title><![CDATA[React + Next.js E-Commerce Tutorial]]></title>
+            <link>https://react-nextjs-vercel-demo.vercel.app/</link>
+            <guid>https://react-nextjs-vercel-demo.vercel.app/</guid>
+            <pubDate>Fri, 14 May 2021 00:12:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[data-setbg from bootstrape template on React]]></title>
-            <link>https://stackoverflow.com/questions/52087169/css-background-image-renders-as-urlundefined-even-though-i-defined-it-jsx</link>
-            <guid>https://stackoverflow.com/questions/52087169/css-background-image-renders-as-urlundefined-even-though-i-defined-it-jsx</guid>
-            <pubDate>Wed, 12 May 2021 21:43:34 GMT</pubDate>
+            <title><![CDATA[State management solution 2021]]></title>
+            <link>https://github.com/pmndrs/zustand</link>
+            <guid>https://github.com/pmndrs/zustand</guid>
+            <pubDate>Thu, 13 May 2021 13:57:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Steal my code -> privacy-focused blazing fast tweet embeds]]></title>
-            <link>https://swizec.com/blog/build-privacy-focused-blazing-fast-tweet-embeds-codewithswiz-30/</link>
-            <guid>https://swizec.com/blog/build-privacy-focused-blazing-fast-tweet-embeds-codewithswiz-30/</guid>
-            <pubDate>Wed, 12 May 2021 21:43:12 GMT</pubDate>
+            <title><![CDATA[Keep your state in Kea and your views in React]]></title>
+            <link>https://kea.js.org/</link>
+            <guid>https://kea.js.org/</guid>
+            <pubDate>Thu, 13 May 2021 19:02:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Persisting logged in the user]]></title>
-            <link>https://codesandbox.io/s/optimistic-newton-qjfgw</link>
-            <guid>https://codesandbox.io/s/optimistic-newton-qjfgw</guid>
-            <pubDate>Wed, 12 May 2021 21:30:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[preload all images in a create-react-app?]]></title>
-            <link>https://gist.github.com/acomito/4110e4b46eabb5ef0fee548f91e9e3be</link>
-            <guid>https://gist.github.com/acomito/4110e4b46eabb5ef0fee548f91e9e3be</guid>
-            <pubDate>Wed, 12 May 2021 20:36:19 GMT</pubDate>
+            <title><![CDATA[Made my first full-stack app. An online bookstore.]]></title>
+            <link>https://bookattic.herokuapp.com/</link>
+            <guid>https://bookattic.herokuapp.com/</guid>
+            <pubDate>Thu, 13 May 2021 16:45:57 GMT</pubDate>
         </item>
     </channel>
 </rss>

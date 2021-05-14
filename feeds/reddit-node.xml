@@ -4,15 +4,69 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Thu, 13 May 2021 07:52:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 May 2021 07:52:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Javascript News 2nd Week(May) – Angular v12 released, Why Babel is running out of money?, Bootstrap v5, AWS introduced CloudFront Functions - The ArrowFn]]></title>
+            <link>https://thearrowfn.com/javascript-news-2nd-weekmay-angular-v12-released-why-babel-is-running-out-of-money-bootstrap-v5-aws-introduced-cloudfront-functions/</link>
+            <guid>https://thearrowfn.com/javascript-news-2nd-weekmay-angular-v12-released-why-babel-is-running-out-of-money-bootstrap-v5-aws-introduced-cloudfront-functions/</guid>
+            <pubDate>Fri, 14 May 2021 04:43:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[the output of “crypto.createCipheriv with chinese character” is not correct]]></title>
+            <link>http://tpcg.io/Rsnqekxf</link>
+            <guid>http://tpcg.io/Rsnqekxf</guid>
+            <pubDate>Fri, 14 May 2021 02:16:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Queue in Javascript — Priority, and Circular Queue]]></title>
+            <link>https://link.medium.com/V1TFcVuifgb</link>
+            <guid>https://link.medium.com/V1TFcVuifgb</guid>
+            <pubDate>Fri, 14 May 2021 06:50:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I developed an application for the last 6 months. Here’s what it looks like.]]></title>
+            <link>https://github.com/itays123/partydeck</link>
+            <guid>https://github.com/itays123/partydeck</guid>
+            <pubDate>Thu, 13 May 2021 09:01:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What's New In Node.js 16?]]></title>
+            <link>https://solaceinfotech.com/blog/top-11-node-js-ides-for-app-development/</link>
+            <guid>https://solaceinfotech.com/blog/top-11-node-js-ides-for-app-development/</guid>
+            <pubDate>Thu, 13 May 2021 11:44:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[nodesecurity.io expired????]]></title>
+            <link>https://nodesecurity.io/</link>
+            <guid>https://nodesecurity.io/</guid>
+            <pubDate>Thu, 13 May 2021 16:10:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Express-style middleware for Incremental Static Regeneration]]></title>
+            <link>https://www.npmjs.com/package/incremental-regeneration</link>
+            <guid>https://www.npmjs.com/package/incremental-regeneration</guid>
+            <pubDate>Thu, 13 May 2021 13:17:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introduction to The Tree Data Structure in Javascript]]></title>
+            <link>https://link.medium.com/OkGdvTBJdgb</link>
+            <guid>https://link.medium.com/OkGdvTBJdgb</guid>
+            <pubDate>Thu, 13 May 2021 08:15:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Writing a Blockchain in Node.js]]></title>
             <link>https://micheleriva.medium.com/writing-a-blockchain-in-node-js-cd3e903226cf?source=friends_link&amp;sk=e5cbc7f6702ec8836a6085466c010e7f</link>
             <guid>https://micheleriva.medium.com/writing-a-blockchain-in-node-js-cd3e903226cf?source=friends_link&amp;sk=e5cbc7f6702ec8836a6085466c010e7f</guid>
             <pubDate>Wed, 12 May 2021 11:37:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Create a stunning Documentation with Docusaurus]]></title>
+            <link>https://react-open-source-topics-and-tutorials.s3.eu-central-1.amazonaws.com/docusaurus.htm</link>
+            <guid>https://react-open-source-topics-and-tutorials.s3.eu-central-1.amazonaws.com/docusaurus.htm</guid>
+            <pubDate>Thu, 13 May 2021 10:04:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Complete NodeJS course with express, socket io and MongoDB - free course from udemy]]></title>
@@ -21,52 +75,16 @@
             <pubDate>Wed, 12 May 2021 14:56:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How would I stream data from the model for download?]]></title>
+            <link>https://pdf-lib.js.org/</link>
+            <guid>https://pdf-lib.js.org/</guid>
+            <pubDate>Thu, 13 May 2021 08:46:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Robot Hand Update! Twitch Chat can now Rock Paper Scissors!]]></title>
             <link>https://clips.twitch.tv/ElegantRacySeahorseHumbleLife-4s_LGJf-nLBhRbk8</link>
             <guid>https://clips.twitch.tv/ElegantRacySeahorseHumbleLife-4s_LGJf-nLBhRbk8</guid>
             <pubDate>Wed, 12 May 2021 22:27:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[facebook/docusaurus v2 beta finally released, after 2 years of alphas]]></title>
-            <link>https://docusaurus.io/blog/2021/05/12/announcing-docusaurus-two-beta</link>
-            <guid>https://docusaurus.io/blog/2021/05/12/announcing-docusaurus-two-beta</guid>
-            <pubDate>Wed, 12 May 2021 17:24:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10 NodeJs Things You Should Know & Master to be a Pro]]></title>
-            <link>https://link.medium.com/dcs3aUZGcgb</link>
-            <guid>https://link.medium.com/dcs3aUZGcgb</guid>
-            <pubDate>Wed, 12 May 2021 17:10:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Setup Simple Workflow To Write Node TypeScript Application In Live Reload]]></title>
-            <link>https://mxkvl.com/blog/article/setup-simple-workflow-to-write-node-typeScript-application-in-live-reload</link>
-            <guid>https://mxkvl.com/blog/article/setup-simple-workflow-to-write-node-typeScript-application-in-live-reload</guid>
-            <pubDate>Wed, 12 May 2021 19:24:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenTelemetry Elasticsearch instrumentation for Node.js]]></title>
-            <link>https://www.aspecto.io/blog/why-this-opentelemetry-elasticsearch-instrumentation-for-node-js-is-different/?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=rnode-opentelemetry-elasticsearch-instrumentation-nodejs</link>
-            <guid>https://www.aspecto.io/blog/why-this-opentelemetry-elasticsearch-instrumentation-for-node-js-is-different/?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=rnode-opentelemetry-elasticsearch-instrumentation-nodejs</guid>
-            <pubDate>Wed, 12 May 2021 14:47:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Node v14.17.0 (LTS)]]></title>
-            <link>https://nodejs.org/en/blog/release/v14.17.0/</link>
-            <guid>https://nodejs.org/en/blog/release/v14.17.0/</guid>
-            <pubDate>Tue, 11 May 2021 23:42:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Changing the primary key's data type with Sequelize]]></title>
-            <link>https://www.grouparoo.com/blog/change-primary-key-sequelize</link>
-            <guid>https://www.grouparoo.com/blog/change-primary-key-sequelize</guid>
-            <pubDate>Wed, 12 May 2021 16:57:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scaling frontend monorepo - Paradise or hell? How tooling and Nx can help?]]></title>
-            <link>https://medium.com/productboard-engineering/scaling-monorepo-to-infinity-and-beyond-79bed3d302b2</link>
-            <guid>https://medium.com/productboard-engineering/scaling-monorepo-to-infinity-and-beyond-79bed3d302b2</guid>
-            <pubDate>Wed, 12 May 2021 10:38:11 GMT</pubDate>
         </item>
     </channel>
 </rss>

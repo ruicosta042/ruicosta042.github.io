@@ -4,15 +4,33 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Fri, 14 May 2021 07:52:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 May 2021 07:52:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Prisma ORM: how to use the great database mapping package]]></title>
+            <link>https://hinty.io/ivictbor/prisma-orm-how-to-use-the-great-database-mapping-package/</link>
+            <guid>https://hinty.io/ivictbor/prisma-orm-how-to-use-the-great-database-mapping-package/</guid>
+            <pubDate>Fri, 14 May 2021 23:03:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Javascript News 2nd Week(May) – Angular v12 released, Why Babel is running out of money?, Bootstrap v5, AWS introduced CloudFront Functions - The ArrowFn]]></title>
             <link>https://thearrowfn.com/javascript-news-2nd-weekmay-angular-v12-released-why-babel-is-running-out-of-money-bootstrap-v5-aws-introduced-cloudfront-functions/</link>
             <guid>https://thearrowfn.com/javascript-news-2nd-weekmay-angular-v12-released-why-babel-is-running-out-of-money-bootstrap-v5-aws-introduced-cloudfront-functions/</guid>
             <pubDate>Fri, 14 May 2021 04:43:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Proxy Error Will Not Go Away]]></title>
+            <link>https://127.0.0.1/</link>
+            <guid>https://127.0.0.1/</guid>
+            <pubDate>Fri, 14 May 2021 14:17:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I need help with a database issue (MongoDB)]]></title>
+            <link>https://stackoverflow.com/questions/67534761/how-can-you-pass-objectid-models-into-postman/67539523?noredirect=1#comment119378115_67539523</link>
+            <guid>https://stackoverflow.com/questions/67534761/how-can-you-pass-objectid-models-into-postman/67539523?noredirect=1#comment119378115_67539523</guid>
+            <pubDate>Fri, 14 May 2021 19:48:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[the output of “crypto.createCipheriv with chinese character” is not correct]]></title>
@@ -37,54 +55,6 @@
             <link>https://solaceinfotech.com/blog/top-11-node-js-ides-for-app-development/</link>
             <guid>https://solaceinfotech.com/blog/top-11-node-js-ides-for-app-development/</guid>
             <pubDate>Thu, 13 May 2021 11:44:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[nodesecurity.io expired????]]></title>
-            <link>https://nodesecurity.io/</link>
-            <guid>https://nodesecurity.io/</guid>
-            <pubDate>Thu, 13 May 2021 16:10:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Express-style middleware for Incremental Static Regeneration]]></title>
-            <link>https://www.npmjs.com/package/incremental-regeneration</link>
-            <guid>https://www.npmjs.com/package/incremental-regeneration</guid>
-            <pubDate>Thu, 13 May 2021 13:17:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introduction to The Tree Data Structure in Javascript]]></title>
-            <link>https://link.medium.com/OkGdvTBJdgb</link>
-            <guid>https://link.medium.com/OkGdvTBJdgb</guid>
-            <pubDate>Thu, 13 May 2021 08:15:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Writing a Blockchain in Node.js]]></title>
-            <link>https://micheleriva.medium.com/writing-a-blockchain-in-node-js-cd3e903226cf?source=friends_link&amp;sk=e5cbc7f6702ec8836a6085466c010e7f</link>
-            <guid>https://micheleriva.medium.com/writing-a-blockchain-in-node-js-cd3e903226cf?source=friends_link&amp;sk=e5cbc7f6702ec8836a6085466c010e7f</guid>
-            <pubDate>Wed, 12 May 2021 11:37:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Create a stunning Documentation with Docusaurus]]></title>
-            <link>https://react-open-source-topics-and-tutorials.s3.eu-central-1.amazonaws.com/docusaurus.htm</link>
-            <guid>https://react-open-source-topics-and-tutorials.s3.eu-central-1.amazonaws.com/docusaurus.htm</guid>
-            <pubDate>Thu, 13 May 2021 10:04:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Complete NodeJS course with express, socket io and MongoDB - free course from udemy]]></title>
-            <link>https://www.myfreeonlinecourses.com/2021/03/100-off-complete-nodejs-course-with.html</link>
-            <guid>https://www.myfreeonlinecourses.com/2021/03/100-off-complete-nodejs-course-with.html</guid>
-            <pubDate>Wed, 12 May 2021 14:56:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How would I stream data from the model for download?]]></title>
-            <link>https://pdf-lib.js.org/</link>
-            <guid>https://pdf-lib.js.org/</guid>
-            <pubDate>Thu, 13 May 2021 08:46:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Robot Hand Update! Twitch Chat can now Rock Paper Scissors!]]></title>
-            <link>https://clips.twitch.tv/ElegantRacySeahorseHumbleLife-4s_LGJf-nLBhRbk8</link>
-            <guid>https://clips.twitch.tv/ElegantRacySeahorseHumbleLife-4s_LGJf-nLBhRbk8</guid>
-            <pubDate>Wed, 12 May 2021 22:27:53 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,147 +4,117 @@
         <title>JavaScript Weekly</title>
         <link>https://javascriptweekly.com/</link>
         <description>A newsletter of JavaScript articles, news and cool projects</description>
-        <lastBuildDate>Fri, 14 May 2021 07:52:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 May 2021 07:51:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[How GitHub Uses and Works with Web Components]]></title>
-            <link>https://github.blog/2021-05-04-how-we-use-web-components-at-github/</link>
-            <guid>https://github.blog/2021-05-04-how-we-use-web-components-at-github/</guid>
-            <pubDate>Fri, 07 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Angular 12 Released]]></title>
+            <link>https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49</link>
+            <guid>https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49</guid>
+            <pubDate>Fri, 14 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[zx: A Tool for Writing Better Shell Scripts]]></title>
-            <link>https://github.com/google/zx</link>
-            <guid>https://github.com/google/zx</guid>
-            <pubDate>Fri, 07 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA['Babel Is Used by Millions, So Why Are We Running Out of Money?']]></title>
+            <link>https://babeljs.io/blog/2021/05/10/funding-update.html</link>
+            <guid>https://babeljs.io/blog/2021/05/10/funding-update.html</guid>
+            <pubDate>Fri, 14 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AWS Introduces 'CloudFront Functions']]></title>
-            <link>https://aws.amazon.com/blogs/aws/introducing-cloudfront-functions-run-your-code-at-the-edge-with-low-latency-at-any-scale/</link>
-            <guid>https://aws.amazon.com/blogs/aws/introducing-cloudfront-functions-run-your-code-at-the-edge-with-low-latency-at-any-scale/</guid>
-            <pubDate>Fri, 07 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Deno 1.10 Released]]></title>
+            <link>https://deno.com/blog/v1.10</link>
+            <guid>https://deno.com/blog/v1.10</guid>
+            <pubDate>Fri, 14 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bootstrap 5 Released]]></title>
-            <link>https://blog.getbootstrap.com/2021/05/05/bootstrap-5/</link>
-            <guid>https://blog.getbootstrap.com/2021/05/05/bootstrap-5/</guid>
-            <pubDate>Fri, 07 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Announcing TypeScript 4.3 Release Candidate]]></title>
+            <link>https://devblogs.microsoft.com/typescript/announcing-typescript-4-3-rc/</link>
+            <guid>https://devblogs.microsoft.com/typescript/announcing-typescript-4-3-rc/</guid>
+            <pubDate>Fri, 14 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dependency Managers Don’t Manage Your Dependencies]]></title>
-            <link>https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies</link>
-            <guid>https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies</guid>
-            <pubDate>Fri, 07 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Lessons on Writing JavaScript and React from ClojureScript]]></title>
+            <link>https://jerue.org/blog/lessons-on-writing-javascript-and-react-from-clojurescript/</link>
+            <guid>https://jerue.org/blog/lessons-on-writing-javascript-and-react-from-clojurescript/</guid>
+            <pubDate>Fri, 14 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hosting SQLite Databases on GitHub Pages (or Any Static File Host)]]></title>
-            <link>https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/</link>
-            <guid>https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/</guid>
-            <pubDate>Fri, 07 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Performance-Testing the Google I/O Site]]></title>
+            <link>https://jakearchibald.com/2021/io-site-perf/</link>
+            <guid>https://jakearchibald.com/2021/io-site-perf/</guid>
+            <pubDate>Fri, 14 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Comparison of Five React Frameworks]]></title>
-            <link>https://www.youtube.com/watch?v=dfMhRYOtglg&amp;feature=youtu.be</link>
-            <guid>https://www.youtube.com/watch?v=dfMhRYOtglg&amp;feature=youtu.be</guid>
-            <pubDate>Fri, 07 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Why JWT Should Not Be Your Default for Sessions]]></title>
+            <link>https://evertpot.com/jwt-is-a-bad-default/</link>
+            <guid>https://evertpot.com/jwt-is-a-bad-default/</guid>
+            <pubDate>Fri, 14 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[TypeScript Function Syntaxes]]></title>
-            <link>https://kentcdodds.com/blog/typescript-function-syntaxes/</link>
-            <guid>https://kentcdodds.com/blog/typescript-function-syntaxes/</guid>
-            <pubDate>Fri, 07 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[mo.js 1: A Motion Graphics Toolbelt for the Web]]></title>
+            <link>https://mojs.github.io/</link>
+            <guid>https://mojs.github.io/</guid>
+            <pubDate>Fri, 14 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Update URL Query Parameters As You Type in an Input Field]]></title>
-            <link>https://www.amitmerchant.com/update-url-query-parameters-as-you-type-in-the-input-using-javascript/</link>
-            <guid>https://www.amitmerchant.com/update-url-query-parameters-as-you-type-in-the-input-using-javascript/</guid>
-            <pubDate>Fri, 07 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Elder.js: An 'SEO-First' Svelte-Based Framework]]></title>
+            <link>https://elderguide.com/tech/elderjs/</link>
+            <guid>https://elderguide.com/tech/elderjs/</guid>
+            <pubDate>Fri, 14 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Create a Satellite Tracker in 30 Lines of JavaScript]]></title>
-            <link>https://dev.to/omar4ur/create-a-satellite-tracker-from-scratch-in-30-lines-of-javascript-32gk</link>
-            <guid>https://dev.to/omar4ur/create-a-satellite-tracker-from-scratch-in-30-lines-of-javascript-32gk</guid>
-            <pubDate>Fri, 07 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Prettier 2.3: The Opinionated Code Formatter]]></title>
+            <link>https://prettier.io/blog/2021/05/09/2.3.0.html</link>
+            <guid>https://prettier.io/blog/2021/05/09/2.3.0.html</guid>
+            <pubDate>Fri, 14 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mantine: A New React Component Library]]></title>
-            <link>https://mantine.dev/</link>
-            <guid>https://mantine.dev/</guid>
-            <pubDate>Fri, 07 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Spearmint: A Simpler Way to Test Your React App]]></title>
+            <link>https://www.spearmintjs.com/</link>
+            <guid>https://www.spearmintjs.com/</guid>
+            <pubDate>Fri, 14 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pts: A Library for Visualization and Creative Coding]]></title>
-            <link>https://ptsjs.org/</link>
-            <guid>https://ptsjs.org/</guid>
-            <pubDate>Fri, 07 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Eva.js: A Front-End Game Engine for Creating Interactive Projects]]></title>
+            <link>https://eva.js.org/</link>
+            <guid>https://eva.js.org/</guid>
+            <pubDate>Fri, 14 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Spotlight: A Lightbox Gallery Library]]></title>
-            <link>https://github.com/nextapps-de/spotlight</link>
-            <guid>https://github.com/nextapps-de/spotlight</guid>
-            <pubDate>Fri, 07 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Migrating From Parcel to Snowpack – A Build Tool Comparison]]></title>
+            <link>https://benfrain.com/migrating-from-parcel-to-snowpack-build-tool-comparison/</link>
+            <guid>https://benfrain.com/migrating-from-parcel-to-snowpack-build-tool-comparison/</guid>
+            <pubDate>Fri, 14 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Useful Tools for Parsing and Annotating PDFs in Node]]></title>
-            <link>https://spin.atomicobject.com/2021/05/04/tools-modifying-pdfs/</link>
-            <guid>https://spin.atomicobject.com/2021/05/04/tools-modifying-pdfs/</guid>
-            <pubDate>Fri, 07 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Why I Finally Chose React Over Vue]]></title>
+            <link>https://t.co/Pww1zJkO08?amp=1</link>
+            <guid>https://t.co/Pww1zJkO08?amp=1</guid>
+            <pubDate>Fri, 14 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fx: A Command-Line JSON Processing Tool]]></title>
-            <link>https://github.com/antonmedv/fx</link>
-            <guid>https://github.com/antonmedv/fx</guid>
-            <pubDate>Fri, 07 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to Use the Vibration API on Your Site]]></title>
+            <link>https://blog.bibekkakati.me/how-to-use-vibration-api-in-your-website?guid=none&amp;deviceId=c58823a6-da7c-428b-9991-9779146576ca</link>
+            <guid>https://blog.bibekkakati.me/how-to-use-vibration-api-in-your-website?guid=none&amp;deviceId=c58823a6-da7c-428b-9991-9779146576ca</guid>
+            <pubDate>Fri, 14 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hammer: An esbuild-Powered Build Tool for HTML Applications]]></title>
-            <link>https://github.com/sinclairzx81/hammer</link>
-            <guid>https://github.com/sinclairzx81/hammer</guid>
-            <pubDate>Fri, 07 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[htmr 1.0: HTML String to React Element Conversion Library]]></title>
+            <link>https://github.com/pveyes/htmr</link>
+            <guid>https://github.com/pveyes/htmr</guid>
+            <pubDate>Fri, 14 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Talk About the TC39 Decimal Proposal]]></title>
-            <link>https://www.youtube.com/watch?v=XuWhe6jgq5E</link>
-            <guid>https://www.youtube.com/watch?v=XuWhe6jgq5E</guid>
-            <pubDate>Fri, 07 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Vision Camera 2.0: A Powerful Camera for React Native Apps]]></title>
+            <link>https://github.com/cuvent/react-native-vision-camera</link>
+            <guid>https://github.com/cuvent/react-native-vision-camera</guid>
+            <pubDate>Fri, 14 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cloning JavaScript Objects with Graph Theory]]></title>
-            <link>https://andreasimonecosta.dev/posts/cloning-javascript-objects-with-graph-theory/</link>
-            <guid>https://andreasimonecosta.dev/posts/cloning-javascript-objects-with-graph-theory/</guid>
-            <pubDate>Fri, 07 May 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Top Ten git Tips and Tricks]]></title>
-            <link>https://www.honeybadger.io/blog/git-tricks/</link>
-            <guid>https://www.honeybadger.io/blog/git-tricks/</guid>
-            <pubDate>Fri, 07 May 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How We Sped Up Chrome DevTools Stack Traces by 10x]]></title>
-            <link>https://developer.chrome.com/blog/faster-stack-traces/</link>
-            <guid>https://developer.chrome.com/blog/faster-stack-traces/</guid>
-            <pubDate>Fri, 07 May 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[node-wasm-run: Run Arbitrary WASM/WASI Files on V8]]></title>
-            <link>https://github.com/wasm3/node-wasm-run</link>
-            <guid>https://github.com/wasm3/node-wasm-run</guid>
-            <pubDate>Fri, 07 May 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Observable Plot: A Library for Exploratory Data Visualization]]></title>
-            <link>https://observablehq.com/@observablehq/plot</link>
-            <guid>https://observablehq.com/@observablehq/plot</guid>
-            <pubDate>Fri, 07 May 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GitHub repo]]></title>
-            <link>https://github.com/observablehq/plot</link>
-            <guid>https://github.com/observablehq/plot</guid>
-            <pubDate>Fri, 07 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Vuetify 2.5: A Material Design Framework for Vue.js]]></title>
+            <link>https://vuetifyjs.com/en/</link>
+            <guid>https://vuetifyjs.com/en/</guid>
+            <pubDate>Fri, 14 May 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

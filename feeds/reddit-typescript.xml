@@ -4,10 +4,16 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Fri, 14 May 2021 07:52:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 May 2021 07:52:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[A Typescript-first State Machine library for React]]></title>
+            <link>https://github.com/cassiozen/useStateMachine</link>
+            <guid>https://github.com/cassiozen/useStateMachine</guid>
+            <pubDate>Fri, 14 May 2021 22:01:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Looking for a book on Functional DDD with TypeScript/JavaScript]]></title>
             <link>https://www.amazon.com/Functional-Reactive-Domain-Modeling-Debasish/dp/1617292249/ref=sr_1_1?crid=1R8Z8OUW3VEI6&amp;dchild=1&amp;keywords=functional+and+reactive+domain+modeling&amp;qid=1620917098&amp;sprefix=functional+and+reactive+%2Caps%2C599&amp;sr=8-1</link>
@@ -49,18 +55,6 @@
             <link>https://tsh.io/blog/why-typescript/</link>
             <guid>https://tsh.io/blog/why-typescript/</guid>
             <pubDate>Mon, 10 May 2021 13:19:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It’s time we admit the truth about Javascript]]></title>
-            <link>https://medium.com/@billwohlers/its-time-we-admit-the-truth-about-javascript-98d197c0f1ec</link>
-            <guid>https://medium.com/@billwohlers/its-time-we-admit-the-truth-about-javascript-98d197c0f1ec</guid>
-            <pubDate>Tue, 11 May 2021 01:13:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Please add optional named parameters to TypeScript]]></title>
-            <link>https://betterprogramming.pub/named-parameters-in-typescript-e32c763d2b2e</link>
-            <guid>https://betterprogramming.pub/named-parameters-in-typescript-e32c763d2b2e</guid>
-            <pubDate>Tue, 11 May 2021 03:37:29 GMT</pubDate>
         </item>
     </channel>
 </rss>

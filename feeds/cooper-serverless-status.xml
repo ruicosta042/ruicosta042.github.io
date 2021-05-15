@@ -4,39 +4,57 @@
         <title>Serverless Status</title>
         <link>https://serverless.email/</link>
         <description>A weekly newsletter on serverless and function-as-a-service (FaaS) architectures and platforms including AWS Lambda and Azure Functions.</description>
-        <lastBuildDate>Sat, 08 May 2021 07:49:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 May 2021 07:52:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[AWS Introduces 'CloudFront Functions']]></title>
-            <link>https://aws.amazon.com/blogs/aws/introducing-cloudfront-functions-run-your-code-at-the-edge-with-low-latency-at-any-scale/</link>
-            <guid>https://aws.amazon.com/blogs/aws/introducing-cloudfront-functions-run-your-code-at-the-edge-with-low-latency-at-any-scale/</guid>
-            <pubDate>Fri, 07 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Serverless Framework vs SAM vs CDK]]></title>
+            <link>https://tastefulelk.hashnode.dev/serverless-framework-vs-sam-vs-aws-cdk?guid=none&amp;deviceId=3251f1e3-529d-4b55-82c4-958f9d727193</link>
+            <guid>https://tastefulelk.hashnode.dev/serverless-framework-vs-sam-vs-aws-cdk?guid=none&amp;deviceId=3251f1e3-529d-4b55-82c4-958f9d727193</guid>
+            <pubDate>Fri, 14 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Best Supported Serverless Languages]]></title>
-            <link>https://dylananthony.com/posts/best-supported-serverless-languages</link>
-            <guid>https://dylananthony.com/posts/best-supported-serverless-languages</guid>
-            <pubDate>Fri, 07 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[The AWS Serverless Patterns Collection]]></title>
+            <link>https://aws.amazon.com/blogs/compute/learn-how-to-integrate-aws-services-with-the-serverless-patterns-collection/</link>
+            <guid>https://aws.amazon.com/blogs/compute/learn-how-to-integrate-aws-services-with-the-serverless-patterns-collection/</guid>
+            <pubDate>Fri, 14 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Google Cloud's 'Power of Serverless' Event Next Week]]></title>
-            <link>https://cloudonair.withgoogle.com/events/serverless-may2021</link>
-            <guid>https://cloudonair.withgoogle.com/events/serverless-may2021</guid>
-            <pubDate>Fri, 07 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Four New Ways to Improve the Security of a Google Cloud Run Environment]]></title>
+            <link>https://cloud.google.com/blog/products/serverless/improving-the-security-of-your-cloud-run-environment</link>
+            <guid>https://cloud.google.com/blog/products/serverless/improving-the-security-of-your-cloud-run-environment</guid>
+            <pubDate>Fri, 14 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Using Grafana to Troubleshoot a Serverless Application]]></title>
-            <link>https://aws.amazon.com/blogs/opensource/using-amazon-managed-service-for-grafana-to-troubleshoot-a-serverless-application/</link>
-            <guid>https://aws.amazon.com/blogs/opensource/using-amazon-managed-service-for-grafana-to-troubleshoot-a-serverless-application/</guid>
-            <pubDate>Fri, 07 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Lambda Layer: 'Not a Package Manager, But a Deployment Optimization']]></title>
+            <link>https://theburningmonk.com/2021/05/lambda-layer-not-a-package-manager-but-a-deployment-optimization/</link>
+            <guid>https://theburningmonk.com/2021/05/lambda-layer-not-a-package-manager-but-a-deployment-optimization/</guid>
+            <pubDate>Fri, 14 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Please Fix The AWS Free Tier Before Somebody Gets Hurt']]></title>
-            <link>https://cloudirregular.substack.com/p/please-fix-the-aws-free-tier-before</link>
-            <guid>https://cloudirregular.substack.com/p/please-fix-the-aws-free-tier-before</guid>
-            <pubDate>Fri, 07 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to Send Changes from DocumentDB to Amazon MSK via AWS Lambda]]></title>
+            <link>https://aws.amazon.com/blogs/database/capture-changes-from-amazon-documentdb-via-aws-lambda-and-publish-them-to-amazon-msk/</link>
+            <guid>https://aws.amazon.com/blogs/database/capture-changes-from-amazon-documentdb-via-aws-lambda-and-publish-them-to-amazon-msk/</guid>
+            <pubDate>Fri, 14 May 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Use Netlify Functions to Send Email Notifications]]></title>
+            <link>https://www.seancdavis.com/blog/netlify-functions-email-notifications/</link>
+            <guid>https://www.seancdavis.com/blog/netlify-functions-email-notifications/</guid>
+            <pubDate>Fri, 14 May 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Building a Massively Scalable Serverless Chat Application with AWS AppSync]]></title>
+            <link>https://medium.com/serverless-transformation/building-a-massively-scalable-serverless-chat-application-with-aws-appsync-dbe1733dcb95</link>
+            <guid>https://medium.com/serverless-transformation/building-a-massively-scalable-serverless-chat-application-with-aws-appsync-dbe1733dcb95</guid>
+            <pubDate>Fri, 14 May 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Story of Building a Serverless CRUD App with AWS Lambda and Go]]></title>
+            <link>https://arjitjaiswal.medium.com/building-okayar-part-1-how-it-started-back-end-crud-serverless-lambda-api-in-go-3248ae93c97c</link>
+            <guid>https://arjitjaiswal.medium.com/building-okayar-part-1-how-it-started-back-end-crud-serverless-lambda-api-in-go-3248ae93c97c</guid>
+            <pubDate>Fri, 14 May 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Fri, 14 May 2021 07:52:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 May 2021 07:52:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -21,76 +21,76 @@
             <pubDate>Sat, 01 May 2021 18:07:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React Responsive Routing (3R)]]></title>
-            <link>https://www.npmjs.com/package/react-media</link>
-            <guid>https://www.npmjs.com/package/react-media</guid>
-            <pubDate>Fri, 14 May 2021 01:18:25 GMT</pubDate>
+            <title><![CDATA[Terradex: Quickly view and search over 5000 items from the game Terraria. Built with Next.js.]]></title>
+            <link>https://terradex.asonj.dev/</link>
+            <guid>https://terradex.asonj.dev/</guid>
+            <pubDate>Fri, 14 May 2021 20:11:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Time Enna - A Timezone Conversion Utility App]]></title>
-            <link>https://timeenna.com/</link>
-            <guid>https://timeenna.com/</guid>
-            <pubDate>Fri, 14 May 2021 07:47:50 GMT</pubDate>
+            <title><![CDATA[How to implement actions that affect multiple stores with Zustand]]></title>
+            <link>https://facebook.github.io/flux/docs/dispatcher/</link>
+            <guid>https://facebook.github.io/flux/docs/dispatcher/</guid>
+            <pubDate>Sat, 15 May 2021 05:39:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Small Project Ideas for ReactJS]]></title>
-            <link>https://github.com/arbaz52</link>
-            <guid>https://github.com/arbaz52</guid>
-            <pubDate>Fri, 14 May 2021 06:04:58 GMT</pubDate>
+            <title><![CDATA[App for teachers]]></title>
+            <link>https://teachy.app/?referrer=reddit</link>
+            <guid>https://teachy.app/?referrer=reddit</guid>
+            <pubDate>Fri, 14 May 2021 23:07:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Need help - how can I get the multiple camera sources in ReactJS]]></title>
-            <link>https://codesandbox.io/s/multiple-camera-sources-kn6qx</link>
-            <guid>https://codesandbox.io/s/multiple-camera-sources-kn6qx</guid>
-            <pubDate>Fri, 14 May 2021 04:31:41 GMT</pubDate>
+            <title><![CDATA["TypeError: Cannot read property 'medium' of null" Cant figure it out!]]></title>
+            <link>https://ibb.co/k5NqLzd</link>
+            <guid>https://ibb.co/k5NqLzd</guid>
+            <pubDate>Fri, 14 May 2021 22:01:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Should you use id attributes in a React application?]]></title>
-            <link>https://github.com/codesandbox/codesandbox-client/blob/master/packages/app/src/app/pages/Dashboard/index.tsx</link>
-            <guid>https://github.com/codesandbox/codesandbox-client/blob/master/packages/app/src/app/pages/Dashboard/index.tsx</guid>
-            <pubDate>Fri, 14 May 2021 03:25:26 GMT</pubDate>
+            <title><![CDATA[Misconceptions about Virtual DOM]]></title>
+            <link>https://itnext.io/misconceptions-about-virtual-dom-35ec60b87086?source=friends_link&amp;sk=ba4d9c0a2fd1c04539e2ce5aa534d1eb</link>
+            <guid>https://itnext.io/misconceptions-about-virtual-dom-35ec60b87086?source=friends_link&amp;sk=ba4d9c0a2fd1c04539e2ce5aa534d1eb</guid>
+            <pubDate>Fri, 14 May 2021 17:01:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Build a Responsive Mega Menu Using React Bootstrap]]></title>
-            <link>https://www.grouparoo.com/blog/build-a-mega-menu-with-react-bootstrap</link>
-            <guid>https://www.grouparoo.com/blog/build-a-mega-menu-with-react-bootstrap</guid>
-            <pubDate>Thu, 13 May 2021 23:21:11 GMT</pubDate>
+            <title><![CDATA[How do you decide on useState & useReducer hook?]]></title>
+            <link>https://www.linkedin.com/in/varunprashar5</link>
+            <guid>https://www.linkedin.com/in/varunprashar5</guid>
+            <pubDate>Fri, 14 May 2021 22:27:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Work Smarter, Not Harder To Create A React App With ReacType]]></title>
-            <link>https://github.com/open-source-labs/ReacType</link>
-            <guid>https://github.com/open-source-labs/ReacType</guid>
-            <pubDate>Thu, 13 May 2021 19:01:46 GMT</pubDate>
+            <title><![CDATA[Is Ignite a React Native starter kit for beginners or for experts?]]></title>
+            <link>https://shift.infinite.red/is-ignite-a-react-native-starter-kit-for-beginners-or-for-experts-6b45426366d8</link>
+            <guid>https://shift.infinite.red/is-ignite-a-react-native-starter-kit-for-beginners-or-for-experts-6b45426366d8</guid>
+            <pubDate>Fri, 14 May 2021 17:51:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Expose Database over Rest API with TypeORM and First-Class Entity]]></title>
-            <link>https://javascript.plainenglish.io/70f2f53bb2a8</link>
-            <guid>https://javascript.plainenglish.io/70f2f53bb2a8</guid>
-            <pubDate>Thu, 13 May 2021 21:53:26 GMT</pubDate>
+            <title><![CDATA[reactJS routing, errors 500 & .htaccess: rewrite rules not working on sub-routes - can anyone help here ?]]></title>
+            <link>https://stackoverflow.com/questions/66455011/reactjs-routing-errors-500-htaccess-rewrite-rules-not-working-on-sub-routes</link>
+            <guid>https://stackoverflow.com/questions/66455011/reactjs-routing-errors-500-htaccess-rewrite-rules-not-working-on-sub-routes</guid>
+            <pubDate>Fri, 14 May 2021 20:51:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React + Next.js E-Commerce Tutorial]]></title>
-            <link>https://react-nextjs-vercel-demo.vercel.app/</link>
-            <guid>https://react-nextjs-vercel-demo.vercel.app/</guid>
-            <pubDate>Fri, 14 May 2021 00:12:21 GMT</pubDate>
+            <title><![CDATA[How to login after clicks button using Bootstrap Modal]]></title>
+            <link>https://github.com/Jothinayagan/chat-app/blob/stashed/client/src/components/Modal/LoginModal.js</link>
+            <guid>https://github.com/Jothinayagan/chat-app/blob/stashed/client/src/components/Modal/LoginModal.js</guid>
+            <pubDate>Fri, 14 May 2021 15:48:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[State management solution 2021]]></title>
-            <link>https://github.com/pmndrs/zustand</link>
-            <guid>https://github.com/pmndrs/zustand</guid>
-            <pubDate>Thu, 13 May 2021 13:57:28 GMT</pubDate>
+            <title><![CDATA[Better code blocks using Next.js]]></title>
+            <link>https://ped.ro/blog/code-blocks-but-better</link>
+            <guid>https://ped.ro/blog/code-blocks-but-better</guid>
+            <pubDate>Fri, 14 May 2021 10:52:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Keep your state in Kea and your views in React]]></title>
-            <link>https://kea.js.org/</link>
-            <guid>https://kea.js.org/</guid>
-            <pubDate>Thu, 13 May 2021 19:02:43 GMT</pubDate>
+            <title><![CDATA[My first project using React: Tick Time]]></title>
+            <link>https://tick-time-app.web.app/</link>
+            <guid>https://tick-time-app.web.app/</guid>
+            <pubDate>Fri, 14 May 2021 17:21:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Made my first full-stack app. An online bookstore.]]></title>
-            <link>https://bookattic.herokuapp.com/</link>
-            <guid>https://bookattic.herokuapp.com/</guid>
-            <pubDate>Thu, 13 May 2021 16:45:57 GMT</pubDate>
+            <title><![CDATA[Modify ThreeJS geometries from outside of GLView]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Fri, 14 May 2021 16:56:53 GMT</pubDate>
         </item>
     </channel>
 </rss>

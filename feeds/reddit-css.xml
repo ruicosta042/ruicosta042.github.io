@@ -4,10 +4,40 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Fri, 14 May 2021 07:52:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 May 2021 07:52:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Bootstrap cdn style sheet overrides custom style sheet.]]></title>
+            <link>https://github.com/wsa138/bootstrap-practice</link>
+            <guid>https://github.com/wsa138/bootstrap-practice</guid>
+            <pubDate>Sat, 15 May 2021 01:02:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[margin-margin-revolution.css - Never forget the CSS margin order again!]]></title>
+            <link>https://defaced.dev/web/margin-margin-revolution/</link>
+            <guid>https://defaced.dev/web/margin-margin-revolution/</guid>
+            <pubDate>Fri, 14 May 2021 18:03:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CSS children]]></title>
+            <link>https://codeskip.net/shop/mens-minimalist-ultra-thin-stainless-steel-quartz-watch-2/</link>
+            <guid>https://codeskip.net/shop/mens-minimalist-ultra-thin-stainless-steel-quartz-watch-2/</guid>
+            <pubDate>Fri, 14 May 2021 20:50:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Selectors Explained - Translate CSS selectors into plain English.]]></title>
+            <link>https://kittygiraudel.github.io/selectors-explained/</link>
+            <guid>https://kittygiraudel.github.io/selectors-explained/</guid>
+            <pubDate>Fri, 14 May 2021 12:56:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How-to: CSS Table Swipe Interaction]]></title>
+            <link>https://uxplanet.org/how-to-css-table-swipe-interaction-652b8cabeeea</link>
+            <guid>https://uxplanet.org/how-to-css-table-swipe-interaction-652b8cabeeea</guid>
+            <pubDate>Fri, 14 May 2021 22:09:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Painting with a fluid space palette]]></title>
             <link>https://utopia.fyi/blog/painting-with-a-fluid-space-palette/</link>
@@ -33,12 +63,6 @@
             <pubDate>Wed, 12 May 2021 20:10:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Complete CSS Flex Tutorial]]></title>
-            <link>https://semicolon.dev/tutorial/css/complete-css-flex-tutorial</link>
-            <guid>https://semicolon.dev/tutorial/css/complete-css-flex-tutorial</guid>
-            <pubDate>Wed, 12 May 2021 22:39:39 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[How to make a card occupy the maximum height it can in a grid? (Tailwind)]]></title>
             <link>https://stackoverflow.com/questions/67499203/how-to-make-a-card-occupy-maximum-height-it-can-in-a-grid</link>
             <guid>https://stackoverflow.com/questions/67499203/how-to-make-a-card-occupy-maximum-height-it-can-in-a-grid</guid>
@@ -49,18 +73,6 @@
             <link>https://www.sarasoueidan.com/blog/component-level-art-direction-with-container-queries-and-picture/</link>
             <guid>https://www.sarasoueidan.com/blog/component-level-art-direction-with-container-queries-and-picture/</guid>
             <pubDate>Wed, 12 May 2021 12:36:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Ultimate CSS Selectors Cheat Sheet You Must Know]]></title>
-            <link>https://www.lambdatest.com/blog/css-selectors-cheat-sheet/?utm_source=Reddit&amp;utm_medium=blog&amp;utm_campaign=PM-120521-1&amp;utm_term=OrganicPosting</link>
-            <guid>https://www.lambdatest.com/blog/css-selectors-cheat-sheet/?utm_source=Reddit&amp;utm_medium=blog&amp;utm_campaign=PM-120521-1&amp;utm_term=OrganicPosting</guid>
-            <pubDate>Wed, 12 May 2021 13:56:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Vendor Prefixing Dead?]]></title>
-            <link>https://css-tricks.com/is-vendor-prefixing-dead/</link>
-            <guid>https://css-tricks.com/is-vendor-prefixing-dead/</guid>
-            <pubDate>Wed, 12 May 2021 12:29:38 GMT</pubDate>
         </item>
     </channel>
 </rss>

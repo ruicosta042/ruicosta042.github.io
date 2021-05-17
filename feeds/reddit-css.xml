@@ -4,15 +4,69 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Sat, 15 May 2021 07:52:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 May 2021 07:52:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Need help recreating an animation]]></title>
+            <link>https://wireless-social.com/</link>
+            <guid>https://wireless-social.com/</guid>
+            <pubDate>Sun, 16 May 2021 19:07:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CSS Flex Explained in 1 Animation]]></title>
+            <link>https://jstutorial.medium.com/css-flex-explained-in-1-animation-812424d15b8f?sk=5857611f645dd22f224520f35cce3242</link>
+            <guid>https://jstutorial.medium.com/css-flex-explained-in-1-animation-812424d15b8f?sk=5857611f645dd22f224520f35cce3242</guid>
+            <pubDate>Sun, 16 May 2021 18:36:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[css not applying]]></title>
+            <link>https://replit.com/@ChrisTurindwa/test-2#index.php</link>
+            <guid>https://replit.com/@ChrisTurindwa/test-2#index.php</guid>
+            <pubDate>Sun, 16 May 2021 18:23:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10 HTML Semantic Tags and When to Use Them]]></title>
+            <link>https://link.medium.com/Dl2p9euuigb</link>
+            <guid>https://link.medium.com/Dl2p9euuigb</guid>
+            <pubDate>Sun, 16 May 2021 05:01:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can I :has()]]></title>
+            <link>https://bkardell.com/blog/canihas.html</link>
+            <guid>https://bkardell.com/blog/canihas.html</guid>
+            <pubDate>Sun, 16 May 2021 08:12:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Learn 3 common CSS Flex patterns (center, column, grid) in under 10 minutes]]></title>
+            <link>https://semicolon.dev/tutorial/css/learn-css-flex-patterns-in-10-minutes</link>
+            <guid>https://semicolon.dev/tutorial/css/learn-css-flex-patterns-in-10-minutes</guid>
+            <pubDate>Sat, 15 May 2021 15:36:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Creating Stylesheet Feature Flags With Sass !default]]></title>
+            <link>https://css-tricks.com/creating-stylesheet-feature-flags-with-sass-default/</link>
+            <guid>https://css-tricks.com/creating-stylesheet-feature-flags-with-sass-default/</guid>
+            <pubDate>Sat, 15 May 2021 23:06:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[how to make materialize collapsible take full width?]]></title>
+            <link>https://materializecss.com/collapsible.html</link>
+            <guid>https://materializecss.com/collapsible.html</guid>
+            <pubDate>Sat, 15 May 2021 15:59:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bootstrap cdn style sheet overrides custom style sheet.]]></title>
             <link>https://github.com/wsa138/bootstrap-practice</link>
             <guid>https://github.com/wsa138/bootstrap-practice</guid>
             <pubDate>Sat, 15 May 2021 01:02:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Generative Art With CSS]]></title>
+            <link>https://yuanchuan.dev/talk/generative-art-with-css/</link>
+            <guid>https://yuanchuan.dev/talk/generative-art-with-css/</guid>
+            <pubDate>Sat, 15 May 2021 12:58:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[margin-margin-revolution.css - Never forget the CSS margin order again!]]></title>
@@ -25,54 +79,6 @@
             <link>https://codeskip.net/shop/mens-minimalist-ultra-thin-stainless-steel-quartz-watch-2/</link>
             <guid>https://codeskip.net/shop/mens-minimalist-ultra-thin-stainless-steel-quartz-watch-2/</guid>
             <pubDate>Fri, 14 May 2021 20:50:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Selectors Explained - Translate CSS selectors into plain English.]]></title>
-            <link>https://kittygiraudel.github.io/selectors-explained/</link>
-            <guid>https://kittygiraudel.github.io/selectors-explained/</guid>
-            <pubDate>Fri, 14 May 2021 12:56:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How-to: CSS Table Swipe Interaction]]></title>
-            <link>https://uxplanet.org/how-to-css-table-swipe-interaction-652b8cabeeea</link>
-            <guid>https://uxplanet.org/how-to-css-table-swipe-interaction-652b8cabeeea</guid>
-            <pubDate>Fri, 14 May 2021 22:09:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Painting with a fluid space palette]]></title>
-            <link>https://utopia.fyi/blog/painting-with-a-fluid-space-palette/</link>
-            <guid>https://utopia.fyi/blog/painting-with-a-fluid-space-palette/</guid>
-            <pubDate>Thu, 13 May 2021 12:51:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Storybook addons for CSS]]></title>
-            <link>https://storybook.js.org/blog/storybook-addons-for-css/</link>
-            <guid>https://storybook.js.org/blog/storybook-addons-for-css/</guid>
-            <pubDate>Thu, 13 May 2021 08:38:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CSS Houdini - a set of low-level APIs that exposes parts of the CSS engine, giving developers the power to extend CSS by hooking into the styling and layout process of a browser’s rendering engine. Houdini is a group of APIs that give developers direct access to the CSS Object Model (CSSOM)]]></title>
-            <link>https://developer.mozilla.org/en-US/docs/Web/Houdini</link>
-            <guid>https://developer.mozilla.org/en-US/docs/Web/Houdini</guid>
-            <pubDate>Wed, 12 May 2021 22:51:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I am failing the FreeCodeCamp assignment but I can't see the mistake.]]></title>
-            <link>https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage</link>
-            <guid>https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage</guid>
-            <pubDate>Wed, 12 May 2021 20:10:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to make a card occupy the maximum height it can in a grid? (Tailwind)]]></title>
-            <link>https://stackoverflow.com/questions/67499203/how-to-make-a-card-occupy-maximum-height-it-can-in-a-grid</link>
-            <guid>https://stackoverflow.com/questions/67499203/how-to-make-a-card-occupy-maximum-height-it-can-in-a-grid</guid>
-            <pubDate>Thu, 13 May 2021 05:43:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Component-level art direction with CSS Container Queries]]></title>
-            <link>https://www.sarasoueidan.com/blog/component-level-art-direction-with-container-queries-and-picture/</link>
-            <guid>https://www.sarasoueidan.com/blog/component-level-art-direction-with-container-queries-and-picture/</guid>
-            <pubDate>Wed, 12 May 2021 12:36:20 GMT</pubDate>
         </item>
     </channel>
 </rss>

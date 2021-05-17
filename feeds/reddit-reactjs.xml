@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sat, 15 May 2021 07:52:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 May 2021 07:52:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,82 +15,70 @@
             <pubDate>Sat, 01 May 2021 18:04:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Who's Hiring? [May 2021]]]></title>
-            <link>https://news.ycombinator.com/item?id=21683554</link>
-            <guid>https://news.ycombinator.com/item?id=21683554</guid>
-            <pubDate>Sat, 01 May 2021 18:07:39 GMT</pubDate>
+            <title><![CDATA[I've been working on a 3D Function Renderer to practice ReactJS and Three.js]]></title>
+            <link>https://streamable.com/6s3vvj</link>
+            <guid>https://streamable.com/6s3vvj</guid>
+            <pubDate>Sun, 16 May 2021 19:03:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Terradex: Quickly view and search over 5000 items from the game Terraria. Built with Next.js.]]></title>
-            <link>https://terradex.asonj.dev/</link>
-            <guid>https://terradex.asonj.dev/</guid>
-            <pubDate>Fri, 14 May 2021 20:11:29 GMT</pubDate>
+            <title><![CDATA[Implement Authentication in React Application using LoginRadius CLI in 5 mins · LoginRadius Engineering]]></title>
+            <link>https://www.loginradius.com/blog/async/implement-authentication-in-react-using-loginradius-cli/</link>
+            <guid>https://www.loginradius.com/blog/async/implement-authentication-in-react-using-loginradius-cli/</guid>
+            <pubDate>Mon, 17 May 2021 06:01:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to implement actions that affect multiple stores with Zustand]]></title>
-            <link>https://facebook.github.io/flux/docs/dispatcher/</link>
-            <guid>https://facebook.github.io/flux/docs/dispatcher/</guid>
-            <pubDate>Sat, 15 May 2021 05:39:36 GMT</pubDate>
+            <title><![CDATA[Want to give back to the open-source community. React components for d3]]></title>
+            <link>https://github.com/mdshamoon/react-d3-graphs</link>
+            <guid>https://github.com/mdshamoon/react-d3-graphs</guid>
+            <pubDate>Mon, 17 May 2021 02:51:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[App for teachers]]></title>
-            <link>https://teachy.app/?referrer=reddit</link>
-            <guid>https://teachy.app/?referrer=reddit</guid>
-            <pubDate>Fri, 14 May 2021 23:07:24 GMT</pubDate>
+            <title><![CDATA[React 17 internally uses the browser's focusin and focusout events for onFocus and onBlur events]]></title>
+            <link>https://blog.saeloun.com/2021/05/14/react-17-uses-browse-focusin-focusout-for-onfocus-onblur</link>
+            <guid>https://blog.saeloun.com/2021/05/14/react-17-uses-browse-focusin-focusout-for-onfocus-onblur</guid>
+            <pubDate>Sun, 16 May 2021 14:34:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA["TypeError: Cannot read property 'medium' of null" Cant figure it out!]]></title>
-            <link>https://ibb.co/k5NqLzd</link>
-            <guid>https://ibb.co/k5NqLzd</guid>
-            <pubDate>Fri, 14 May 2021 22:01:17 GMT</pubDate>
+            <title><![CDATA[I made an app using Next.JS that lets you plan weekend hangouts with friends]]></title>
+            <link>https://flocktogether-v2.vercel.app/</link>
+            <guid>https://flocktogether-v2.vercel.app/</guid>
+            <pubDate>Mon, 17 May 2021 03:26:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Misconceptions about Virtual DOM]]></title>
-            <link>https://itnext.io/misconceptions-about-virtual-dom-35ec60b87086?source=friends_link&amp;sk=ba4d9c0a2fd1c04539e2ce5aa534d1eb</link>
-            <guid>https://itnext.io/misconceptions-about-virtual-dom-35ec60b87086?source=friends_link&amp;sk=ba4d9c0a2fd1c04539e2ce5aa534d1eb</guid>
-            <pubDate>Fri, 14 May 2021 17:01:52 GMT</pubDate>
+            <title><![CDATA[Improving React application performance: React.memo vs useMemo]]></title>
+            <link>https://blog.asayer.io/improving-react-application-performance-react-memo-vs-usememo</link>
+            <guid>https://blog.asayer.io/improving-react-application-performance-react-memo-vs-usememo</guid>
+            <pubDate>Mon, 17 May 2021 06:30:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How do you decide on useState & useReducer hook?]]></title>
-            <link>https://www.linkedin.com/in/varunprashar5</link>
-            <guid>https://www.linkedin.com/in/varunprashar5</guid>
-            <pubDate>Fri, 14 May 2021 22:27:18 GMT</pubDate>
+            <title><![CDATA[React 17 internally uses the browser's focusin and focusout events for onFocus and onBlur events]]></title>
+            <link>https://blog.saeloun.com/2021/05/14/react-17-uses-browse-focusin-focusout-for-onfocus-onblur</link>
+            <guid>https://blog.saeloun.com/2021/05/14/react-17-uses-browse-focusin-focusout-for-onfocus-onblur</guid>
+            <pubDate>Mon, 17 May 2021 06:04:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Is Ignite a React Native starter kit for beginners or for experts?]]></title>
-            <link>https://shift.infinite.red/is-ignite-a-react-native-starter-kit-for-beginners-or-for-experts-6b45426366d8</link>
-            <guid>https://shift.infinite.red/is-ignite-a-react-native-starter-kit-for-beginners-or-for-experts-6b45426366d8</guid>
-            <pubDate>Fri, 14 May 2021 17:51:10 GMT</pubDate>
+            <title><![CDATA[Examples of large production-grade, open-source React apps]]></title>
+            <link>https://maxrozen.com/examples-of-large-production-grade-open-source-react-apps</link>
+            <guid>https://maxrozen.com/examples-of-large-production-grade-open-source-react-apps</guid>
+            <pubDate>Sun, 16 May 2021 07:57:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[reactJS routing, errors 500 & .htaccess: rewrite rules not working on sub-routes - can anyone help here ?]]></title>
-            <link>https://stackoverflow.com/questions/66455011/reactjs-routing-errors-500-htaccess-rewrite-rules-not-working-on-sub-routes</link>
-            <guid>https://stackoverflow.com/questions/66455011/reactjs-routing-errors-500-htaccess-rewrite-rules-not-working-on-sub-routes</guid>
-            <pubDate>Fri, 14 May 2021 20:51:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to login after clicks button using Bootstrap Modal]]></title>
-            <link>https://github.com/Jothinayagan/chat-app/blob/stashed/client/src/components/Modal/LoginModal.js</link>
-            <guid>https://github.com/Jothinayagan/chat-app/blob/stashed/client/src/components/Modal/LoginModal.js</guid>
-            <pubDate>Fri, 14 May 2021 15:48:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Better code blocks using Next.js]]></title>
-            <link>https://ped.ro/blog/code-blocks-but-better</link>
-            <guid>https://ped.ro/blog/code-blocks-but-better</guid>
-            <pubDate>Fri, 14 May 2021 10:52:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My first project using React: Tick Time]]></title>
-            <link>https://tick-time-app.web.app/</link>
-            <guid>https://tick-time-app.web.app/</guid>
-            <pubDate>Fri, 14 May 2021 17:21:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Modify ThreeJS geometries from outside of GLView]]></title>
+            <title><![CDATA[Review my portfolio (again)]]></title>
             <link>https://foo.com/</link>
             <guid>https://foo.com/</guid>
-            <pubDate>Fri, 14 May 2021 16:56:53 GMT</pubDate>
+            <pubDate>Sun, 16 May 2021 22:40:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A customisable, type-safe, out-of-the-box UI library for React-Table 7. (WIP - Any feedback and contributions are welcome.)]]></title>
+            <link>https://github.com/GuptaSiddhant/react-table-ui</link>
+            <guid>https://github.com/GuptaSiddhant/react-table-ui</guid>
+            <pubDate>Sun, 16 May 2021 11:57:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Should 'POST' api calls go in useEffect? Aren't they sideeffects?]]></title>
+            <link>https://docs.amplify.aws/start/getting-started/data-model/q/integration/react#connect-frontend-to-api</link>
+            <guid>https://docs.amplify.aws/start/getting-started/data-model/q/integration/react#connect-frontend-to-api</guid>
+            <pubDate>Sun, 16 May 2021 15:53:51 GMT</pubDate>
         </item>
     </channel>
 </rss>

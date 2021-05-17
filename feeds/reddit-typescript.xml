@@ -4,15 +4,51 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Sat, 15 May 2021 07:52:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 May 2021 07:52:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[declarative-tree : a library to convert strings to trees and vice versa]]></title>
+            <link>https://www.npmjs.com/package/declarative-tree</link>
+            <guid>https://www.npmjs.com/package/declarative-tree</guid>
+            <pubDate>Sat, 15 May 2021 22:42:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Typehole – Automatically generate TypeScript types and interfaces for all serializable runtime values]]></title>
+            <link>https://github.com/rikukissa/typehole</link>
+            <guid>https://github.com/rikukissa/typehole</guid>
+            <pubDate>Sat, 15 May 2021 08:44:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ts-doc-gen-md : A documentation generation library for typescript projects, in markdown.]]></title>
+            <link>https://github.com/lillallol/declarative-tree#documentation</link>
+            <guid>https://github.com/lillallol/declarative-tree#documentation</guid>
+            <pubDate>Sat, 15 May 2021 16:33:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Generate Typescript Definitions for Existing Embind libraries (TSEMBIND)]]></title>
+            <link>https://github.com/ted537/tsembind</link>
+            <guid>https://github.com/ted537/tsembind</guid>
+            <pubDate>Sat, 15 May 2021 19:41:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Typescript-first State Machine library for React]]></title>
             <link>https://github.com/cassiozen/useStateMachine</link>
             <guid>https://github.com/cassiozen/useStateMachine</guid>
             <pubDate>Fri, 14 May 2021 22:01:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[T.S. vs J.S.: 7 Powerful Ways To Know TypeScript language]]></title>
+            <link>https://untiedblogs.com/t-s-vs-j-s-7-powerful-ways-to-know-typescript-language/</link>
+            <guid>https://untiedblogs.com/t-s-vs-j-s-7-powerful-ways-to-know-typescript-language/</guid>
+            <pubDate>Sun, 16 May 2021 05:44:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[String.raw \x - compiler error]]></title>
+            <link>https://www.typescriptlang.org/play?#code/PTAEHUFMBsGMHsC2lQBd5oBYoCoE8AHSAZVgCcBLA1UABWgEM8BzM+AVwDsATAGiwoBnUENANQAd0gAjQRVSQAUCEmYKsTKGYUAbpGF4OY0BoadYKdJMoL+gzAzIoz3UNEiPOofEVKVqAHSKymAAmkYI7NCuqGqcANag8ABmIjQUXrFOKBJMggBcISGgoAC0oACCoASMFmgY7p7ehCTkVOle4jUMdRLYTqCc8LEZzCZmoNJODPHFZZXVtZYYkAAeRJTInDQS8po+rf40gnjbDKv8LqD2jpbYoACqAEoAMsK7sUmxkGSCc+VVQQuaTwVb1UBrDYULY7PagbgUZLJH6QbYmJAECjuMigZEMVDsJzCFLNXxtajBFQAAVQglKFGYQycigQnEENDMAFFVgxEDVIAA1RwUBjSdygAC8oGIqEonGYATIDAkAAMABIwaAYAA6YPA8DI0RVAG4WfA2fB3AEtcwABRcnl89xCyii9wASkpYBwDQ8ZC8iANzhB7Bo3zcZmY7AYzEg-Fg0HUiVF8D0Ii8ACJubz+YIM0kcRnwA5UAByYQAOUgEgzQRUAHlvmRdoI41pIMdUI4FK5pHhQE5AzpRlh9CgEIgYcIruGJAboiIDBwcd0WGwuNwgiUgA</link>
+            <guid>https://www.typescriptlang.org/play?#code/PTAEHUFMBsGMHsC2lQBd5oBYoCoE8AHSAZVgCcBLA1UABWgEM8BzM+AVwDsATAGiwoBnUENANQAd0gAjQRVSQAUCEmYKsTKGYUAbpGF4OY0BoadYKdJMoL+gzAzIoz3UNEiPOofEVKVqAHSKymAAmkYI7NCuqGqcANag8ABmIjQUXrFOKBJMggBcISGgoAC0oACCoASMFmgY7p7ehCTkVOle4jUMdRLYTqCc8LEZzCZmoNJODPHFZZXVtZYYkAAeRJTInDQS8po+rf40gnjbDKv8LqD2jpbYoACqAEoAMsK7sUmxkGSCc+VVQQuaTwVb1UBrDYULY7PagbgUZLJH6QbYmJAECjuMigZEMVDsJzCFLNXxtajBFQAAVQglKFGYQycigQnEENDMAFFVgxEDVIAA1RwUBjSdygAC8oGIqEonGYATIDAkAAMABIwaAYAA6YPA8DI0RVAG4WfA2fB3AEtcwABRcnl89xCyii9wASkpYBwDQ8ZC8iANzhB7Bo3zcZmY7AYzEg-Fg0HUiVF8D0Ii8ACJubz+YIM0kcRnwA5UAByYQAOUgEgzQRUAHlvmRdoI41pIMdUI4FK5pHhQE5AzpRlh9CgEIgYcIruGJAboiIDBwcd0WGwuNwgiUgA</guid>
+            <pubDate>Sat, 15 May 2021 10:18:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Looking for a book on Functional DDD with TypeScript/JavaScript]]></title>
@@ -31,30 +67,6 @@
             <link>https://github.com/typescript-eslint/typescript-eslint/blob/master/packages/eslint-plugin/docs/rules/naming-convention.md</link>
             <guid>https://github.com/typescript-eslint/typescript-eslint/blob/master/packages/eslint-plugin/docs/rules/naming-convention.md</guid>
             <pubDate>Thu, 13 May 2021 15:25:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I used all my brain power to make this: fully-typed tiny decoder library to easily deserialize you data]]></title>
-            <link>https://github.com/michaljanocko/schemawax</link>
-            <guid>https://github.com/michaljanocko/schemawax</guid>
-            <pubDate>Tue, 11 May 2021 14:32:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[String Literal Templates and Tag hierarchies]]></title>
-            <link>https://ikoshelev.azurewebsites.net/search/id/16/Pragmatic-uses-of-TypeScript-type-system-03-Tag-hierarchies-via-Template-Literal-Types</link>
-            <guid>https://ikoshelev.azurewebsites.net/search/id/16/Pragmatic-uses-of-TypeScript-type-system-03-Tag-hierarchies-via-Template-Literal-Types</guid>
-            <pubDate>Tue, 11 May 2021 12:54:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Looking for CloudFormation Resource Templates as Type Definitions]]></title>
-            <link>https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-resource-specification.html</link>
-            <guid>https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-resource-specification.html</guid>
-            <pubDate>Tue, 11 May 2021 02:28:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reactjs + MaterialUI + Typescript = <3]]></title>
-            <link>https://tsh.io/blog/why-typescript/</link>
-            <guid>https://tsh.io/blog/why-typescript/</guid>
-            <pubDate>Mon, 10 May 2021 13:19:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

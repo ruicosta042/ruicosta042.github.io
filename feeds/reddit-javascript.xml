@@ -4,21 +4,39 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Mon, 17 May 2021 07:52:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 May 2021 08:28:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Your /r/javascript recap for the week of May 03 - May 09]]></title>
-            <link>https://github.com/google/zx</link>
-            <guid>https://github.com/google/zx</guid>
-            <pubDate>Mon, 10 May 2021 09:03:24 GMT</pubDate>
+            <title><![CDATA[Your /r/javascript recap for the week of May 10 - May 16]]></title>
+            <link>https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years</link>
+            <guid>https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years</guid>
+            <pubDate>Mon, 17 May 2021 09:03:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Learn.js: A fast introduction to modern programming with javascript]]></title>
-            <link>https://github.com/MarcoWorms/learn.js</link>
-            <guid>https://github.com/MarcoWorms/learn.js</guid>
-            <pubDate>Sun, 16 May 2021 12:39:16 GMT</pubDate>
+            <title><![CDATA[A visualiser to help people learn about the DOM Event system through exploration]]></title>
+            <link>https://domevents.dev/</link>
+            <guid>https://domevents.dev/</guid>
+            <pubDate>Mon, 17 May 2021 23:33:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Typehole – Create TypeScript interfaces from JS runtime values automatically]]></title>
+            <link>https://github.com/rikukissa/typehole</link>
+            <guid>https://github.com/rikukissa/typehole</guid>
+            <pubDate>Mon, 17 May 2021 09:30:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[mechaniac/Map-of-Javascript]]></title>
+            <link>https://github.com/mechaniac/Map-of-Javascript</link>
+            <guid>https://github.com/mechaniac/Map-of-Javascript</guid>
+            <pubDate>Tue, 18 May 2021 07:45:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A* Mazing Thing - demo of an A* pathfinding algorithm encapsulated as JS Class]]></title>
+            <link>https://github.com/ronilan/a-mazing-thing</link>
+            <guid>https://github.com/ronilan/a-mazing-thing</guid>
+            <pubDate>Tue, 18 May 2021 06:22:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[React 17 internally uses the browser's focusin and focusout events for onFocus and onBlur events]]></title>
@@ -27,16 +45,70 @@
             <pubDate>Mon, 17 May 2021 06:04:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A backend dev figuring out modern frontend ecosystem]]></title>
-            <link>https://mkreg.dev/writing/building-my-site</link>
-            <guid>https://mkreg.dev/writing/building-my-site</guid>
-            <pubDate>Sun, 16 May 2021 22:50:38 GMT</pubDate>
+            <title><![CDATA[Full-text search with Node.js and ElasticSearch on Docker]]></title>
+            <link>https://towardsdatascience.com/full-text-search-with-node-js-and-elasticsearch-on-docker-edcea23612fd</link>
+            <guid>https://towardsdatascience.com/full-text-search-with-node-js-and-elasticsearch-on-docker-edcea23612fd</guid>
+            <pubDate>Mon, 17 May 2021 14:52:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My AHA moments when testing with Cypress]]></title>
+            <link>https://blog.piotrnalepa.pl/2021/05/18/my-aha-moments-when-testing-with-cypress/</link>
+            <guid>https://blog.piotrnalepa.pl/2021/05/18/my-aha-moments-when-testing-with-cypress/</guid>
+            <pubDate>Tue, 18 May 2021 06:59:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Page search engine with JavaScript]]></title>
+            <link>https://www.charmingdesk.com.ng/2021/04/09/how-to-perform-a-page-search-using-javascript/</link>
+            <guid>https://www.charmingdesk.com.ng/2021/04/09/how-to-perform-a-page-search-using-javascript/</guid>
+            <pubDate>Tue, 18 May 2021 06:14:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A simple open source pair programming tool proof of concept that requires no special editors.]]></title>
+            <link>https://github.com/three-consulting/ohut?asd</link>
+            <guid>https://github.com/three-consulting/ohut?asd</guid>
+            <pubDate>Tue, 18 May 2021 05:34:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AskJS] Will there be a replacement for the deprecated orientationchange event?]]></title>
+            <link>https://developer.mozilla.org/en-US/docs/Web/API/Window/orientationchange_event</link>
+            <guid>https://developer.mozilla.org/en-US/docs/Web/API/Window/orientationchange_event</guid>
+            <pubDate>Mon, 17 May 2021 08:05:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A modern boilerplate for Vite, React 17, and TypeScript 4.3]]></title>
+            <link>https://blog.jonlu.ca/posts/vite?ref=rj</link>
+            <guid>https://blog.jonlu.ca/posts/vite?ref=rj</guid>
+            <pubDate>Mon, 17 May 2021 13:11:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Learn.js: A fast introduction to modern programming with javascript]]></title>
+            <link>https://github.com/MarcoWorms/learn.js</link>
+            <guid>https://github.com/MarcoWorms/learn.js</guid>
+            <pubDate>Sun, 16 May 2021 12:39:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bugbattle: Feedback & Bug Reporting SDK for JS that offers a screenshot, console & network logs as well session replays]]></title>
+            <link>https://www.bugbattle.io/on-page-bug-reporting-for-websites-javascript/</link>
+            <guid>https://www.bugbattle.io/on-page-bug-reporting-for-websites-javascript/</guid>
+            <pubDate>Mon, 17 May 2021 12:09:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Short builtin calls]]></title>
+            <link>https://v8.dev/blog/short-builtin-calls</link>
+            <guid>https://v8.dev/blog/short-builtin-calls</guid>
+            <pubDate>Mon, 17 May 2021 13:16:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ngx-icon-blur : An Angular component that can be used to create frosted glass effect of icons]]></title>
             <link>https://github.com/wadie/ngx-icon-blur</link>
             <guid>https://github.com/wadie/ngx-icon-blur</guid>
             <pubDate>Sun, 16 May 2021 21:32:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A backend dev figuring out modern frontend ecosystem]]></title>
+            <link>https://mkreg.dev/writing/building-my-site</link>
+            <guid>https://mkreg.dev/writing/building-my-site</guid>
+            <pubDate>Sun, 16 May 2021 22:50:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Modern Javascript: Everything you missed over the last 10 years (ECMAScript 2020)]]></title>
@@ -79,90 +151,6 @@
             <link>https://www.y8.com/games/rps_exclusive</link>
             <guid>https://www.y8.com/games/rps_exclusive</guid>
             <pubDate>Sat, 15 May 2021 11:57:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Map of Javascript]]></title>
-            <link>https://github.com/mechaniac/Map-of-Javascript</link>
-            <guid>https://github.com/mechaniac/Map-of-Javascript</guid>
-            <pubDate>Fri, 14 May 2021 15:47:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dev tool: A Markdown editor for JS developers]]></title>
-            <link>https://dev.to/alagrede/dev-tool-a-markdown-editor-for-developers-1j13</link>
-            <guid>https://dev.to/alagrede/dev-tool-a-markdown-editor-for-developers-1j13</guid>
-            <pubDate>Fri, 14 May 2021 08:08:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[You Think You Can Forget About the “Legacy” Microsoft Edge? Not So Fast!]]></title>
-            <link>https://blog.ailon.org/you-think-you-can-forget-about-the-legacy-microsoft-edge-not-so-fast-28ce91270a22</link>
-            <guid>https://blog.ailon.org/you-think-you-can-forget-about-the-legacy-microsoft-edge-not-so-fast-28ce91270a22</guid>
-            <pubDate>Fri, 14 May 2021 16:17:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Notion-like database built in React]]></title>
-            <link>https://github.com/archit-p/react-notion-table</link>
-            <guid>https://github.com/archit-p/react-notion-table</guid>
-            <pubDate>Fri, 14 May 2021 20:36:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deno, One Year and Two Hundred Patches Later]]></title>
-            <link>https://dev.to/caspervonb/deno-one-year-and-two-hundred-patches-later-3bdd</link>
-            <guid>https://dev.to/caspervonb/deno-one-year-and-two-hundred-patches-later-3bdd</guid>
-            <pubDate>Fri, 14 May 2021 08:21:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Minecraft client written in jJAVASCRIPT!]]></title>
-            <link>https://github.com/michaljaz/webmc</link>
-            <guid>https://github.com/michaljaz/webmc</guid>
-            <pubDate>Fri, 14 May 2021 16:34:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AskJS] Best JavaScript markdown WYSIWYG editors?]]></title>
-            <link>https://github.com/froala/wysiwyg-editor/issues/23</link>
-            <guid>https://github.com/froala/wysiwyg-editor/issues/23</guid>
-            <pubDate>Fri, 14 May 2021 17:35:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Ignite a React Native starter kit for beginners or for experts?]]></title>
-            <link>https://shift.infinite.red/is-ignite-a-react-native-starter-kit-for-beginners-or-for-experts-6b45426366d8</link>
-            <guid>https://shift.infinite.red/is-ignite-a-react-native-starter-kit-for-beginners-or-for-experts-6b45426366d8</guid>
-            <pubDate>Fri, 14 May 2021 17:51:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to build micro-frontends with Angular]]></title>
-            <link>https://blog.beautifulinteractions.com/posts/micro-frontend-with-angular/</link>
-            <guid>https://blog.beautifulinteractions.com/posts/micro-frontend-with-angular/</guid>
-            <pubDate>Fri, 14 May 2021 18:03:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Drop IE11 support plan for Vue 3]]></title>
-            <link>https://github.com/vuejs/rfcs/blob/master/active-rfcs/0038-vue3-ie11-support.md</link>
-            <guid>https://github.com/vuejs/rfcs/blob/master/active-rfcs/0038-vue3-ie11-support.md</guid>
-            <pubDate>Thu, 13 May 2021 13:51:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How JavaScript works: regular expressions (RegExp)]]></title>
-            <link>https://blog.sessionstack.com/how-javascript-works-regular-expressions-regexp-e187e9082913</link>
-            <guid>https://blog.sessionstack.com/how-javascript-works-regular-expressions-regexp-e187e9082913</guid>
-            <pubDate>Fri, 14 May 2021 07:38:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aurora. Website's analytics made easy! Cookieless & Privacy Focus out of the Box. Built in NextJS.]]></title>
-            <link>https://github.com/itsrennyman/aurora/tree/main</link>
-            <guid>https://github.com/itsrennyman/aurora/tree/main</guid>
-            <pubDate>Thu, 13 May 2021 20:59:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AskJS] How the fuck does JSTorrent work?]]></title>
-            <link>https://www.jstorrent.com/</link>
-            <guid>https://www.jstorrent.com/</guid>
-            <pubDate>Fri, 14 May 2021 23:58:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Different "this bindings" and step-by-step process to determine the value of "this" in JavaScript]]></title>
-            <link>https://www.kajanm.com/blog/determining-the-value-of-this-in-js/</link>
-            <guid>https://www.kajanm.com/blog/determining-the-value-of-this-in-js/</guid>
-            <pubDate>Fri, 14 May 2021 11:34:04 GMT</pubDate>
         </item>
     </channel>
 </rss>

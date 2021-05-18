@@ -4,21 +4,45 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Mon, 17 May 2021 07:52:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 May 2021 08:28:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[How To Create An Animated Email Subscription Form With Pure CSS]]></title>
+            <link>https://www.dottedsquirrel.com/how-to-create-an-animated-email-subscription-form-with-pure-css/</link>
+            <guid>https://www.dottedsquirrel.com/how-to-create-an-animated-email-subscription-form-with-pure-css/</guid>
+            <pubDate>Mon, 17 May 2021 23:09:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Interactive CSS Flex Tutorial]]></title>
+            <link>https://semicolon.dev/tutorial/css/flex-tutorial</link>
+            <guid>https://semicolon.dev/tutorial/css/flex-tutorial</guid>
+            <pubDate>Mon, 17 May 2021 16:54:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Simple Menu Navigation Bar Styling]]></title>
+            <link>https://www.dottedsquirrel.com/simple-menu-navigation-bar-styling/</link>
+            <guid>https://www.dottedsquirrel.com/simple-menu-navigation-bar-styling/</guid>
+            <pubDate>Mon, 17 May 2021 11:15:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Column-count works properly in Firefox but not Chrome/Edge]]></title>
+            <link>http://joomla4.liquidwinter.com/</link>
+            <guid>http://joomla4.liquidwinter.com/</guid>
+            <pubDate>Mon, 17 May 2021 19:46:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Help applying transition on WordPress menu]]></title>
+            <link>https://www.superwood.dk/</link>
+            <guid>https://www.superwood.dk/</guid>
+            <pubDate>Mon, 17 May 2021 11:16:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Need help recreating an animation]]></title>
             <link>https://wireless-social.com/</link>
             <guid>https://wireless-social.com/</guid>
             <pubDate>Sun, 16 May 2021 19:07:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CSS Flex Explained in 1 Animation]]></title>
-            <link>https://jstutorial.medium.com/css-flex-explained-in-1-animation-812424d15b8f?sk=5857611f645dd22f224520f35cce3242</link>
-            <guid>https://jstutorial.medium.com/css-flex-explained-in-1-animation-812424d15b8f?sk=5857611f645dd22f224520f35cce3242</guid>
-            <pubDate>Sun, 16 May 2021 18:36:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[css not applying]]></title>
@@ -37,48 +61,6 @@
             <link>https://bkardell.com/blog/canihas.html</link>
             <guid>https://bkardell.com/blog/canihas.html</guid>
             <pubDate>Sun, 16 May 2021 08:12:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Learn 3 common CSS Flex patterns (center, column, grid) in under 10 minutes]]></title>
-            <link>https://semicolon.dev/tutorial/css/learn-css-flex-patterns-in-10-minutes</link>
-            <guid>https://semicolon.dev/tutorial/css/learn-css-flex-patterns-in-10-minutes</guid>
-            <pubDate>Sat, 15 May 2021 15:36:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Creating Stylesheet Feature Flags With Sass !default]]></title>
-            <link>https://css-tricks.com/creating-stylesheet-feature-flags-with-sass-default/</link>
-            <guid>https://css-tricks.com/creating-stylesheet-feature-flags-with-sass-default/</guid>
-            <pubDate>Sat, 15 May 2021 23:06:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[how to make materialize collapsible take full width?]]></title>
-            <link>https://materializecss.com/collapsible.html</link>
-            <guid>https://materializecss.com/collapsible.html</guid>
-            <pubDate>Sat, 15 May 2021 15:59:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bootstrap cdn style sheet overrides custom style sheet.]]></title>
-            <link>https://github.com/wsa138/bootstrap-practice</link>
-            <guid>https://github.com/wsa138/bootstrap-practice</guid>
-            <pubDate>Sat, 15 May 2021 01:02:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Generative Art With CSS]]></title>
-            <link>https://yuanchuan.dev/talk/generative-art-with-css/</link>
-            <guid>https://yuanchuan.dev/talk/generative-art-with-css/</guid>
-            <pubDate>Sat, 15 May 2021 12:58:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[margin-margin-revolution.css - Never forget the CSS margin order again!]]></title>
-            <link>https://defaced.dev/web/margin-margin-revolution/</link>
-            <guid>https://defaced.dev/web/margin-margin-revolution/</guid>
-            <pubDate>Fri, 14 May 2021 18:03:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CSS children]]></title>
-            <link>https://codeskip.net/shop/mens-minimalist-ultra-thin-stainless-steel-quartz-watch-2/</link>
-            <guid>https://codeskip.net/shop/mens-minimalist-ultra-thin-stainless-steel-quartz-watch-2/</guid>
-            <pubDate>Fri, 14 May 2021 20:50:29 GMT</pubDate>
         </item>
     </channel>
 </rss>

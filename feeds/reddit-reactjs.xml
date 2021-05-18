@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Mon, 17 May 2021 07:52:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 May 2021 08:28:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,70 +15,64 @@
             <pubDate>Sat, 01 May 2021 18:04:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How do you delegate validation to child input components on a huge Form]]></title>
+            <link>https://react-hook-form.com/api/useform/trigger</link>
+            <guid>https://react-hook-form.com/api/useform/trigger</guid>
+            <pubDate>Tue, 18 May 2021 07:18:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[shallowEqualWarnInDev.ts: A strict React.memo memoization function, built off the one that comes built-in, that throws an error (in dev) if props change between renders. Props you want to allow can be passed in as arguments.]]></title>
+            <link>https://gist.github.com/tvler/eeff76e58d2f1d3ce8320ba96cfd2efe</link>
+            <guid>https://gist.github.com/tvler/eeff76e58d2f1d3ce8320ba96cfd2efe</guid>
+            <pubDate>Mon, 17 May 2021 21:59:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[So you think you know everything about React refs]]></title>
+            <link>https://thoughtspile.github.io/2021/05/17/everything-about-react-refs/</link>
+            <guid>https://thoughtspile.github.io/2021/05/17/everything-about-react-refs/</guid>
+            <pubDate>Mon, 17 May 2021 18:37:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Aspire.app - Homepage for Developers. Launching 10 New Features including Github Highlights]]></title>
+            <link>https://aspire.app/d</link>
+            <guid>https://aspire.app/d</guid>
+            <pubDate>Mon, 17 May 2021 22:13:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I've develop a complete e-commerce with Next.js + React. Would you mind to share your thoughts?]]></title>
+            <link>https://mesaysillas.es/</link>
+            <guid>https://mesaysillas.es/</guid>
+            <pubDate>Mon, 17 May 2021 12:57:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I've been working on a 3D Function Renderer to practice ReactJS and Three.js]]></title>
             <link>https://streamable.com/6s3vvj</link>
             <guid>https://streamable.com/6s3vvj</guid>
             <pubDate>Sun, 16 May 2021 19:03:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Implement Authentication in React Application using LoginRadius CLI in 5 mins · LoginRadius Engineering]]></title>
-            <link>https://www.loginradius.com/blog/async/implement-authentication-in-react-using-loginradius-cli/</link>
-            <guid>https://www.loginradius.com/blog/async/implement-authentication-in-react-using-loginradius-cli/</guid>
-            <pubDate>Mon, 17 May 2021 06:01:31 GMT</pubDate>
+            <title><![CDATA[AWS + H3 + Maps + ReactNative = Hexagonal Geospatial GPS Data Visualization App]]></title>
+            <link>https://thekevinwang.com/2021/05/17/hexagonal-geospatial-gps-data-visualization/</link>
+            <guid>https://thekevinwang.com/2021/05/17/hexagonal-geospatial-gps-data-visualization/</guid>
+            <pubDate>Mon, 17 May 2021 21:40:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Want to give back to the open-source community. React components for d3]]></title>
-            <link>https://github.com/mdshamoon/react-d3-graphs</link>
-            <guid>https://github.com/mdshamoon/react-d3-graphs</guid>
-            <pubDate>Mon, 17 May 2021 02:51:58 GMT</pubDate>
+            <title><![CDATA[Open Source/Free suggestions for a table component with drag n drop grouping/Aggregation with server side api]]></title>
+            <link>https://plnkr.co/edit/?p=preview&amp;preview</link>
+            <guid>https://plnkr.co/edit/?p=preview&amp;preview</guid>
+            <pubDate>Mon, 17 May 2021 23:22:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React 17 internally uses the browser's focusin and focusout events for onFocus and onBlur events]]></title>
-            <link>https://blog.saeloun.com/2021/05/14/react-17-uses-browse-focusin-focusout-for-onfocus-onblur</link>
-            <guid>https://blog.saeloun.com/2021/05/14/react-17-uses-browse-focusin-focusout-for-onfocus-onblur</guid>
-            <pubDate>Sun, 16 May 2021 14:34:53 GMT</pubDate>
+            <title><![CDATA[How should I change a class-based component to function-based?]]></title>
+            <link>https://drive.google.com/file/d/1YSSMTGkxzeH1R1V2rgQkwl1QwxnoXtuq/view?usp=sharing</link>
+            <guid>https://drive.google.com/file/d/1YSSMTGkxzeH1R1V2rgQkwl1QwxnoXtuq/view?usp=sharing</guid>
+            <pubDate>Mon, 17 May 2021 22:41:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I made an app using Next.JS that lets you plan weekend hangouts with friends]]></title>
-            <link>https://flocktogether-v2.vercel.app/</link>
-            <guid>https://flocktogether-v2.vercel.app/</guid>
-            <pubDate>Mon, 17 May 2021 03:26:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Improving React application performance: React.memo vs useMemo]]></title>
-            <link>https://blog.asayer.io/improving-react-application-performance-react-memo-vs-usememo</link>
-            <guid>https://blog.asayer.io/improving-react-application-performance-react-memo-vs-usememo</guid>
-            <pubDate>Mon, 17 May 2021 06:30:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React 17 internally uses the browser's focusin and focusout events for onFocus and onBlur events]]></title>
-            <link>https://blog.saeloun.com/2021/05/14/react-17-uses-browse-focusin-focusout-for-onfocus-onblur</link>
-            <guid>https://blog.saeloun.com/2021/05/14/react-17-uses-browse-focusin-focusout-for-onfocus-onblur</guid>
-            <pubDate>Mon, 17 May 2021 06:04:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Examples of large production-grade, open-source React apps]]></title>
-            <link>https://maxrozen.com/examples-of-large-production-grade-open-source-react-apps</link>
-            <guid>https://maxrozen.com/examples-of-large-production-grade-open-source-react-apps</guid>
-            <pubDate>Sun, 16 May 2021 07:57:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Review my portfolio (again)]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Sun, 16 May 2021 22:40:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A customisable, type-safe, out-of-the-box UI library for React-Table 7. (WIP - Any feedback and contributions are welcome.)]]></title>
-            <link>https://github.com/GuptaSiddhant/react-table-ui</link>
-            <guid>https://github.com/GuptaSiddhant/react-table-ui</guid>
-            <pubDate>Sun, 16 May 2021 11:57:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Should 'POST' api calls go in useEffect? Aren't they sideeffects?]]></title>
-            <link>https://docs.amplify.aws/start/getting-started/data-model/q/integration/react#connect-frontend-to-api</link>
-            <guid>https://docs.amplify.aws/start/getting-started/data-model/q/integration/react#connect-frontend-to-api</guid>
-            <pubDate>Sun, 16 May 2021 15:53:51 GMT</pubDate>
+            <title><![CDATA[Do you know any libraries for DnD workflow-ui with nodes?]]></title>
+            <link>https://www.google.com/search?q=chatbot+builder&amp;rlz=1C5CHFA_enCA952CA952&amp;sxsrf=ALeKk02b3jaCd7pr45edJ0QYmP2FNS9TxQ:1621289645799&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwjyrKnL3tHwAhWBr54KHasdC6YQ_AUoAXoECAEQAw&amp;biw=1680&amp;bih=971#imgrc=mtZOCSCsSCq9WM</link>
+            <guid>https://www.google.com/search?q=chatbot+builder&amp;rlz=1C5CHFA_enCA952CA952&amp;sxsrf=ALeKk02b3jaCd7pr45edJ0QYmP2FNS9TxQ:1621289645799&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwjyrKnL3tHwAhWBr54KHasdC6YQ_AUoAXoECAEQAw&amp;biw=1680&amp;bih=971#imgrc=mtZOCSCsSCq9WM</guid>
+            <pubDate>Mon, 17 May 2021 22:26:26 GMT</pubDate>
         </item>
     </channel>
 </rss>

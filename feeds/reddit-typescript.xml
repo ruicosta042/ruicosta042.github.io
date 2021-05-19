@@ -4,10 +4,40 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Mon, 17 May 2021 07:52:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 May 2021 07:52:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[TypeScript Utility Types Explained]]></title>
+            <link>https://jeroenouw.medium.com/typescript-utility-types-explained-6584b0306bd1?source=friends_link&amp;sk=43903202e91b6ffb7e2d1df2547b5c53</link>
+            <guid>https://jeroenouw.medium.com/typescript-utility-types-explained-6584b0306bd1?source=friends_link&amp;sk=43903202e91b6ffb7e2d1df2547b5c53</guid>
+            <pubDate>Tue, 18 May 2021 16:39:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bug? Function accepts Object with missing prop when defined to accept union of type A and B where B extends A.]]></title>
+            <link>https://www.typescriptlang.org/play?ts=4.4.0-dev.20210518#code/JYOwLgpgTgZghgYwgAgILIN4ChnLgfgC5kBnMKUAcwG4dkAjIhge2YBsI4RaBfLLUJFiIUAIWQQAHpBAATEmmy5Jxeqw5dauAJ7EyFEDSx8sMAK4gEYYMxDIADgbABhVlFkAKe2GLoAPsiiAJSYdAi2JOwQAHRszJQeAEQAKgAWKOHM7qBwkADkCpLIAG5wbGYowAqJyADUDmDRcEFayOEgkRyx8UlpGW6yOfkK2iVlFchVyDX13tH0LcZYjoKuWZ4YeMSJcCSyMIkANAzE5BM8i8tOa+4eGHDbu-tHyCrI8GwkEBfUQA</link>
+            <guid>https://www.typescriptlang.org/play?ts=4.4.0-dev.20210518#code/JYOwLgpgTgZghgYwgAgILIN4ChnLgfgC5kBnMKUAcwG4dkAjIhge2YBsI4RaBfLLUJFiIUAIWQQAHpBAATEmmy5Jxeqw5dauAJ7EyFEDSx8sMAK4gEYYMxDIADgbABhVlFkAKe2GLoAPsiiAJSYdAi2JOwQAHRszJQeAEQAKgAWKOHM7qBwkADkCpLIAG5wbGYowAqJyADUDmDRcEFayOEgkRyx8UlpGW6yOfkK2iVlFchVyDX13tH0LcZYjoKuWZ4YeMSJcCSyMIkANAzE5BM8i8tOa+4eGHDbu-tHyCrI8GwkEBfUQA</guid>
+            <pubDate>Tue, 18 May 2021 16:52:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[fp-army-knife]]></title>
+            <link>https://github.com/nrdlab/fp-army-knife</link>
+            <guid>https://github.com/nrdlab/fp-army-knife</guid>
+            <pubDate>Tue, 18 May 2021 19:25:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Branding & Flavoring]]></title>
+            <link>https://brightinventions.pl/blog/branding-flavoring/</link>
+            <guid>https://brightinventions.pl/blog/branding-flavoring/</guid>
+            <pubDate>Tue, 18 May 2021 11:47:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[Ask] How dyou get mongoose document to read its values]]></title>
+            <link>https://date.now/</link>
+            <guid>https://date.now/</guid>
+            <pubDate>Tue, 18 May 2021 12:51:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[declarative-tree : a library to convert strings to trees and vice versa]]></title>
             <link>https://www.npmjs.com/package/declarative-tree</link>
@@ -39,34 +69,10 @@
             <pubDate>Fri, 14 May 2021 22:01:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[T.S. vs J.S.: 7 Powerful Ways To Know TypeScript language]]></title>
-            <link>https://untiedblogs.com/t-s-vs-j-s-7-powerful-ways-to-know-typescript-language/</link>
-            <guid>https://untiedblogs.com/t-s-vs-j-s-7-powerful-ways-to-know-typescript-language/</guid>
-            <pubDate>Sun, 16 May 2021 05:44:50 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[String.raw \x - compiler error]]></title>
             <link>https://www.typescriptlang.org/play?#code/PTAEHUFMBsGMHsC2lQBd5oBYoCoE8AHSAZVgCcBLA1UABWgEM8BzM+AVwDsATAGiwoBnUENANQAd0gAjQRVSQAUCEmYKsTKGYUAbpGF4OY0BoadYKdJMoL+gzAzIoz3UNEiPOofEVKVqAHSKymAAmkYI7NCuqGqcANag8ABmIjQUXrFOKBJMggBcISGgoAC0oACCoASMFmgY7p7ehCTkVOle4jUMdRLYTqCc8LEZzCZmoNJODPHFZZXVtZYYkAAeRJTInDQS8po+rf40gnjbDKv8LqD2jpbYoACqAEoAMsK7sUmxkGSCc+VVQQuaTwVb1UBrDYULY7PagbgUZLJH6QbYmJAECjuMigZEMVDsJzCFLNXxtajBFQAAVQglKFGYQycigQnEENDMAFFVgxEDVIAA1RwUBjSdygAC8oGIqEonGYATIDAkAAMABIwaAYAA6YPA8DI0RVAG4WfA2fB3AEtcwABRcnl89xCyii9wASkpYBwDQ8ZC8iANzhB7Bo3zcZmY7AYzEg-Fg0HUiVF8D0Ii8ACJubz+YIM0kcRnwA5UAByYQAOUgEgzQRUAHlvmRdoI41pIMdUI4FK5pHhQE5AzpRlh9CgEIgYcIruGJAboiIDBwcd0WGwuNwgiUgA</link>
             <guid>https://www.typescriptlang.org/play?#code/PTAEHUFMBsGMHsC2lQBd5oBYoCoE8AHSAZVgCcBLA1UABWgEM8BzM+AVwDsATAGiwoBnUENANQAd0gAjQRVSQAUCEmYKsTKGYUAbpGF4OY0BoadYKdJMoL+gzAzIoz3UNEiPOofEVKVqAHSKymAAmkYI7NCuqGqcANag8ABmIjQUXrFOKBJMggBcISGgoAC0oACCoASMFmgY7p7ehCTkVOle4jUMdRLYTqCc8LEZzCZmoNJODPHFZZXVtZYYkAAeRJTInDQS8po+rf40gnjbDKv8LqD2jpbYoACqAEoAMsK7sUmxkGSCc+VVQQuaTwVb1UBrDYULY7PagbgUZLJH6QbYmJAECjuMigZEMVDsJzCFLNXxtajBFQAAVQglKFGYQycigQnEENDMAFFVgxEDVIAA1RwUBjSdygAC8oGIqEonGYATIDAkAAMABIwaAYAA6YPA8DI0RVAG4WfA2fB3AEtcwABRcnl89xCyii9wASkpYBwDQ8ZC8iANzhB7Bo3zcZmY7AYzEg-Fg0HUiVF8D0Ii8ACJubz+YIM0kcRnwA5UAByYQAOUgEgzQRUAHlvmRdoI41pIMdUI4FK5pHhQE5AzpRlh9CgEIgYcIruGJAboiIDBwcd0WGwuNwgiUgA</guid>
             <pubDate>Sat, 15 May 2021 10:18:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Looking for a book on Functional DDD with TypeScript/JavaScript]]></title>
-            <link>https://www.amazon.com/Functional-Reactive-Domain-Modeling-Debasish/dp/1617292249/ref=sr_1_1?crid=1R8Z8OUW3VEI6&amp;dchild=1&amp;keywords=functional+and+reactive+domain+modeling&amp;qid=1620917098&amp;sprefix=functional+and+reactive+%2Caps%2C599&amp;sr=8-1</link>
-            <guid>https://www.amazon.com/Functional-Reactive-Domain-Modeling-Debasish/dp/1617292249/ref=sr_1_1?crid=1R8Z8OUW3VEI6&amp;dchild=1&amp;keywords=functional+and+reactive+domain+modeling&amp;qid=1620917098&amp;sprefix=functional+and+reactive+%2Caps%2C599&amp;sr=8-1</guid>
-            <pubDate>Thu, 13 May 2021 14:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Announcing TypeScript 4.3 RC]]></title>
-            <link>https://devblogs.microsoft.com/typescript/announcing-typescript-4-3-rc/</link>
-            <guid>https://devblogs.microsoft.com/typescript/announcing-typescript-4-3-rc/</guid>
-            <pubDate>Wed, 12 May 2021 22:34:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Question: How to overwrite the default typescript-eslint/naming-convention linter rule]]></title>
-            <link>https://github.com/typescript-eslint/typescript-eslint/blob/master/packages/eslint-plugin/docs/rules/naming-convention.md</link>
-            <guid>https://github.com/typescript-eslint/typescript-eslint/blob/master/packages/eslint-plugin/docs/rules/naming-convention.md</guid>
-            <pubDate>Thu, 13 May 2021 15:25:17 GMT</pubDate>
         </item>
     </channel>
 </rss>

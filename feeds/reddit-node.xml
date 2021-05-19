@@ -4,15 +4,63 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Tue, 18 May 2021 08:28:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 May 2021 07:52:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Deploy an autoscalable a Node.js HTTP server to AWS in a few minutes!]]></title>
+            <link>https://docs.anycloudapp.com/documentation/tutorials/aws-node</link>
+            <guid>https://docs.anycloudapp.com/documentation/tutorials/aws-node</guid>
+            <pubDate>Tue, 18 May 2021 21:10:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is there a library for rate limiting by API key?]]></title>
+            <link>https://www.npmjs.com/package/express-rate-limit</link>
+            <guid>https://www.npmjs.com/package/express-rate-limit</guid>
+            <pubDate>Wed, 19 May 2021 07:03:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Minimal Node.js boilerplate with Prettier and ESlint]]></title>
+            <link>https://github.com/MaximilianHagelstam/node-starter</link>
+            <guid>https://github.com/MaximilianHagelstam/node-starter</guid>
+            <pubDate>Wed, 19 May 2021 05:44:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Ultimate Guide to Building a no-code WhatsApp bot in 2021]]></title>
+            <link>https://wotnot.io/blog/guide-to-create-whatsapp-bot/</link>
+            <guid>https://wotnot.io/blog/guide-to-create-whatsapp-bot/</guid>
+            <pubDate>Wed, 19 May 2021 04:38:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NODEJS + GOOGLE SHEETS]]></title>
+            <link>https://javascript.plainenglish.io/how-to-use-node-js-with-google-sheets-c256c26e10fc</link>
+            <guid>https://javascript.plainenglish.io/how-to-use-node-js-with-google-sheets-c256c26e10fc</guid>
+            <pubDate>Wed, 19 May 2021 02:53:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A simple open source pair programming prototype that requires no special editors to keep the files in sync.]]></title>
+            <link>https://github.com/three-consulting/ohut</link>
+            <guid>https://github.com/three-consulting/ohut</guid>
+            <pubDate>Tue, 18 May 2021 13:01:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Overloaded connection pool with bad MySQL driver implementation]]></title>
             <link>https://www.alxolr.com/articles/overloaded-connection-pool-with-bad-mysql-driver-implementation</link>
             <guid>https://www.alxolr.com/articles/overloaded-connection-pool-with-bad-mysql-driver-implementation</guid>
             <pubDate>Tue, 18 May 2021 07:07:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Build a video call app with node and webRTC]]></title>
+            <link>https://piyushgarg.hashnode.dev/build-video-chat-application-with-webrtc</link>
+            <guid>https://piyushgarg.hashnode.dev/build-video-chat-application-with-webrtc</guid>
+            <pubDate>Tue, 18 May 2021 13:07:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WhatsApp chatbot suggestions]]></title>
+            <link>https://github.com/unknowncode44/argencab_driver</link>
+            <guid>https://github.com/unknowncode44/argencab_driver</guid>
+            <pubDate>Tue, 18 May 2021 16:08:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AWS Lambda support for Node.js 10 is becoming to an end in August 2021. It’s time to switch!]]></title>
@@ -21,40 +69,16 @@
             <pubDate>Mon, 17 May 2021 15:31:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Error: listen EACCES: permission denied 127.0.0.1]]></title>
-            <link>https://nodejs.org/en/docs/guides/getting-started-guide/</link>
-            <guid>https://nodejs.org/en/docs/guides/getting-started-guide/</guid>
-            <pubDate>Tue, 18 May 2021 01:49:59 GMT</pubDate>
+            <title><![CDATA[Configuring TypeScript: options rootDir, outDir, module, target | TypeScript Anthology]]></title>
+            <link>https://mxkvl.com/blog/article/configuring-typescript-options-rootdir-outdir-module-target</link>
+            <guid>https://mxkvl.com/blog/article/configuring-typescript-options-rootdir-outdir-module-target</guid>
+            <pubDate>Tue, 18 May 2021 17:20:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Range types in PostgreSQL and TypeORM]]></title>
-            <link>https://wanago.io/2021/05/17/range-types-postgresql-typeorm/</link>
-            <guid>https://wanago.io/2021/05/17/range-types-postgresql-typeorm/</guid>
-            <pubDate>Mon, 17 May 2021 17:39:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Understanding Async Resources with Async Hooks]]></title>
-            <link>https://blog.insiderattack.net/understanding-async-resources-with-async-hooks-3416de574f30</link>
-            <guid>https://blog.insiderattack.net/understanding-async-resources-with-async-hooks-3416de574f30</guid>
-            <pubDate>Mon, 17 May 2021 01:25:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deferring Side-Effects in Node.js until the End of a Transaction]]></title>
-            <link>https://www.grouparoo.com/blog/defering-side-effects-in-node</link>
-            <guid>https://www.grouparoo.com/blog/defering-side-effects-in-node</guid>
-            <pubDate>Mon, 17 May 2021 18:06:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Testing sessionStorage and localStorage with Selenium (Node)]]></title>
-            <link>https://www.grouparoo.com/blog/testing-session-storage-selenium-node</link>
-            <guid>https://www.grouparoo.com/blog/testing-session-storage-selenium-node</guid>
-            <pubDate>Mon, 17 May 2021 18:02:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Using Node.js with Googe sheets]]></title>
-            <link>https://javascript.plainenglish.io/how-to-use-node-js-with-google-sheets-c256c26e10fc</link>
-            <guid>https://javascript.plainenglish.io/how-to-use-node-js-with-google-sheets-c256c26e10fc</guid>
-            <pubDate>Mon, 17 May 2021 11:01:27 GMT</pubDate>
+            <title><![CDATA[fp-army-knife]]></title>
+            <link>https://github.com/nrdlab/fp-army-knife</link>
+            <guid>https://github.com/nrdlab/fp-army-knife</guid>
+            <pubDate>Tue, 18 May 2021 19:26:51 GMT</pubDate>
         </item>
     </channel>
 </rss>

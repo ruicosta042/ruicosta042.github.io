@@ -4,10 +4,52 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Tue, 18 May 2021 08:28:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 May 2021 07:52:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[How To Create A Circular Progress Bar using HTML CSS & Simple JavaScript]]></title>
+            <link>https://www.dottedsquirrel.com/circular-progress-css/</link>
+            <guid>https://www.dottedsquirrel.com/circular-progress-css/</guid>
+            <pubDate>Tue, 18 May 2021 21:47:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Free and Open Source UI Components Library for Vue 3 [x-post from r/javascript]]]></title>
+            <link>https://github.com/epicmaxco/vuestic-ui</link>
+            <guid>https://github.com/epicmaxco/vuestic-ui</guid>
+            <pubDate>Tue, 18 May 2021 12:38:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Force style a top-down left-right list to always display as 4-columns?]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Tue, 18 May 2021 19:45:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jerky transition with splidejs carousel?]]></title>
+            <link>https://splidejs.com/</link>
+            <guid>https://splidejs.com/</guid>
+            <pubDate>Tue, 18 May 2021 17:44:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to show ellipsis for overflowed text when using flexbox?]]></title>
+            <link>https://jsfiddle.net/2s9wzybq/</link>
+            <guid>https://jsfiddle.net/2s9wzybq/</guid>
+            <pubDate>Tue, 18 May 2021 20:20:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How To Make A Responsive Background Image Using CSS?]]></title>
+            <link>https://www.lambdatest.com/blog/how-to-make-a-responsive-background-image-using-css/?utm_source=Reddit&amp;utm_medium=blog&amp;utm_campaign=PM-180521-1&amp;utm_term=OrganicPosting</link>
+            <guid>https://www.lambdatest.com/blog/how-to-make-a-responsive-background-image-using-css/?utm_source=Reddit&amp;utm_medium=blog&amp;utm_campaign=PM-180521-1&amp;utm_term=OrganicPosting</guid>
+            <pubDate>Tue, 18 May 2021 14:08:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No, Utility Classes Aren't the Same As Inline Styles]]></title>
+            <link>https://frontstuff.io/no-utility-classes-arent-the-same-as-inline-styles</link>
+            <guid>https://frontstuff.io/no-utility-classes-arent-the-same-as-inline-styles</guid>
+            <pubDate>Tue, 18 May 2021 12:54:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How To Create An Animated Email Subscription Form With Pure CSS]]></title>
             <link>https://www.dottedsquirrel.com/how-to-create-an-animated-email-subscription-form-with-pure-css/</link>
@@ -19,48 +61,6 @@
             <link>https://semicolon.dev/tutorial/css/flex-tutorial</link>
             <guid>https://semicolon.dev/tutorial/css/flex-tutorial</guid>
             <pubDate>Mon, 17 May 2021 16:54:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Simple Menu Navigation Bar Styling]]></title>
-            <link>https://www.dottedsquirrel.com/simple-menu-navigation-bar-styling/</link>
-            <guid>https://www.dottedsquirrel.com/simple-menu-navigation-bar-styling/</guid>
-            <pubDate>Mon, 17 May 2021 11:15:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Column-count works properly in Firefox but not Chrome/Edge]]></title>
-            <link>http://joomla4.liquidwinter.com/</link>
-            <guid>http://joomla4.liquidwinter.com/</guid>
-            <pubDate>Mon, 17 May 2021 19:46:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Help applying transition on WordPress menu]]></title>
-            <link>https://www.superwood.dk/</link>
-            <guid>https://www.superwood.dk/</guid>
-            <pubDate>Mon, 17 May 2021 11:16:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Need help recreating an animation]]></title>
-            <link>https://wireless-social.com/</link>
-            <guid>https://wireless-social.com/</guid>
-            <pubDate>Sun, 16 May 2021 19:07:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[css not applying]]></title>
-            <link>https://replit.com/@ChrisTurindwa/test-2#index.php</link>
-            <guid>https://replit.com/@ChrisTurindwa/test-2#index.php</guid>
-            <pubDate>Sun, 16 May 2021 18:23:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10 HTML Semantic Tags and When to Use Them]]></title>
-            <link>https://link.medium.com/Dl2p9euuigb</link>
-            <guid>https://link.medium.com/Dl2p9euuigb</guid>
-            <pubDate>Sun, 16 May 2021 05:01:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can I :has()]]></title>
-            <link>https://bkardell.com/blog/canihas.html</link>
-            <guid>https://bkardell.com/blog/canihas.html</guid>
-            <pubDate>Sun, 16 May 2021 08:12:13 GMT</pubDate>
         </item>
     </channel>
 </rss>

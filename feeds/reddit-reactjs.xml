@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Tue, 18 May 2021 08:28:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 May 2021 07:52:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,64 +15,82 @@
             <pubDate>Sat, 01 May 2021 18:04:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How do you delegate validation to child input components on a huge Form]]></title>
-            <link>https://react-hook-form.com/api/useform/trigger</link>
-            <guid>https://react-hook-form.com/api/useform/trigger</guid>
-            <pubDate>Tue, 18 May 2021 07:18:10 GMT</pubDate>
+            <title><![CDATA[Next.js Conf – Claim your ticket, chat, and interact in real-time]]></title>
+            <link>https://nextjs.org/conf</link>
+            <guid>https://nextjs.org/conf</guid>
+            <pubDate>Tue, 18 May 2021 21:15:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[shallowEqualWarnInDev.ts: A strict React.memo memoization function, built off the one that comes built-in, that throws an error (in dev) if props change between renders. Props you want to allow can be passed in as arguments.]]></title>
-            <link>https://gist.github.com/tvler/eeff76e58d2f1d3ce8320ba96cfd2efe</link>
-            <guid>https://gist.github.com/tvler/eeff76e58d2f1d3ce8320ba96cfd2efe</guid>
-            <pubDate>Mon, 17 May 2021 21:59:19 GMT</pubDate>
+            <title><![CDATA[How to update state from props in React]]></title>
+            <link>https://www.robinwieruch.de/react-derive-state-props</link>
+            <guid>https://www.robinwieruch.de/react-derive-state-props</guid>
+            <pubDate>Wed, 19 May 2021 07:51:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[So you think you know everything about React refs]]></title>
-            <link>https://thoughtspile.github.io/2021/05/17/everything-about-react-refs/</link>
-            <guid>https://thoughtspile.github.io/2021/05/17/everything-about-react-refs/</guid>
-            <pubDate>Mon, 17 May 2021 18:37:39 GMT</pubDate>
+            <title><![CDATA[How to efficiently reuse stories in your React tests]]></title>
+            <link>https://medium.com/storybookjs/testing-lib-storybook-react-8c36716fab86</link>
+            <guid>https://medium.com/storybookjs/testing-lib-storybook-react-8c36716fab86</guid>
+            <pubDate>Tue, 18 May 2021 15:16:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Aspire.app - Homepage for Developers. Launching 10 New Features including Github Highlights]]></title>
-            <link>https://aspire.app/d</link>
-            <guid>https://aspire.app/d</guid>
-            <pubDate>Mon, 17 May 2021 22:13:05 GMT</pubDate>
+            <title><![CDATA[Fireact — The open source project for you to fast track your next web app with Firebase and React]]></title>
+            <link>https://medium.com/@chaoming_li/fireact-the-open-source-project-for-you-to-fast-track-your-next-web-app-with-firebase-and-react-5ab98dcf9c93?source=friends_link&amp;sk=e3a224c2033a504d82d45dc7be7b3177</link>
+            <guid>https://medium.com/@chaoming_li/fireact-the-open-source-project-for-you-to-fast-track-your-next-web-app-with-firebase-and-react-5ab98dcf9c93?source=friends_link&amp;sk=e3a224c2033a504d82d45dc7be7b3177</guid>
+            <pubDate>Tue, 18 May 2021 12:56:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I've develop a complete e-commerce with Next.js + React. Would you mind to share your thoughts?]]></title>
-            <link>https://mesaysillas.es/</link>
-            <guid>https://mesaysillas.es/</guid>
-            <pubDate>Mon, 17 May 2021 12:57:26 GMT</pubDate>
+            <title><![CDATA[How to avoid calling the APIs until the state is updated in React functional component in useEffect()?]]></title>
+            <link>https://github.com/SigNoz/signoz/blob/main/frontend/src/modules/Nav/TopNav/config.ts#L3</link>
+            <guid>https://github.com/SigNoz/signoz/blob/main/frontend/src/modules/Nav/TopNav/config.ts#L3</guid>
+            <pubDate>Tue, 18 May 2021 15:26:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I've been working on a 3D Function Renderer to practice ReactJS and Three.js]]></title>
-            <link>https://streamable.com/6s3vvj</link>
-            <guid>https://streamable.com/6s3vvj</guid>
-            <pubDate>Sun, 16 May 2021 19:03:36 GMT</pubDate>
+            <title><![CDATA[Which JS course you’d recommend me?]]></title>
+            <link>https://www.codecademy.com/learn/introduction-to-javascript</link>
+            <guid>https://www.codecademy.com/learn/introduction-to-javascript</guid>
+            <pubDate>Wed, 19 May 2021 01:48:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AWS + H3 + Maps + ReactNative = Hexagonal Geospatial GPS Data Visualization App]]></title>
-            <link>https://thekevinwang.com/2021/05/17/hexagonal-geospatial-gps-data-visualization/</link>
-            <guid>https://thekevinwang.com/2021/05/17/hexagonal-geospatial-gps-data-visualization/</guid>
-            <pubDate>Mon, 17 May 2021 21:40:26 GMT</pubDate>
+            <title><![CDATA[React and the ContextAPI]]></title>
+            <link>https://dev.to/sumodevelopment/react-contextapi-and-state-133k</link>
+            <guid>https://dev.to/sumodevelopment/react-contextapi-and-state-133k</guid>
+            <pubDate>Tue, 18 May 2021 18:48:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Open Source/Free suggestions for a table component with drag n drop grouping/Aggregation with server side api]]></title>
-            <link>https://plnkr.co/edit/?p=preview&amp;preview</link>
-            <guid>https://plnkr.co/edit/?p=preview&amp;preview</guid>
-            <pubDate>Mon, 17 May 2021 23:22:07 GMT</pubDate>
+            <title><![CDATA[Class to functional components]]></title>
+            <link>https://codesandbox.io/s/spring-wildflower-dkjhi</link>
+            <guid>https://codesandbox.io/s/spring-wildflower-dkjhi</guid>
+            <pubDate>Tue, 18 May 2021 23:20:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How should I change a class-based component to function-based?]]></title>
-            <link>https://drive.google.com/file/d/1YSSMTGkxzeH1R1V2rgQkwl1QwxnoXtuq/view?usp=sharing</link>
-            <guid>https://drive.google.com/file/d/1YSSMTGkxzeH1R1V2rgQkwl1QwxnoXtuq/view?usp=sharing</guid>
-            <pubDate>Mon, 17 May 2021 22:41:15 GMT</pubDate>
+            <title><![CDATA[Help with Jotai: making selector]]></title>
+            <link>https://data.id/</link>
+            <guid>https://data.id/</guid>
+            <pubDate>Tue, 18 May 2021 21:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Do you know any libraries for DnD workflow-ui with nodes?]]></title>
-            <link>https://www.google.com/search?q=chatbot+builder&amp;rlz=1C5CHFA_enCA952CA952&amp;sxsrf=ALeKk02b3jaCd7pr45edJ0QYmP2FNS9TxQ:1621289645799&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwjyrKnL3tHwAhWBr54KHasdC6YQ_AUoAXoECAEQAw&amp;biw=1680&amp;bih=971#imgrc=mtZOCSCsSCq9WM</link>
-            <guid>https://www.google.com/search?q=chatbot+builder&amp;rlz=1C5CHFA_enCA952CA952&amp;sxsrf=ALeKk02b3jaCd7pr45edJ0QYmP2FNS9TxQ:1621289645799&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwjyrKnL3tHwAhWBr54KHasdC6YQ_AUoAXoECAEQAw&amp;biw=1680&amp;bih=971#imgrc=mtZOCSCsSCq9WM</guid>
-            <pubDate>Mon, 17 May 2021 22:26:26 GMT</pubDate>
+            <title><![CDATA[fp-army-knife]]></title>
+            <link>https://github.com/nrdlab/fp-army-knife</link>
+            <guid>https://github.com/nrdlab/fp-army-knife</guid>
+            <pubDate>Tue, 18 May 2021 19:27:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Looking for a way to restrict access to a page in your website? Find out how I embedded DocuSign in mine using React! Feedback welcome :)]]></title>
+            <link>https://blog.theodo.com/2021/04/embed-docusign-electronic-signature/</link>
+            <guid>https://blog.theodo.com/2021/04/embed-docusign-electronic-signature/</guid>
+            <pubDate>Tue, 18 May 2021 13:27:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Update nested array]]></title>
+            <link>https://codesandbox.io/s/multiple-input-fields-8hwuf?file=/src/components/App.jsx</link>
+            <guid>https://codesandbox.io/s/multiple-input-fields-8hwuf?file=/src/components/App.jsx</guid>
+            <pubDate>Tue, 18 May 2021 19:22:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I have obtained an empty array after fetching data from a json file]]></title>
+            <link>https://disease.sh/v3/covid-19/historical/all?lastdays=120</link>
+            <guid>https://disease.sh/v3/covid-19/historical/all?lastdays=120</guid>
+            <pubDate>Tue, 18 May 2021 18:31:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

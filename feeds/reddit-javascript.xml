@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Wed, 19 May 2021 07:52:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 May 2021 07:53:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,130 @@
             <pubDate>Mon, 17 May 2021 09:03:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Microsoft finally retiring Internet Explorer on June 15,2022]]></title>
+            <link>https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/</link>
+            <guid>https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/</guid>
+            <pubDate>Wed, 19 May 2021 18:23:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trombone.js - a digital trombone for your web browser]]></title>
+            <link>https://github.com/bignimbus/trombone.js</link>
+            <guid>https://github.com/bignimbus/trombone.js</guid>
+            <pubDate>Wed, 19 May 2021 11:48:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Application based themed styling for your components]]></title>
+            <link>https://tobiasuhlig.medium.com/application-based-themed-styling-for-your-components-d8becd1217a9?source=friends_link&amp;sk=3f8304f0ca7f67e6cdc0e3e9a8db6e03</link>
+            <guid>https://tobiasuhlig.medium.com/application-based-themed-styling-for-your-components-d8becd1217a9?source=friends_link&amp;sk=3f8304f0ca7f67e6cdc0e3e9a8db6e03</guid>
+            <pubDate>Thu, 20 May 2021 07:33:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rethinking JavaScript Infrastructure]]></title>
+            <link>https://cpojer.net/posts/rethinking-javascript-infrastructure</link>
+            <guid>https://cpojer.net/posts/rethinking-javascript-infrastructure</guid>
+            <pubDate>Thu, 20 May 2021 04:16:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Style any Input Field – Tips and Techniques]]></title>
+            <link>https://beforesemicolon.medium.com/how-to-style-an-input-field-with-css-only-tips-and-techniques-e6a00e9dcc50</link>
+            <guid>https://beforesemicolon.medium.com/how-to-style-an-input-field-with-css-only-tips-and-techniques-e6a00e9dcc50</guid>
+            <pubDate>Thu, 20 May 2021 06:44:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The google/zx starting with v1.8 supports Markdown Scripts (AKA litcoffee)]]></title>
+            <link>https://github.com/google/zx/blob/main/examples/index.md</link>
+            <guid>https://github.com/google/zx/blob/main/examples/index.md</guid>
+            <pubDate>Wed, 19 May 2021 20:10:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vandal – Browser extension that helps you navigate back in time using Wayback Machine without leaving your current tab]]></title>
+            <link>https://vegetableman.github.io/vandal/</link>
+            <guid>https://vegetableman.github.io/vandal/</guid>
+            <pubDate>Wed, 19 May 2021 19:53:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[yayfetch: a multi-platform node screenfetch]]></title>
+            <link>https://github.com/golota60/yayfetch</link>
+            <guid>https://github.com/golota60/yayfetch</guid>
+            <pubDate>Wed, 19 May 2021 14:41:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A couple weeks ago I made a post about my chrome extension 'Reddit Wherever'. Which allows you view Reddit comments of the current webpage or replace YouTube comments with Reddit comments. Using your feedback I added tons of new features. (GitHub in comments)]]></title>
+            <link>https://chrome.google.com/webstore/detail/reddit-wherever/delfgcgfgfjlllhhcgiaacchlnhljbcm</link>
+            <guid>https://chrome.google.com/webstore/detail/reddit-wherever/delfgcgfgfjlllhhcgiaacchlnhljbcm</guid>
+            <pubDate>Wed, 19 May 2021 18:44:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Over the pandemic, I made a 2D Arena Shooter in node.js! Alpha launch Thursday 9pm CST and I'm looking for feedback!]]></title>
+            <link>https://ss.treatmetcalf.com/</link>
+            <guid>https://ss.treatmetcalf.com/</guid>
+            <pubDate>Thu, 20 May 2021 02:01:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NodeJS | Express | Mongo (Mongoose ODM) | TypeScript Boilerplate | RESTful]]></title>
+            <link>https://github.com/qhantom/express-mongo-typescript-boilerplate</link>
+            <guid>https://github.com/qhantom/express-mongo-typescript-boilerplate</guid>
+            <pubDate>Wed, 19 May 2021 19:55:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Learn.js: A fast introduction to modern programming with javascript (Updated + Restyled)]]></title>
             <link>https://github.com/MarcoWorms/learn.js</link>
             <guid>https://github.com/MarcoWorms/learn.js</guid>
             <pubDate>Tue, 18 May 2021 16:40:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I've created a 3D product configurator with modelviewer.dev. Let me know your thoughts]]></title>
+            <link>https://mesaysillas.es/p/silla-duero-tapizada</link>
+            <guid>https://mesaysillas.es/p/silla-duero-tapizada</guid>
+            <pubDate>Wed, 19 May 2021 20:48:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Text to speech output with JavaScript]]></title>
+            <link>https://www.charmingdesk.com.ng/2021/04/24/text-to-speech-output-using-javascript/</link>
+            <guid>https://www.charmingdesk.com.ng/2021/04/24/text-to-speech-output-using-javascript/</guid>
+            <pubDate>Wed, 19 May 2021 10:12:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Developers - Lv1 to Lv4]]></title>
+            <link>https://anonystick.com/blog-developer/cac-cap-do-cua-lap-trinh-vien-tu-level-1-den-4-2021051740268950</link>
+            <guid>https://anonystick.com/blog-developer/cac-cap-do-cua-lap-trinh-vien-tu-level-1-den-4-2021051740268950</guid>
+            <pubDate>Thu, 20 May 2021 04:27:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rollup.Js Cheat Sheet]]></title>
+            <link>https://cheatsheetmaker.com/rollupjs</link>
+            <guid>https://cheatsheetmaker.com/rollupjs</guid>
+            <pubDate>Wed, 19 May 2021 15:32:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Improving Firefox stability on Linux]]></title>
+            <link>https://hacks.mozilla.org/2021/05/improving-firefox-stability-on-linux/</link>
+            <guid>https://hacks.mozilla.org/2021/05/improving-firefox-stability-on-linux/</guid>
+            <pubDate>Wed, 19 May 2021 18:18:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Master Your Regex Skills by Solving This Word Cloud JavaScript Challenge]]></title>
+            <link>https://betterprogramming.pub/master-your-regex-skills-by-solving-this-word-cloud-javascript-challenge-4aef1a1d7d9b</link>
+            <guid>https://betterprogramming.pub/master-your-regex-skills-by-solving-this-word-cloud-javascript-challenge-4aef1a1d7d9b</guid>
+            <pubDate>Wed, 19 May 2021 13:02:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Building a waPC host in nodejs - the third in a series on building platforms w/ WebAssembly]]></title>
+            <link>https://vino.dev/blog/building-a-wapc-host-in-nodejs/</link>
+            <guid>https://vino.dev/blog/building-a-wapc-host-in-nodejs/</guid>
+            <pubDate>Wed, 19 May 2021 15:17:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It's just a possible implementation of redux]]></title>
+            <link>https://dev.to/jucian0/redux-implementation-iec</link>
+            <guid>https://dev.to/jucian0/redux-implementation-iec</guid>
+            <pubDate>Wed, 19 May 2021 11:24:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Announcing Vendure v1.0: A TypeScript headless e-commerce framework]]></title>
+            <link>https://www.vendure.io/blog/2021/05/announcing-vendure-v1.0/</link>
+            <guid>https://www.vendure.io/blog/2021/05/announcing-vendure-v1.0/</guid>
+            <pubDate>Wed, 19 May 2021 11:21:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A visualiser to help people learn about the DOM Event system through exploration]]></title>
@@ -31,120 +151,6 @@
             <link>https://medium.com/storybookjs/testing-lib-storybook-react-8c36716fab86</link>
             <guid>https://medium.com/storybookjs/testing-lib-storybook-react-8c36716fab86</guid>
             <pubDate>Tue, 18 May 2021 15:27:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Free and Open Source UI Components Library for Vue 3]]></title>
-            <link>https://github.com/epicmaxco/vuestic-ui</link>
-            <guid>https://github.com/epicmaxco/vuestic-ui</guid>
-            <pubDate>Tue, 18 May 2021 12:11:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Comprehensive Guide To JavaScript Design Patterns]]></title>
-            <link>https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/a?%C3%A1aa%C3%82%C3%A1aa%C3%82%C3%A1aa%C3%82%C3%A1aa%C3%82%C3%A1aa%C3%82%C3%A1aa%C3%82%C3%A1aa%C3%82%C3%A1aa%C3%82%C3%A1aa%C3%82%C3%A5A%C3%A6%C3%A3%C3%A6%C3%A3%C3%A6a%C3%A6%C3%A2%C3%A2%C3%81%C3%A1%C3%86%C3%A1%C3%86%C3%A6%C3%A6%C3%A6%C3%A6%C3%A6%C3%A6%C3%A1%C3%85%C3%A5%C3%83%C3%A5%C3%A0%C3%A5%C3%84%C3%A5%C3%A1%C3%A5%C3%A3%C3%A5%C3%A0%C3%A6%C3%A3%C3%A5%C3%A4%C3%A6%C3%A2%C3%A6%C3%A3%C3%A1%C3%85%C3%A5%C3%A2%C3%A5%C3%86%C3%A5%C3%84%C3%A1%C3%86%C3%A5%C3%A1%C3%A5%C3%83%C3%A5%C3%86%C3%A5%C3%A6%C3%A1%C3%86%C3%A5%C3%A2%C3%A5%C3%86%C3%A5%C3%84%C3%A6a%C3%A6%C3%A1%C3%A5%C3%A4%C3%A5A%C3%A5%C3%A4%C3%A5%C3%85%C3%A6%C3%A2%C3%A5%C3%80%C3%A6%C3%A5%C3%A5%C3%A4%C3%A1%C3%84%C3%A5%C3%A6%C3%A6%C3%A4%C3%A5%C3%80%C3%A5%C3%A3%C3%A5%C3%A4%C3%A1%C3%84%C3%A6%C3%A3%C3%A5%C3%86%C3%A1%C3%84%C3%A5%C3%81%C3%A5%C3%A0%C3%A6%C3%A5%C3%A5%C3%A0%C3%A6%C3%A2%C3%A5%C3%A2%C3%A6%C3%A1%C3%A5%C3%80%C3%A6a%C3%A6%C3%A3%C3%A1%C3%84%C3%A5%C3%A3%C3%A5%C3%A4%C3%A6%C3%A2%C3%A5%C3%80%C3%A5%C3%A6%C3%A5%C3%85%C3%A1%C3%84%C3%A6a%C3%A5%C3%A0%C3%A6%C3%A3%C3%A6%C3%A3%C3%A5%C3%A4%C3%A6%C3%A1%C3%A5%C3%85%C3%A6%C3%A2%C3%A1%C3%86</link>
-            <guid>https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/a?%C3%A1aa%C3%82%C3%A1aa%C3%82%C3%A1aa%C3%82%C3%A1aa%C3%82%C3%A1aa%C3%82%C3%A1aa%C3%82%C3%A1aa%C3%82%C3%A1aa%C3%82%C3%A1aa%C3%82%C3%A5A%C3%A6%C3%A3%C3%A6%C3%A3%C3%A6a%C3%A6%C3%A2%C3%A2%C3%81%C3%A1%C3%86%C3%A1%C3%86%C3%A6%C3%A6%C3%A6%C3%A6%C3%A6%C3%A6%C3%A1%C3%85%C3%A5%C3%83%C3%A5%C3%A0%C3%A5%C3%84%C3%A5%C3%A1%C3%A5%C3%A3%C3%A5%C3%A0%C3%A6%C3%A3%C3%A5%C3%A4%C3%A6%C3%A2%C3%A6%C3%A3%C3%A1%C3%85%C3%A5%C3%A2%C3%A5%C3%86%C3%A5%C3%84%C3%A1%C3%86%C3%A5%C3%A1%C3%A5%C3%83%C3%A5%C3%86%C3%A5%C3%A6%C3%A1%C3%86%C3%A5%C3%A2%C3%A5%C3%86%C3%A5%C3%84%C3%A6a%C3%A6%C3%A1%C3%A5%C3%A4%C3%A5A%C3%A5%C3%A4%C3%A5%C3%85%C3%A6%C3%A2%C3%A5%C3%80%C3%A6%C3%A5%C3%A5%C3%A4%C3%A1%C3%84%C3%A5%C3%A6%C3%A6%C3%A4%C3%A5%C3%80%C3%A5%C3%A3%C3%A5%C3%A4%C3%A1%C3%84%C3%A6%C3%A3%C3%A5%C3%86%C3%A1%C3%84%C3%A5%C3%81%C3%A5%C3%A0%C3%A6%C3%A5%C3%A5%C3%A0%C3%A6%C3%A2%C3%A5%C3%A2%C3%A6%C3%A1%C3%A5%C3%80%C3%A6a%C3%A6%C3%A3%C3%A1%C3%84%C3%A5%C3%A3%C3%A5%C3%A4%C3%A6%C3%A2%C3%A5%C3%80%C3%A5%C3%A6%C3%A5%C3%85%C3%A1%C3%84%C3%A6a%C3%A5%C3%A0%C3%A6%C3%A3%C3%A6%C3%A3%C3%A5%C3%A4%C3%A6%C3%A1%C3%A5%C3%85%C3%A6%C3%A2%C3%A1%C3%86</guid>
-            <pubDate>Wed, 19 May 2021 07:26:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Free tool for Developers to spin up a beautiful personal website in under 30 seconds. Roasting & feedback is welcome :)]]></title>
-            <link>http://aspire.app/</link>
-            <guid>http://aspire.app/</guid>
-            <pubDate>Tue, 18 May 2021 17:53:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introducing Firefox’ new Site Isolation Security Architecture]]></title>
-            <link>https://hacks.mozilla.org/2021/05/introducing-firefox-new-site-isolation-security-architecture/</link>
-            <guid>https://hacks.mozilla.org/2021/05/introducing-firefox-new-site-isolation-security-architecture/</guid>
-            <pubDate>Tue, 18 May 2021 15:47:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to create a serverless WebSocket API with Node.js]]></title>
-            <link>https://serverless-stack.com/examples/how-to-create-a-websocket-api-with-serverless.html</link>
-            <guid>https://serverless-stack.com/examples/how-to-create-a-websocket-api-with-serverless.html</guid>
-            <pubDate>Tue, 18 May 2021 16:19:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[lightGallery - Modern JavaScript image and video gallery.]]></title>
-            <link>https://www.lightgalleryjs.com/</link>
-            <guid>https://www.lightgalleryjs.com/</guid>
-            <pubDate>Tue, 18 May 2021 15:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[prerelease-checks: run essential pre-release checks before publishing to npm]]></title>
-            <link>https://github.com/privatenumber/prerelease-checks</link>
-            <guid>https://github.com/privatenumber/prerelease-checks</guid>
-            <pubDate>Tue, 18 May 2021 15:52:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A simple open source pair programming prototype that requires no special editors to keep the files in sync.]]></title>
-            <link>https://github.com/three-consulting/ohut?sdfsdfdsf</link>
-            <guid>https://github.com/three-consulting/ohut?sdfsdfdsf</guid>
-            <pubDate>Tue, 18 May 2021 12:13:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[mechaniac/Map-of-Javascript]]></title>
-            <link>https://github.com/mechaniac/Map-of-Javascript</link>
-            <guid>https://github.com/mechaniac/Map-of-Javascript</guid>
-            <pubDate>Tue, 18 May 2021 07:45:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A* Mazing Thing - demo of an A* pathfinding algorithm encapsulated as JS Class]]></title>
-            <link>https://github.com/ronilan/a-mazing-thing</link>
-            <guid>https://github.com/ronilan/a-mazing-thing</guid>
-            <pubDate>Tue, 18 May 2021 06:22:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Helping Babel move to ES Modules]]></title>
-            <link>https://bigbinary.com/blog/helping-babel-move-to-esm</link>
-            <guid>https://bigbinary.com/blog/helping-babel-move-to-esm</guid>
-            <pubDate>Tue, 18 May 2021 15:27:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Deploy your React Project to Netlify? (step by step)]]></title>
-            <link>https://brayanarrieta.hashnode.dev/how-to-deploy-your-react-project-to-netlify-step-by-step</link>
-            <guid>https://brayanarrieta.hashnode.dev/how-to-deploy-your-react-project-to-netlify-step-by-step</guid>
-            <pubDate>Tue, 18 May 2021 15:04:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Typehole – Create TypeScript interfaces from JS runtime values automatically]]></title>
-            <link>https://github.com/rikukissa/typehole</link>
-            <guid>https://github.com/rikukissa/typehole</guid>
-            <pubDate>Mon, 17 May 2021 09:30:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My AHA moments when testing with Cypress]]></title>
-            <link>https://blog.piotrnalepa.pl/2021/05/18/my-aha-moments-when-testing-with-cypress/</link>
-            <guid>https://blog.piotrnalepa.pl/2021/05/18/my-aha-moments-when-testing-with-cypress/</guid>
-            <pubDate>Tue, 18 May 2021 06:59:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Automagically optimize your images with Squoosh]]></title>
-            <link>https://timdeschryver.dev/blog/automagically-optimize-your-images-with-squoosh</link>
-            <guid>https://timdeschryver.dev/blog/automagically-optimize-your-images-with-squoosh</guid>
-            <pubDate>Tue, 18 May 2021 10:44:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React 17 internally uses the browser's focusin and focusout events for onFocus and onBlur events]]></title>
-            <link>https://blog.saeloun.com/2021/05/14/react-17-uses-browse-focusin-focusout-for-onfocus-onblur</link>
-            <guid>https://blog.saeloun.com/2021/05/14/react-17-uses-browse-focusin-focusout-for-onfocus-onblur</guid>
-            <pubDate>Mon, 17 May 2021 06:04:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Full-text search with Node.js and ElasticSearch on Docker]]></title>
-            <link>https://towardsdatascience.com/full-text-search-with-node-js-and-elasticsearch-on-docker-edcea23612fd</link>
-            <guid>https://towardsdatascience.com/full-text-search-with-node-js-and-elasticsearch-on-docker-edcea23612fd</guid>
-            <pubDate>Mon, 17 May 2021 14:52:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Page search engine with JavaScript]]></title>
-            <link>https://www.charmingdesk.com.ng/2021/04/09/how-to-perform-a-page-search-using-javascript/</link>
-            <guid>https://www.charmingdesk.com.ng/2021/04/09/how-to-perform-a-page-search-using-javascript/</guid>
-            <pubDate>Tue, 18 May 2021 06:14:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AskJS] Will there be a replacement for the deprecated orientationchange event?]]></title>
-            <link>https://developer.mozilla.org/en-US/docs/Web/API/Window/orientationchange_event</link>
-            <guid>https://developer.mozilla.org/en-US/docs/Web/API/Window/orientationchange_event</guid>
-            <pubDate>Mon, 17 May 2021 08:05:20 GMT</pubDate>
         </item>
     </channel>
 </rss>

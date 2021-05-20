@@ -4,10 +4,58 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Wed, 19 May 2021 07:52:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 May 2021 07:53:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[New Tailwind CSS blocks on Wickedblocks ( is 100% free ) a total of 72]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Thu, 20 May 2021 06:20:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Style any Input Field – Tips and Techniques]]></title>
+            <link>https://beforesemicolon.medium.com/how-to-style-an-input-field-with-css-only-tips-and-techniques-e6a00e9dcc50</link>
+            <guid>https://beforesemicolon.medium.com/how-to-style-an-input-field-with-css-only-tips-and-techniques-e6a00e9dcc50</guid>
+            <pubDate>Thu, 20 May 2021 06:43:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[i need websites ideas]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Thu, 20 May 2021 05:04:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Explore DOM Events]]></title>
+            <link>https://domevents.dev/</link>
+            <guid>https://domevents.dev/</guid>
+            <pubDate>Wed, 19 May 2021 12:45:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Style an Input Field with CSS Only– Tips and Techniques]]></title>
+            <link>https://link.medium.com/grRHc08Nngb</link>
+            <guid>https://link.medium.com/grRHc08Nngb</guid>
+            <pubDate>Wed, 19 May 2021 09:54:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Create Neon Text With CSS]]></title>
+            <link>https://css-tricks.com/how-to-create-neon-text-with-css/</link>
+            <guid>https://css-tricks.com/how-to-create-neon-text-with-css/</guid>
+            <pubDate>Wed, 19 May 2021 12:25:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to keep an absolutely positioned pseudo element attached to its parent?]]></title>
+            <link>https://stackblitz.com/edit/design-sandbox?file=styles.css</link>
+            <guid>https://stackblitz.com/edit/design-sandbox?file=styles.css</guid>
+            <pubDate>Wed, 19 May 2021 17:03:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[:is()/CSS3 question]]></title>
+            <link>https://developer.mozilla.org/en-US/docs/Web/CSS/:is</link>
+            <guid>https://developer.mozilla.org/en-US/docs/Web/CSS/:is</guid>
+            <pubDate>Wed, 19 May 2021 12:42:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How To Create A Circular Progress Bar using HTML CSS & Simple JavaScript]]></title>
             <link>https://www.dottedsquirrel.com/circular-progress-css/</link>
@@ -37,30 +85,6 @@
             <link>https://jsfiddle.net/2s9wzybq/</link>
             <guid>https://jsfiddle.net/2s9wzybq/</guid>
             <pubDate>Tue, 18 May 2021 20:20:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How To Make A Responsive Background Image Using CSS?]]></title>
-            <link>https://www.lambdatest.com/blog/how-to-make-a-responsive-background-image-using-css/?utm_source=Reddit&amp;utm_medium=blog&amp;utm_campaign=PM-180521-1&amp;utm_term=OrganicPosting</link>
-            <guid>https://www.lambdatest.com/blog/how-to-make-a-responsive-background-image-using-css/?utm_source=Reddit&amp;utm_medium=blog&amp;utm_campaign=PM-180521-1&amp;utm_term=OrganicPosting</guid>
-            <pubDate>Tue, 18 May 2021 14:08:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No, Utility Classes Aren't the Same As Inline Styles]]></title>
-            <link>https://frontstuff.io/no-utility-classes-arent-the-same-as-inline-styles</link>
-            <guid>https://frontstuff.io/no-utility-classes-arent-the-same-as-inline-styles</guid>
-            <pubDate>Tue, 18 May 2021 12:54:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How To Create An Animated Email Subscription Form With Pure CSS]]></title>
-            <link>https://www.dottedsquirrel.com/how-to-create-an-animated-email-subscription-form-with-pure-css/</link>
-            <guid>https://www.dottedsquirrel.com/how-to-create-an-animated-email-subscription-form-with-pure-css/</guid>
-            <pubDate>Mon, 17 May 2021 23:09:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Interactive CSS Flex Tutorial]]></title>
-            <link>https://semicolon.dev/tutorial/css/flex-tutorial</link>
-            <guid>https://semicolon.dev/tutorial/css/flex-tutorial</guid>
-            <pubDate>Mon, 17 May 2021 16:54:13 GMT</pubDate>
         </item>
     </channel>
 </rss>

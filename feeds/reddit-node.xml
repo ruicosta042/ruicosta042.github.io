@@ -4,15 +4,39 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Wed, 19 May 2021 07:52:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 May 2021 07:53:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Deploy an autoscalable a Node.js HTTP server to AWS in a few minutes!]]></title>
-            <link>https://docs.anycloudapp.com/documentation/tutorials/aws-node</link>
-            <guid>https://docs.anycloudapp.com/documentation/tutorials/aws-node</guid>
-            <pubDate>Tue, 18 May 2021 21:10:57 GMT</pubDate>
+            <title><![CDATA[Generate production-ready Node code in seconds using Imagine.]]></title>
+            <link>http://imagine.ai/</link>
+            <guid>http://imagine.ai/</guid>
+            <pubDate>Wed, 19 May 2021 21:40:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gatsby Source Strapi plugin is live - i18n, Gatsby v3 and dynamic zones support]]></title>
+            <link>https://strapi.io/blog/introducing-the-new-gatsby-source-strapi-plugin</link>
+            <guid>https://strapi.io/blog/introducing-the-new-gatsby-source-strapi-plugin</guid>
+            <pubDate>Wed, 19 May 2021 14:57:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rethinking JavaScript Infrastructure]]></title>
+            <link>https://cpojer.net/posts/rethinking-javascript-infrastructure</link>
+            <guid>https://cpojer.net/posts/rethinking-javascript-infrastructure</guid>
+            <pubDate>Thu, 20 May 2021 04:15:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Best Node practice project to polish you skill.]]></title>
+            <link>https://codersera.com/blog/nodejs-projects-for-beginners/</link>
+            <guid>https://codersera.com/blog/nodejs-projects-for-beginners/</guid>
+            <pubDate>Thu, 20 May 2021 03:25:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[17 best IDEs to develop modern applications in NodeJS]]></title>
+            <link>https://www.bacancytechnology.com/blog/top-node-js-ides</link>
+            <guid>https://www.bacancytechnology.com/blog/top-node-js-ides</guid>
+            <pubDate>Thu, 20 May 2021 06:12:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is there a library for rate limiting by API key?]]></title>
@@ -21,64 +45,40 @@
             <pubDate>Wed, 19 May 2021 07:03:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[much better performance with promise hooks are inside new Node release]]></title>
+            <link>https://twitter.com/targos89/status/1394974985261883392</link>
+            <guid>https://twitter.com/targos89/status/1394974985261883392</guid>
+            <pubDate>Wed, 19 May 2021 13:34:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Deploy an autoscalable a Node.js HTTP server to AWS in a few minutes!]]></title>
+            <link>https://docs.anycloudapp.com/documentation/tutorials/aws-node</link>
+            <guid>https://docs.anycloudapp.com/documentation/tutorials/aws-node</guid>
+            <pubDate>Tue, 18 May 2021 21:10:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[5 Things I love about Strapi, a Node.js headless CMS]]></title>
+            <link>https://micheleriva.medium.com/5-things-i-love-about-strapi-a-node-js-headless-cms-700b4fec544b?source=friends_link&amp;sk=7d82af5d2e25ca954fd4e292a021664d</link>
+            <guid>https://micheleriva.medium.com/5-things-i-love-about-strapi-a-node-js-headless-cms-700b4fec544b?source=friends_link&amp;sk=7d82af5d2e25ca954fd4e292a021664d</guid>
+            <pubDate>Wed, 19 May 2021 12:25:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Minimal Node.js boilerplate with Prettier and ESlint]]></title>
             <link>https://github.com/MaximilianHagelstam/node-starter</link>
             <guid>https://github.com/MaximilianHagelstam/node-starter</guid>
             <pubDate>Wed, 19 May 2021 05:44:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Ultimate Guide to Building a no-code WhatsApp bot in 2021]]></title>
-            <link>https://wotnot.io/blog/guide-to-create-whatsapp-bot/</link>
-            <guid>https://wotnot.io/blog/guide-to-create-whatsapp-bot/</guid>
-            <pubDate>Wed, 19 May 2021 04:38:06 GMT</pubDate>
+            <title><![CDATA[Node.js Express tutorial to build a 1 page website step-by-step]]></title>
+            <link>https://geshan.com.np/blog/2021/05/nodejs-express-tutorial/</link>
+            <guid>https://geshan.com.np/blog/2021/05/nodejs-express-tutorial/</guid>
+            <pubDate>Wed, 19 May 2021 11:39:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NODEJS + GOOGLE SHEETS]]></title>
-            <link>https://javascript.plainenglish.io/how-to-use-node-js-with-google-sheets-c256c26e10fc</link>
-            <guid>https://javascript.plainenglish.io/how-to-use-node-js-with-google-sheets-c256c26e10fc</guid>
-            <pubDate>Wed, 19 May 2021 02:53:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A simple open source pair programming prototype that requires no special editors to keep the files in sync.]]></title>
-            <link>https://github.com/three-consulting/ohut</link>
-            <guid>https://github.com/three-consulting/ohut</guid>
-            <pubDate>Tue, 18 May 2021 13:01:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Overloaded connection pool with bad MySQL driver implementation]]></title>
-            <link>https://www.alxolr.com/articles/overloaded-connection-pool-with-bad-mysql-driver-implementation</link>
-            <guid>https://www.alxolr.com/articles/overloaded-connection-pool-with-bad-mysql-driver-implementation</guid>
-            <pubDate>Tue, 18 May 2021 07:07:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Build a video call app with node and webRTC]]></title>
-            <link>https://piyushgarg.hashnode.dev/build-video-chat-application-with-webrtc</link>
-            <guid>https://piyushgarg.hashnode.dev/build-video-chat-application-with-webrtc</guid>
-            <pubDate>Tue, 18 May 2021 13:07:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WhatsApp chatbot suggestions]]></title>
-            <link>https://github.com/unknowncode44/argencab_driver</link>
-            <guid>https://github.com/unknowncode44/argencab_driver</guid>
-            <pubDate>Tue, 18 May 2021 16:08:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AWS Lambda support for Node.js 10 is becoming to an end in August 2021. It’s time to switch!]]></title>
-            <link>https://dashbird.io/blog/aws-lambda-nodejs-10-vs-14/</link>
-            <guid>https://dashbird.io/blog/aws-lambda-nodejs-10-vs-14/</guid>
-            <pubDate>Mon, 17 May 2021 15:31:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Configuring TypeScript: options rootDir, outDir, module, target | TypeScript Anthology]]></title>
-            <link>https://mxkvl.com/blog/article/configuring-typescript-options-rootdir-outdir-module-target</link>
-            <guid>https://mxkvl.com/blog/article/configuring-typescript-options-rootdir-outdir-module-target</guid>
-            <pubDate>Tue, 18 May 2021 17:20:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[fp-army-knife]]></title>
-            <link>https://github.com/nrdlab/fp-army-knife</link>
-            <guid>https://github.com/nrdlab/fp-army-knife</guid>
-            <pubDate>Tue, 18 May 2021 19:26:51 GMT</pubDate>
+            <title><![CDATA[Node v16.2.0 (Current)]]></title>
+            <link>https://nodejs.org/en/blog/release/v16.2.0/</link>
+            <guid>https://nodejs.org/en/blog/release/v16.2.0/</guid>
+            <pubDate>Wed, 19 May 2021 11:12:27 GMT</pubDate>
         </item>
     </channel>
 </rss>

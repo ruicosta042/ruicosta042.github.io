@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Wed, 19 May 2021 07:52:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 May 2021 07:53:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,82 +15,52 @@
             <pubDate>Sat, 01 May 2021 18:04:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Microsoft is finally retiring IE on June 15, 2022]]></title>
+            <link>https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/</link>
+            <guid>https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/</guid>
+            <pubDate>Wed, 19 May 2021 17:10:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Tailwind CSS blocks on Wickedblocks ( is 100% free ) a total of 72]]></title>
+            <link>https://wickedblocks.dev/</link>
+            <guid>https://wickedblocks.dev/</guid>
+            <pubDate>Thu, 20 May 2021 06:16:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Job Description Template For React Developer]]></title>
+            <link>https://codersera.com/blog/react-developer-job-description-template/</link>
+            <guid>https://codersera.com/blog/react-developer-job-description-template/</guid>
+            <pubDate>Thu, 20 May 2021 05:41:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Implementation of callBack With setState in React.]]></title>
+            <link>https://codersera.com/blog/how-to-use-callback-with-setstate-in-react/</link>
+            <guid>https://codersera.com/blog/how-to-use-callback-with-setstate-in-react/</guid>
+            <pubDate>Thu, 20 May 2021 03:23:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React Native vs. Ionic: What Cross-Platform Framework is the Best?]]></title>
+            <link>https://flatlogic.com/blog/react-native-vs-ionic-what-cross-platform-framework-is-the-best/</link>
+            <guid>https://flatlogic.com/blog/react-native-vs-ionic-what-cross-platform-framework-is-the-best/</guid>
+            <pubDate>Wed, 19 May 2021 23:12:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React Elasticsearch: UI components for building better search experience]]></title>
+            <link>https://github.com/betagouv/react-elasticsearch</link>
+            <guid>https://github.com/betagouv/react-elasticsearch</guid>
+            <pubDate>Thu, 20 May 2021 07:01:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Next.js Conf – Claim your ticket, chat, and interact in real-time]]></title>
             <link>https://nextjs.org/conf</link>
             <guid>https://nextjs.org/conf</guid>
             <pubDate>Tue, 18 May 2021 21:15:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to update state from props in React]]></title>
-            <link>https://www.robinwieruch.de/react-derive-state-props</link>
-            <guid>https://www.robinwieruch.de/react-derive-state-props</guid>
-            <pubDate>Wed, 19 May 2021 07:51:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to efficiently reuse stories in your React tests]]></title>
-            <link>https://medium.com/storybookjs/testing-lib-storybook-react-8c36716fab86</link>
-            <guid>https://medium.com/storybookjs/testing-lib-storybook-react-8c36716fab86</guid>
-            <pubDate>Tue, 18 May 2021 15:16:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fireact — The open source project for you to fast track your next web app with Firebase and React]]></title>
-            <link>https://medium.com/@chaoming_li/fireact-the-open-source-project-for-you-to-fast-track-your-next-web-app-with-firebase-and-react-5ab98dcf9c93?source=friends_link&amp;sk=e3a224c2033a504d82d45dc7be7b3177</link>
-            <guid>https://medium.com/@chaoming_li/fireact-the-open-source-project-for-you-to-fast-track-your-next-web-app-with-firebase-and-react-5ab98dcf9c93?source=friends_link&amp;sk=e3a224c2033a504d82d45dc7be7b3177</guid>
-            <pubDate>Tue, 18 May 2021 12:56:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to avoid calling the APIs until the state is updated in React functional component in useEffect()?]]></title>
-            <link>https://github.com/SigNoz/signoz/blob/main/frontend/src/modules/Nav/TopNav/config.ts#L3</link>
-            <guid>https://github.com/SigNoz/signoz/blob/main/frontend/src/modules/Nav/TopNav/config.ts#L3</guid>
-            <pubDate>Tue, 18 May 2021 15:26:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Which JS course you’d recommend me?]]></title>
-            <link>https://www.codecademy.com/learn/introduction-to-javascript</link>
-            <guid>https://www.codecademy.com/learn/introduction-to-javascript</guid>
-            <pubDate>Wed, 19 May 2021 01:48:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React and the ContextAPI]]></title>
-            <link>https://dev.to/sumodevelopment/react-contextapi-and-state-133k</link>
-            <guid>https://dev.to/sumodevelopment/react-contextapi-and-state-133k</guid>
-            <pubDate>Tue, 18 May 2021 18:48:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Class to functional components]]></title>
-            <link>https://codesandbox.io/s/spring-wildflower-dkjhi</link>
-            <guid>https://codesandbox.io/s/spring-wildflower-dkjhi</guid>
-            <pubDate>Tue, 18 May 2021 23:20:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Help with Jotai: making selector]]></title>
-            <link>https://data.id/</link>
-            <guid>https://data.id/</guid>
-            <pubDate>Tue, 18 May 2021 21:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[fp-army-knife]]></title>
-            <link>https://github.com/nrdlab/fp-army-knife</link>
-            <guid>https://github.com/nrdlab/fp-army-knife</guid>
-            <pubDate>Tue, 18 May 2021 19:27:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Looking for a way to restrict access to a page in your website? Find out how I embedded DocuSign in mine using React! Feedback welcome :)]]></title>
-            <link>https://blog.theodo.com/2021/04/embed-docusign-electronic-signature/</link>
-            <guid>https://blog.theodo.com/2021/04/embed-docusign-electronic-signature/</guid>
-            <pubDate>Tue, 18 May 2021 13:27:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Update nested array]]></title>
-            <link>https://codesandbox.io/s/multiple-input-fields-8hwuf?file=/src/components/App.jsx</link>
-            <guid>https://codesandbox.io/s/multiple-input-fields-8hwuf?file=/src/components/App.jsx</guid>
-            <pubDate>Tue, 18 May 2021 19:22:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I have obtained an empty array after fetching data from a json file]]></title>
-            <link>https://disease.sh/v3/covid-19/historical/all?lastdays=120</link>
-            <guid>https://disease.sh/v3/covid-19/historical/all?lastdays=120</guid>
-            <pubDate>Tue, 18 May 2021 18:31:00 GMT</pubDate>
+            <title><![CDATA[Learn Server-side app authorization – LiveChat Live Coding Session announcement]]></title>
+            <link>https://developers.livechat.com/updates/setting-up-webhooks-with-livechat-api/?utm_source=reddit&amp;utm_medium=referral&amp;utm_campaign=lcs-announcement</link>
+            <guid>https://developers.livechat.com/updates/setting-up-webhooks-with-livechat-api/?utm_source=reddit&amp;utm_medium=referral&amp;utm_campaign=lcs-announcement</guid>
+            <pubDate>Wed, 19 May 2021 10:08:41 GMT</pubDate>
         </item>
     </channel>
 </rss>

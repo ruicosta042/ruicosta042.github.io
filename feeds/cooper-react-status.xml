@@ -4,105 +4,105 @@
         <title>React Status</title>
         <link>https://react.statuscode.com/</link>
         <description>A weekly roundup of the latest React and React Native links and tutorials.</description>
-        <lastBuildDate>Thu, 13 May 2021 07:52:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 May 2021 07:52:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[API Design for a React Tree Table]]></title>
-            <link>https://www.robinwieruch.de/react-tree-list/</link>
-            <guid>https://www.robinwieruch.de/react-tree-list/</guid>
-            <pubDate>Wed, 12 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[ReacType 7.0: A Visual Prototyping Tool for React Developers]]></title>
+            <link>https://reactype.io/#reactype7</link>
+            <guid>https://reactype.io/#reactype7</guid>
+            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Vision Camera 2.0: A Powerful Camera for React Native Apps]]></title>
-            <link>https://github.com/cuvent/react-native-vision-camera</link>
-            <guid>https://github.com/cuvent/react-native-vision-camera</guid>
-            <pubDate>Wed, 12 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[React Color Picker Deconstructed]]></title>
+            <link>https://lorenzopepe.dev/blog/react-color-picker</link>
+            <guid>https://lorenzopepe.dev/blog/react-color-picker</guid>
+            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[htmr 1.0: HTML String to React Element Conversion Library]]></title>
-            <link>https://github.com/pveyes/htmr</link>
-            <guid>https://github.com/pveyes/htmr</guid>
-            <pubDate>Wed, 12 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[You Can Now Host Next.js SSR Apps on AWS Amplify]]></title>
+            <link>https://aws.amazon.com/blogs/mobile/host-a-next-js-ssr-app-with-real-time-data-on-aws-amplify/</link>
+            <guid>https://aws.amazon.com/blogs/mobile/host-a-next-js-ssr-app-with-real-time-data-on-aws-amplify/</guid>
+            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Complete Guide to Building a Grocery Delivery UI with React Native]]></title>
-            <link>https://t.co/qApxFR3sWY?amp=1</link>
-            <guid>https://t.co/qApxFR3sWY?amp=1</guid>
-            <pubDate>Wed, 12 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Amazing New Features in React Router v6]]></title>
+            <link>https://t.co/QEc4jPmvv4?amp=1</link>
+            <guid>https://t.co/QEc4jPmvv4?amp=1</guid>
+            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React Contributor Days in May 2021]]></title>
-            <link>https://www.reactjsmeetup.com/#/</link>
-            <guid>https://www.reactjsmeetup.com/#/</guid>
-            <pubDate>Wed, 12 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Recoil 0.3 Released]]></title>
+            <link>https://recoiljs.org/blog/2021/05/14/0.3.0-released/</link>
+            <guid>https://recoiljs.org/blog/2021/05/14/0.3.0-released/</guid>
+            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Reducing HTML Payload with Next.js]]></title>
-            <link>https://www.smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/</link>
-            <guid>https://www.smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/</guid>
-            <pubDate>Wed, 12 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Why We Switched from Webpack to Vite]]></title>
+            <link>https://blog.replit.com/vite</link>
+            <guid>https://blog.replit.com/vite</guid>
+            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Zustand’s Guide to Simple State Management]]></title>
-            <link>https://t.co/uAvr7XOYOl?amp=1</link>
-            <guid>https://t.co/uAvr7XOYOl?amp=1</guid>
-            <pubDate>Wed, 12 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Building Portable Apps with Go and Next.js]]></title>
+            <link>https://v0x.nl/articles/portable-apps-go-nextjs</link>
+            <guid>https://v0x.nl/articles/portable-apps-go-nextjs</guid>
+            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React vs React Native: Differences, Advantages and Limitations]]></title>
-            <link>https://buttercms.com/blog/react-vs-react-native</link>
-            <guid>https://buttercms.com/blog/react-vs-react-native</guid>
-            <pubDate>Wed, 12 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[A Visual Guide to React Mental Models]]></title>
+            <link>https://obedparla.com/code/a-visual-guide-to-react-mental-models/</link>
+            <guid>https://obedparla.com/code/a-visual-guide-to-react-mental-models/</guid>
+            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Migrating an Existing Next.js Project to Netlify]]></title>
-            <link>https://www.netlify.com/blog/2021/05/04/migrating-an-existing-next.js-project-to-netlify/</link>
-            <guid>https://www.netlify.com/blog/2021/05/04/migrating-an-existing-next.js-project-to-netlify/</guid>
-            <pubDate>Wed, 12 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to Type a React Form onSubmit Handler]]></title>
+            <link>https://epicreact.dev/how-to-type-a-react-form-on-submit-handler/</link>
+            <guid>https://epicreact.dev/how-to-type-a-react-form-on-submit-handler/</guid>
+            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ten Mistakes to Avoid When Using React]]></title>
-            <link>https://t.co/AwlcqrdW3z?amp=1</link>
-            <guid>https://t.co/AwlcqrdW3z?amp=1</guid>
-            <pubDate>Wed, 12 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to Make Performant Animations in React Native with Reanimated]]></title>
+            <link>https://around25.com/blog/how-to-make-performant-animations-using-reanimated/</link>
+            <guid>https://around25.com/blog/how-to-make-performant-animations-using-reanimated/</guid>
+            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[react-use-please-stay: Animate the Document Title when Focus is Lost or Regained]]></title>
-            <link>https://github.com/princefishthrower/react-use-please-stay</link>
-            <guid>https://github.com/princefishthrower/react-use-please-stay</guid>
-            <pubDate>Wed, 12 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Let's Talk urql: A Highly Customizable and Versatile GraphQL Client]]></title>
+            <link>https://www.youtube.com/watch?v=nhxaAEZWouA</link>
+            <guid>https://www.youtube.com/watch?v=nhxaAEZWouA</guid>
+            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[react-native-image-cache: React Native Image Cache with Progressive Loading]]></title>
-            <link>https://github.com/georstat/react-native-image-cache</link>
-            <guid>https://github.com/georstat/react-native-image-cache</guid>
-            <pubDate>Wed, 12 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Build a Music Streaming App like Spotify with React Native]]></title>
+            <link>https://javascript.plainenglish.io/build-a-music-streaming-app-like-spotify-with-react-native-2ce2b4ff85be</link>
+            <guid>https://javascript.plainenglish.io/build-a-music-streaming-app-like-spotify-with-react-native-2ce2b4ff85be</guid>
+            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nextra: Next.js Based Static Site Generator]]></title>
-            <link>https://nextra.vercel.app/</link>
-            <guid>https://nextra.vercel.app/</guid>
-            <pubDate>Wed, 12 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[UI Kitten: Compelling Cross-Platform Mobile Applications with React Native]]></title>
+            <link>https://github.com/akveo/react-native-ui-kitten</link>
+            <guid>https://github.com/akveo/react-native-ui-kitten</guid>
+            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Gestalt: Enforcing Pinterest's Design Language]]></title>
-            <link>https://gestalt.netlify.app/</link>
-            <guid>https://gestalt.netlify.app/</guid>
-            <pubDate>Wed, 12 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[React Simple Keyboard 3.1: A Customizable Keyboard Control]]></title>
+            <link>https://github.com/hodgef/react-simple-keyboard</link>
+            <guid>https://github.com/hodgef/react-simple-keyboard</guid>
+            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rollbar React SDK: Real-Time Alerts on Errors]]></title>
-            <link>https://github.com/rollbar/rollbar-react</link>
-            <guid>https://github.com/rollbar/rollbar-react</guid>
-            <pubDate>Wed, 12 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Stripe React Native SDK: 'Delightful' Mobile Payment Processing]]></title>
+            <link>https://github.com/stripe/stripe-react-native</link>
+            <guid>https://github.com/stripe/stripe-react-native</guid>
+            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Official React Components for Stream Activity Feed]]></title>
-            <link>https://github.com/GetStream/react-activity-feed</link>
-            <guid>https://github.com/GetStream/react-activity-feed</guid>
-            <pubDate>Wed, 12 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[nextjs-auth0: One Stop Access Management for Next.js]]></title>
+            <link>https://github.com/auth0/nextjs-auth0</link>
+            <guid>https://github.com/auth0/nextjs-auth0</guid>
+            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

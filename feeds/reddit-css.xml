@@ -4,21 +4,75 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Thu, 20 May 2021 07:53:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 May 2021 07:53:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[New Tailwind CSS blocks on Wickedblocks ( is 100% free ) a total of 72]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Thu, 20 May 2021 06:20:57 GMT</pubDate>
+            <title><![CDATA[Guide to CSS selectors from basic to advanced selectors]]></title>
+            <link>https://www.freecodecamp.org/news/use-css-selectors-to-style-webpage/</link>
+            <guid>https://www.freecodecamp.org/news/use-css-selectors-to-style-webpage/</guid>
+            <pubDate>Thu, 20 May 2021 21:27:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[after:hover: behavior]]></title>
+            <link>https://www.microsoft.com/en-us/accessibility</link>
+            <guid>https://www.microsoft.com/en-us/accessibility</guid>
+            <pubDate>Fri, 21 May 2021 02:41:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Euismod - Anyone Can Learn CSS Grid]]></title>
+            <link>https://www.euismod.dev/</link>
+            <guid>https://www.euismod.dev/</guid>
+            <pubDate>Thu, 20 May 2021 13:32:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How does font-weight work?]]></title>
+            <link>https://docs.python.org/</link>
+            <guid>https://docs.python.org/</guid>
+            <pubDate>Thu, 20 May 2021 19:01:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How To Create An Animated Range Slider In HTML, CSS, and Simple JavaScript]]></title>
+            <link>https://www.dottedsquirrel.com/range-slider-javascript/</link>
+            <guid>https://www.dottedsquirrel.com/range-slider-javascript/</guid>
+            <pubDate>Thu, 20 May 2021 10:42:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Primer On CSS Container Queries]]></title>
+            <link>https://www.smashingmagazine.com/2021/05/complete-guide-css-container-queries/</link>
+            <guid>https://www.smashingmagazine.com/2021/05/complete-guide-css-container-queries/</guid>
+            <pubDate>Thu, 20 May 2021 13:30:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bootstrap 5 + Tailwind]]></title>
+            <link>https://tailwind-elements.com/</link>
+            <guid>https://tailwind-elements.com/</guid>
+            <pubDate>Thu, 20 May 2021 12:24:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trying to put padding into a text container on my personal photography site / WordPress.]]></title>
+            <link>https://stephenmcateer.co.uk/shop/product/91-94-no-6/?v=79cba1185463</link>
+            <guid>https://stephenmcateer.co.uk/shop/product/91-94-no-6/?v=79cba1185463</guid>
+            <pubDate>Thu, 20 May 2021 15:35:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to Style any Input Field – Tips and Techniques]]></title>
             <link>https://beforesemicolon.medium.com/how-to-style-an-input-field-with-css-only-tips-and-techniques-e6a00e9dcc50</link>
             <guid>https://beforesemicolon.medium.com/how-to-style-an-input-field-with-css-only-tips-and-techniques-e6a00e9dcc50</guid>
             <pubDate>Thu, 20 May 2021 06:43:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Need help with this.]]></title>
+            <link>https://eleazarusall.blogspot.com/</link>
+            <guid>https://eleazarusall.blogspot.com/</guid>
+            <pubDate>Thu, 20 May 2021 17:35:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Tailwind CSS blocks on Wickedblocks ( is 100% free ) a total of 72]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Thu, 20 May 2021 06:20:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[i need websites ideas]]></title>
@@ -33,58 +87,16 @@
             <pubDate>Wed, 19 May 2021 12:45:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to Style an Input Field with CSS Only– Tips and Techniques]]></title>
-            <link>https://link.medium.com/grRHc08Nngb</link>
-            <guid>https://link.medium.com/grRHc08Nngb</guid>
-            <pubDate>Wed, 19 May 2021 09:54:35 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[How to Create Neon Text With CSS]]></title>
             <link>https://css-tricks.com/how-to-create-neon-text-with-css/</link>
             <guid>https://css-tricks.com/how-to-create-neon-text-with-css/</guid>
             <pubDate>Wed, 19 May 2021 12:25:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to keep an absolutely positioned pseudo element attached to its parent?]]></title>
-            <link>https://stackblitz.com/edit/design-sandbox?file=styles.css</link>
-            <guid>https://stackblitz.com/edit/design-sandbox?file=styles.css</guid>
-            <pubDate>Wed, 19 May 2021 17:03:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[:is()/CSS3 question]]></title>
-            <link>https://developer.mozilla.org/en-US/docs/Web/CSS/:is</link>
-            <guid>https://developer.mozilla.org/en-US/docs/Web/CSS/:is</guid>
-            <pubDate>Wed, 19 May 2021 12:42:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How To Create A Circular Progress Bar using HTML CSS & Simple JavaScript]]></title>
-            <link>https://www.dottedsquirrel.com/circular-progress-css/</link>
-            <guid>https://www.dottedsquirrel.com/circular-progress-css/</guid>
-            <pubDate>Tue, 18 May 2021 21:47:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Free and Open Source UI Components Library for Vue 3 [x-post from r/javascript]]]></title>
-            <link>https://github.com/epicmaxco/vuestic-ui</link>
-            <guid>https://github.com/epicmaxco/vuestic-ui</guid>
-            <pubDate>Tue, 18 May 2021 12:38:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Force style a top-down left-right list to always display as 4-columns?]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Tue, 18 May 2021 19:45:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jerky transition with splidejs carousel?]]></title>
-            <link>https://splidejs.com/</link>
-            <guid>https://splidejs.com/</guid>
-            <pubDate>Tue, 18 May 2021 17:44:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to show ellipsis for overflowed text when using flexbox?]]></title>
-            <link>https://jsfiddle.net/2s9wzybq/</link>
-            <guid>https://jsfiddle.net/2s9wzybq/</guid>
-            <pubDate>Tue, 18 May 2021 20:20:42 GMT</pubDate>
+            <title><![CDATA[How to Style an Input Field with CSS Only– Tips and Techniques]]></title>
+            <link>https://link.medium.com/grRHc08Nngb</link>
+            <guid>https://link.medium.com/grRHc08Nngb</guid>
+            <pubDate>Wed, 19 May 2021 09:54:35 GMT</pubDate>
         </item>
     </channel>
 </rss>

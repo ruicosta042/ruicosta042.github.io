@@ -4,14 +4,14 @@
         <title>Serverless Status</title>
         <link>https://serverless.email/</link>
         <description>A weekly newsletter on serverless and function-as-a-service (FaaS) architectures and platforms including AWS Lambda and Azure Functions.</description>
-        <lastBuildDate>Thu, 20 May 2021 07:53:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 May 2021 07:53:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
             <title><![CDATA[Serverless Framework vs SAM vs CDK]]></title>
-            <link>https://tastefulelk.hashnode.dev/serverless-framework-vs-sam-vs-aws-cdk?guid=none&amp;deviceId=6eaee3d8-971c-4cc4-bacd-27b3d6787dac</link>
-            <guid>https://tastefulelk.hashnode.dev/serverless-framework-vs-sam-vs-aws-cdk?guid=none&amp;deviceId=6eaee3d8-971c-4cc4-bacd-27b3d6787dac</guid>
+            <link>https://tastefulelk.hashnode.dev/serverless-framework-vs-sam-vs-aws-cdk?guid=none&amp;deviceId=a012ab7d-47b1-4720-b097-74cf85d6e860</link>
+            <guid>https://tastefulelk.hashnode.dev/serverless-framework-vs-sam-vs-aws-cdk?guid=none&amp;deviceId=a012ab7d-47b1-4720-b097-74cf85d6e860</guid>
             <pubDate>Fri, 14 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>

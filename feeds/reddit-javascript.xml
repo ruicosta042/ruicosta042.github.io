@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Thu, 20 May 2021 07:53:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 May 2021 07:53:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,16 +15,94 @@
             <pubDate>Mon, 17 May 2021 09:03:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Introducing WebContainers: Run Node.js natively in your browser]]></title>
+            <link>https://blog.stackblitz.com/posts/introducing-webcontainers/</link>
+            <guid>https://blog.stackblitz.com/posts/introducing-webcontainers/</guid>
+            <pubDate>Thu, 20 May 2021 22:31:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Parcel 2 beta 3: 10× faster JavaScript compiler written in Rust]]></title>
+            <link>https://v2.parceljs.org/blog/beta3/</link>
+            <guid>https://v2.parceljs.org/blog/beta3/</guid>
+            <pubDate>Thu, 20 May 2021 15:43:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I built this Lottie animation editor to edit Lottie animations without After Effects! If like me, you use Lottie animations as part of your frontend UI but struggle with After Effects or implementation issues, would like to know what you think]]></title>
+            <link>http://lottielab.io/</link>
+            <guid>http://lottielab.io/</guid>
+            <pubDate>Thu, 20 May 2021 19:52:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pair of concepts may confuse you in Javascript - Number.isNaN() and isNaN()]]></title>
+            <link>https://techika.com/2021/05/19/isnan-vs-number-isnan/</link>
+            <guid>https://techika.com/2021/05/19/isnan-vs-number-isnan/</guid>
+            <pubDate>Fri, 21 May 2021 01:35:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Summer Coding Course: Introduction to Javascript by making games. Primarily for ages 13-16 but students of any age can join!]]></title>
+            <link>https://github.com/quinton-ashley/IntroToJS/blob/main/README.md</link>
+            <guid>https://github.com/quinton-ashley/IntroToJS/blob/main/README.md</guid>
+            <pubDate>Thu, 20 May 2021 22:04:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WebTool - Most relevant and flexible code editor for web designers.]]></title>
+            <link>https://webtoolapp.com/</link>
+            <guid>https://webtoolapp.com/</guid>
+            <pubDate>Fri, 21 May 2021 00:33:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Do you know, 0.1 + 0.2 is not equal to 0.3 in JavaScript? Here is why!]]></title>
+            <link>https://blog.pankajtanwar.in/do-you-know-01-02-03-in-javascript-here-is-why?view</link>
+            <guid>https://blog.pankajtanwar.in/do-you-know-01-02-03-in-javascript-here-is-why?view</guid>
+            <pubDate>Fri, 21 May 2021 07:09:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Microsoft finally retiring Internet Explorer on June 15,2022]]></title>
             <link>https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/</link>
             <guid>https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/</guid>
             <pubDate>Wed, 19 May 2021 18:23:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Trombone.js - a digital trombone for your web browser]]></title>
-            <link>https://github.com/bignimbus/trombone.js</link>
-            <guid>https://github.com/bignimbus/trombone.js</guid>
-            <pubDate>Wed, 19 May 2021 11:48:59 GMT</pubDate>
+            <title><![CDATA[In-browser Typescript notebook]]></title>
+            <link>https://jasmcole.com/2021/05/19/matslab/</link>
+            <guid>https://jasmcole.com/2021/05/19/matslab/</guid>
+            <pubDate>Thu, 20 May 2021 11:43:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[web-worker-hooks - A library for running stuff in web workers with CRA]]></title>
+            <link>https://github.com/BlueBlazin/web-worker-hooks</link>
+            <guid>https://github.com/BlueBlazin/web-worker-hooks</guid>
+            <pubDate>Thu, 20 May 2021 13:42:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Building Bitcoin in JavaScript, to learn how it works]]></title>
+            <link>https://bluepnume.medium.com/building-bitcoin-in-javascript-1a82534765ec/?s=prf</link>
+            <guid>https://bluepnume.medium.com/building-bitcoin-in-javascript-1a82534765ec/?s=prf</guid>
+            <pubDate>Thu, 20 May 2021 19:22:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Deploy your React Project to Netlify? (step by step)]]></title>
+            <link>https://brayanarrieta.hashnode.dev/how-to-deploy-your-react-project-to-netlify-step-by-step-1</link>
+            <guid>https://brayanarrieta.hashnode.dev/how-to-deploy-your-react-project-to-netlify-step-by-step-1</guid>
+            <pubDate>Thu, 20 May 2021 22:20:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Turn Your Rockets into Washing Machines]]></title>
+            <link>https://evan-brass.medium.com/turn-your-rockets-into-washing-machines-f3cb65039cab?sk=37759508bb8892cacc672ba460908f79</link>
+            <guid>https://evan-brass.medium.com/turn-your-rockets-into-washing-machines-f3cb65039cab?sk=37759508bb8892cacc672ba460908f79</guid>
+            <pubDate>Thu, 20 May 2021 21:52:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I built a color + font generator with JS, hopefully it helps you design your next project! 100% free, no signup required :)]]></title>
+            <link>https://onetwobrand.com/</link>
+            <guid>https://onetwobrand.com/</guid>
+            <pubDate>Thu, 20 May 2021 20:26:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[Poly Art 3D] You will fall in love]]></title>
+            <link>https://www.happykidgames.com/game/poly-art-3d</link>
+            <guid>https://www.happykidgames.com/game/poly-art-3d</guid>
+            <pubDate>Thu, 20 May 2021 19:23:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Application based themed styling for your components]]></title>
@@ -33,16 +111,28 @@
             <pubDate>Thu, 20 May 2021 07:33:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Trombone.js - a digital trombone for your web browser]]></title>
+            <link>https://github.com/bignimbus/trombone.js</link>
+            <guid>https://github.com/bignimbus/trombone.js</guid>
+            <pubDate>Wed, 19 May 2021 11:48:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Rethinking JavaScript Infrastructure]]></title>
             <link>https://cpojer.net/posts/rethinking-javascript-infrastructure</link>
             <guid>https://cpojer.net/posts/rethinking-javascript-infrastructure</guid>
             <pubDate>Thu, 20 May 2021 04:16:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to Style any Input Field – Tips and Techniques]]></title>
-            <link>https://beforesemicolon.medium.com/how-to-style-an-input-field-with-css-only-tips-and-techniques-e6a00e9dcc50</link>
-            <guid>https://beforesemicolon.medium.com/how-to-style-an-input-field-with-css-only-tips-and-techniques-e6a00e9dcc50</guid>
-            <pubDate>Thu, 20 May 2021 06:44:37 GMT</pubDate>
+            <title><![CDATA[Using First Contentful Paint (FCP) for Performance Monitoring]]></title>
+            <link>https://requestmetrics.com/web-performance/first-contentful-paint-fcp</link>
+            <guid>https://requestmetrics.com/web-performance/first-contentful-paint-fcp</guid>
+            <pubDate>Thu, 20 May 2021 16:25:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Monitoring: A case study for EventTarget]]></title>
+            <link>https://blog.atomrc.dev/p/case-study-event-target/</link>
+            <guid>https://blog.atomrc.dev/p/case-study-event-target/</guid>
+            <pubDate>Thu, 20 May 2021 12:31:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The google/zx starting with v1.8 supports Markdown Scripts (AKA litcoffee)]]></title>
@@ -51,106 +141,28 @@
             <pubDate>Wed, 19 May 2021 20:10:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Vandal – Browser extension that helps you navigate back in time using Wayback Machine without leaving your current tab]]></title>
-            <link>https://vegetableman.github.io/vandal/</link>
-            <guid>https://vegetableman.github.io/vandal/</guid>
-            <pubDate>Wed, 19 May 2021 19:53:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[yayfetch: a multi-platform node screenfetch]]></title>
-            <link>https://github.com/golota60/yayfetch</link>
-            <guid>https://github.com/golota60/yayfetch</guid>
-            <pubDate>Wed, 19 May 2021 14:41:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A couple weeks ago I made a post about my chrome extension 'Reddit Wherever'. Which allows you view Reddit comments of the current webpage or replace YouTube comments with Reddit comments. Using your feedback I added tons of new features. (GitHub in comments)]]></title>
-            <link>https://chrome.google.com/webstore/detail/reddit-wherever/delfgcgfgfjlllhhcgiaacchlnhljbcm</link>
-            <guid>https://chrome.google.com/webstore/detail/reddit-wherever/delfgcgfgfjlllhhcgiaacchlnhljbcm</guid>
-            <pubDate>Wed, 19 May 2021 18:44:22 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Over the pandemic, I made a 2D Arena Shooter in node.js! Alpha launch Thursday 9pm CST and I'm looking for feedback!]]></title>
             <link>https://ss.treatmetcalf.com/</link>
             <guid>https://ss.treatmetcalf.com/</guid>
             <pubDate>Thu, 20 May 2021 02:01:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NodeJS | Express | Mongo (Mongoose ODM) | TypeScript Boilerplate | RESTful]]></title>
-            <link>https://github.com/qhantom/express-mongo-typescript-boilerplate</link>
-            <guid>https://github.com/qhantom/express-mongo-typescript-boilerplate</guid>
-            <pubDate>Wed, 19 May 2021 19:55:17 GMT</pubDate>
+            <title><![CDATA[How to Style any Input Field – Tips and Techniques]]></title>
+            <link>https://beforesemicolon.medium.com/how-to-style-an-input-field-with-css-only-tips-and-techniques-e6a00e9dcc50</link>
+            <guid>https://beforesemicolon.medium.com/how-to-style-an-input-field-with-css-only-tips-and-techniques-e6a00e9dcc50</guid>
+            <pubDate>Thu, 20 May 2021 06:44:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Learn.js: A fast introduction to modern programming with javascript (Updated + Restyled)]]></title>
-            <link>https://github.com/MarcoWorms/learn.js</link>
-            <guid>https://github.com/MarcoWorms/learn.js</guid>
-            <pubDate>Tue, 18 May 2021 16:40:04 GMT</pubDate>
+            <title><![CDATA[Vandal – Browser extension that helps you navigate back in time using Wayback Machine without leaving your current tab]]></title>
+            <link>https://vegetableman.github.io/vandal/</link>
+            <guid>https://vegetableman.github.io/vandal/</guid>
+            <pubDate>Wed, 19 May 2021 19:53:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I've created a 3D product configurator with modelviewer.dev. Let me know your thoughts]]></title>
-            <link>https://mesaysillas.es/p/silla-duero-tapizada</link>
-            <guid>https://mesaysillas.es/p/silla-duero-tapizada</guid>
-            <pubDate>Wed, 19 May 2021 20:48:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Text to speech output with JavaScript]]></title>
-            <link>https://www.charmingdesk.com.ng/2021/04/24/text-to-speech-output-using-javascript/</link>
-            <guid>https://www.charmingdesk.com.ng/2021/04/24/text-to-speech-output-using-javascript/</guid>
-            <pubDate>Wed, 19 May 2021 10:12:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Developers - Lv1 to Lv4]]></title>
-            <link>https://anonystick.com/blog-developer/cac-cap-do-cua-lap-trinh-vien-tu-level-1-den-4-2021051740268950</link>
-            <guid>https://anonystick.com/blog-developer/cac-cap-do-cua-lap-trinh-vien-tu-level-1-den-4-2021051740268950</guid>
-            <pubDate>Thu, 20 May 2021 04:27:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rollup.Js Cheat Sheet]]></title>
-            <link>https://cheatsheetmaker.com/rollupjs</link>
-            <guid>https://cheatsheetmaker.com/rollupjs</guid>
-            <pubDate>Wed, 19 May 2021 15:32:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Improving Firefox stability on Linux]]></title>
-            <link>https://hacks.mozilla.org/2021/05/improving-firefox-stability-on-linux/</link>
-            <guid>https://hacks.mozilla.org/2021/05/improving-firefox-stability-on-linux/</guid>
-            <pubDate>Wed, 19 May 2021 18:18:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Master Your Regex Skills by Solving This Word Cloud JavaScript Challenge]]></title>
-            <link>https://betterprogramming.pub/master-your-regex-skills-by-solving-this-word-cloud-javascript-challenge-4aef1a1d7d9b</link>
-            <guid>https://betterprogramming.pub/master-your-regex-skills-by-solving-this-word-cloud-javascript-challenge-4aef1a1d7d9b</guid>
-            <pubDate>Wed, 19 May 2021 13:02:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Building a waPC host in nodejs - the third in a series on building platforms w/ WebAssembly]]></title>
-            <link>https://vino.dev/blog/building-a-wapc-host-in-nodejs/</link>
-            <guid>https://vino.dev/blog/building-a-wapc-host-in-nodejs/</guid>
-            <pubDate>Wed, 19 May 2021 15:17:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It's just a possible implementation of redux]]></title>
-            <link>https://dev.to/jucian0/redux-implementation-iec</link>
-            <guid>https://dev.to/jucian0/redux-implementation-iec</guid>
-            <pubDate>Wed, 19 May 2021 11:24:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Announcing Vendure v1.0: A TypeScript headless e-commerce framework]]></title>
-            <link>https://www.vendure.io/blog/2021/05/announcing-vendure-v1.0/</link>
-            <guid>https://www.vendure.io/blog/2021/05/announcing-vendure-v1.0/</guid>
-            <pubDate>Wed, 19 May 2021 11:21:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A visualiser to help people learn about the DOM Event system through exploration]]></title>
-            <link>https://domevents.dev/</link>
-            <guid>https://domevents.dev/</guid>
-            <pubDate>Mon, 17 May 2021 23:33:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to reuse Storybook stories with React tests]]></title>
-            <link>https://medium.com/storybookjs/testing-lib-storybook-react-8c36716fab86</link>
-            <guid>https://medium.com/storybookjs/testing-lib-storybook-react-8c36716fab86</guid>
-            <pubDate>Tue, 18 May 2021 15:27:08 GMT</pubDate>
+            <title><![CDATA[A couple weeks ago I made a post about my chrome extension 'Reddit Wherever'. Which allows you view Reddit comments of the current webpage or replace YouTube comments with Reddit comments. Using your feedback I added tons of new features. (GitHub in comments)]]></title>
+            <link>https://chrome.google.com/webstore/detail/reddit-wherever/delfgcgfgfjlllhhcgiaacchlnhljbcm</link>
+            <guid>https://chrome.google.com/webstore/detail/reddit-wherever/delfgcgfgfjlllhhcgiaacchlnhljbcm</guid>
+            <pubDate>Wed, 19 May 2021 18:44:22 GMT</pubDate>
         </item>
     </channel>
 </rss>

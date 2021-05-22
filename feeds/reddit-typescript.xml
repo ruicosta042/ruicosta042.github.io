@@ -4,15 +4,45 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Fri, 21 May 2021 07:53:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 May 2021 07:54:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[I built a toy programming language using Typescript]]></title>
+            <link>https://github.com/DylanSp/wheel-lang</link>
+            <guid>https://github.com/DylanSp/wheel-lang</guid>
+            <pubDate>Fri, 21 May 2021 22:51:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to build Typescript libraries for use in SvelteKit and Vite?]]></title>
+            <link>https://github.com/Dan6erbond/SvelteKitAuth</link>
+            <guid>https://github.com/Dan6erbond/SvelteKitAuth</guid>
+            <pubDate>Fri, 21 May 2021 17:10:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Declarative Development Environments with CDK for Terraform in Typescript]]></title>
+            <link>https://danielmschmidt.de/declarative-development-environments-with-cdk-for-terraform/</link>
+            <guid>https://danielmschmidt.de/declarative-development-environments-with-cdk-for-terraform/</guid>
+            <pubDate>Fri, 21 May 2021 17:43:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to get the value type from type Map?]]></title>
+            <link>https://www.typescriptlang.org/play?#code/FAFwngDgpgBAtgQwjAvDAskgPAZzHAIwHsAbAGgDsBXQqAJwD4BuYUSWRCANQRKtjScYUAB4goFACY4M2PIVJkAlhQBm9GAFUGMAPxaYALhgUoAN3pMgA</link>
+            <guid>https://www.typescriptlang.org/play?#code/FAFwngDgpgBAtgQwjAvDAskgPAZzHAIwHsAbAGgDsBXQqAJwD4BuYUSWRCANQRKtjScYUAB4goFACY4M2PIVJkAlhQBm9GAFUGMAPxaYALhgUoAN3pMgA</guid>
+            <pubDate>Fri, 21 May 2021 11:00:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Typing some complex lodash stuff]]></title>
             <link>https://lodash.com/docs/4.17.15#defaultsDeep</link>
             <guid>https://lodash.com/docs/4.17.15#defaultsDeep</guid>
             <pubDate>Fri, 21 May 2021 07:39:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Enforcing explicit types via @typescript/eslint typedef rule.]]></title>
+            <link>https://github.com/typescript-eslint/typescript-eslint/blob/master/packages/eslint-plugin/docs/rules/typedef.md#options</link>
+            <guid>https://github.com/typescript-eslint/typescript-eslint/blob/master/packages/eslint-plugin/docs/rules/typedef.md#options</guid>
+            <pubDate>Fri, 21 May 2021 12:01:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vuestic UI - UI Components Library for Vue 3 built with TypeScript [x-post from r/javascript]]]></title>
@@ -25,42 +55,6 @@
             <link>https://jeroenouw.medium.com/typescript-utility-types-explained-6584b0306bd1?source=friends_link&amp;sk=43903202e91b6ffb7e2d1df2547b5c53</link>
             <guid>https://jeroenouw.medium.com/typescript-utility-types-explained-6584b0306bd1?source=friends_link&amp;sk=43903202e91b6ffb7e2d1df2547b5c53</guid>
             <pubDate>Tue, 18 May 2021 16:39:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bug? Function accepts Object with missing prop when defined to accept union of type A and B where B extends A.]]></title>
-            <link>https://www.typescriptlang.org/play?ts=4.4.0-dev.20210518#code/JYOwLgpgTgZghgYwgAgILIN4ChnLgfgC5kBnMKUAcwG4dkAjIhge2YBsI4RaBfLLUJFiIUAIWQQAHpBAATEmmy5Jxeqw5dauAJ7EyFEDSx8sMAK4gEYYMxDIADgbABhVlFkAKe2GLoAPsiiAJSYdAi2JOwQAHRszJQeAEQAKgAWKOHM7qBwkADkCpLIAG5wbGYowAqJyADUDmDRcEFayOEgkRyx8UlpGW6yOfkK2iVlFchVyDX13tH0LcZYjoKuWZ4YeMSJcCSyMIkANAzE5BM8i8tOa+4eGHDbu-tHyCrI8GwkEBfUQA</link>
-            <guid>https://www.typescriptlang.org/play?ts=4.4.0-dev.20210518#code/JYOwLgpgTgZghgYwgAgILIN4ChnLgfgC5kBnMKUAcwG4dkAjIhge2YBsI4RaBfLLUJFiIUAIWQQAHpBAATEmmy5Jxeqw5dauAJ7EyFEDSx8sMAK4gEYYMxDIADgbABhVlFkAKe2GLoAPsiiAJSYdAi2JOwQAHRszJQeAEQAKgAWKOHM7qBwkADkCpLIAG5wbGYowAqJyADUDmDRcEFayOEgkRyx8UlpGW6yOfkK2iVlFchVyDX13tH0LcZYjoKuWZ4YeMSJcCSyMIkANAzE5BM8i8tOa+4eGHDbu-tHyCrI8GwkEBfUQA</guid>
-            <pubDate>Tue, 18 May 2021 16:52:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Branding & Flavoring]]></title>
-            <link>https://brightinventions.pl/blog/branding-flavoring/</link>
-            <guid>https://brightinventions.pl/blog/branding-flavoring/</guid>
-            <pubDate>Tue, 18 May 2021 11:47:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[fp-army-knife]]></title>
-            <link>https://github.com/nrdlab/fp-army-knife</link>
-            <guid>https://github.com/nrdlab/fp-army-knife</guid>
-            <pubDate>Tue, 18 May 2021 19:25:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[Ask] How dyou get mongoose document to read its values]]></title>
-            <link>https://date.now/</link>
-            <guid>https://date.now/</guid>
-            <pubDate>Tue, 18 May 2021 12:51:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[declarative-tree : a library to convert strings to trees and vice versa]]></title>
-            <link>https://www.npmjs.com/package/declarative-tree</link>
-            <guid>https://www.npmjs.com/package/declarative-tree</guid>
-            <pubDate>Sat, 15 May 2021 22:42:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Typehole – Automatically generate TypeScript types and interfaces for all serializable runtime values]]></title>
-            <link>https://github.com/rikukissa/typehole</link>
-            <guid>https://github.com/rikukissa/typehole</guid>
-            <pubDate>Sat, 15 May 2021 08:44:15 GMT</pubDate>
         </item>
     </channel>
 </rss>

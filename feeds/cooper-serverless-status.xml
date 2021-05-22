@@ -4,57 +4,63 @@
         <title>Serverless Status</title>
         <link>https://serverless.email/</link>
         <description>A weekly newsletter on serverless and function-as-a-service (FaaS) architectures and platforms including AWS Lambda and Azure Functions.</description>
-        <lastBuildDate>Fri, 21 May 2021 07:53:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 May 2021 07:54:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Serverless Framework vs SAM vs CDK]]></title>
-            <link>https://tastefulelk.hashnode.dev/serverless-framework-vs-sam-vs-aws-cdk?guid=none&amp;deviceId=a012ab7d-47b1-4720-b097-74cf85d6e860</link>
-            <guid>https://tastefulelk.hashnode.dev/serverless-framework-vs-sam-vs-aws-cdk?guid=none&amp;deviceId=a012ab7d-47b1-4720-b097-74cf85d6e860</guid>
-            <pubDate>Fri, 14 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Multiplayer DOOM on Cloudflare Workers]]></title>
+            <link>https://blog.cloudflare.com/doom-multiplayer-workers/</link>
+            <guid>https://blog.cloudflare.com/doom-multiplayer-workers/</guid>
+            <pubDate>Fri, 21 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The AWS Serverless Patterns Collection]]></title>
-            <link>https://aws.amazon.com/blogs/compute/learn-how-to-integrate-aws-services-with-the-serverless-patterns-collection/</link>
-            <guid>https://aws.amazon.com/blogs/compute/learn-how-to-integrate-aws-services-with-the-serverless-patterns-collection/</guid>
-            <pubDate>Fri, 14 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[AWS Step Functions Now Integrates with EventBridge]]></title>
+            <link>https://aws.amazon.com/blogs/compute/introducing-the-amazon-eventbridge-service-integration-for-aws-step-functions/</link>
+            <guid>https://aws.amazon.com/blogs/compute/introducing-the-amazon-eventbridge-service-integration-for-aws-step-functions/</guid>
+            <pubDate>Fri, 21 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Four New Ways to Improve the Security of a Google Cloud Run Environment]]></title>
-            <link>https://cloud.google.com/blog/products/serverless/improving-the-security-of-your-cloud-run-environment</link>
-            <guid>https://cloud.google.com/blog/products/serverless/improving-the-security-of-your-cloud-run-environment</guid>
-            <pubDate>Fri, 14 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Announcing the Alpha Release of sls-test-tools]]></title>
+            <link>https://medium.com/serverless-transformation/announcing-the-alpha-release-of-sls-test-tools-bring-simplicity-to-serverless-integration-testing-a5a5ccabde43</link>
+            <guid>https://medium.com/serverless-transformation/announcing-the-alpha-release-of-sls-test-tools-bring-simplicity-to-serverless-integration-testing-a5a5ccabde43</guid>
+            <pubDate>Fri, 21 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lambda Layer: 'Not a Package Manager, But a Deployment Optimization']]></title>
-            <link>https://theburningmonk.com/2021/05/lambda-layer-not-a-package-manager-but-a-deployment-optimization/</link>
-            <guid>https://theburningmonk.com/2021/05/lambda-layer-not-a-package-manager-but-a-deployment-optimization/</guid>
-            <pubDate>Fri, 14 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[AWS App Runner: A New Way to Deploy Code on AWS]]></title>
+            <link>https://aws.amazon.com/blogs/aws/app-runner-from-code-to-scalable-secure-web-apps/</link>
+            <guid>https://aws.amazon.com/blogs/aws/app-runner-from-code-to-scalable-secure-web-apps/</guid>
+            <pubDate>Fri, 21 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to Send Changes from DocumentDB to Amazon MSK via AWS Lambda]]></title>
-            <link>https://aws.amazon.com/blogs/database/capture-changes-from-amazon-documentdb-via-aws-lambda-and-publish-them-to-amazon-msk/</link>
-            <guid>https://aws.amazon.com/blogs/database/capture-changes-from-amazon-documentdb-via-aws-lambda-and-publish-them-to-amazon-msk/</guid>
-            <pubDate>Fri, 14 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How Serverless is Becoming More Extensible with Julian Wood]]></title>
+            <link>https://www.serverlesschats.com/101/</link>
+            <guid>https://www.serverlesschats.com/101/</guid>
+            <pubDate>Fri, 21 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Use Netlify Functions to Send Email Notifications]]></title>
-            <link>https://www.seancdavis.com/blog/netlify-functions-email-notifications/</link>
-            <guid>https://www.seancdavis.com/blog/netlify-functions-email-notifications/</guid>
-            <pubDate>Fri, 14 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Scheduling Google Cloud SQL Instances to Start and Stop to Reduce Costs]]></title>
+            <link>https://cloud.google.com/blog/topics/developers-practitioners/lower-development-costs-schedule-cloud-sql-instances-start-and-stop</link>
+            <guid>https://cloud.google.com/blog/topics/developers-practitioners/lower-development-costs-schedule-cloud-sql-instances-start-and-stop</guid>
+            <pubDate>Fri, 21 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Building a Massively Scalable Serverless Chat Application with AWS AppSync]]></title>
-            <link>https://medium.com/serverless-transformation/building-a-massively-scalable-serverless-chat-application-with-aws-appsync-dbe1733dcb95</link>
-            <guid>https://medium.com/serverless-transformation/building-a-massively-scalable-serverless-chat-application-with-aws-appsync-dbe1733dcb95</guid>
-            <pubDate>Fri, 14 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Building Serverless Workflows in Pipedream]]></title>
+            <link>https://www.youtube.com/watch?v=iizTlpEi4Z8</link>
+            <guid>https://www.youtube.com/watch?v=iizTlpEi4Z8</guid>
+            <pubDate>Fri, 21 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Story of Building a Serverless CRUD App with AWS Lambda and Go]]></title>
-            <link>https://arjitjaiswal.medium.com/building-okayar-part-1-how-it-started-back-end-crud-serverless-lambda-api-in-go-3248ae93c97c</link>
-            <guid>https://arjitjaiswal.medium.com/building-okayar-part-1-how-it-started-back-end-crud-serverless-lambda-api-in-go-3248ae93c97c</guid>
-            <pubDate>Fri, 14 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Create a Serverless Pipeline to Translate Large Documents with Amazon Translate]]></title>
+            <link>https://aws.amazon.com/blogs/machine-learning/create-a-serverless-pipeline-to-translate-large-documents-with-amazon-translate/</link>
+            <guid>https://aws.amazon.com/blogs/machine-learning/create-a-serverless-pipeline-to-translate-large-documents-with-amazon-translate/</guid>
+            <pubDate>Fri, 21 May 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Asynchronous APIs with DynamoDB Streams]]></title>
+            <link>https://medium.com/nerd-for-tech/asynchronous-api-with-dynamodb-streams-4117776f2fa4</link>
+            <guid>https://medium.com/nerd-for-tech/asynchronous-api-with-dynamodb-streams-4117776f2fa4</guid>
+            <pubDate>Fri, 21 May 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,15 +4,39 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Fri, 21 May 2021 07:53:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 May 2021 07:54:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[One ORM to rule them all]]></title>
+            <link>https://mikro-orm.io/</link>
+            <guid>https://mikro-orm.io/</guid>
+            <pubDate>Sat, 22 May 2021 03:49:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[WIP] fservo - a functional web framework for node]]></title>
+            <link>https://github.com/22mahmoud/fservo</link>
+            <guid>https://github.com/22mahmoud/fservo</guid>
+            <pubDate>Fri, 21 May 2021 17:49:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Introducing WebContainers: Run Node.js natively in your browser]]></title>
             <link>https://blog.stackblitz.com/posts/introducing-webcontainers/</link>
             <guid>https://blog.stackblitz.com/posts/introducing-webcontainers/</guid>
             <pubDate>Thu, 20 May 2021 16:43:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Adlib: A Project Configuration Management Tool]]></title>
+            <link>https://www.npmjs.com/package/@adlib/cli</link>
+            <guid>https://www.npmjs.com/package/@adlib/cli</guid>
+            <pubDate>Fri, 21 May 2021 17:21:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I'm working towards a fully supported plug-n-play Mongoose Typescript generator (mongoose-tsgen), would love feedback on any remaining unhandled edge cases. The ultimate goal is to support integrating into any Mongoose project without needing changes to your existing Mongoose Schemas 🚀]]></title>
+            <link>https://github.com/francescov1/mongoose-tsgen</link>
+            <guid>https://github.com/francescov1/mongoose-tsgen</guid>
+            <pubDate>Fri, 21 May 2021 21:16:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Javascript News 3rd Week(May) – DOM Event system through exploration, Understanding Async Resources with Async Hooks, Open Source UI Components Library for Vue 3, Deno 1.10 Released - The ArrowFn]]></title>
@@ -21,64 +45,16 @@
             <pubDate>Fri, 21 May 2021 04:42:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Hi people of India, made a COWIN availability tracker for you guys with Twilio integration. Uses the public API on the COWIN website and sends out SMS notifications on availability. Refresh happens every one hour.]]></title>
+            <link>https://github.com/oni96/COWIN-Tracker</link>
+            <guid>https://github.com/oni96/COWIN-Tracker</guid>
+            <pubDate>Fri, 21 May 2021 09:27:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Expose your Express server from localhost or inside a docker container, and deliver traffic to your users]]></title>
             <link>https://exogress.com/?utm_source=rdnd</link>
             <guid>https://exogress.com/?utm_source=rdnd</guid>
             <pubDate>Thu, 20 May 2021 15:36:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dockerizing a Node.js, Express, MongoDB App with NGINX Reverse Proxy using Docker Compose]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Thu, 20 May 2021 15:57:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Generate production-ready Node code in seconds using Imagine.]]></title>
-            <link>http://imagine.ai/</link>
-            <guid>http://imagine.ai/</guid>
-            <pubDate>Wed, 19 May 2021 21:40:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A CheatSheet/Tutorial Styled Blog on Firestore]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Thu, 20 May 2021 14:10:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gatsby Source Strapi plugin is live - i18n, Gatsby v3 and dynamic zones support]]></title>
-            <link>https://strapi.io/blog/introducing-the-new-gatsby-source-strapi-plugin</link>
-            <guid>https://strapi.io/blog/introducing-the-new-gatsby-source-strapi-plugin</guid>
-            <pubDate>Wed, 19 May 2021 14:57:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rethinking JavaScript Infrastructure]]></title>
-            <link>https://cpojer.net/posts/rethinking-javascript-infrastructure</link>
-            <guid>https://cpojer.net/posts/rethinking-javascript-infrastructure</guid>
-            <pubDate>Thu, 20 May 2021 04:15:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Best Node practice project to polish you skill.]]></title>
-            <link>https://codersera.com/blog/nodejs-projects-for-beginners/</link>
-            <guid>https://codersera.com/blog/nodejs-projects-for-beginners/</guid>
-            <pubDate>Thu, 20 May 2021 03:25:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Top Node Js IDEs For Modern Application Development]]></title>
-            <link>https://www.bacancytechnology.com/blog/top-node-js-ides</link>
-            <guid>https://www.bacancytechnology.com/blog/top-node-js-ides</guid>
-            <pubDate>Thu, 20 May 2021 11:20:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[much better performance with promise hooks are inside new Node release]]></title>
-            <link>https://twitter.com/targos89/status/1394974985261883392</link>
-            <guid>https://twitter.com/targos89/status/1394974985261883392</guid>
-            <pubDate>Wed, 19 May 2021 13:34:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is there a library for rate limiting by API key?]]></title>
-            <link>https://www.npmjs.com/package/express-rate-limit</link>
-            <guid>https://www.npmjs.com/package/express-rate-limit</guid>
-            <pubDate>Wed, 19 May 2021 07:03:59 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Fri, 21 May 2021 07:53:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 May 2021 07:54:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,82 +15,46 @@
             <pubDate>Sat, 01 May 2021 18:04:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[cute-chat : Made a chatting app using reactjs and firebase]]></title>
+            <link>https://brainiac2677.github.io/cute-chat/?fbclid=IwAR2Q5SFvlYm-ih1_AftAMrbLJS3E1nSdsoqEkR-_OA6XDHvww7ZVWat7sJw#/</link>
+            <guid>https://brainiac2677.github.io/cute-chat/?fbclid=IwAR2Q5SFvlYm-ih1_AftAMrbLJS3E1nSdsoqEkR-_OA6XDHvww7ZVWat7sJw#/</guid>
+            <pubDate>Sat, 22 May 2021 03:57:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Made a learning-resources sharing web app using react , firebase/firestore and tailwind css.]]></title>
+            <link>https://sharedevresources.web.app/</link>
+            <guid>https://sharedevresources.web.app/</guid>
+            <pubDate>Fri, 21 May 2021 13:57:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Super cool patterns I found, but as JR developer I've literally never seen this before.Are these practices commonplace?]]></title>
             <link>https://javascript.plainenglish.io/5-advanced-react-patterns-a6b7624267a6</link>
             <guid>https://javascript.plainenglish.io/5-advanced-react-patterns-a6b7624267a6</guid>
             <pubDate>Thu, 20 May 2021 22:22:07 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[I made a drop-in replacement for React.memo() that doesn't require useCallback()]]></title>
+            <link>https://codesandbox.io/s/react-memo-plus-demo-jn46q?file=/src/TodoItem.tsx</link>
+            <guid>https://codesandbox.io/s/react-memo-plus-demo-jn46q?file=/src/TodoItem.tsx</guid>
+            <pubDate>Fri, 21 May 2021 16:10:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Validate JWT token]]></title>
+            <link>https://jwt.io/</link>
+            <guid>https://jwt.io/</guid>
+            <pubDate>Fri, 21 May 2021 15:10:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[So new to react created my first react site would love some feedback. Love how simple react is to get into ☺️]]></title>
+            <link>https://lobacob.co.uk/</link>
+            <guid>https://lobacob.co.uk/</guid>
+            <pubDate>Fri, 21 May 2021 12:17:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Clean pattern for handling roles and permissions in large-scale React apps]]></title>
             <link>https://iskenxan.medium.com/clean-pattern-for-handling-roles-and-permissions-in-large-scale-react-apps-99531869ad71?source=friends_link&amp;sk=0eb87911a41754d9593ab7788ec5a4f1</link>
             <guid>https://iskenxan.medium.com/clean-pattern-for-handling-roles-and-permissions-in-large-scale-react-apps-99531869ad71?source=friends_link&amp;sk=0eb87911a41754d9593ab7788ec5a4f1</guid>
             <pubDate>Thu, 20 May 2021 13:23:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[12 Best React Ecommerce Templates]]></title>
-            <link>https://reactjsexample.com/12-best-react-ecommerce-templates/</link>
-            <guid>https://reactjsexample.com/12-best-react-ecommerce-templates/</guid>
-            <pubDate>Fri, 21 May 2021 06:01:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['winbox-react' a react npm library that lets you make windows menus.]]></title>
-            <link>https://tanvirmahin24.github.io/winbox-react/</link>
-            <guid>https://tanvirmahin24.github.io/winbox-react/</guid>
-            <pubDate>Fri, 21 May 2021 05:00:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft is finally retiring IE on June 15, 2022]]></title>
-            <link>https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/</link>
-            <guid>https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/</guid>
-            <pubDate>Wed, 19 May 2021 17:10:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How To Use React Native Flatlist]]></title>
-            <link>https://flatlogic.com/blog/how-to-use-react-native-flatlist/</link>
-            <guid>https://flatlogic.com/blog/how-to-use-react-native-flatlist/</guid>
-            <pubDate>Thu, 20 May 2021 19:49:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coursera clone using MERN STACK and redis database to cache the chats.]]></title>
-            <link>https://github.com/ayush-lab/Coursera-Clone</link>
-            <guid>https://github.com/ayush-lab/Coursera-Clone</guid>
-            <pubDate>Thu, 20 May 2021 17:24:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GDLauncher - a Minecraft custom launcher written in reactjs/electron looking for feedback/contributors]]></title>
-            <link>https://vimeo.com/553139662</link>
-            <guid>https://vimeo.com/553139662</guid>
-            <pubDate>Fri, 21 May 2021 00:38:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wanna try different state management? Have a look at react-easy-state]]></title>
-            <link>https://github.com/RisingStack/react-easy-state</link>
-            <guid>https://github.com/RisingStack/react-easy-state</guid>
-            <pubDate>Thu, 20 May 2021 23:36:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Collection of active React UI libraries]]></title>
-            <link>https://webkid.io/blog/react-ui-libraries-component-libraries-2021/</link>
-            <guid>https://webkid.io/blog/react-ui-libraries-component-libraries-2021/</guid>
-            <pubDate>Thu, 20 May 2021 13:43:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Tailwind CSS blocks on Wickedblocks ( is 100% free ) a total of 72]]></title>
-            <link>https://wickedblocks.dev/</link>
-            <guid>https://wickedblocks.dev/</guid>
-            <pubDate>Thu, 20 May 2021 06:16:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A CheatSheet/Tutorial Styled Blog on Firestore]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Thu, 20 May 2021 14:08:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React Bare Forms - Easy to use form library for React]]></title>
-            <link>https://github.com/joegasewicz/react-bare-forms</link>
-            <guid>https://github.com/joegasewicz/react-bare-forms</guid>
-            <pubDate>Thu, 20 May 2021 11:04:46 GMT</pubDate>
         </item>
     </channel>
 </rss>

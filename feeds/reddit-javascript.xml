@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Fri, 21 May 2021 07:53:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 May 2021 07:54:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,16 +15,100 @@
             <pubDate>Mon, 17 May 2021 09:03:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Time I (Sorta) Had a Real Use Case for a Bitwise Operator in JavaScript]]></title>
+            <link>https://macarthur.me/posts/use-case-for-bitwise-operator-in-javascript</link>
+            <guid>https://macarthur.me/posts/use-case-for-bitwise-operator-in-javascript</guid>
+            <pubDate>Sat, 22 May 2021 03:44:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Announcing a new Appwrite Release - a step closer to becoming a complete OSS Firebase Alternative]]></title>
+            <link>https://dev.to/appwrite/announcing-appwrite-0-8-an-open-source-self-hosted-baas-kda?x=y</link>
+            <guid>https://dev.to/appwrite/announcing-appwrite-0-8-an-open-source-self-hosted-baas-kda?x=y</guid>
+            <pubDate>Fri, 21 May 2021 13:38:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Ember Framework Takes the GAAD Pledge]]></title>
+            <link>https://blog.emberjs.com/gaad-2021/</link>
+            <guid>https://blog.emberjs.com/gaad-2021/</guid>
+            <pubDate>Fri, 21 May 2021 13:47:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Front-end Studio powered by SolidJS]]></title>
+            <link>https://dev.to/przemek/front-end-studio-powered-by-solidjs-e5o</link>
+            <guid>https://dev.to/przemek/front-end-studio-powered-by-solidjs-e5o</guid>
+            <pubDate>Fri, 21 May 2021 17:33:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Weekly Notes 016 - How important are CS Fundamentals? Etheruem Proof-of-Stake, Advice for young scientists.]]></title>
+            <link>https://victorofoegbu.com/notes/weekly-notes-016</link>
+            <guid>https://victorofoegbu.com/notes/weekly-notes-016</guid>
+            <pubDate>Sat, 22 May 2021 05:25:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[Re]introducing the Clio programming language]]></title>
+            <link>https://pouyae.medium.com/re-introducing-the-clio-programming-language-cfdb3ce9fc49</link>
+            <guid>https://pouyae.medium.com/re-introducing-the-clio-programming-language-cfdb3ce9fc49</guid>
+            <pubDate>Fri, 21 May 2021 17:04:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Introducing WebContainers: Run Node.js natively in your browser]]></title>
             <link>https://blog.stackblitz.com/posts/introducing-webcontainers/</link>
             <guid>https://blog.stackblitz.com/posts/introducing-webcontainers/</guid>
             <pubDate>Thu, 20 May 2021 22:31:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Make HTTP requests with JavaScript Fetch API]]></title>
+            <link>https://jscurious.com/javascript-fetch-api-to-make-http-requests/</link>
+            <guid>https://jscurious.com/javascript-fetch-api-to-make-http-requests/</guid>
+            <pubDate>Sat, 22 May 2021 06:34:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Most Misunderstood Programming Language]]></title>
+            <link>http://www.crockford.com/javascript/javascript.html</link>
+            <guid>http://www.crockford.com/javascript/javascript.html</guid>
+            <pubDate>Sat, 22 May 2021 06:20:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HyperExpress: A high performance Node.js webserver with a simple-to-use API]]></title>
+            <link>https://github.com/kartikk221/hyper-express</link>
+            <guid>https://github.com/kartikk221/hyper-express</guid>
+            <pubDate>Fri, 21 May 2021 14:54:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Adlib: A Project Configuration Management Tool]]></title>
+            <link>https://www.npmjs.com/package/@adlib/cli</link>
+            <guid>https://www.npmjs.com/package/@adlib/cli</guid>
+            <pubDate>Fri, 21 May 2021 17:18:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to build a Pythagorean theorem calculator with JavaScript.]]></title>
+            <link>https://www.charmingdesk.com.ng/2021/05/22/javascript-pythagorean-program/</link>
+            <guid>https://www.charmingdesk.com.ng/2021/05/22/javascript-pythagorean-program/</guid>
+            <pubDate>Sat, 22 May 2021 00:07:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Web Components 101: Why use Web Components?]]></title>
+            <link>https://nhswd.com/blog/web-components-101-why-use-web-components/</link>
+            <guid>https://nhswd.com/blog/web-components-101-why-use-web-components/</guid>
+            <pubDate>Fri, 21 May 2021 15:35:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Parcel 2 beta 3: 10× faster JavaScript compiler written in Rust]]></title>
             <link>https://v2.parceljs.org/blog/beta3/</link>
             <guid>https://v2.parceljs.org/blog/beta3/</guid>
             <pubDate>Thu, 20 May 2021 15:43:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TC39er Podcast with Mike Samuel!]]></title>
+            <link>https://tc39er.us/posts/episode-11-mike-samuel/</link>
+            <guid>https://tc39er.us/posts/episode-11-mike-samuel/</guid>
+            <pubDate>Fri, 21 May 2021 19:49:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Svelte3 web-components boilerplate for creating custom elements]]></title>
+            <link>https://github.com/tal1992/svelte-webcomponents</link>
+            <guid>https://github.com/tal1992/svelte-webcomponents</guid>
+            <pubDate>Fri, 21 May 2021 19:39:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I built this Lottie animation editor to edit Lottie animations without After Effects! If like me, you use Lottie animations as part of your frontend UI but struggle with After Effects or implementation issues, would like to know what you think]]></title>
@@ -51,118 +135,10 @@
             <pubDate>Fri, 21 May 2021 00:33:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Do you know, 0.1 + 0.2 is not equal to 0.3 in JavaScript? Here is why!]]></title>
-            <link>https://blog.pankajtanwar.in/do-you-know-01-02-03-in-javascript-here-is-why?view</link>
-            <guid>https://blog.pankajtanwar.in/do-you-know-01-02-03-in-javascript-here-is-why?view</guid>
-            <pubDate>Fri, 21 May 2021 07:09:48 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Microsoft finally retiring Internet Explorer on June 15,2022]]></title>
             <link>https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/</link>
             <guid>https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/</guid>
             <pubDate>Wed, 19 May 2021 18:23:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In-browser Typescript notebook]]></title>
-            <link>https://jasmcole.com/2021/05/19/matslab/</link>
-            <guid>https://jasmcole.com/2021/05/19/matslab/</guid>
-            <pubDate>Thu, 20 May 2021 11:43:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[web-worker-hooks - A library for running stuff in web workers with CRA]]></title>
-            <link>https://github.com/BlueBlazin/web-worker-hooks</link>
-            <guid>https://github.com/BlueBlazin/web-worker-hooks</guid>
-            <pubDate>Thu, 20 May 2021 13:42:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Building Bitcoin in JavaScript, to learn how it works]]></title>
-            <link>https://bluepnume.medium.com/building-bitcoin-in-javascript-1a82534765ec/?s=prf</link>
-            <guid>https://bluepnume.medium.com/building-bitcoin-in-javascript-1a82534765ec/?s=prf</guid>
-            <pubDate>Thu, 20 May 2021 19:22:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Deploy your React Project to Netlify? (step by step)]]></title>
-            <link>https://brayanarrieta.hashnode.dev/how-to-deploy-your-react-project-to-netlify-step-by-step-1</link>
-            <guid>https://brayanarrieta.hashnode.dev/how-to-deploy-your-react-project-to-netlify-step-by-step-1</guid>
-            <pubDate>Thu, 20 May 2021 22:20:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turn Your Rockets into Washing Machines]]></title>
-            <link>https://evan-brass.medium.com/turn-your-rockets-into-washing-machines-f3cb65039cab?sk=37759508bb8892cacc672ba460908f79</link>
-            <guid>https://evan-brass.medium.com/turn-your-rockets-into-washing-machines-f3cb65039cab?sk=37759508bb8892cacc672ba460908f79</guid>
-            <pubDate>Thu, 20 May 2021 21:52:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I built a color + font generator with JS, hopefully it helps you design your next project! 100% free, no signup required :)]]></title>
-            <link>https://onetwobrand.com/</link>
-            <guid>https://onetwobrand.com/</guid>
-            <pubDate>Thu, 20 May 2021 20:26:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[Poly Art 3D] You will fall in love]]></title>
-            <link>https://www.happykidgames.com/game/poly-art-3d</link>
-            <guid>https://www.happykidgames.com/game/poly-art-3d</guid>
-            <pubDate>Thu, 20 May 2021 19:23:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Application based themed styling for your components]]></title>
-            <link>https://tobiasuhlig.medium.com/application-based-themed-styling-for-your-components-d8becd1217a9?source=friends_link&amp;sk=3f8304f0ca7f67e6cdc0e3e9a8db6e03</link>
-            <guid>https://tobiasuhlig.medium.com/application-based-themed-styling-for-your-components-d8becd1217a9?source=friends_link&amp;sk=3f8304f0ca7f67e6cdc0e3e9a8db6e03</guid>
-            <pubDate>Thu, 20 May 2021 07:33:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trombone.js - a digital trombone for your web browser]]></title>
-            <link>https://github.com/bignimbus/trombone.js</link>
-            <guid>https://github.com/bignimbus/trombone.js</guid>
-            <pubDate>Wed, 19 May 2021 11:48:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rethinking JavaScript Infrastructure]]></title>
-            <link>https://cpojer.net/posts/rethinking-javascript-infrastructure</link>
-            <guid>https://cpojer.net/posts/rethinking-javascript-infrastructure</guid>
-            <pubDate>Thu, 20 May 2021 04:16:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Using First Contentful Paint (FCP) for Performance Monitoring]]></title>
-            <link>https://requestmetrics.com/web-performance/first-contentful-paint-fcp</link>
-            <guid>https://requestmetrics.com/web-performance/first-contentful-paint-fcp</guid>
-            <pubDate>Thu, 20 May 2021 16:25:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Monitoring: A case study for EventTarget]]></title>
-            <link>https://blog.atomrc.dev/p/case-study-event-target/</link>
-            <guid>https://blog.atomrc.dev/p/case-study-event-target/</guid>
-            <pubDate>Thu, 20 May 2021 12:31:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The google/zx starting with v1.8 supports Markdown Scripts (AKA litcoffee)]]></title>
-            <link>https://github.com/google/zx/blob/main/examples/index.md</link>
-            <guid>https://github.com/google/zx/blob/main/examples/index.md</guid>
-            <pubDate>Wed, 19 May 2021 20:10:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Over the pandemic, I made a 2D Arena Shooter in node.js! Alpha launch Thursday 9pm CST and I'm looking for feedback!]]></title>
-            <link>https://ss.treatmetcalf.com/</link>
-            <guid>https://ss.treatmetcalf.com/</guid>
-            <pubDate>Thu, 20 May 2021 02:01:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Style any Input Field – Tips and Techniques]]></title>
-            <link>https://beforesemicolon.medium.com/how-to-style-an-input-field-with-css-only-tips-and-techniques-e6a00e9dcc50</link>
-            <guid>https://beforesemicolon.medium.com/how-to-style-an-input-field-with-css-only-tips-and-techniques-e6a00e9dcc50</guid>
-            <pubDate>Thu, 20 May 2021 06:44:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vandal – Browser extension that helps you navigate back in time using Wayback Machine without leaving your current tab]]></title>
-            <link>https://vegetableman.github.io/vandal/</link>
-            <guid>https://vegetableman.github.io/vandal/</guid>
-            <pubDate>Wed, 19 May 2021 19:53:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A couple weeks ago I made a post about my chrome extension 'Reddit Wherever'. Which allows you view Reddit comments of the current webpage or replace YouTube comments with Reddit comments. Using your feedback I added tons of new features. (GitHub in comments)]]></title>
-            <link>https://chrome.google.com/webstore/detail/reddit-wherever/delfgcgfgfjlllhhcgiaacchlnhljbcm</link>
-            <guid>https://chrome.google.com/webstore/detail/reddit-wherever/delfgcgfgfjlllhhcgiaacchlnhljbcm</guid>
-            <pubDate>Wed, 19 May 2021 18:44:22 GMT</pubDate>
         </item>
     </channel>
 </rss>

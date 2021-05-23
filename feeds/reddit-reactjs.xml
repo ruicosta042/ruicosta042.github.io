@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sat, 22 May 2021 07:54:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 May 2021 07:53:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,46 +15,46 @@
             <pubDate>Sat, 01 May 2021 18:04:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[A tool to help all Open Source engineers in the world build landing pages for their GitHub Projects in seconds! All built with NextJS + React]]></title>
+            <link>https://www.gitpages.app/</link>
+            <guid>https://www.gitpages.app/</guid>
+            <pubDate>Sat, 22 May 2021 09:06:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Redux Toolkit 1.6.0-beta.0 with RTK Query: new `onCacheEntryAdded` option for streaming cache updates]]></title>
+            <link>https://github.com/reduxjs/redux-toolkit/releases/tag/v1.6.0-beta.0</link>
+            <guid>https://github.com/reduxjs/redux-toolkit/releases/tag/v1.6.0-beta.0</guid>
+            <pubDate>Sat, 22 May 2021 18:13:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My first personal Reactjs project]]></title>
+            <link>https://github.com/juliaeliz92/calculator</link>
+            <guid>https://github.com/juliaeliz92/calculator</guid>
+            <pubDate>Sun, 23 May 2021 05:38:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[My First React App] You will get random meme from reddit every time you refresh!]]></title>
+            <link>https://todo-eight-blond.vercel.app/</link>
+            <guid>https://todo-eight-blond.vercel.app/</guid>
+            <pubDate>Sat, 22 May 2021 17:04:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[cute-chat : Made a chatting app using reactjs and firebase]]></title>
             <link>https://brainiac2677.github.io/cute-chat/?fbclid=IwAR2Q5SFvlYm-ih1_AftAMrbLJS3E1nSdsoqEkR-_OA6XDHvww7ZVWat7sJw#/</link>
             <guid>https://brainiac2677.github.io/cute-chat/?fbclid=IwAR2Q5SFvlYm-ih1_AftAMrbLJS3E1nSdsoqEkR-_OA6XDHvww7ZVWat7sJw#/</guid>
             <pubDate>Sat, 22 May 2021 03:57:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Made a learning-resources sharing web app using react , firebase/firestore and tailwind css.]]></title>
-            <link>https://sharedevresources.web.app/</link>
-            <guid>https://sharedevresources.web.app/</guid>
-            <pubDate>Fri, 21 May 2021 13:57:53 GMT</pubDate>
+            <title><![CDATA[A simple package that exposes a Responsive Mobile-sized Wrapper component for React - You can easily prototype mobile web apps with desktop layout support with it :)]]></title>
+            <link>https://github.com/junhoyeo/react-mobile-sized-view</link>
+            <guid>https://github.com/junhoyeo/react-mobile-sized-view</guid>
+            <pubDate>Sat, 22 May 2021 15:03:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Super cool patterns I found, but as JR developer I've literally never seen this before.Are these practices commonplace?]]></title>
-            <link>https://javascript.plainenglish.io/5-advanced-react-patterns-a6b7624267a6</link>
-            <guid>https://javascript.plainenglish.io/5-advanced-react-patterns-a6b7624267a6</guid>
-            <pubDate>Thu, 20 May 2021 22:22:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I made a drop-in replacement for React.memo() that doesn't require useCallback()]]></title>
-            <link>https://codesandbox.io/s/react-memo-plus-demo-jn46q?file=/src/TodoItem.tsx</link>
-            <guid>https://codesandbox.io/s/react-memo-plus-demo-jn46q?file=/src/TodoItem.tsx</guid>
-            <pubDate>Fri, 21 May 2021 16:10:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Validate JWT token]]></title>
-            <link>https://jwt.io/</link>
-            <guid>https://jwt.io/</guid>
-            <pubDate>Fri, 21 May 2021 15:10:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[So new to react created my first react site would love some feedback. Love how simple react is to get into ☺️]]></title>
-            <link>https://lobacob.co.uk/</link>
-            <guid>https://lobacob.co.uk/</guid>
-            <pubDate>Fri, 21 May 2021 12:17:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Clean pattern for handling roles and permissions in large-scale React apps]]></title>
-            <link>https://iskenxan.medium.com/clean-pattern-for-handling-roles-and-permissions-in-large-scale-react-apps-99531869ad71?source=friends_link&amp;sk=0eb87911a41754d9593ab7788ec5a4f1</link>
-            <guid>https://iskenxan.medium.com/clean-pattern-for-handling-roles-and-permissions-in-large-scale-react-apps-99531869ad71?source=friends_link&amp;sk=0eb87911a41754d9593ab7788ec5a4f1</guid>
-            <pubDate>Thu, 20 May 2021 13:23:29 GMT</pubDate>
+            <title><![CDATA[My first open source project: a react customizable sidebar and navbar (need your insights)]]></title>
+            <link>https://github.com/tareksaad-ds/navzilla</link>
+            <guid>https://github.com/tareksaad-ds/navzilla</guid>
+            <pubDate>Sat, 22 May 2021 13:54:42 GMT</pubDate>
         </item>
     </channel>
 </rss>

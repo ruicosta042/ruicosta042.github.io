@@ -4,15 +4,51 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Sat, 22 May 2021 07:54:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 May 2021 07:53:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[How to upgrade TypeScript versions - what's your process regarding breaking changes?]]></title>
+            <link>https://github.com/microsoft/TypeScript-wiki/blob/master/Breaking-Changes.md</link>
+            <guid>https://github.com/microsoft/TypeScript-wiki/blob/master/Breaking-Changes.md</guid>
+            <pubDate>Sun, 23 May 2021 00:30:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Deep Object Change Handlers in Typescript]]></title>
+            <link>https://typeofnan.dev/deep-object-change-handlers-in-typescript/</link>
+            <guid>https://typeofnan.dev/deep-object-change-handlers-in-typescript/</guid>
+            <pubDate>Sat, 22 May 2021 14:31:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My short, easy, dependency-less method for compiling and distributing Typescript libraries with both top level exports and exports from sub directories / sub modules, similar to how libraries like rxjs and lodash are structured.]]></title>
+            <link>https://github.com/Dawar/typescript-library-tutorial</link>
+            <guid>https://github.com/Dawar/typescript-library-tutorial</guid>
+            <pubDate>Sat, 22 May 2021 14:26:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Question: Node + Express + Typescript - How should I type an express request parameter with an added custom field?]]></title>
+            <link>https://github.com/SSamps/template-backend-node-express-typescript/blob/feature/newCollection/src/routes/test.ts</link>
+            <guid>https://github.com/SSamps/template-backend-node-express-typescript/blob/feature/newCollection/src/routes/test.ts</guid>
+            <pubDate>Sat, 22 May 2021 17:17:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to bundle Typescript libraries with multiple entry points?]]></title>
+            <link>https://github.com/developit/microbundle/issues/545</link>
+            <guid>https://github.com/developit/microbundle/issues/545</guid>
+            <pubDate>Sat, 22 May 2021 13:27:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I built a toy programming language using Typescript]]></title>
             <link>https://github.com/DylanSp/wheel-lang</link>
             <guid>https://github.com/DylanSp/wheel-lang</guid>
             <pubDate>Fri, 21 May 2021 22:51:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[validax : A clean way to validate JSON schema in Typescript]]></title>
+            <link>https://github.com/a179346/validax</link>
+            <guid>https://github.com/a179346/validax</guid>
+            <pubDate>Sat, 22 May 2021 09:15:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to build Typescript libraries for use in SvelteKit and Vite?]]></title>
@@ -49,12 +85,6 @@
             <link>https://github.com/epicmaxco/vuestic-ui</link>
             <guid>https://github.com/epicmaxco/vuestic-ui</guid>
             <pubDate>Thu, 20 May 2021 12:10:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TypeScript Utility Types Explained]]></title>
-            <link>https://jeroenouw.medium.com/typescript-utility-types-explained-6584b0306bd1?source=friends_link&amp;sk=43903202e91b6ffb7e2d1df2547b5c53</link>
-            <guid>https://jeroenouw.medium.com/typescript-utility-types-explained-6584b0306bd1?source=friends_link&amp;sk=43903202e91b6ffb7e2d1df2547b5c53</guid>
-            <pubDate>Tue, 18 May 2021 16:39:36 GMT</pubDate>
         </item>
     </channel>
 </rss>

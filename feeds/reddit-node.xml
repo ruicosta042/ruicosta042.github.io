@@ -4,15 +4,57 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Sat, 22 May 2021 07:54:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 May 2021 07:53:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Popular Elitism In Programming - How your path of learning can affect your judgement towards other people]]></title>
+            <link>https://fagnerbrack.com/popular-elitism-in-programming-d11447bc60dd?source=friends_link&amp;amp;sk=3e335ef5c632dcefd83da14b1ca8313c</link>
+            <guid>https://fagnerbrack.com/popular-elitism-in-programming-d11447bc60dd?source=friends_link&amp;amp;sk=3e335ef5c632dcefd83da14b1ca8313c</guid>
+            <pubDate>Sun, 23 May 2021 06:09:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is route based caching for 3rd party API data on a reverse proxy server an acceptable caching method?]]></title>
+            <link>https://gist.github.com/Yukezter/1e137e6a05df3427a09e9647a9b0c254</link>
+            <guid>https://gist.github.com/Yukezter/1e137e6a05df3427a09e9647a9b0c254</guid>
+            <pubDate>Sat, 22 May 2021 22:20:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[One ORM to rule them all]]></title>
             <link>https://mikro-orm.io/</link>
             <guid>https://mikro-orm.io/</guid>
             <pubDate>Sat, 22 May 2021 03:49:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CoWin India telegram bot]]></title>
+            <link>https://github.com/parthibd/cowin-track</link>
+            <guid>https://github.com/parthibd/cowin-track</guid>
+            <pubDate>Sat, 22 May 2021 19:50:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Next.js for multiple domains with different content, but the same codebase]]></title>
+            <link>https://nextjs.org/docs/basic-features/data-fetching#incremental-static-regeneration</link>
+            <guid>https://nextjs.org/docs/basic-features/data-fetching#incremental-static-regeneration</guid>
+            <pubDate>Sun, 23 May 2021 01:27:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to install node.js and run your first app]]></title>
+            <link>https://www.dottedsquirrel.com/install-nodejs/</link>
+            <guid>https://www.dottedsquirrel.com/install-nodejs/</guid>
+            <pubDate>Sun, 23 May 2021 01:24:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to read or download or stream Document from S3 using AWS Lambda and Nodejs]]></title>
+            <link>https://lazypandatech.com/blog/AWS/37/How-to-read-or-download-or-stream-Document-from-S3-using-AWS-Lambda-and-Nodejs</link>
+            <guid>https://lazypandatech.com/blog/AWS/37/How-to-read-or-download-or-stream-Document-from-S3-using-AWS-Lambda-and-Nodejs</guid>
+            <pubDate>Sat, 22 May 2021 10:11:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Help: Node + Express + Typescript - How should I type a request parameter with an added custom field?]]></title>
+            <link>https://github.com/SSamps/template-backend-node-express-typescript/blob/feature/newCollection/src/routes/test.ts</link>
+            <guid>https://github.com/SSamps/template-backend-node-express-typescript/blob/feature/newCollection/src/routes/test.ts</guid>
+            <pubDate>Sat, 22 May 2021 17:11:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[WIP] fservo - a functional web framework for node]]></title>
@@ -21,40 +63,10 @@
             <pubDate>Fri, 21 May 2021 17:49:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Introducing WebContainers: Run Node.js natively in your browser]]></title>
-            <link>https://blog.stackblitz.com/posts/introducing-webcontainers/</link>
-            <guid>https://blog.stackblitz.com/posts/introducing-webcontainers/</guid>
-            <pubDate>Thu, 20 May 2021 16:43:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Adlib: A Project Configuration Management Tool]]></title>
-            <link>https://www.npmjs.com/package/@adlib/cli</link>
-            <guid>https://www.npmjs.com/package/@adlib/cli</guid>
-            <pubDate>Fri, 21 May 2021 17:21:28 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[I'm working towards a fully supported plug-n-play Mongoose Typescript generator (mongoose-tsgen), would love feedback on any remaining unhandled edge cases. The ultimate goal is to support integrating into any Mongoose project without needing changes to your existing Mongoose Schemas 🚀]]></title>
             <link>https://github.com/francescov1/mongoose-tsgen</link>
             <guid>https://github.com/francescov1/mongoose-tsgen</guid>
             <pubDate>Fri, 21 May 2021 21:16:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Javascript News 3rd Week(May) – DOM Event system through exploration, Understanding Async Resources with Async Hooks, Open Source UI Components Library for Vue 3, Deno 1.10 Released - The ArrowFn]]></title>
-            <link>https://thearrowfn.com/javascript-news-3rd-weekmay-dom-event-system-through-exploration/?_thumbnail_id=2722</link>
-            <guid>https://thearrowfn.com/javascript-news-3rd-weekmay-dom-event-system-through-exploration/?_thumbnail_id=2722</guid>
-            <pubDate>Fri, 21 May 2021 04:42:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hi people of India, made a COWIN availability tracker for you guys with Twilio integration. Uses the public API on the COWIN website and sends out SMS notifications on availability. Refresh happens every one hour.]]></title>
-            <link>https://github.com/oni96/COWIN-Tracker</link>
-            <guid>https://github.com/oni96/COWIN-Tracker</guid>
-            <pubDate>Fri, 21 May 2021 09:27:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Expose your Express server from localhost or inside a docker container, and deliver traffic to your users]]></title>
-            <link>https://exogress.com/?utm_source=rdnd</link>
-            <guid>https://exogress.com/?utm_source=rdnd</guid>
-            <pubDate>Thu, 20 May 2021 15:36:31 GMT</pubDate>
         </item>
     </channel>
 </rss>

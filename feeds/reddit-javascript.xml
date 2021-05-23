@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sat, 22 May 2021 07:54:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 May 2021 07:53:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,70 @@
             <pubDate>Mon, 17 May 2021 09:03:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[DOOM Captcha - Captchas don't have to be boring]]></title>
+            <link>https://vivirenremoto.github.io/doomcaptcha/</link>
+            <guid>https://vivirenremoto.github.io/doomcaptcha/</guid>
+            <pubDate>Sat, 22 May 2021 22:49:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[zx 1.9.0 release with a new pipe() method]]></title>
+            <link>https://github.com/google/zx/releases/tag/1.9.0</link>
+            <guid>https://github.com/google/zx/releases/tag/1.9.0</guid>
+            <pubDate>Sat, 22 May 2021 15:15:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Being a good interviewer - How to perform on the other side of interview table]]></title>
+            <link>https://dev.to/freakomonk/being-a-good-interviewer-how-to-perform-on-the-other-side-of-interviewing-table-465g</link>
+            <guid>https://dev.to/freakomonk/being-a-good-interviewer-how-to-perform-on-the-other-side-of-interviewing-table-465g</guid>
+            <pubDate>Sun, 23 May 2021 06:01:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A minimalist generative art thing – press the buttons and play with the sliders]]></title>
+            <link>https://github.com/doersino/uji</link>
+            <guid>https://github.com/doersino/uji</guid>
+            <pubDate>Sun, 23 May 2021 03:55:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Access Device Camera from static HTML page using Javascript Camera API]]></title>
+            <link>https://blog.kmtabish.com/access-device-camera-from-static-html-page-using-javascript-camera-api</link>
+            <guid>https://blog.kmtabish.com/access-device-camera-from-static-html-page-using-javascript-camera-api</guid>
+            <pubDate>Sat, 22 May 2021 15:11:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A fun little weekend project: Clock of Clocks]]></title>
+            <link>https://github.com/Absolute-Tinkerer/Clock-of-Clocks</link>
+            <guid>https://github.com/Absolute-Tinkerer/Clock-of-Clocks</guid>
+            <pubDate>Sun, 23 May 2021 02:29:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Time I (Sorta) Had a Real Use Case for a Bitwise Operator in JavaScript]]></title>
             <link>https://macarthur.me/posts/use-case-for-bitwise-operator-in-javascript</link>
             <guid>https://macarthur.me/posts/use-case-for-bitwise-operator-in-javascript</guid>
             <pubDate>Sat, 22 May 2021 03:44:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[easy-ast-transform - a much easier way of modifying js AST nodes]]></title>
+            <link>https://www.npmjs.com/package/easy-ast-transform</link>
+            <guid>https://www.npmjs.com/package/easy-ast-transform</guid>
+            <pubDate>Sat, 22 May 2021 18:13:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rewriting Deno’s Testing Tools]]></title>
+            <link>http://caspervonb.xyz/2021/05/10/rewriting-denos-testing-tools.html</link>
+            <guid>http://caspervonb.xyz/2021/05/10/rewriting-denos-testing-tools.html</guid>
+            <pubDate>Sat, 22 May 2021 15:57:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[COVID-19 Vaccination Tracker: I wanted to visualize the vaccination progress as best as I could, it gives me hope seeing the progress in the otherwise grim situation. Hope that this website can also help you. Also, it's Open Source, please feel free to submit PRs if you want.]]></title>
+            <link>https://covid-19-vaccination-tracker.github.io/</link>
+            <guid>https://covid-19-vaccination-tracker.github.io/</guid>
+            <pubDate>Sat, 22 May 2021 10:00:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I made a desktop app with JavaScript: Geniemoji]]></title>
+            <link>https://virejdasani.github.io/Geniemoji/</link>
+            <guid>https://virejdasani.github.io/Geniemoji/</guid>
+            <pubDate>Sat, 22 May 2021 11:58:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Announcing a new Appwrite Release - a step closer to becoming a complete OSS Firebase Alternative]]></title>
@@ -27,22 +87,34 @@
             <pubDate>Fri, 21 May 2021 13:38:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Ember Framework Takes the GAAD Pledge]]></title>
-            <link>https://blog.emberjs.com/gaad-2021/</link>
-            <guid>https://blog.emberjs.com/gaad-2021/</guid>
-            <pubDate>Fri, 21 May 2021 13:47:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Front-end Studio powered by SolidJS]]></title>
             <link>https://dev.to/przemek/front-end-studio-powered-by-solidjs-e5o</link>
             <guid>https://dev.to/przemek/front-end-studio-powered-by-solidjs-e5o</guid>
             <pubDate>Fri, 21 May 2021 17:33:41 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Ember Framework Takes the GAAD Pledge]]></title>
+            <link>https://blog.emberjs.com/gaad-2021/</link>
+            <guid>https://blog.emberjs.com/gaad-2021/</guid>
+            <pubDate>Fri, 21 May 2021 13:47:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[AskJS] Can someone help me understand some of this code in SolidJS?]]></title>
+            <link>https://github.com/solidjs/solid/blob/main/packages/solid/src/index.ts</link>
+            <guid>https://github.com/solidjs/solid/blob/main/packages/solid/src/index.ts</guid>
+            <pubDate>Sat, 22 May 2021 12:00:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Weekly Notes 016 - How important are CS Fundamentals? Etheruem Proof-of-Stake, Advice for young scientists.]]></title>
             <link>https://victorofoegbu.com/notes/weekly-notes-016</link>
             <guid>https://victorofoegbu.com/notes/weekly-notes-016</guid>
             <pubDate>Sat, 22 May 2021 05:25:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is the difference between console installation and silent installation?]]></title>
+            <link>https://www.softwarequery.com/2021/05/difference-between-console-and-silent-installation.html</link>
+            <guid>https://www.softwarequery.com/2021/05/difference-between-console-and-silent-installation.html</guid>
+            <pubDate>Sat, 22 May 2021 08:23:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[Re]introducing the Clio programming language]]></title>
@@ -57,88 +129,16 @@
             <pubDate>Thu, 20 May 2021 22:31:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Make HTTP requests with JavaScript Fetch API]]></title>
-            <link>https://jscurious.com/javascript-fetch-api-to-make-http-requests/</link>
-            <guid>https://jscurious.com/javascript-fetch-api-to-make-http-requests/</guid>
-            <pubDate>Sat, 22 May 2021 06:34:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Most Misunderstood Programming Language]]></title>
-            <link>http://www.crockford.com/javascript/javascript.html</link>
-            <guid>http://www.crockford.com/javascript/javascript.html</guid>
-            <pubDate>Sat, 22 May 2021 06:20:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HyperExpress: A high performance Node.js webserver with a simple-to-use API]]></title>
-            <link>https://github.com/kartikk221/hyper-express</link>
-            <guid>https://github.com/kartikk221/hyper-express</guid>
-            <pubDate>Fri, 21 May 2021 14:54:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Adlib: A Project Configuration Management Tool]]></title>
-            <link>https://www.npmjs.com/package/@adlib/cli</link>
-            <guid>https://www.npmjs.com/package/@adlib/cli</guid>
-            <pubDate>Fri, 21 May 2021 17:18:41 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[How to build a Pythagorean theorem calculator with JavaScript.]]></title>
             <link>https://www.charmingdesk.com.ng/2021/05/22/javascript-pythagorean-program/</link>
             <guid>https://www.charmingdesk.com.ng/2021/05/22/javascript-pythagorean-program/</guid>
             <pubDate>Sat, 22 May 2021 00:07:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Web Components 101: Why use Web Components?]]></title>
-            <link>https://nhswd.com/blog/web-components-101-why-use-web-components/</link>
-            <guid>https://nhswd.com/blog/web-components-101-why-use-web-components/</guid>
-            <pubDate>Fri, 21 May 2021 15:35:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Parcel 2 beta 3: 10× faster JavaScript compiler written in Rust]]></title>
-            <link>https://v2.parceljs.org/blog/beta3/</link>
-            <guid>https://v2.parceljs.org/blog/beta3/</guid>
-            <pubDate>Thu, 20 May 2021 15:43:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TC39er Podcast with Mike Samuel!]]></title>
-            <link>https://tc39er.us/posts/episode-11-mike-samuel/</link>
-            <guid>https://tc39er.us/posts/episode-11-mike-samuel/</guid>
-            <pubDate>Fri, 21 May 2021 19:49:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Svelte3 web-components boilerplate for creating custom elements]]></title>
-            <link>https://github.com/tal1992/svelte-webcomponents</link>
-            <guid>https://github.com/tal1992/svelte-webcomponents</guid>
-            <pubDate>Fri, 21 May 2021 19:39:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I built this Lottie animation editor to edit Lottie animations without After Effects! If like me, you use Lottie animations as part of your frontend UI but struggle with After Effects or implementation issues, would like to know what you think]]></title>
-            <link>http://lottielab.io/</link>
-            <guid>http://lottielab.io/</guid>
-            <pubDate>Thu, 20 May 2021 19:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pair of concepts may confuse you in Javascript - Number.isNaN() and isNaN()]]></title>
-            <link>https://techika.com/2021/05/19/isnan-vs-number-isnan/</link>
-            <guid>https://techika.com/2021/05/19/isnan-vs-number-isnan/</guid>
-            <pubDate>Fri, 21 May 2021 01:35:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Summer Coding Course: Introduction to Javascript by making games. Primarily for ages 13-16 but students of any age can join!]]></title>
-            <link>https://github.com/quinton-ashley/IntroToJS/blob/main/README.md</link>
-            <guid>https://github.com/quinton-ashley/IntroToJS/blob/main/README.md</guid>
-            <pubDate>Thu, 20 May 2021 22:04:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WebTool - Most relevant and flexible code editor for web designers.]]></title>
-            <link>https://webtoolapp.com/</link>
-            <guid>https://webtoolapp.com/</guid>
-            <pubDate>Fri, 21 May 2021 00:33:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft finally retiring Internet Explorer on June 15,2022]]></title>
-            <link>https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/</link>
-            <guid>https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/</guid>
-            <pubDate>Wed, 19 May 2021 18:23:01 GMT</pubDate>
+            <title><![CDATA[HyperExpress: A high performance Node.js webserver with a simple-to-use API]]></title>
+            <link>https://github.com/kartikk221/hyper-express</link>
+            <guid>https://github.com/kartikk221/hyper-express</guid>
+            <pubDate>Fri, 21 May 2021 14:54:53 GMT</pubDate>
         </item>
     </channel>
 </rss>

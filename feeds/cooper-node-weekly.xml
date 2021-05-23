@@ -4,7 +4,7 @@
         <title>Node Weekly</title>
         <link>https://nodeweekly.com/</link>
         <description>A free, once–weekly e-mail round-up of Node.js news and articles.</description>
-        <lastBuildDate>Fri, 21 May 2021 07:53:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 May 2021 07:53:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -46,8 +46,8 @@
         </item>
         <item>
             <title><![CDATA[Building Serverless Workflows in Pipedream]]></title>
-            <link>https://www.youtube.com/watch?v=iizTlpEi4Z8</link>
-            <guid>https://www.youtube.com/watch?v=iizTlpEi4Z8</guid>
+            <link>https://m.youtube.com/watch?v=iizTlpEi4Z8</link>
+            <guid>https://m.youtube.com/watch?v=iizTlpEi4Z8</guid>
             <pubDate>Thu, 20 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>

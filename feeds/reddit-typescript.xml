@@ -4,10 +4,40 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Sun, 23 May 2021 07:53:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 May 2021 07:54:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[How to properly implement mixins]]></title>
+            <link>https://www.typescriptlang.org/docs/handbook/mixins.html#constrained-mixins</link>
+            <guid>https://www.typescriptlang.org/docs/handbook/mixins.html#constrained-mixins</guid>
+            <pubDate>Mon, 24 May 2021 07:27:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Json serialization deserialization with the support of deeply nested json structures.]]></title>
+            <link>https://www.npmjs.com/package/ts-jackson</link>
+            <guid>https://www.npmjs.com/package/ts-jackson</guid>
+            <pubDate>Sun, 23 May 2021 16:34:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Super simple reference project to deploy a TypeScript Node Express app onto GCP Cloud Run]]></title>
+            <link>https://github.com/MatthewCYLau/node-express-typescript</link>
+            <guid>https://github.com/MatthewCYLau/node-express-typescript</guid>
+            <pubDate>Sun, 23 May 2021 11:43:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bundling with Rollup & multiple entry points - how to split declaration files?]]></title>
+            <link>https://github.com/Swatinem/rollup-plugin-dts</link>
+            <guid>https://github.com/Swatinem/rollup-plugin-dts</guid>
+            <pubDate>Sun, 23 May 2021 15:27:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Overloaded React Component Error "This overload signature is not compatible with its implementation signature."]]></title>
+            <link>https://codesandbox.io/s/react-typescript-error-ltn2t?file=/src/index.tsx</link>
+            <guid>https://codesandbox.io/s/react-typescript-error-ltn2t?file=/src/index.tsx</guid>
+            <pubDate>Sun, 23 May 2021 20:46:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to upgrade TypeScript versions - what's your process regarding breaking changes?]]></title>
             <link>https://github.com/microsoft/TypeScript-wiki/blob/master/Breaking-Changes.md</link>
@@ -79,12 +109,6 @@
             <link>https://github.com/typescript-eslint/typescript-eslint/blob/master/packages/eslint-plugin/docs/rules/typedef.md#options</link>
             <guid>https://github.com/typescript-eslint/typescript-eslint/blob/master/packages/eslint-plugin/docs/rules/typedef.md#options</guid>
             <pubDate>Fri, 21 May 2021 12:01:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vuestic UI - UI Components Library for Vue 3 built with TypeScript [x-post from r/javascript]]]></title>
-            <link>https://github.com/epicmaxco/vuestic-ui</link>
-            <guid>https://github.com/epicmaxco/vuestic-ui</guid>
-            <pubDate>Thu, 20 May 2021 12:10:31 GMT</pubDate>
         </item>
     </channel>
 </rss>

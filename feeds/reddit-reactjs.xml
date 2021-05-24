@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sun, 23 May 2021 07:53:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 May 2021 07:54:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,46 +15,64 @@
             <pubDate>Sat, 01 May 2021 18:04:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A tool to help all Open Source engineers in the world build landing pages for their GitHub Projects in seconds! All built with NextJS + React]]></title>
-            <link>https://www.gitpages.app/</link>
-            <guid>https://www.gitpages.app/</guid>
-            <pubDate>Sat, 22 May 2021 09:06:18 GMT</pubDate>
+            <title><![CDATA[Worlds First Composable CSS Animation Toolkit For React, Vue & Plain HTML & CSS — AnimXYZ]]></title>
+            <link>https://itnext.io/worlds-first-composable-css-animation-toolkit-for-react-vue-plain-html-css-animxyz-1cd0b8229da1</link>
+            <guid>https://itnext.io/worlds-first-composable-css-animation-toolkit-for-react-vue-plain-html-css-animxyz-1cd0b8229da1</guid>
+            <pubDate>Sun, 23 May 2021 13:48:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Redux Toolkit 1.6.0-beta.0 with RTK Query: new `onCacheEntryAdded` option for streaming cache updates]]></title>
-            <link>https://github.com/reduxjs/redux-toolkit/releases/tag/v1.6.0-beta.0</link>
-            <guid>https://github.com/reduxjs/redux-toolkit/releases/tag/v1.6.0-beta.0</guid>
-            <pubDate>Sat, 22 May 2021 18:13:59 GMT</pubDate>
+            <title><![CDATA[Introducing Bunnies Journey! I’m new to coding and it would mean a lot if a few people tried my game.]]></title>
+            <link>https://bunniesjourney.netlify.app/</link>
+            <guid>https://bunniesjourney.netlify.app/</guid>
+            <pubDate>Sun, 23 May 2021 22:59:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[My first personal Reactjs project]]></title>
-            <link>https://github.com/juliaeliz92/calculator</link>
-            <guid>https://github.com/juliaeliz92/calculator</guid>
-            <pubDate>Sun, 23 May 2021 05:38:13 GMT</pubDate>
+            <title><![CDATA[Migration from context API to zustand]]></title>
+            <link>https://twitter.com/elaziziyoussouf/status/1395334790233174017?s=21</link>
+            <guid>https://twitter.com/elaziziyoussouf/status/1395334790233174017?s=21</guid>
+            <pubDate>Sun, 23 May 2021 15:55:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[[My First React App] You will get random meme from reddit every time you refresh!]]></title>
-            <link>https://todo-eight-blond.vercel.app/</link>
-            <guid>https://todo-eight-blond.vercel.app/</guid>
-            <pubDate>Sat, 22 May 2021 17:04:49 GMT</pubDate>
+            <title><![CDATA[7 ways to improve React application performance]]></title>
+            <link>https://www.akmittal.dev/posts/react-production-checklist/</link>
+            <guid>https://www.akmittal.dev/posts/react-production-checklist/</guid>
+            <pubDate>Mon, 24 May 2021 05:48:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[cute-chat : Made a chatting app using reactjs and firebase]]></title>
-            <link>https://brainiac2677.github.io/cute-chat/?fbclid=IwAR2Q5SFvlYm-ih1_AftAMrbLJS3E1nSdsoqEkR-_OA6XDHvww7ZVWat7sJw#/</link>
-            <guid>https://brainiac2677.github.io/cute-chat/?fbclid=IwAR2Q5SFvlYm-ih1_AftAMrbLJS3E1nSdsoqEkR-_OA6XDHvww7ZVWat7sJw#/</guid>
-            <pubDate>Sat, 22 May 2021 03:57:59 GMT</pubDate>
+            <title><![CDATA[How to Set up a React and Firebase authentication with phone number login?]]></title>
+            <link>https://firebase.google.com/docs/auth/web/phone-auth?authuser=2#sign-in-the-user-with-the-verification-code</link>
+            <guid>https://firebase.google.com/docs/auth/web/phone-auth?authuser=2#sign-in-the-user-with-the-verification-code</guid>
+            <pubDate>Mon, 24 May 2021 01:29:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A simple package that exposes a Responsive Mobile-sized Wrapper component for React - You can easily prototype mobile web apps with desktop layout support with it :)]]></title>
-            <link>https://github.com/junhoyeo/react-mobile-sized-view</link>
-            <guid>https://github.com/junhoyeo/react-mobile-sized-view</guid>
-            <pubDate>Sat, 22 May 2021 15:03:49 GMT</pubDate>
+            <title><![CDATA[Momentum Clone - My first react app project]]></title>
+            <link>https://momentumdash.com/</link>
+            <guid>https://momentumdash.com/</guid>
+            <pubDate>Sun, 23 May 2021 17:12:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[My first open source project: a react customizable sidebar and navbar (need your insights)]]></title>
-            <link>https://github.com/tareksaad-ds/navzilla</link>
-            <guid>https://github.com/tareksaad-ds/navzilla</guid>
-            <pubDate>Sat, 22 May 2021 13:54:42 GMT</pubDate>
+            <title><![CDATA[Quick Flick: Quickly search movies and shows. Needs your thoughts on the app and coding practices.]]></title>
+            <link>https://quick-flick.netlify.app/</link>
+            <guid>https://quick-flick.netlify.app/</guid>
+            <pubDate>Sun, 23 May 2021 21:20:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to properly test react projects?]]></title>
+            <link>https://e-commerce-vncntdzn.vercel.app/</link>
+            <guid>https://e-commerce-vncntdzn.vercel.app/</guid>
+            <pubDate>Sun, 23 May 2021 09:45:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to make awesome page transitions in NextJS using framer motion]]></title>
+            <link>https://dev.to/shaan71845/create-awesome-page-transitions-in-nextjs-using-framer-motion-2pln</link>
+            <guid>https://dev.to/shaan71845/create-awesome-page-transitions-in-nextjs-using-framer-motion-2pln</guid>
+            <pubDate>Sun, 23 May 2021 15:47:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Made my first react app! Personal List of countdowns without registration!]]></title>
+            <link>https://kuu.netlify.com/</link>
+            <guid>https://kuu.netlify.com/</guid>
+            <pubDate>Sun, 23 May 2021 20:53:04 GMT</pubDate>
         </item>
     </channel>
 </rss>

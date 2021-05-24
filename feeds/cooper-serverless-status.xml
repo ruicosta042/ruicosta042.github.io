@@ -4,7 +4,7 @@
         <title>Serverless Status</title>
         <link>https://serverless.email/</link>
         <description>A weekly newsletter on serverless and function-as-a-service (FaaS) architectures and platforms including AWS Lambda and Azure Functions.</description>
-        <lastBuildDate>Sat, 22 May 2021 07:54:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 May 2021 07:54:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -46,8 +46,8 @@
         </item>
         <item>
             <title><![CDATA[Building Serverless Workflows in Pipedream]]></title>
-            <link>https://www.youtube.com/watch?v=iizTlpEi4Z8</link>
-            <guid>https://www.youtube.com/watch?v=iizTlpEi4Z8</guid>
+            <link>https://m.youtube.com/watch?v=iizTlpEi4Z8</link>
+            <guid>https://m.youtube.com/watch?v=iizTlpEi4Z8</guid>
             <pubDate>Fri, 21 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>

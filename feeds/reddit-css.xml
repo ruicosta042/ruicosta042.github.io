@@ -4,15 +4,51 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Sun, 23 May 2021 07:53:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 May 2021 07:54:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Need help understanding Inherit Keyword Behaviour]]></title>
+            <link>https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance</link>
+            <guid>https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance</guid>
+            <pubDate>Mon, 24 May 2021 04:09:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Making circular progress bars in pure CSS]]></title>
             <link>https://semicolon.dev/tutorial/css/circular-pie-chart-progress-bar</link>
             <guid>https://semicolon.dev/tutorial/css/circular-pie-chart-progress-bar</guid>
             <pubDate>Sun, 23 May 2021 04:42:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lightbox effect aligning to table rather than window]]></title>
+            <link>http://relativelyhuman.com/gallery/digital-art.html#</link>
+            <guid>http://relativelyhuman.com/gallery/digital-art.html#</guid>
+            <pubDate>Sun, 23 May 2021 20:02:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CSS-newbie here! Could anyone help me with some CSS to hide bullet points?]]></title>
+            <link>https://www.tattoofinders.nl/prijzen/</link>
+            <guid>https://www.tattoofinders.nl/prijzen/</guid>
+            <pubDate>Sun, 23 May 2021 19:10:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[animate input type number]]></title>
+            <link>https://www.figma.com/community/file/885519746950740723</link>
+            <guid>https://www.figma.com/community/file/885519746950740723</guid>
+            <pubDate>Sun, 23 May 2021 14:40:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tutorial: Responsive Aspect Ratios in CSS with Percent Padding]]></title>
+            <link>https://www.aleksandrhovhannisyan.com/blog/css-aspect-ratio/</link>
+            <guid>https://www.aleksandrhovhannisyan.com/blog/css-aspect-ratio/</guid>
+            <pubDate>Sun, 23 May 2021 13:35:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Notifications for new CSS features usability]]></title>
+            <link>https://canyounotify.com/</link>
+            <guid>https://canyounotify.com/</guid>
+            <pubDate>Sun, 23 May 2021 13:17:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Add scroll margin to all elements which can be targeted]]></title>
@@ -43,66 +79,6 @@
             <link>https://gist.github.com/gercol1234/d77fc11202b9ee9dbea29f7d39c868fb</link>
             <guid>https://gist.github.com/gercol1234/d77fc11202b9ee9dbea29f7d39c868fb</guid>
             <pubDate>Sat, 22 May 2021 13:56:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Generating (and Solving!) Sudokus in CSS]]></title>
-            <link>https://css-tricks.com/generating-and-solving-sudokus-in-css/</link>
-            <guid>https://css-tricks.com/generating-and-solving-sudokus-in-css/</guid>
-            <pubDate>Fri, 21 May 2021 12:01:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is the standard for responsive containers sizes?]]></title>
-            <link>https://stackblitz.com/edit/web-platform-xucu3m?file=styles.css</link>
-            <guid>https://stackblitz.com/edit/web-platform-xucu3m?file=styles.css</guid>
-            <pubDate>Fri, 21 May 2021 18:04:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Weird behavior with filter: blur() inside div with overflow:hidden]]></title>
-            <link>https://dev.spotlighthobbies.com/</link>
-            <guid>https://dev.spotlighthobbies.com/</guid>
-            <pubDate>Fri, 21 May 2021 18:47:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Waterfaller - find and fix all the slowdowns on your web page to boost core web vital scores]]></title>
-            <link>https://waterfaller.dev/</link>
-            <guid>https://waterfaller.dev/</guid>
-            <pubDate>Fri, 21 May 2021 11:57:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Guide to CSS selectors from basic to advanced selectors]]></title>
-            <link>https://www.freecodecamp.org/news/use-css-selectors-to-style-webpage/</link>
-            <guid>https://www.freecodecamp.org/news/use-css-selectors-to-style-webpage/</guid>
-            <pubDate>Thu, 20 May 2021 21:27:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Flexbox sticky footer shrinks a bit depending on the main content (Materialize.css)]]></title>
-            <link>https://materializecss.com/footer.html#sticky-footer</link>
-            <guid>https://materializecss.com/footer.html#sticky-footer</guid>
-            <pubDate>Fri, 21 May 2021 16:18:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Customizing Tailwind CSS]]></title>
-            <link>https://allround.io/articles/customizing-tailwind-css</link>
-            <guid>https://allround.io/articles/customizing-tailwind-css</guid>
-            <pubDate>Fri, 21 May 2021 12:01:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[after:hover: behavior]]></title>
-            <link>https://www.microsoft.com/en-us/accessibility</link>
-            <guid>https://www.microsoft.com/en-us/accessibility</guid>
-            <pubDate>Fri, 21 May 2021 02:41:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Euismod - Anyone Can Learn CSS Grid]]></title>
-            <link>https://www.euismod.dev/</link>
-            <guid>https://www.euismod.dev/</guid>
-            <pubDate>Thu, 20 May 2021 13:32:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How does font-weight work?]]></title>
-            <link>https://docs.python.org/</link>
-            <guid>https://docs.python.org/</guid>
-            <pubDate>Thu, 20 May 2021 19:01:33 GMT</pubDate>
         </item>
     </channel>
 </rss>

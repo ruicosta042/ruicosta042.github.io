@@ -4,10 +4,28 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Sun, 23 May 2021 07:53:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 May 2021 07:54:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[zap-db: we made a JSON based database, especially suited to slack/discord bots and works great as a replacement to json blobs :)]]></title>
+            <link>https://github.com/sdslabs/zap-db</link>
+            <guid>https://github.com/sdslabs/zap-db</guid>
+            <pubDate>Sun, 23 May 2021 18:16:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[20 JavaScript Concepts you should know as a JavaScript Programmer!]]></title>
+            <link>https://blog.devgenius.io/20-javascript-concepts-you-should-know-as-a-javascript-programmer-c04d7b1a8d6e?sk=cc9a655f3a07686a9a1cdd4825c73e18</link>
+            <guid>https://blog.devgenius.io/20-javascript-concepts-you-should-know-as-a-javascript-programmer-c04d7b1a8d6e?sk=cc9a655f3a07686a9a1cdd4825c73e18</guid>
+            <pubDate>Mon, 24 May 2021 07:50:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to control RGB LEDs over Bluetooth]]></title>
+            <link>https://www.amazon.de/dp/B08KD5R7T3?ref=ppx_pop_mob_ap_share</link>
+            <guid>https://www.amazon.de/dp/B08KD5R7T3?ref=ppx_pop_mob_ap_share</guid>
+            <pubDate>Sun, 23 May 2021 23:09:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Popular Elitism In Programming - How your path of learning can affect your judgement towards other people]]></title>
             <link>https://fagnerbrack.com/popular-elitism-in-programming-d11447bc60dd?source=friends_link&amp;amp;sk=3e335ef5c632dcefd83da14b1ca8313c</link>
@@ -15,58 +33,28 @@
             <pubDate>Sun, 23 May 2021 06:09:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Is route based caching for 3rd party API data on a reverse proxy server an acceptable caching method?]]></title>
-            <link>https://gist.github.com/Yukezter/1e137e6a05df3427a09e9647a9b0c254</link>
-            <guid>https://gist.github.com/Yukezter/1e137e6a05df3427a09e9647a9b0c254</guid>
-            <pubDate>Sat, 22 May 2021 22:20:16 GMT</pubDate>
+            <title><![CDATA[Creating a Real-Time QR Code Scanner With Vanilla JavaScript]]></title>
+            <link>https://fletcherrippon.medium.com/creating-a-real-time-qr-code-scanner-with-vanilla-javascript-part-1-2-creating-the-scanner-a8934ee8f614</link>
+            <guid>https://fletcherrippon.medium.com/creating-a-real-time-qr-code-scanner-with-vanilla-javascript-part-1-2-creating-the-scanner-a8934ee8f614</guid>
+            <pubDate>Sun, 23 May 2021 12:30:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[One ORM to rule them all]]></title>
-            <link>https://mikro-orm.io/</link>
-            <guid>https://mikro-orm.io/</guid>
-            <pubDate>Sat, 22 May 2021 03:49:45 GMT</pubDate>
+            <title><![CDATA[Node.js script (with shelljs) peer-review]]></title>
+            <link>https://github.com/GBrachetta/frames</link>
+            <guid>https://github.com/GBrachetta/frames</guid>
+            <pubDate>Sun, 23 May 2021 18:19:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[CoWin India telegram bot]]></title>
-            <link>https://github.com/parthibd/cowin-track</link>
-            <guid>https://github.com/parthibd/cowin-track</guid>
-            <pubDate>Sat, 22 May 2021 19:50:51 GMT</pubDate>
+            <title><![CDATA[Debugging NodeJS Microservice with Shared Storage on Kubernetes]]></title>
+            <link>https://tilsupport.wordpress.com/2021/05/23/debugging-nodejs-microservice-with-shared-storage-on-kubernetes/</link>
+            <guid>https://tilsupport.wordpress.com/2021/05/23/debugging-nodejs-microservice-with-shared-storage-on-kubernetes/</guid>
+            <pubDate>Sun, 23 May 2021 13:24:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Next.js for multiple domains with different content, but the same codebase]]></title>
-            <link>https://nextjs.org/docs/basic-features/data-fetching#incremental-static-regeneration</link>
-            <guid>https://nextjs.org/docs/basic-features/data-fetching#incremental-static-regeneration</guid>
-            <pubDate>Sun, 23 May 2021 01:27:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to install node.js and run your first app]]></title>
-            <link>https://www.dottedsquirrel.com/install-nodejs/</link>
-            <guid>https://www.dottedsquirrel.com/install-nodejs/</guid>
-            <pubDate>Sun, 23 May 2021 01:24:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to read or download or stream Document from S3 using AWS Lambda and Nodejs]]></title>
-            <link>https://lazypandatech.com/blog/AWS/37/How-to-read-or-download-or-stream-Document-from-S3-using-AWS-Lambda-and-Nodejs</link>
-            <guid>https://lazypandatech.com/blog/AWS/37/How-to-read-or-download-or-stream-Document-from-S3-using-AWS-Lambda-and-Nodejs</guid>
-            <pubDate>Sat, 22 May 2021 10:11:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Help: Node + Express + Typescript - How should I type a request parameter with an added custom field?]]></title>
-            <link>https://github.com/SSamps/template-backend-node-express-typescript/blob/feature/newCollection/src/routes/test.ts</link>
-            <guid>https://github.com/SSamps/template-backend-node-express-typescript/blob/feature/newCollection/src/routes/test.ts</guid>
-            <pubDate>Sat, 22 May 2021 17:11:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[WIP] fservo - a functional web framework for node]]></title>
-            <link>https://github.com/22mahmoud/fservo</link>
-            <guid>https://github.com/22mahmoud/fservo</guid>
-            <pubDate>Fri, 21 May 2021 17:49:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I'm working towards a fully supported plug-n-play Mongoose Typescript generator (mongoose-tsgen), would love feedback on any remaining unhandled edge cases. The ultimate goal is to support integrating into any Mongoose project without needing changes to your existing Mongoose Schemas 🚀]]></title>
-            <link>https://github.com/francescov1/mongoose-tsgen</link>
-            <guid>https://github.com/francescov1/mongoose-tsgen</guid>
-            <pubDate>Fri, 21 May 2021 21:16:30 GMT</pubDate>
+            <title><![CDATA[Framework recommendation for nodejs]]></title>
+            <link>https://travetto.dev/landing</link>
+            <guid>https://travetto.dev/landing</guid>
+            <pubDate>Sun, 23 May 2021 16:17:37 GMT</pubDate>
         </item>
     </channel>
 </rss>

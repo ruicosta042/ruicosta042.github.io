@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Mon, 24 May 2021 07:54:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 May 2021 08:03:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,22 +15,34 @@
             <pubDate>Sat, 01 May 2021 18:04:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Worlds First Composable CSS Animation Toolkit For React, Vue & Plain HTML & CSS — AnimXYZ]]></title>
-            <link>https://itnext.io/worlds-first-composable-css-animation-toolkit-for-react-vue-plain-html-css-animxyz-1cd0b8229da1</link>
-            <guid>https://itnext.io/worlds-first-composable-css-animation-toolkit-for-react-vue-plain-html-css-animxyz-1cd0b8229da1</guid>
-            <pubDate>Sun, 23 May 2021 13:48:46 GMT</pubDate>
+            <title><![CDATA[I made a React Native app for OSX / MacOS that measures your standing and sitting habbits]]></title>
+            <link>https://standmo.app/</link>
+            <guid>https://standmo.app/</guid>
+            <pubDate>Tue, 25 May 2021 04:47:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Introducing Bunnies Journey! I’m new to coding and it would mean a lot if a few people tried my game.]]></title>
-            <link>https://bunniesjourney.netlify.app/</link>
-            <guid>https://bunniesjourney.netlify.app/</guid>
-            <pubDate>Sun, 23 May 2021 22:59:42 GMT</pubDate>
+            <title><![CDATA[SigNoz - open source application monitoring tool built on React + Typescript]]></title>
+            <link>https://github.com/SigNoz/signoz</link>
+            <guid>https://github.com/SigNoz/signoz</guid>
+            <pubDate>Mon, 24 May 2021 15:29:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Migration from context API to zustand]]></title>
-            <link>https://twitter.com/elaziziyoussouf/status/1395334790233174017?s=21</link>
-            <guid>https://twitter.com/elaziziyoussouf/status/1395334790233174017?s=21</guid>
-            <pubDate>Sun, 23 May 2021 15:55:48 GMT</pubDate>
+            <title><![CDATA[The React Native Developer RoadMap 🗺]]></title>
+            <link>https://github.com/hayanisaid/React-Native-developer-roadmap</link>
+            <guid>https://github.com/hayanisaid/React-Native-developer-roadmap</guid>
+            <pubDate>Tue, 25 May 2021 01:03:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My React App for sharing sounds (for music creators or more) [UPDATED]]]></title>
+            <link>https://www.soundshare.cc/</link>
+            <guid>https://www.soundshare.cc/</guid>
+            <pubDate>Tue, 25 May 2021 00:32:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Creating a Contact Form with ReactJS and EmailJS]]></title>
+            <link>https://link.medium.com/NUwMamDxwgb</link>
+            <guid>https://link.medium.com/NUwMamDxwgb</guid>
+            <pubDate>Mon, 24 May 2021 16:12:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[7 ways to improve React application performance]]></title>
@@ -39,40 +51,40 @@
             <pubDate>Mon, 24 May 2021 05:48:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to Set up a React and Firebase authentication with phone number login?]]></title>
-            <link>https://firebase.google.com/docs/auth/web/phone-auth?authuser=2#sign-in-the-user-with-the-verification-code</link>
-            <guid>https://firebase.google.com/docs/auth/web/phone-auth?authuser=2#sign-in-the-user-with-the-verification-code</guid>
-            <pubDate>Mon, 24 May 2021 01:29:55 GMT</pubDate>
+            <title><![CDATA[How can i receive props from a component children with typescript]]></title>
+            <link>https://props.name/</link>
+            <guid>https://props.name/</guid>
+            <pubDate>Mon, 24 May 2021 20:43:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Momentum Clone - My first react app project]]></title>
-            <link>https://momentumdash.com/</link>
-            <guid>https://momentumdash.com/</guid>
-            <pubDate>Sun, 23 May 2021 17:12:56 GMT</pubDate>
+            <title><![CDATA[Are loading screens like this done with suspense?]]></title>
+            <link>https://en.autonomy.finance/</link>
+            <guid>https://en.autonomy.finance/</guid>
+            <pubDate>Mon, 24 May 2021 16:37:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Quick Flick: Quickly search movies and shows. Needs your thoughts on the app and coding practices.]]></title>
-            <link>https://quick-flick.netlify.app/</link>
-            <guid>https://quick-flick.netlify.app/</guid>
-            <pubDate>Sun, 23 May 2021 21:20:55 GMT</pubDate>
+            <title><![CDATA[Redux boilerplate was never the problem]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Mon, 24 May 2021 13:36:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to properly test react projects?]]></title>
-            <link>https://e-commerce-vncntdzn.vercel.app/</link>
-            <guid>https://e-commerce-vncntdzn.vercel.app/</guid>
-            <pubDate>Sun, 23 May 2021 09:45:48 GMT</pubDate>
+            <title><![CDATA[I made a file-sharing site using react and firebase]]></title>
+            <link>https://share-with-me-6d766.web.app/</link>
+            <guid>https://share-with-me-6d766.web.app/</guid>
+            <pubDate>Mon, 24 May 2021 18:02:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to make awesome page transitions in NextJS using framer motion]]></title>
-            <link>https://dev.to/shaan71845/create-awesome-page-transitions-in-nextjs-using-framer-motion-2pln</link>
-            <guid>https://dev.to/shaan71845/create-awesome-page-transitions-in-nextjs-using-framer-motion-2pln</guid>
-            <pubDate>Sun, 23 May 2021 15:47:40 GMT</pubDate>
+            <title><![CDATA[React Context Binder]]></title>
+            <link>https://www.npmjs.com/package/@reactivers/context-binder</link>
+            <guid>https://www.npmjs.com/package/@reactivers/context-binder</guid>
+            <pubDate>Mon, 24 May 2021 21:39:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Made my first react app! Personal List of countdowns without registration!]]></title>
-            <link>https://kuu.netlify.com/</link>
-            <guid>https://kuu.netlify.com/</guid>
-            <pubDate>Sun, 23 May 2021 20:53:04 GMT</pubDate>
+            <title><![CDATA[React Context Unwanted Rerenders and Solutions]]></title>
+            <link>https://muratguney.medium.com/react-16-context-unwanted-rerender-53a26c43b02e</link>
+            <guid>https://muratguney.medium.com/react-16-context-unwanted-rerender-53a26c43b02e</guid>
+            <pubDate>Mon, 24 May 2021 21:27:36 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,28 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Mon, 24 May 2021 07:54:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 May 2021 08:03:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[The Bad Reasons People Avoid TypeScript — and the Better Reasons Why They Shouldn’t]]></title>
+            <link>https://medium.com/@billwohlers/the-bad-reasons-people-avoid-typescript-and-the-better-reasons-why-they-shouldnt-86f8d98534de</link>
+            <guid>https://medium.com/@billwohlers/the-bad-reasons-people-avoid-typescript-and-the-better-reasons-why-they-shouldnt-86f8d98534de</guid>
+            <pubDate>Tue, 25 May 2021 00:29:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Building a Synthesizer in TypeScript]]></title>
+            <link>https://medium.com//building-a-synthesizer-in-typescript-5a85ea17e2f2?source=friends_link&amp;sk=e443409e6d34185e8496f0aeee22eb5e</link>
+            <guid>https://medium.com//building-a-synthesizer-in-typescript-5a85ea17e2f2?source=friends_link&amp;sk=e443409e6d34185e8496f0aeee22eb5e</guid>
+            <pubDate>Tue, 25 May 2021 06:26:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Generated APIs with Runtime type validation]]></title>
+            <link>https://openapi-generator.tech/</link>
+            <guid>https://openapi-generator.tech/</guid>
+            <pubDate>Mon, 24 May 2021 11:36:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to properly implement mixins]]></title>
             <link>https://www.typescriptlang.org/docs/handbook/mixins.html#constrained-mixins</link>
@@ -85,30 +103,6 @@
             <link>https://github.com/Dan6erbond/SvelteKitAuth</link>
             <guid>https://github.com/Dan6erbond/SvelteKitAuth</guid>
             <pubDate>Fri, 21 May 2021 17:10:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Declarative Development Environments with CDK for Terraform in Typescript]]></title>
-            <link>https://danielmschmidt.de/declarative-development-environments-with-cdk-for-terraform/</link>
-            <guid>https://danielmschmidt.de/declarative-development-environments-with-cdk-for-terraform/</guid>
-            <pubDate>Fri, 21 May 2021 17:43:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to get the value type from type Map?]]></title>
-            <link>https://www.typescriptlang.org/play?#code/FAFwngDgpgBAtgQwjAvDAskgPAZzHAIwHsAbAGgDsBXQqAJwD4BuYUSWRCANQRKtjScYUAB4goFACY4M2PIVJkAlhQBm9GAFUGMAPxaYALhgUoAN3pMgA</link>
-            <guid>https://www.typescriptlang.org/play?#code/FAFwngDgpgBAtgQwjAvDAskgPAZzHAIwHsAbAGgDsBXQqAJwD4BuYUSWRCANQRKtjScYUAB4goFACY4M2PIVJkAlhQBm9GAFUGMAPxaYALhgUoAN3pMgA</guid>
-            <pubDate>Fri, 21 May 2021 11:00:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Typing some complex lodash stuff]]></title>
-            <link>https://lodash.com/docs/4.17.15#defaultsDeep</link>
-            <guid>https://lodash.com/docs/4.17.15#defaultsDeep</guid>
-            <pubDate>Fri, 21 May 2021 07:39:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Enforcing explicit types via @typescript/eslint typedef rule.]]></title>
-            <link>https://github.com/typescript-eslint/typescript-eslint/blob/master/packages/eslint-plugin/docs/rules/typedef.md#options</link>
-            <guid>https://github.com/typescript-eslint/typescript-eslint/blob/master/packages/eslint-plugin/docs/rules/typedef.md#options</guid>
-            <pubDate>Fri, 21 May 2021 12:01:26 GMT</pubDate>
         </item>
     </channel>
 </rss>

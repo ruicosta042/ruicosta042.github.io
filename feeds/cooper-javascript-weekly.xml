@@ -4,7 +4,7 @@
         <title>JavaScript Weekly</title>
         <link>https://javascriptweekly.com/</link>
         <description>A newsletter of JavaScript articles, news and cool projects</description>
-        <lastBuildDate>Mon, 24 May 2021 07:54:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 May 2021 08:02:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -64,8 +64,8 @@
         </item>
         <item>
             <title><![CDATA[Frontend Development in 2021: A Complete Guide]]></title>
-            <link>https://www.youtube.com/watch?v=HgJ0S_9R8ek</link>
-            <guid>https://www.youtube.com/watch?v=HgJ0S_9R8ek</guid>
+            <link>https://m.youtube.com/watch?v=HgJ0S_9R8ek</link>
+            <guid>https://m.youtube.com/watch?v=HgJ0S_9R8ek</guid>
             <pubDate>Fri, 21 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>

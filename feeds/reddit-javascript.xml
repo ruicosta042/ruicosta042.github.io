@@ -4,15 +4,81 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Mon, 24 May 2021 07:54:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 May 2021 08:03:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Your /r/javascript recap for the week of May 10 - May 16]]></title>
-            <link>https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years</link>
-            <guid>https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years</guid>
-            <pubDate>Mon, 17 May 2021 09:03:45 GMT</pubDate>
+            <title><![CDATA[Your /r/javascript recap for the week of May 17 - May 23]]></title>
+            <link>https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/</link>
+            <guid>https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/</guid>
+            <pubDate>Mon, 24 May 2021 09:03:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[zx 1.12 introduces a new nothrow() function and a better TypeScript support]]></title>
+            <link>https://github.com/google/zx/releases/tag/1.12.0</link>
+            <guid>https://github.com/google/zx/releases/tag/1.12.0</guid>
+            <pubDate>Mon, 24 May 2021 19:33:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[JavaScript Inheritance: the Dark Arts]]></title>
+            <link>https://dev.to/nickkelly314/javascript-inheritance-the-dark-arts-1bh1</link>
+            <guid>https://dev.to/nickkelly314/javascript-inheritance-the-dark-arts-1bh1</guid>
+            <pubDate>Tue, 25 May 2021 00:44:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SvelteKitAuth enables developers to rapidly implement OAuth and other authentication flows in their SvelteKit apps using a class-based architecture and HTTP only cookies!]]></title>
+            <link>https://github.com/Dan6erbond/sk-auth</link>
+            <guid>https://github.com/Dan6erbond/sk-auth</guid>
+            <pubDate>Mon, 24 May 2021 08:59:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GraphJin - Automagical GraphQL to SQL compiler now available on NPM]]></title>
+            <link>https://www.npmjs.com/package/graphjin</link>
+            <guid>https://www.npmjs.com/package/graphjin</guid>
+            <pubDate>Tue, 25 May 2021 07:35:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How To Get Started With Canvas Animations In JavaScript]]></title>
+            <link>https://blog.michaelkaren.dev/how-to-get-started-with-canvas-animations-in-javascript</link>
+            <guid>https://blog.michaelkaren.dev/how-to-get-started-with-canvas-animations-in-javascript</guid>
+            <pubDate>Tue, 25 May 2021 06:33:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Build A Library With esbuild]]></title>
+            <link>https://dev.to/daviddalbusco/build-a-library-with-esbuild-fnh</link>
+            <guid>https://dev.to/daviddalbusco/build-a-library-with-esbuild-fnh</guid>
+            <pubDate>Mon, 24 May 2021 13:56:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Bad Reasons People Avoid TypeScript — and the Better Reasons Why They Shouldn’t]]></title>
+            <link>https://medium.com/@billwohlers/the-bad-reasons-people-avoid-typescript-and-the-better-reasons-why-they-shouldnt-86f8d98534de</link>
+            <guid>https://medium.com/@billwohlers/the-bad-reasons-people-avoid-typescript-and-the-better-reasons-why-they-shouldnt-86f8d98534de</guid>
+            <pubDate>Tue, 25 May 2021 00:30:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A prototype for simple real time remote pair programming without any special editors.]]></title>
+            <link>https://github.com/three-consulting/ohut</link>
+            <guid>https://github.com/three-consulting/ohut</guid>
+            <pubDate>Mon, 24 May 2021 11:19:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sending images and more with Telegram bot]]></title>
+            <link>https://dev.to/rizkyrajitha/sending-images-and-more-with-telegram-bot-4c0h</link>
+            <guid>https://dev.to/rizkyrajitha/sending-images-and-more-with-telegram-bot-4c0h</guid>
+            <pubDate>Mon, 24 May 2021 19:16:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Automatically add new YouTube videos by specific creators to watch later playlist]]></title>
+            <link>https://chirav.substack.com/p/videos-auto-to-watch-later?utm_campaign=javascriptsubreddit&amp;utm_medium=web&amp;utm_source=reddit</link>
+            <guid>https://chirav.substack.com/p/videos-auto-to-watch-later?utm_campaign=javascriptsubreddit&amp;utm_medium=web&amp;utm_source=reddit</guid>
+            <pubDate>Mon, 24 May 2021 08:10:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Deploy your React Project to Netlify?]]></title>
+            <link>https://brayanarrieta.hashnode.dev/how-to-deploy-your-react-project-to-netlify</link>
+            <guid>https://brayanarrieta.hashnode.dev/how-to-deploy-your-react-project-to-netlify</guid>
+            <pubDate>Mon, 24 May 2021 20:13:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[zap-db: we made a JSON based database written in typescript and running on node, especially suited to slack/discord bots and works great as a replacement to json blobs :)]]></title>
@@ -21,10 +87,22 @@
             <pubDate>Sun, 23 May 2021 18:21:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Powerful library for create Spotify playlists on schedule]]></title>
-            <link>https://chimildic.github.io/goofy/</link>
-            <guid>https://chimildic.github.io/goofy/</guid>
-            <pubDate>Mon, 24 May 2021 05:18:14 GMT</pubDate>
+            <title><![CDATA[Codemod for migrating to Tailwind utilities]]></title>
+            <link>https://github.com/rajasegar/ember-tailwind-codemod?gr</link>
+            <guid>https://github.com/rajasegar/ember-tailwind-codemod?gr</guid>
+            <pubDate>Mon, 24 May 2021 11:18:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bottery – A conversational agent prototyping platform]]></title>
+            <link>https://github.com/google/bottery</link>
+            <guid>https://github.com/google/bottery</guid>
+            <pubDate>Mon, 24 May 2021 01:37:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[7 ways to improve React application performance]]></title>
+            <link>https://www.akmittal.dev/posts/react-production-checklist/</link>
+            <guid>https://www.akmittal.dev/posts/react-production-checklist/</guid>
+            <pubDate>Mon, 24 May 2021 08:56:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[DOOM Captcha - Captchas don't have to be boring]]></title>
@@ -33,22 +111,16 @@
             <pubDate>Sat, 22 May 2021 22:49:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Test Your JavaScript and TypeScript Documentation with Deno]]></title>
-            <link>http://caspervonb.xyz/2021/05/23/test-your-javascript-and-typescript-documentation-with-deno.html</link>
-            <guid>http://caspervonb.xyz/2021/05/23/test-your-javascript-and-typescript-documentation-with-deno.html</guid>
-            <pubDate>Mon, 24 May 2021 05:51:33 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[CSS is like a bear cub: cute and inoffensive but when it grows it will eat you alive.]]></title>
             <link>https://css-tricks.com/a-complete-guide-to-css-media-queries/</link>
             <guid>https://css-tricks.com/a-complete-guide-to-css-media-queries/</guid>
             <pubDate>Sun, 23 May 2021 08:33:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bottery – A conversational agent prototyping platform]]></title>
-            <link>https://github.com/google/bottery</link>
-            <guid>https://github.com/google/bottery</guid>
-            <pubDate>Mon, 24 May 2021 01:37:14 GMT</pubDate>
+            <title><![CDATA[Powerful library for create Spotify playlists on schedule]]></title>
+            <link>https://chimildic.github.io/goofy/</link>
+            <guid>https://chimildic.github.io/goofy/</guid>
+            <pubDate>Mon, 24 May 2021 05:18:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[jsfxr is a quick and easy sound effects generator]]></title>
@@ -63,22 +135,16 @@
             <pubDate>Sun, 23 May 2021 16:39:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Explore DOM Events (domevents.dev)]]></title>
-            <link>https://domevents.dev/</link>
-            <guid>https://domevents.dev/</guid>
-            <pubDate>Sun, 23 May 2021 10:47:56 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[JS ES2021 - It's Almost Here]]></title>
             <link>https://piyushsinha.tech/js-es2021-its-almost-here</link>
             <guid>https://piyushsinha.tech/js-es2021-its-almost-here</guid>
             <pubDate>Sun, 23 May 2021 15:32:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Software development — Optimization for changeability and simplicity]]></title>
-            <link>https://michalszorad.medium.com/software-development-optimization-for-changeability-and-simplicity-420c1ac636e9</link>
-            <guid>https://michalszorad.medium.com/software-development-optimization-for-changeability-and-simplicity-420c1ac636e9</guid>
-            <pubDate>Sun, 23 May 2021 13:39:37 GMT</pubDate>
+            <title><![CDATA[Explore DOM Events (domevents.dev)]]></title>
+            <link>https://domevents.dev/</link>
+            <guid>https://domevents.dev/</guid>
+            <pubDate>Sun, 23 May 2021 10:47:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Officexlr - Enterprise application builder with JavaScript]]></title>
@@ -87,76 +153,10 @@
             <pubDate>Sun, 23 May 2021 14:41:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[It's cool to play elastic man]]></title>
-            <link>https://www.happykidgames.com/game/elastic-man</link>
-            <guid>https://www.happykidgames.com/game/elastic-man</guid>
-            <pubDate>Sun, 23 May 2021 18:47:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Being a good interviewer - How to perform on the other side of interview table]]></title>
-            <link>https://dev.to/freakomonk/being-a-good-interviewer-how-to-perform-on-the-other-side-of-interviewing-table-465g</link>
-            <guid>https://dev.to/freakomonk/being-a-good-interviewer-how-to-perform-on-the-other-side-of-interviewing-table-465g</guid>
-            <pubDate>Sun, 23 May 2021 06:01:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A minimalist generative art thing – press the buttons and play with the sliders]]></title>
-            <link>https://github.com/doersino/uji</link>
-            <guid>https://github.com/doersino/uji</guid>
-            <pubDate>Sun, 23 May 2021 03:55:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Distributed similarity search with txtai embeddings clusters]]></title>
-            <link>https://dev.to/neuml/distributed-embeddings-cluster-24gg</link>
-            <guid>https://dev.to/neuml/distributed-embeddings-cluster-24gg</guid>
-            <pubDate>Sun, 23 May 2021 13:10:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[zx 1.9.0 release with a new pipe() method]]></title>
-            <link>https://github.com/google/zx/releases/tag/1.9.0</link>
-            <guid>https://github.com/google/zx/releases/tag/1.9.0</guid>
-            <pubDate>Sat, 22 May 2021 15:15:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A fun little weekend project: Clock of Clocks]]></title>
-            <link>https://github.com/Absolute-Tinkerer/Clock-of-Clocks</link>
-            <guid>https://github.com/Absolute-Tinkerer/Clock-of-Clocks</guid>
-            <pubDate>Sun, 23 May 2021 02:29:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Creating a Real-Time QR Code Scanner With Vanilla JavaScript]]></title>
-            <link>https://fletcherrippon.medium.com/creating-a-real-time-qr-code-scanner-with-vanilla-javascript-part-1-2-creating-the-scanner-a8934ee8f614</link>
-            <guid>https://fletcherrippon.medium.com/creating-a-real-time-qr-code-scanner-with-vanilla-javascript-part-1-2-creating-the-scanner-a8934ee8f614</guid>
-            <pubDate>Sun, 23 May 2021 12:26:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[20 JavaScript Concepts you should know as a JavaScript Programmer!]]></title>
-            <link>https://blog.devgenius.io/20-javascript-concepts-you-should-know-as-a-javascript-programmer-c04d7b1a8d6e?sk=cc9a655f3a07686a9a1cdd4825c73e18</link>
-            <guid>https://blog.devgenius.io/20-javascript-concepts-you-should-know-as-a-javascript-programmer-c04d7b1a8d6e?sk=cc9a655f3a07686a9a1cdd4825c73e18</guid>
-            <pubDate>Sun, 23 May 2021 11:54:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Access Device Camera from static HTML page using Javascript Camera API]]></title>
-            <link>https://blog.kmtabish.com/access-device-camera-from-static-html-page-using-javascript-camera-api</link>
-            <guid>https://blog.kmtabish.com/access-device-camera-from-static-html-page-using-javascript-camera-api</guid>
-            <pubDate>Sat, 22 May 2021 15:11:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is the meaning of this?]]></title>
-            <link>https://web.dev/javascript-this/</link>
-            <guid>https://web.dev/javascript-this/</guid>
-            <pubDate>Sun, 23 May 2021 15:23:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Time I (Sorta) Had a Real Use Case for a Bitwise Operator in JavaScript]]></title>
-            <link>https://macarthur.me/posts/use-case-for-bitwise-operator-in-javascript</link>
-            <guid>https://macarthur.me/posts/use-case-for-bitwise-operator-in-javascript</guid>
-            <pubDate>Sat, 22 May 2021 03:44:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Improve UI performance using window.onload event]]></title>
-            <link>https://blog.kmtabish.com/improve-ui-performance-using-windowonload-event</link>
-            <guid>https://blog.kmtabish.com/improve-ui-performance-using-windowonload-event</guid>
-            <pubDate>Sun, 23 May 2021 13:25:18 GMT</pubDate>
+            <title><![CDATA[Software development — Optimization for changeability and simplicity]]></title>
+            <link>https://michalszorad.medium.com/software-development-optimization-for-changeability-and-simplicity-420c1ac636e9</link>
+            <guid>https://michalszorad.medium.com/software-development-optimization-for-changeability-and-simplicity-420c1ac636e9</guid>
+            <pubDate>Sun, 23 May 2021 13:39:37 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,15 +4,27 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Mon, 24 May 2021 07:54:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 May 2021 08:03:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[zap-db: we made a JSON based database, especially suited to slack/discord bots and works great as a replacement to json blobs :)]]></title>
-            <link>https://github.com/sdslabs/zap-db</link>
-            <guid>https://github.com/sdslabs/zap-db</guid>
-            <pubDate>Sun, 23 May 2021 18:16:51 GMT</pubDate>
+            <title><![CDATA[Deep Dive into Rust for Node.js Developers]]></title>
+            <link>https://gotoflorian-pro.medium.com/deep-dive-into-rust-for-node-js-developers-5faace6dc71f?source=friends_link&amp;sk=839b9bc4296f1312b6173f0a121603f9</link>
+            <guid>https://gotoflorian-pro.medium.com/deep-dive-into-rust-for-node-js-developers-5faace6dc71f?source=friends_link&amp;sk=839b9bc4296f1312b6173f0a121603f9</guid>
+            <pubDate>Mon, 24 May 2021 17:31:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Set up performance monitoring for your NodeJS app in 20 mins with open source - SigNoz]]></title>
+            <link>https://signoz.io/blog/nodejs-opensource-application-monitoring/</link>
+            <guid>https://signoz.io/blog/nodejs-opensource-application-monitoring/</guid>
+            <pubDate>Mon, 24 May 2021 15:45:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is it possible to provide multiple ca certificates to NODE_EXTRA_CA_CERTS=file]]></title>
+            <link>https://nodejs.org/api/cli.html#cli_node_extra_ca_certs_file</link>
+            <guid>https://nodejs.org/api/cli.html#cli_node_extra_ca_certs_file</guid>
+            <pubDate>Tue, 25 May 2021 07:41:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[20 JavaScript Concepts you should know as a JavaScript Programmer!]]></title>
@@ -21,40 +33,28 @@
             <pubDate>Mon, 24 May 2021 07:50:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to control RGB LEDs over Bluetooth]]></title>
-            <link>https://www.amazon.de/dp/B08KD5R7T3?ref=ppx_pop_mob_ap_share</link>
-            <guid>https://www.amazon.de/dp/B08KD5R7T3?ref=ppx_pop_mob_ap_share</guid>
-            <pubDate>Sun, 23 May 2021 23:09:29 GMT</pubDate>
+            <title><![CDATA[Does nodejs have a standard cookies library?]]></title>
+            <link>https://www.npmjs.com/package/cookies</link>
+            <guid>https://www.npmjs.com/package/cookies</guid>
+            <pubDate>Mon, 24 May 2021 20:59:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Popular Elitism In Programming - How your path of learning can affect your judgement towards other people]]></title>
-            <link>https://fagnerbrack.com/popular-elitism-in-programming-d11447bc60dd?source=friends_link&amp;amp;sk=3e335ef5c632dcefd83da14b1ca8313c</link>
-            <guid>https://fagnerbrack.com/popular-elitism-in-programming-d11447bc60dd?source=friends_link&amp;amp;sk=3e335ef5c632dcefd83da14b1ca8313c</guid>
-            <pubDate>Sun, 23 May 2021 06:09:30 GMT</pubDate>
+            <title><![CDATA[Multiple typescript files/type declarations, one project/repo]]></title>
+            <link>https://github.com/microsoft/TypeScript/issues/8305</link>
+            <guid>https://github.com/microsoft/TypeScript/issues/8305</guid>
+            <pubDate>Mon, 24 May 2021 20:36:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Creating a Real-Time QR Code Scanner With Vanilla JavaScript]]></title>
-            <link>https://fletcherrippon.medium.com/creating-a-real-time-qr-code-scanner-with-vanilla-javascript-part-1-2-creating-the-scanner-a8934ee8f614</link>
-            <guid>https://fletcherrippon.medium.com/creating-a-real-time-qr-code-scanner-with-vanilla-javascript-part-1-2-creating-the-scanner-a8934ee8f614</guid>
-            <pubDate>Sun, 23 May 2021 12:30:40 GMT</pubDate>
+            <title><![CDATA[zap-db: we made a JSON based database, especially suited to slack/discord bots and works great as a replacement to json blobs :)]]></title>
+            <link>https://github.com/sdslabs/zap-db</link>
+            <guid>https://github.com/sdslabs/zap-db</guid>
+            <pubDate>Sun, 23 May 2021 18:16:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Node.js script (with shelljs) peer-review]]></title>
-            <link>https://github.com/GBrachetta/frames</link>
-            <guid>https://github.com/GBrachetta/frames</guid>
-            <pubDate>Sun, 23 May 2021 18:19:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Debugging NodeJS Microservice with Shared Storage on Kubernetes]]></title>
-            <link>https://tilsupport.wordpress.com/2021/05/23/debugging-nodejs-microservice-with-shared-storage-on-kubernetes/</link>
-            <guid>https://tilsupport.wordpress.com/2021/05/23/debugging-nodejs-microservice-with-shared-storage-on-kubernetes/</guid>
-            <pubDate>Sun, 23 May 2021 13:24:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Framework recommendation for nodejs]]></title>
-            <link>https://travetto.dev/landing</link>
-            <guid>https://travetto.dev/landing</guid>
-            <pubDate>Sun, 23 May 2021 16:17:37 GMT</pubDate>
+            <title><![CDATA[JavaScript 2021 features]]></title>
+            <link>https://javascript.plainenglish.io/javascript-2021-new-features-429bc050f4e8</link>
+            <guid>https://javascript.plainenglish.io/javascript-2021-new-features-429bc050f4e8</guid>
+            <pubDate>Mon, 24 May 2021 08:08:10 GMT</pubDate>
         </item>
     </channel>
 </rss>

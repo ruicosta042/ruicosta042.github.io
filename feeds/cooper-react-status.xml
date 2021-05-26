@@ -4,7 +4,7 @@
         <title>React Status</title>
         <link>https://react.statuscode.com/</link>
         <description>A weekly roundup of the latest React and React Native links and tutorials.</description>
-        <lastBuildDate>Tue, 25 May 2021 08:02:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 May 2021 08:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -70,8 +70,8 @@
         </item>
         <item>
             <title><![CDATA[Let's Talk urql: A Highly Customizable and Versatile GraphQL Client]]></title>
-            <link>https://m.youtube.com/watch?v=nhxaAEZWouA</link>
-            <guid>https://m.youtube.com/watch?v=nhxaAEZWouA</guid>
+            <link>https://www.youtube.com/watch?v=nhxaAEZWouA</link>
+            <guid>https://www.youtube.com/watch?v=nhxaAEZWouA</guid>
             <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>

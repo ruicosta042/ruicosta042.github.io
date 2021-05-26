@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Tue, 25 May 2021 08:03:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 May 2021 08:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,76 +15,70 @@
             <pubDate>Sat, 01 May 2021 18:04:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[I made React Admin Template which helps you build faster and easier web apps.]]></title>
+            <link>https://berrydashboard.io/</link>
+            <guid>https://berrydashboard.io/</guid>
+            <pubDate>Tue, 25 May 2021 13:56:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I made a tutorial for React Login using external API]]></title>
+            <link>https://javascript.plainenglish.io/basic-react-login-using-external-api-e33322e480cd</link>
+            <guid>https://javascript.plainenglish.io/basic-react-login-using-external-api-e33322e480cd</guid>
+            <pubDate>Wed, 26 May 2021 03:31:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What design tradeoffs make React *look* slow in benchmarks?]]></title>
+            <link>https://krausest.github.io/js-framework-benchmark/2021/table_chrome_90.0.4430.72.html</link>
+            <guid>https://krausest.github.io/js-framework-benchmark/2021/table_chrome_90.0.4430.72.html</guid>
+            <pubDate>Tue, 25 May 2021 23:37:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CodeLockr: a website built for developers to keep all the stuff they need while coding in one place, like code snippets, and much more.]]></title>
+            <link>http://www.codelockr.com/</link>
+            <guid>http://www.codelockr.com/</guid>
+            <pubDate>Tue, 25 May 2021 17:28:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I made a React Native app for OSX / MacOS that measures your standing and sitting habbits]]></title>
             <link>https://standmo.app/</link>
             <guid>https://standmo.app/</guid>
             <pubDate>Tue, 25 May 2021 04:47:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[SigNoz - open source application monitoring tool built on React + Typescript]]></title>
-            <link>https://github.com/SigNoz/signoz</link>
-            <guid>https://github.com/SigNoz/signoz</guid>
-            <pubDate>Mon, 24 May 2021 15:29:31 GMT</pubDate>
+            <title><![CDATA[Ready-to-deploy React.js eCommerce​ store with integrated Node.js backend and Postgres database]]></title>
+            <link>https://flatlogic.com/templates/ecommerce-react-template</link>
+            <guid>https://flatlogic.com/templates/ecommerce-react-template</guid>
+            <pubDate>Tue, 25 May 2021 20:16:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The React Native Developer RoadMap 🗺]]></title>
-            <link>https://github.com/hayanisaid/React-Native-developer-roadmap</link>
-            <guid>https://github.com/hayanisaid/React-Native-developer-roadmap</guid>
-            <pubDate>Tue, 25 May 2021 01:03:05 GMT</pubDate>
+            <title><![CDATA[How computers can pray for the benefit of all living beings using React.JS and GPU?]]></title>
+            <link>http://pixelscommander.com/interactive-revolution/can-computer-pray-for-the-benefit-of-all-living-beings-praying-with-javascript-and-webgl/</link>
+            <guid>http://pixelscommander.com/interactive-revolution/can-computer-pray-for-the-benefit-of-all-living-beings-praying-with-javascript-and-webgl/</guid>
+            <pubDate>Wed, 26 May 2021 07:12:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[My React App for sharing sounds (for music creators or more) [UPDATED]]]></title>
-            <link>https://www.soundshare.cc/</link>
-            <guid>https://www.soundshare.cc/</guid>
-            <pubDate>Tue, 25 May 2021 00:32:08 GMT</pubDate>
+            <title><![CDATA[Write a Desktop app with React, Typescript, ASP.NET Core and WebView2]]></title>
+            <link>https://megasoft78.medium.com/write-a-desktop-app-with-react-typescript-asp-net-core-and-webview2-3a15daef4d64</link>
+            <guid>https://megasoft78.medium.com/write-a-desktop-app-with-react-typescript-asp-net-core-and-webview2-3a15daef4d64</guid>
+            <pubDate>Tue, 25 May 2021 14:04:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Creating a Contact Form with ReactJS and EmailJS]]></title>
-            <link>https://link.medium.com/NUwMamDxwgb</link>
-            <guid>https://link.medium.com/NUwMamDxwgb</guid>
-            <pubDate>Mon, 24 May 2021 16:12:43 GMT</pubDate>
+            <title><![CDATA[5 Advanced React Patterns - An overview of 5 modern advanced React patterns, including integration codes, pros and cons, and concrete usage within public libraries.]]></title>
+            <link>https://javascript.plainenglish.io/5-advanced-react-patterns-a6b7624267a6?sk=93e1c4365748e1d5bdc1941be094bf59</link>
+            <guid>https://javascript.plainenglish.io/5-advanced-react-patterns-a6b7624267a6?sk=93e1c4365748e1d5bdc1941be094bf59</guid>
+            <pubDate>Tue, 25 May 2021 16:32:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[7 ways to improve React application performance]]></title>
-            <link>https://www.akmittal.dev/posts/react-production-checklist/</link>
-            <guid>https://www.akmittal.dev/posts/react-production-checklist/</guid>
-            <pubDate>Mon, 24 May 2021 05:48:56 GMT</pubDate>
+            <title><![CDATA[Built my first React App (movie app). Looking to incorporate node/express now?]]></title>
+            <link>https://heuristic-villani-d41cf6.netlify.app/</link>
+            <guid>https://heuristic-villani-d41cf6.netlify.app/</guid>
+            <pubDate>Tue, 25 May 2021 14:13:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How can i receive props from a component children with typescript]]></title>
-            <link>https://props.name/</link>
-            <guid>https://props.name/</guid>
-            <pubDate>Mon, 24 May 2021 20:43:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Are loading screens like this done with suspense?]]></title>
-            <link>https://en.autonomy.finance/</link>
-            <guid>https://en.autonomy.finance/</guid>
-            <pubDate>Mon, 24 May 2021 16:37:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Redux boilerplate was never the problem]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Mon, 24 May 2021 13:36:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I made a file-sharing site using react and firebase]]></title>
-            <link>https://share-with-me-6d766.web.app/</link>
-            <guid>https://share-with-me-6d766.web.app/</guid>
-            <pubDate>Mon, 24 May 2021 18:02:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React Context Binder]]></title>
-            <link>https://www.npmjs.com/package/@reactivers/context-binder</link>
-            <guid>https://www.npmjs.com/package/@reactivers/context-binder</guid>
-            <pubDate>Mon, 24 May 2021 21:39:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React Context Unwanted Rerenders and Solutions]]></title>
-            <link>https://muratguney.medium.com/react-16-context-unwanted-rerender-53a26c43b02e</link>
-            <guid>https://muratguney.medium.com/react-16-context-unwanted-rerender-53a26c43b02e</guid>
-            <pubDate>Mon, 24 May 2021 21:27:36 GMT</pubDate>
+            <title><![CDATA[How To Add Prettier and ESLint Automation to a React Codebase]]></title>
+            <link>https://dev.to/swyx/how-to-add-prettier-and-eslint-automation-to-a-react-codebase-2gk1</link>
+            <guid>https://dev.to/swyx/how-to-add-prettier-and-eslint-automation-to-a-react-codebase-2gk1</guid>
+            <pubDate>Tue, 25 May 2021 22:45:23 GMT</pubDate>
         </item>
     </channel>
 </rss>

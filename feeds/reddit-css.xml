@@ -4,15 +4,39 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Tue, 25 May 2021 08:03:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 May 2021 08:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Pure CSS Social Media Buttons With Tooltip Hover Effect]]></title>
+            <link>https://www.dottedsquirrel.com/css-social-media-buttons/</link>
+            <guid>https://www.dottedsquirrel.com/css-social-media-buttons/</guid>
+            <pubDate>Wed, 26 May 2021 07:52:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[6 Dark Mode color palettes with examples , CSS and the Figma file.]]></title>
             <link>https://michaelandreuzza.com/</link>
             <guid>https://michaelandreuzza.com/</guid>
             <pubDate>Tue, 25 May 2021 06:57:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New programming subreddit for highschoolers: r/cshighschoolers]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Wed, 26 May 2021 03:50:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CSS Container Queries For Designers]]></title>
+            <link>https://ishadeed.com/article/container-queries-for-designers/</link>
+            <guid>https://ishadeed.com/article/container-queries-for-designers/</guid>
+            <pubDate>Tue, 25 May 2021 17:21:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CSS Container Queries: Use-Cases And Migration Strategies]]></title>
+            <link>https://www.smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/</link>
+            <guid>https://www.smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/</guid>
+            <pubDate>Tue, 25 May 2021 13:22:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Guide to Creating Rounded Tables]]></title>
@@ -33,40 +57,10 @@
             <pubDate>Mon, 24 May 2021 14:42:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Reveal image on scroll using only CSS?]]></title>
-            <link>https://earthbornegames.com/home-preview/</link>
-            <guid>https://earthbornegames.com/home-preview/</guid>
-            <pubDate>Mon, 24 May 2021 18:23:29 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[How is this page creating the illusion of margin?]]></title>
             <link>https://vgy.me/u/cGRkd5</link>
             <guid>https://vgy.me/u/cGRkd5</guid>
             <pubDate>Mon, 24 May 2021 16:26:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I wrote an article explaining why CSS should handle sound as a follow-up to my yesterday post. Thank you for feedback!]]></title>
-            <link>https://tomaszs2.medium.com/css-its-time-to-enable-audible-web-71652242c589</link>
-            <guid>https://tomaszs2.medium.com/css-its-time-to-enable-audible-web-71652242c589</guid>
-            <pubDate>Mon, 24 May 2021 11:04:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don’t use custom CSS mouse cursors]]></title>
-            <link>https://ericwbailey.design/writing/dont-use-custom-css-mouse-cursors/</link>
-            <guid>https://ericwbailey.design/writing/dont-use-custom-css-mouse-cursors/</guid>
-            <pubDate>Mon, 24 May 2021 12:54:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Need help understanding Inherit Keyword Behaviour]]></title>
-            <link>https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance</link>
-            <guid>https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance</guid>
-            <pubDate>Mon, 24 May 2021 04:09:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Making circular progress bars in pure CSS]]></title>
-            <link>https://semicolon.dev/tutorial/css/circular-pie-chart-progress-bar</link>
-            <guid>https://semicolon.dev/tutorial/css/circular-pie-chart-progress-bar</guid>
-            <pubDate>Sun, 23 May 2021 04:42:51 GMT</pubDate>
         </item>
     </channel>
 </rss>

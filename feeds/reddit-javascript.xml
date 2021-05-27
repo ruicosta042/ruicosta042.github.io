@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Wed, 26 May 2021 08:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 May 2021 08:28:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,64 @@
             <pubDate>Mon, 24 May 2021 09:03:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[MDN is launching MDN Plus]]></title>
+            <link>https://developer.mozilla.org/en-US/plus</link>
+            <guid>https://developer.mozilla.org/en-US/plus</guid>
+            <pubDate>Wed, 26 May 2021 21:48:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Announcing TypeScript 4.3]]></title>
+            <link>https://devblogs.microsoft.com/typescript/announcing-typescript-4-3/</link>
+            <guid>https://devblogs.microsoft.com/typescript/announcing-typescript-4-3/</guid>
+            <pubDate>Wed, 26 May 2021 17:38:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Re:factor - a FREE software development conference for charity]]></title>
+            <link>https://www.re-factor.be/</link>
+            <guid>https://www.re-factor.be/</guid>
+            <pubDate>Wed, 26 May 2021 15:21:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A little library I made: React Service Locator. I managed to replace Redux and Context API for several use-cases in a couple of projects with it. Hope someone finds it useful.]]></title>
+            <link>https://github.com/rhyek/react-service-locator</link>
+            <guid>https://github.com/rhyek/react-service-locator</guid>
+            <pubDate>Wed, 26 May 2021 19:25:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Updates from latest (83rd) meeting of TC39]]></title>
+            <link>https://dev.to/hemanth/updates-from-83rd-meeting-of-tc39-1d67</link>
+            <guid>https://dev.to/hemanth/updates-from-83rd-meeting-of-tc39-1d67</guid>
+            <pubDate>Wed, 26 May 2021 22:51:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I made a website that documents TypeScript packages]]></title>
+            <link>https://www.jsdocs.io/</link>
+            <guid>https://www.jsdocs.io/</guid>
+            <pubDate>Wed, 26 May 2021 16:14:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Clarity on Flow’s Direction and Open Source Engagement]]></title>
+            <link>https://medium.com/flow-type/clarity-on-flows-direction-and-open-source-engagement-e721a4eb4d8b</link>
+            <guid>https://medium.com/flow-type/clarity-on-flows-direction-and-open-source-engagement-e721a4eb4d8b</guid>
+            <pubDate>Wed, 26 May 2021 14:51:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Guide to build a Meme exit intent modal]]></title>
+            <link>https://peterlunch.com/javascript-exit-intent-modal/?utm_source=reddit-javascript&amp;utm_medium=emb-link&amp;utm_campaign=exit-intent-modal</link>
+            <guid>https://peterlunch.com/javascript-exit-intent-modal/?utm_source=reddit-javascript&amp;utm_medium=emb-link&amp;utm_campaign=exit-intent-modal</guid>
+            <pubDate>Wed, 26 May 2021 10:41:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Hate Cookies? Introducing Aurora, 100% Cookie-Free Javascript Open Website Analytics.]]></title>
             <link>https://useaurora.app/</link>
             <guid>https://useaurora.app/</guid>
             <pubDate>Tue, 25 May 2021 20:50:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I made a JWT-Library for Cloudflare Workers with ZERO dependencies]]></title>
+            <link>https://github.com/tsndr/cloudflare-worker-jwt</link>
+            <guid>https://github.com/tsndr/cloudflare-worker-jwt</guid>
+            <pubDate>Wed, 26 May 2021 11:41:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jest 27: New Defaults for Jest, 2021 edition]]></title>
@@ -33,34 +87,28 @@
             <pubDate>Tue, 25 May 2021 17:33:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[It was pretty difficult to share open-source contributions to anyone in Github so I made a Kanban Chart page that shows all your open/closed pull-request and issues in a very visually appealing form.]]></title>
-            <link>https://github.com/codescientist703/github-kanban</link>
-            <guid>https://github.com/codescientist703/github-kanban</guid>
-            <pubDate>Tue, 25 May 2021 08:53:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Functional JS]]></title>
-            <link>https://micheleriva.medium.com/why-functional-js-4e61f5e7bb55?sk=998170557ab1065f324b3e9a37e504ab</link>
-            <guid>https://micheleriva.medium.com/why-functional-js-4e61f5e7bb55?sk=998170557ab1065f324b3e9a37e504ab</guid>
-            <pubDate>Wed, 26 May 2021 07:32:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Leverage the AWS WebSocket API for Serverless WebRTC signaling - webrtcHacks]]></title>
-            <link>https://webrtchacks.com/leverage-aws-websocket-api-for-webrtc-signaling/</link>
-            <guid>https://webrtchacks.com/leverage-aws-websocket-api-for-webrtc-signaling/</guid>
-            <pubDate>Tue, 25 May 2021 12:44:27 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Neutralinojs v2.0.0 released]]></title>
             <link>https://github.com/neutralinojs/neutralinojs/releases/tag/v2.0.0</link>
             <guid>https://github.com/neutralinojs/neutralinojs/releases/tag/v2.0.0</guid>
             <pubDate>Wed, 26 May 2021 06:38:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I created a Markdown blog using the Notion API, Next.js and Tailwind]]></title>
-            <link>https://notion-blog-ruby-kappa.vercel.app/</link>
-            <guid>https://notion-blog-ruby-kappa.vercel.app/</guid>
-            <pubDate>Tue, 25 May 2021 21:19:24 GMT</pubDate>
+            <title><![CDATA[Building a SaaS Application with Next.js, Prisma, Auth0 and Stripe]]></title>
+            <link>https://egghead.io/blog/saas-app-with-nextjs-prisma-auth0-and-stripe</link>
+            <guid>https://egghead.io/blog/saas-app-with-nextjs-prisma-auth0-and-stripe</guid>
+            <pubDate>Wed, 26 May 2021 12:39:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It was pretty difficult to share open-source contributions to anyone in Github so I made a Kanban Chart page that shows all your open/closed pull-request and issues in a very visually appealing form.]]></title>
+            <link>https://github.com/codescientist703/github-kanban</link>
+            <guid>https://github.com/codescientist703/github-kanban</guid>
+            <pubDate>Tue, 25 May 2021 08:53:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Leverage the AWS WebSocket API for Serverless WebRTC signaling - webrtcHacks]]></title>
+            <link>https://webrtchacks.com/leverage-aws-websocket-api-for-webrtc-signaling/</link>
+            <guid>https://webrtchacks.com/leverage-aws-websocket-api-for-webrtc-signaling/</guid>
+            <pubDate>Tue, 25 May 2021 12:44:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scheme based powerful lisp interpreter written in JavaScript]]></title>
@@ -81,10 +129,10 @@
             <pubDate>Tue, 25 May 2021 15:56:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[10 Useful Tips That Every React JS Developer Should Know]]></title>
-            <link>https://betterprogramming.pub/10-useful-tips-that-every-react-js-developer-should-know-e08e754123df</link>
-            <guid>https://betterprogramming.pub/10-useful-tips-that-every-react-js-developer-should-know-e08e754123df</guid>
-            <pubDate>Tue, 25 May 2021 18:10:48 GMT</pubDate>
+            <title><![CDATA[I created a Markdown blog using the Notion API, Next.js and Tailwind]]></title>
+            <link>https://notion-blog-ruby-kappa.vercel.app/</link>
+            <guid>https://notion-blog-ruby-kappa.vercel.app/</guid>
+            <pubDate>Tue, 25 May 2021 21:19:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Parsing in JavaScript: all the tools and libraries you can use]]></title>
@@ -93,52 +141,16 @@
             <pubDate>Tue, 25 May 2021 16:42:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[GraphJin - Automagical GraphQL to SQL compiler now available on NPM]]></title>
-            <link>https://www.npmjs.com/package/graphjin</link>
-            <guid>https://www.npmjs.com/package/graphjin</guid>
-            <pubDate>Tue, 25 May 2021 07:35:41 GMT</pubDate>
+            <title><![CDATA[Best Programming Languages to learn in 2021!]]></title>
+            <link>https://blog.devgenius.io/best-programming-languages-to-learn-in-2021-b5481705c202?sk=fcc7d91db8242ebb45c1b9f2f60358a2</link>
+            <guid>https://blog.devgenius.io/best-programming-languages-to-learn-in-2021-b5481705c202?sk=fcc7d91db8242ebb45c1b9f2f60358a2</guid>
+            <pubDate>Wed, 26 May 2021 09:26:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[zx 1.12 introduces a new nothrow() function and a better TypeScript support]]></title>
-            <link>https://github.com/google/zx/releases/tag/1.12.0</link>
-            <guid>https://github.com/google/zx/releases/tag/1.12.0</guid>
-            <pubDate>Mon, 24 May 2021 19:33:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Enjoying an Haskell like Type System in Javascript]]></title>
-            <link>https://dev.to/iquardt/enjoying-an-haskell-like-type-system-in-javascript-42fa</link>
-            <guid>https://dev.to/iquardt/enjoying-an-haskell-like-type-system-in-javascript-42fa</guid>
-            <pubDate>Tue, 25 May 2021 18:44:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JavaScript Inheritance: the Dark Arts]]></title>
-            <link>https://dev.to/nickkelly314/javascript-inheritance-the-dark-arts-1bh1</link>
-            <guid>https://dev.to/nickkelly314/javascript-inheritance-the-dark-arts-1bh1</guid>
-            <pubDate>Tue, 25 May 2021 00:44:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Simple-To-Use Dynamic Template Content Manager For Webservers]]></title>
-            <link>https://github.com/kartikk221/live-directory</link>
-            <guid>https://github.com/kartikk221/live-directory</guid>
-            <pubDate>Tue, 25 May 2021 13:10:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SvelteKitAuth enables developers to rapidly implement OAuth and other authentication flows in their SvelteKit apps using a class-based architecture and HTTP only cookies!]]></title>
-            <link>https://github.com/Dan6erbond/sk-auth</link>
-            <guid>https://github.com/Dan6erbond/sk-auth</guid>
-            <pubDate>Mon, 24 May 2021 08:59:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How To Get Started With Canvas Animations In JavaScript]]></title>
-            <link>https://blog.michaelkaren.dev/how-to-get-started-with-canvas-animations-in-javascript</link>
-            <guid>https://blog.michaelkaren.dev/how-to-get-started-with-canvas-animations-in-javascript</guid>
-            <pubDate>Tue, 25 May 2021 06:33:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Single Regex Doubled the Power of our JS Project. Here's how. [2 min read]]]></title>
-            <link>https://jordan-gaston.medium.com/a-single-regex-doubled-the-power-of-our-project-heres-how-64256a94da9b</link>
-            <guid>https://jordan-gaston.medium.com/a-single-regex-doubled-the-power-of-our-project-heres-how-64256a94da9b</guid>
-            <pubDate>Tue, 25 May 2021 13:51:01 GMT</pubDate>
+            <title><![CDATA[5 Reasons why we chose to transpile to SolidJS instead of React]]></title>
+            <link>https://dev.to/chrisczopp/5-reasons-why-we-chose-to-transpile-to-solidjs-instead-of-react-3pcl</link>
+            <guid>https://dev.to/chrisczopp/5-reasons-why-we-chose-to-transpile-to-solidjs-instead-of-react-3pcl</guid>
+            <pubDate>Wed, 26 May 2021 09:03:05 GMT</pubDate>
         </item>
     </channel>
 </rss>

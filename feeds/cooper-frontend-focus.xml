@@ -4,153 +4,123 @@
         <title>Frontend Focus</title>
         <link>https://frontendfoc.us/</link>
         <description>A once–weekly roundup of the best front-end news, articles and tutorials. HTML, CSS, WebGL, Canvas, browser tech, and more.</description>
-        <lastBuildDate>Thu, 20 May 2021 07:52:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 May 2021 08:27:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Five Steps to Faster Web Fonts]]></title>
-            <link>https://iainbean.com/posts/2021/5-steps-to-faster-web-fonts/</link>
-            <guid>https://iainbean.com/posts/2021/5-steps-to-faster-web-fonts/</guid>
-            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[CSS Container Queries For Designers]]></title>
+            <link>https://ishadeed.com/article/container-queries-for-designers/</link>
+            <guid>https://ishadeed.com/article/container-queries-for-designers/</guid>
+            <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Introducing Firefox’s New Site Isolation Security Architecture]]></title>
-            <link>https://hacks.mozilla.org/2021/05/introducing-firefox-new-site-isolation-security-architecture/</link>
-            <guid>https://hacks.mozilla.org/2021/05/introducing-firefox-new-site-isolation-security-architecture/</guid>
-            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[25 Years of CSS]]></title>
+            <link>https://meyerweb.com/eric/thoughts/2021/05/25/25-years-of-css/</link>
+            <guid>https://meyerweb.com/eric/thoughts/2021/05/25/25-years-of-css/</guid>
+            <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Google Docs Shifting to Canvas Based Rendering]]></title>
-            <link>https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html</link>
-            <guid>https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html</guid>
-            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[CSS Container Queries: Use-Cases And Migration Strategies]]></title>
+            <link>https://www.smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/</link>
+            <guid>https://www.smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/</guid>
+            <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Frontend Development in 2021: A Complete Guide]]></title>
-            <link>https://www.youtube.com/watch?v=HgJ0S_9R8ek</link>
-            <guid>https://www.youtube.com/watch?v=HgJ0S_9R8ek</guid>
-            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[An Experimental 'Follow' Feature Coming to Chrome?]]></title>
+            <link>https://blog.chromium.org/2021/05/an-experiment-in-helping-users-and-web.html</link>
+            <guid>https://blog.chromium.org/2021/05/an-experiment-in-helping-users-and-web.html</guid>
+            <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Learn CSS]]></title>
-            <link>https://web.dev/learn/css/</link>
-            <guid>https://web.dev/learn/css/</guid>
-            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Finally Understanding PNG]]></title>
+            <link>https://compress-or-die.com/Understanding-PNG</link>
+            <guid>https://compress-or-die.com/Understanding-PNG</guid>
+            <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Building A Media Scroller Component]]></title>
-            <link>https://web.dev/building-a-media-scroller-component/</link>
-            <guid>https://web.dev/building-a-media-scroller-component/</guid>
-            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Making Disabled Buttons More Inclusive]]></title>
+            <link>https://css-tricks.com/making-disabled-buttons-more-inclusive/</link>
+            <guid>https://css-tricks.com/making-disabled-buttons-more-inclusive/</guid>
+            <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No, Utility Classes Aren't the Same As Inline Styles]]></title>
-            <link>https://frontstuff.io/no-utility-classes-arent-the-same-as-inline-styles</link>
-            <guid>https://frontstuff.io/no-utility-classes-arent-the-same-as-inline-styles</guid>
-            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Container Queries in Web Components]]></title>
+            <link>https://mxb.dev/blog/container-queries-web-components/</link>
+            <guid>https://mxb.dev/blog/container-queries-web-components/</guid>
+            <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Enough with The Role-Play Let's Get Back to The Basics]]></title>
-            <link>https://www.tpgi.com/enough-with-the-role-play-lets-get-back-to-the-basics/</link>
-            <guid>https://www.tpgi.com/enough-with-the-role-play-lets-get-back-to-the-basics/</guid>
-            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Understanding Easing Functions For CSS Animations And Transitions]]></title>
+            <link>https://www.smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/</link>
+            <guid>https://www.smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/</guid>
+            <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Plans to Improve Navigation on GOV.UK]]></title>
-            <link>https://gds.blog.gov.uk/2021/05/17/our-plans-to-improve-navigation-on-gov-uk/</link>
-            <guid>https://gds.blog.gov.uk/2021/05/17/our-plans-to-improve-navigation-on-gov-uk/</guid>
-            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Embedding Google Forms in a Static Site Without iFrames]]></title>
+            <link>https://spin.atomicobject.com/2021/05/20/embedding-google-forms/</link>
+            <guid>https://spin.atomicobject.com/2021/05/20/embedding-google-forms/</guid>
+            <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Distributed Persistent Rendering (DPR)]]></title>
-            <link>https://css-tricks.com/distributed-persistent-rendering-dpr/</link>
-            <guid>https://css-tricks.com/distributed-persistent-rendering-dpr/</guid>
-            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to Set Browser Flags in Chromium]]></title>
+            <link>https://web.dev/browser-flags/</link>
+            <guid>https://web.dev/browser-flags/</guid>
+            <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What Do Lighthouse Scores Look Like Across The Web?]]></title>
-            <link>https://www.tunetheweb.com/blog/what-do-lighthouse-scores-look-like-across-the-web/</link>
-            <guid>https://www.tunetheweb.com/blog/what-do-lighthouse-scores-look-like-across-the-web/</guid>
-            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Remix Icon: An Open Source Library of 2,200+ Icons in HTML/CSS, SVG or PNG Format]]></title>
+            <link>https://remixicon.com/</link>
+            <guid>https://remixicon.com/</guid>
+            <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cumulative Layout Shift: Measure and Avoid Visual Instability]]></title>
-            <link>https://calibreapp.com/blog/cumulative-layout-shift</link>
-            <guid>https://calibreapp.com/blog/cumulative-layout-shift</guid>
-            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Euismod: An Interactive Resource to Learn CSS Grid]]></title>
+            <link>https://www.euismod.dev/#/</link>
+            <guid>https://www.euismod.dev/#/</guid>
+            <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[DOM Events: A Way to Visualize and Experiment with the DOM Event System]]></title>
-            <link>https://domevents.dev/</link>
-            <guid>https://domevents.dev/</guid>
-            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[SVG Crop: Remove Blank Space From Around Any SVG Instantly]]></title>
+            <link>https://svgcrop.com/</link>
+            <guid>https://svgcrop.com/</guid>
+            <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Heroicons: Beautiful Hand-Crafted SVG Icons by The Makers of Tailwind CSS]]></title>
-            <link>https://heroicons.com/</link>
-            <guid>https://heroicons.com/</guid>
-            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Vuestic: A Free and Open Source UI Library for Vue 3]]></title>
+            <link>https://github.com/epicmaxco/vuestic-ui</link>
+            <guid>https://github.com/epicmaxco/vuestic-ui</guid>
+            <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[SVG Filter Builder: Create and Learn About SVG Filters in A Drag & Drop Designer]]></title>
-            <link>https://svgfilters.com/</link>
-            <guid>https://svgfilters.com/</guid>
-            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[The New iMac in CSS]]></title>
+            <link>https://codepen.io/Adir-SL/pen/JjWXZEq</link>
+            <guid>https://codepen.io/Adir-SL/pen/JjWXZEq</guid>
+            <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Coding Fantasy: Learn Flexbox by Playing a Coding Game]]></title>
-            <link>https://codingfantasy.com/</link>
-            <guid>https://codingfantasy.com/</guid>
-            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Building A Rich Text Editor (WYSIWYG) From Scratch]]></title>
+            <link>https://www.smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/</link>
+            <guid>https://www.smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/</guid>
+            <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dragit: An Online Drag & Drop Email Editor]]></title>
-            <link>https://dragit.io/</link>
-            <guid>https://dragit.io/</guid>
-            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to Get Started with Canvas Animations in JavaScript]]></title>
+            <link>https://medium.com/dailyjs/how-to-get-started-with-canvas-animations-in-javascript-cb2ccf37515c?source=friends_link&amp;sk=ba4f1d57510286fed910533620fe8b06</link>
+            <guid>https://medium.com/dailyjs/how-to-get-started-with-canvas-animations-in-javascript-cb2ccf37515c?source=friends_link&amp;sk=ba4f1d57510286fed910533620fe8b06</guid>
+            <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Terms & Conditions Apply: A Mini-Game About Pop-ups and The Deviousness of Websites and Apps]]></title>
-            <link>https://termsandconditions.game/</link>
-            <guid>https://termsandconditions.game/</guid>
-            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How Useful Is the System Usability Scale (SUS) in UX Projects?]]></title>
+            <link>https://www.nngroup.com/videos/sus-usefulness/</link>
+            <guid>https://www.nngroup.com/videos/sus-usefulness/</guid>
+            <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Using CSS to More Efficiently Cache User-Specific Content]]></title>
-            <link>https://ognjen.io/using-css-to-more-efficiently-cache-user-specific-content/</link>
-            <guid>https://ognjen.io/using-css-to-more-efficiently-cache-user-specific-content/</guid>
-            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An Up to Date Roundup of DevTools for CSS Layouts]]></title>
-            <link>https://chenhuijing.com/blog/devtools-for-css-layouts-2021-edition/</link>
-            <guid>https://chenhuijing.com/blog/devtools-for-css-layouts-2021-edition/</guid>
-            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Add a Double Border to SVG Shapes]]></title>
-            <link>https://css-tricks.com/how-to-add-a-double-border-to-svg-shapes/</link>
-            <guid>https://css-tricks.com/how-to-add-a-double-border-to-svg-shapes/</guid>
-            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Beginner’s Guide to Applying Color in UI Design]]></title>
-            <link>https://georgefrancis.dev/writing/a-beginners-guide-to-applying-color-in-ui-design/</link>
-            <guid>https://georgefrancis.dev/writing/a-beginners-guide-to-applying-color-in-ui-design/</guid>
-            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A DevTools Extension for Chrome to Examine/Inspect CSS Stacking Contexts]]></title>
-            <link>https://github.com/andreadev-it/stacking-contexts-inspector</link>
-            <guid>https://github.com/andreadev-it/stacking-contexts-inspector</guid>
-            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Picsvg: Convert Any Image to a Line Drawing in SVG Format]]></title>
-            <link>https://picsvg.com/</link>
-            <guid>https://picsvg.com/</guid>
-            <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Why You Should Use Tailwind CSS with React Native]]></title>
+            <link>https://blog.logrocket.com/why-you-should-use-tailwind-css-with-react-native/</link>
+            <guid>https://blog.logrocket.com/why-you-should-use-tailwind-css-with-react-native/</guid>
+            <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

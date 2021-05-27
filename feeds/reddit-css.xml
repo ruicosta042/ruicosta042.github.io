@@ -4,15 +4,75 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Wed, 26 May 2021 08:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 May 2021 08:28:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[SASS is going down the drain]]></title>
+            <link>https://postimg.cc/BPBvZMFp</link>
+            <guid>https://postimg.cc/BPBvZMFp</guid>
+            <pubDate>Thu, 27 May 2021 06:12:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I'm looking for a way to restyle certain websites on my smartphone with CSS, similar to Stylus chrome extension]]></title>
+            <link>https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=de</link>
+            <guid>https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=de</guid>
+            <pubDate>Thu, 27 May 2021 08:09:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Create a cool stopwatch using html , css and js]]></title>
+            <link>https://github.com/mmdrezabarkhodari/stopwacth</link>
+            <guid>https://github.com/mmdrezabarkhodari/stopwacth</guid>
+            <pubDate>Thu, 27 May 2021 06:36:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Guide to building a fun Zelda styled modal using CSS that will help get you hired]]></title>
+            <link>https://peterlunch.com/javascript-exit-intent-modal/?utm_source=reddit-css&amp;utm_medium=emb-link&amp;utm_campaign=exit-intent-modal</link>
+            <guid>https://peterlunch.com/javascript-exit-intent-modal/?utm_source=reddit-css&amp;utm_medium=emb-link&amp;utm_campaign=exit-intent-modal</guid>
+            <pubDate>Wed, 26 May 2021 10:43:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Most of Flex explained with 1 diagram (scroll down to animated justify-content example)]]></title>
+            <link>https://semicolon.dev/tutorial/css/flex-tutorial</link>
+            <guid>https://semicolon.dev/tutorial/css/flex-tutorial</guid>
+            <pubDate>Wed, 26 May 2021 16:29:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[aspect-ratio]]></title>
+            <link>https://www.quirksmode.org/blog/archives/2021/05/aspectratio.html</link>
+            <guid>https://www.quirksmode.org/blog/archives/2021/05/aspectratio.html</guid>
+            <pubDate>Wed, 26 May 2021 12:36:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is position relative doing for these images? removing it makes the images disappear]]></title>
+            <link>http://prntscr.com/13fzak5</link>
+            <guid>http://prntscr.com/13fzak5</guid>
+            <pubDate>Wed, 26 May 2021 14:59:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can We Create a "Resize Hack" With Container Queries?]]></title>
+            <link>https://css-tricks.com/can-we-create-a-resize-hack-with-container-queries/</link>
+            <guid>https://css-tricks.com/can-we-create-a-resize-hack-with-container-queries/</guid>
+            <pubDate>Wed, 26 May 2021 12:35:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pure CSS Social Media Buttons With Tooltip Hover Effect]]></title>
             <link>https://www.dottedsquirrel.com/css-social-media-buttons/</link>
             <guid>https://www.dottedsquirrel.com/css-social-media-buttons/</guid>
             <pubDate>Wed, 26 May 2021 07:52:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Found this today: CSSBattle - Great CSS challenges for improving your skills. Sorry if I'm the last human here to discover that page ...]]></title>
+            <link>https://cssbattle.dev/</link>
+            <guid>https://cssbattle.dev/</guid>
+            <pubDate>Wed, 26 May 2021 08:25:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Most Popular Programming Languages - 1965/2021 - New Update]]></title>
+            <link>https://statisticsanddata.org/data/the-most-popular-programming-languages-1965-2021/</link>
+            <guid>https://statisticsanddata.org/data/the-most-popular-programming-languages-1965-2021/</guid>
+            <pubDate>Wed, 26 May 2021 08:19:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[6 Dark Mode color palettes with examples , CSS and the Figma file.]]></title>
@@ -25,42 +85,6 @@
             <link>https://foo.com/</link>
             <guid>https://foo.com/</guid>
             <pubDate>Wed, 26 May 2021 03:50:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CSS Container Queries For Designers]]></title>
-            <link>https://ishadeed.com/article/container-queries-for-designers/</link>
-            <guid>https://ishadeed.com/article/container-queries-for-designers/</guid>
-            <pubDate>Tue, 25 May 2021 17:21:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CSS Container Queries: Use-Cases And Migration Strategies]]></title>
-            <link>https://www.smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/</link>
-            <guid>https://www.smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/</guid>
-            <pubDate>Tue, 25 May 2021 13:22:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Guide to Creating Rounded Tables]]></title>
-            <link>https://medium.math.dev/rounded-tables-an-elusive-dream-5f00709f6521</link>
-            <guid>https://medium.math.dev/rounded-tables-an-elusive-dream-5f00709f6521</guid>
-            <pubDate>Mon, 24 May 2021 16:27:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lightbox effect opened below fold relocating user to top of page when closed]]></title>
-            <link>http://relativelyhuman.com/gallery/digital-art-new.html#</link>
-            <guid>http://relativelyhuman.com/gallery/digital-art-new.html#</guid>
-            <pubDate>Tue, 25 May 2021 01:07:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Advanced CSS Animation Using cubic-bezier()]]></title>
-            <link>https://css-tricks.com/advanced-css-animation-using-cubic-bezier/</link>
-            <guid>https://css-tricks.com/advanced-css-animation-using-cubic-bezier/</guid>
-            <pubDate>Mon, 24 May 2021 14:42:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How is this page creating the illusion of margin?]]></title>
-            <link>https://vgy.me/u/cGRkd5</link>
-            <guid>https://vgy.me/u/cGRkd5</guid>
-            <pubDate>Mon, 24 May 2021 16:26:02 GMT</pubDate>
         </item>
     </channel>
 </rss>

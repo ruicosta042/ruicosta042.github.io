@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Wed, 26 May 2021 08:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 May 2021 08:28:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,70 +15,70 @@
             <pubDate>Sat, 01 May 2021 18:04:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[React nested Context Providers Issue]]></title>
+            <link>https://stackoverflow.com/questions/67675923/react-nested-context-providers-issue</link>
+            <guid>https://stackoverflow.com/questions/67675923/react-nested-context-providers-issue</guid>
+            <pubDate>Thu, 27 May 2021 08:25:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How can I dynamically set the minTime of react-datepicker?]]></title>
+            <link>https://codesandbox.io/s/cold-paper-0sqxn?file=/src/App.js</link>
+            <guid>https://codesandbox.io/s/cold-paper-0sqxn?file=/src/App.js</guid>
+            <pubDate>Thu, 27 May 2021 08:00:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wrote an article on creating web applications that can have different cosmetic and structural themes.]]></title>
+            <link>https://medium.com/the101times/power-your-reactjs-application-with-themes-92bb7de15959</link>
+            <guid>https://medium.com/the101times/power-your-reactjs-application-with-themes-92bb7de15959</guid>
+            <pubDate>Thu, 27 May 2021 07:12:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Building a SaaS Application with Next.js, Prisma, Auth0 and Stripe]]></title>
+            <link>https://egghead.io/blog/saas-app-with-nextjs-prisma-auth0-and-stripe</link>
+            <guid>https://egghead.io/blog/saas-app-with-nextjs-prisma-auth0-and-stripe</guid>
+            <pubDate>Wed, 26 May 2021 12:39:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Been learning React/Node over the last two weeks, here's a project]]></title>
+            <link>http://redbattler.kardall.com/</link>
+            <guid>http://redbattler.kardall.com/</guid>
+            <pubDate>Wed, 26 May 2021 20:54:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React Re-rendering (Part 2): Dynamic children, memos, and constant functions]]></title>
+            <link>https://medium.com/doctolib/the-subtle-aspects-of-react-re-rendering-part-2-dynamic-children-memos-and-constant-functions-3b29180d49c8</link>
+            <guid>https://medium.com/doctolib/the-subtle-aspects-of-react-re-rendering-part-2-dynamic-children-memos-and-constant-functions-3b29180d49c8</guid>
+            <pubDate>Wed, 26 May 2021 15:39:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I wrote an article raise concern and start a discussion about react testing library.]]></title>
+            <link>https://medium.com/@adamchenwei/why-we-use-react-testing-library-f82ead0efe6</link>
+            <guid>https://medium.com/@adamchenwei/why-we-use-react-testing-library-f82ead0efe6</guid>
+            <pubDate>Wed, 26 May 2021 21:48:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Best way to store blog post content (React/MongoDB)?]]></title>
+            <link>https://github.com/remarkjs/react-markdown</link>
+            <guid>https://github.com/remarkjs/react-markdown</guid>
+            <pubDate>Wed, 26 May 2021 16:43:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I made React Admin Template which helps you build faster and easier web apps.]]></title>
             <link>https://berrydashboard.io/</link>
             <guid>https://berrydashboard.io/</guid>
             <pubDate>Tue, 25 May 2021 13:56:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I made a tutorial for React Login using external API]]></title>
-            <link>https://javascript.plainenglish.io/basic-react-login-using-external-api-e33322e480cd</link>
-            <guid>https://javascript.plainenglish.io/basic-react-login-using-external-api-e33322e480cd</guid>
-            <pubDate>Wed, 26 May 2021 03:31:41 GMT</pubDate>
+            <title><![CDATA[Fetching all JSON arrays from an API call, ps React Native]]></title>
+            <link>https://flatlist.in/</link>
+            <guid>https://flatlist.in/</guid>
+            <pubDate>Wed, 26 May 2021 15:25:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What design tradeoffs make React *look* slow in benchmarks?]]></title>
-            <link>https://krausest.github.io/js-framework-benchmark/2021/table_chrome_90.0.4430.72.html</link>
-            <guid>https://krausest.github.io/js-framework-benchmark/2021/table_chrome_90.0.4430.72.html</guid>
-            <pubDate>Tue, 25 May 2021 23:37:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CodeLockr: a website built for developers to keep all the stuff they need while coding in one place, like code snippets, and much more.]]></title>
-            <link>http://www.codelockr.com/</link>
-            <guid>http://www.codelockr.com/</guid>
-            <pubDate>Tue, 25 May 2021 17:28:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I made a React Native app for OSX / MacOS that measures your standing and sitting habbits]]></title>
-            <link>https://standmo.app/</link>
-            <guid>https://standmo.app/</guid>
-            <pubDate>Tue, 25 May 2021 04:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ready-to-deploy React.js eCommerce​ store with integrated Node.js backend and Postgres database]]></title>
-            <link>https://flatlogic.com/templates/ecommerce-react-template</link>
-            <guid>https://flatlogic.com/templates/ecommerce-react-template</guid>
-            <pubDate>Tue, 25 May 2021 20:16:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How computers can pray for the benefit of all living beings using React.JS and GPU?]]></title>
-            <link>http://pixelscommander.com/interactive-revolution/can-computer-pray-for-the-benefit-of-all-living-beings-praying-with-javascript-and-webgl/</link>
-            <guid>http://pixelscommander.com/interactive-revolution/can-computer-pray-for-the-benefit-of-all-living-beings-praying-with-javascript-and-webgl/</guid>
-            <pubDate>Wed, 26 May 2021 07:12:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Write a Desktop app with React, Typescript, ASP.NET Core and WebView2]]></title>
-            <link>https://megasoft78.medium.com/write-a-desktop-app-with-react-typescript-asp-net-core-and-webview2-3a15daef4d64</link>
-            <guid>https://megasoft78.medium.com/write-a-desktop-app-with-react-typescript-asp-net-core-and-webview2-3a15daef4d64</guid>
-            <pubDate>Tue, 25 May 2021 14:04:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[5 Advanced React Patterns - An overview of 5 modern advanced React patterns, including integration codes, pros and cons, and concrete usage within public libraries.]]></title>
-            <link>https://javascript.plainenglish.io/5-advanced-react-patterns-a6b7624267a6?sk=93e1c4365748e1d5bdc1941be094bf59</link>
-            <guid>https://javascript.plainenglish.io/5-advanced-react-patterns-a6b7624267a6?sk=93e1c4365748e1d5bdc1941be094bf59</guid>
-            <pubDate>Tue, 25 May 2021 16:32:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Built my first React App (movie app). Looking to incorporate node/express now?]]></title>
-            <link>https://heuristic-villani-d41cf6.netlify.app/</link>
-            <guid>https://heuristic-villani-d41cf6.netlify.app/</guid>
-            <pubDate>Tue, 25 May 2021 14:13:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How To Add Prettier and ESLint Automation to a React Codebase]]></title>
-            <link>https://dev.to/swyx/how-to-add-prettier-and-eslint-automation-to-a-react-codebase-2gk1</link>
-            <guid>https://dev.to/swyx/how-to-add-prettier-and-eslint-automation-to-a-react-codebase-2gk1</guid>
-            <pubDate>Tue, 25 May 2021 22:45:23 GMT</pubDate>
+            <title><![CDATA[Can't get date range to display as wanted in a form. Instead have two separate "date" objects.]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Wed, 26 May 2021 18:20:12 GMT</pubDate>
         </item>
     </channel>
 </rss>

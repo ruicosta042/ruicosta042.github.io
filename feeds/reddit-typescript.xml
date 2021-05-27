@@ -4,10 +4,46 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Tue, 25 May 2021 08:03:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 May 2021 08:28:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Announcing TypeScript 4.3]]></title>
+            <link>https://devblogs.microsoft.com/typescript/announcing-typescript-4-3/</link>
+            <guid>https://devblogs.microsoft.com/typescript/announcing-typescript-4-3/</guid>
+            <pubDate>Wed, 26 May 2021 17:38:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Decltype for typescript]]></title>
+            <link>https://www.npmjs.com/@hipreme_entertainment/decltype-loader</link>
+            <guid>https://www.npmjs.com/@hipreme_entertainment/decltype-loader</guid>
+            <pubDate>Thu, 27 May 2021 00:17:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[typescript-strict-plugin - turn on strict mode on a per-file basis!]]></title>
+            <link>https://github.com/allegro/typescript-strict-plugin</link>
+            <guid>https://github.com/allegro/typescript-strict-plugin</guid>
+            <pubDate>Wed, 26 May 2021 12:09:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Convert NextAuth.js TypeScript syntax to JavaScript?]]></title>
+            <link>https://vercel.com/guides/nextjs-prisma-postgres</link>
+            <guid>https://vercel.com/guides/nextjs-prisma-postgres</guid>
+            <pubDate>Wed, 26 May 2021 19:22:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Extend getProperty example]]></title>
+            <link>https://www.typescriptlang.org/docs/handbook/2/generics.html#using-type-parameters-in-generic-constraints</link>
+            <guid>https://www.typescriptlang.org/docs/handbook/2/generics.html#using-type-parameters-in-generic-constraints</guid>
+            <pubDate>Wed, 26 May 2021 17:04:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A little library I made: React Service Locator. I managed to replace Redux and Context API for several use-cases in a couple of projects with it. Hope someone finds it useful.]]></title>
+            <link>https://github.com/rhyek/react-service-locator</link>
+            <guid>https://github.com/rhyek/react-service-locator</guid>
+            <pubDate>Wed, 26 May 2021 19:24:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Bad Reasons People Avoid TypeScript — and the Better Reasons Why They Shouldn’t]]></title>
             <link>https://medium.com/@billwohlers/the-bad-reasons-people-avoid-typescript-and-the-better-reasons-why-they-shouldnt-86f8d98534de</link>
@@ -31,78 +67,6 @@
             <link>https://www.typescriptlang.org/docs/handbook/mixins.html#constrained-mixins</link>
             <guid>https://www.typescriptlang.org/docs/handbook/mixins.html#constrained-mixins</guid>
             <pubDate>Mon, 24 May 2021 07:27:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Json serialization deserialization with the support of deeply nested json structures.]]></title>
-            <link>https://www.npmjs.com/package/ts-jackson</link>
-            <guid>https://www.npmjs.com/package/ts-jackson</guid>
-            <pubDate>Sun, 23 May 2021 16:34:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Super simple reference project to deploy a TypeScript Node Express app onto GCP Cloud Run]]></title>
-            <link>https://github.com/MatthewCYLau/node-express-typescript</link>
-            <guid>https://github.com/MatthewCYLau/node-express-typescript</guid>
-            <pubDate>Sun, 23 May 2021 11:43:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bundling with Rollup & multiple entry points - how to split declaration files?]]></title>
-            <link>https://github.com/Swatinem/rollup-plugin-dts</link>
-            <guid>https://github.com/Swatinem/rollup-plugin-dts</guid>
-            <pubDate>Sun, 23 May 2021 15:27:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Overloaded React Component Error "This overload signature is not compatible with its implementation signature."]]></title>
-            <link>https://codesandbox.io/s/react-typescript-error-ltn2t?file=/src/index.tsx</link>
-            <guid>https://codesandbox.io/s/react-typescript-error-ltn2t?file=/src/index.tsx</guid>
-            <pubDate>Sun, 23 May 2021 20:46:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to upgrade TypeScript versions - what's your process regarding breaking changes?]]></title>
-            <link>https://github.com/microsoft/TypeScript-wiki/blob/master/Breaking-Changes.md</link>
-            <guid>https://github.com/microsoft/TypeScript-wiki/blob/master/Breaking-Changes.md</guid>
-            <pubDate>Sun, 23 May 2021 00:30:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deep Object Change Handlers in Typescript]]></title>
-            <link>https://typeofnan.dev/deep-object-change-handlers-in-typescript/</link>
-            <guid>https://typeofnan.dev/deep-object-change-handlers-in-typescript/</guid>
-            <pubDate>Sat, 22 May 2021 14:31:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My short, easy, dependency-less method for compiling and distributing Typescript libraries with both top level exports and exports from sub directories / sub modules, similar to how libraries like rxjs and lodash are structured.]]></title>
-            <link>https://github.com/Dawar/typescript-library-tutorial</link>
-            <guid>https://github.com/Dawar/typescript-library-tutorial</guid>
-            <pubDate>Sat, 22 May 2021 14:26:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Question: Node + Express + Typescript - How should I type an express request parameter with an added custom field?]]></title>
-            <link>https://github.com/SSamps/template-backend-node-express-typescript/blob/feature/newCollection/src/routes/test.ts</link>
-            <guid>https://github.com/SSamps/template-backend-node-express-typescript/blob/feature/newCollection/src/routes/test.ts</guid>
-            <pubDate>Sat, 22 May 2021 17:17:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to bundle Typescript libraries with multiple entry points?]]></title>
-            <link>https://github.com/developit/microbundle/issues/545</link>
-            <guid>https://github.com/developit/microbundle/issues/545</guid>
-            <pubDate>Sat, 22 May 2021 13:27:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I built a toy programming language using Typescript]]></title>
-            <link>https://github.com/DylanSp/wheel-lang</link>
-            <guid>https://github.com/DylanSp/wheel-lang</guid>
-            <pubDate>Fri, 21 May 2021 22:51:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[validax : A clean way to validate JSON schema in Typescript]]></title>
-            <link>https://github.com/a179346/validax</link>
-            <guid>https://github.com/a179346/validax</guid>
-            <pubDate>Sat, 22 May 2021 09:15:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to build Typescript libraries for use in SvelteKit and Vite?]]></title>
-            <link>https://github.com/Dan6erbond/SvelteKitAuth</link>
-            <guid>https://github.com/Dan6erbond/SvelteKitAuth</guid>
-            <pubDate>Fri, 21 May 2021 17:10:41 GMT</pubDate>
         </item>
     </channel>
 </rss>

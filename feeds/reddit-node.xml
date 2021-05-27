@@ -4,10 +4,16 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Wed, 26 May 2021 08:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 May 2021 08:28:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Track Job Applications With Notion API, Node.js and FastifyJS]]></title>
+            <link>https://catalins.tech/track-job-applications-with-notion-api-nodejs-and-fastifyjs</link>
+            <guid>https://catalins.tech/track-job-applications-with-notion-api-nodejs-and-fastifyjs</guid>
+            <pubDate>Thu, 27 May 2021 07:21:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[As of today, express@latest has not received an update in two years]]></title>
             <link>https://expressjs.com/</link>
@@ -15,22 +21,76 @@
             <pubDate>Wed, 26 May 2021 02:07:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Anyone knows about the Nestjs course refund policy]]></title>
-            <link>https://courses.nestjs.com/</link>
-            <guid>https://courses.nestjs.com/</guid>
-            <pubDate>Tue, 25 May 2021 11:38:08 GMT</pubDate>
+            <title><![CDATA[How to see default cipher suite of my node.js?]]></title>
+            <link>https://www.npmjs.com/package/request</link>
+            <guid>https://www.npmjs.com/package/request</guid>
+            <pubDate>Thu, 27 May 2021 05:51:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Using Apollo, Prisma, and Nexus with React in an Nx Workspace]]></title>
-            <link>https://vitaterna.ca/using-apollo-prisma-and-nexus-with-react-in-an-nx-workspace</link>
-            <guid>https://vitaterna.ca/using-apollo-prisma-and-nexus-with-react-in-an-nx-workspace</guid>
-            <pubDate>Tue, 25 May 2021 14:32:05 GMT</pubDate>
+            <title><![CDATA[Koa/Express Class Decorators]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Thu, 27 May 2021 01:46:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Localhost Router only working with "/"?]]></title>
-            <link>http://localhost:2121/</link>
-            <guid>http://localhost:2121/</guid>
-            <pubDate>Tue, 25 May 2021 20:08:36 GMT</pubDate>
+            <title><![CDATA[Why adonis.js not getting too much attention?]]></title>
+            <link>https://adonisjs.com/</link>
+            <guid>https://adonisjs.com/</guid>
+            <pubDate>Wed, 26 May 2021 18:50:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to a some minutes to a date in MongoDB aggregation?]]></title>
+            <link>https://shahidcodes.hashnode.dev/how-to-a-some-minutes-to-a-date-in-mongodb-aggregation</link>
+            <guid>https://shahidcodes.hashnode.dev/how-to-a-some-minutes-to-a-date-in-mongodb-aggregation</guid>
+            <pubDate>Thu, 27 May 2021 03:16:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Snyk takes on responsibility for Node.js ecosystem vulnerability disclosure program]]></title>
+            <link>https://snyk.io/blog/snyk-takes-on-node-js-ecosystem-vulnerability-disclosure-program/</link>
+            <guid>https://snyk.io/blog/snyk-takes-on-node-js-ecosystem-vulnerability-disclosure-program/</guid>
+            <pubDate>Wed, 26 May 2021 09:37:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting Started with Express — Building an API: Part 1]]></title>
+            <link>https://simonprickett.medium.com/getting-started-with-express-building-an-api-part-1-89beb5f7399?source=friends_link&amp;sk=a0ae28fce667320515e40421cbb26bd0</link>
+            <guid>https://simonprickett.medium.com/getting-started-with-express-building-an-api-part-1-89beb5f7399?source=friends_link&amp;sk=a0ae28fce667320515e40421cbb26bd0</guid>
+            <pubDate>Wed, 26 May 2021 20:53:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Question: How can I return an ID of a new Object in MongoDB array more efficiently]]></title>
+            <link>https://github.com/SSamps/template-backend-node-express-typescript/blob/feature/newCollection/src/routes/test.ts</link>
+            <guid>https://github.com/SSamps/template-backend-node-express-typescript/blob/feature/newCollection/src/routes/test.ts</guid>
+            <pubDate>Wed, 26 May 2021 16:58:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Script to update Ethereum Prices in Youtube Title]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Wed, 26 May 2021 20:03:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Logfile on A2Hosting?]]></title>
+            <link>https://github.com/Rapid1898-code/Homepage-TableExample</link>
+            <guid>https://github.com/Rapid1898-code/Homepage-TableExample</guid>
+            <pubDate>Wed, 26 May 2021 15:01:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[Tutorial] How to download a file with Playwright?]]></title>
+            <link>https://scrapingant.com/blog/playwright-download-file</link>
+            <guid>https://scrapingant.com/blog/playwright-download-file</guid>
+            <pubDate>Wed, 26 May 2021 12:25:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Npm install ERROR]]></title>
+            <link>https://docs.google.com/document/d/1shDu3LRuiKh1NwfyCKLqIyt4M_3cZTQ9wtnTb8ywQNg/edit?usp=sharing</link>
+            <guid>https://docs.google.com/document/d/1shDu3LRuiKh1NwfyCKLqIyt4M_3cZTQ9wtnTb8ywQNg/edit?usp=sharing</guid>
+            <pubDate>Wed, 26 May 2021 10:51:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Socket.io client works only in localhost, and throws GET 404 poll errors on remote server. Need help!!!]]></title>
+            <link>https://socket.io/</link>
+            <guid>https://socket.io/</guid>
+            <pubDate>Wed, 26 May 2021 13:55:40 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Thu, 27 May 2021 08:28:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 May 2021 08:29:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,16 +15,28 @@
             <pubDate>Wed, 26 May 2021 17:38:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Decltype for typescript]]></title>
-            <link>https://www.npmjs.com/@hipreme_entertainment/decltype-loader</link>
-            <guid>https://www.npmjs.com/@hipreme_entertainment/decltype-loader</guid>
-            <pubDate>Thu, 27 May 2021 00:17:06 GMT</pubDate>
+            <title><![CDATA[Calling method that's in an object via key: how to correctly infer param types?]]></title>
+            <link>https://www.typescriptlang.org/play?#code/MYewdgzgLgBAZgVzMCB5ARgKwKbFgXhgG8AoGeJYAQQC4YAKaAJwEswBzO5t9gShnwA+GGAQAbMQBoyFZACE69UQFt02JnRVqm-ISPFSSAXwDcJEomRQW4GMACGEgGKVr4ADwAVGNgAeUbDAAEwgYAGtsAE8QOBgoSIAHbBjZFAwcPEF6GQjIuk9pcgT7JntlOgAFErLsAKYId3iklMs0rFwoAG1PAF1BToAGHul+UnIAenGYT0TsHyYmECYYNhhi0uUAOhlJmDlcewQIOda0drxO3J6AclD1spXQpuwgmHtQsGwAN3Vt8lP0h1LlEevR7speGYjOZdgA5EDzRbLVZQAAW2GOkjeoT8STwL22DmcrhsYHo11aVGuWOu6IkIGukJIRLELispPJrTk1JgAEYBkySLsZklEUsVmA4ujMdifL48QEgoTHKySeBOZQqVj+UyWWy8ByKZRuTS6WIGUygA</link>
+            <guid>https://www.typescriptlang.org/play?#code/MYewdgzgLgBAZgVzMCB5ARgKwKbFgXhgG8AoGeJYAQQC4YAKaAJwEswBzO5t9gShnwA+GGAQAbMQBoyFZACE69UQFt02JnRVqm-ISPFSSAXwDcJEomRQW4GMACGEgGKVr4ADwAVGNgAeUbDAAEwgYAGtsAE8QOBgoSIAHbBjZFAwcPEF6GQjIuk9pcgT7JntlOgAFErLsAKYId3iklMs0rFwoAG1PAF1BToAGHul+UnIAenGYT0TsHyYmECYYNhhi0uUAOhlJmDlcewQIOda0drxO3J6AclD1spXQpuwgmHtQsGwAN3Vt8lP0h1LlEevR7speGYjOZdgA5EDzRbLVZQAAW2GOkjeoT8STwL22DmcrhsYHo11aVGuWOu6IkIGukJIRLELispPJrTk1JgAEYBkySLsZklEUsVmA4ujMdifL48QEgoTHKySeBOZQqVj+UyWWy8ByKZRuTS6WIGUygA</guid>
+            <pubDate>Thu, 27 May 2021 10:35:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[typescript-strict-plugin - turn on strict mode on a per-file basis!]]></title>
             <link>https://github.com/allegro/typescript-strict-plugin</link>
             <guid>https://github.com/allegro/typescript-strict-plugin</guid>
             <pubDate>Wed, 26 May 2021 12:09:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Decltype for typescript]]></title>
+            <link>https://www.npmjs.com/@hipreme_entertainment/decltype-loader</link>
+            <guid>https://www.npmjs.com/@hipreme_entertainment/decltype-loader</guid>
+            <pubDate>Thu, 27 May 2021 00:17:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A little library I made: React Service Locator. I managed to replace Redux and Context API for several use-cases in a couple of projects with it. Hope someone finds it useful.]]></title>
+            <link>https://github.com/rhyek/react-service-locator</link>
+            <guid>https://github.com/rhyek/react-service-locator</guid>
+            <pubDate>Wed, 26 May 2021 19:24:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Convert NextAuth.js TypeScript syntax to JavaScript?]]></title>
@@ -39,34 +51,10 @@
             <pubDate>Wed, 26 May 2021 17:04:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A little library I made: React Service Locator. I managed to replace Redux and Context API for several use-cases in a couple of projects with it. Hope someone finds it useful.]]></title>
-            <link>https://github.com/rhyek/react-service-locator</link>
-            <guid>https://github.com/rhyek/react-service-locator</guid>
-            <pubDate>Wed, 26 May 2021 19:24:11 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Bad Reasons People Avoid TypeScript — and the Better Reasons Why They Shouldn’t]]></title>
             <link>https://medium.com/@billwohlers/the-bad-reasons-people-avoid-typescript-and-the-better-reasons-why-they-shouldnt-86f8d98534de</link>
             <guid>https://medium.com/@billwohlers/the-bad-reasons-people-avoid-typescript-and-the-better-reasons-why-they-shouldnt-86f8d98534de</guid>
             <pubDate>Tue, 25 May 2021 00:29:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Building a Synthesizer in TypeScript]]></title>
-            <link>https://medium.com//building-a-synthesizer-in-typescript-5a85ea17e2f2?source=friends_link&amp;sk=e443409e6d34185e8496f0aeee22eb5e</link>
-            <guid>https://medium.com//building-a-synthesizer-in-typescript-5a85ea17e2f2?source=friends_link&amp;sk=e443409e6d34185e8496f0aeee22eb5e</guid>
-            <pubDate>Tue, 25 May 2021 06:26:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Generated APIs with Runtime type validation]]></title>
-            <link>https://openapi-generator.tech/</link>
-            <guid>https://openapi-generator.tech/</guid>
-            <pubDate>Mon, 24 May 2021 11:36:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to properly implement mixins]]></title>
-            <link>https://www.typescriptlang.org/docs/handbook/mixins.html#constrained-mixins</link>
-            <guid>https://www.typescriptlang.org/docs/handbook/mixins.html#constrained-mixins</guid>
-            <pubDate>Mon, 24 May 2021 07:27:44 GMT</pubDate>
         </item>
     </channel>
 </rss>

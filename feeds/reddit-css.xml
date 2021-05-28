@@ -4,15 +4,27 @@
         <title>Cascading Style Sheets</title>
         <link>https://www.reddit.com/r/css</link>
         <description>For discussing Cascading Style Sheets, design principles, and technological innovations related to web development.</description>
-        <lastBuildDate>Thu, 27 May 2021 08:28:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 May 2021 08:29:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[SASS is going down the drain]]></title>
-            <link>https://postimg.cc/BPBvZMFp</link>
-            <guid>https://postimg.cc/BPBvZMFp</guid>
-            <pubDate>Thu, 27 May 2021 06:12:53 GMT</pubDate>
+            <title><![CDATA[Repair edges of wrapped inline elements (fragments)]]></title>
+            <link>https://saneef.com/tutorials/repair-edges-of-wrapped-inline-elements/</link>
+            <guid>https://saneef.com/tutorials/repair-edges-of-wrapped-inline-elements/</guid>
+            <pubDate>Fri, 28 May 2021 02:23:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Your browser and my browser see different colors]]></title>
+            <link>https://mux.com/blog/your-browser-and-my-browser-see-different-colors/</link>
+            <guid>https://mux.com/blog/your-browser-and-my-browser-see-different-colors/</guid>
+            <pubDate>Thu, 27 May 2021 12:58:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[82% of developers get this 3 line CSS quiz wrong]]></title>
+            <link>https://lea.verou.me/2021/05/82-of-developers-get-this-3-line-css-quiz-wrong/</link>
+            <guid>https://lea.verou.me/2021/05/82-of-developers-get-this-3-line-css-quiz-wrong/</guid>
+            <pubDate>Thu, 27 May 2021 12:47:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I'm looking for a way to restyle certain websites on my smartphone with CSS, similar to Stylus chrome extension]]></title>
@@ -49,42 +61,6 @@
             <link>http://prntscr.com/13fzak5</link>
             <guid>http://prntscr.com/13fzak5</guid>
             <pubDate>Wed, 26 May 2021 14:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can We Create a "Resize Hack" With Container Queries?]]></title>
-            <link>https://css-tricks.com/can-we-create-a-resize-hack-with-container-queries/</link>
-            <guid>https://css-tricks.com/can-we-create-a-resize-hack-with-container-queries/</guid>
-            <pubDate>Wed, 26 May 2021 12:35:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pure CSS Social Media Buttons With Tooltip Hover Effect]]></title>
-            <link>https://www.dottedsquirrel.com/css-social-media-buttons/</link>
-            <guid>https://www.dottedsquirrel.com/css-social-media-buttons/</guid>
-            <pubDate>Wed, 26 May 2021 07:52:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Found this today: CSSBattle - Great CSS challenges for improving your skills. Sorry if I'm the last human here to discover that page ...]]></title>
-            <link>https://cssbattle.dev/</link>
-            <guid>https://cssbattle.dev/</guid>
-            <pubDate>Wed, 26 May 2021 08:25:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Most Popular Programming Languages - 1965/2021 - New Update]]></title>
-            <link>https://statisticsanddata.org/data/the-most-popular-programming-languages-1965-2021/</link>
-            <guid>https://statisticsanddata.org/data/the-most-popular-programming-languages-1965-2021/</guid>
-            <pubDate>Wed, 26 May 2021 08:19:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[6 Dark Mode color palettes with examples , CSS and the Figma file.]]></title>
-            <link>https://michaelandreuzza.com/</link>
-            <guid>https://michaelandreuzza.com/</guid>
-            <pubDate>Tue, 25 May 2021 06:57:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New programming subreddit for highschoolers: r/cshighschoolers]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Wed, 26 May 2021 03:50:55 GMT</pubDate>
         </item>
     </channel>
 </rss>

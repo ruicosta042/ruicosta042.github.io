@@ -4,99 +4,63 @@
         <title>Node Weekly</title>
         <link>https://nodeweekly.com/</link>
         <description>A free, once–weekly e-mail round-up of Node.js news and articles.</description>
-        <lastBuildDate>Mon, 24 May 2021 07:54:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 May 2021 08:28:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Adonis v5 Now Out of Preview plus a New Site and Docs]]></title>
-            <link>https://docs.adonisjs.com/releases/out-of-preview</link>
-            <guid>https://docs.adonisjs.com/releases/out-of-preview</guid>
-            <pubDate>Thu, 20 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How To Create Your First Flow in Node-RED]]></title>
+            <link>https://www.youtube.com/watch?v=cVWVr_T7kQ0</link>
+            <guid>https://www.youtube.com/watch?v=cVWVr_T7kQ0</guid>
+            <pubDate>Thu, 27 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Node v16.2.0 (Current) Released]]></title>
-            <link>https://nodejs.org/en/blog/release/v16.2.0/</link>
-            <guid>https://nodejs.org/en/blog/release/v16.2.0/</guid>
-            <pubDate>Thu, 20 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Introducing WebContainers: Running Node.js Natively in the Browser]]></title>
+            <link>https://blog.stackblitz.com/posts/introducing-webcontainers/</link>
+            <guid>https://blog.stackblitz.com/posts/introducing-webcontainers/</guid>
+            <pubDate>Thu, 27 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On Renaming N-API to Node-API]]></title>
-            <link>https://nodejs.medium.com/renaming-n-api-to-node-api-27aa8ca30ed8</link>
-            <guid>https://nodejs.medium.com/renaming-n-api-to-node-api-27aa8ca30ed8</guid>
-            <pubDate>Thu, 20 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Vendure v1.0: An Open Source, Node.js E-commerce Framework]]></title>
+            <link>https://www.vendure.io/blog/2021/05/announcing-vendure-v1.0/</link>
+            <guid>https://www.vendure.io/blog/2021/05/announcing-vendure-v1.0/</guid>
+            <pubDate>Thu, 27 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Understanding Async Resources with Async Hooks]]></title>
-            <link>https://blog.insiderattack.net/understanding-async-resources-with-async-hooks-3416de574f30</link>
-            <guid>https://blog.insiderattack.net/understanding-async-resources-with-async-hooks-3416de574f30</guid>
-            <pubDate>Thu, 20 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Snyk to Take On Responsibility for Node Ecosystem Vulnerability Disclosure Program]]></title>
+            <link>https://snyk.io/blog/snyk-takes-on-node-js-ecosystem-vulnerability-disclosure-program/</link>
+            <guid>https://snyk.io/blog/snyk-takes-on-node-js-ecosystem-vulnerability-disclosure-program/</guid>
+            <pubDate>Thu, 27 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Learn About Async Iterators with Luciano Mammino]]></title>
-            <link>https://www.youtube.com/watch?v=l2CA9FtW1Pw</link>
-            <guid>https://www.youtube.com/watch?v=l2CA9FtW1Pw</guid>
-            <pubDate>Thu, 20 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[A Deep Dive into Rust for Node Developers]]></title>
+            <link>https://t.co/zGXSCebFT8?amp=1</link>
+            <guid>https://t.co/zGXSCebFT8?amp=1</guid>
+            <pubDate>Thu, 27 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Asynchronous APIs with DynamoDB Streams]]></title>
-            <link>https://medium.com/nerd-for-tech/asynchronous-api-with-dynamodb-streams-4117776f2fa4</link>
-            <guid>https://medium.com/nerd-for-tech/asynchronous-api-with-dynamodb-streams-4117776f2fa4</guid>
-            <pubDate>Thu, 20 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[ts-node 10.0: TypeScript Execution and REPL for Node]]></title>
+            <link>https://typestrong.org/ts-node/</link>
+            <guid>https://typestrong.org/ts-node/</guid>
+            <pubDate>Thu, 27 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Building Serverless Workflows in Pipedream]]></title>
-            <link>https://www.youtube.com/watch?v=iizTlpEi4Z8</link>
-            <guid>https://www.youtube.com/watch?v=iizTlpEi4Z8</guid>
-            <pubDate>Thu, 20 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[milliparsec: A Small, Dependency Free Body Parsing Library]]></title>
+            <link>https://github.com/talentlessguy/milliparsec</link>
+            <guid>https://github.com/talentlessguy/milliparsec</guid>
+            <pubDate>Thu, 27 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Advanced Setup of Node-RED in Easy Steps]]></title>
-            <link>https://www.youtube.com/watch?v=Xm35Xk5mnwg</link>
-            <guid>https://www.youtube.com/watch?v=Xm35Xk5mnwg</guid>
-            <pubDate>Thu, 20 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[node-notifier 10.0: Cross Platform Native Notifications from Node]]></title>
+            <link>https://github.com/mikaelbr/node-notifier</link>
+            <guid>https://github.com/mikaelbr/node-notifier</guid>
+            <pubDate>Thu, 27 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Node.js Application Maintainer Guide]]></title>
-            <link>https://nodesource.com/blog/the-Node.js-application-maintainer-guide</link>
-            <guid>https://nodesource.com/blog/the-Node.js-application-maintainer-guide</guid>
-            <pubDate>Thu, 20 May 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[create-node-cli 1.6.0: CLI to Create New Node CLI Apps]]></title>
-            <link>https://github.com/ahmadawais/create-node-cli</link>
-            <guid>https://github.com/ahmadawais/create-node-cli</guid>
-            <pubDate>Thu, 20 May 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Clinic.js: An Open Source Node.js Performance Profiling Suite]]></title>
-            <link>https://clinicjs.org/</link>
-            <guid>https://clinicjs.org/</guid>
-            <pubDate>Thu, 20 May 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prettier 2.3: The Opinionated Code Formatter]]></title>
-            <link>https://prettier.io/blog/2021/05/09/2.3.0.html</link>
-            <guid>https://prettier.io/blog/2021/05/09/2.3.0.html</guid>
-            <pubDate>Thu, 20 May 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[node-dns: A DNS Server and Client Implementation]]></title>
-            <link>https://github.com/song940/node-dns</link>
-            <guid>https://github.com/song940/node-dns</guid>
-            <pubDate>Thu, 20 May 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[tinyws: Tiny WebSocket Middleware for Node]]></title>
-            <link>https://github.com/talentlessguy/tinyws</link>
-            <guid>https://github.com/talentlessguy/tinyws</guid>
-            <pubDate>Thu, 20 May 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[geoyaml: Write or Parse GeoJSON as YAML]]></title>
-            <link>https://github.com/louh/geoyaml</link>
-            <guid>https://github.com/louh/geoyaml</guid>
-            <pubDate>Thu, 20 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to Add Login to a Node App with Cloudflare Argo Tunnels]]></title>
+            <link>https://mydigitalmark.com/add-login-to-nodejs-with-cloudflare-argo-tunnels/</link>
+            <guid>https://mydigitalmark.com/add-login-to-nodejs-with-cloudflare-argo-tunnels/</guid>
+            <pubDate>Thu, 27 May 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

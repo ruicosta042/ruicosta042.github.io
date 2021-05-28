@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Thu, 27 May 2021 08:28:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 May 2021 08:29:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,70 +15,70 @@
             <pubDate>Sat, 01 May 2021 18:04:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React nested Context Providers Issue]]></title>
-            <link>https://stackoverflow.com/questions/67675923/react-nested-context-providers-issue</link>
-            <guid>https://stackoverflow.com/questions/67675923/react-nested-context-providers-issue</guid>
-            <pubDate>Thu, 27 May 2021 08:25:48 GMT</pubDate>
+            <title><![CDATA[Tailwind CSS is (Probably) Overhyped]]></title>
+            <link>https://betterprogramming.pub/tailwind-css-is-probably-overhyped-5272e5d58d4e</link>
+            <guid>https://betterprogramming.pub/tailwind-css-is-probably-overhyped-5272e5d58d4e</guid>
+            <pubDate>Thu, 27 May 2021 13:36:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How can I dynamically set the minTime of react-datepicker?]]></title>
-            <link>https://codesandbox.io/s/cold-paper-0sqxn?file=/src/App.js</link>
-            <guid>https://codesandbox.io/s/cold-paper-0sqxn?file=/src/App.js</guid>
-            <pubDate>Thu, 27 May 2021 08:00:21 GMT</pubDate>
+            <title><![CDATA["Don't overabstract your components"]]></title>
+            <link>https://kirjai.com/component-abstraction/</link>
+            <guid>https://kirjai.com/component-abstraction/</guid>
+            <pubDate>Thu, 27 May 2021 21:01:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wrote an article on creating web applications that can have different cosmetic and structural themes.]]></title>
-            <link>https://medium.com/the101times/power-your-reactjs-application-with-themes-92bb7de15959</link>
-            <guid>https://medium.com/the101times/power-your-reactjs-application-with-themes-92bb7de15959</guid>
-            <pubDate>Thu, 27 May 2021 07:12:52 GMT</pubDate>
+            <title><![CDATA[Learn Three.js in React Way]]></title>
+            <link>https://xjkit.github.io/learn-threejs-in-react-way/</link>
+            <guid>https://xjkit.github.io/learn-threejs-in-react-way/</guid>
+            <pubDate>Thu, 27 May 2021 20:09:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Building a SaaS Application with Next.js, Prisma, Auth0 and Stripe]]></title>
-            <link>https://egghead.io/blog/saas-app-with-nextjs-prisma-auth0-and-stripe</link>
-            <guid>https://egghead.io/blog/saas-app-with-nextjs-prisma-auth0-and-stripe</guid>
-            <pubDate>Wed, 26 May 2021 12:39:31 GMT</pubDate>
+            <title><![CDATA[Beginners' Introduction to React Testing]]></title>
+            <link>https://javascript.works-hub.com/learn/react-testing-a-beginners-intro-a9533?utm_source=reddit&amp;utm_medium=affiliates&amp;utm_campaign=javascriptworks-blogpost</link>
+            <guid>https://javascript.works-hub.com/learn/react-testing-a-beginners-intro-a9533?utm_source=reddit&amp;utm_medium=affiliates&amp;utm_campaign=javascriptworks-blogpost</guid>
+            <pubDate>Thu, 27 May 2021 08:46:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Been learning React/Node over the last two weeks, here's a project]]></title>
-            <link>http://redbattler.kardall.com/</link>
-            <guid>http://redbattler.kardall.com/</guid>
-            <pubDate>Wed, 26 May 2021 20:54:24 GMT</pubDate>
+            <title><![CDATA[Sofia - Open-Source React Admin Template]]></title>
+            <link>https://flatlogic.com/templates/sofia-free-react-template</link>
+            <guid>https://flatlogic.com/templates/sofia-free-react-template</guid>
+            <pubDate>Thu, 27 May 2021 19:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React Re-rendering (Part 2): Dynamic children, memos, and constant functions]]></title>
-            <link>https://medium.com/doctolib/the-subtle-aspects-of-react-re-rendering-part-2-dynamic-children-memos-and-constant-functions-3b29180d49c8</link>
-            <guid>https://medium.com/doctolib/the-subtle-aspects-of-react-re-rendering-part-2-dynamic-children-memos-and-constant-functions-3b29180d49c8</guid>
-            <pubDate>Wed, 26 May 2021 15:39:11 GMT</pubDate>
+            <title><![CDATA[I made a successful launch of my react admin template. It helps you to start your next project faster and easier.]]></title>
+            <link>https://github.com/codedthemes/berry-free-react-admin-template</link>
+            <guid>https://github.com/codedthemes/berry-free-react-admin-template</guid>
+            <pubDate>Fri, 28 May 2021 08:06:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I wrote an article raise concern and start a discussion about react testing library.]]></title>
-            <link>https://medium.com/@adamchenwei/why-we-use-react-testing-library-f82ead0efe6</link>
-            <guid>https://medium.com/@adamchenwei/why-we-use-react-testing-library-f82ead0efe6</guid>
-            <pubDate>Wed, 26 May 2021 21:48:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Best way to store blog post content (React/MongoDB)?]]></title>
-            <link>https://github.com/remarkjs/react-markdown</link>
-            <guid>https://github.com/remarkjs/react-markdown</guid>
-            <pubDate>Wed, 26 May 2021 16:43:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I made React Admin Template which helps you build faster and easier web apps.]]></title>
-            <link>https://berrydashboard.io/</link>
-            <guid>https://berrydashboard.io/</guid>
-            <pubDate>Tue, 25 May 2021 13:56:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fetching all JSON arrays from an API call, ps React Native]]></title>
-            <link>https://flatlist.in/</link>
-            <guid>https://flatlist.in/</guid>
-            <pubDate>Wed, 26 May 2021 15:25:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can't get date range to display as wanted in a form. Instead have two separate "date" objects.]]></title>
+            <title><![CDATA[How do you guys handle all these CLIs?]]></title>
             <link>https://foo.com/</link>
             <guid>https://foo.com/</guid>
-            <pubDate>Wed, 26 May 2021 18:20:12 GMT</pubDate>
+            <pubDate>Fri, 28 May 2021 07:15:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Get Your Popcorn Ready. Web Framework and UI Library Drama]]></title>
+            <link>https://github.com/vercel/next.js/pull/23185</link>
+            <guid>https://github.com/vercel/next.js/pull/23185</guid>
+            <pubDate>Fri, 28 May 2021 07:04:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[i18n and Next.js]]></title>
+            <link>https://www.npmjs.com/package/react-intl</link>
+            <guid>https://www.npmjs.com/package/react-intl</guid>
+            <pubDate>Thu, 27 May 2021 22:59:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Thorough Analysis of CSS-in-JS]]></title>
+            <link>https://css-tricks.com/a-thorough-analysis-of-css-in-js/</link>
+            <guid>https://css-tricks.com/a-thorough-analysis-of-css-in-js/</guid>
+            <pubDate>Thu, 27 May 2021 13:32:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Using and optimizing useState to manage an array]]></title>
+            <link>https://fullybearded.com/articles/managing-array-with-useState/</link>
+            <guid>https://fullybearded.com/articles/managing-array-with-useState/</guid>
+            <pubDate>Thu, 27 May 2021 21:10:24 GMT</pubDate>
         </item>
     </channel>
 </rss>

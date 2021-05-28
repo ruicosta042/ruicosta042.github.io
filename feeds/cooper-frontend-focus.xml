@@ -4,7 +4,7 @@
         <title>Frontend Focus</title>
         <link>https://frontendfoc.us/</link>
         <description>A once–weekly roundup of the best front-end news, articles and tutorials. HTML, CSS, WebGL, Canvas, browser tech, and more.</description>
-        <lastBuildDate>Thu, 27 May 2021 08:27:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 May 2021 08:28:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -28,8 +28,8 @@
         </item>
         <item>
             <title><![CDATA[An Experimental 'Follow' Feature Coming to Chrome?]]></title>
-            <link>https://blog.chromium.org/2021/05/an-experiment-in-helping-users-and-web.html</link>
-            <guid>https://blog.chromium.org/2021/05/an-experiment-in-helping-users-and-web.html</guid>
+            <link>https://blog.chromium.org/2021/05/an-experiment-in-helping-users-and-web.html?m=1</link>
+            <guid>https://blog.chromium.org/2021/05/an-experiment-in-helping-users-and-web.html?m=1</guid>
             <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>

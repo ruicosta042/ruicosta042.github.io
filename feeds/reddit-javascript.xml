@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Thu, 27 May 2021 08:28:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 May 2021 08:29:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,10 +15,58 @@
             <pubDate>Mon, 24 May 2021 09:03:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Sparkplug — A non-optimizing JavaScript compiler]]></title>
+            <link>https://v8.dev/blog/sparkplug</link>
+            <guid>https://v8.dev/blog/sparkplug</guid>
+            <pubDate>Thu, 27 May 2021 16:31:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[neo.mjs v2.2: Main thread MicroLoaders for your Apps]]></title>
+            <link>https://tobiasuhlig.medium.com/neo-mjs-v2-2-main-thread-microloaders-for-your-apps-a8722e32335e?source=friends_link&amp;sk=466312cdeb92ed813be59a1d14d5778c</link>
+            <guid>https://tobiasuhlig.medium.com/neo-mjs-v2-2-main-thread-microloaders-for-your-apps-a8722e32335e?source=friends_link&amp;sk=466312cdeb92ed813be59a1d14d5778c</guid>
+            <pubDate>Fri, 28 May 2021 07:09:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Writing custom REPLs in Node.js]]></title>
+            <link>https://nathan.vegas/blog/post/1/</link>
+            <guid>https://nathan.vegas/blog/post/1/</guid>
+            <pubDate>Fri, 28 May 2021 02:04:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[State Management: How to tell a bad boolean from a good boolean]]></title>
+            <link>https://dev.to/mpocock1/state-management-how-to-tell-a-bad-boolean-from-a-good-boolean-260n</link>
+            <guid>https://dev.to/mpocock1/state-management-how-to-tell-a-bad-boolean-from-a-good-boolean-260n</guid>
+            <pubDate>Fri, 28 May 2021 07:45:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[MDN is launching MDN Plus]]></title>
             <link>https://developer.mozilla.org/en-US/plus</link>
             <guid>https://developer.mozilla.org/en-US/plus</guid>
             <pubDate>Wed, 26 May 2021 21:48:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Customizeable, simple and free URL shortener coded in JavaScript (FOSS)]]></title>
+            <link>https://slight.gq/</link>
+            <guid>https://slight.gq/</guid>
+            <pubDate>Thu, 27 May 2021 16:40:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Setting up webhooks for Facebook apps]]></title>
+            <link>https://dev.to/kevinam99/setting-webhooks-for-facebook-apps-4o8c</link>
+            <guid>https://dev.to/kevinam99/setting-webhooks-for-facebook-apps-4o8c</guid>
+            <pubDate>Thu, 27 May 2021 17:55:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Evolution and Redefinition of The Jamstack]]></title>
+            <link>https://www.seancdavis.com/blog/jamstack-evolution-and-redefinition/</link>
+            <guid>https://www.seancdavis.com/blog/jamstack-evolution-and-redefinition/</guid>
+            <pubDate>Thu, 27 May 2021 14:38:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Create sites or tables from a airtable/gsheet/csv]]></title>
+            <link>https://table.listws.com/</link>
+            <guid>https://table.listws.com/</guid>
+            <pubDate>Thu, 27 May 2021 22:55:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Announcing TypeScript 4.3]]></title>
@@ -27,22 +75,40 @@
             <pubDate>Wed, 26 May 2021 17:38:13 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[I made a little webapp to automatically create CSS particle effects for buttons]]></title>
+            <link>https://bewelge.github.io/CSS-Button-Particles/</link>
+            <guid>https://bewelge.github.io/CSS-Button-Particles/</guid>
+            <pubDate>Thu, 27 May 2021 20:33:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Demystifying Iterables by implementing a python like range function]]></title>
+            <link>https://viveknayyar.medium.com/demystifying-iterables-by-implementing-a-python-like-range-function-7f00c0ebff44</link>
+            <guid>https://viveknayyar.medium.com/demystifying-iterables-by-implementing-a-python-like-range-function-7f00c0ebff44</guid>
+            <pubDate>Thu, 27 May 2021 13:40:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Are you a professional developer?]]></title>
+            <link>https://dev.to/guivern/are-you-a-professional-developer-319h</link>
+            <guid>https://dev.to/guivern/are-you-a-professional-developer-319h</guid>
+            <pubDate>Thu, 27 May 2021 22:19:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Re:factor - a FREE software development conference for charity]]></title>
             <link>https://www.re-factor.be/</link>
             <guid>https://www.re-factor.be/</guid>
             <pubDate>Wed, 26 May 2021 15:21:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A little library I made: React Service Locator. I managed to replace Redux and Context API for several use-cases in a couple of projects with it. Hope someone finds it useful.]]></title>
-            <link>https://github.com/rhyek/react-service-locator</link>
-            <guid>https://github.com/rhyek/react-service-locator</guid>
-            <pubDate>Wed, 26 May 2021 19:25:55 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Updates from latest (83rd) meeting of TC39]]></title>
             <link>https://dev.to/hemanth/updates-from-83rd-meeting-of-tc39-1d67</link>
             <guid>https://dev.to/hemanth/updates-from-83rd-meeting-of-tc39-1d67</guid>
             <pubDate>Wed, 26 May 2021 22:51:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A little library I made: React Service Locator. I managed to replace Redux and Context API for several use-cases in a couple of projects with it. Hope someone finds it useful.]]></title>
+            <link>https://github.com/rhyek/react-service-locator</link>
+            <guid>https://github.com/rhyek/react-service-locator</guid>
+            <pubDate>Wed, 26 May 2021 19:25:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I made a website that documents TypeScript packages]]></title>
@@ -91,66 +157,6 @@
             <link>https://github.com/neutralinojs/neutralinojs/releases/tag/v2.0.0</link>
             <guid>https://github.com/neutralinojs/neutralinojs/releases/tag/v2.0.0</guid>
             <pubDate>Wed, 26 May 2021 06:38:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Building a SaaS Application with Next.js, Prisma, Auth0 and Stripe]]></title>
-            <link>https://egghead.io/blog/saas-app-with-nextjs-prisma-auth0-and-stripe</link>
-            <guid>https://egghead.io/blog/saas-app-with-nextjs-prisma-auth0-and-stripe</guid>
-            <pubDate>Wed, 26 May 2021 12:39:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It was pretty difficult to share open-source contributions to anyone in Github so I made a Kanban Chart page that shows all your open/closed pull-request and issues in a very visually appealing form.]]></title>
-            <link>https://github.com/codescientist703/github-kanban</link>
-            <guid>https://github.com/codescientist703/github-kanban</guid>
-            <pubDate>Tue, 25 May 2021 08:53:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Leverage the AWS WebSocket API for Serverless WebRTC signaling - webrtcHacks]]></title>
-            <link>https://webrtchacks.com/leverage-aws-websocket-api-for-webrtc-signaling/</link>
-            <guid>https://webrtchacks.com/leverage-aws-websocket-api-for-webrtc-signaling/</guid>
-            <pubDate>Tue, 25 May 2021 12:44:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scheme based powerful lisp interpreter written in JavaScript]]></title>
-            <link>https://github.com/jcubic/lips</link>
-            <guid>https://github.com/jcubic/lips</guid>
-            <pubDate>Tue, 25 May 2021 11:45:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Adding Authentication to an existing serverless Next.js App in no time with NextAuth.js!]]></title>
-            <link>https://dev.to/ndom91/adding-authentication-to-an-existing-serverless-next-js-app-in-no-time-with-nextauth-js-192h</link>
-            <guid>https://dev.to/ndom91/adding-authentication-to-an-existing-serverless-next-js-app-in-no-time-with-nextauth-js-192h</guid>
-            <pubDate>Tue, 25 May 2021 20:53:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[snap-tweet: CLI to snap a screenshot of a tweet]]></title>
-            <link>https://github.com/privatenumber/snap-tweet</link>
-            <guid>https://github.com/privatenumber/snap-tweet</guid>
-            <pubDate>Tue, 25 May 2021 15:56:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I created a Markdown blog using the Notion API, Next.js and Tailwind]]></title>
-            <link>https://notion-blog-ruby-kappa.vercel.app/</link>
-            <guid>https://notion-blog-ruby-kappa.vercel.app/</guid>
-            <pubDate>Tue, 25 May 2021 21:19:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Parsing in JavaScript: all the tools and libraries you can use]]></title>
-            <link>https://tomassetti.me/parsing-in-javascript/#chevrotain</link>
-            <guid>https://tomassetti.me/parsing-in-javascript/#chevrotain</guid>
-            <pubDate>Tue, 25 May 2021 16:42:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Best Programming Languages to learn in 2021!]]></title>
-            <link>https://blog.devgenius.io/best-programming-languages-to-learn-in-2021-b5481705c202?sk=fcc7d91db8242ebb45c1b9f2f60358a2</link>
-            <guid>https://blog.devgenius.io/best-programming-languages-to-learn-in-2021-b5481705c202?sk=fcc7d91db8242ebb45c1b9f2f60358a2</guid>
-            <pubDate>Wed, 26 May 2021 09:26:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[5 Reasons why we chose to transpile to SolidJS instead of React]]></title>
-            <link>https://dev.to/chrisczopp/5-reasons-why-we-chose-to-transpile-to-solidjs-instead-of-react-3pcl</link>
-            <guid>https://dev.to/chrisczopp/5-reasons-why-we-chose-to-transpile-to-solidjs-instead-of-react-3pcl</guid>
-            <pubDate>Wed, 26 May 2021 09:03:05 GMT</pubDate>
         </item>
     </channel>
 </rss>

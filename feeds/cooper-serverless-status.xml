@@ -4,63 +4,57 @@
         <title>Serverless Status</title>
         <link>https://serverless.email/</link>
         <description>A weekly newsletter on serverless and function-as-a-service (FaaS) architectures and platforms including AWS Lambda and Azure Functions.</description>
-        <lastBuildDate>Tue, 25 May 2021 08:03:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 May 2021 08:45:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Multiplayer DOOM on Cloudflare Workers]]></title>
-            <link>https://blog.cloudflare.com/doom-multiplayer-workers/</link>
-            <guid>https://blog.cloudflare.com/doom-multiplayer-workers/</guid>
-            <pubDate>Fri, 21 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[The State of Serverless 2021]]></title>
+            <link>https://www.datadoghq.com/state-of-serverless/</link>
+            <guid>https://www.datadoghq.com/state-of-serverless/</guid>
+            <pubDate>Fri, 28 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AWS Step Functions Now Integrates with EventBridge]]></title>
-            <link>https://aws.amazon.com/blogs/compute/introducing-the-amazon-eventbridge-service-integration-for-aws-step-functions/</link>
-            <guid>https://aws.amazon.com/blogs/compute/introducing-the-amazon-eventbridge-service-integration-for-aws-step-functions/</guid>
-            <pubDate>Fri, 21 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[AWS Lambda Extensions Now Generally Available]]></title>
+            <link>https://aws.amazon.com/blogs/aws/getting-started-with-using-your-favorite-operational-tools-on-aws-lambda-extensions-are-now-generally-available/</link>
+            <guid>https://aws.amazon.com/blogs/aws/getting-started-with-using-your-favorite-operational-tools-on-aws-lambda-extensions-are-now-generally-available/</guid>
+            <pubDate>Fri, 28 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Announcing the Alpha Release of sls-test-tools]]></title>
-            <link>https://medium.com/serverless-transformation/announcing-the-alpha-release-of-sls-test-tools-bring-simplicity-to-serverless-integration-testing-a5a5ccabde43</link>
-            <guid>https://medium.com/serverless-transformation/announcing-the-alpha-release-of-sls-test-tools-bring-simplicity-to-serverless-integration-testing-a5a5ccabde43</guid>
-            <pubDate>Fri, 21 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Building a Serverless Outbreak Management Solution with AWS Data Lab]]></title>
+            <link>https://aws.amazon.com/blogs/architecture/building-a-serverless-outbreak-management-solution-with-aws-data-lab/</link>
+            <guid>https://aws.amazon.com/blogs/architecture/building-a-serverless-outbreak-management-solution-with-aws-data-lab/</guid>
+            <pubDate>Fri, 28 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AWS App Runner: A New Way to Deploy Code on AWS]]></title>
-            <link>https://aws.amazon.com/blogs/aws/app-runner-from-code-to-scalable-secure-web-apps/</link>
-            <guid>https://aws.amazon.com/blogs/aws/app-runner-from-code-to-scalable-secure-web-apps/</guid>
-            <pubDate>Fri, 21 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Five Easy Steps to Deploy Containers as Lambda Functions]]></title>
+            <link>https://aws.plainenglish.io/5-easy-steps-to-deploy-your-containers-as-lambda-functions-de9314f074f1</link>
+            <guid>https://aws.plainenglish.io/5-easy-steps-to-deploy-your-containers-as-lambda-functions-de9314f074f1</guid>
+            <pubDate>Fri, 28 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How Serverless is Becoming More Extensible with Julian Wood]]></title>
-            <link>https://www.serverlesschats.com/101/</link>
-            <guid>https://www.serverlesschats.com/101/</guid>
-            <pubDate>Fri, 21 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Convect: Instant Serverless Deployment of Machine Learning Models]]></title>
+            <link>https://www.convect.ml/</link>
+            <guid>https://www.convect.ml/</guid>
+            <pubDate>Fri, 28 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scheduling Google Cloud SQL Instances to Start and Stop to Reduce Costs]]></title>
-            <link>https://cloud.google.com/blog/topics/developers-practitioners/lower-development-costs-schedule-cloud-sql-instances-start-and-stop</link>
-            <guid>https://cloud.google.com/blog/topics/developers-practitioners/lower-development-costs-schedule-cloud-sql-instances-start-and-stop</guid>
-            <pubDate>Fri, 21 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Behind the Scenes as AWS AppConfig Builds a Lambda Extension]]></title>
+            <link>https://aws.amazon.com/blogs/mt/behind-the-scenes-as-aws-appconfig-builds-a-lambda-extension/</link>
+            <guid>https://aws.amazon.com/blogs/mt/behind-the-scenes-as-aws-appconfig-builds-a-lambda-extension/</guid>
+            <pubDate>Fri, 28 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Building Serverless Workflows in Pipedream]]></title>
-            <link>https://www.youtube.com/watch?v=iizTlpEi4Z8</link>
-            <guid>https://www.youtube.com/watch?v=iizTlpEi4Z8</guid>
-            <pubDate>Fri, 21 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to Create and Publish OpenAPI-enabled Azure Functions with Visual Studio and .NET]]></title>
+            <link>https://techcommunity.microsoft.com/t5/apps-on-azure/create-and-publish-openapi-enabled-azure-functions-with-visual/ba-p/2381067</link>
+            <guid>https://techcommunity.microsoft.com/t5/apps-on-azure/create-and-publish-openapi-enabled-azure-functions-with-visual/ba-p/2381067</guid>
+            <pubDate>Fri, 28 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Create a Serverless Pipeline to Translate Large Documents with Amazon Translate]]></title>
-            <link>https://aws.amazon.com/blogs/machine-learning/create-a-serverless-pipeline-to-translate-large-documents-with-amazon-translate/</link>
-            <guid>https://aws.amazon.com/blogs/machine-learning/create-a-serverless-pipeline-to-translate-large-documents-with-amazon-translate/</guid>
-            <pubDate>Fri, 21 May 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Asynchronous APIs with DynamoDB Streams]]></title>
-            <link>https://medium.com/nerd-for-tech/asynchronous-api-with-dynamodb-streams-4117776f2fa4</link>
-            <guid>https://medium.com/nerd-for-tech/asynchronous-api-with-dynamodb-streams-4117776f2fa4</guid>
-            <pubDate>Fri, 21 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Stateful Serverless Automation with PowerShell Support in Azure Durable Functions]]></title>
+            <link>https://techcommunity.microsoft.com/t5/apps-on-azure/stateful-serverless-automation-with-powershell-support-in-azure/ba-p/2384942</link>
+            <guid>https://techcommunity.microsoft.com/t5/apps-on-azure/stateful-serverless-automation-with-powershell-support-in-azure/ba-p/2384942</guid>
+            <pubDate>Fri, 28 May 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

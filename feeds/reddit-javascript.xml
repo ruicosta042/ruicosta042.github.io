@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Fri, 28 May 2021 08:29:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 May 2021 08:45:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,16 +15,64 @@
             <pubDate>Mon, 24 May 2021 09:03:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[A Codemod to migrate from Moment to day.js]]></title>
+            <link>https://github.com/rajasegar/moment-dayjs-codemod</link>
+            <guid>https://github.com/rajasegar/moment-dayjs-codemod</guid>
+            <pubDate>Sat, 29 May 2021 02:51:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[State Management: How to tell a bad boolean from a good boolean]]></title>
+            <link>https://dev.to/mpocock1/state-management-how-to-tell-a-bad-boolean-from-a-good-boolean-260n</link>
+            <guid>https://dev.to/mpocock1/state-management-how-to-tell-a-bad-boolean-from-a-good-boolean-260n</guid>
+            <pubDate>Fri, 28 May 2021 07:45:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to build a piano with JavaScript]]></title>
+            <link>https://www.charmingdesk.com.ng/2021/05/29/how-to-create-a-javascript-piano/</link>
+            <guid>https://www.charmingdesk.com.ng/2021/05/29/how-to-create-a-javascript-piano/</guid>
+            <pubDate>Sat, 29 May 2021 06:33:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why should you learn JavaScript in 2021 ?]]></title>
+            <link>https://shivamv.hashnode.dev/why-should-you-learn-javascript-in-2021</link>
+            <guid>https://shivamv.hashnode.dev/why-should-you-learn-javascript-in-2021</guid>
+            <pubDate>Sat, 29 May 2021 08:40:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Youtube videos uploader package without daily upload limits]]></title>
+            <link>https://github.com/fawazahmed0/youtube-uploader</link>
+            <guid>https://github.com/fawazahmed0/youtube-uploader</guid>
+            <pubDate>Sat, 29 May 2021 00:12:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Crypto Currency Exchange Rates API - Free, No Rate Limits, Updated Daily]]></title>
+            <link>https://github.com/fawazahmed0/currency-api</link>
+            <guid>https://github.com/fawazahmed0/currency-api</guid>
+            <pubDate>Sat, 29 May 2021 06:20:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Making art from science using AI in TensorFlow.js]]></title>
+            <link>https://blog.code-inspector.com/from-our-friends-dicify-ai-8c58a4016586</link>
+            <guid>https://blog.code-inspector.com/from-our-friends-dicify-ai-8c58a4016586</guid>
+            <pubDate>Fri, 28 May 2021 23:33:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[pattern-grab.js - Regular Expression Data Grabber]]></title>
+            <link>https://github.com/hmmhmmhm/pattern-grab/blob/main/README.md</link>
+            <guid>https://github.com/hmmhmmhm/pattern-grab/blob/main/README.md</guid>
+            <pubDate>Fri, 28 May 2021 20:58:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sparkplug — A non-optimizing JavaScript compiler]]></title>
             <link>https://v8.dev/blog/sparkplug</link>
             <guid>https://v8.dev/blog/sparkplug</guid>
             <pubDate>Thu, 27 May 2021 16:31:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[neo.mjs v2.2: Main thread MicroLoaders for your Apps]]></title>
-            <link>https://tobiasuhlig.medium.com/neo-mjs-v2-2-main-thread-microloaders-for-your-apps-a8722e32335e?source=friends_link&amp;sk=466312cdeb92ed813be59a1d14d5778c</link>
-            <guid>https://tobiasuhlig.medium.com/neo-mjs-v2-2-main-thread-microloaders-for-your-apps-a8722e32335e?source=friends_link&amp;sk=466312cdeb92ed813be59a1d14d5778c</guid>
-            <pubDate>Fri, 28 May 2021 07:09:30 GMT</pubDate>
+            <title><![CDATA[20 JavaScript Concepts you should know as a JavaScript Programmer!]]></title>
+            <link>https://blog.devgenius.io/20-javascript-concepts-you-should-know-as-a-javascript-programmer-c04d7b1a8d6e?sk=cc9a655f3a07686a9a1cdd4825c73e18</link>
+            <guid>https://blog.devgenius.io/20-javascript-concepts-you-should-know-as-a-javascript-programmer-c04d7b1a8d6e?sk=cc9a655f3a07686a9a1cdd4825c73e18</guid>
+            <pubDate>Fri, 28 May 2021 13:21:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Writing custom REPLs in Node.js]]></title>
@@ -33,10 +81,10 @@
             <pubDate>Fri, 28 May 2021 02:04:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[State Management: How to tell a bad boolean from a good boolean]]></title>
-            <link>https://dev.to/mpocock1/state-management-how-to-tell-a-bad-boolean-from-a-good-boolean-260n</link>
-            <guid>https://dev.to/mpocock1/state-management-how-to-tell-a-bad-boolean-from-a-good-boolean-260n</guid>
-            <pubDate>Fri, 28 May 2021 07:45:38 GMT</pubDate>
+            <title><![CDATA[neo.mjs v2.2: Main thread MicroLoaders for your Apps]]></title>
+            <link>https://tobiasuhlig.medium.com/neo-mjs-v2-2-main-thread-microloaders-for-your-apps-a8722e32335e?source=friends_link&amp;sk=466312cdeb92ed813be59a1d14d5778c</link>
+            <guid>https://tobiasuhlig.medium.com/neo-mjs-v2-2-main-thread-microloaders-for-your-apps-a8722e32335e?source=friends_link&amp;sk=466312cdeb92ed813be59a1d14d5778c</guid>
+            <pubDate>Fri, 28 May 2021 07:09:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MDN is launching MDN Plus]]></title>
@@ -69,6 +117,12 @@
             <pubDate>Thu, 27 May 2021 22:55:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Demystifying Iterables by implementing a python like range function]]></title>
+            <link>https://viveknayyar.medium.com/demystifying-iterables-by-implementing-a-python-like-range-function-7f00c0ebff44</link>
+            <guid>https://viveknayyar.medium.com/demystifying-iterables-by-implementing-a-python-like-range-function-7f00c0ebff44</guid>
+            <pubDate>Thu, 27 May 2021 13:40:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Announcing TypeScript 4.3]]></title>
             <link>https://devblogs.microsoft.com/typescript/announcing-typescript-4-3/</link>
             <guid>https://devblogs.microsoft.com/typescript/announcing-typescript-4-3/</guid>
@@ -79,12 +133,6 @@
             <link>https://bewelge.github.io/CSS-Button-Particles/</link>
             <guid>https://bewelge.github.io/CSS-Button-Particles/</guid>
             <pubDate>Thu, 27 May 2021 20:33:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Demystifying Iterables by implementing a python like range function]]></title>
-            <link>https://viveknayyar.medium.com/demystifying-iterables-by-implementing-a-python-like-range-function-7f00c0ebff44</link>
-            <guid>https://viveknayyar.medium.com/demystifying-iterables-by-implementing-a-python-like-range-function-7f00c0ebff44</guid>
-            <pubDate>Thu, 27 May 2021 13:40:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Are you a professional developer?]]></title>
@@ -115,48 +163,6 @@
             <link>https://www.jsdocs.io/</link>
             <guid>https://www.jsdocs.io/</guid>
             <pubDate>Wed, 26 May 2021 16:14:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Clarity on Flow’s Direction and Open Source Engagement]]></title>
-            <link>https://medium.com/flow-type/clarity-on-flows-direction-and-open-source-engagement-e721a4eb4d8b</link>
-            <guid>https://medium.com/flow-type/clarity-on-flows-direction-and-open-source-engagement-e721a4eb4d8b</guid>
-            <pubDate>Wed, 26 May 2021 14:51:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Guide to build a Meme exit intent modal]]></title>
-            <link>https://peterlunch.com/javascript-exit-intent-modal/?utm_source=reddit-javascript&amp;utm_medium=emb-link&amp;utm_campaign=exit-intent-modal</link>
-            <guid>https://peterlunch.com/javascript-exit-intent-modal/?utm_source=reddit-javascript&amp;utm_medium=emb-link&amp;utm_campaign=exit-intent-modal</guid>
-            <pubDate>Wed, 26 May 2021 10:41:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hate Cookies? Introducing Aurora, 100% Cookie-Free Javascript Open Website Analytics.]]></title>
-            <link>https://useaurora.app/</link>
-            <guid>https://useaurora.app/</guid>
-            <pubDate>Tue, 25 May 2021 20:50:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I made a JWT-Library for Cloudflare Workers with ZERO dependencies]]></title>
-            <link>https://github.com/tsndr/cloudflare-worker-jwt</link>
-            <guid>https://github.com/tsndr/cloudflare-worker-jwt</guid>
-            <pubDate>Wed, 26 May 2021 11:41:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jest 27: New Defaults for Jest, 2021 edition]]></title>
-            <link>https://jestjs.io/blog/2021/05/25/jest-27</link>
-            <guid>https://jestjs.io/blog/2021/05/25/jest-27</guid>
-            <pubDate>Tue, 25 May 2021 14:27:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CodeLockr: a website built for developers to keep all the stuff they need while coding in one place, like code snippets, and much more.]]></title>
-            <link>https://www.codelockr.com/</link>
-            <guid>https://www.codelockr.com/</guid>
-            <pubDate>Tue, 25 May 2021 17:33:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Neutralinojs v2.0.0 released]]></title>
-            <link>https://github.com/neutralinojs/neutralinojs/releases/tag/v2.0.0</link>
-            <guid>https://github.com/neutralinojs/neutralinojs/releases/tag/v2.0.0</guid>
-            <pubDate>Wed, 26 May 2021 06:38:11 GMT</pubDate>
         </item>
     </channel>
 </rss>

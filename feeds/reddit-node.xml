@@ -4,21 +4,21 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Fri, 28 May 2021 08:29:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 May 2021 08:45:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Writing custom REPLs in Node.js]]></title>
-            <link>https://nathan.vegas/blog/post/1/</link>
-            <guid>https://nathan.vegas/blog/post/1/</guid>
-            <pubDate>Fri, 28 May 2021 01:45:23 GMT</pubDate>
+            <title><![CDATA[Trying to install CFGtool from github]]></title>
+            <link>https://github.com/fergarrui/ethereum-graph-debugger/tree/v3.6.0</link>
+            <guid>https://github.com/fergarrui/ethereum-graph-debugger/tree/v3.6.0</guid>
+            <pubDate>Sat, 29 May 2021 04:42:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NodeJS API region failover example with Route 53 + ALB. Provisioned with Terraform.]]></title>
-            <link>https://github.com/brodeynewman/terraform-route53-failover</link>
-            <guid>https://github.com/brodeynewman/terraform-route53-failover</guid>
-            <pubDate>Thu, 27 May 2021 19:42:01 GMT</pubDate>
+            <title><![CDATA[Question: How to get type checking working when creating a new document from a mongoose schema [Typescript + MongoDB + Mongoose]]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Fri, 28 May 2021 18:50:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[XTZ.js - Lightweight TimeZone Translation using native Intl in ~100 LoC + works in Browsers too.]]></title>
@@ -27,10 +27,46 @@
             <pubDate>Fri, 28 May 2021 06:37:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Javascript News 4th Week(May) – Doom Captcha - a fun way to enter captcha, Run Node.js natively in your browser, Coinbase’s successful transition to React Native - The ArrowFn]]></title>
-            <link>https://thearrowfn.com/javascript-news-4th-weekmay-doom-captcha-a-fun-way-to-enter-captcha/</link>
-            <guid>https://thearrowfn.com/javascript-news-4th-weekmay-doom-captcha-a-fun-way-to-enter-captcha/</guid>
-            <pubDate>Fri, 28 May 2021 05:01:46 GMT</pubDate>
+            <title><![CDATA[Writing custom REPLs in Node.js]]></title>
+            <link>https://nathan.vegas/blog/post/1/</link>
+            <guid>https://nathan.vegas/blog/post/1/</guid>
+            <pubDate>Fri, 28 May 2021 01:45:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Nice Tool to Run Discord Bots, Check it Out]]></title>
+            <link>https://fusebot.io/</link>
+            <guid>https://fusebot.io/</guid>
+            <pubDate>Fri, 28 May 2021 18:30:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Send a File With Axios in Node.js]]></title>
+            <link>https://maximorlov.com/send-a-file-with-axios-in-nodejs/</link>
+            <guid>https://maximorlov.com/send-a-file-with-axios-in-nodejs/</guid>
+            <pubDate>Fri, 28 May 2021 21:50:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NodeJS API region failover example with Route 53 + ALB. Provisioned with Terraform.]]></title>
+            <link>https://github.com/brodeynewman/terraform-route53-failover</link>
+            <guid>https://github.com/brodeynewman/terraform-route53-failover</guid>
+            <pubDate>Thu, 27 May 2021 19:42:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[TASK] Need help with Socket.IO and building a customer support feature]]></title>
+            <link>https://socket.io/</link>
+            <guid>https://socket.io/</guid>
+            <pubDate>Fri, 28 May 2021 17:23:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Node 16 is released with updated platform support and much more!]]></title>
+            <link>https://www.geekstrick.com/news/node-16-is-released-with-updated-platform-support-and-much-more/</link>
+            <guid>https://www.geekstrick.com/news/node-16-is-released-with-updated-platform-support-and-much-more/</guid>
+            <pubDate>Fri, 28 May 2021 09:58:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MongoDB Mongoose not saving all parameters]]></title>
+            <link>https://page.save/</link>
+            <guid>https://page.save/</guid>
+            <pubDate>Fri, 28 May 2021 09:23:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Quick middleware fix to support iPhone photos in Node.js apps that only support JPEG]]></title>
@@ -39,58 +75,16 @@
             <pubDate>Thu, 27 May 2021 16:01:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Javascript News 4th Week(May) – Doom Captcha - a fun way to enter captcha, Run Node.js natively in your browser, Coinbase’s successful transition to React Native - The ArrowFn]]></title>
+            <link>https://thearrowfn.com/javascript-news-4th-weekmay-doom-captcha-a-fun-way-to-enter-captcha/</link>
+            <guid>https://thearrowfn.com/javascript-news-4th-weekmay-doom-captcha-a-fun-way-to-enter-captcha/</guid>
+            <pubDate>Fri, 28 May 2021 05:01:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bootstrap a Node.js Rest API with Ts.ED and Prisma 2]]></title>
             <link>https://romainlenzotti.medium.com/bootstrap-a-node-js-rest-api-with-ts-ed-and-prisma-2-be29fabc1c13?source=friends_link&amp;sk=857b79ae729dac9648c86b25d2b2986d</link>
             <guid>https://romainlenzotti.medium.com/bootstrap-a-node-js-rest-api-with-ts-ed-and-prisma-2-be29fabc1c13?source=friends_link&amp;sk=857b79ae729dac9648c86b25d2b2986d</guid>
             <pubDate>Thu, 27 May 2021 20:53:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is there something like this NPM package for ES Modules?]]></title>
-            <link>https://www.npmjs.com/package/require-directory</link>
-            <guid>https://www.npmjs.com/package/require-directory</guid>
-            <pubDate>Thu, 27 May 2021 18:50:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Main.js file empty when hosted?]]></title>
-            <link>https://www.rapidtech1898.com/serverLevermann</link>
-            <guid>https://www.rapidtech1898.com/serverLevermann</guid>
-            <pubDate>Thu, 27 May 2021 18:10:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Senior Node.js/GraphQL/PostgreSQL engineer role at Contra (video)]]></title>
-            <link>https://twitter.com/kuizinas/status/1398027076570161159</link>
-            <guid>https://twitter.com/kuizinas/status/1398027076570161159</guid>
-            <pubDate>Thu, 27 May 2021 21:31:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Track Job Applications With Notion API, Node.js and FastifyJS]]></title>
-            <link>https://catalins.tech/track-job-applications-with-notion-api-nodejs-and-fastifyjs</link>
-            <guid>https://catalins.tech/track-job-applications-with-notion-api-nodejs-and-fastifyjs</guid>
-            <pubDate>Thu, 27 May 2021 07:21:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[As of today, express@latest has not received an update in two years]]></title>
-            <link>https://expressjs.com/</link>
-            <guid>https://expressjs.com/</guid>
-            <pubDate>Wed, 26 May 2021 02:07:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kaviar Web Framework is slowly maturing...]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Thu, 27 May 2021 08:53:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why adonis.js not getting too much attention?]]></title>
-            <link>https://adonisjs.com/</link>
-            <guid>https://adonisjs.com/</guid>
-            <pubDate>Wed, 26 May 2021 18:50:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Koa/Express Class Decorators]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Thu, 27 May 2021 01:46:31 GMT</pubDate>
         </item>
     </channel>
 </rss>

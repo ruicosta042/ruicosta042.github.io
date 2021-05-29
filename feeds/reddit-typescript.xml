@@ -4,10 +4,28 @@
         <title>TypeScript</title>
         <link>https://www.reddit.com/r/typescript</link>
         <description>TypeScript is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.</description>
-        <lastBuildDate>Fri, 28 May 2021 08:29:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 May 2021 08:45:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Type '"fill"' is not assignable to type '"fixed" | "intrinsic" | "responsive" | undefined'.ts(2322)]]></title>
+            <link>https://nextjs.org/docs/api-reference/next/image</link>
+            <guid>https://nextjs.org/docs/api-reference/next/image</guid>
+            <pubDate>Sat, 29 May 2021 07:09:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Question: How to get type checking working when creating a new document from a mongoose schema [Typescript + MongoDB + Mongoose]]]></title>
+            <link>https://github.com/SSamps/template-backend-node-express-typescript/blob/troubleshooting/newSchemaTypeCheck/src/models/Trouble.ts</link>
+            <guid>https://github.com/SSamps/template-backend-node-express-typescript/blob/troubleshooting/newSchemaTypeCheck/src/models/Trouble.ts</guid>
+            <pubDate>Fri, 28 May 2021 18:50:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I've created my first ts react component library]]></title>
+            <link>https://github.com/WojciechSala/react-leaf-polls</link>
+            <guid>https://github.com/WojciechSala/react-leaf-polls</guid>
+            <pubDate>Fri, 28 May 2021 15:32:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Announcing TypeScript 4.3]]></title>
             <link>https://devblogs.microsoft.com/typescript/announcing-typescript-4-3/</link>
@@ -27,16 +45,16 @@
             <pubDate>Wed, 26 May 2021 12:09:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Decltype for typescript]]></title>
-            <link>https://www.npmjs.com/@hipreme_entertainment/decltype-loader</link>
-            <guid>https://www.npmjs.com/@hipreme_entertainment/decltype-loader</guid>
-            <pubDate>Thu, 27 May 2021 00:17:06 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A little library I made: React Service Locator. I managed to replace Redux and Context API for several use-cases in a couple of projects with it. Hope someone finds it useful.]]></title>
             <link>https://github.com/rhyek/react-service-locator</link>
             <guid>https://github.com/rhyek/react-service-locator</guid>
             <pubDate>Wed, 26 May 2021 19:24:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Decltype for typescript]]></title>
+            <link>https://www.npmjs.com/@hipreme_entertainment/decltype-loader</link>
+            <guid>https://www.npmjs.com/@hipreme_entertainment/decltype-loader</guid>
+            <pubDate>Thu, 27 May 2021 00:17:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Convert NextAuth.js TypeScript syntax to JavaScript?]]></title>
@@ -49,12 +67,6 @@
             <link>https://www.typescriptlang.org/docs/handbook/2/generics.html#using-type-parameters-in-generic-constraints</link>
             <guid>https://www.typescriptlang.org/docs/handbook/2/generics.html#using-type-parameters-in-generic-constraints</guid>
             <pubDate>Wed, 26 May 2021 17:04:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Bad Reasons People Avoid TypeScript — and the Better Reasons Why They Shouldn’t]]></title>
-            <link>https://medium.com/@billwohlers/the-bad-reasons-people-avoid-typescript-and-the-better-reasons-why-they-shouldnt-86f8d98534de</link>
-            <guid>https://medium.com/@billwohlers/the-bad-reasons-people-avoid-typescript-and-the-better-reasons-why-they-shouldnt-86f8d98534de</guid>
-            <pubDate>Tue, 25 May 2021 00:29:36 GMT</pubDate>
         </item>
     </channel>
 </rss>

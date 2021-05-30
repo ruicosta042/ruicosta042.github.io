@@ -4,7 +4,7 @@
         <title>𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝</title>
         <link>https://www.reddit.com/r/javascript</link>
         <description>All about the 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 programming language!</description>
-        <lastBuildDate>Sat, 29 May 2021 08:45:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 May 2021 08:30:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,16 +15,58 @@
             <pubDate>Mon, 24 May 2021 09:03:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[I created a script to transition to and from a height/width of auto]]></title>
+            <link>https://github.com/alexspirgel/transition-auto</link>
+            <guid>https://github.com/alexspirgel/transition-auto</guid>
+            <pubDate>Sun, 30 May 2021 01:24:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TiddlyWiki, a non-linear personal web notebook that anyone can use and keep forever, independently of any corporation.]]></title>
+            <link>https://github.com/Jermolene/TiddlyWiki5</link>
+            <guid>https://github.com/Jermolene/TiddlyWiki5</guid>
+            <pubDate>Sat, 29 May 2021 18:24:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I made a useless language that compiles to Javascript. Try it out!]]></title>
+            <link>https://tube-lang.netlify.app/</link>
+            <guid>https://tube-lang.netlify.app/</guid>
+            <pubDate>Sat, 29 May 2021 11:46:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I made an app for Web Developers using JavaScript!]]></title>
+            <link>https://virejdasani.github.io/Responsivize/</link>
+            <guid>https://virejdasani.github.io/Responsivize/</guid>
+            <pubDate>Sat, 29 May 2021 10:48:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rocket Booster - I made a serverless reverse proxy and speed booster for websites and APIs]]></title>
+            <link>https://github.com/rocket-booster/rocket-booster</link>
+            <guid>https://github.com/rocket-booster/rocket-booster</guid>
+            <pubDate>Sat, 29 May 2021 13:03:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[a package for writing scripts in JavaScript instead of Bash]]></title>
+            <link>https://github.com/google/zx/#</link>
+            <guid>https://github.com/google/zx/#</guid>
+            <pubDate>Sun, 30 May 2021 08:29:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A Codemod to migrate from Moment to day.js]]></title>
             <link>https://github.com/rajasegar/moment-dayjs-codemod</link>
             <guid>https://github.com/rajasegar/moment-dayjs-codemod</guid>
             <pubDate>Sat, 29 May 2021 02:51:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[State Management: How to tell a bad boolean from a good boolean]]></title>
-            <link>https://dev.to/mpocock1/state-management-how-to-tell-a-bad-boolean-from-a-good-boolean-260n</link>
-            <guid>https://dev.to/mpocock1/state-management-how-to-tell-a-bad-boolean-from-a-good-boolean-260n</guid>
-            <pubDate>Fri, 28 May 2021 07:45:38 GMT</pubDate>
+            <title><![CDATA[feedback-component: a native web component for collecting quick, binary user feedback]]></title>
+            <link>https://github.com/RamseyInHouse/feedback-component</link>
+            <guid>https://github.com/RamseyInHouse/feedback-component</guid>
+            <pubDate>Sat, 29 May 2021 20:27:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spinning service containers in GitHub action workflow]]></title>
+            <link>https://dev.to/rizkyrajitha/spinning-service-containers-in-github-action-workflow-56g0</link>
+            <guid>https://dev.to/rizkyrajitha/spinning-service-containers-in-github-action-workflow-56g0</guid>
+            <pubDate>Sat, 29 May 2021 17:16:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to build a piano with JavaScript]]></title>
@@ -33,10 +75,16 @@
             <pubDate>Sat, 29 May 2021 06:33:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why should you learn JavaScript in 2021 ?]]></title>
-            <link>https://shivamv.hashnode.dev/why-should-you-learn-javascript-in-2021</link>
-            <guid>https://shivamv.hashnode.dev/why-should-you-learn-javascript-in-2021</guid>
-            <pubDate>Sat, 29 May 2021 08:40:28 GMT</pubDate>
+            <title><![CDATA[State Management: How to tell a bad boolean from a good boolean]]></title>
+            <link>https://dev.to/mpocock1/state-management-how-to-tell-a-bad-boolean-from-a-good-boolean-260n</link>
+            <guid>https://dev.to/mpocock1/state-management-how-to-tell-a-bad-boolean-from-a-good-boolean-260n</guid>
+            <pubDate>Fri, 28 May 2021 07:45:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why React is not Functional]]></title>
+            <link>https://mckoder.medium.com/why-react-is-not-functional-b1ed12a41323</link>
+            <guid>https://mckoder.medium.com/why-react-is-not-functional-b1ed12a41323</guid>
+            <pubDate>Sat, 29 May 2021 19:11:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Youtube videos uploader package without daily upload limits]]></title>
@@ -45,10 +93,10 @@
             <pubDate>Sat, 29 May 2021 00:12:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Crypto Currency Exchange Rates API - Free, No Rate Limits, Updated Daily]]></title>
-            <link>https://github.com/fawazahmed0/currency-api</link>
-            <guid>https://github.com/fawazahmed0/currency-api</guid>
-            <pubDate>Sat, 29 May 2021 06:20:40 GMT</pubDate>
+            <title><![CDATA[pattern-grab.js - Regular Expression Data Grabber]]></title>
+            <link>https://github.com/hmmhmmhm/pattern-grab/blob/main/README.md</link>
+            <guid>https://github.com/hmmhmmhm/pattern-grab/blob/main/README.md</guid>
+            <pubDate>Fri, 28 May 2021 20:58:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Making art from science using AI in TensorFlow.js]]></title>
@@ -57,10 +105,10 @@
             <pubDate>Fri, 28 May 2021 23:33:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[pattern-grab.js - Regular Expression Data Grabber]]></title>
-            <link>https://github.com/hmmhmmhm/pattern-grab/blob/main/README.md</link>
-            <guid>https://github.com/hmmhmmhm/pattern-grab/blob/main/README.md</guid>
-            <pubDate>Fri, 28 May 2021 20:58:46 GMT</pubDate>
+            <title><![CDATA[Crypto Currency Exchange Rates API - Free, No Rate Limits, Updated Daily]]></title>
+            <link>https://github.com/fawazahmed0/currency-api</link>
+            <guid>https://github.com/fawazahmed0/currency-api</guid>
+            <pubDate>Sat, 29 May 2021 06:20:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sparkplug — A non-optimizing JavaScript compiler]]></title>
@@ -115,54 +163,6 @@
             <link>https://table.listws.com/</link>
             <guid>https://table.listws.com/</guid>
             <pubDate>Thu, 27 May 2021 22:55:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Demystifying Iterables by implementing a python like range function]]></title>
-            <link>https://viveknayyar.medium.com/demystifying-iterables-by-implementing-a-python-like-range-function-7f00c0ebff44</link>
-            <guid>https://viveknayyar.medium.com/demystifying-iterables-by-implementing-a-python-like-range-function-7f00c0ebff44</guid>
-            <pubDate>Thu, 27 May 2021 13:40:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Announcing TypeScript 4.3]]></title>
-            <link>https://devblogs.microsoft.com/typescript/announcing-typescript-4-3/</link>
-            <guid>https://devblogs.microsoft.com/typescript/announcing-typescript-4-3/</guid>
-            <pubDate>Wed, 26 May 2021 17:38:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I made a little webapp to automatically create CSS particle effects for buttons]]></title>
-            <link>https://bewelge.github.io/CSS-Button-Particles/</link>
-            <guid>https://bewelge.github.io/CSS-Button-Particles/</guid>
-            <pubDate>Thu, 27 May 2021 20:33:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Are you a professional developer?]]></title>
-            <link>https://dev.to/guivern/are-you-a-professional-developer-319h</link>
-            <guid>https://dev.to/guivern/are-you-a-professional-developer-319h</guid>
-            <pubDate>Thu, 27 May 2021 22:19:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Re:factor - a FREE software development conference for charity]]></title>
-            <link>https://www.re-factor.be/</link>
-            <guid>https://www.re-factor.be/</guid>
-            <pubDate>Wed, 26 May 2021 15:21:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Updates from latest (83rd) meeting of TC39]]></title>
-            <link>https://dev.to/hemanth/updates-from-83rd-meeting-of-tc39-1d67</link>
-            <guid>https://dev.to/hemanth/updates-from-83rd-meeting-of-tc39-1d67</guid>
-            <pubDate>Wed, 26 May 2021 22:51:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A little library I made: React Service Locator. I managed to replace Redux and Context API for several use-cases in a couple of projects with it. Hope someone finds it useful.]]></title>
-            <link>https://github.com/rhyek/react-service-locator</link>
-            <guid>https://github.com/rhyek/react-service-locator</guid>
-            <pubDate>Wed, 26 May 2021 19:25:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I made a website that documents TypeScript packages]]></title>
-            <link>https://www.jsdocs.io/</link>
-            <guid>https://www.jsdocs.io/</guid>
-            <pubDate>Wed, 26 May 2021 16:14:38 GMT</pubDate>
         </item>
     </channel>
 </rss>

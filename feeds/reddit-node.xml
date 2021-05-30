@@ -4,10 +4,34 @@
         <title>node.js</title>
         <link>https://www.reddit.com/r/node</link>
         <description>null</description>
-        <lastBuildDate>Sat, 29 May 2021 08:45:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 May 2021 08:30:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Node 16 is so damn fast! I didn't expect this]]></title>
+            <link>https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html</link>
+            <guid>https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html</guid>
+            <pubDate>Sat, 29 May 2021 10:16:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Peer-code-review wanted => Generator script]]></title>
+            <link>https://www.npmjs.com/package/@gbrachetta/frames</link>
+            <guid>https://www.npmjs.com/package/@gbrachetta/frames</guid>
+            <pubDate>Sat, 29 May 2021 11:32:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I made a package that turns Redis Streams in Kafka (almost)! Feedback welcome!]]></title>
+            <link>https://www.npmjs.com/package/node-redis-streams</link>
+            <guid>https://www.npmjs.com/package/node-redis-streams</guid>
+            <pubDate>Sat, 29 May 2021 11:29:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Question [Typescript / Mongoose]: What type should Mongoose objectIds be throughout my code?]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Sat, 29 May 2021 17:23:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trying to install CFGtool from github]]></title>
             <link>https://github.com/fergarrui/ethereum-graph-debugger/tree/v3.6.0</link>
@@ -15,10 +39,10 @@
             <pubDate>Sat, 29 May 2021 04:42:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Question: How to get type checking working when creating a new document from a mongoose schema [Typescript + MongoDB + Mongoose]]]></title>
-            <link>https://foo.com/</link>
-            <guid>https://foo.com/</guid>
-            <pubDate>Fri, 28 May 2021 18:50:40 GMT</pubDate>
+            <title><![CDATA[A Nice Tool to Run Discord Bots, Check it Out]]></title>
+            <link>https://fusebot.io/</link>
+            <guid>https://fusebot.io/</guid>
+            <pubDate>Fri, 28 May 2021 18:30:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[XTZ.js - Lightweight TimeZone Translation using native Intl in ~100 LoC + works in Browsers too.]]></title>
@@ -33,58 +57,16 @@
             <pubDate>Fri, 28 May 2021 01:45:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Nice Tool to Run Discord Bots, Check it Out]]></title>
-            <link>https://fusebot.io/</link>
-            <guid>https://fusebot.io/</guid>
-            <pubDate>Fri, 28 May 2021 18:30:03 GMT</pubDate>
+            <title><![CDATA[Question: How to get type checking working when creating a new document from a mongoose schema [Typescript + MongoDB + Mongoose]]]></title>
+            <link>https://foo.com/</link>
+            <guid>https://foo.com/</guid>
+            <pubDate>Fri, 28 May 2021 18:50:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Send a File With Axios in Node.js]]></title>
             <link>https://maximorlov.com/send-a-file-with-axios-in-nodejs/</link>
             <guid>https://maximorlov.com/send-a-file-with-axios-in-nodejs/</guid>
             <pubDate>Fri, 28 May 2021 21:50:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NodeJS API region failover example with Route 53 + ALB. Provisioned with Terraform.]]></title>
-            <link>https://github.com/brodeynewman/terraform-route53-failover</link>
-            <guid>https://github.com/brodeynewman/terraform-route53-failover</guid>
-            <pubDate>Thu, 27 May 2021 19:42:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[TASK] Need help with Socket.IO and building a customer support feature]]></title>
-            <link>https://socket.io/</link>
-            <guid>https://socket.io/</guid>
-            <pubDate>Fri, 28 May 2021 17:23:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Node 16 is released with updated platform support and much more!]]></title>
-            <link>https://www.geekstrick.com/news/node-16-is-released-with-updated-platform-support-and-much-more/</link>
-            <guid>https://www.geekstrick.com/news/node-16-is-released-with-updated-platform-support-and-much-more/</guid>
-            <pubDate>Fri, 28 May 2021 09:58:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MongoDB Mongoose not saving all parameters]]></title>
-            <link>https://page.save/</link>
-            <guid>https://page.save/</guid>
-            <pubDate>Fri, 28 May 2021 09:23:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Quick middleware fix to support iPhone photos in Node.js apps that only support JPEG]]></title>
-            <link>https://www.npmjs.com/package/heic-to-jpeg-middleware</link>
-            <guid>https://www.npmjs.com/package/heic-to-jpeg-middleware</guid>
-            <pubDate>Thu, 27 May 2021 16:01:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Javascript News 4th Week(May) – Doom Captcha - a fun way to enter captcha, Run Node.js natively in your browser, Coinbase’s successful transition to React Native - The ArrowFn]]></title>
-            <link>https://thearrowfn.com/javascript-news-4th-weekmay-doom-captcha-a-fun-way-to-enter-captcha/</link>
-            <guid>https://thearrowfn.com/javascript-news-4th-weekmay-doom-captcha-a-fun-way-to-enter-captcha/</guid>
-            <pubDate>Fri, 28 May 2021 05:01:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bootstrap a Node.js Rest API with Ts.ED and Prisma 2]]></title>
-            <link>https://romainlenzotti.medium.com/bootstrap-a-node-js-rest-api-with-ts-ed-and-prisma-2-be29fabc1c13?source=friends_link&amp;sk=857b79ae729dac9648c86b25d2b2986d</link>
-            <guid>https://romainlenzotti.medium.com/bootstrap-a-node-js-rest-api-with-ts-ed-and-prisma-2-be29fabc1c13?source=friends_link&amp;sk=857b79ae729dac9648c86b25d2b2986d</guid>
-            <pubDate>Thu, 27 May 2021 20:53:39 GMT</pubDate>
         </item>
     </channel>
 </rss>

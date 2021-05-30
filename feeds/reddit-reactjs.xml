@@ -4,7 +4,7 @@
         <title>/r/ReactJS - The Front Page of React</title>
         <link>https://www.reddit.com/r/reactjs</link>
         <description>A community for learning and developing web applications using React by Facebook.</description>
-        <lastBuildDate>Sat, 29 May 2021 08:45:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 May 2021 08:30:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -15,58 +15,64 @@
             <pubDate>Sat, 01 May 2021 18:04:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[126 Tailwind CSS blocks added to Wicked Blocks, always free.]]></title>
+            <link>http://wickedblocks.dev/</link>
+            <guid>http://wickedblocks.dev/</guid>
+            <pubDate>Sun, 30 May 2021 07:13:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I'm building a SaaS product in public and blogging my process - check it out if you're interested, especially oriented toward frontend developers getting started with backend development! (Next.js, PostgreSQL, Prisma)]]></title>
+            <link>https://dev.to/ajones_codes/saas-project-setup-database-creation-update-2-3cej</link>
+            <guid>https://dev.to/ajones_codes/saas-project-setup-database-creation-update-2-3cej</guid>
+            <pubDate>Sat, 29 May 2021 20:16:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A medium like editor, real time collab & mobile ready.]]></title>
+            <link>https://github.com/michelson/dante</link>
+            <guid>https://github.com/michelson/dante</guid>
+            <pubDate>Sun, 30 May 2021 01:20:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting Started with React Hooks]]></title>
+            <link>https://piyushsinha.tech/getting-started-with-react-hooks</link>
+            <guid>https://piyushsinha.tech/getting-started-with-react-hooks</guid>
+            <pubDate>Sun, 30 May 2021 01:42:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BookOcean | Book Browser of libgen with over 4.6m+ free books [unofficial libgen browser]]]></title>
+            <link>https://play.google.com/store/apps/details?id=com.bookocean</link>
+            <guid>https://play.google.com/store/apps/details?id=com.bookocean</guid>
+            <pubDate>Sat, 29 May 2021 18:36:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React-useRef, What-Why-How?]]></title>
+            <link>https://muratguney.medium.com/react-useref-what-why-how-f8268ef6a219</link>
+            <guid>https://muratguney.medium.com/react-useref-what-why-how-f8268ef6a219</guid>
+            <pubDate>Sat, 29 May 2021 17:16:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Next.js SSR Caching using custom server]]></title>
+            <link>https://nextjs.org/docs/advanced-features/custom-server</link>
+            <guid>https://nextjs.org/docs/advanced-features/custom-server</guid>
+            <pubDate>Sat, 29 May 2021 17:17:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React router not re-rendering component when Query string in URL changes, by pressing the Browser back button]]></title>
+            <link>https://github.com/supasate/connected-react-router/issues/168#issuecomment-439720683</link>
+            <guid>https://github.com/supasate/connected-react-router/issues/168#issuecomment-439720683</guid>
+            <pubDate>Sat, 29 May 2021 17:04:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Install React in Laravel 8]]></title>
+            <link>https://techvblogs.com/blog/how-to-install-react-in-laravel-8?utm_source=reddit&amp;utm_medium=post&amp;utm_campaign=reactjs</link>
+            <guid>https://techvblogs.com/blog/how-to-install-react-in-laravel-8?utm_source=reddit&amp;utm_medium=post&amp;utm_campaign=reactjs</guid>
+            <pubDate>Sat, 29 May 2021 20:28:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Here's what every React Developer needs to know about TypeScript - Part 1]]></title>
             <link>https://blog.dastasoft.com/posts/heres-what-every-react-developer-needs-to-know-about-typescript</link>
             <guid>https://blog.dastasoft.com/posts/heres-what-every-react-developer-needs-to-know-about-typescript</guid>
             <pubDate>Fri, 28 May 2021 16:43:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Try play.js on the iPad! A game changer if you like to develop on the go.]]></title>
-            <link>https://codesandbox.io/post/codesandbox-acquires-playjs</link>
-            <guid>https://codesandbox.io/post/codesandbox-acquires-playjs</guid>
-            <pubDate>Fri, 28 May 2021 19:55:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why should you learn JavaScript in 2021 ?]]></title>
-            <link>https://shivamv.hashnode.dev/why-should-you-learn-javascript-in-2021</link>
-            <guid>https://shivamv.hashnode.dev/why-should-you-learn-javascript-in-2021</guid>
-            <pubDate>Sat, 29 May 2021 08:41:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meta tags for dynamic content]]></title>
-            <link>https://prerender.io/</link>
-            <guid>https://prerender.io/</guid>
-            <pubDate>Sat, 29 May 2021 08:10:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Help: React Hook Form Controller API vote (Twitter)]]></title>
-            <link>https://twitter.com/HookForm/status/1266240189195669505</link>
-            <guid>https://twitter.com/HookForm/status/1266240189195669505</guid>
-            <pubDate>Sat, 29 May 2021 07:43:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React-Testing-Library, testing CSS effects in a component]]></title>
-            <link>https://codesandbox.io/s/cocky-dawn-cdqi4?file=/src/App.js</link>
-            <guid>https://codesandbox.io/s/cocky-dawn-cdqi4?file=/src/App.js</guid>
-            <pubDate>Fri, 28 May 2021 17:07:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to convert pdf, docx,docx files to html5 and render them on the client]]></title>
-            <link>https://scridb.com/</link>
-            <guid>https://scridb.com/</guid>
-            <pubDate>Fri, 28 May 2021 12:09:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tried To Create Distraction Free Youtube Learning React Project.]]></title>
-            <link>https://yt-player-awesome.netlify.app/</link>
-            <guid>https://yt-player-awesome.netlify.app/</guid>
-            <pubDate>Fri, 28 May 2021 18:47:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Don't overabstract your components"]]></title>
-            <link>https://kirjai.com/component-abstraction/</link>
-            <guid>https://kirjai.com/component-abstraction/</guid>
-            <pubDate>Thu, 27 May 2021 21:01:13 GMT</pubDate>
         </item>
     </channel>
 </rss>

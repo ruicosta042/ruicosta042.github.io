@@ -4,6 +4,7 @@
 
 | Author             | Title                                                                        | Date       |
 | ------------------ | ---------------------------------------------------------------------------- | ---------- |
+| Liu Cixin          | The Three-Body Problem                                                       | 2021-05-16 |
 | Ted Chiang         | Stories of Your Life and Other Stories                                       | 2021-04-25 |
 | Iain M. Banks      | The State of the Art                                                         | 2021-02-12 |
 | Andrew Marr        | A History of Modern Britain                                                  | 2020-07-19 |
@@ -44,6 +45,7 @@
 | David Quammen        | Spillover: Animal Infections and the Next Human Pandemic                                     |
 | David Spiegelhalter  | The Art of Statistics: Learning from Data                                                    |
 | Kit Yates            | The Maths of Life and Death                                                                  |
+| Jordan Ellenberg     | How Not to Be Wrong: The Hidden Maths of Everyday Life                                       |
 | Mark Miodownik       | Stuff Matters: The Strange Stories of the Marvellous Materials that Shape Our Man-made World |
 | Matthew Walker       | Why We Sleep: The New Science of Sleep and Dreams                                            |
 | Melanie Mitchell     | Artificial Intelligence : A Guide for Thinking Humans                                        |
@@ -53,18 +55,20 @@
 
 **Non fiction**
 
-|                 |                                                                                     |
-| --------------- | ----------------------------------------------------------------------------------- |
-| Ha-Joon Chang   | Economics: The User's Guide                                                         |
-| James C. Scott  | Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed |
-| Jared Diamond   | Guns, Germs and Steel                                                               |
-| Kassia St Clair | The Secret Lives of Colour                                                          |
-| Kory Stamper    | Word by Word: The Secret Life of Dictionaries                                       |
-| Michael Pollan  | The Omnivore's Dilemma: The Search for a Perfect Meal in a Fast-Food World          |
-| Phil Thornton   | The Great Economists: Ten Economists whose thinking changed the way we live         |
-| Shoshana Zuboff | The Age of Surveillance Capitalism                                                  |
-| Simon Singh     | The Code Book: The Secret History of Codes and Code-Breaking                        |
-| Susan Cain      | Quiet: The Power of Introverts in a World That Can't Stop Talking                   |
+|                      |                                                                                     |
+| -------------------- | ----------------------------------------------------------------------------------- |
+| David Foster Wallace | A Supposedly Fun Thing I'll Never Do Again                                          |
+| Ha-Joon Chang        | Economics: The User's Guide                                                         |
+| James C. Scott       | Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed |
+| Jared Diamond        | Guns, Germs and Steel                                                               |
+| Joshua Foer          | Moonwalking with Einstein: The Art and Science of Remembering Everything            |
+| Kassia St Clair      | The Secret Lives of Colour                                                          |
+| Kory Stamper         | Word by Word: The Secret Life of Dictionaries                                       |
+| Michael Pollan       | The Omnivore's Dilemma: The Search for a Perfect Meal in a Fast-Food World          |
+| Phil Thornton        | The Great Economists: Ten Economists whose thinking changed the way we live         |
+| Shoshana Zuboff      | The Age of Surveillance Capitalism                                                  |
+| Simon Singh          | The Code Book: The Secret History of Codes and Code-Breaking                        |
+| Susan Cain           | Quiet: The Power of Introverts in a World That Can't Stop Talking                   |
 
 **History**
 
@@ -92,7 +96,9 @@
 
 |                 |                                                                                                  |
 | --------------- | ------------------------------------------------------------------------------------------------ |
+| Brad Stone      | The Everything Store: Jeff Bezos and the Age of Amazon                                           |
 | Charles Petzold | Code: The Hidden Language of Computer Hardware and Software                                      |
 | Clive Thompson  | Coders: The Making of a New Tribe and the Remaking of the World                                  |
+| James Gleick    | Information: A History, a Theory, a Flood                                                        |
 | Kevin Kelly     | The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future             |
 | Walter Isaacson | Innovators: How a Group of Inventors, Hackers, Geniuses and Geeks Created the Digital Revolution |

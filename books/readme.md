@@ -4,6 +4,7 @@
 
 | Author             | Title                                                                        | Date       |
 | ------------------ | ---------------------------------------------------------------------------- | ---------- |
+| Arthur C. Clarke   | Rendezvous With Rama                                                         | 2021-05-31 |
 | Liu Cixin          | The Three-Body Problem                                                       | 2021-05-16 |
 | Ted Chiang         | Stories of Your Life and Other Stories                                       | 2021-04-25 |
 | Iain M. Banks      | The State of the Art                                                         | 2021-02-12 |
@@ -19,12 +20,11 @@
 
 ## Ready to read
 
-|                  |                                |                 |
-| ---------------- | ------------------------------ | --------------- |
-| Arthur C. Clarke | Rendezvous With Rama           | Science fiction |
-| Donald A. Norman | The Design of Everyday Things  | Non-fiction     |
-| Hans Rosling     | Factfulness                    | Non-fiction     |
-| Stephen Fry      | Mythos: The Greek Myths Retold | History         |
+|                  |                                |             |
+| ---------------- | ------------------------------ | ----------- |
+| Donald A. Norman | The Design of Everyday Things  | Non-fiction |
+| Hans Rosling     | Factfulness                    | Non-fiction |
+| Stephen Fry      | Mythos: The Greek Myths Retold | History     |
 
 ## Want to read
 

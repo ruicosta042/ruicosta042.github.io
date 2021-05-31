@@ -20,11 +20,12 @@
 
 ## Ready to read
 
-|                  |                                |             |
-| ---------------- | ------------------------------ | ----------- |
-| Donald A. Norman | The Design of Everyday Things  | Non-fiction |
-| Hans Rosling     | Factfulness                    | Non-fiction |
-| Stephen Fry      | Mythos: The Greek Myths Retold | History     |
+|                  |                                |                 |
+| ---------------- | ------------------------------ | --------------- |
+| William Gibson   | Virtual Light                  | Science fiction |
+| Donald A. Norman | The Design of Everyday Things  | Non-fiction     |
+| Hans Rosling     | Factfulness                    | Non-fiction     |
+| Stephen Fry      | Mythos: The Greek Myths Retold | History         |
 
 ## Want to read
 
@@ -61,6 +62,7 @@
 | Ha-Joon Chang        | Economics: The User's Guide                                                         |
 | James C. Scott       | Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed |
 | Jared Diamond        | Guns, Germs and Steel                                                               |
+| Joseph Henrich       | The WEIRDest People in the World                                                    |
 | Joshua Foer          | Moonwalking with Einstein: The Art and Science of Remembering Everything            |
 | Kassia St Clair      | The Secret Lives of Colour                                                          |
 | Kory Stamper         | Word by Word: The Secret Life of Dictionaries                                       |

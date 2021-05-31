@@ -4,7 +4,7 @@
         <title>React Status</title>
         <link>https://react.statuscode.com/</link>
         <description>A weekly roundup of the latest React and React Native links and tutorials.</description>
-        <lastBuildDate>Sun, 30 May 2021 08:30:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 May 2021 08:57:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -46,8 +46,8 @@
         </item>
         <item>
             <title><![CDATA[Creating a Multi-Step Form with React (Simple Version)]]></title>
-            <link>https://m.youtube.com/watch?v=dybbUOmtd0Y&amp;feature=youtu.be</link>
-            <guid>https://m.youtube.com/watch?v=dybbUOmtd0Y&amp;feature=youtu.be</guid>
+            <link>https://www.youtube.com/watch?v=dybbUOmtd0Y&amp;feature=youtu.be</link>
+            <guid>https://www.youtube.com/watch?v=dybbUOmtd0Y&amp;feature=youtu.be</guid>
             <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>

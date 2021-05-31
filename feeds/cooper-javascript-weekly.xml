@@ -4,7 +4,7 @@
         <title>JavaScript Weekly</title>
         <link>https://javascriptweekly.com/</link>
         <description>A newsletter of JavaScript articles, news and cool projects</description>
-        <lastBuildDate>Sat, 29 May 2021 08:45:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 May 2021 08:57:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -28,8 +28,8 @@
         </item>
         <item>
             <title><![CDATA[How To Create Your First Flow in Node-RED]]></title>
-            <link>https://www.youtube.com/watch?v=cVWVr_T7kQ0</link>
-            <guid>https://www.youtube.com/watch?v=cVWVr_T7kQ0</guid>
+            <link>https://m.youtube.com/watch?v=cVWVr_T7kQ0</link>
+            <guid>https://m.youtube.com/watch?v=cVWVr_T7kQ0</guid>
             <pubDate>Fri, 28 May 2021 00:00:00 GMT</pubDate>
         </item>
         <item>

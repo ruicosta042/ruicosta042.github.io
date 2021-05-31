@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>CSS Layout News</title>
+        <link>https://csslayout.news/</link>
+        <description>Weekly CSS layout newsletter and resource site by Rachel Andrew</description>
+        <lastBuildDate>Thu, 27 May 2021 18:01:46 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/ruicosta042/rssconv-action</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[IE11 to be retired]]></title>
+            <link>https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/</link>
+            <guid>https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/</guid>
+            <pubDate>Tue, 25 May 2021 18:46:03 GMT</pubDate>
+            <description><![CDATA[Microsoft have announced the retirement and end of support for IE11 in June 2022, with the Edge "IE mode" to be used to access legacy applications built only for IE. I'm not all that sure that the official end-of-life of a product really makes it go away, but it's another reason not to spend too much of your development time trying to make things look identical in IE11.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[The new responsive]]></title>
+            <link>https://web.dev/new-responsive/</link>
+            <guid>https://web.dev/new-responsive/</guid>
+            <pubDate>Tue, 25 May 2021 18:46:03 GMT</pubDate>
+            <description><![CDATA[An article and video explaining some of the new ways that we can respond to user needs. Responsive design is now not only about screen size.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Should DevTools teach the cascade?]]></title>
+            <link>https://www.stefanjudis.com/blog/should-devtools-teach-the-css-cascade/</link>
+            <guid>https://www.stefanjudis.com/blog/should-devtools-teach-the-css-cascade/</guid>
+            <pubDate>Tue, 25 May 2021 18:46:03 GMT</pubDate>
+            <description><![CDATA[Stefan Judis writes about developer education, and whether DevTools could help to teach how the cascade works.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[fit-content and fit-content()]]></title>
+            <link>https://www.quirksmode.org/blog/archives/2021/04/fitcontent_and.html</link>
+            <guid>https://www.quirksmode.org/blog/archives/2021/04/fitcontent_and.html</guid>
+            <pubDate>Tue, 25 May 2021 18:46:03 GMT</pubDate>
+            <description><![CDATA[Fairly recently I detangled these two over at MDN, as they had become somewhat intertangled in the docs. Here ppk writes about them, and their browser support.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[CSS Layout Guides on MDN]]></title>
+            <link>https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/CSS_Layout</link>
+            <guid>https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/CSS_Layout</guid>
+            <pubDate>Tue, 25 May 2021 18:46:03 GMT</pubDate>
+            <description><![CDATA[I was doing some tidying up of the guides section on MDN, and created a big page listing all of the CSS Layout material on the site. There is quite a lot!]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Can we create a resize hack with container queries?]]></title>
+            <link>https://css-tricks.com/can-we-create-a-resize-hack-with-container-queries/</link>
+            <guid>https://css-tricks.com/can-we-create-a-resize-hack-with-container-queries/</guid>
+            <pubDate>Tue, 25 May 2021 18:46:03 GMT</pubDate>
+            <description><![CDATA[I'm a fan of this sort of article, playing with something and seeing what possibilities there are is a great way to learn.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Just launched: Learn CSS]]></title>
+            <link>https://web.dev/learn/css/</link>
+            <guid>https://web.dev/learn/css/</guid>
+            <pubDate>Wed, 19 May 2021 19:55:00 GMT</pubDate>
+            <description><![CDATA[Over the last few months I've been working (mostly as an editor) on this free course from Google, to help you Learn CSS. The majority of the writing was done by Andy Bell, the series based on the CSS Podcast from Una Kravets and Adam Argyle. Also on the team, and making the whole thing look great, were Rob Dodson, Jiwoong Lee, and Kayce Basques.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Google I/O 2021]]></title>
+            <link>https://events.google.com/io/</link>
+            <guid>https://events.google.com/io/</guid>
+            <pubDate>Wed, 19 May 2021 19:55:00 GMT</pubDate>
+            <description><![CDATA[Google I/O is happening online right now, it's free and there is a bunch of interesting CSS stuff, which you can also catch up on with the recordings.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Support (Not) Unknown | OddBird]]></title>
+            <link>https://www.oddbird.net/2021/05/14/support-unknown/</link>
+            <guid>https://www.oddbird.net/2021/05/14/support-unknown/</guid>
+            <pubDate>Wed, 19 May 2021 19:55:00 GMT</pubDate>
+            <description><![CDATA[This is a really great write-up, and not just in regard to how we can test for container query support using @supports, as it unpacks how feature queries work in a detailed way.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[DevTools for CSS layouts 2021 edition]]></title>
+            <link>https://chenhuijing.com/blog/devtools-for-css-layouts-2021-edition/#%F0%9F%9A%B2</link>
+            <guid>https://chenhuijing.com/blog/devtools-for-css-layouts-2021-edition/#%F0%9F%9A%B2</guid>
+            <pubDate>Wed, 19 May 2021 19:55:00 GMT</pubDate>
+            <description><![CDATA[A good roundup of the current state of DevTools for CSS Layout.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Cumulative Layout Shift: Measure and Avoid Visual Instability | Calibre]]></title>
+            <link>https://calibreapp.com/blog/cumulative-layout-shift?utm_source=Perf.email&amp;utm_campaign=491c48b903-Perf+Email+%2375&amp;utm_medium=email&amp;utm_term=0_7cba5dc7bd-491c48b903-1247067945</link>
+            <guid>https://calibreapp.com/blog/cumulative-layout-shift?utm_source=Perf.email&amp;utm_campaign=491c48b903-Perf+Email+%2375&amp;utm_medium=email&amp;utm_term=0_7cba5dc7bd-491c48b903-1247067945</guid>
+            <pubDate>Wed, 19 May 2021 19:55:00 GMT</pubDate>
+            <description><![CDATA[Learn what Cumulative Layout Shift (CLS) is, and how to prevent it.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[How to set browser flags in Chromium]]></title>
+            <link>https://web.dev/browser-flags/</link>
+            <guid>https://web.dev/browser-flags/</guid>
+            <pubDate>Wed, 19 May 2021 19:55:00 GMT</pubDate>
+            <description><![CDATA[For some of the new APIs we introduce in Chromium, you need to set a browser flag for experimentation. This article explains how to do this in the various Chromium derivatives like Google Chrome, Microsoft Edge, and others.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Modern Blog Layout with CSS Grid]]></title>
+            <link>https://codepen.io/TurkAysenur/full/gOmMgpx</link>
+            <guid>https://codepen.io/TurkAysenur/full/gOmMgpx</guid>
+            <pubDate>Wed, 19 May 2021 19:55:00 GMT</pubDate>
+            <description><![CDATA[Vis the CodePen newsletter is this great layout, I just love the way the header scrolls.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Release Notes - Safari Technology Preview - Safari - Apple Developer]]></title>
+            <link>https://developer.apple.com/safari/technology-preview/release-notes/</link>
+            <guid>https://developer.apple.com/safari/technology-preview/release-notes/</guid>
+            <pubDate>Wed, 12 May 2021 19:52:00 GMT</pubDate>
+            <description><![CDATA[There is a whole heap of fixes and additions in the latest Safari Technology Preview, including a bunch of improvements to the Web Inspector grid tools.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[BlinkOn 14 Schedule]]></title>
+            <link>https://docs.google.com/document/d/e/2PACX-1vQIOS6VheFrmZuo_W5BiHUOe8TNaPzjFw5Ix0qsryg4czDlP97aX00r_gKn66ck8ZZEHCeaUeNW8Ag1/pub</link>
+            <guid>https://docs.google.com/document/d/e/2PACX-1vQIOS6VheFrmZuo_W5BiHUOe8TNaPzjFw5Ix0qsryg4czDlP97aX00r_gKn66ck8ZZEHCeaUeNW8Ag1/pub</guid>
+            <pubDate>Wed, 12 May 2021 19:52:00 GMT</pubDate>
+            <description><![CDATA[BlinkOn is happening at the moment, however is unfortunately in the middle of the night for me. The recordings of presentations will be going up on YouTube however, linked from the schedule.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Live Q&A: Miriam Suzanne - YouTube]]></title>
+            <link>https://www.youtube.com/watch?v=lh1_zKk1qAk</link>
+            <guid>https://www.youtube.com/watch?v=lh1_zKk1qAk</guid>
+            <pubDate>Wed, 12 May 2021 19:52:00 GMT</pubDate>
+            <description><![CDATA[Talk and Q&A with Miriam Suzanne, covering container queries but also other new things coming to CSS. I was excited to hear Regions mentioned in the Q&A, I still hope we'll get that ability one day.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[On Regions: Making Things Better]]></title>
+            <link>https://rachelandrew.co.uk/archives/2020/04/07/making-things-better/</link>
+            <guid>https://rachelandrew.co.uk/archives/2020/04/07/making-things-better/</guid>
+            <pubDate>Wed, 12 May 2021 19:52:00 GMT</pubDate>
+            <description><![CDATA[Given that understanding of Regions has probably half vanished from the collective memory by now, here's my notes from my talk on the subject in 2019.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal | CSS-Tricks]]></title>
+            <link>https://css-tricks.com/variable-aspect-ratio-card-with-conic-gradients-meeting-along-the-diagonal/</link>
+            <guid>https://css-tricks.com/variable-aspect-ratio-card-with-conic-gradients-meeting-along-the-diagonal/</guid>
+            <pubDate>Wed, 12 May 2021 19:52:00 GMT</pubDate>
+            <description><![CDATA[Another excellent article from Ana Tudor, who is just so good at digging into the possibilities of CSS.css-tricks.com]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Is Vendor Prefixing Dead? | CSS-Tricks]]></title>
+            <link>https://css-tricks.com/is-vendor-prefixing-dead/</link>
+            <guid>https://css-tricks.com/is-vendor-prefixing-dead/</guid>
+            <pubDate>Wed, 12 May 2021 19:52:00 GMT</pubDate>
+            <description><![CDATA[This article was timely for me as I was thinking about browser compat issues for something I was working on this week. A great dig into which properties in CSS still need prefixing.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Component-level art direction with CSS Container Queries]]></title>
+            <link>https://www.sarasoueidan.com/blog/component-level-art-direction-with-container-queries-and-picture/</link>
+            <guid>https://www.sarasoueidan.com/blog/component-level-art-direction-with-container-queries-and-picture/</guid>
+            <pubDate>Wed, 12 May 2021 19:52:00 GMT</pubDate>
+            <description><![CDATA[Sara looks into the emerging Container Queries specification, in terms of art direction at the component level.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Progress Delayed Is Progress Denied - Infrequently Noted]]></title>
+            <link>https://infrequently.org/2021/04/progress-delayed/</link>
+            <guid>https://infrequently.org/2021/04/progress-delayed/</guid>
+            <pubDate>Wed, 12 May 2021 19:52:00 GMT</pubDate>
+            <description><![CDATA[Also, in my personal theme of web compat this week, is this article from Alex Russell. Whether you agree or not that Safari is underpowered, the data included here is interesting. In particular the section Just out of reach. It's in these uncontroversial missing features my own personal frustration lies. There are APIs in Chromium that Safari and Firefox have pushed back against, and that is a healthy part of standards debate. What is difficult is to see useful CSS for example, things that no one is arguing against, held behind a gate.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[New WebKit Features in Safari 14.1 | WebKit]]></title>
+            <link>https://webkit.org/blog/11648/new-webkit-features-in-safari-14-1/</link>
+            <guid>https://webkit.org/blog/11648/new-webkit-features-in-safari-14-1/</guid>
+            <pubDate>Tue, 04 May 2021 19:51:00 GMT</pubDate>
+            <description><![CDATA[Safari 14.1 includes the gap properties for flexbox, along with individual transforms. Take a look at the release notes for all of the details.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[What's New In DevTools (Chrome 91) - Chrome Developers]]></title>
+            <link>https://developer.chrome.com/blog/new-in-devtools-91/</link>
+            <guid>https://developer.chrome.com/blog/new-in-devtools-91/</guid>
+            <pubDate>Tue, 04 May 2021 19:51:00 GMT</pubDate>
+            <description><![CDATA[Loads of interesting stuff in Chrome 91 DevTools, but I'm particularly interested in the scroll-snap visualization.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Announcement: $10 for 10k - The A11Y Project]]></title>
+            <link>https://www.a11yproject.com/announcements/2021-04-04-ten-dollars-for-ten-k/</link>
+            <guid>https://www.a11yproject.com/announcements/2021-04-04-ten-dollars-for-ten-k/</guid>
+            <pubDate>Tue, 04 May 2021 19:51:00 GMT</pubDate>
+            <description><![CDATA[A fundraiser from the A11y Project to celebrate their 10,000 Twitter followers.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Web Design Museum on Twitter: "Happy 18th Birthday CSS Zen Garden!"]]></title>
+            <link>https://twitter.com/WebDesignMuseum/status/1389247125075075072</link>
+            <guid>https://twitter.com/WebDesignMuseum/status/1389247125075075072</guid>
+            <pubDate>Tue, 04 May 2021 19:51:00 GMT</pubDate>
+            <description><![CDATA[The CSS Zen Garden is 18. Links in this newsletter are conspiring to make me feel old.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[CSS Tips - Marko Denic - Web Developer]]></title>
+            <link>https://markodenic.com/css-tips/</link>
+            <guid>https://markodenic.com/css-tips/</guid>
+            <pubDate>Tue, 04 May 2021 19:51:00 GMT</pubDate>
+            <description><![CDATA[A collection of CSS tips, not sure about the claim that you won't see these in most of the tutorials, but if you like collections of snippets this is a good list of things.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Web Interface Handbook]]></title>
+            <link>https://imperavi.com/books/web-interface-handbook/</link>
+            <guid>https://imperavi.com/books/web-interface-handbook/</guid>
+            <pubDate>Tue, 04 May 2021 19:51:00 GMT</pubDate>
+            <description><![CDATA[This seems a really nice handbook about the fundamentals of interface design.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Chapter 8: CSS | CSS-Tricks]]></title>
+            <link>https://css-tricks.com/chapter-8-css/</link>
+            <guid>https://css-tricks.com/chapter-8-css/</guid>
+            <pubDate>Tue, 04 May 2021 19:51:00 GMT</pubDate>
+            <description><![CDATA[This episode of Web History opens with details of the 2006 @media conference. That was a long time ago. Here's a very young me onstage.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Understanding Display]]></title>
+            <link>https://noti.st/rachelandrew/VeraEX/understanding-display</link>
+            <guid>https://noti.st/rachelandrew/VeraEX/understanding-display</guid>
+            <pubDate>Tue, 27 Apr 2021 19:49:00 GMT</pubDate>
+            <description><![CDATA[Slides and resources for my talk at Web Directions hover, a conference just about CSS.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Don't you forget about me: overlooked breakpoints in responsive design.]]></title>
+            <link>https://polypane.app/blog/overlooked-breakpoints-in-responsive-design/</link>
+            <guid>https://polypane.app/blog/overlooked-breakpoints-in-responsive-design/</guid>
+            <pubDate>Tue, 27 Apr 2021 19:49:00 GMT</pubDate>
+            <description><![CDATA[An article about some breakpoints that you might want to pay a little more attention to.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Sortable Table Columns | Adrian Roselli]]></title>
+            <link>https://adrianroselli.com/2021/04/sortable-table-columns.html</link>
+            <guid>https://adrianroselli.com/2021/04/sortable-table-columns.html</guid>
+            <pubDate>Tue, 27 Apr 2021 19:49:00 GMT</pubDate>
+            <description><![CDATA[Another excellent article from Adrian, covering a design pattern that many of us will have had to deal with at one time or another.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Getting started with CSS Custom Properties - Tutorial - Piccalilli]]></title>
+            <link>https://piccalil.li/tutorial/getting-started-with-css-custom-properties</link>
+            <guid>https://piccalil.li/tutorial/getting-started-with-css-custom-properties</guid>
+            <pubDate>Tue, 27 Apr 2021 19:49:00 GMT</pubDate>
+            <description><![CDATA[Custom properties in CSS are exceptionally useful, not just for tokenising your CSS, but also for abstracting complexity and interactivity into smaller, easier to manage pieces. This short guide will get you up to speed with how they work and how to use them.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[A Complete Guide to Custom Properties | CSS-Tricks]]></title>
+            <link>https://css-tricks.com/a-complete-guide-to-custom-properties/</link>
+            <guid>https://css-tricks.com/a-complete-guide-to-custom-properties/</guid>
+            <pubDate>Tue, 27 Apr 2021 19:49:00 GMT</pubDate>
+            <description><![CDATA[After reading the earlier short primer, here's a complete guide to custom properties to help you take the next step!]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Exploring color-contrast() for the First Time | CSS-Tricks]]></title>
+            <link>https://css-tricks.com/exploring-color-contrast-for-the-first-time/</link>
+            <guid>https://css-tricks.com/exploring-color-contrast-for-the-first-time/</guid>
+            <pubDate>Tue, 27 Apr 2021 19:49:00 GMT</pubDate>
+            <description><![CDATA[Chris takes a good look at the upcoming color-contrast() function.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[The Almost-Complete Guide to Cumulative Layout Shift]]></title>
+            <link>https://jessbpeck.com/posts/completecls/</link>
+            <guid>https://jessbpeck.com/posts/completecls/</guid>
+            <pubDate>Tue, 27 Apr 2021 19:49:00 GMT</pubDate>
+            <description><![CDATA[A solid guide to Cumulative Layout Shift (CLS). This is a measurement of the annoying experience of a layout shifting around as you try to use it, leading you to click on the wrong things or lose your place.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Introducing CSS Grid Inspector | WebKit]]></title>
+            <link>https://webkit.org/blog/11588/introducing-css-grid-inspector/</link>
+            <guid>https://webkit.org/blog/11588/introducing-css-grid-inspector/</guid>
+            <pubDate>Tue, 20 Apr 2021 19:48:00 GMT</pubDate>
+            <description><![CDATA[A CSS Grid Inspector is coming to Safari, you can try it out in Safari Technology Preview 123.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Firefox 88 for developers - Mozilla | MDN]]></title>
+            <link>https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/88</link>
+            <guid>https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/88</guid>
+            <pubDate>Tue, 20 Apr 2021 19:48:00 GMT</pubDate>
+            <description><![CDATA[Firefox 88 shipped on Monday with a bunch of small CSS fixes and additions.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[How to understand CSS]]></title>
+            <link>https://noti.st/rachelandrew/ge9TMd/how-to-understand-css</link>
+            <guid>https://noti.st/rachelandrew/ge9TMd/how-to-understand-css</guid>
+            <pubDate>Tue, 20 Apr 2021 19:48:00 GMT</pubDate>
+            <description><![CDATA[The slides and code for my presentation at An Event Apart this week.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Float an Element to the Bottom Corner | CSS-Tricks]]></title>
+            <link>https://css-tricks.com/float-an-element-to-the-bottom-corner/</link>
+            <guid>https://css-tricks.com/float-an-element-to-the-bottom-corner/</guid>
+            <pubDate>Tue, 20 Apr 2021 19:48:00 GMT</pubDate>
+            <description><![CDATA[This article demonstrates a way to float an item to the bottom of some content, something that page floats would allow us to do more easily.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[A curated list of awesome framework-agnostic standalone web components]]></title>
+            <link>https://github.com/davatron5000/awesome-standalones</link>
+            <guid>https://github.com/davatron5000/awesome-standalones</guid>
+            <pubDate>Tue, 20 Apr 2021 19:48:00 GMT</pubDate>
+            <description><![CDATA[A curated list of awesome framework-agnostic standalone web components.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[CSS Container Queries - CSS: Cascading Style Sheets | MDN]]></title>
+            <link>https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Container_Queries</link>
+            <guid>https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Container_Queries</guid>
+            <pubDate>Wed, 14 Apr 2021 19:46:00 GMT</pubDate>
+            <description><![CDATA[I've started to put together some documentation on MDN for Container Queries. It's a spec very much in the early stages, but keep an eye on this page and I'll keep updating it as things evolve. Do try out the experimental Chrome implementation detailed there, and see whether it meets the type so use cases you come across.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[New in Chrome 90 - Chrome Developers]]></title>
+            <link>https://developer.chrome.com/blog/new-in-chrome-90/</link>
+            <guid>https://developer.chrome.com/blog/new-in-chrome-90/</guid>
+            <pubDate>Wed, 14 Apr 2021 19:46:00 GMT</pubDate>
+            <description><![CDATA[Chrome 90 includes overflow: clip and the Declarative Shadow DOM.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[CSS is a Strongly Typed Language | CSS-Tricks]]></title>
+            <link>https://css-tricks.com/css-is-a-strongly-typed-language/</link>
+            <guid>https://css-tricks.com/css-is-a-strongly-typed-language/</guid>
+            <pubDate>Wed, 14 Apr 2021 19:46:00 GMT</pubDate>
+            <description><![CDATA[One of the ways you can classify a programming language is by how strongly or weakly typed it is. Here, “typed” means if variables are known at compile time.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[The Layers of the Web - Jeremy Keith - YouTube]]></title>
+            <link>https://www.youtube.com/watch?v=96DCTASFniI&amp;t=1s</link>
+            <guid>https://www.youtube.com/watch?v=96DCTASFniI&amp;t=1s</guid>
+            <pubDate>Wed, 14 Apr 2021 19:46:00 GMT</pubDate>
+            <description><![CDATA[Learn how to build resilient, performant, accessible and beautiful structures that work with the grain of the materials of the World Wide Web in this talk from Jeremy Keith.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Accessible front-end components: claims vs reality]]></title>
+            <link>https://hiddedevries.nl/en/blog/2021-04-02-accessible-front-end-components-claims-vs-reality</link>
+            <guid>https://hiddedevries.nl/en/blog/2021-04-02-accessible-front-end-components-claims-vs-reality</guid>
+            <pubDate>Wed, 14 Apr 2021 19:46:00 GMT</pubDate>
+            <description><![CDATA[How to assess the claims made by a third party about the accessibility of their components. Useful stuff.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[CSS { In Real Life } | Paper Snowflakes: Combining Clipping and Masking in CSS]]></title>
+            <link>https://css-irl.info/paper-snowflakes-combining-clipping-and-masking-in-css/</link>
+            <guid>https://css-irl.info/paper-snowflakes-combining-clipping-and-masking-in-css/</guid>
+            <pubDate>Wed, 14 Apr 2021 19:46:00 GMT</pubDate>
+            <description><![CDATA[This is a great walkthrough of clipping and masking, and the demo at the end is worth a look too.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Not Your Typical Horizontal Rules]]></title>
+            <link>https://www.sarasoueidan.com/blog/horizontal-rules/</link>
+            <guid>https://www.sarasoueidan.com/blog/horizontal-rules/</guid>
+            <pubDate>Tue, 06 Apr 2021 19:44:00 GMT</pubDate>
+            <description><![CDATA[This is a lovely article about the humble <hr> element, why you should consider using it, and how to make them look nice while retaining their semantics.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Swipey image grids.]]></title>
+            <link>https://www.cassie.codes/posts/swipey-image-grids/</link>
+            <guid>https://www.cassie.codes/posts/swipey-image-grids/</guid>
+            <pubDate>Tue, 06 Apr 2021 19:44:00 GMT</pubDate>
+            <description><![CDATA[This is a really great article on creating image grids not with CSS Grid, but instead with SVG.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Let’s Create an Image Pop-Out Effect With SVG Clip Path | CSS-Tricks]]></title>
+            <link>https://css-tricks.com/lets-create-an-image-pop-out-effect-with-svg-clip-path/</link>
+            <guid>https://css-tricks.com/lets-create-an-image-pop-out-effect-with-svg-clip-path/</guid>
+            <pubDate>Tue, 06 Apr 2021 19:44:00 GMT</pubDate>
+            <description><![CDATA[I'm a big fan of articles that riff of another article or demo, adding value in the process. Here, a demo I linked to previously is used as the jumping off point for an alternative approach.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Laying Out Pages | Web Browser Engineering]]></title>
+            <link>https://browser.engineering/layout.html</link>
+            <guid>https://browser.engineering/layout.html</guid>
+            <pubDate>Tue, 06 Apr 2021 19:44:00 GMT</pubDate>
+            <description><![CDATA[This book project is fascinating. I've linked to the new chapter on layout, as it was published this week and topical for this newsletter. However, I am looking forward to reading the rest of the book and the upcoming chapters.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Sticky Headers: 5 Ways to Make Them Better]]></title>
+            <link>https://www.nngroup.com/articles/sticky-headers/</link>
+            <guid>https://www.nngroup.com/articles/sticky-headers/</guid>
+            <pubDate>Tue, 06 Apr 2021 19:44:00 GMT</pubDate>
+            <description><![CDATA[A good look into the usability of sticky headers.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Explore the intersection of accessibility, usability, and inclusion]]></title>
+            <link>https://aneventapart.com/event/spring-summit-2021?utm_campaign=SS&amp;utm_medium=email&amp;utm_source=csslayout</link>
+            <guid>https://aneventapart.com/event/spring-summit-2021?utm_campaign=SS&amp;utm_medium=email&amp;utm_source=csslayout</guid>
+            <pubDate>Tue, 06 Apr 2021 19:44:00 GMT</pubDate>
+            <description><![CDATA[Inclusion and diversity are two of the most important themes in today’s world. As UX and front-end experts, it’s our responsibility to not only be aware of these topics, but to actively explore how our work impacts all users, not just an idealized average.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Container Query Proposal & Explainer]]></title>
+            <link>https://css.oddbird.net/rwd/query/explainer/</link>
+            <guid>https://css.oddbird.net/rwd/query/explainer/</guid>
+            <pubDate>Tue, 30 Mar 2021 19:42:00 GMT</pubDate>
+            <description><![CDATA[You can now try out the container queries proposal in Chrome Canary. In chrome://flags enable the CSS Container Queries flag, and have a look at the demos and info linked from this page.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[How to Improve CSS Performance | Calibre]]></title>
+            <link>https://calibreapp.com/blog/css-performance</link>
+            <guid>https://calibreapp.com/blog/css-performance</guid>
+            <pubDate>Tue, 30 Mar 2021 19:42:00 GMT</pubDate>
+            <description><![CDATA[A post detailing the various ways to improve the performance of your CSS.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[:where() has a cool specificity trick, too. | CSS-Tricks]]></title>
+            <link>https://css-tricks.com/where-has-a-cool-specificity-trick-too/</link>
+            <guid>https://css-tricks.com/where-has-a-cool-specificity-trick-too/</guid>
+            <pubDate>Tue, 30 Mar 2021 19:42:00 GMT</pubDate>
+            <description><![CDATA[Some notes on the is() and where() selectors.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Dark mode in 5 minutes, with inverted lightness variables]]></title>
+            <link>https://lea.verou.me/2021/03/inverted-lightness-variables/</link>
+            <guid>https://lea.verou.me/2021/03/inverted-lightness-variables/</guid>
+            <pubDate>Tue, 30 Mar 2021 19:42:00 GMT</pubDate>
+            <description><![CDATA[This is a very neat technique, but the post is so much more than the quick tip the title suggests. There are some very cool things going on with CSS Color right now!]]></description>
+        </item>
+        <item>
+            <title><![CDATA[CSS terminology question - QuirksBlog]]></title>
+            <link>https://www.quirksmode.org/blog/archives/2021/03/css_terminology.html</link>
+            <guid>https://www.quirksmode.org/blog/archives/2021/03/css_terminology.html</guid>
+            <pubDate>Tue, 30 Mar 2021 19:42:00 GMT</pubDate>
+            <description><![CDATA[In which ppk ponders how to refer to sizing in CSS.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Home | The Component Gallery]]></title>
+            <link>https://component.gallery/</link>
+            <guid>https://component.gallery/</guid>
+            <pubDate>Tue, 30 Mar 2021 19:42:00 GMT</pubDate>
+            <description><![CDATA[This is cool. A reference of components, useful for folk building component-based interfaces.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Compat2021: Eliminating five top compatibility pain points on the web]]></title>
+            <link>https://web.dev/compat2021/</link>
+            <guid>https://web.dev/compat2021/</guid>
+            <pubDate>Tue, 23 Mar 2021 20:40:00 GMT</pubDate>
+            <description><![CDATA[Google is partnering with other browser vendors and industry partners to fix the top five browser compatibility pain points for web developers: CSS Flexbox, CSS Grid, position: sticky, aspect-ratio, and CSS transforms.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[color-mix() - CSS: Cascading Style Sheets | MDN]]></title>
+            <link>https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/color-mix()</link>
+            <guid>https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/color-mix()</guid>
+            <pubDate>Tue, 23 Mar 2021 20:40:00 GMT</pubDate>
+            <description><![CDATA[The color-mix() function is in Firefox Nightly and Safari TP. It's one of a whole bunch of interesting things that are part of CSS Color Level 4 and 5. I'm working through documenting them for MDN.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Accessible Text Labels For All]]></title>
+            <link>https://www.sarasoueidan.com/blog/accessible-text-labels/</link>
+            <guid>https://www.sarasoueidan.com/blog/accessible-text-labels/</guid>
+            <pubDate>Tue, 23 Mar 2021 20:40:00 GMT</pubDate>
+            <description><![CDATA[How to create more descriptive button or link text labels to improve the e-commerce experience for screen readers users.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Building a Settings component]]></title>
+            <link>https://web.dev/building-a-settings-component/</link>
+            <guid>https://web.dev/building-a-settings-component/</guid>
+            <pubDate>Tue, 23 Mar 2021 20:40:00 GMT</pubDate>
+            <description><![CDATA[A fast-paced look at building a Settings component with a lot of CSS Grid. There is a video version too.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Image Fragmentation Effect With CSS Masks and Custom Properties | CSS-Tricks]]></title>
+            <link>https://css-tricks.com/image-fragmentation-effect-with-css-masks-and-custom-properties/</link>
+            <guid>https://css-tricks.com/image-fragmentation-effect-with-css-masks-and-custom-properties/</guid>
+            <pubDate>Tue, 23 Mar 2021 20:40:00 GMT</pubDate>
+            <description><![CDATA[This is a nice effect and also demonstrates a good use case for @property.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Taming Blend Modes: `difference` and `exclusion` | CSS-Tricks]]></title>
+            <link>https://css-tricks.com/taming-blend-modes-difference-and-exclusion/</link>
+            <guid>https://css-tricks.com/taming-blend-modes-difference-and-exclusion/</guid>
+            <pubDate>Tue, 23 Mar 2021 20:40:00 GMT</pubDate>
+            <description><![CDATA[A really detailed dive into blend modes from Ana Tudor.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Transition.css - easy transitions with clip-path]]></title>
+            <link>https://transition.style/</link>
+            <guid>https://transition.style/</guid>
+            <pubDate>Tue, 23 Mar 2021 20:40:00 GMT</pubDate>
+            <description><![CDATA[Some nice little transitions to copy and paste or just to poke at to see how they work.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[A Live Interview with Rachel Andrew and Jeremy Keith]]></title>
+            <link>https://aneventapart.com/news/post/a-live-interview-with-rachel-and-jeremy</link>
+            <guid>https://aneventapart.com/news/post/a-live-interview-with-rachel-and-jeremy</guid>
+            <pubDate>Tue, 16 Mar 2021 20:34:00 GMT</pubDate>
+            <description><![CDATA[A recording of a Facebook live event with me and Jeremy Keith, as we look forward to the An Event Apart Spring Summit.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Release Notes for Safari Technology Preview 122 | WebKit]]></title>
+            <link>https://webkit.org/blog/11577/release-notes-for-safari-technology-preview-122/</link>
+            <guid>https://webkit.org/blog/11577/release-notes-for-safari-technology-preview-122/</guid>
+            <pubDate>Tue, 16 Mar 2021 20:34:00 GMT</pubDate>
+            <description><![CDATA[There is a whole bunch of good stuff in the latest Safari TP. Lots of grid fixes plus experimental support for some interesting new color functions.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Grid, content re-ordering, and accessibility]]></title>
+            <link>https://noti.st/rachelandrew/Mny9Vg/grid-content-re-ordering-and-accessibility</link>
+            <guid>https://noti.st/rachelandrew/Mny9Vg/grid-content-re-ordering-and-accessibility</guid>
+            <pubDate>Tue, 16 Mar 2021 20:34:00 GMT</pubDate>
+            <description><![CDATA[My slides and demos from Axe-con. The video is being released at some point and I'll add it to that page when it is.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[#205: Sticky Positioning: How it Works, What Can Break It, and Dumb Tricks | CSS-Tricks]]></title>
+            <link>https://css-tricks.com/video-screencasts/205-sticky-positioning-how-it-works-what-can-break-it-and-dumb-tricks/</link>
+            <guid>https://css-tricks.com/video-screencasts/205-sticky-positioning-how-it-works-what-can-break-it-and-dumb-tricks/</guid>
+            <pubDate>Tue, 16 Mar 2021 20:34:00 GMT</pubDate>
+            <description><![CDATA[Some pointers as to why your sticky positioned thing isn't working.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[HSL: a color format for humans - Cloud Four]]></title>
+            <link>https://cloudfour.com/thinks/hsl-a-color-format-for-humans/</link>
+            <guid>https://cloudfour.com/thinks/hsl-a-color-format-for-humans/</guid>
+            <pubDate>Tue, 16 Mar 2021 20:34:00 GMT</pubDate>
+            <description><![CDATA[I've been thinking about color this week as I have been documenting various color functions over at MDN. Here is a great post explaining HSL.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Debugging layout shifts]]></title>
+            <link>https://web.dev/debugging-layout-shifts/</link>
+            <guid>https://web.dev/debugging-layout-shifts/</guid>
+            <pubDate>Tue, 16 Mar 2021 20:34:00 GMT</pubDate>
+            <description><![CDATA[Useful information on how to identify layout shifts and ultimately fix them.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Exploring @property and its Animating Powers | CSS-Tricks]]></title>
+            <link>https://css-tricks.com/exploring-property-and-its-animating-powers/</link>
+            <guid>https://css-tricks.com/exploring-property-and-its-animating-powers/</guid>
+            <pubDate>Tue, 09 Mar 2021 20:32:00 GMT</pubDate>
+            <description><![CDATA[Relevant to some docs I was writing last week, an article about what @property can make possible.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[An Accessible Current Page Navigation State]]></title>
+            <link>https://www.callumhart.com/blog/an-accessible-current-page-navigation-state</link>
+            <guid>https://www.callumhart.com/blog/an-accessible-current-page-navigation-state</guid>
+            <pubDate>Tue, 09 Mar 2021 20:32:00 GMT</pubDate>
+            <description><![CDATA[How to indicate the current page in an accessible way.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[The Future of CSS: Scroll-Linked Animations with @scroll-timeline (Part 2) – Bram.us]]></title>
+            <link>https://www.bram.us/2021/03/04/the-future-of-css-scroll-linked-animations-part-2/</link>
+            <guid>https://www.bram.us/2021/03/04/the-future-of-css-scroll-linked-animations-part-2/</guid>
+            <pubDate>Tue, 09 Mar 2021 20:32:00 GMT</pubDate>
+            <description><![CDATA[Part two of a deep dive into scroll-linked animations using features that have an experimental implementation in Chrome.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Programmatically Generate Images with CSS Painting API]]></title>
+            <link>https://blog.bitsrc.io/programmatically-generate-images-with-css-painting-api-3b1a860dae3b</link>
+            <guid>https://blog.bitsrc.io/programmatically-generate-images-with-css-painting-api-3b1a860dae3b</guid>
+            <pubDate>Tue, 09 Mar 2021 20:32:00 GMT</pubDate>
+            <description><![CDATA[I've been doing a bit of reading around things folk have been publishing on Houdini, as I've been working on some docs for MDN. Here is a nice guide to the CSS Paint API.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Conic.css - nice, simple conic gradients]]></title>
+            <link>https://conic.style/</link>
+            <guid>https://conic.style/</guid>
+            <pubDate>Tue, 09 Mar 2021 20:32:00 GMT</pubDate>
+            <description><![CDATA[Another fun generator, this time for conic gradients.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[The Tools Don't Matter - Bring the Donuts Newsletter]]></title>
+            <link>https://newsletter.bringthedonuts.com/p/the-tools-dont-matter</link>
+            <guid>https://newsletter.bringthedonuts.com/p/the-tools-dont-matter</guid>
+            <pubDate>Tue, 09 Mar 2021 20:32:00 GMT</pubDate>
+            <description><![CDATA[This is a product management piece, rather than CSS. However I am constantly asked the same question with regard to tools. In general the tools don't matter, something I quickly discovered when moving from Mac to Windows. It took very little time to replace Mac-only things with something else.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Stay current with today's best web design practices]]></title>
+            <link>https://aneventapart.com/event/spring-summit-2021?utm_campaign=SS&amp;utm_medium=email&amp;utm_source=csslayout</link>
+            <guid>https://aneventapart.com/event/spring-summit-2021?utm_campaign=SS&amp;utm_medium=email&amp;utm_source=csslayout</guid>
+            <pubDate>Tue, 09 Mar 2021 20:32:00 GMT</pubDate>
+            <description><![CDATA[Spanning the spectrum from advanced CSS to inclusive and cross-cultural design, to web components and PWAs to user research, An Event Apart Online Together: Spring Summit features fifteen important sessions from world-class experts to keep you up-to-date with today’s best practices. Join us online April 19–21.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Release Notes for Safari Technology Preview 121 | WebKit]]></title>
+            <link>https://webkit.org/blog/11555/release-notes-for-safari-technology-preview-121/</link>
+            <guid>https://webkit.org/blog/11555/release-notes-for-safari-technology-preview-121/</guid>
+            <pubDate>Tue, 02 Mar 2021 20:30:00 GMT</pubDate>
+            <description><![CDATA[There are some useful fixes in Safari TP 121 for some grid bugs, and also support for aspect-ratio in Grid Layout. Hopefully these things will make it into Safari proper soon!]]></description>
+        </item>
+        <item>
+            <title><![CDATA[The new HTML popup element is in development]]></title>
+            <link>https://css-tricks.com/weekly-platform-news-reduced-motion-cors-whitehouse-gov-popups-and-100vw/#the-new-html-popup-element-is-in-development</link>
+            <guid>https://css-tricks.com/weekly-platform-news-reduced-motion-cors-whitehouse-gov-popups-and-100vw/#the-new-html-popup-element-is-in-development</guid>
+            <pubDate>Tue, 02 Mar 2021 20:30:00 GMT</pubDate>
+            <description><![CDATA[In the recent Weekly Platform news is a description of the new <popup> element which is in development in Chrome. I've seen mixed feelings about this, although it's such a common UI feature that having a built in method which has default accessibility seems a good way to avoid everyone creating their own with varying results.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[What's New In DevTools (Chrome 90)  |  Web  |  Google Developers]]></title>
+            <link>https://developers.google.com/web/updates/2021/02/devtools#flexbox</link>
+            <guid>https://developers.google.com/web/updates/2021/02/devtools#flexbox</guid>
+            <pubDate>Tue, 02 Mar 2021 20:30:00 GMT</pubDate>
+            <description><![CDATA[There are some nice new Flexbox tools coming in Chrome 90. I think these will be great to help people learn how flexbox works in addition to making debugging easier.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Hiding Content Responsibly | Kitty Giraudel]]></title>
+            <link>https://kittygiraudel.com/2021/02/17/hiding-content-responsibly/</link>
+            <guid>https://kittygiraudel.com/2021/02/17/hiding-content-responsibly/</guid>
+            <pubDate>Tue, 02 Mar 2021 20:30:00 GMT</pubDate>
+            <description><![CDATA[All the possible ways to hide content and a quick summary for each explaining how accessible they are and when they should be used.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[The Clearleft Podcast: Accessibility]]></title>
+            <link>https://podcast.clearleft.com/season02/episode03/</link>
+            <guid>https://podcast.clearleft.com/season02/episode03/</guid>
+            <pubDate>Tue, 02 Mar 2021 20:30:00 GMT</pubDate>
+            <description><![CDATA[Accessibility is on my mind a lot this week as I am putting together my talk for axe-con and so here is a timely episode of the Clearleft podcast. Find out what it's like to use a screen reader on a website with Léonie Watson, and hear the thoughts of Laura Kalbag and Cassie Evans on designing while considering all users of your site.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Diving into the ::before and ::after Pseudo-Elements / Coder's Block]]></title>
+            <link>https://codersblock.com/blog/diving-into-the-before-and-after-pseudo-elements/</link>
+            <guid>https://codersblock.com/blog/diving-into-the-before-and-after-pseudo-elements/</guid>
+            <pubDate>Tue, 02 Mar 2021 20:30:00 GMT</pubDate>
+            <description><![CDATA[Lots of information and demos of using ::before and ::after.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Glassmorphism CSS Generator]]></title>
+            <link>https://glassmorphism.com/</link>
+            <guid>https://glassmorphism.com/</guid>
+            <pubDate>Tue, 02 Mar 2021 20:30:00 GMT</pubDate>
+            <description><![CDATA[A generator to create the "frosted glass aesthetic" which combines a partially transparent background with backdrop-filter to create the effect.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Firefox 86 for developers - Mozilla | MDN]]></title>
+            <link>https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/86</link>
+            <guid>https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/86</guid>
+            <pubDate>Tue, 23 Feb 2021 20:27:00 GMT</pubDate>
+            <description><![CDATA[Firefox 86 lands today, only a couple of little CSS changes this time. With list-style-image accepting any valid image type in Firefox, you can now use a gradient for a bullet in all browsers. I'm not 100% sure why you would want to, but it's always nice to have options.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Getting Deep into Shadows | CSS-Tricks]]></title>
+            <link>https://css-tricks.com/getting-deep-into-shadows/</link>
+            <guid>https://css-tricks.com/getting-deep-into-shadows/</guid>
+            <pubDate>Tue, 23 Feb 2021 20:27:00 GMT</pubDate>
+            <description><![CDATA[This is nice because it explains how and why to use shadows, not just technically how to add a shadow.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Building a ‘Table Of Contents’ with active indicator using JavaScript Intersection Observers – Ben Frain]]></title>
+            <link>https://benfrain.com/building-a-table-of-contents-with-active-indicator-using-javascript-intersection-observers/</link>
+            <guid>https://benfrain.com/building-a-table-of-contents-with-active-indicator-using-javascript-intersection-observers/</guid>
+            <pubDate>Tue, 23 Feb 2021 20:27:00 GMT</pubDate>
+            <description><![CDATA[A post explaining how to use Intersection Observer for this task. I like the fact it references the way we used to do things. How often do we reach for a technique because we've done it a million times before, without checking to see if the web moved on a bit?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Maximally optimizing image loading for the web in 2021]]></title>
+            <link>https://www.industrialempathy.com/posts/image-optimizations/</link>
+            <guid>https://www.industrialempathy.com/posts/image-optimizations/</guid>
+            <pubDate>Tue, 23 Feb 2021 20:27:00 GMT</pubDate>
+            <description><![CDATA[Some excellent tips here, plus I like the progress indicator at the top of the page!]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Barebones CSS for Fluid Images—zachleat.com]]></title>
+            <link>https://www.zachleat.com/web/fluid-images/</link>
+            <guid>https://www.zachleat.com/web/fluid-images/</guid>
+            <pubDate>Tue, 23 Feb 2021 20:27:00 GMT</pubDate>
+            <description><![CDATA[What is the best way to make an image fluid?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Building a Tabs component]]></title>
+            <link>https://web.dev/building-a-tabs-component/</link>
+            <guid>https://web.dev/building-a-tabs-component/</guid>
+            <pubDate>Tue, 23 Feb 2021 20:27:00 GMT</pubDate>
+            <description><![CDATA[A guide to building a tabbed component, there is also a video version of this tutorial if you prefer.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[CSS Multi-column Layout Module Level 1]]></title>
+            <link>https://www.w3.org/TR/css-multicol-1/</link>
+            <guid>https://www.w3.org/TR/css-multicol-1/</guid>
+            <pubDate>Tue, 16 Feb 2021 20:24:00 GMT</pubDate>
+            <description><![CDATA[I published a new Working Draft of multicol last week. Hopefully we can soon move it through the process and to Candidate Recommendation (CR) status.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Container Queries ...]]></title>
+            <link>https://twitter.com/MiriSuzanne/status/1360018392351080451</link>
+            <guid>https://twitter.com/MiriSuzanne/status/1360018392351080451</guid>
+            <pubDate>Tue, 16 Feb 2021 20:24:00 GMT</pubDate>
+            <description><![CDATA[... are officially in a CSS Working Group spec. This doesn't mean you'll be using them in your next project, but as Amelia explained it means that a path forward has been identified.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Is CSS float deprecated? | CSS-Tricks]]></title>
+            <link>https://css-tricks.com/is-css-float-deprecated/</link>
+            <guid>https://css-tricks.com/is-css-float-deprecated/</guid>
+            <pubDate>Tue, 16 Feb 2021 20:24:00 GMT</pubDate>
+            <description><![CDATA[Deprecated is definitely one of those words folk use to mean things that it doesn't mean. Floats, just like tables, are not deprecated. Nor will sites using them for column based layout stop working. You probably don't want to build a new site using floated columns though.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Bruce Lawson’s personal site  : Don’t put pointer-events: none on form labels]]></title>
+            <link>https://www.brucelawson.co.uk/2021/dont-put-pointer-events-none-on-form-labels/</link>
+            <guid>https://www.brucelawson.co.uk/2021/dont-put-pointer-events-none-on-form-labels/</guid>
+            <pubDate>Tue, 16 Feb 2021 20:24:00 GMT</pubDate>
+            <description><![CDATA[A reminder, and perhaps something to check on existing sites to make sure that any library you have been using hasn't done so.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[About Us Pop-Out Effect]]></title>
+            <link>https://codepen.io/ainalem/pen/QWGNzYm</link>
+            <guid>https://codepen.io/ainalem/pen/QWGNzYm</guid>
+            <pubDate>Tue, 16 Feb 2021 20:24:00 GMT</pubDate>
+            <description><![CDATA[This is nice, using clip-path. Found in the CodePen Spark newsletter.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[A quick guide to page and column floats in Prince 14]]></title>
+            <link>https://www.princexml.com/howcome/2021/guides/float/index.html</link>
+            <guid>https://www.princexml.com/howcome/2021/guides/float/index.html</guid>
+            <pubDate>Tue, 16 Feb 2021 20:24:00 GMT</pubDate>
+            <description><![CDATA[More floats! If you have never used CSS for print, then you might feel this is all a bit irrelevant; however, I'd love to know if page or column floats are at all interesting to people who build for the web. Would it be useful, for example, to be able to cause an image always to appear at the top of a column in a multiple-column layout? If you have use cases, let me know.]]></description>
+        </item>
+    </channel>
+</rss>

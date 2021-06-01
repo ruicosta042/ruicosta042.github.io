@@ -68,6 +68,7 @@
 | Kory Stamper         | Word by Word: The Secret Life of Dictionaries                                       |
 | Michael Pollan       | The Omnivore's Dilemma: The Search for a Perfect Meal in a Fast-Food World          |
 | Phil Thornton        | The Great Economists: Ten Economists whose thinking changed the way we live         |
+| Robert M. Sapolsky   | Behave: The Biology of Humans at Our Best and Worst                                 | 
 | Shoshana Zuboff      | The Age of Surveillance Capitalism                                                  |
 | Simon Singh          | The Code Book: The Secret History of Codes and Code-Breaking                        |
 | Susan Cain           | Quiet: The Power of Introverts in a World That Can't Stop Talking                   |

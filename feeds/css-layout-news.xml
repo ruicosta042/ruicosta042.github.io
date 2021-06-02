@@ -4,10 +4,45 @@
         <title>CSS Layout News</title>
         <link>https://csslayout.news/</link>
         <description>Weekly CSS layout newsletter and resource site by Rachel Andrew</description>
-        <lastBuildDate>Thu, 27 May 2021 18:01:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Jun 2021 07:09:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Firefox 89]]></title>
+            <link>https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/89</link>
+            <guid>https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/89</guid>
+            <pubDate>Wed, 02 Jun 2021 06:49:16 GMT</pubDate>
+            <description><![CDATA[The latest version of Firefox includes the ascent-override, descent-override, and line-gap-override @font-face descriptors. These are helpful in matching your fallback font with the loading webfont, to avoid the content re-laying out as it loads in.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Safari Technology Preview 125]]></title>
+            <link>https://webkit.org/blog/11680/release-notes-for-safari-technology-preview-125/</link>
+            <guid>https://webkit.org/blog/11680/release-notes-for-safari-technology-preview-125/</guid>
+            <pubDate>Wed, 02 Jun 2021 06:49:16 GMT</pubDate>
+            <description><![CDATA[Lots of interesting CSS bits here, but I did spot the implementation of the two-value syntax for display. That's cool!]]></description>
+        </item>
+        <item>
+            <title><![CDATA[New CSS functional pseudo-class selectors :is() and :where()]]></title>
+            <link>https://web.dev/css-is-and-where/</link>
+            <guid>https://web.dev/css-is-and-where/</guid>
+            <pubDate>Wed, 02 Jun 2021 06:49:16 GMT</pubDate>
+            <description><![CDATA[An explanation of these new pseudo-class selectors, explaining why and how to use them.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[25 Years of CSS]]></title>
+            <link>https://meyerweb.com/eric/thoughts/2021/05/25/25-years-of-css/</link>
+            <guid>https://meyerweb.com/eric/thoughts/2021/05/25/25-years-of-css/</guid>
+            <pubDate>Wed, 02 Jun 2021 06:49:16 GMT</pubDate>
+            <description><![CDATA[Eric Meyer writes about his 25 year journey with CSS. I used many of Eric's resources when I was first learning CSS, as it was just becoming usable in browsers.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Chromium spelling and grammar features]]></title>
+            <link>https://www.azabani.com/2021/05/17/spelling-grammar.html</link>
+            <guid>https://www.azabani.com/2021/05/17/spelling-grammar.html</guid>
+            <pubDate>Wed, 02 Jun 2021 06:49:16 GMT</pubDate>
+            <description><![CDATA[A blog post about implementing spelling and grammar features into Chromium including the highlight pseudo-elements ::spelling-error and ::grammar-error. It's a good look at how tricky implementing a seemingly simple feature can be.]]></description>
+        </item>
         <item>
             <title><![CDATA[IE11 to be retired]]></title>
             <link>https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/</link>
@@ -644,48 +679,6 @@
             <guid>https://web.dev/building-a-tabs-component/</guid>
             <pubDate>Tue, 23 Feb 2021 20:27:00 GMT</pubDate>
             <description><![CDATA[A guide to building a tabbed component, there is also a video version of this tutorial if you prefer.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[CSS Multi-column Layout Module Level 1]]></title>
-            <link>https://www.w3.org/TR/css-multicol-1/</link>
-            <guid>https://www.w3.org/TR/css-multicol-1/</guid>
-            <pubDate>Tue, 16 Feb 2021 20:24:00 GMT</pubDate>
-            <description><![CDATA[I published a new Working Draft of multicol last week. Hopefully we can soon move it through the process and to Candidate Recommendation (CR) status.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Container Queries ...]]></title>
-            <link>https://twitter.com/MiriSuzanne/status/1360018392351080451</link>
-            <guid>https://twitter.com/MiriSuzanne/status/1360018392351080451</guid>
-            <pubDate>Tue, 16 Feb 2021 20:24:00 GMT</pubDate>
-            <description><![CDATA[... are officially in a CSS Working Group spec. This doesn't mean you'll be using them in your next project, but as Amelia explained it means that a path forward has been identified.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Is CSS float deprecated? | CSS-Tricks]]></title>
-            <link>https://css-tricks.com/is-css-float-deprecated/</link>
-            <guid>https://css-tricks.com/is-css-float-deprecated/</guid>
-            <pubDate>Tue, 16 Feb 2021 20:24:00 GMT</pubDate>
-            <description><![CDATA[Deprecated is definitely one of those words folk use to mean things that it doesn't mean. Floats, just like tables, are not deprecated. Nor will sites using them for column based layout stop working. You probably don't want to build a new site using floated columns though.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Bruce Lawson’s personal site  : Don’t put pointer-events: none on form labels]]></title>
-            <link>https://www.brucelawson.co.uk/2021/dont-put-pointer-events-none-on-form-labels/</link>
-            <guid>https://www.brucelawson.co.uk/2021/dont-put-pointer-events-none-on-form-labels/</guid>
-            <pubDate>Tue, 16 Feb 2021 20:24:00 GMT</pubDate>
-            <description><![CDATA[A reminder, and perhaps something to check on existing sites to make sure that any library you have been using hasn't done so.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[About Us Pop-Out Effect]]></title>
-            <link>https://codepen.io/ainalem/pen/QWGNzYm</link>
-            <guid>https://codepen.io/ainalem/pen/QWGNzYm</guid>
-            <pubDate>Tue, 16 Feb 2021 20:24:00 GMT</pubDate>
-            <description><![CDATA[This is nice, using clip-path. Found in the CodePen Spark newsletter.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[A quick guide to page and column floats in Prince 14]]></title>
-            <link>https://www.princexml.com/howcome/2021/guides/float/index.html</link>
-            <guid>https://www.princexml.com/howcome/2021/guides/float/index.html</guid>
-            <pubDate>Tue, 16 Feb 2021 20:24:00 GMT</pubDate>
-            <description><![CDATA[More floats! If you have never used CSS for print, then you might feel this is all a bit irrelevant; however, I'd love to know if page or column floats are at all interesting to people who build for the web. Would it be useful, for example, to be able to cause an image always to appear at the top of a column in a multiple-column layout? If you have use cases, let me know.]]></description>
         </item>
     </channel>
 </rss>

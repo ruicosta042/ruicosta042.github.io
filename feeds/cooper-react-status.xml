@@ -4,105 +4,105 @@
         <title>React Status</title>
         <link>https://react.statuscode.com/</link>
         <description>A weekly roundup of the latest React and React Native links and tutorials.</description>
-        <lastBuildDate>Wed, 02 Jun 2021 09:33:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Jun 2021 08:50:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Get Started With React by Building a 'Whac-a-Mole' Game]]></title>
-            <link>https://www.smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/</link>
-            <guid>https://www.smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/</guid>
-            <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Top React Component Libraries (2021 Edition)]]></title>
+            <link>https://retool.com/blog/react-component-libraries/</link>
+            <guid>https://retool.com/blog/react-component-libraries/</guid>
+            <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Complete Beginner's Guide to Next.js]]></title>
-            <link>https://m.youtube.com/watch?v=nBkRxwHMrto</link>
-            <guid>https://m.youtube.com/watch?v=nBkRxwHMrto</guid>
-            <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Svelte for the Experienced React Dev]]></title>
+            <link>https://css-tricks.com/svelte-for-the-experienced-react-dev/</link>
+            <guid>https://css-tricks.com/svelte-for-the-experienced-react-dev/</guid>
+            <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Announcing Coinbase’s Successful Transition to React Native]]></title>
-            <link>https://t.co/NNgFjmKHBu?amp=1</link>
-            <guid>https://t.co/NNgFjmKHBu?amp=1</guid>
-            <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[useStateMachine: The ½KB State Machine Hook]]></title>
+            <link>https://github.com/cassiozen/useStateMachine</link>
+            <guid>https://github.com/cassiozen/useStateMachine</guid>
+            <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Using Forms in React]]></title>
-            <link>https://daveceddia.com/react-forms/</link>
-            <guid>https://daveceddia.com/react-forms/</guid>
-            <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA['Why We Need to Stop Using React']]></title>
+            <link>https://t.co/Wo42UoizzO?amp=1</link>
+            <guid>https://t.co/Wo42UoizzO?amp=1</guid>
+            <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Five Advanced React Patterns]]></title>
-            <link>https://t.co/Z2LnByxIWy?amp=1</link>
-            <guid>https://t.co/Z2LnByxIWy?amp=1</guid>
-            <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Introduction to Framer Motion for React]]></title>
+            <link>https://t.co/mRUN8EscAL?amp=1</link>
+            <guid>https://t.co/mRUN8EscAL?amp=1</guid>
+            <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What is the Simplest React App?]]></title>
-            <link>https://kentcdodds.com/blog/super-simple-start-to-react/</link>
-            <guid>https://kentcdodds.com/blog/super-simple-start-to-react/</guid>
-            <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to Use Testing Library to Test Storybook]]></title>
+            <link>https://t.co/V5LJMoSlG7?amp=1</link>
+            <guid>https://t.co/V5LJMoSlG7?amp=1</guid>
+            <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Creating a Multi-Step Form with React (Simple Version)]]></title>
-            <link>https://www.youtube.com/watch?v=dybbUOmtd0Y&amp;feature=youtu.be</link>
-            <guid>https://www.youtube.com/watch?v=dybbUOmtd0Y&amp;feature=youtu.be</guid>
-            <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Dynamic vs Static Routing in React]]></title>
+            <link>https://t.co/TgUGVyOX1A?amp=1</link>
+            <guid>https://t.co/TgUGVyOX1A?amp=1</guid>
+            <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Six Recommendations for Styling Apps with Grommet]]></title>
-            <link>https://spin.atomicobject.com/2021/05/14/styling-grommet/</link>
-            <guid>https://spin.atomicobject.com/2021/05/14/styling-grommet/</guid>
-            <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Journey of Improving React App Performance by 10x]]></title>
+            <link>https://t.co/qnN8obF6Sl?amp=1</link>
+            <guid>https://t.co/qnN8obF6Sl?amp=1</guid>
+            <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Learn Framer Motion in Ten Tweets]]></title>
-            <link>https://twitter.com/willjohnsonio/status/1396857844973064202</link>
-            <guid>https://twitter.com/willjohnsonio/status/1396857844973064202</guid>
-            <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Top Seven Libraries for Blazingly Fast React Applications]]></title>
+            <link>https://t.co/3n5Rtwz0ax?amp=1</link>
+            <guid>https://t.co/3n5Rtwz0ax?amp=1</guid>
+            <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Creating Data Visualizations with D3 and React]]></title>
-            <link>https://dev.to/codesphere/creating-data-visualizations-with-d3-and-reactjs-10ei</link>
-            <guid>https://dev.to/codesphere/creating-data-visualizations-with-d3-and-reactjs-10ei</guid>
-            <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Seven Steps to Modernize and Optimize Your React App]]></title>
+            <link>https://t.co/c3f4Roio1c?amp=1</link>
+            <guid>https://t.co/c3f4Roio1c?amp=1</guid>
+            <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How To Implement Authentication in Next.js with Auth0]]></title>
-            <link>https://www.smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/</link>
-            <guid>https://www.smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/</guid>
-            <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[xstyled 3.0: A Utility-First CSS-in-JS Framework Built for React]]></title>
+            <link>https://xstyled.dev/</link>
+            <guid>https://xstyled.dev/</guid>
+            <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[react-img-carousel]]></title>
-            <link>https://github.com/godaddy/react-img-carousel</link>
-            <guid>https://github.com/godaddy/react-img-carousel</guid>
-            <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Windmill React UI: Fast, Accessible and 'Gorgeous' UIs]]></title>
+            <link>https://windmillui.com/react-ui</link>
+            <guid>https://windmillui.com/react-ui</guid>
+            <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Boilerplate for SSR’d Vite, React 17, and TypeScript 4.3]]></title>
-            <link>https://blog.jonlu.ca/posts/vite</link>
-            <guid>https://blog.jonlu.ca/posts/vite</guid>
-            <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[react-swipeable-views: A 'Swipeable' UI Made Easy]]></title>
+            <link>https://github.com/oliviertassinari/react-swipeable-views</link>
+            <guid>https://github.com/oliviertassinari/react-swipeable-views</guid>
+            <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React CSS Theme Switcher]]></title>
-            <link>https://github.com/JoseRFelix/react-css-theme-switcher</link>
-            <guid>https://github.com/JoseRFelix/react-css-theme-switcher</guid>
-            <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[react-simple-flowchart: Flowchart Component Based on flowchart.js]]></title>
+            <link>https://github.com/alwinn1977/react-simple-flowchart</link>
+            <guid>https://github.com/alwinn1977/react-simple-flowchart</guid>
+            <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[govuk-react: The GOV.UK Design System, Now for React]]></title>
-            <link>https://github.com/govuk-react/govuk-react</link>
-            <guid>https://github.com/govuk-react/govuk-react</guid>
-            <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[react-easy-crop: Crop Both Images and Video]]></title>
+            <link>https://github.com/ricardo-ch/react-easy-crop</link>
+            <guid>https://github.com/ricardo-ch/react-easy-crop</guid>
+            <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[PanWriter: An Editor with Integrated Preview and Pandoc Support]]></title>
-            <link>https://github.com/mb21/panwriter</link>
-            <guid>https://github.com/mb21/panwriter</guid>
-            <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[React Slider: Flexible Input of Numeric Ranges]]></title>
+            <link>https://github.com/zillow/react-slider</link>
+            <guid>https://github.com/zillow/react-slider</guid>
+            <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

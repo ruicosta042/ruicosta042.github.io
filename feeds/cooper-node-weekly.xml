@@ -4,63 +4,93 @@
         <title>Node Weekly</title>
         <link>https://nodeweekly.com/</link>
         <description>A free, once–weekly e-mail round-up of Node.js news and articles.</description>
-        <lastBuildDate>Fri, 28 May 2021 08:28:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Jun 2021 09:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[How To Create Your First Flow in Node-RED]]></title>
-            <link>https://www.youtube.com/watch?v=cVWVr_T7kQ0</link>
-            <guid>https://www.youtube.com/watch?v=cVWVr_T7kQ0</guid>
-            <pubDate>Thu, 27 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Electron 13.0 Released]]></title>
+            <link>https://www.electronjs.org/blog/electron-13-0</link>
+            <guid>https://www.electronjs.org/blog/electron-13-0</guid>
+            <pubDate>Thu, 03 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Introducing WebContainers: Running Node.js Natively in the Browser]]></title>
-            <link>https://blog.stackblitz.com/posts/introducing-webcontainers/</link>
-            <guid>https://blog.stackblitz.com/posts/introducing-webcontainers/</guid>
-            <pubDate>Thu, 27 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Node v16.3.0 (Current) Released]]></title>
+            <link>https://nodejs.org/en/blog/release/v16.3.0/</link>
+            <guid>https://nodejs.org/en/blog/release/v16.3.0/</guid>
+            <pubDate>Thu, 03 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Vendure v1.0: An Open Source, Node.js E-commerce Framework]]></title>
-            <link>https://www.vendure.io/blog/2021/05/announcing-vendure-v1.0/</link>
-            <guid>https://www.vendure.io/blog/2021/05/announcing-vendure-v1.0/</guid>
-            <pubDate>Thu, 27 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Writing Custom REPLs in Node]]></title>
+            <link>https://nathan.vegas/blog/post/1/</link>
+            <guid>https://nathan.vegas/blog/post/1/</guid>
+            <pubDate>Thu, 03 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Snyk to Take On Responsibility for Node Ecosystem Vulnerability Disclosure Program]]></title>
-            <link>https://snyk.io/blog/snyk-takes-on-node-js-ecosystem-vulnerability-disclosure-program/</link>
-            <guid>https://snyk.io/blog/snyk-takes-on-node-js-ecosystem-vulnerability-disclosure-program/</guid>
-            <pubDate>Thu, 27 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[On the Diverse And Fantastical Shapes of Testing]]></title>
+            <link>https://martinfowler.com/articles/2021-test-shapes.html</link>
+            <guid>https://martinfowler.com/articles/2021-test-shapes.html</guid>
+            <pubDate>Thu, 03 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Deep Dive into Rust for Node Developers]]></title>
-            <link>https://t.co/zGXSCebFT8?amp=1</link>
-            <guid>https://t.co/zGXSCebFT8?amp=1</guid>
-            <pubDate>Thu, 27 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How We Debugged And Fixed EMFILE: too many files open on AWS Lambda]]></title>
+            <link>https://bahr.dev/2021/06/03/lambda-emfile/</link>
+            <guid>https://bahr.dev/2021/06/03/lambda-emfile/</guid>
+            <pubDate>Thu, 03 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ts-node 10.0: TypeScript Execution and REPL for Node]]></title>
-            <link>https://typestrong.org/ts-node/</link>
-            <guid>https://typestrong.org/ts-node/</guid>
-            <pubDate>Thu, 27 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to Create a Monorepo for Multiple Node Packages]]></title>
+            <link>https://www.aspecto.io/blog/lerna-hello-world-how-to-create-a-monorepo-for-multiple-node-packages/</link>
+            <guid>https://www.aspecto.io/blog/lerna-hello-world-how-to-create-a-monorepo-for-multiple-node-packages/</guid>
+            <pubDate>Thu, 03 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[milliparsec: A Small, Dependency Free Body Parsing Library]]></title>
-            <link>https://github.com/talentlessguy/milliparsec</link>
-            <guid>https://github.com/talentlessguy/milliparsec</guid>
-            <pubDate>Thu, 27 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to Build a Realtime Chat App in 10 Minutes]]></title>
+            <link>https://www.youtube.com/watch?v=pppwJ9gIrZ0</link>
+            <guid>https://www.youtube.com/watch?v=pppwJ9gIrZ0</guid>
+            <pubDate>Thu, 03 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[node-notifier 10.0: Cross Platform Native Notifications from Node]]></title>
-            <link>https://github.com/mikaelbr/node-notifier</link>
-            <guid>https://github.com/mikaelbr/node-notifier</guid>
-            <pubDate>Thu, 27 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[NocoDB: An Open Source Airtable-a-Like]]></title>
+            <link>https://github.com/nocodb/nocodb</link>
+            <guid>https://github.com/nocodb/nocodb</guid>
+            <pubDate>Thu, 03 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to Add Login to a Node App with Cloudflare Argo Tunnels]]></title>
-            <link>https://mydigitalmark.com/add-login-to-nodejs-with-cloudflare-argo-tunnels/</link>
-            <guid>https://mydigitalmark.com/add-login-to-nodejs-with-cloudflare-argo-tunnels/</guid>
-            <pubDate>Thu, 27 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[awesome-nodejs-security: A Curated List of Node.js Security Resources]]></title>
+            <link>https://github.com/lirantal/awesome-nodejs-security</link>
+            <guid>https://github.com/lirantal/awesome-nodejs-security</guid>
+            <pubDate>Thu, 03 Jun 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Execa 5.1: A Better child_process]]></title>
+            <link>https://github.com/sindresorhus/execa</link>
+            <guid>https://github.com/sindresorhus/execa</guid>
+            <pubDate>Thu, 03 Jun 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Forever 4.0: Ensure a Script Runs Continuously]]></title>
+            <link>https://github.com/foreversd/forever</link>
+            <guid>https://github.com/foreversd/forever</guid>
+            <pubDate>Thu, 03 Jun 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Using Async, Await, and Promises in Express]]></title>
+            <link>https://www.youtube.com/watch?v=XFn0SJmGYs4</link>
+            <guid>https://www.youtube.com/watch?v=XFn0SJmGYs4</guid>
+            <pubDate>Thu, 03 Jun 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Reduce RAM Consumption When Using ts-node]]></title>
+            <link>https://www.aspecto.io/blog/how-to-reduce-ram-consumption-by-x6-when-using-ts-node/</link>
+            <guid>https://www.aspecto.io/blog/how-to-reduce-ram-consumption-by-x6-when-using-ts-node/</guid>
+            <pubDate>Thu, 03 Jun 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ssh2 v1: Pure JavaScript SSH2 Client and Server Modules for Node]]></title>
+            <link>https://github.com/mscdex/ssh2</link>
+            <guid>https://github.com/mscdex/ssh2</guid>
+            <pubDate>Thu, 03 Jun 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

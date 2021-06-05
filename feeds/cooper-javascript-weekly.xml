@@ -4,123 +4,141 @@
         <title>JavaScript Weekly</title>
         <link>https://javascriptweekly.com/</link>
         <description>A newsletter of JavaScript articles, news and cool projects</description>
-        <lastBuildDate>Tue, 01 Jun 2021 09:04:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Jun 2021 08:22:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Sparkplug: V8's Non-Optimizing JavaScript Compiler]]></title>
-            <link>https://v8.dev/blog/sparkplug</link>
-            <guid>https://v8.dev/blog/sparkplug</guid>
-            <pubDate>Fri, 28 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Making JavaScript Run Fast on WebAssembly]]></title>
+            <link>https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly</link>
+            <guid>https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly</guid>
+            <pubDate>Fri, 04 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[TypeScript 4.3 Released]]></title>
-            <link>https://devblogs.microsoft.com/typescript/announcing-typescript-4-3/</link>
-            <guid>https://devblogs.microsoft.com/typescript/announcing-typescript-4-3/</guid>
-            <pubDate>Fri, 28 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Svelte for the Experienced React Dev]]></title>
+            <link>https://css-tricks.com/svelte-for-the-experienced-react-dev/</link>
+            <guid>https://css-tricks.com/svelte-for-the-experienced-react-dev/</guid>
+            <pubDate>Fri, 04 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jest 27 Released, Complete with Some New Defaults]]></title>
-            <link>https://jestjs.io/blog/2021/05/25/jest-27</link>
-            <guid>https://jestjs.io/blog/2021/05/25/jest-27</guid>
-            <pubDate>Fri, 28 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[The History of Angular with Misko Hevery]]></title>
+            <link>https://share.transistor.fm/s/28cff55e</link>
+            <guid>https://share.transistor.fm/s/28cff55e</guid>
+            <pubDate>Fri, 04 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How To Create Your First Flow in Node-RED]]></title>
-            <link>https://www.youtube.com/watch?v=cVWVr_T7kQ0</link>
-            <guid>https://www.youtube.com/watch?v=cVWVr_T7kQ0</guid>
-            <pubDate>Fri, 28 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Getting Started with webpack]]></title>
+            <link>https://www.smashingmagazine.com/2021/06/getting-started-webpack/</link>
+            <guid>https://www.smashingmagazine.com/2021/06/getting-started-webpack/</guid>
+            <pubDate>Fri, 04 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Thorough Analysis of CSS-in-JS]]></title>
-            <link>https://css-tricks.com/a-thorough-analysis-of-css-in-js/</link>
-            <guid>https://css-tricks.com/a-thorough-analysis-of-css-in-js/</guid>
-            <pubDate>Fri, 28 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[State Management in Vue 3 Applications with Vuex]]></title>
+            <link>https://auth0.com/blog/state-management-in-vue-3-applications/</link>
+            <guid>https://auth0.com/blog/state-management-in-vue-3-applications/</guid>
+            <pubDate>Fri, 04 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Building a Rich WYSIWYG Text Editor From Scratch]]></title>
-            <link>https://www.smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/</link>
-            <guid>https://www.smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/</guid>
-            <pubDate>Fri, 28 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[An Introduction to WebAssembly for JavaScript Developers]]></title>
+            <link>https://pascalpares.appspot.ovh/webassembly-for-javascript-developers/</link>
+            <guid>https://pascalpares.appspot.ovh/webassembly-for-javascript-developers/</guid>
+            <pubDate>Fri, 04 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Modern Guide to React State Patterns]]></title>
-            <link>https://blog.logrocket.com/modern-guide-react-state-patterns/</link>
-            <guid>https://blog.logrocket.com/modern-guide-react-state-patterns/</guid>
-            <pubDate>Fri, 28 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[An Introduction to Trigonometry with CSS and JavaScript]]></title>
+            <link>https://tympanus.net/codrops/2021/06/01/trigonometry-in-css-and-javascript-introduction-to-trigonometry/</link>
+            <guid>https://tympanus.net/codrops/2021/06/01/trigonometry-in-css-and-javascript-introduction-to-trigonometry/</guid>
+            <pubDate>Fri, 04 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[New Standards to Access User Device Hardware from JavaScript]]></title>
-            <link>https://blog.bitsrc.io/new-standards-to-access-user-device-hardware-using-javascript-86b0c156dd3d</link>
-            <guid>https://blog.bitsrc.io/new-standards-to-access-user-device-hardware-using-javascript-86b0c156dd3d</guid>
-            <pubDate>Fri, 28 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[A Chat with TC39 Delegate Daniel Ehrenberg]]></title>
+            <link>https://tc39er.us/posts/episode-12-daniel-ehrenberg/</link>
+            <guid>https://tc39er.us/posts/episode-12-daniel-ehrenberg/</guid>
+            <pubDate>Fri, 04 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Using Pinia, an Alternative Vue.js Store]]></title>
-            <link>https://vueschool.io/articles/vuejs-tutorials/pinia-an-alternative-vue-js-store/</link>
-            <guid>https://vueschool.io/articles/vuejs-tutorials/pinia-an-alternative-vue-js-store/</guid>
-            <pubDate>Fri, 28 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to Use Pivot Tables with SpreadJS]]></title>
+            <link>https://www.grapecity.com/blogs/how-to-use-pivot-tables-with-spreadjs</link>
+            <guid>https://www.grapecity.com/blogs/how-to-use-pivot-tables-with-spreadjs</guid>
+            <pubDate>Fri, 04 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Get Started with React by Building a 'Whac-a-Mole' Game]]></title>
-            <link>https://www.smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/</link>
-            <guid>https://www.smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/</guid>
-            <pubDate>Fri, 28 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[D3Funnel 2.0: A Library for Rendering Funnel Charts using D3.js]]></title>
+            <link>https://jakezatecky.github.io/d3-funnel/</link>
+            <guid>https://jakezatecky.github.io/d3-funnel/</guid>
+            <pubDate>Fri, 04 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Where's The Best Place to Host a Next.js Site?]]></title>
-            <link>https://kontent.ai/blog/comparison-of-jamstack-hosting-platforms-for-next-js</link>
-            <guid>https://kontent.ai/blog/comparison-of-jamstack-hosting-platforms-for-next-js</guid>
-            <pubDate>Fri, 28 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Jsonmatic: Transform CSV Data into JSON]]></title>
+            <link>https://jsonmatic.com/</link>
+            <guid>https://jsonmatic.com/</guid>
+            <pubDate>Fri, 04 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Boring Avatars: React Library to Generate Custom Avatars]]></title>
-            <link>https://boringavatars.com/</link>
-            <guid>https://boringavatars.com/</guid>
-            <pubDate>Fri, 28 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[ts-audio: Work with AudioContext More Easily]]></title>
+            <link>https://github.com/EvandroLG/ts-audio</link>
+            <guid>https://github.com/EvandroLG/ts-audio</guid>
+            <pubDate>Fri, 04 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[CandyGraph: A Fast, Flexible 2D Plotting Library]]></title>
-            <link>https://www.npmjs.com/package/candygraph</link>
-            <guid>https://www.npmjs.com/package/candygraph</guid>
-            <pubDate>Fri, 28 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[PLV8 3.0: V8 JavaScript, But for Postgres]]></title>
+            <link>https://github.com/plv8/plv8</link>
+            <guid>https://github.com/plv8/plv8</guid>
+            <pubDate>Fri, 04 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[threads.js: Web Workers Meet Worker Threads]]></title>
-            <link>https://threads.js.org/</link>
-            <guid>https://threads.js.org/</guid>
-            <pubDate>Fri, 28 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Handsontable 9.0: A Mature Data Grid That Feels Like a Spreadsheet]]></title>
+            <link>https://handsontable.com/</link>
+            <guid>https://handsontable.com/</guid>
+            <pubDate>Fri, 04 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NocoDB: An Open Source Airtable-a-Like]]></title>
-            <link>https://github.com/nocodb/nocodb</link>
-            <guid>https://github.com/nocodb/nocodb</guid>
-            <pubDate>Fri, 28 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Svelte-Motion: Animation Library for Svelte based on Framer Motion]]></title>
+            <link>https://svelte-motion.gradientdescent.de/</link>
+            <guid>https://svelte-motion.gradientdescent.de/</guid>
+            <pubDate>Fri, 04 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Beginner's Guide to Vue 3]]></title>
-            <link>https://www.sitepoint.com/vue-3-beginner-guide/</link>
-            <guid>https://www.sitepoint.com/vue-3-beginner-guide/</guid>
-            <pubDate>Fri, 28 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How To Create User Interactions with Events in Vue]]></title>
+            <link>https://www.digitalocean.com/community/tutorials/how-to-create-user-interactions-with-events-in-vue</link>
+            <guid>https://www.digitalocean.com/community/tutorials/how-to-create-user-interactions-with-events-in-vue</guid>
+            <pubDate>Fri, 04 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ts-node 10.0: TypeScript Execution and REPL for Node]]></title>
-            <link>https://typestrong.org/ts-node/</link>
-            <guid>https://typestrong.org/ts-node/</guid>
-            <pubDate>Fri, 28 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Using Async, Await, and Promises in Express.js]]></title>
+            <link>https://m.youtube.com/watch?v=XFn0SJmGYs4</link>
+            <guid>https://m.youtube.com/watch?v=XFn0SJmGYs4</guid>
+            <pubDate>Fri, 04 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[eslint-plugin-tailwindcss: ESLint Plugin for Tailwind CSS Usage]]></title>
-            <link>https://github.com/francoismassart/eslint-plugin-tailwindcss</link>
-            <guid>https://github.com/francoismassart/eslint-plugin-tailwindcss</guid>
-            <pubDate>Fri, 28 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Using the X-Amzn-Trace-Id Header For Request Tracing Through Amazon's Load Balancers]]></title>
+            <link>https://www.bennadel.com/blog/4054-using-the-x-amzn-trace-id-header-for-request-tracing-through-amazons-load-balancers.htm</link>
+            <guid>https://www.bennadel.com/blog/4054-using-the-x-amzn-trace-id-header-for-request-tracing-through-amazons-load-balancers.htm</guid>
+            <pubDate>Fri, 04 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Velociraptor 1.0: npm-Style Script Runner for Deno]]></title>
-            <link>https://github.com/jurassiscripts/velociraptor</link>
-            <guid>https://github.com/jurassiscripts/velociraptor</guid>
-            <pubDate>Fri, 28 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to Memoize with React.useMemo()]]></title>
+            <link>https://dmitripavlutin.com/react-usememo-hook/</link>
+            <guid>https://dmitripavlutin.com/react-usememo-hook/</guid>
+            <pubDate>Fri, 04 Jun 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ethers.js: Complete Ethereum Library and Wallet Implementation in JS]]></title>
+            <link>https://github.com/ethers-io/ethers.js</link>
+            <guid>https://github.com/ethers-io/ethers.js</guid>
+            <pubDate>Fri, 04 Jun 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[useStateMachine: The ½KB State Machine React Hook]]></title>
+            <link>https://github.com/cassiozen/useStateMachine</link>
+            <guid>https://github.com/cassiozen/useStateMachine</guid>
+            <pubDate>Fri, 04 Jun 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Vue 3 Starter App with Vite, TypeScript, ESLint and Prettier]]></title>
+            <link>https://github.com/Jenyus-Org/vite-vue3-starter</link>
+            <guid>https://github.com/Jenyus-Org/vite-vue3-starter</guid>
+            <pubDate>Fri, 04 Jun 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

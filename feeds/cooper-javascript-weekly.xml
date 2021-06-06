@@ -4,7 +4,7 @@
         <title>JavaScript Weekly</title>
         <link>https://javascriptweekly.com/</link>
         <description>A newsletter of JavaScript articles, news and cool projects</description>
-        <lastBuildDate>Sat, 05 Jun 2021 08:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Jun 2021 08:25:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -106,8 +106,8 @@
         </item>
         <item>
             <title><![CDATA[Using Async, Await, and Promises in Express.js]]></title>
-            <link>https://m.youtube.com/watch?v=XFn0SJmGYs4</link>
-            <guid>https://m.youtube.com/watch?v=XFn0SJmGYs4</guid>
+            <link>https://www.youtube.com/watch?v=XFn0SJmGYs4</link>
+            <guid>https://www.youtube.com/watch?v=XFn0SJmGYs4</guid>
             <pubDate>Fri, 04 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>

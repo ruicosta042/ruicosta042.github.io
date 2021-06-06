@@ -42,6 +42,7 @@
 
 |                      |                                                                                              |
 | -------------------- | -------------------------------------------------------------------------------------------- |
+| Daniel E. Lieberman  | The Story of the Human Body: Evolution, Health, and Disease                                  |
 | David A. Sinclair    | Lifespan: Why We Age - and Why We Don't Have to                                              |
 | David Quammen        | Spillover: Animal Infections and the Next Human Pandemic                                     |
 | David Spiegelhalter  | The Art of Statistics: Learning from Data                                                    |

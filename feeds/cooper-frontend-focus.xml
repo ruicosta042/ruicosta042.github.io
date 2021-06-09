@@ -4,7 +4,7 @@
         <title>Frontend Focus</title>
         <link>https://frontendfoc.us/</link>
         <description>A once–weekly roundup of the best front-end news, articles and tutorials. HTML, CSS, WebGL, Canvas, browser tech, and more.</description>
-        <lastBuildDate>Thu, 03 Jun 2021 08:50:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Jun 2021 07:55:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -34,8 +34,8 @@
         </item>
         <item>
             <title><![CDATA[The Perfect Link]]></title>
-            <link>https://a11y-collective.com/blog/the-perfect-link/</link>
-            <guid>https://a11y-collective.com/blog/the-perfect-link/</guid>
+            <link>https://www.a11y-collective.com/blog/the-perfect-link/</link>
+            <guid>https://www.a11y-collective.com/blog/the-perfect-link/</guid>
             <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>

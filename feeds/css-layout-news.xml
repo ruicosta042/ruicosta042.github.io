@@ -4,10 +4,59 @@
         <title>CSS Layout News</title>
         <link>https://csslayout.news/</link>
         <description>Weekly CSS layout newsletter and resource site by Rachel Andrew</description>
-        <lastBuildDate>Wed, 02 Jun 2021 07:09:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Jun 2021 18:37:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[WebKit Features in Safari at WWDC21]]></title>
+            <link>https://webkit.org/blog/11700/webkit-features-in-safari-at-wwdc21/</link>
+            <guid>https://webkit.org/blog/11700/webkit-features-in-safari-at-wwdc21/</guid>
+            <pubDate>Tue, 08 Jun 2021 18:33:57 GMT</pubDate>
+            <description><![CDATA[Apple's WWDC is happening right now, and all the session video is being released for free. On Friday you can watch Design for Safari 15, a talk for those developing for the web.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Safari Beta Release Notes]]></title>
+            <link>https://developer.apple.com/documentation/safari-release-notes/safari-15-beta-release-notes#CSS</link>
+            <guid>https://developer.apple.com/documentation/safari-release-notes/safari-15-beta-release-notes#CSS</guid>
+            <pubDate>Tue, 08 Jun 2021 18:33:57 GMT</pubDate>
+            <description><![CDATA[Includes the lab(), lch(), and lwb() color syntaxes, plus aspect-ratio for boxes.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[CSS for Web Vitals]]></title>
+            <link>https://web.dev/css-web-vitals/</link>
+            <guid>https://web.dev/css-web-vitals/</guid>
+            <pubDate>Tue, 08 Jun 2021 18:33:57 GMT</pubDate>
+            <description><![CDATA[CSS-related tips for optimizing Core Web Vitals, in particular things which impact Cumulative Layout Shift (CLS) and Largest Contentful Paint (LCP).]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Best practices for fonts]]></title>
+            <link>https://web.dev/font-best-practices/</link>
+            <guid>https://web.dev/font-best-practices/</guid>
+            <pubDate>Tue, 08 Jun 2021 18:33:57 GMT</pubDate>
+            <description><![CDATA[Staying with the Core Web Vitals theme, this article gives help for the various aspects of the font lifecycle: font loading, font delivery, and font rendering.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries]]></title>
+            <link>https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/</link>
+            <guid>https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/</guid>
+            <pubDate>Tue, 08 Jun 2021 18:33:57 GMT</pubDate>
+            <description><![CDATA[This is a really great article. It covers a whole lot of things about CSS, that you'll find interesting even if building a hexagon grid is not a use case you come across all that often.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Trigonometry in CSS and JavaScript]]></title>
+            <link>https://tympanus.net/codrops/2021/06/01/trigonometry-in-css-and-javascript-introduction-to-trigonometry/</link>
+            <guid>https://tympanus.net/codrops/2021/06/01/trigonometry-in-css-and-javascript-introduction-to-trigonometry/</guid>
+            <pubDate>Tue, 08 Jun 2021 18:33:57 GMT</pubDate>
+            <description><![CDATA[This is the first in a three part series (all the parts are available) introducing and explaining how trigonometry can be useful.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Can I :has]]></title>
+            <link>https://bkardell.com/blog/canihas.html</link>
+            <guid>https://bkardell.com/blog/canihas.html</guid>
+            <pubDate>Tue, 08 Jun 2021 18:33:57 GMT</pubDate>
+            <description><![CDATA[Igalia are filing an Intent to Prototype the :has() selector. Brian explains why implementing this selector is a trickly problem to solve.]]></description>
+        </item>
         <item>
             <title><![CDATA[Firefox 89]]></title>
             <link>https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/89</link>
@@ -637,48 +686,6 @@
             <guid>https://glassmorphism.com/</guid>
             <pubDate>Tue, 02 Mar 2021 20:30:00 GMT</pubDate>
             <description><![CDATA[A generator to create the "frosted glass aesthetic" which combines a partially transparent background with backdrop-filter to create the effect.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Firefox 86 for developers - Mozilla | MDN]]></title>
-            <link>https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/86</link>
-            <guid>https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/86</guid>
-            <pubDate>Tue, 23 Feb 2021 20:27:00 GMT</pubDate>
-            <description><![CDATA[Firefox 86 lands today, only a couple of little CSS changes this time. With list-style-image accepting any valid image type in Firefox, you can now use a gradient for a bullet in all browsers. I'm not 100% sure why you would want to, but it's always nice to have options.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Getting Deep into Shadows | CSS-Tricks]]></title>
-            <link>https://css-tricks.com/getting-deep-into-shadows/</link>
-            <guid>https://css-tricks.com/getting-deep-into-shadows/</guid>
-            <pubDate>Tue, 23 Feb 2021 20:27:00 GMT</pubDate>
-            <description><![CDATA[This is nice because it explains how and why to use shadows, not just technically how to add a shadow.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Building a ‘Table Of Contents’ with active indicator using JavaScript Intersection Observers – Ben Frain]]></title>
-            <link>https://benfrain.com/building-a-table-of-contents-with-active-indicator-using-javascript-intersection-observers/</link>
-            <guid>https://benfrain.com/building-a-table-of-contents-with-active-indicator-using-javascript-intersection-observers/</guid>
-            <pubDate>Tue, 23 Feb 2021 20:27:00 GMT</pubDate>
-            <description><![CDATA[A post explaining how to use Intersection Observer for this task. I like the fact it references the way we used to do things. How often do we reach for a technique because we've done it a million times before, without checking to see if the web moved on a bit?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Maximally optimizing image loading for the web in 2021]]></title>
-            <link>https://www.industrialempathy.com/posts/image-optimizations/</link>
-            <guid>https://www.industrialempathy.com/posts/image-optimizations/</guid>
-            <pubDate>Tue, 23 Feb 2021 20:27:00 GMT</pubDate>
-            <description><![CDATA[Some excellent tips here, plus I like the progress indicator at the top of the page!]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Barebones CSS for Fluid Images—zachleat.com]]></title>
-            <link>https://www.zachleat.com/web/fluid-images/</link>
-            <guid>https://www.zachleat.com/web/fluid-images/</guid>
-            <pubDate>Tue, 23 Feb 2021 20:27:00 GMT</pubDate>
-            <description><![CDATA[What is the best way to make an image fluid?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Building a Tabs component]]></title>
-            <link>https://web.dev/building-a-tabs-component/</link>
-            <guid>https://web.dev/building-a-tabs-component/</guid>
-            <pubDate>Tue, 23 Feb 2021 20:27:00 GMT</pubDate>
-            <description><![CDATA[A guide to building a tabbed component, there is also a video version of this tutorial if you prefer.]]></description>
         </item>
     </channel>
 </rss>

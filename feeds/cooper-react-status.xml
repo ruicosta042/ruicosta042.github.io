@@ -4,105 +4,123 @@
         <title>React Status</title>
         <link>https://react.statuscode.com/</link>
         <description>A weekly roundup of the latest React and React Native links and tutorials.</description>
-        <lastBuildDate>Thu, 03 Jun 2021 08:50:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Jun 2021 07:59:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Top React Component Libraries (2021 Edition)]]></title>
-            <link>https://retool.com/blog/react-component-libraries/</link>
-            <guid>https://retool.com/blog/react-component-libraries/</guid>
-            <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[The Plan for React 18]]></title>
+            <link>https://reactjs.org/blog/2021/06/08/the-plan-for-react-18.html</link>
+            <guid>https://reactjs.org/blog/2021/06/08/the-plan-for-react-18.html</guid>
+            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Svelte for the Experienced React Dev]]></title>
-            <link>https://css-tricks.com/svelte-for-the-experienced-react-dev/</link>
-            <guid>https://css-tricks.com/svelte-for-the-experienced-react-dev/</guid>
-            <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Why Is My React App Slow?]]></title>
+            <link>https://www.smashingmagazine.com/2021/06/smashing-podcast-episode-38/</link>
+            <guid>https://www.smashingmagazine.com/2021/06/smashing-podcast-episode-38/</guid>
+            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[useStateMachine: The ½KB State Machine Hook]]></title>
-            <link>https://github.com/cassiozen/useStateMachine</link>
-            <guid>https://github.com/cassiozen/useStateMachine</guid>
-            <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Introducing Reactron]]></title>
+            <link>https://t.co/CfGjsxLnig?amp=1</link>
+            <guid>https://t.co/CfGjsxLnig?amp=1</guid>
+            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Why We Need to Stop Using React']]></title>
-            <link>https://t.co/Wo42UoizzO?amp=1</link>
-            <guid>https://t.co/Wo42UoizzO?amp=1</guid>
-            <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to Create a React Table Component with Resizable Columns]]></title>
+            <link>https://www.robinwieruch.de/react-table-component/</link>
+            <guid>https://www.robinwieruch.de/react-table-component/</guid>
+            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Introduction to Framer Motion for React]]></title>
-            <link>https://t.co/mRUN8EscAL?amp=1</link>
-            <guid>https://t.co/mRUN8EscAL?amp=1</guid>
-            <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to Memoize with React.useMemo()]]></title>
+            <link>https://dmitripavlutin.com/react-usememo-hook/</link>
+            <guid>https://dmitripavlutin.com/react-usememo-hook/</guid>
+            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to Use Testing Library to Test Storybook]]></title>
-            <link>https://t.co/V5LJMoSlG7?amp=1</link>
-            <guid>https://t.co/V5LJMoSlG7?amp=1</guid>
-            <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[The Modern Guide to React State Patterns]]></title>
+            <link>https://blog.logrocket.com/modern-guide-react-state-patterns/</link>
+            <guid>https://blog.logrocket.com/modern-guide-react-state-patterns/</guid>
+            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dynamic vs Static Routing in React]]></title>
-            <link>https://t.co/TgUGVyOX1A?amp=1</link>
-            <guid>https://t.co/TgUGVyOX1A?amp=1</guid>
-            <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Why React Hooks Cannot Be Conditioned]]></title>
+            <link>https://blog.atomrc.dev/p/why-you-cannot-condition-react-hooks/</link>
+            <guid>https://blog.atomrc.dev/p/why-you-cannot-condition-react-hooks/</guid>
+            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Journey of Improving React App Performance by 10x]]></title>
-            <link>https://t.co/qnN8obF6Sl?amp=1</link>
-            <guid>https://t.co/qnN8obF6Sl?amp=1</guid>
-            <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to Create a Jumping Text Input Label]]></title>
+            <link>https://t.co/c3qwh1fTeH?amp=1</link>
+            <guid>https://t.co/c3qwh1fTeH?amp=1</guid>
+            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Top Seven Libraries for Blazingly Fast React Applications]]></title>
-            <link>https://t.co/3n5Rtwz0ax?amp=1</link>
-            <guid>https://t.co/3n5Rtwz0ax?amp=1</guid>
-            <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Lessons on Writing JavaScript and React from ClojureScript]]></title>
+            <link>https://jerue.org/blog/lessons-on-writing-javascript-and-react-from-clojurescript/</link>
+            <guid>https://jerue.org/blog/lessons-on-writing-javascript-and-react-from-clojurescript/</guid>
+            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Seven Steps to Modernize and Optimize Your React App]]></title>
-            <link>https://t.co/c3f4Roio1c?amp=1</link>
-            <guid>https://t.co/c3f4Roio1c?amp=1</guid>
-            <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[React SEO Strategies and Best Practices]]></title>
+            <link>https://www.toptal.com/react/react-seo-best-practices</link>
+            <guid>https://www.toptal.com/react/react-seo-best-practices</guid>
+            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[xstyled 3.0: A Utility-First CSS-in-JS Framework Built for React]]></title>
-            <link>https://xstyled.dev/</link>
-            <guid>https://xstyled.dev/</guid>
-            <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[What You Should Learn before Learning React Native]]></title>
+            <link>https://blog.logrocket.com/what-you-should-learn-before-learning-react-native/</link>
+            <guid>https://blog.logrocket.com/what-you-should-learn-before-learning-react-native/</guid>
+            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Windmill React UI: Fast, Accessible and 'Gorgeous' UIs]]></title>
-            <link>https://windmillui.com/react-ui</link>
-            <guid>https://windmillui.com/react-ui</guid>
-            <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to Create a Blog with Gatsby]]></title>
+            <link>https://t.co/zJo5GYw72g?amp=1</link>
+            <guid>https://t.co/zJo5GYw72g?amp=1</guid>
+            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[react-swipeable-views: A 'Swipeable' UI Made Easy]]></title>
-            <link>https://github.com/oliviertassinari/react-swipeable-views</link>
-            <guid>https://github.com/oliviertassinari/react-swipeable-views</guid>
-            <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Boring Avatars: React Library to Generate Custom Avatars]]></title>
+            <link>https://boringavatars.com/</link>
+            <guid>https://boringavatars.com/</guid>
+            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[react-simple-flowchart: Flowchart Component Based on flowchart.js]]></title>
-            <link>https://github.com/alwinn1977/react-simple-flowchart</link>
-            <guid>https://github.com/alwinn1977/react-simple-flowchart</guid>
-            <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Eleven Libraries to Take Your React App up a Notch]]></title>
+            <link>https://t.co/aJ3U8y34oU?amp=1</link>
+            <guid>https://t.co/aJ3U8y34oU?amp=1</guid>
+            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[react-easy-crop: Crop Both Images and Video]]></title>
-            <link>https://github.com/ricardo-ch/react-easy-crop</link>
-            <guid>https://github.com/ricardo-ch/react-easy-crop</guid>
-            <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[react-native-multithreading: Spin Off Blocking Calls to a Separate Thread]]></title>
+            <link>https://github.com/mrousavy/react-native-multithreading</link>
+            <guid>https://github.com/mrousavy/react-native-multithreading</guid>
+            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React Slider: Flexible Input of Numeric Ranges]]></title>
-            <link>https://github.com/zillow/react-slider</link>
-            <guid>https://github.com/zillow/react-slider</guid>
-            <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Twilio Video React App: Multi-Party Video Application]]></title>
+            <link>https://github.com/twilio/twilio-video-app-react</link>
+            <guid>https://github.com/twilio/twilio-video-app-react</guid>
+            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lepton: Lean Code Snippet Manager Based on Github Gists]]></title>
+            <link>https://github.com/hackjutsu/Lepton</link>
+            <guid>https://github.com/hackjutsu/Lepton</guid>
+            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[sweetalert2-react-content: Extends SweetAlert2 to React Elements]]></title>
+            <link>https://github.com/sweetalert2/sweetalert2-react-content</link>
+            <guid>https://github.com/sweetalert2/sweetalert2-react-content</guid>
+            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Programmatically Change a Route in Next.js]]></title>
+            <link>https://flaviocopes.com/nextjs-programmatically-change-route/</link>
+            <guid>https://flaviocopes.com/nextjs-programmatically-change-route/</guid>
+            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

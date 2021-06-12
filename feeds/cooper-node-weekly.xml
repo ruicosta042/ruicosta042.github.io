@@ -4,93 +4,75 @@
         <title>Node Weekly</title>
         <link>https://nodeweekly.com/</link>
         <description>A free, once–weekly e-mail round-up of Node.js news and articles.</description>
-        <lastBuildDate>Fri, 04 Jun 2021 09:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Jun 2021 07:46:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Electron 13.0 Released]]></title>
-            <link>https://www.electronjs.org/blog/electron-13-0</link>
-            <guid>https://www.electronjs.org/blog/electron-13-0</guid>
-            <pubDate>Thu, 03 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Introducing libSquoosh: Experimental Image Optimization from Node]]></title>
+            <link>https://web.dev/introducing-libsquoosh/</link>
+            <guid>https://web.dev/introducing-libsquoosh/</guid>
+            <pubDate>Thu, 10 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Node v16.3.0 (Current) Released]]></title>
-            <link>https://nodejs.org/en/blog/release/v16.3.0/</link>
-            <guid>https://nodejs.org/en/blog/release/v16.3.0/</guid>
-            <pubDate>Thu, 03 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Exploring Deno Land 🦕 with Ryan Dahl]]></title>
+            <link>https://changelog.com/podcast/443</link>
+            <guid>https://changelog.com/podcast/443</guid>
+            <pubDate>Thu, 10 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Writing Custom REPLs in Node]]></title>
-            <link>https://nathan.vegas/blog/post/1/</link>
-            <guid>https://nathan.vegas/blog/post/1/</guid>
-            <pubDate>Thu, 03 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[PM2 5.0 Released: The Production Process Manager]]></title>
+            <link>https://github.com/Unitech/pm2/blob/master/CHANGELOG.md#500</link>
+            <guid>https://github.com/Unitech/pm2/blob/master/CHANGELOG.md#500</guid>
+            <pubDate>Thu, 10 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On the Diverse And Fantastical Shapes of Testing]]></title>
-            <link>https://martinfowler.com/articles/2021-test-shapes.html</link>
-            <guid>https://martinfowler.com/articles/2021-test-shapes.html</guid>
-            <pubDate>Thu, 03 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Don't Use Functions As Callbacks Unless They're Designed for It]]></title>
+            <link>https://jakearchibald.com/2021/function-callback-risks/</link>
+            <guid>https://jakearchibald.com/2021/function-callback-risks/</guid>
+            <pubDate>Thu, 10 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How We Debugged And Fixed EMFILE: too many files open on AWS Lambda]]></title>
-            <link>https://bahr.dev/2021/06/03/lambda-emfile/</link>
-            <guid>https://bahr.dev/2021/06/03/lambda-emfile/</guid>
-            <pubDate>Thu, 03 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Mocha 9.0 Released: The Popular JavaScript Test Framework]]></title>
+            <link>https://github.com/mochajs/mocha</link>
+            <guid>https://github.com/mochajs/mocha</guid>
+            <pubDate>Thu, 10 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to Create a Monorepo for Multiple Node Packages]]></title>
-            <link>https://www.aspecto.io/blog/lerna-hello-world-how-to-create-a-monorepo-for-multiple-node-packages/</link>
-            <guid>https://www.aspecto.io/blog/lerna-hello-world-how-to-create-a-monorepo-for-multiple-node-packages/</guid>
-            <pubDate>Thu, 03 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[html-to-text 8.0: Advanced HTML to Text Converter]]></title>
+            <link>https://github.com/html-to-text/node-html-to-text</link>
+            <guid>https://github.com/html-to-text/node-html-to-text</guid>
+            <pubDate>Thu, 10 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to Build a Realtime Chat App in 10 Minutes]]></title>
-            <link>https://www.youtube.com/watch?v=pppwJ9gIrZ0</link>
-            <guid>https://www.youtube.com/watch?v=pppwJ9gIrZ0</guid>
-            <pubDate>Thu, 03 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[test-console: A Simple Library for Testing Node Console Output]]></title>
+            <link>https://github.com/jamesshore/test-console</link>
+            <guid>https://github.com/jamesshore/test-console</guid>
+            <pubDate>Thu, 10 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NocoDB: An Open Source Airtable-a-Like]]></title>
-            <link>https://github.com/nocodb/nocodb</link>
-            <guid>https://github.com/nocodb/nocodb</guid>
-            <pubDate>Thu, 03 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[node-localstorage: A Drop-In Substitute for the Browser Native localStorage API]]></title>
+            <link>https://github.com/lmaccherone/node-localstorage</link>
+            <guid>https://github.com/lmaccherone/node-localstorage</guid>
+            <pubDate>Thu, 10 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[awesome-nodejs-security: A Curated List of Node.js Security Resources]]></title>
-            <link>https://github.com/lirantal/awesome-nodejs-security</link>
-            <guid>https://github.com/lirantal/awesome-nodejs-security</guid>
-            <pubDate>Thu, 03 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Trash: Move Files and Directories to the 'Trash']]></title>
+            <link>https://github.com/sindresorhus/trash</link>
+            <guid>https://github.com/sindresorhus/trash</guid>
+            <pubDate>Thu, 10 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Execa 5.1: A Better child_process]]></title>
-            <link>https://github.com/sindresorhus/execa</link>
-            <guid>https://github.com/sindresorhus/execa</guid>
-            <pubDate>Thu, 03 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Discord.js: A Library for Interacting with Discord's API]]></title>
+            <link>https://github.com/discordjs/discord.js</link>
+            <guid>https://github.com/discordjs/discord.js</guid>
+            <pubDate>Thu, 10 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Forever 4.0: Ensure a Script Runs Continuously]]></title>
-            <link>https://github.com/foreversd/forever</link>
-            <guid>https://github.com/foreversd/forever</guid>
-            <pubDate>Thu, 03 Jun 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Using Async, Await, and Promises in Express]]></title>
-            <link>https://www.youtube.com/watch?v=XFn0SJmGYs4</link>
-            <guid>https://www.youtube.com/watch?v=XFn0SJmGYs4</guid>
-            <pubDate>Thu, 03 Jun 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Reduce RAM Consumption When Using ts-node]]></title>
-            <link>https://www.aspecto.io/blog/how-to-reduce-ram-consumption-by-x6-when-using-ts-node/</link>
-            <guid>https://www.aspecto.io/blog/how-to-reduce-ram-consumption-by-x6-when-using-ts-node/</guid>
-            <pubDate>Thu, 03 Jun 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ssh2 v1: Pure JavaScript SSH2 Client and Server Modules for Node]]></title>
-            <link>https://github.com/mscdex/ssh2</link>
-            <guid>https://github.com/mscdex/ssh2</guid>
-            <pubDate>Thu, 03 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Some Reasons Why Bugs Might Feel 'Impossible' to Resolve]]></title>
+            <link>https://jvns.ca/blog/2021/06/08/reasons-why-bugs-might-feel-impossible/</link>
+            <guid>https://jvns.ca/blog/2021/06/08/reasons-why-bugs-might-feel-impossible/</guid>
+            <pubDate>Thu, 10 Jun 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

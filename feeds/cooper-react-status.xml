@@ -4,7 +4,7 @@
         <title>React Status</title>
         <link>https://react.statuscode.com/</link>
         <description>A weekly roundup of the latest React and React Native links and tutorials.</description>
-        <lastBuildDate>Thu, 10 Jun 2021 07:59:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Jun 2021 07:46:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -58,8 +58,8 @@
         </item>
         <item>
             <title><![CDATA[Lessons on Writing JavaScript and React from ClojureScript]]></title>
-            <link>https://jerue.org/blog/lessons-on-writing-javascript-and-react-from-clojurescript/</link>
-            <guid>https://jerue.org/blog/lessons-on-writing-javascript-and-react-from-clojurescript/</guid>
+            <link>https://www.jerue.org/blog/lessons-on-writing-javascript-and-react-from-clojurescript/</link>
+            <guid>https://www.jerue.org/blog/lessons-on-writing-javascript-and-react-from-clojurescript/</guid>
             <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>

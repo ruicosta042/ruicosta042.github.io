@@ -4,69 +4,69 @@
         <title>Serverless Status</title>
         <link>https://serverless.email/</link>
         <description>A weekly newsletter on serverless and function-as-a-service (FaaS) architectures and platforms including AWS Lambda and Azure Functions.</description>
-        <lastBuildDate>Sat, 05 Jun 2021 08:23:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Jun 2021 07:47:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Serverless Rules: Rules to Validate Infrastructure-as-Code Templates Against Recommended Practices]]></title>
-            <link>https://github.com/awslabs/serverless-rules</link>
-            <guid>https://github.com/awslabs/serverless-rules</guid>
-            <pubDate>Fri, 04 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Lift 1.0: Easily Deploy Well-Designed Serverless Applications on AWS]]></title>
+            <link>https://github.com/getlift/lift</link>
+            <guid>https://github.com/getlift/lift</guid>
+            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Amazon SQS Now Supports a High Throughput Mode for FIFO Queues]]></title>
-            <link>https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-sqs-now-supports-a-high-throughput-mode-for-fifo-queues/</link>
-            <guid>https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-sqs-now-supports-a-high-throughput-mode-for-fifo-queues/</guid>
-            <pubDate>Fri, 04 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[AWS Proton Now Generally Available]]></title>
+            <link>https://aws.amazon.com/blogs/containers/announcing-the-general-availability-of-aws-proton/</link>
+            <guid>https://aws.amazon.com/blogs/containers/announcing-the-general-availability-of-aws-proton/</guid>
+            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Serverless Functions: The Secret to Ultra-Productive Front-End Teams]]></title>
-            <link>https://css-tricks.com/serverless-functions-the-secret-to-ultra-productive-front-end-teams/</link>
-            <guid>https://css-tricks.com/serverless-functions-the-secret-to-ultra-productive-front-end-teams/</guid>
-            <pubDate>Fri, 04 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[The Rise of 'Data Services' with Patrick McFadin]]></title>
+            <link>https://www.serverlesschats.com/104/</link>
+            <guid>https://www.serverlesschats.com/104/</guid>
+            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rethinking Postgres in a Post-Server World]]></title>
-            <link>https://css-tricks.com/rethinking-postgres-in-a-post-server-world/</link>
-            <guid>https://css-tricks.com/rethinking-postgres-in-a-post-server-world/</guid>
-            <pubDate>Fri, 04 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Lightbend Announces Akka Serverless Open Beta]]></title>
+            <link>https://www.infoq.com/news/2021/06/akka-serverless-open-beta/</link>
+            <guid>https://www.infoq.com/news/2021/06/akka-serverless-open-beta/</guid>
+            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[12 Common Misconceptions About DynamoDB]]></title>
-            <link>https://dynobase.dev/dynamodb-11-common-misconceptions/</link>
-            <guid>https://dynobase.dev/dynamodb-11-common-misconceptions/</guid>
-            <pubDate>Fri, 04 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Scheduling Amazon RDS Stops and Starts with AWS Lambda]]></title>
+            <link>https://aws.amazon.com/blogs/database/schedule-amazon-rds-stop-and-start-using-aws-lambda/</link>
+            <guid>https://aws.amazon.com/blogs/database/schedule-amazon-rds-stop-and-start-using-aws-lambda/</guid>
+            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Introducing the SMS Sandbox for Amazon SNS]]></title>
-            <link>https://aws.amazon.com/blogs/compute/introducing-the-sms-sandbox-for-amazon-sns/</link>
-            <guid>https://aws.amazon.com/blogs/compute/introducing-the-sms-sandbox-for-amazon-sns/</guid>
-            <pubDate>Fri, 04 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Creating a Serverless Function to Scrape Web Page Metadata]]></title>
+            <link>https://mmazzarolo.com/blog/2021-06-06-metascraper-serverless-function/</link>
+            <guid>https://mmazzarolo.com/blog/2021-06-06-metascraper-serverless-function/</guid>
+            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How We Debugged And Fixed EMFILE: too many files open on AWS Lambda]]></title>
-            <link>https://bahr.dev/2021/06/03/lambda-emfile/</link>
-            <guid>https://bahr.dev/2021/06/03/lambda-emfile/</guid>
-            <pubDate>Fri, 04 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to Handle Client Errors Gracefully with AppSync and Lambda]]></title>
+            <link>https://theburningmonk.com/2021/06/how-to-handle-client-errors-gracefully-with-appsync-and-lambda/</link>
+            <guid>https://theburningmonk.com/2021/06/how-to-handle-client-errors-gracefully-with-appsync-and-lambda/</guid>
+            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Discussing Differing Serverless Perspectives Between Cloud Providers]]></title>
-            <link>https://www.serverlesschats.com/103/</link>
-            <guid>https://www.serverlesschats.com/103/</guid>
-            <pubDate>Fri, 04 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Has Serverless Jumped the Shark?]]></title>
+            <link>https://thenewstack.io/has-serverless-jumped-the-shark/</link>
+            <guid>https://thenewstack.io/has-serverless-jumped-the-shark/</guid>
+            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to Create and Publish OpenAPI-Enabled Azure Functions with Visual Studio and .NET]]></title>
-            <link>https://techcommunity.microsoft.com/t5/apps-on-azure/create-and-publish-openapi-enabled-azure-functions-with-visual/ba-p/2381067</link>
-            <guid>https://techcommunity.microsoft.com/t5/apps-on-azure/create-and-publish-openapi-enabled-azure-functions-with-visual/ba-p/2381067</guid>
-            <pubDate>Fri, 04 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Can Dynamic Sites Go Serverless?]]></title>
+            <link>https://www.netlify.com/blog/2021/05/27/can-dynamic-sites-go-serverless/</link>
+            <guid>https://www.netlify.com/blog/2021/05/27/can-dynamic-sites-go-serverless/</guid>
+            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Six Common Pitfalls of AWS Lambda with Kinesis Triggers]]></title>
-            <link>https://dashbird.io/blog/lambda-kinesis-trigger/</link>
-            <guid>https://dashbird.io/blog/lambda-kinesis-trigger/</guid>
-            <pubDate>Fri, 04 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[chrome-aws-lambda 10.0: A Chromium Binary for AWS Lambda]]></title>
+            <link>https://github.com/alixaxel/chrome-aws-lambda</link>
+            <guid>https://github.com/alixaxel/chrome-aws-lambda</guid>
+            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -18,7 +18,7 @@
 | Thomas Ligotti     | Songs of a Dead Dreamer and Grimscribe                                       | 2019-03-08 |
 | Max Tegmark        | Life 3.0: Being Human in the Age of Artificial Intelligence                  | 2019-01-06 |
 
-## Ready to read
+## Ready
 
 |                  |                                |                 |
 | ---------------- | ------------------------------ | --------------- |
@@ -38,7 +38,7 @@
 | Iain M. Banks      | The Player Of Games          |
 | Robert A. Heinlein | The Moon is a Harsh Mistress |
 
-**Popular science**
+**Science**
 
 |                      |                                                                                              |
 | -------------------- | -------------------------------------------------------------------------------------------- |
@@ -50,8 +50,9 @@
 | Jordan Ellenberg     | How Not to Be Wrong: The Hidden Maths of Everyday Life                                       |
 | Mark Miodownik       | Stuff Matters: The Strange Stories of the Marvellous Materials that Shape Our Man-made World |
 | Matthew Walker       | Why We Sleep: The New Science of Sleep and Dreams                                            |
-| Melanie Mitchell     | Artificial Intelligence : A Guide for Thinking Humans                                        |
+| Melanie Mitchell     | Artificial Intelligence: A Guide for Thinking Humans                                         |
 | Oliver Morton        | The Moon: A History for the Future                                                           |
+| Robert M. Sapolsky   | Behave: The Biology of Humans at Our Best and Worst                                          | 
 | Siddhartha Mukherjee | The Gene: An Intimate History                                                                |
 | Steve Brusatte       | The Rise and Fall of the Dinosaurs: The Untold Story of a Lost World                         |
 
@@ -69,7 +70,6 @@
 | Kory Stamper         | Word by Word: The Secret Life of Dictionaries                                       |
 | Michael Pollan       | The Omnivore's Dilemma: The Search for a Perfect Meal in a Fast-Food World          |
 | Phil Thornton        | The Great Economists: Ten Economists whose thinking changed the way we live         |
-| Robert M. Sapolsky   | Behave: The Biology of Humans at Our Best and Worst                                 | 
 | Shoshana Zuboff      | The Age of Surveillance Capitalism                                                  |
 | Simon Singh          | The Code Book: The Secret History of Codes and Code-Breaking                        |
 | Susan Cain           | Quiet: The Power of Introverts in a World That Can't Stop Talking                   |
@@ -81,7 +81,7 @@
 | Albert Hourani      | A History of the Arab Peoples                                                              |
 | Andrew Chaikin      | A Man on the Moon: The Voyages of the Apollo Astronauts                                    |
 | Christopher Harding | Japan Story: In Search of a Nation, 1850 to the Present                                    |
-| David Edgerton      | The Rise and Fall of the British Nation : A Twentieth-Century History                      |
+| David Edgerton      | The Rise and Fall of the British Nation: A Twentieth-Century History                       |
 | Jill Lepore         | These Truths: A History of the United States                                               |
 | John Lewis Gaddis   | The Cold War                                                                               |
 | Mary Beard          | SPQR: A History of Ancient Rome                                                            |

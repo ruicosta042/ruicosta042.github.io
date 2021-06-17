@@ -4,129 +4,117 @@
         <title>Frontend Focus</title>
         <link>https://frontendfoc.us/</link>
         <description>A once–weekly roundup of the best front-end news, articles and tutorials. HTML, CSS, WebGL, Canvas, browser tech, and more.</description>
-        <lastBuildDate>Thu, 10 Jun 2021 07:59:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Jun 2021 07:47:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Safari Overhaul Includes Tab Groups and Web Extensions On Mobile]]></title>
-            <link>https://www.slashgear.com/safari-overhaul-includes-tab-groups-and-web-extensions-on-mobile-07676634/</link>
-            <guid>https://www.slashgear.com/safari-overhaul-includes-tab-groups-and-web-extensions-on-mobile-07676634/</guid>
-            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[When CSS Isn’t Enough: JavaScript Requirements For Accessible Components]]></title>
+            <link>https://www.smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/</link>
+            <guid>https://www.smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/</guid>
+            <pubDate>Wed, 16 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How To Fix Cumulative Layout Shift (CLS) Issues]]></title>
-            <link>https://www.smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/</link>
-            <guid>https://www.smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/</guid>
-            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Serving Sharp Images to High Density Screens]]></title>
+            <link>https://jakearchibald.com/2021/serving-sharp-images-to-high-density-screens/</link>
+            <guid>https://jakearchibald.com/2021/serving-sharp-images-to-high-density-screens/</guid>
+            <pubDate>Wed, 16 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Looking at WCAG 2.5.5 for Better Target Sizes]]></title>
-            <link>https://css-tricks.com/looking-at-wcag-2-5-5-for-better-target-sizes/</link>
-            <guid>https://css-tricks.com/looking-at-wcag-2-5-5-for-better-target-sizes/</guid>
-            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Design for Safari 15]]></title>
+            <link>https://developer.apple.com/videos/play/wwdc2021/10029/</link>
+            <guid>https://developer.apple.com/videos/play/wwdc2021/10029/</guid>
+            <pubDate>Wed, 16 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Serverless Functions: The Secret to Ultra-Productive Front-End Teams?]]></title>
-            <link>https://css-tricks.com/serverless-functions-the-secret-to-ultra-productive-front-end-teams/</link>
-            <guid>https://css-tricks.com/serverless-functions-the-secret-to-ultra-productive-front-end-teams/</guid>
-            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Introducing Aurora: A Collaboration Between Chrome and Open-Source Web Frameworks & Tools]]></title>
+            <link>https://web.dev/introducing-aurora/</link>
+            <guid>https://web.dev/introducing-aurora/</guid>
+            <pubDate>Wed, 16 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Right Tag for The Job: Why You Should Use Semantic HTML]]></title>
-            <link>https://localghost.dev/2021/06/the-right-tag-for-the-job-why-you-should-use-semantic-html/</link>
-            <guid>https://localghost.dev/2021/06/the-right-tag-for-the-job-why-you-should-use-semantic-html/</guid>
-            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Web Design Done Well: Making Use Of Audio]]></title>
+            <link>https://www.smashingmagazine.com/2021/06/web-design-done-well-audio/</link>
+            <guid>https://www.smashingmagazine.com/2021/06/web-design-done-well-audio/</guid>
+            <pubDate>Wed, 16 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to Find and Remove Dead CSS]]></title>
-            <link>https://blog.testdouble.com/talks/2021-06-03-how-to-find-and-remove-dead-css/</link>
-            <guid>https://blog.testdouble.com/talks/2021-06-03-how-to-find-and-remove-dead-css/</guid>
-            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Google Chrome Ends Its War On Address Bar URLs—for Now, At Least]]></title>
+            <link>https://arstechnica.com/gadgets/2021/06/google-chrome-ends-its-war-on-address-bar-urls-for-now-at-least/</link>
+            <guid>https://arstechnica.com/gadgets/2021/06/google-chrome-ends-its-war-on-address-bar-urls-for-now-at-least/</guid>
+            <pubDate>Wed, 16 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[VS Code Extensions for HTML]]></title>
-            <link>https://css-tricks.com/vs-code-extensions-for-html/</link>
-            <guid>https://css-tricks.com/vs-code-extensions-for-html/</guid>
-            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[CSS System Colors]]></title>
+            <link>https://blog.jim-nielsen.com/2021/css-system-colors/</link>
+            <guid>https://blog.jim-nielsen.com/2021/css-system-colors/</guid>
+            <pubDate>Wed, 16 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Can Firefox’s New Look Save The Web Browser?]]></title>
-            <link>https://www.techradar.com/news/can-firefoxs-new-look-save-the-web-browser</link>
-            <guid>https://www.techradar.com/news/can-firefoxs-new-look-save-the-web-browser</guid>
-            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Three Frontend Auditing Tools I Discovered Recently]]></title>
+            <link>https://www.smashingmagazine.com/2021/06/three-frontend-auditing-tools/</link>
+            <guid>https://www.smashingmagazine.com/2021/06/three-frontend-auditing-tools/</guid>
+            <pubDate>Wed, 16 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Web We Choose to Build]]></title>
-            <link>https://uxdesign.cc/the-web-we-choose-to-build-e921510e3f1b</link>
-            <guid>https://uxdesign.cc/the-web-we-choose-to-build-e921510e3f1b</guid>
-            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Thumbnail Hover Effect with SVG Filters]]></title>
+            <link>https://tympanus.net/codrops/2021/06/09/thumbnail-hover-effect-with-svg-filters/</link>
+            <guid>https://tympanus.net/codrops/2021/06/09/thumbnail-hover-effect-with-svg-filters/</guid>
+            <pubDate>Wed, 16 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ancestors and Descendants]]></title>
-            <link>https://meyerweb.com/eric/thoughts/2021/06/02/ancestors-and-descendants/</link>
-            <guid>https://meyerweb.com/eric/thoughts/2021/06/02/ancestors-and-descendants/</guid>
-            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[HTTP/3 Check: See If A Server Supports HTTP/3]]></title>
+            <link>https://http3check.net/</link>
+            <guid>https://http3check.net/</guid>
+            <pubDate>Wed, 16 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[daisyUI: A Library of Tailwind CSS Components in Multiple Themes]]></title>
-            <link>https://daisyui.com/</link>
-            <guid>https://daisyui.com/</guid>
-            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[DOOM Captcha: Captchas Don't Have to Be Boring]]></title>
+            <link>https://vivirenremoto.github.io/doomcaptcha/</link>
+            <guid>https://vivirenremoto.github.io/doomcaptcha/</guid>
+            <pubDate>Wed, 16 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[CompressImage.io: A Client-Side, Privacy-Friendly Compression Tool for PNG and JPG]]></title>
-            <link>https://compressimage.io/</link>
-            <guid>https://compressimage.io/</guid>
-            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Uniform CSS]]></title>
+            <link>https://uniformcss.com/</link>
+            <guid>https://uniformcss.com/</guid>
+            <pubDate>Wed, 16 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Assetroulette: Randomized Assets for Web Design]]></title>
-            <link>https://assetroulette.com/</link>
-            <guid>https://assetroulette.com/</guid>
-            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Market: A Collection of Nearly 400 'CC0' 3D Assets]]></title>
+            <link>https://market.pmnd.rs/</link>
+            <guid>https://market.pmnd.rs/</guid>
+            <pubDate>Wed, 16 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ts-audio: Work with AudioContext More Easily]]></title>
-            <link>https://github.com/EvandroLG/ts-audio</link>
-            <guid>https://github.com/EvandroLG/ts-audio</guid>
-            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Loopple: A Drag-and-Drop Tool to Create Bootstrap-Based Dashboards]]></title>
+            <link>https://www.loopple.com/</link>
+            <guid>https://www.loopple.com/</guid>
+            <pubDate>Wed, 16 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[CSS Layout Generator]]></title>
-            <link>https://layout.bradwoods.io/</link>
-            <guid>https://layout.bradwoods.io/</guid>
-            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Tailwindo: Convert Your Bootstrap CSS to Tailwind CSS]]></title>
+            <link>https://awssat.com/opensource/tailwindo/1_introduction.html</link>
+            <guid>https://awssat.com/opensource/tailwindo/1_introduction.html</guid>
+            <pubDate>Wed, 16 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to Create Neon Text With CSS]]></title>
-            <link>https://css-tricks.com/how-to-create-neon-text-with-css/</link>
-            <guid>https://css-tricks.com/how-to-create-neon-text-with-css/</guid>
-            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Directionally Aware CSS Buttons with React]]></title>
+            <link>https://codepen.io/jh3y/pen/XWMobqx</link>
+            <guid>https://codepen.io/jh3y/pen/XWMobqx</guid>
+            <pubDate>Wed, 16 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Three Tips About Flexbox That Will Make Your CSS Better]]></title>
-            <link>https://dev.to/melnik909/my-3-tips-about-flexbox-that-will-make-your-css-better-50g6</link>
-            <guid>https://dev.to/melnik909/my-3-tips-about-flexbox-that-will-make-your-css-better-50g6</guid>
-            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Improving Contrast in Microsoft Edge DevTools: A Bugfix Case Study]]></title>
+            <link>https://blogs.windows.com/msedgedev/2021/06/15/improving-contrast-in-microsoft-edge-devtools-a-bugfix-case-study/</link>
+            <guid>https://blogs.windows.com/msedgedev/2021/06/15/improving-contrast-in-microsoft-edge-devtools-a-bugfix-case-study/</guid>
+            <pubDate>Wed, 16 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Getting Started with webpack]]></title>
-            <link>https://www.smashingmagazine.com/2021/06/getting-started-webpack/</link>
-            <guid>https://www.smashingmagazine.com/2021/06/getting-started-webpack/</guid>
-            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[yare.io: A Real-Time Strategy Game Where You Control Your Units by Writing JavaScript Code]]></title>
-            <link>https://yare.io/</link>
-            <guid>https://yare.io/</guid>
-            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Angular Flex-Layout: A Layout API for Angular using Flexbox Media Queries]]></title>
-            <link>https://github.com/angular/flex-layout</link>
-            <guid>https://github.com/angular/flex-layout</guid>
-            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Making Tables With Sticky Header and Footers Got a Bit Easier]]></title>
+            <link>https://css-tricks.com/making-tables-with-sticky-header-and-footers-got-a-bit-easier/</link>
+            <guid>https://css-tricks.com/making-tables-with-sticky-header-and-footers-got-a-bit-easier/</guid>
+            <pubDate>Wed, 16 Jun 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

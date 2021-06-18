@@ -4,75 +4,87 @@
         <title>Node Weekly</title>
         <link>https://nodeweekly.com/</link>
         <description>A free, once–weekly e-mail round-up of Node.js news and articles.</description>
-        <lastBuildDate>Sat, 12 Jun 2021 07:46:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Jun 2021 07:47:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Introducing libSquoosh: Experimental Image Optimization from Node]]></title>
-            <link>https://web.dev/introducing-libsquoosh/</link>
-            <guid>https://web.dev/introducing-libsquoosh/</guid>
-            <pubDate>Thu, 10 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[A Visual Guide to Node.js Streams]]></title>
+            <link>https://blog.insiderattack.net/a-visual-guide-to-nodejs-streams-9d2d594a9bf5</link>
+            <guid>https://blog.insiderattack.net/a-visual-guide-to-nodejs-streams-9d2d594a9bf5</guid>
+            <pubDate>Thu, 17 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Exploring Deno Land 🦕 with Ryan Dahl]]></title>
-            <link>https://changelog.com/podcast/443</link>
-            <guid>https://changelog.com/podcast/443</guid>
-            <pubDate>Thu, 10 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Undici 4.0: An HTTP Client, Written from Scratch for Node]]></title>
+            <link>https://nodejs.medium.com/introducing-undici-4-1e321243e007</link>
+            <guid>https://nodejs.medium.com/introducing-undici-4-1e321243e007</guid>
+            <pubDate>Thu, 17 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[PM2 5.0 Released: The Production Process Manager]]></title>
-            <link>https://github.com/Unitech/pm2/blob/master/CHANGELOG.md#500</link>
-            <guid>https://github.com/Unitech/pm2/blob/master/CHANGELOG.md#500</guid>
-            <pubDate>Thu, 10 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Explicit ESM in Node with .mjs]]></title>
+            <link>https://dev.to/bnb/explicit-esm-in-node-js-with-mjs-3ooh</link>
+            <guid>https://dev.to/bnb/explicit-esm-in-node-js-with-mjs-3ooh</guid>
+            <pubDate>Thu, 17 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Don't Use Functions As Callbacks Unless They're Designed for It]]></title>
-            <link>https://jakearchibald.com/2021/function-callback-risks/</link>
-            <guid>https://jakearchibald.com/2021/function-callback-risks/</guid>
-            <pubDate>Thu, 10 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Next.js 11 Released]]></title>
+            <link>https://nextjs.org/blog/next-11</link>
+            <guid>https://nextjs.org/blog/next-11</guid>
+            <pubDate>Thu, 17 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mocha 9.0 Released: The Popular JavaScript Test Framework]]></title>
-            <link>https://github.com/mochajs/mocha</link>
-            <guid>https://github.com/mochajs/mocha</guid>
-            <pubDate>Thu, 10 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[A Beginner's Guide to the File System Module (fs)]]></title>
+            <link>https://catalins.tech/a-beginners-guide-to-the-file-system-module-in-nodejs?guid=none&amp;deviceId=42e92d71-485b-40f9-9a85-5d0c7ed6c1c8</link>
+            <guid>https://catalins.tech/a-beginners-guide-to-the-file-system-module-in-nodejs?guid=none&amp;deviceId=42e92d71-485b-40f9-9a85-5d0c7ed6c1c8</guid>
+            <pubDate>Thu, 17 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[html-to-text 8.0: Advanced HTML to Text Converter]]></title>
-            <link>https://github.com/html-to-text/node-html-to-text</link>
-            <guid>https://github.com/html-to-text/node-html-to-text</guid>
-            <pubDate>Thu, 10 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Creating a Serverless Function to Scrape Web Page Metadata]]></title>
+            <link>https://mmazzarolo.com/blog/2021-06-06-metascraper-serverless-function/</link>
+            <guid>https://mmazzarolo.com/blog/2021-06-06-metascraper-serverless-function/</guid>
+            <pubDate>Thu, 17 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[test-console: A Simple Library for Testing Node Console Output]]></title>
-            <link>https://github.com/jamesshore/test-console</link>
-            <guid>https://github.com/jamesshore/test-console</guid>
-            <pubDate>Thu, 10 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[NPM Global Audit: A Small Tool to Audit Globally Installed Modules]]></title>
+            <link>https://www.npmjs.com/package/npm-global-audit</link>
+            <guid>https://www.npmjs.com/package/npm-global-audit</guid>
+            <pubDate>Thu, 17 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[node-localstorage: A Drop-In Substitute for the Browser Native localStorage API]]></title>
-            <link>https://github.com/lmaccherone/node-localstorage</link>
-            <guid>https://github.com/lmaccherone/node-localstorage</guid>
-            <pubDate>Thu, 10 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Introducing Papr: Type-Safe Node.js Models for MongoDB]]></title>
+            <link>https://medium.com/plexlabs/papr-type-safe-node-js-models-for-mongodb-c841e8b23429</link>
+            <guid>https://medium.com/plexlabs/papr-type-safe-node-js-models-for-mongodb-c841e8b23429</guid>
+            <pubDate>Thu, 17 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Trash: Move Files and Directories to the 'Trash']]></title>
-            <link>https://github.com/sindresorhus/trash</link>
-            <guid>https://github.com/sindresorhus/trash</guid>
-            <pubDate>Thu, 10 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Merge Anything: Merge Objects and Other Types Recursively]]></title>
+            <link>https://github.com/mesqueeb/merge-anything</link>
+            <guid>https://github.com/mesqueeb/merge-anything</guid>
+            <pubDate>Thu, 17 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Discord.js: A Library for Interacting with Discord's API]]></title>
-            <link>https://github.com/discordjs/discord.js</link>
-            <guid>https://github.com/discordjs/discord.js</guid>
-            <pubDate>Thu, 10 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[gmail-tester: A Simple Node Gmail Client]]></title>
+            <link>https://github.com/levz0r/gmail-tester</link>
+            <guid>https://github.com/levz0r/gmail-tester</guid>
+            <pubDate>Thu, 17 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Some Reasons Why Bugs Might Feel 'Impossible' to Resolve]]></title>
-            <link>https://jvns.ca/blog/2021/06/08/reasons-why-bugs-might-feel-impossible/</link>
-            <guid>https://jvns.ca/blog/2021/06/08/reasons-why-bugs-might-feel-impossible/</guid>
-            <pubDate>Thu, 10 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[depcheck: A Tool to Check for Unused Dependencies]]></title>
+            <link>https://github.com/depcheck/depcheck</link>
+            <guid>https://github.com/depcheck/depcheck</guid>
+            <pubDate>Thu, 17 Jun 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ws 7.5: A Fast and Throughly Tested WebSocket Client and Server for Node]]></title>
+            <link>https://github.com/websockets/ws</link>
+            <guid>https://github.com/websockets/ws</guid>
+            <pubDate>Thu, 17 Jun 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Canary in the Gold Mine v8.0]]></title>
+            <link>https://github.com/nodejs/citgm</link>
+            <guid>https://github.com/nodejs/citgm</guid>
+            <pubDate>Thu, 17 Jun 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

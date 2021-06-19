@@ -4,135 +4,129 @@
         <title>JavaScript Weekly</title>
         <link>https://javascriptweekly.com/</link>
         <description>A newsletter of JavaScript articles, news and cool projects</description>
-        <lastBuildDate>Sat, 12 Jun 2021 07:46:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Jun 2021 07:46:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Introducing Astro: Ship (Even) Less JavaScript]]></title>
-            <link>https://astro.build/blog/introducing-astro</link>
-            <guid>https://astro.build/blog/introducing-astro</guid>
-            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Benchmarking JavaScript Memory Usage]]></title>
+            <link>https://blog.webpagetest.org/posts/benchmarking-javascript-memory-usage/</link>
+            <guid>https://blog.webpagetest.org/posts/benchmarking-javascript-memory-usage/</guid>
+            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Plan for React 18]]></title>
-            <link>https://reactjs.org/blog/2021/06/08/the-plan-for-react-18.html</link>
-            <guid>https://reactjs.org/blog/2021/06/08/the-plan-for-react-18.html</guid>
-            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Dr. Axel Explains Three ECMAScript Proposals]]></title>
+            <link>https://2ality.com/2021/06/error-cause.html</link>
+            <guid>https://2ality.com/2021/06/error-cause.html</guid>
+            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Introducing Chrome's New Memory Inspector]]></title>
-            <link>https://developer.chrome.com/blog/memory-inspector/</link>
-            <guid>https://developer.chrome.com/blog/memory-inspector/</guid>
-            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Next.js 11 Released]]></title>
+            <link>https://nextjs.org/blog/next-11</link>
+            <guid>https://nextjs.org/blog/next-11</guid>
+            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Vue.js 3.1.0 (Pluto) Released]]></title>
-            <link>https://github.com/vuejs/vue-next/releases/tag/v3.1.0</link>
-            <guid>https://github.com/vuejs/vue-next/releases/tag/v3.1.0</guid>
-            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Deno 1.11 Released]]></title>
+            <link>https://deno.com/blog/v1.11</link>
+            <guid>https://deno.com/blog/v1.11</guid>
+            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Implementing Private Fields for JavaScript]]></title>
-            <link>https://hacks.mozilla.org/2021/06/implementing-private-fields-for-javascript/</link>
-            <guid>https://hacks.mozilla.org/2021/06/implementing-private-fields-for-javascript/</guid>
-            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[What You Need to Know About React 18]]></title>
+            <link>https://www.youtube.com/watch?v=uOGImWM85Uw</link>
+            <guid>https://www.youtube.com/watch?v=uOGImWM85Uw</guid>
+            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Creating a Serverless Function to Scrape Web Page Metadata]]></title>
-            <link>https://mmazzarolo.com/blog/2021-06-06-metascraper-serverless-function/</link>
-            <guid>https://mmazzarolo.com/blog/2021-06-06-metascraper-serverless-function/</guid>
-            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[When CSS Isn’t Enough: JavaScript Requirements For Accessible Components]]></title>
+            <link>https://www.smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/</link>
+            <guid>https://www.smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/</guid>
+            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Exploring Deno Land 🦕 with Ryan Dahl]]></title>
-            <link>https://changelog.com/podcast/443</link>
-            <guid>https://changelog.com/podcast/443</guid>
-            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Examples of New Browser APIs to Detect JS Performance Problems in Production]]></title>
+            <link>https://michaelscodingspot.com/javascript-performance-apis/</link>
+            <guid>https://michaelscodingspot.com/javascript-performance-apis/</guid>
+            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Managing Shared State in Vue 3]]></title>
-            <link>https://www.smashingmagazine.com/2021/06/managing-shared-state-vue3/</link>
-            <guid>https://www.smashingmagazine.com/2021/06/managing-shared-state-vue3/</guid>
-            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Embedding Vue.js Apps in Go(lang)]]></title>
+            <link>https://hackandsla.sh/posts/2021-06-18-embed-vuejs-in-go/</link>
+            <guid>https://hackandsla.sh/posts/2021-06-18-embed-vuejs-in-go/</guid>
+            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rust from a JavaScript Perspective: A Tongue-in-Cheek Tour]]></title>
-            <link>https://blogs.harvard.edu/kapolos/rust-from-a-javascript-perspective/</link>
-            <guid>https://blogs.harvard.edu/kapolos/rust-from-a-javascript-perspective/</guid>
-            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[A Visual Guide to Node.js Streams]]></title>
+            <link>https://blog.insiderattack.net/a-visual-guide-to-nodejs-streams-9d2d594a9bf5</link>
+            <guid>https://blog.insiderattack.net/a-visual-guide-to-nodejs-streams-9d2d594a9bf5</guid>
+            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Handsfree.JS: Bring Face, Hand or Pose Tracking to Your Frontend Apps]]></title>
-            <link>https://handsfree.js.org/</link>
-            <guid>https://handsfree.js.org/</guid>
-            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Drawing Graphics with the CSS Paint API]]></title>
+            <link>https://tympanus.net/codrops/2021/06/18/drawing-graphics-with-the-css-paint-api/</link>
+            <guid>https://tympanus.net/codrops/2021/06/18/drawing-graphics-with-the-css-paint-api/</guid>
+            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mocha 9.0 Released: The Popular JavaScript Test Framework]]></title>
-            <link>https://github.com/mochajs/mocha</link>
-            <guid>https://github.com/mochajs/mocha</guid>
-            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[MathJax 3.2.0: Beautiful Math Rendering in All Browsers]]></title>
+            <link>https://www.mathjax.org/</link>
+            <guid>https://www.mathjax.org/</guid>
+            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Flicking 4.0: A Carousel Component with 30M Daily Users]]></title>
-            <link>https://github.com/naver/egjs-flicking</link>
-            <guid>https://github.com/naver/egjs-flicking</guid>
-            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Viewer.js 1.10: A Flexible JavaScript Image Viewer]]></title>
+            <link>https://fengyuanchen.github.io/viewerjs/</link>
+            <guid>https://fengyuanchen.github.io/viewerjs/</guid>
+            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[FlexSearch.js 0.7.0: A Full Text Search Library with No Dependencies]]></title>
-            <link>https://github.com/nextapps-de/flexsearch</link>
-            <guid>https://github.com/nextapps-de/flexsearch</guid>
-            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Remote Repositories Extension for Visual Studio Code]]></title>
+            <link>https://code.visualstudio.com/blogs/2021/06/10/remote-repositories?WT.mc_id=devcloud-00000-cxa</link>
+            <guid>https://code.visualstudio.com/blogs/2021/06/10/remote-repositories?WT.mc_id=devcloud-00000-cxa</guid>
+            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[PM2 5.0 Released: The Production Process Manager]]></title>
-            <link>https://github.com/Unitech/pm2/blob/master/CHANGELOG.md#500</link>
-            <guid>https://github.com/Unitech/pm2/blob/master/CHANGELOG.md#500</guid>
-            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Undici 4.0: An HTTP Client, Written from Scratch for Node]]></title>
+            <link>https://nodejs.medium.com/introducing-undici-4-1e321243e007</link>
+            <guid>https://nodejs.medium.com/introducing-undici-4-1e321243e007</guid>
+            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Naive UI: A Vue 3 Component Library]]></title>
-            <link>https://www.naiveui.com/en-US/os-theme</link>
-            <guid>https://www.naiveui.com/en-US/os-theme</guid>
-            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[A Pathfinding Algorithm Visualizer]]></title>
+            <link>https://josephprichard.github.io/Pathfinder/</link>
+            <guid>https://josephprichard.github.io/Pathfinder/</guid>
+            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[RxJChess: A Chess Game Built on React, Redux and RxJS]]></title>
-            <link>https://rxjchess.com/</link>
-            <guid>https://rxjchess.com/</guid>
-            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to Dynamically Import ECMAScript Modules]]></title>
+            <link>https://dmitripavlutin.com/ecmascript-modules-dynamic-import/</link>
+            <guid>https://dmitripavlutin.com/ecmascript-modules-dynamic-import/</guid>
+            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How To Build a Geocoding App with Vue.js and Mapbox]]></title>
-            <link>https://www.smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/</link>
-            <guid>https://www.smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/</guid>
-            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Why Using Object Spread (...) with reduce May Be A Bad Idea]]></title>
+            <link>https://prateeksurana.me/blog/why-using-object-spread-with-reduce-bad-idea/</link>
+            <guid>https://prateeksurana.me/blog/why-using-object-spread-with-reduce-bad-idea/</guid>
+            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ten Tips for Building More Accessible Angular Apps]]></title>
-            <link>https://blog.angular.io/build-more-accessible-angular-apps-1aca4fc39aff</link>
-            <guid>https://blog.angular.io/build-more-accessible-angular-apps-1aca4fc39aff</guid>
-            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Advanced TypeScript: A Generic Function to Merge Object Arrays]]></title>
+            <link>https://chrisfrew.in/blog/advanced-typescript-generic-array-merging/</link>
+            <guid>https://chrisfrew.in/blog/advanced-typescript-generic-array-merging/</guid>
+            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Don't Use Functions As Callbacks Unless They're Designed for It]]></title>
-            <link>https://jakearchibald.com/2021/function-callback-risks/</link>
-            <guid>https://jakearchibald.com/2021/function-callback-risks/</guid>
-            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[A One-Click Starter Project for Next.js 11 and Netlify]]></title>
+            <link>https://github.com/cassidoo/next-netlify-starter</link>
+            <guid>https://github.com/cassidoo/next-netlify-starter</guid>
+            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nanostores: A 152 Byte State Manager for React/Preact/Vue/Svelte with Many Atomic Tree-Shakable Stores]]></title>
-            <link>https://github.com/ai/nanostores</link>
-            <guid>https://github.com/ai/nanostores</guid>
-            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Angular Flex-Layout: A Sophisticated Layout API for Angular using Flexbox Media Queries]]></title>
-            <link>https://github.com/angular/flex-layout</link>
-            <guid>https://github.com/angular/flex-layout</guid>
-            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[rmodal.js: A Simple 1.2 KB Modal Dialog with No Dependencies]]></title>
+            <link>https://github.com/zewish/rmodal.js</link>
+            <guid>https://github.com/zewish/rmodal.js</guid>
+            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

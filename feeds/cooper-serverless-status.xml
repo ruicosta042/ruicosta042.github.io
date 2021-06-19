@@ -4,69 +4,57 @@
         <title>Serverless Status</title>
         <link>https://serverless.email/</link>
         <description>A weekly newsletter on serverless and function-as-a-service (FaaS) architectures and platforms including AWS Lambda and Azure Functions.</description>
-        <lastBuildDate>Sat, 12 Jun 2021 07:47:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Jun 2021 07:46:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Lift 1.0: Easily Deploy Well-Designed Serverless Applications on AWS]]></title>
-            <link>https://github.com/getlift/lift</link>
-            <guid>https://github.com/getlift/lift</guid>
-            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Introducing AWS Step Functions Workflow Studio]]></title>
+            <link>https://aws.amazon.com/blogs/aws/new-aws-step-functions-workflow-studio-a-low-code-visual-tool-for-building-state-machines/</link>
+            <guid>https://aws.amazon.com/blogs/aws/new-aws-step-functions-workflow-studio-a-low-code-visual-tool-for-building-state-machines/</guid>
+            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AWS Proton Now Generally Available]]></title>
-            <link>https://aws.amazon.com/blogs/containers/announcing-the-general-availability-of-aws-proton/</link>
-            <guid>https://aws.amazon.com/blogs/containers/announcing-the-general-availability-of-aws-proton/</guid>
-            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Building a Serverless Banking Platform with Patrick Strzelec]]></title>
+            <link>https://www.serverlesschats.com/105/</link>
+            <guid>https://www.serverlesschats.com/105/</guid>
+            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Rise of 'Data Services' with Patrick McFadin]]></title>
-            <link>https://www.serverlesschats.com/104/</link>
-            <guid>https://www.serverlesschats.com/104/</guid>
-            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Why You May Not Want To Use AWS Amplify for Your Next Serverless Project]]></title>
+            <link>https://peter-sereda.medium.com/why-you-may-want-not-use-aws-amplify-for-your-next-serverless-project-57b578e60252</link>
+            <guid>https://peter-sereda.medium.com/why-you-may-want-not-use-aws-amplify-for-your-next-serverless-project-57b578e60252</guid>
+            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lightbend Announces Akka Serverless Open Beta]]></title>
-            <link>https://www.infoq.com/news/2021/06/akka-serverless-open-beta/</link>
-            <guid>https://www.infoq.com/news/2021/06/akka-serverless-open-beta/</guid>
-            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[The AWS Serverless Patterns Collection]]></title>
+            <link>https://serverlessland.com/patterns</link>
+            <guid>https://serverlessland.com/patterns</guid>
+            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scheduling Amazon RDS Stops and Starts with AWS Lambda]]></title>
-            <link>https://aws.amazon.com/blogs/database/schedule-amazon-rds-stop-and-start-using-aws-lambda/</link>
-            <guid>https://aws.amazon.com/blogs/database/schedule-amazon-rds-stop-and-start-using-aws-lambda/</guid>
-            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Exploring Serverless Patterns for Amazon DynamoDB]]></title>
+            <link>https://aws.amazon.com/blogs/compute/exploring-serverless-patterns-for-amazon-dynamodb/</link>
+            <guid>https://aws.amazon.com/blogs/compute/exploring-serverless-patterns-for-amazon-dynamodb/</guid>
+            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Creating a Serverless Function to Scrape Web Page Metadata]]></title>
-            <link>https://mmazzarolo.com/blog/2021-06-06-metascraper-serverless-function/</link>
-            <guid>https://mmazzarolo.com/blog/2021-06-06-metascraper-serverless-function/</guid>
-            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[A Beginner's Guide to Running Rust on AWS Lambda]]></title>
+            <link>https://dev.to/nicholaschiasson/beginner-s-guide-to-running-rust-on-aws-lambda-277n</link>
+            <guid>https://dev.to/nicholaschiasson/beginner-s-guide-to-running-rust-on-aws-lambda-277n</guid>
+            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to Handle Client Errors Gracefully with AppSync and Lambda]]></title>
-            <link>https://theburningmonk.com/2021/06/how-to-handle-client-errors-gracefully-with-appsync-and-lambda/</link>
-            <guid>https://theburningmonk.com/2021/06/how-to-handle-client-errors-gracefully-with-appsync-and-lambda/</guid>
-            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Generating PDFs with Serverless, AWS Lambda and Puppeteer]]></title>
+            <link>https://pshubham380.medium.com/pdf-generation-with-serverless-aws-and-puppeteer-cac3442b1c95</link>
+            <guid>https://pshubham380.medium.com/pdf-generation-with-serverless-aws-and-puppeteer-cac3442b1c95</guid>
+            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Has Serverless Jumped the Shark?]]></title>
-            <link>https://thenewstack.io/has-serverless-jumped-the-shark/</link>
-            <guid>https://thenewstack.io/has-serverless-jumped-the-shark/</guid>
-            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can Dynamic Sites Go Serverless?]]></title>
-            <link>https://www.netlify.com/blog/2021/05/27/can-dynamic-sites-go-serverless/</link>
-            <guid>https://www.netlify.com/blog/2021/05/27/can-dynamic-sites-go-serverless/</guid>
-            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[chrome-aws-lambda 10.0: A Chromium Binary for AWS Lambda]]></title>
-            <link>https://github.com/alixaxel/chrome-aws-lambda</link>
-            <guid>https://github.com/alixaxel/chrome-aws-lambda</guid>
-            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Six Serverless Frameworks to Watch in 2021]]></title>
+            <link>https://dev.to/hsshah_/six-serverless-frameworks-to-watch-in-2021-4p2</link>
+            <guid>https://dev.to/hsshah_/six-serverless-frameworks-to-watch-in-2021-4p2</guid>
+            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

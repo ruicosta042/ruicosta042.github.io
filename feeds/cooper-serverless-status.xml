@@ -4,7 +4,7 @@
         <title>Serverless Status</title>
         <link>https://serverless.email/</link>
         <description>A weekly newsletter on serverless and function-as-a-service (FaaS) architectures and platforms including AWS Lambda and Azure Functions.</description>
-        <lastBuildDate>Sat, 19 Jun 2021 07:46:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Jun 2021 07:46:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -46,8 +46,8 @@
         </item>
         <item>
             <title><![CDATA[Generating PDFs with Serverless, AWS Lambda and Puppeteer]]></title>
-            <link>https://pshubham380.medium.com/pdf-generation-with-serverless-aws-and-puppeteer-cac3442b1c95</link>
-            <guid>https://pshubham380.medium.com/pdf-generation-with-serverless-aws-and-puppeteer-cac3442b1c95</guid>
+            <link>https://shubham-pandey.medium.com/pdf-generation-with-serverless-aws-and-puppeteer-cac3442b1c95</link>
+            <guid>https://shubham-pandey.medium.com/pdf-generation-with-serverless-aws-and-puppeteer-cac3442b1c95</guid>
             <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>

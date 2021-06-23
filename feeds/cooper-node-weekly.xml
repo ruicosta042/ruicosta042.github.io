@@ -4,7 +4,7 @@
         <title>Node Weekly</title>
         <link>https://nodeweekly.com/</link>
         <description>A free, once–weekly e-mail round-up of Node.js news and articles.</description>
-        <lastBuildDate>Tue, 22 Jun 2021 07:46:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Jun 2021 07:44:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -34,8 +34,8 @@
         </item>
         <item>
             <title><![CDATA[A Beginner's Guide to the File System Module (fs)]]></title>
-            <link>https://catalins.tech/a-beginners-guide-to-the-file-system-module-in-nodejs?guid=none&amp;deviceId=61048e25-bc0a-413d-92f1-c0756c378d43</link>
-            <guid>https://catalins.tech/a-beginners-guide-to-the-file-system-module-in-nodejs?guid=none&amp;deviceId=61048e25-bc0a-413d-92f1-c0756c378d43</guid>
+            <link>https://catalins.tech/a-beginners-guide-to-the-file-system-module-in-nodejs?guid=none&amp;deviceId=bc686872-cb3c-444c-afa8-534107fdbc5e</link>
+            <guid>https://catalins.tech/a-beginners-guide-to-the-file-system-module-in-nodejs?guid=none&amp;deviceId=bc686872-cb3c-444c-afa8-534107fdbc5e</guid>
             <pubDate>Thu, 17 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>

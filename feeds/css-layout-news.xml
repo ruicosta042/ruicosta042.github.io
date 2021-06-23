@@ -4,10 +4,59 @@
         <title>CSS Layout News</title>
         <link>https://csslayout.news/</link>
         <description>Weekly CSS layout newsletter and resource site by Rachel Andrew</description>
-        <lastBuildDate>Tue, 15 Jun 2021 19:22:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Jun 2021 07:01:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[TablesNG Resolves 72 Chromium Bugs for Better Interoperability]]></title>
+            <link>https://developer.chrome.com/blog/tablesng/</link>
+            <guid>https://developer.chrome.com/blog/tablesng/</guid>
+            <pubDate>Wed, 23 Jun 2021 07:00:50 GMT</pubDate>
+            <description><![CDATA[I mentioned TablesNG last week, with a link to a doc describing the changes. In this post you can read more about them, and see some examples.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[RenderingNG]]></title>
+            <link>https://developer.chrome.com/blog/renderingng/</link>
+            <guid>https://developer.chrome.com/blog/renderingng/</guid>
+            <pubDate>Wed, 23 Jun 2021 07:00:50 GMT</pubDate>
+            <description><![CDATA[TablesNG is just one part of the huge effort to build a new rendering architecture for Chrome. I'm very excited about this, as it enables all kinds of things to be fixed, as well as paving the way for future exciting features. This post introduces the various parts of RenderingNG, and there will be future posts diving into these in more depth.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Podcast: Igalia Chats]]></title>
+            <link>https://www.igalia.com/chats/ecosystem-health-vi</link>
+            <guid>https://www.igalia.com/chats/ecosystem-health-vi</guid>
+            <pubDate>Wed, 23 Jun 2021 07:00:50 GMT</pubDate>
+            <description><![CDATA[I had an enjoyable chat with Miriam Suzanne and Brian Kardell in this episode of Igalia Chats. We talked about the different people who work on standards.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Perfect Tooltips With CSS Clipping and Masking]]></title>
+            <link>https://css-tricks.com/perfect-tooltips-with-css-clipping-and-masking/</link>
+            <guid>https://css-tricks.com/perfect-tooltips-with-css-clipping-and-masking/</guid>
+            <pubDate>Wed, 23 Jun 2021 07:00:50 GMT</pubDate>
+            <description><![CDATA[Create a tooltip using the mask-image property. Useful if you want to make a tooltip, but the same technique could be used for other shapes.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Serving sharp images to high density screens]]></title>
+            <link>https://jakearchibald.com/2021/serving-sharp-images-to-high-density-screens</link>
+            <guid>https://jakearchibald.com/2021/serving-sharp-images-to-high-density-screens</guid>
+            <pubDate>Wed, 23 Jun 2021 07:00:50 GMT</pubDate>
+            <description><![CDATA[How best to serve high quality images is something I get asked about, and never have a really good answer for. This post contains all the details, with examples.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Thinking outside the box with CSS Grid]]></title>
+            <link>https://frontend.horse/articles/thinking-outside-the-box-with-css-grid/</link>
+            <guid>https://frontend.horse/articles/thinking-outside-the-box-with-css-grid/</guid>
+            <pubDate>Wed, 23 Jun 2021 07:00:50 GMT</pubDate>
+            <description><![CDATA[I've just found this site, via this article. The rest of the posts are worth a look too. I'm a big fan of taking cool examples that people have built and explaining how they work. With a few notable exceptions, the people who come up with the most amazing and creative ideas, may not be the best at explaining them. So these types of articles are great, as they make doing cool stuff more accessible to folk who would like to have a go themselves.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Theme builder]]></title>
+            <link>https://components.ai/theme/</link>
+            <guid>https://components.ai/theme/</guid>
+            <pubDate>Wed, 23 Jun 2021 07:00:50 GMT</pubDate>
+            <description><![CDATA[This is just incredibly cool, useful, and fun to play around with. Generate themes for your site, the Curves editor lets you edit color scales across channels for HSL, HSV, LAB, RGB, and LCH.]]></description>
+        </item>
         <item>
             <title><![CDATA[TablesNG fixing up the table things]]></title>
             <link>https://docs.google.com/document/d/16PFD1GtMI9Zgwu0jtPaKZJ75Q2wyZ9EZnVbBacOfiNA/edit</link>
@@ -637,55 +686,6 @@
             <guid>https://web.dev/debugging-layout-shifts/</guid>
             <pubDate>Tue, 16 Mar 2021 20:34:00 GMT</pubDate>
             <description><![CDATA[Useful information on how to identify layout shifts and ultimately fix them.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Exploring @property and its Animating Powers | CSS-Tricks]]></title>
-            <link>https://css-tricks.com/exploring-property-and-its-animating-powers/</link>
-            <guid>https://css-tricks.com/exploring-property-and-its-animating-powers/</guid>
-            <pubDate>Tue, 09 Mar 2021 20:32:00 GMT</pubDate>
-            <description><![CDATA[Relevant to some docs I was writing last week, an article about what @property can make possible.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[An Accessible Current Page Navigation State]]></title>
-            <link>https://www.callumhart.com/blog/an-accessible-current-page-navigation-state</link>
-            <guid>https://www.callumhart.com/blog/an-accessible-current-page-navigation-state</guid>
-            <pubDate>Tue, 09 Mar 2021 20:32:00 GMT</pubDate>
-            <description><![CDATA[How to indicate the current page in an accessible way.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[The Future of CSS: Scroll-Linked Animations with @scroll-timeline (Part 2) – Bram.us]]></title>
-            <link>https://www.bram.us/2021/03/04/the-future-of-css-scroll-linked-animations-part-2/</link>
-            <guid>https://www.bram.us/2021/03/04/the-future-of-css-scroll-linked-animations-part-2/</guid>
-            <pubDate>Tue, 09 Mar 2021 20:32:00 GMT</pubDate>
-            <description><![CDATA[Part two of a deep dive into scroll-linked animations using features that have an experimental implementation in Chrome.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Programmatically Generate Images with CSS Painting API]]></title>
-            <link>https://blog.bitsrc.io/programmatically-generate-images-with-css-painting-api-3b1a860dae3b</link>
-            <guid>https://blog.bitsrc.io/programmatically-generate-images-with-css-painting-api-3b1a860dae3b</guid>
-            <pubDate>Tue, 09 Mar 2021 20:32:00 GMT</pubDate>
-            <description><![CDATA[I've been doing a bit of reading around things folk have been publishing on Houdini, as I've been working on some docs for MDN. Here is a nice guide to the CSS Paint API.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Conic.css - nice, simple conic gradients]]></title>
-            <link>https://conic.style/</link>
-            <guid>https://conic.style/</guid>
-            <pubDate>Tue, 09 Mar 2021 20:32:00 GMT</pubDate>
-            <description><![CDATA[Another fun generator, this time for conic gradients.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[The Tools Don't Matter - Bring the Donuts Newsletter]]></title>
-            <link>https://newsletter.bringthedonuts.com/p/the-tools-dont-matter</link>
-            <guid>https://newsletter.bringthedonuts.com/p/the-tools-dont-matter</guid>
-            <pubDate>Tue, 09 Mar 2021 20:32:00 GMT</pubDate>
-            <description><![CDATA[This is a product management piece, rather than CSS. However I am constantly asked the same question with regard to tools. In general the tools don't matter, something I quickly discovered when moving from Mac to Windows. It took very little time to replace Mac-only things with something else.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Stay current with today's best web design practices]]></title>
-            <link>https://aneventapart.com/event/spring-summit-2021?utm_campaign=SS&amp;utm_medium=email&amp;utm_source=csslayout</link>
-            <guid>https://aneventapart.com/event/spring-summit-2021?utm_campaign=SS&amp;utm_medium=email&amp;utm_source=csslayout</guid>
-            <pubDate>Tue, 09 Mar 2021 20:32:00 GMT</pubDate>
-            <description><![CDATA[Spanning the spectrum from advanced CSS to inclusive and cross-cultural design, to web components and PWAs to user research, An Event Apart Online Together: Spring Summit features fifteen important sessions from world-class experts to keep you up-to-date with today’s best practices. Join us online April 19–21.]]></description>
         </item>
     </channel>
 </rss>

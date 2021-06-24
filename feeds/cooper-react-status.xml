@@ -4,87 +4,105 @@
         <title>React Status</title>
         <link>https://react.statuscode.com/</link>
         <description>A weekly roundup of the latest React and React Native links and tutorials.</description>
-        <lastBuildDate>Fri, 18 Jun 2021 07:47:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Jun 2021 07:45:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Next.js 11 Released]]></title>
-            <link>https://nextjs.org/blog/next-11</link>
-            <guid>https://nextjs.org/blog/next-11</guid>
-            <pubDate>Wed, 16 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Demystifying styled-components]]></title>
+            <link>https://www.joshwcomeau.com/react/demystifying-styled-components/</link>
+            <guid>https://www.joshwcomeau.com/react/demystifying-styled-components/</guid>
+            <pubDate>Wed, 23 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Redux Toolkit 1.6.0 Adds RTK Query Data Fetching APIs]]></title>
-            <link>https://github.com/reduxjs/redux-toolkit/releases/tag/v1.6.0</link>
-            <guid>https://github.com/reduxjs/redux-toolkit/releases/tag/v1.6.0</guid>
-            <pubDate>Wed, 16 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Utopia: A New Browser-Based React IDE]]></title>
+            <link>https://utopia.app/</link>
+            <guid>https://utopia.app/</guid>
+            <pubDate>Wed, 23 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why the React Testing Library Is Much More Than a Testing Library]]></title>
-            <link>https://t.co/k0wP3gloKF?amp=1</link>
-            <guid>https://t.co/k0wP3gloKF?amp=1</guid>
-            <pubDate>Wed, 16 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[React 18: A Summary in 12 Tweets]]></title>
+            <link>https://twitter.com/ProvablyFlarnie/status/1406729055488016386</link>
+            <guid>https://twitter.com/ProvablyFlarnie/status/1406729055488016386</guid>
+            <pubDate>Wed, 23 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Building a Rich WYSIWYG Text Editor From Scratch]]></title>
-            <link>https://www.smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/</link>
-            <guid>https://www.smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/</guid>
-            <pubDate>Wed, 16 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[React Table with Server-Side Data Management]]></title>
+            <link>https://www.robinwieruch.de/react-server-side-table/</link>
+            <guid>https://www.robinwieruch.de/react-server-side-table/</guid>
+            <pubDate>Wed, 23 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Adding Voice Search to a React App]]></title>
-            <link>https://www.sitepoint.com/voice-search-react/</link>
-            <guid>https://www.sitepoint.com/voice-search-react/</guid>
-            <pubDate>Wed, 16 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Arguing That 'React Ruined Web Development']]></title>
+            <link>https://t.co/lQqDYcaoGA?amp=1</link>
+            <guid>https://t.co/lQqDYcaoGA?amp=1</guid>
+            <pubDate>Wed, 23 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Building My Site With Gatsby and Tailwind CSS]]></title>
-            <link>https://mihaibojin.com/personal-site/gatsbyjs-and-tailwindcss-tech-stack</link>
-            <guid>https://mihaibojin.com/personal-site/gatsbyjs-and-tailwindcss-tech-stack</guid>
-            <pubDate>Wed, 16 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Global State Using XState & React]]></title>
+            <link>https://garden.bradwoods.io/notes/global-state</link>
+            <guid>https://garden.bradwoods.io/notes/global-state</guid>
+            <pubDate>Wed, 23 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How To Implement JavaScript Canvas Libraries in React]]></title>
-            <link>https://www.alxolr.com/articles/how-to-implement-javascript-canvas-libraries-in-react</link>
-            <guid>https://www.alxolr.com/articles/how-to-implement-javascript-canvas-libraries-in-react</guid>
-            <pubDate>Wed, 16 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[React: Five Things That Might Surprise You]]></title>
+            <link>https://t.co/JG0n0YoevN?amp=1</link>
+            <guid>https://t.co/JG0n0YoevN?amp=1</guid>
+            <pubDate>Wed, 23 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How To Use the Vite Build Tool with React]]></title>
-            <link>https://hackernoon.com/how-to-use-the-vite-build-tool-with-react-2t1934rd</link>
-            <guid>https://hackernoon.com/how-to-use-the-vite-build-tool-with-react-2t1934rd</guid>
-            <pubDate>Wed, 16 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Create a Next.js Web App with Nx]]></title>
+            <link>https://juristr.com/blog/2021/06/create-nextjs-webapp-nx/</link>
+            <guid>https://juristr.com/blog/2021/06/create-nextjs-webapp-nx/</guid>
+            <pubDate>Wed, 23 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Deep Dive Into React Context API]]></title>
-            <link>https://t.co/3AvlNawqpL?amp=1</link>
-            <guid>https://t.co/3AvlNawqpL?amp=1</guid>
-            <pubDate>Wed, 16 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[A Complete Beginner's Guide to Next.js]]></title>
+            <link>https://t.co/8ieODxwhpm?amp=1</link>
+            <guid>https://t.co/8ieODxwhpm?amp=1</guid>
+            <pubDate>Wed, 23 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jotai 1.0: Primitive and Flexible State Management]]></title>
-            <link>https://jotai.pmnd.rs/</link>
-            <guid>https://jotai.pmnd.rs/</guid>
-            <pubDate>Wed, 16 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Sharing React Components Across Multiple Applications]]></title>
+            <link>https://t.co/VNCXbXOfFU?amp=1</link>
+            <guid>https://t.co/VNCXbXOfFU?amp=1</guid>
+            <pubDate>Wed, 23 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[react-insta-stories: Instagram-like Stories Component]]></title>
-            <link>https://www.npmjs.com/package/react-insta-stories</link>
-            <guid>https://www.npmjs.com/package/react-insta-stories</guid>
-            <pubDate>Wed, 16 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[A One-Click Starter Project for Next.js 11 and Netlify]]></title>
+            <link>https://github.com/cassidoo/next-netlify-starter</link>
+            <guid>https://github.com/cassidoo/next-netlify-starter</guid>
+            <pubDate>Wed, 23 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[react-native-in-app-review: In App Reviews]]></title>
-            <link>https://www.npmjs.com/package/react-native-in-app-review</link>
-            <guid>https://www.npmjs.com/package/react-native-in-app-review</guid>
-            <pubDate>Wed, 16 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Directionally Aware CSS Buttons with React]]></title>
+            <link>https://codepen.io/jh3y/pen/XWMobqx</link>
+            <guid>https://codepen.io/jh3y/pen/XWMobqx</guid>
+            <pubDate>Wed, 23 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React Cool Virtual: A Hook for Rendering Large Datasets]]></title>
-            <link>https://github.com/wellyshen/react-cool-virtual</link>
-            <guid>https://github.com/wellyshen/react-cool-virtual</guid>
-            <pubDate>Wed, 16 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[use-file-picker]]></title>
+            <link>https://github.com/Jaaneek/useFilePicker</link>
+            <guid>https://github.com/Jaaneek/useFilePicker</guid>
+            <pubDate>Wed, 23 Jun 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Relay Library for GraphQL]]></title>
+            <link>https://github.com/graphql/graphql-relay-js</link>
+            <guid>https://github.com/graphql/graphql-relay-js</guid>
+            <pubDate>Wed, 23 Jun 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[lightGallery: Image and Video Lightbox]]></title>
+            <link>https://github.com/sachinchoolur/lightGallery</link>
+            <guid>https://github.com/sachinchoolur/lightGallery</guid>
+            <pubDate>Wed, 23 Jun 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Flexmonster: Powerful Pivot Table Functionality]]></title>
+            <link>https://www.flexmonster.com/</link>
+            <guid>https://www.flexmonster.com/</guid>
+            <pubDate>Wed, 23 Jun 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

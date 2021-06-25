@@ -4,87 +4,105 @@
         <title>Node Weekly</title>
         <link>https://nodeweekly.com/</link>
         <description>A free, once–weekly e-mail round-up of Node.js news and articles.</description>
-        <lastBuildDate>Thu, 24 Jun 2021 07:44:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Jun 2021 07:46:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[A Visual Guide to Node.js Streams]]></title>
-            <link>https://blog.insiderattack.net/a-visual-guide-to-nodejs-streams-9d2d594a9bf5</link>
-            <guid>https://blog.insiderattack.net/a-visual-guide-to-nodejs-streams-9d2d594a9bf5</guid>
-            <pubDate>Thu, 17 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[AdminJS 5.0: An Admin Panel for Node Apps]]></title>
+            <link>https://github.com/SoftwareBrothers/adminjs</link>
+            <guid>https://github.com/SoftwareBrothers/adminjs</guid>
+            <pubDate>Thu, 24 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Undici 4.0: An HTTP Client, Written from Scratch for Node]]></title>
-            <link>https://nodejs.medium.com/introducing-undici-4-1e321243e007</link>
-            <guid>https://nodejs.medium.com/introducing-undici-4-1e321243e007</guid>
-            <pubDate>Thu, 17 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Node v16.4.0 (Current) Released]]></title>
+            <link>https://nodejs.org/en/blog/release/v16.4.0/</link>
+            <guid>https://nodejs.org/en/blog/release/v16.4.0/</guid>
+            <pubDate>Thu, 24 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Explicit ESM in Node with .mjs]]></title>
-            <link>https://dev.to/bnb/explicit-esm-in-node-js-with-mjs-3ooh</link>
-            <guid>https://dev.to/bnb/explicit-esm-in-node-js-with-mjs-3ooh</guid>
-            <pubDate>Thu, 17 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[ApostropheCMS 3.0 Released]]></title>
+            <link>https://apostrophecms.com/blog/apostrophe-3-release</link>
+            <guid>https://apostrophecms.com/blog/apostrophe-3-release</guid>
+            <pubDate>Thu, 24 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Next.js 11 Released]]></title>
-            <link>https://nextjs.org/blog/next-11</link>
-            <guid>https://nextjs.org/blog/next-11</guid>
-            <pubDate>Thu, 17 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[28 (And Counting) Node CLI App Best Practices]]></title>
+            <link>https://github.com/lirantal/nodejs-cli-apps-best-practices</link>
+            <guid>https://github.com/lirantal/nodejs-cli-apps-best-practices</guid>
+            <pubDate>Thu, 24 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Beginner's Guide to the File System Module (fs)]]></title>
-            <link>https://catalins.tech/a-beginners-guide-to-the-file-system-module-in-nodejs?guid=none&amp;deviceId=c5ff0efa-74c7-427b-96d7-c4cf512dd2a4</link>
-            <guid>https://catalins.tech/a-beginners-guide-to-the-file-system-module-in-nodejs?guid=none&amp;deviceId=c5ff0efa-74c7-427b-96d7-c4cf512dd2a4</guid>
-            <pubDate>Thu, 17 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Vercel Raises $102M Series C Round]]></title>
+            <link>https://rauchg.com/2021/making-the-web-faster</link>
+            <guid>https://rauchg.com/2021/making-the-web-faster</guid>
+            <pubDate>Thu, 24 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Creating a Serverless Function to Scrape Web Page Metadata]]></title>
-            <link>https://mmazzarolo.com/blog/2021-06-06-metascraper-serverless-function/</link>
-            <guid>https://mmazzarolo.com/blog/2021-06-06-metascraper-serverless-function/</guid>
-            <pubDate>Thu, 17 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to Dynamically Import ES Modules]]></title>
+            <link>https://dmitripavlutin.com/ecmascript-modules-dynamic-import/</link>
+            <guid>https://dmitripavlutin.com/ecmascript-modules-dynamic-import/</guid>
+            <pubDate>Thu, 24 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NPM Global Audit: A Small Tool to Audit Globally Installed Modules]]></title>
-            <link>https://www.npmjs.com/package/npm-global-audit</link>
-            <guid>https://www.npmjs.com/package/npm-global-audit</guid>
-            <pubDate>Thu, 17 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Madge 5.0: Create Graphs From Your Module Dependencies]]></title>
+            <link>https://github.com/pahen/madge</link>
+            <guid>https://github.com/pahen/madge</guid>
+            <pubDate>Thu, 24 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Introducing Papr: Type-Safe Node.js Models for MongoDB]]></title>
-            <link>https://medium.com/plexlabs/papr-type-safe-node-js-models-for-mongodb-c841e8b23429</link>
-            <guid>https://medium.com/plexlabs/papr-type-safe-node-js-models-for-mongodb-c841e8b23429</guid>
-            <pubDate>Thu, 17 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[RunJS 2.0: A Desktop Playground for JavaScript and TypeScript]]></title>
+            <link>https://runjs.app/</link>
+            <guid>https://runjs.app/</guid>
+            <pubDate>Thu, 24 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Merge Anything: Merge Objects and Other Types Recursively]]></title>
-            <link>https://github.com/mesqueeb/merge-anything</link>
-            <guid>https://github.com/mesqueeb/merge-anything</guid>
-            <pubDate>Thu, 17 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Remote Repositories Extension for Visual Studio Code]]></title>
+            <link>https://code.visualstudio.com/blogs/2021/06/10/remote-repositories?WT.mc_id=devcloud-00000-cxa</link>
+            <guid>https://code.visualstudio.com/blogs/2021/06/10/remote-repositories?WT.mc_id=devcloud-00000-cxa</guid>
+            <pubDate>Thu, 24 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[gmail-tester: A Simple Node Gmail Client]]></title>
-            <link>https://github.com/levz0r/gmail-tester</link>
-            <guid>https://github.com/levz0r/gmail-tester</guid>
-            <pubDate>Thu, 17 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Micromark 3.0: A Small Compliant Markdown Parser]]></title>
+            <link>https://github.com/micromark/micromark</link>
+            <guid>https://github.com/micromark/micromark</guid>
+            <pubDate>Thu, 24 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[depcheck: A Tool to Check for Unused Dependencies]]></title>
-            <link>https://github.com/depcheck/depcheck</link>
-            <guid>https://github.com/depcheck/depcheck</guid>
-            <pubDate>Thu, 17 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Node Serialport: Access Serial Ports with JavaScript]]></title>
+            <link>https://serialport.io/</link>
+            <guid>https://serialport.io/</guid>
+            <pubDate>Thu, 24 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ws 7.5: A Fast and Throughly Tested WebSocket Client and Server for Node]]></title>
-            <link>https://github.com/websockets/ws</link>
-            <guid>https://github.com/websockets/ws</guid>
-            <pubDate>Thu, 17 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[node-httpreq: Another HTTP Client Library for Node]]></title>
+            <link>https://github.com/SamDecrock/node-httpreq</link>
+            <guid>https://github.com/SamDecrock/node-httpreq</guid>
+            <pubDate>Thu, 24 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Canary in the Gold Mine v8.0]]></title>
-            <link>https://github.com/nodejs/citgm</link>
-            <guid>https://github.com/nodejs/citgm</guid>
-            <pubDate>Thu, 17 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[dotenv-linter: A Lightning-Fast Linter for .env Files]]></title>
+            <link>https://github.com/dotenv-linter/dotenv-linter</link>
+            <guid>https://github.com/dotenv-linter/dotenv-linter</guid>
+            <pubDate>Thu, 24 Jun 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[libnpmexec 2.0: npm exec (npx) as a Programmatic API]]></title>
+            <link>https://github.com/npm/libnpmexec</link>
+            <guid>https://github.com/npm/libnpmexec</guid>
+            <pubDate>Thu, 24 Jun 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Generating PDFs with Serverless, AWS Lambda and Puppeteer]]></title>
+            <link>https://shubham-pandey.medium.com/pdf-generation-with-serverless-aws-and-puppeteer-cac3442b1c95</link>
+            <guid>https://shubham-pandey.medium.com/pdf-generation-with-serverless-aws-and-puppeteer-cac3442b1c95</guid>
+            <pubDate>Thu, 24 Jun 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Measure the Performance of a Web App with Lighthouse CI in a GitLab CI Pipeline]]></title>
+            <link>https://medium.com/tuimm/measure-performance-web-app-with-lighthouse-ci-in-a-gitlab-pipeline-dd292842e40d</link>
+            <guid>https://medium.com/tuimm/measure-performance-web-app-with-lighthouse-ci-in-a-gitlab-pipeline-dd292842e40d</guid>
+            <pubDate>Thu, 24 Jun 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

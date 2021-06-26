@@ -4,57 +4,75 @@
         <title>Serverless Status</title>
         <link>https://serverless.email/</link>
         <description>A weekly newsletter on serverless and function-as-a-service (FaaS) architectures and platforms including AWS Lambda and Azure Functions.</description>
-        <lastBuildDate>Tue, 22 Jun 2021 07:46:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Jun 2021 07:46:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Introducing AWS Step Functions Workflow Studio]]></title>
-            <link>https://aws.amazon.com/blogs/aws/new-aws-step-functions-workflow-studio-a-low-code-visual-tool-for-building-state-machines/</link>
-            <guid>https://aws.amazon.com/blogs/aws/new-aws-step-functions-workflow-studio-a-low-code-visual-tool-for-building-state-machines/</guid>
-            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Prototyping at Speed with AWS Step Functions New Workflow Studio]]></title>
+            <link>https://aws.amazon.com/blogs/compute/prototyping-at-speed-with-aws-step-functions-new-workflow-studio/</link>
+            <guid>https://aws.amazon.com/blogs/compute/prototyping-at-speed-with-aws-step-functions-new-workflow-studio/</guid>
+            <pubDate>Fri, 25 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Building a Serverless Banking Platform with Patrick Strzelec]]></title>
-            <link>https://www.serverlesschats.com/105/</link>
-            <guid>https://www.serverlesschats.com/105/</guid>
-            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[The Fault in Our Stars (or Wildcards)]]></title>
+            <link>https://www.tenchisecurity.com/blog/thefaultinourstars</link>
+            <guid>https://www.tenchisecurity.com/blog/thefaultinourstars</guid>
+            <pubDate>Fri, 25 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why You May Not Want To Use AWS Amplify for Your Next Serverless Project]]></title>
-            <link>https://peter-sereda.medium.com/why-you-may-want-not-use-aws-amplify-for-your-next-serverless-project-57b578e60252</link>
-            <guid>https://peter-sereda.medium.com/why-you-may-want-not-use-aws-amplify-for-your-next-serverless-project-57b578e60252</guid>
-            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Building Apps on the Decentralized Web with Nader Dabit]]></title>
+            <link>https://www.serverlesschats.com/106/</link>
+            <guid>https://www.serverlesschats.com/106/</guid>
+            <pubDate>Fri, 25 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The AWS Serverless Patterns Collection]]></title>
-            <link>https://serverlessland.com/patterns</link>
-            <guid>https://serverlessland.com/patterns</guid>
-            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to Create Custom Handlers for Azure Functions]]></title>
+            <link>https://www.youtube.com/watch?v=roWbjuo-c30</link>
+            <guid>https://www.youtube.com/watch?v=roWbjuo-c30</guid>
+            <pubDate>Fri, 25 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Exploring Serverless Patterns for Amazon DynamoDB]]></title>
-            <link>https://aws.amazon.com/blogs/compute/exploring-serverless-patterns-for-amazon-dynamodb/</link>
-            <guid>https://aws.amazon.com/blogs/compute/exploring-serverless-patterns-for-amazon-dynamodb/</guid>
-            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Performing OCR with AWS Lambda and Tesseract]]></title>
+            <link>https://medium.com/nerd-for-tech/aws-knowledge-series-ocr-with-aws-lambda-tesseract-b0daeb2fd8fa</link>
+            <guid>https://medium.com/nerd-for-tech/aws-knowledge-series-ocr-with-aws-lambda-tesseract-b0daeb2fd8fa</guid>
+            <pubDate>Fri, 25 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Beginner's Guide to Running Rust on AWS Lambda]]></title>
-            <link>https://dev.to/nicholaschiasson/beginner-s-guide-to-running-rust-on-aws-lambda-277n</link>
-            <guid>https://dev.to/nicholaschiasson/beginner-s-guide-to-running-rust-on-aws-lambda-277n</guid>
-            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Streaming Amazon DynamoDB Data into a Centralized Data Lake]]></title>
+            <link>https://aws.amazon.com/blogs/big-data/streaming-amazon-dynamodb-data-into-a-centralized-data-lake/</link>
+            <guid>https://aws.amazon.com/blogs/big-data/streaming-amazon-dynamodb-data-into-a-centralized-data-lake/</guid>
+            <pubDate>Fri, 25 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Generating PDFs with Serverless, AWS Lambda and Puppeteer]]></title>
-            <link>https://shubham-pandey.medium.com/pdf-generation-with-serverless-aws-and-puppeteer-cac3442b1c95</link>
-            <guid>https://shubham-pandey.medium.com/pdf-generation-with-serverless-aws-and-puppeteer-cac3442b1c95</guid>
-            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Deploying Machine Learning Models with Serverless Templates]]></title>
+            <link>https://aws.amazon.com/blogs/compute/deploying-machine-learning-models-with-serverless-templates/</link>
+            <guid>https://aws.amazon.com/blogs/compute/deploying-machine-learning-models-with-serverless-templates/</guid>
+            <pubDate>Fri, 25 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Six Serverless Frameworks to Watch in 2021]]></title>
-            <link>https://dev.to/hsshah_/six-serverless-frameworks-to-watch-in-2021-4p2</link>
-            <guid>https://dev.to/hsshah_/six-serverless-frameworks-to-watch-in-2021-4p2</guid>
-            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How Serverless Functions and Jamstack Can Power Up React Apps]]></title>
+            <link>https://www.youtube.com/watch?v=oAI-bpI65aY</link>
+            <guid>https://www.youtube.com/watch?v=oAI-bpI65aY</guid>
+            <pubDate>Fri, 25 Jun 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AWS Lambda Power Tuning]]></title>
+            <link>https://github.com/alexcasalboni/aws-lambda-power-tuning</link>
+            <guid>https://github.com/alexcasalboni/aws-lambda-power-tuning</guid>
+            <pubDate>Fri, 25 Jun 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google Chrome for AWS Lambda as a Layer]]></title>
+            <link>https://github.com/shelfio/chrome-aws-lambda-layer</link>
+            <guid>https://github.com/shelfio/chrome-aws-lambda-layer</guid>
+            <pubDate>Fri, 25 Jun 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Migrate DynamoDB Tables from One AWS Account to Another with AWS Data Pipeline]]></title>
+            <link>https://aws.amazon.com/blogs/database/how-to-migrate-amazon-dynamodb-tables-from-one-aws-account-to-another-with-aws-data-pipeline/</link>
+            <guid>https://aws.amazon.com/blogs/database/how-to-migrate-amazon-dynamodb-tables-from-one-aws-account-to-another-with-aws-data-pipeline/</guid>
+            <pubDate>Fri, 25 Jun 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>React Status</title>
         <link>https://react.statuscode.com/</link>
         <description>A weekly roundup of the latest React and React Native links and tutorials.</description>
-        <lastBuildDate>Mon, 28 Jun 2021 07:46:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Jun 2021 07:46:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -22,8 +22,8 @@
         </item>
         <item>
             <title><![CDATA[React 18: A Summary in 12 Tweets]]></title>
-            <link>https://mobile.twitter.com/ProvablyFlarnie/status/1406729055488016386</link>
-            <guid>https://mobile.twitter.com/ProvablyFlarnie/status/1406729055488016386</guid>
+            <link>https://twitter.com/ProvablyFlarnie/status/1406729055488016386</link>
+            <guid>https://twitter.com/ProvablyFlarnie/status/1406729055488016386</guid>
             <pubDate>Wed, 23 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>

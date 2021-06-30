@@ -4,10 +4,45 @@
         <title>CSS Layout News</title>
         <link>https://csslayout.news/</link>
         <description>Weekly CSS layout newsletter and resource site by Rachel Andrew</description>
-        <lastBuildDate>Wed, 23 Jun 2021 07:01:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Jun 2021 20:24:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Diversity and inclusion fund for TPAC]]></title>
+            <link>https://www.w3.org/blog/2021/06/diversity-and-inclusion-at-w3c-inclusion-fund-and-fellowships-for-tpac-2021/</link>
+            <guid>https://www.w3.org/blog/2021/06/diversity-and-inclusion-at-w3c-inclusion-fund-and-fellowships-for-tpac-2021/</guid>
+            <pubDate>Tue, 29 Jun 2021 19:19:06 GMT</pubDate>
+            <description><![CDATA[The W3C have a fund to help people from underrepresented groups attend TPAC, the main meeting of the W3C. Take a look if this is something you might benefit from, or could pass onto someone who might.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Drawing Graphics with the CSS Paint API]]></title>
+            <link>https://tympanus.net/codrops/2021/06/18/drawing-graphics-with-the-css-paint-api/</link>
+            <guid>https://tympanus.net/codrops/2021/06/18/drawing-graphics-with-the-css-paint-api/</guid>
+            <pubDate>Tue, 29 Jun 2021 19:19:06 GMT</pubDate>
+            <description><![CDATA[This tutorial looks at two of the Houdini APIs—Paint, and Properties and Values. Walk through some practical examples to learn how these work.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Using Performant Next-Gen Images in CSS with image-set]]></title>
+            <link>https://css-tricks.com/using-performant-next-gen-images-in-css-with-image-set/</link>
+            <guid>https://css-tricks.com/using-performant-next-gen-images-in-css-with-image-set/</guid>
+            <pubDate>Tue, 29 Jun 2021 19:19:06 GMT</pubDate>
+            <description><![CDATA[If you use image-set() as a value for background-image in CSS, you can specify a number of images and allow the browser to pick the most suitable, it's all explained in this article.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Multi colored text with CSS]]></title>
+            <link>https://codepen.io/TajShireen/pen/YzZmbep</link>
+            <guid>https://codepen.io/TajShireen/pen/YzZmbep</guid>
+            <pubDate>Tue, 29 Jun 2021 19:19:06 GMT</pubDate>
+            <description><![CDATA[This is just lovely.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[History of the Web: Community]]></title>
+            <link>https://css-tricks.com/chapter-9-community/</link>
+            <guid>https://css-tricks.com/chapter-9-community/</guid>
+            <pubDate>Tue, 29 Jun 2021 19:19:06 GMT</pubDate>
+            <description><![CDATA[Not CSS, or layout, however this chapter touches on many of the communities that were the starting point for web developers of a certain age. I started to learn HTML via the message boards of the ParentsPlace.com website, back in 1996 when I was pregnant with my daughter. Among the forums about childbirth, sleep, and toddler tantrums, people were teaching each other HTML so they could build websites about their families. I liked building websites, I also really liked helping other people to build websites, and so here I am now!]]></description>
+        </item>
         <item>
             <title><![CDATA[TablesNG Resolves 72 Chromium Bugs for Better Interoperability]]></title>
             <link>https://developer.chrome.com/blog/tablesng/</link>
@@ -644,48 +679,6 @@
             <guid>https://transition.style/</guid>
             <pubDate>Tue, 23 Mar 2021 20:40:00 GMT</pubDate>
             <description><![CDATA[Some nice little transitions to copy and paste or just to poke at to see how they work.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[A Live Interview with Rachel Andrew and Jeremy Keith]]></title>
-            <link>https://aneventapart.com/news/post/a-live-interview-with-rachel-and-jeremy</link>
-            <guid>https://aneventapart.com/news/post/a-live-interview-with-rachel-and-jeremy</guid>
-            <pubDate>Tue, 16 Mar 2021 20:34:00 GMT</pubDate>
-            <description><![CDATA[A recording of a Facebook live event with me and Jeremy Keith, as we look forward to the An Event Apart Spring Summit.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Release Notes for Safari Technology Preview 122 | WebKit]]></title>
-            <link>https://webkit.org/blog/11577/release-notes-for-safari-technology-preview-122/</link>
-            <guid>https://webkit.org/blog/11577/release-notes-for-safari-technology-preview-122/</guid>
-            <pubDate>Tue, 16 Mar 2021 20:34:00 GMT</pubDate>
-            <description><![CDATA[There is a whole bunch of good stuff in the latest Safari TP. Lots of grid fixes plus experimental support for some interesting new color functions.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Grid, content re-ordering, and accessibility]]></title>
-            <link>https://noti.st/rachelandrew/Mny9Vg/grid-content-re-ordering-and-accessibility</link>
-            <guid>https://noti.st/rachelandrew/Mny9Vg/grid-content-re-ordering-and-accessibility</guid>
-            <pubDate>Tue, 16 Mar 2021 20:34:00 GMT</pubDate>
-            <description><![CDATA[My slides and demos from Axe-con. The video is being released at some point and I'll add it to that page when it is.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[#205: Sticky Positioning: How it Works, What Can Break It, and Dumb Tricks | CSS-Tricks]]></title>
-            <link>https://css-tricks.com/video-screencasts/205-sticky-positioning-how-it-works-what-can-break-it-and-dumb-tricks/</link>
-            <guid>https://css-tricks.com/video-screencasts/205-sticky-positioning-how-it-works-what-can-break-it-and-dumb-tricks/</guid>
-            <pubDate>Tue, 16 Mar 2021 20:34:00 GMT</pubDate>
-            <description><![CDATA[Some pointers as to why your sticky positioned thing isn't working.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[HSL: a color format for humans - Cloud Four]]></title>
-            <link>https://cloudfour.com/thinks/hsl-a-color-format-for-humans/</link>
-            <guid>https://cloudfour.com/thinks/hsl-a-color-format-for-humans/</guid>
-            <pubDate>Tue, 16 Mar 2021 20:34:00 GMT</pubDate>
-            <description><![CDATA[I've been thinking about color this week as I have been documenting various color functions over at MDN. Here is a great post explaining HSL.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Debugging layout shifts]]></title>
-            <link>https://web.dev/debugging-layout-shifts/</link>
-            <guid>https://web.dev/debugging-layout-shifts/</guid>
-            <pubDate>Tue, 16 Mar 2021 20:34:00 GMT</pubDate>
-            <description><![CDATA[Useful information on how to identify layout shifts and ultimately fix them.]]></description>
         </item>
     </channel>
 </rss>

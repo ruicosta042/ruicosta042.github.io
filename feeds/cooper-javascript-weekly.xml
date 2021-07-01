@@ -4,7 +4,7 @@
         <title>JavaScript Weekly</title>
         <link>https://javascriptweekly.com/</link>
         <description>A newsletter of JavaScript articles, news and cool projects</description>
-        <lastBuildDate>Sat, 26 Jun 2021 07:46:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jul 2021 07:46:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -52,8 +52,8 @@
         </item>
         <item>
             <title><![CDATA[How a Streamer Uses JavaScript to Create an Interactive Livestream]]></title>
-            <link>https://www.youtube.com/watch?v=qzaX3y52VdY</link>
-            <guid>https://www.youtube.com/watch?v=qzaX3y52VdY</guid>
+            <link>https://m.youtube.com/watch?v=qzaX3y52VdY</link>
+            <guid>https://m.youtube.com/watch?v=qzaX3y52VdY</guid>
             <pubDate>Fri, 25 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>

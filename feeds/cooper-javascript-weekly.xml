@@ -4,123 +4,111 @@
         <title>JavaScript Weekly</title>
         <link>https://javascriptweekly.com/</link>
         <description>A newsletter of JavaScript articles, news and cool projects</description>
-        <lastBuildDate>Fri, 02 Jul 2021 07:46:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jul 2021 07:45:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[ES2021 Now Approved; Here's the Features (Quickly)]]></title>
-            <link>https://h3manth.com/ES2021/</link>
-            <guid>https://h3manth.com/ES2021/</guid>
-            <pubDate>Fri, 25 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Temporal: Getting Started with JavaScript’s New/Forthcoming Date and Time API]]></title>
+            <link>https://2ality.com/2021/06/temporal-api.html</link>
+            <guid>https://2ality.com/2021/06/temporal-api.html</guid>
+            <pubDate>Fri, 02 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Coding Up a Mario Game in JavaScript with Kaboom.js]]></title>
-            <link>https://m.youtube.com/watch?v=2nucjefSr6I</link>
-            <guid>https://m.youtube.com/watch?v=2nucjefSr6I</guid>
-            <pubDate>Fri, 25 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Solid 1.0: A Declarative JavaScript UI Library Worth Investigating]]></title>
+            <link>https://dev.to/ryansolid/solidjs-official-release-the-long-road-to-1-0-4ldd</link>
+            <guid>https://dev.to/ryansolid/solidjs-official-release-the-long-road-to-1-0-4ldd</guid>
+            <pubDate>Fri, 02 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Parsing in JavaScript: The Tools and Libraries You Can Use]]></title>
-            <link>https://tomassetti.me/parsing-in-javascript/</link>
-            <guid>https://tomassetti.me/parsing-in-javascript/</guid>
-            <pubDate>Fri, 25 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[The 'JS is Weird' Quiz]]></title>
+            <link>https://jsisweird.com/</link>
+            <guid>https://jsisweird.com/</guid>
+            <pubDate>Fri, 02 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Surprising Feature of JavaScript Optional Chaining]]></title>
-            <link>https://swizec.com/blog/a-surprising-feature-of-javascript-optional-chaining/</link>
-            <guid>https://swizec.com/blog/a-surprising-feature-of-javascript-optional-chaining/</guid>
-            <pubDate>Fri, 25 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Encoding Data for POST Requests Properly]]></title>
+            <link>https://jakearchibald.com/2021/encoding-data-for-post-requests/</link>
+            <guid>https://jakearchibald.com/2021/encoding-data-for-post-requests/</guid>
+            <pubDate>Fri, 02 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Demystifying styled-components]]></title>
-            <link>https://www.joshwcomeau.com/react/demystifying-styled-components/</link>
-            <guid>https://www.joshwcomeau.com/react/demystifying-styled-components/</guid>
-            <pubDate>Fri, 25 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to Structure and Organize a React App]]></title>
+            <link>https://www.taniarascia.com/react-architecture-directory-structure/</link>
+            <guid>https://www.taniarascia.com/react-architecture-directory-structure/</guid>
+            <pubDate>Fri, 02 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ship Less JavaScript with Astro]]></title>
-            <link>https://www.learnwithjason.dev/ship-less-javascript-with-astro</link>
-            <guid>https://www.learnwithjason.dev/ship-less-javascript-with-astro</guid>
-            <pubDate>Fri, 25 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Sorting Colors in JavaScript]]></title>
+            <link>https://tomekdev.com/posts/sorting-colors-in-js</link>
+            <guid>https://tomekdev.com/posts/sorting-colors-in-js</guid>
+            <pubDate>Fri, 02 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Read and Render Markdown Files with Next.js and Nx]]></title>
-            <link>https://juristr.com/blog/2021/06/read-render-markdown-nextjs-and-nx/</link>
-            <guid>https://juristr.com/blog/2021/06/read-render-markdown-nextjs-and-nx/</guid>
-            <pubDate>Fri, 25 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Lessons From Building a Static Site Generator]]></title>
+            <link>https://nicholasreese.com/lessons-from-building-a-static-site-generator/</link>
+            <guid>https://nicholasreese.com/lessons-from-building-a-static-site-generator/</guid>
+            <pubDate>Fri, 02 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How a Streamer Uses JavaScript to Create an Interactive Livestream]]></title>
-            <link>https://www.youtube.com/watch?v=qzaX3y52VdY</link>
-            <guid>https://www.youtube.com/watch?v=qzaX3y52VdY</guid>
-            <pubDate>Fri, 25 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Milkdown: A Plugin-Driven WYSIWYG Markdown Editor]]></title>
+            <link>https://github.com/saul-mirone/milkdown/</link>
+            <guid>https://github.com/saul-mirone/milkdown/</guid>
+            <pubDate>Fri, 02 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Indiepen: A Privacy-Friendly Way to Embed HTML, CSS and JS Examples]]></title>
-            <link>https://indiepen.tech/</link>
-            <guid>https://indiepen.tech/</guid>
-            <pubDate>Fri, 25 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[A Code Generator for Making HTTP Requests]]></title>
+            <link>https://www.labnol.org/apps/urlfetch.html</link>
+            <guid>https://www.labnol.org/apps/urlfetch.html</guid>
+            <pubDate>Fri, 02 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[RunJS 2.0: A Desktop Playground for JavaScript and TypeScript]]></title>
-            <link>https://runjs.app/</link>
-            <guid>https://runjs.app/</guid>
-            <pubDate>Fri, 25 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Slowfil.es: Deliberately Slow HTTP Resources for Testing]]></title>
+            <link>https://slowfil.es/</link>
+            <guid>https://slowfil.es/</guid>
+            <pubDate>Fri, 02 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Quasar Framework 2.0: A Way to Build Vue.js 3-based UIs Quickly]]></title>
-            <link>https://quasar.dev/</link>
-            <guid>https://quasar.dev/</guid>
-            <pubDate>Fri, 25 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Google's New Tool for Understanding Package Dependencies]]></title>
+            <link>https://deps.dev/</link>
+            <guid>https://deps.dev/</guid>
+            <pubDate>Fri, 02 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ApostropheCMS 3.0 Released]]></title>
-            <link>https://apostrophecms.com/blog/apostrophe-3-release</link>
-            <guid>https://apostrophecms.com/blog/apostrophe-3-release</guid>
-            <pubDate>Fri, 25 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Million: A Less-than-1KB Virtual DOM Implementation]]></title>
+            <link>https://million.js.org/</link>
+            <guid>https://million.js.org/</guid>
+            <pubDate>Fri, 02 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Resemble.js 4.0: Image Analysis and Comparison Library]]></title>
-            <link>https://github.com/rsmbl/Resemble.js</link>
-            <guid>https://github.com/rsmbl/Resemble.js</guid>
-            <pubDate>Fri, 25 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Gute: A Simple JS Library for Building Web Games]]></title>
+            <link>https://github.com/kevglass/gute/</link>
+            <guid>https://github.com/kevglass/gute/</guid>
+            <pubDate>Fri, 02 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AdminJS 5.0: An Admin Panel for Node Apps]]></title>
-            <link>https://github.com/SoftwareBrothers/adminjs</link>
-            <guid>https://github.com/SoftwareBrothers/adminjs</guid>
-            <pubDate>Fri, 25 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[wait-on 6.0: A CLI and Node Library to Wait for Ports, Files, Sockets, etc.]]></title>
+            <link>https://github.com/jeffbski/wait-on</link>
+            <guid>https://github.com/jeffbski/wait-on</guid>
+            <pubDate>Fri, 02 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pica: Fast, High Quality Image Resizing in the Browser]]></title>
-            <link>https://github.com/nodeca/pica</link>
-            <guid>https://github.com/nodeca/pica</guid>
-            <pubDate>Fri, 25 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[XO: An Opinionated but Configurable ESLint Wrapper]]></title>
+            <link>https://github.com/xojs/xo</link>
+            <guid>https://github.com/xojs/xo</guid>
+            <pubDate>Fri, 02 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ip-address 8.0: Library for Parsing and Manipulating IP Addresses]]></title>
-            <link>https://github.com/beaugunderson/ip-address</link>
-            <guid>https://github.com/beaugunderson/ip-address</guid>
-            <pubDate>Fri, 25 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[A Fortnite-Inspired VS Code Theme]]></title>
+            <link>https://marketplace.visualstudio.com/items?itemName=sdras.fortnite-vscode-theme#fortnitetheme</link>
+            <guid>https://marketplace.visualstudio.com/items?itemName=sdras.fortnite-vscode-theme#fortnitetheme</guid>
+            <pubDate>Fri, 02 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[iPod.js: A Web-Based JavaScript-Powered 'iPod']]></title>
-            <link>https://tannerv.com/ipod/</link>
-            <guid>https://tannerv.com/ipod/</guid>
-            <pubDate>Fri, 25 Jun 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cypress or How I Learned to Stop Worrying and Love E2E]]></title>
-            <link>https://madewithlove.com/blog/software-engineering/cypress-or-how-i-learned-to-stop-worrying-and-love-e2e/</link>
-            <guid>https://madewithlove.com/blog/software-engineering/cypress-or-how-i-learned-to-stop-worrying-and-love-e2e/</guid>
-            <pubDate>Fri, 25 Jun 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Building Interactive Bar Charts with D3.js]]></title>
-            <link>https://blog.risingstack.com/d3-js-tutorial-bar-charts-with-javascript/</link>
-            <guid>https://blog.risingstack.com/d3-js-tutorial-bar-charts-with-javascript/</guid>
-            <pubDate>Fri, 25 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Image To Text Conversion With React and Tesseract.js]]></title>
+            <link>https://www.smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/</link>
+            <guid>https://www.smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/</guid>
+            <pubDate>Fri, 02 Jul 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

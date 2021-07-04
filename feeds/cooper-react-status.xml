@@ -4,7 +4,7 @@
         <title>React Status</title>
         <link>https://react.statuscode.com/</link>
         <description>A weekly roundup of the latest React and React Native links and tutorials.</description>
-        <lastBuildDate>Thu, 01 Jul 2021 07:46:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jul 2021 07:46:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -52,8 +52,8 @@
         </item>
         <item>
             <title><![CDATA[Building a Realtime Chat App with React, Node.js, and Socket.io]]></title>
-            <link>https://www.youtube.com/watch?v=HggSXt1Hzfk</link>
-            <guid>https://www.youtube.com/watch?v=HggSXt1Hzfk</guid>
+            <link>https://m.youtube.com/watch?v=HggSXt1Hzfk</link>
+            <guid>https://m.youtube.com/watch?v=HggSXt1Hzfk</guid>
             <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>

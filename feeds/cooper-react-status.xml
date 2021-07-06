@@ -4,7 +4,7 @@
         <title>React Status</title>
         <link>https://react.statuscode.com/</link>
         <description>A weekly roundup of the latest React and React Native links and tutorials.</description>
-        <lastBuildDate>Sun, 04 Jul 2021 07:46:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jul 2021 07:46:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -16,8 +16,8 @@
         </item>
         <item>
             <title><![CDATA[How Serverless Functions and Jamstack Can Power Up React Apps]]></title>
-            <link>https://www.youtube.com/watch?v=oAI-bpI65aY</link>
-            <guid>https://www.youtube.com/watch?v=oAI-bpI65aY</guid>
+            <link>https://m.youtube.com/watch?v=oAI-bpI65aY</link>
+            <guid>https://m.youtube.com/watch?v=oAI-bpI65aY</guid>
             <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -52,8 +52,8 @@
         </item>
         <item>
             <title><![CDATA[Building a Realtime Chat App with React, Node.js, and Socket.io]]></title>
-            <link>https://m.youtube.com/watch?v=HggSXt1Hzfk</link>
-            <guid>https://m.youtube.com/watch?v=HggSXt1Hzfk</guid>
+            <link>https://www.youtube.com/watch?v=HggSXt1Hzfk</link>
+            <guid>https://www.youtube.com/watch?v=HggSXt1Hzfk</guid>
             <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>

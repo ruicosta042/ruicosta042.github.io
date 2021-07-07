@@ -4,10 +4,68 @@
         <title>CSS Layout News</title>
         <link>https://csslayout.news/</link>
         <description>Weekly CSS layout newsletter and resource site by Rachel Andrew</description>
-        <lastBuildDate>Tue, 29 Jun 2021 20:24:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jul 2021 16:37:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Release Notes for Safari TP 127]]></title>
+            <link>https://webkit.org/blog/11736/release-notes-for-safari-technology-preview-127/</link>
+            <guid>https://webkit.org/blog/11736/release-notes-for-safari-technology-preview-127/</guid>
+            <pubDate>Tue, 06 Jul 2021 16:36:44 GMT</pubDate>
+            <description><![CDATA[A few interesting bits in here, however, I'm happy to see animation support for grid-template-rows and grid-template-columns coming into Safari.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[rtl.wtf]]></title>
+            <link>https://rtl.wtf/</link>
+            <guid>https://rtl.wtf/</guid>
+            <pubDate>Tue, 06 Jul 2021 16:36:44 GMT</pubDate>
+            <description><![CDATA[This is great. A site with loads of information about right-to-left languages, and how to create better experiences for people who experience the web RTL.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[TablesNG in Chromium]]></title>
+            <link>https://www.bram.us/2021/06/21/tablesng-improvements-to-table-rendering-in-chromium/</link>
+            <guid>https://www.bram.us/2021/06/21/tablesng-improvements-to-table-rendering-in-chromium/</guid>
+            <pubDate>Tue, 06 Jul 2021 16:36:44 GMT</pubDate>
+            <description><![CDATA[Bramus writes about some of the key things enabled by the work on TablesNG.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Using CSS to enforce accessibility]]></title>
+            <link>https://adrianroselli.com/2021/06/using-css-to-enforce-accessibility.html</link>
+            <guid>https://adrianroselli.com/2021/06/using-css-to-enforce-accessibility.html</guid>
+            <pubDate>Tue, 06 Jul 2021 16:36:44 GMT</pubDate>
+            <description><![CDATA[A post with examples, and links to further posts on the subject. Some good suggestions in this post, including a roundup at the end of problems that come with trying to take this approach when using Tailwind.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Overlay Fact Sheet]]></title>
+            <link>https://overlayfactsheet.com/</link>
+            <guid>https://overlayfactsheet.com/</guid>
+            <pubDate>Tue, 06 Jul 2021 16:36:44 GMT</pubDate>
+            <description><![CDATA[
+Overlays are a broad term for technologies aim to improve the accessibility of a website. They apply third-party source code (typically JavaScript) to make improvements to the front-end code of the website.
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Ready-made counter styles]]></title>
+            <link>https://www.w3.org/TR/predefined-counter-styles/</link>
+            <guid>https://www.w3.org/TR/predefined-counter-styles/</guid>
+            <pubDate>Tue, 06 Jul 2021 16:36:44 GMT</pubDate>
+            <description><![CDATA[A collection of over 100 counter-style code snippets. This document provides counter styles that meet the needs of languages and cultures around the world.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Anchored positioning: a call for feedback]]></title>
+            <link>https://melanie-richards.com/blog/anchor-pos-use-cases/</link>
+            <guid>https://melanie-richards.com/blog/anchor-pos-use-cases/</guid>
+            <pubDate>Tue, 06 Jul 2021 16:36:44 GMT</pubDate>
+            <description><![CDATA[A request for feedback and use cases on anchored positioning. This is where you have an element, such as a popup menu, that is anchored to the top of a button. If the viewport changes you might want it to then be anchored to the bottom of the button, in order to remain visible.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Improving CSS variables in WebKit]]></title>
+            <link>https://engineering.widen.com/blog/Improving-CSS-Variables-in-WebKit/</link>
+            <guid>https://engineering.widen.com/blog/Improving-CSS-Variables-in-WebKit/</guid>
+            <pubDate>Tue, 06 Jul 2021 16:36:44 GMT</pubDate>
+            <description><![CDATA[A detailed post on some improvements made to CSS variables in WebKit, with lots of interesting detail in terms of how these things work under the hood, and everything that needs considering.]]></description>
+        </item>
         <item>
             <title><![CDATA[Diversity and inclusion fund for TPAC]]></title>
             <link>https://www.w3.org/blog/2021/06/diversity-and-inclusion-at-w3c-inclusion-fund-and-fellowships-for-tpac-2021/</link>
@@ -630,55 +688,6 @@
             <guid>https://component.gallery/</guid>
             <pubDate>Tue, 30 Mar 2021 19:42:00 GMT</pubDate>
             <description><![CDATA[This is cool. A reference of components, useful for folk building component-based interfaces.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Compat2021: Eliminating five top compatibility pain points on the web]]></title>
-            <link>https://web.dev/compat2021/</link>
-            <guid>https://web.dev/compat2021/</guid>
-            <pubDate>Tue, 23 Mar 2021 20:40:00 GMT</pubDate>
-            <description><![CDATA[Google is partnering with other browser vendors and industry partners to fix the top five browser compatibility pain points for web developers: CSS Flexbox, CSS Grid, position: sticky, aspect-ratio, and CSS transforms.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[color-mix() - CSS: Cascading Style Sheets | MDN]]></title>
-            <link>https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/color-mix()</link>
-            <guid>https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/color-mix()</guid>
-            <pubDate>Tue, 23 Mar 2021 20:40:00 GMT</pubDate>
-            <description><![CDATA[The color-mix() function is in Firefox Nightly and Safari TP. It's one of a whole bunch of interesting things that are part of CSS Color Level 4 and 5. I'm working through documenting them for MDN.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Accessible Text Labels For All]]></title>
-            <link>https://www.sarasoueidan.com/blog/accessible-text-labels/</link>
-            <guid>https://www.sarasoueidan.com/blog/accessible-text-labels/</guid>
-            <pubDate>Tue, 23 Mar 2021 20:40:00 GMT</pubDate>
-            <description><![CDATA[How to create more descriptive button or link text labels to improve the e-commerce experience for screen readers users.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Building a Settings component]]></title>
-            <link>https://web.dev/building-a-settings-component/</link>
-            <guid>https://web.dev/building-a-settings-component/</guid>
-            <pubDate>Tue, 23 Mar 2021 20:40:00 GMT</pubDate>
-            <description><![CDATA[A fast-paced look at building a Settings component with a lot of CSS Grid. There is a video version too.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Image Fragmentation Effect With CSS Masks and Custom Properties | CSS-Tricks]]></title>
-            <link>https://css-tricks.com/image-fragmentation-effect-with-css-masks-and-custom-properties/</link>
-            <guid>https://css-tricks.com/image-fragmentation-effect-with-css-masks-and-custom-properties/</guid>
-            <pubDate>Tue, 23 Mar 2021 20:40:00 GMT</pubDate>
-            <description><![CDATA[This is a nice effect and also demonstrates a good use case for @property.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Taming Blend Modes: `difference` and `exclusion` | CSS-Tricks]]></title>
-            <link>https://css-tricks.com/taming-blend-modes-difference-and-exclusion/</link>
-            <guid>https://css-tricks.com/taming-blend-modes-difference-and-exclusion/</guid>
-            <pubDate>Tue, 23 Mar 2021 20:40:00 GMT</pubDate>
-            <description><![CDATA[A really detailed dive into blend modes from Ana Tudor.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Transition.css - easy transitions with clip-path]]></title>
-            <link>https://transition.style/</link>
-            <guid>https://transition.style/</guid>
-            <pubDate>Tue, 23 Mar 2021 20:40:00 GMT</pubDate>
-            <description><![CDATA[Some nice little transitions to copy and paste or just to poke at to see how they work.]]></description>
         </item>
     </channel>
 </rss>

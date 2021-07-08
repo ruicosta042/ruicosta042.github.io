@@ -4,135 +4,123 @@
         <title>Frontend Focus</title>
         <link>https://frontendfoc.us/</link>
         <description>A once–weekly roundup of the best front-end news, articles and tutorials. HTML, CSS, WebGL, Canvas, browser tech, and more.</description>
-        <lastBuildDate>Thu, 01 Jul 2021 07:45:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jul 2021 07:45:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Detecting Hover-Capable Devices]]></title>
-            <link>https://css-irl.info/detecting-hover-capable-devices/</link>
-            <guid>https://css-irl.info/detecting-hover-capable-devices/</guid>
-            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[When a Click is Not Just a Click]]></title>
+            <link>https://css-tricks.com/when-a-click-is-not-just-a-click/</link>
+            <guid>https://css-tricks.com/when-a-click-is-not-just-a-click/</guid>
+            <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Meet :has, A Native CSS Parent Selector (And More)]]></title>
-            <link>https://www.smashingmagazine.com/2021/06/has-native-css-parent-selector/</link>
-            <guid>https://www.smashingmagazine.com/2021/06/has-native-css-parent-selector/</guid>
-            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[RenderingNG: Ready for The Next Generation of Web Content]]></title>
+            <link>https://developer.chrome.com/blog/renderingng/</link>
+            <guid>https://developer.chrome.com/blog/renderingng/</guid>
+            <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Using Performant Next-Gen Images in CSS with image-set]]></title>
-            <link>https://css-tricks.com/using-performant-next-gen-images-in-css-with-image-set/</link>
-            <guid>https://css-tricks.com/using-performant-next-gen-images-in-css-with-image-set/</guid>
-            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[The Internet Is Rotting]]></title>
+            <link>https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/</link>
+            <guid>https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/</guid>
+            <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Web History: Community]]></title>
-            <link>https://css-tricks.com/chapter-9-community/</link>
-            <guid>https://css-tricks.com/chapter-9-community/</guid>
-            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[A Complete Guide to Grid]]></title>
+            <link>https://css-tricks.com/snippets/css/complete-guide-grid/</link>
+            <guid>https://css-tricks.com/snippets/css/complete-guide-grid/</guid>
+            <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Media Queries in Times of @container]]></title>
-            <link>https://mxb.dev/blog/media-queries-in-times-of-container-queries/</link>
-            <guid>https://mxb.dev/blog/media-queries-in-times-of-container-queries/</guid>
-            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Building a Responsive Layout with CSS Grid and Container Queries]]></title>
+            <link>https://www.youtube.com/watch?v=eEXhvtV4hkg</link>
+            <guid>https://www.youtube.com/watch?v=eEXhvtV4hkg</guid>
+            <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Overlay Fact Sheet]]></title>
-            <link>https://overlayfactsheet.com/</link>
-            <guid>https://overlayfactsheet.com/</guid>
-            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Improving Cumulative Layout Shift at Telegraph Media Group]]></title>
+            <link>https://web.dev/telegraph/</link>
+            <guid>https://web.dev/telegraph/</guid>
+            <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Chrome Extensions: Clarifying Extension Policies for A Safer, More Consistent Web Store]]></title>
-            <link>https://developer.chrome.com/blog/policy-update-2sv/</link>
-            <guid>https://developer.chrome.com/blog/policy-update-2sv/</guid>
-            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Stop Using ‘Pop-up’]]></title>
+            <link>https://adrianroselli.com/2021/07/stop-using-pop-up.html</link>
+            <guid>https://adrianroselli.com/2021/07/stop-using-pop-up.html</guid>
+            <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[CSS Frameworks in Vogue, But Don't Forget Style Fundamentals]]></title>
-            <link>https://thenewstack.io/css-frameworks-in-vogue-but-dont-forget-style-fundamentals/</link>
-            <guid>https://thenewstack.io/css-frameworks-in-vogue-but-dont-forget-style-fundamentals/</guid>
-            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Experimenting with WebTransport]]></title>
+            <link>https://web.dev/webtransport/</link>
+            <guid>https://web.dev/webtransport/</guid>
+            <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Accessible Design: How Much Motion Is Too Much Motion?]]></title>
-            <link>https://uxdesign.cc/accessible-interaction-design-38db3b72c3ae</link>
-            <guid>https://uxdesign.cc/accessible-interaction-design-38db3b72c3ae</guid>
-            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Introducing Flicking V4 with More Customization and UI Preserving]]></title>
+            <link>https://medium.com/naver-fe-platform/introducing-flicking-v4-with-more-customization-and-ui-preserving-6b22073217a3</link>
+            <guid>https://medium.com/naver-fe-platform/introducing-flicking-v4-with-more-customization-and-ui-preserving-6b22073217a3</guid>
+            <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Google No Longer Requires Publishers to Use The AMP Format. Bad News: What Replaces It Might Be Worse]]></title>
-            <link>https://www.theregister.com/2021/06/28/google_amp_core_web_vitals/</link>
-            <guid>https://www.theregister.com/2021/06/28/google_amp_core_web_vitals/</guid>
-            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[GradientArt: An Advanced CSS Gradient Editor]]></title>
+            <link>https://gra.dient.art/</link>
+            <guid>https://gra.dient.art/</guid>
+            <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Indiepen: A Privacy-Friendly Way to Embed HTML, CSS and JS Examples]]></title>
-            <link>https://indiepen.tech/</link>
-            <guid>https://indiepen.tech/</guid>
-            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Typographic Scale Calculator: Choose The Right Font Size From A Harmonious Type Scale (Inspired by The Way Music Works)]]></title>
+            <link>https://www.layoutgridcalculator.com/typographic-scale/</link>
+            <guid>https://www.layoutgridcalculator.com/typographic-scale/</guid>
+            <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[RTL:WTF: Experiment with Right-to-Left Directionality Online]]></title>
-            <link>https://rtl.wtf/</link>
-            <guid>https://rtl.wtf/</guid>
-            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Milkdown: A Plugin-Driven WYSIWYG Markdown Editor]]></title>
+            <link>https://github.com/saul-mirone/milkdown/</link>
+            <guid>https://github.com/saul-mirone/milkdown/</guid>
+            <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[iPod.js: A Working Web-Based JavaScript-Powered 'iPod']]></title>
-            <link>https://tannerv.com/ipod/</link>
-            <guid>https://tannerv.com/ipod/</guid>
-            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[margin-margin-revolution.css: A Game to Help You Never Forget the Order of Margins in CSS]]></title>
+            <link>https://defaced.dev/web/margin-margin-revolution/</link>
+            <guid>https://defaced.dev/web/margin-margin-revolution/</guid>
+            <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Resemble.js: Image Analysis and Comparison Library]]></title>
-            <link>https://github.com/rsmbl/Resemble.js</link>
-            <guid>https://github.com/rsmbl/Resemble.js</guid>
-            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Content Placeholder for Tailwind CSS]]></title>
+            <link>https://github.com/javisperez/tailwindcontentplaceholder#demo</link>
+            <guid>https://github.com/javisperez/tailwindcontentplaceholder#demo</guid>
+            <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tips & Tricks for Testing Accessibility with Assistive Technologies]]></title>
-            <link>https://blog.tenon.io/tips-tricks-for-testing-accessibility-with-assistive-technologies/</link>
-            <guid>https://blog.tenon.io/tips-tricks-for-testing-accessibility-with-assistive-technologies/</guid>
-            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Instant Vitals: Tools to Track Core Web Vitals Metrics]]></title>
+            <link>https://vitals.dev/</link>
+            <guid>https://vitals.dev/</guid>
+            <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cypress or How I Learned to Stop Worrying and Love E2E]]></title>
-            <link>https://madewithlove.com/blog/software-engineering/cypress-or-how-i-learned-to-stop-worrying-and-love-e2e/</link>
-            <guid>https://madewithlove.com/blog/software-engineering/cypress-or-how-i-learned-to-stop-worrying-and-love-e2e/</guid>
-            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Improving CSS Variables in WebKit]]></title>
+            <link>https://engineering.widen.com/blog/Improving-CSS-Variables-in-WebKit/</link>
+            <guid>https://engineering.widen.com/blog/Improving-CSS-Variables-in-WebKit/</guid>
+            <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Master Guide to Smooth, Realistic Shadows in CSS]]></title>
-            <link>https://dev.to/devang/the-master-guide-to-smooth-realistic-shadows-in-css-463p</link>
-            <guid>https://dev.to/devang/the-master-guide-to-smooth-realistic-shadows-in-css-463p</guid>
-            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Adding Shadows to SVG Icons With CSS and SVG Filters]]></title>
+            <link>https://css-tricks.com/adding-shadows-to-svg-icons-with-css-and-svg-filters/</link>
+            <guid>https://css-tricks.com/adding-shadows-to-svg-icons-with-css-and-svg-filters/</guid>
+            <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Using CSS with ARIA to Enforce Accessibility]]></title>
-            <link>https://adrianroselli.com/2021/06/using-css-to-enforce-accessibility.html</link>
-            <guid>https://adrianroselli.com/2021/06/using-css-to-enforce-accessibility.html</guid>
-            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Creating A Scalable "Star Rating" Without JS (and No SVG/Image for the Star)]]></title>
+            <link>https://dev.to/afif/scalable-star-rating-without-js-and-no-svg-or-image-for-the-star-2mef</link>
+            <guid>https://dev.to/afif/scalable-star-rating-without-js-and-no-svg-or-image-for-the-star-2mef</guid>
+            <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Time.lol: Convert Date and Time to ISO 8601, RFC, Unix Timestamp, Week Number, Any Time Zone, and More]]></title>
-            <link>https://time.lol/</link>
-            <guid>https://time.lol/</guid>
-            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Berry: A Free Admin Template Built with React and Material UI]]></title>
-            <link>https://github.com/codedthemes/berry-free-react-admin-template/</link>
-            <guid>https://github.com/codedthemes/berry-free-react-admin-template/</guid>
-            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Temp API: Test Your Frontend Apps with Temporary REST APIs]]></title>
-            <link>https://tempapi.proj.me/</link>
-            <guid>https://tempapi.proj.me/</guid>
-            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Animate On Scroll using IntersectionObserver]]></title>
+            <link>https://dev.to/keefdrive/animate-on-scroll-using-intersectionobserver-5dg1</link>
+            <guid>https://dev.to/keefdrive/animate-on-scroll-using-intersectionobserver-5dg1</guid>
+            <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

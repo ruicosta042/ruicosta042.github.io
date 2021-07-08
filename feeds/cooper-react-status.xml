@@ -4,117 +4,87 @@
         <title>React Status</title>
         <link>https://react.statuscode.com/</link>
         <description>A weekly roundup of the latest React and React Native links and tutorials.</description>
-        <lastBuildDate>Wed, 07 Jul 2021 07:46:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jul 2021 07:46:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[React Architecture: How to Structure and Organize a React Application]]></title>
-            <link>https://www.taniarascia.com/react-architecture-directory-structure/</link>
-            <guid>https://www.taniarascia.com/react-architecture-directory-structure/</guid>
-            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Time to Say Goodbye to Enzyme.js?]]></title>
+            <link>https://www.piotrstaniow.pl/goodbye-enzyme</link>
+            <guid>https://www.piotrstaniow.pl/goodbye-enzyme</guid>
+            <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How Serverless Functions and Jamstack Can Power Up React Apps]]></title>
-            <link>https://www.youtube.com/watch?v=oAI-bpI65aY</link>
-            <guid>https://www.youtube.com/watch?v=oAI-bpI65aY</guid>
-            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Designing a Dataflow Editor with TypeScript and React]]></title>
+            <link>https://research.protocol.ai/blog/2021/designing-a-dataflow-editor-with-typescript-and-react/</link>
+            <guid>https://research.protocol.ai/blog/2021/designing-a-dataflow-editor-with-typescript-and-react/</guid>
+            <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[An Overview of React State Management Techniques in 2021]]></title>
-            <link>https://t.co/ZHuECT49Lm?amp=1</link>
-            <guid>https://t.co/ZHuECT49Lm?amp=1</guid>
-            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Rachel Nabors: From Comics in Virginia to React Core at Facebook]]></title>
+            <link>https://github.com/readme/podcast/comics-to-react-core</link>
+            <guid>https://github.com/readme/podcast/comics-to-react-core</guid>
+            <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React Meetup: The State of the React Ecosytem]]></title>
-            <link>https://www.reactjsmeetup.com/</link>
-            <guid>https://www.reactjsmeetup.com/</guid>
-            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Elementary: React-Inspired Functional, Declarative Audio Applications]]></title>
+            <link>https://www.nickwritesablog.com/functional-declarative-audio-applications/</link>
+            <guid>https://www.nickwritesablog.com/functional-declarative-audio-applications/</guid>
+            <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[SolidJS Official Release: The Long Road to 1.0]]></title>
-            <link>https://dev.to/ryansolid/solidjs-official-release-the-long-road-to-1-0-4ldd</link>
-            <guid>https://dev.to/ryansolid/solidjs-official-release-the-long-road-to-1-0-4ldd</guid>
-            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Creating a Multi-Author Blog with Next.js]]></title>
+            <link>https://www.smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/</link>
+            <guid>https://www.smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/</guid>
+            <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Image To Text Conversion With React and Tesseract.js]]></title>
-            <link>https://www.smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/</link>
-            <guid>https://www.smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/</guid>
-            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to useContext in React]]></title>
+            <link>https://www.robinwieruch.de/react-usecontext-hook/</link>
+            <guid>https://www.robinwieruch.de/react-usecontext-hook/</guid>
+            <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Five Epic React Tips To Use Today]]></title>
-            <link>https://t.co/F66l22aTb0?amp=1</link>
-            <guid>https://t.co/F66l22aTb0?amp=1</guid>
-            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Hacking the React AST For Fun and Profit]]></title>
+            <link>https://swizec.com/blog/hacking-the-react-ast-for-fun-and-profit-codewithswiz-ep34/</link>
+            <guid>https://swizec.com/blog/hacking-the-react-ast-for-fun-and-profit-codewithswiz-ep34/</guid>
+            <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Building a Realtime Chat App with React, Node.js, and Socket.io]]></title>
-            <link>https://www.youtube.com/watch?v=HggSXt1Hzfk</link>
-            <guid>https://www.youtube.com/watch?v=HggSXt1Hzfk</guid>
-            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[What’s The Best Place to Host a Next.js Site?]]></title>
+            <link>https://kontent.ai/blog/comparison-of-jamstack-hosting-platforms-for-next-js</link>
+            <guid>https://kontent.ai/blog/comparison-of-jamstack-hosting-platforms-for-next-js</guid>
+            <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to Use Throttle or Debounce With React Hook]]></title>
-            <link>https://t.co/brdDrKHCV6?amp=1</link>
-            <guid>https://t.co/brdDrKHCV6?amp=1</guid>
-            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Mantine 2.0: Full Featured React Component Library]]></title>
+            <link>https://mantine.dev/</link>
+            <guid>https://mantine.dev/</guid>
+            <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Read and Render Markdown Files with Next.js and Nx]]></title>
-            <link>https://juristr.com/blog/2021/06/read-render-markdown-nextjs-and-nx/</link>
-            <guid>https://juristr.com/blog/2021/06/read-render-markdown-nextjs-and-nx/</guid>
-            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Tagify: Quickly and Easily Add Tagging to Your React App]]></title>
+            <link>https://github.com/yairEO/tagify</link>
+            <guid>https://github.com/yairEO/tagify</guid>
+            <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React Transcript Editor: Faster and Easier Audio/Video Transcript Creation]]></title>
-            <link>https://github.com/bbc/react-transcript-editor</link>
-            <guid>https://github.com/bbc/react-transcript-editor</guid>
-            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Fresnel: Server Side Media Queries?]]></title>
+            <link>https://github.com/artsy/fresnel</link>
+            <guid>https://github.com/artsy/fresnel</guid>
+            <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Stepzilla 7.0: A React Multi-Step/Wizard Component]]></title>
-            <link>https://github.com/newbreedofgeek/react-stepzilla</link>
-            <guid>https://github.com/newbreedofgeek/react-stepzilla</guid>
-            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[react-native-google-cast]]></title>
+            <link>https://github.com/react-native-google-cast/react-native-google-cast</link>
+            <guid>https://github.com/react-native-google-cast/react-native-google-cast</guid>
+            <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React Cool Form]]></title>
-            <link>https://github.com/wellyshen/react-cool-form</link>
-            <guid>https://github.com/wellyshen/react-cool-form</guid>
-            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[react-native-keyboard-tools]]></title>
-            <link>https://github.com/Faradey27/react-native-keyboard-tools</link>
-            <guid>https://github.com/Faradey27/react-native-keyboard-tools</guid>
-            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[react-native-mmkv-storage]]></title>
-            <link>https://github.com/ammarahm-ed/react-native-mmkv-storage</link>
-            <guid>https://github.com/ammarahm-ed/react-native-mmkv-storage</guid>
-            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Photonix: Roll Your Own ML-Enabled Photo Server]]></title>
-            <link>https://github.com/photonixapp/photonix</link>
-            <guid>https://github.com/photonixapp/photonix</guid>
-            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comprehensive Guide: Proper Behaviour Testing in React With Enzyme and Jest]]></title>
-            <link>https://t.co/FB6CUx1ZQu?amp=1</link>
-            <guid>https://t.co/FB6CUx1ZQu?amp=1</guid>
-            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nanostores: A 152 Byte State Manager for React/Preact/Vue/Svelte with Many Atomic Tree-Shakable Stores]]></title>
-            <link>https://github.com/nanostores/nanostores</link>
-            <guid>https://github.com/nanostores/nanostores</guid>
-            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[gooey-react: Create Custom Animated "Gooey" Blobs]]></title>
+            <link>https://github.com/luukdv/gooey-react</link>
+            <guid>https://github.com/luukdv/gooey-react</guid>
+            <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

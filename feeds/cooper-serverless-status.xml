@@ -4,7 +4,7 @@
         <title>Serverless Status</title>
         <link>https://serverless.email/</link>
         <description>A weekly newsletter on serverless and function-as-a-service (FaaS) architectures and platforms including AWS Lambda and Azure Functions.</description>
-        <lastBuildDate>Sat, 10 Jul 2021 07:46:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jul 2021 07:46:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
@@ -28,8 +28,8 @@
         </item>
         <item>
             <title><![CDATA[Using Deno Deploy to Release Super Fast Cloud Functions]]></title>
-            <link>https://www.youtube.com/watch?v=yZDvE0mP4Y4</link>
-            <guid>https://www.youtube.com/watch?v=yZDvE0mP4Y4</guid>
+            <link>https://m.youtube.com/watch?v=yZDvE0mP4Y4</link>
+            <guid>https://m.youtube.com/watch?v=yZDvE0mP4Y4</guid>
             <pubDate>Fri, 09 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>

@@ -4,10 +4,17 @@
         <title>CSS Layout News</title>
         <link>https://csslayout.news/</link>
         <description>Weekly CSS layout newsletter and resource site by Rachel Andrew</description>
-        <lastBuildDate>Tue, 06 Jul 2021 16:37:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jul 2021 07:04:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Firefox 90]]></title>
+            <link>https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/90</link>
+            <guid>https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/90</guid>
+            <pubDate>Wed, 14 Jul 2021 07:00:26 GMT</pubDate>
+            <description><![CDATA[Firefox 90 has shipped, not a lot of CSS news this time. There is a little interesting note under HTML, with regard to intrinsic sizes of images and EXIF data. This potentially enables other use-cases around using EXIF data to allow images to declare their sizing and density.]]></description>
+        </item>
         <item>
             <title><![CDATA[Release Notes for Safari TP 127]]></title>
             <link>https://webkit.org/blog/11736/release-notes-for-safari-technology-preview-127/</link>
@@ -604,90 +611,6 @@ Overlays are a broad term for technologies aim to improve the accessibility of a
             <guid>https://css-irl.info/paper-snowflakes-combining-clipping-and-masking-in-css/</guid>
             <pubDate>Wed, 14 Apr 2021 19:46:00 GMT</pubDate>
             <description><![CDATA[This is a great walkthrough of clipping and masking, and the demo at the end is worth a look too.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Not Your Typical Horizontal Rules]]></title>
-            <link>https://www.sarasoueidan.com/blog/horizontal-rules/</link>
-            <guid>https://www.sarasoueidan.com/blog/horizontal-rules/</guid>
-            <pubDate>Tue, 06 Apr 2021 19:44:00 GMT</pubDate>
-            <description><![CDATA[This is a lovely article about the humble <hr> element, why you should consider using it, and how to make them look nice while retaining their semantics.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Swipey image grids.]]></title>
-            <link>https://www.cassie.codes/posts/swipey-image-grids/</link>
-            <guid>https://www.cassie.codes/posts/swipey-image-grids/</guid>
-            <pubDate>Tue, 06 Apr 2021 19:44:00 GMT</pubDate>
-            <description><![CDATA[This is a really great article on creating image grids not with CSS Grid, but instead with SVG.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Let’s Create an Image Pop-Out Effect With SVG Clip Path | CSS-Tricks]]></title>
-            <link>https://css-tricks.com/lets-create-an-image-pop-out-effect-with-svg-clip-path/</link>
-            <guid>https://css-tricks.com/lets-create-an-image-pop-out-effect-with-svg-clip-path/</guid>
-            <pubDate>Tue, 06 Apr 2021 19:44:00 GMT</pubDate>
-            <description><![CDATA[I'm a big fan of articles that riff of another article or demo, adding value in the process. Here, a demo I linked to previously is used as the jumping off point for an alternative approach.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Laying Out Pages | Web Browser Engineering]]></title>
-            <link>https://browser.engineering/layout.html</link>
-            <guid>https://browser.engineering/layout.html</guid>
-            <pubDate>Tue, 06 Apr 2021 19:44:00 GMT</pubDate>
-            <description><![CDATA[This book project is fascinating. I've linked to the new chapter on layout, as it was published this week and topical for this newsletter. However, I am looking forward to reading the rest of the book and the upcoming chapters.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Sticky Headers: 5 Ways to Make Them Better]]></title>
-            <link>https://www.nngroup.com/articles/sticky-headers/</link>
-            <guid>https://www.nngroup.com/articles/sticky-headers/</guid>
-            <pubDate>Tue, 06 Apr 2021 19:44:00 GMT</pubDate>
-            <description><![CDATA[A good look into the usability of sticky headers.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Explore the intersection of accessibility, usability, and inclusion]]></title>
-            <link>https://aneventapart.com/event/spring-summit-2021?utm_campaign=SS&amp;utm_medium=email&amp;utm_source=csslayout</link>
-            <guid>https://aneventapart.com/event/spring-summit-2021?utm_campaign=SS&amp;utm_medium=email&amp;utm_source=csslayout</guid>
-            <pubDate>Tue, 06 Apr 2021 19:44:00 GMT</pubDate>
-            <description><![CDATA[Inclusion and diversity are two of the most important themes in today’s world. As UX and front-end experts, it’s our responsibility to not only be aware of these topics, but to actively explore how our work impacts all users, not just an idealized average.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Container Query Proposal & Explainer]]></title>
-            <link>https://css.oddbird.net/rwd/query/explainer/</link>
-            <guid>https://css.oddbird.net/rwd/query/explainer/</guid>
-            <pubDate>Tue, 30 Mar 2021 19:42:00 GMT</pubDate>
-            <description><![CDATA[You can now try out the container queries proposal in Chrome Canary. In chrome://flags enable the CSS Container Queries flag, and have a look at the demos and info linked from this page.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[How to Improve CSS Performance | Calibre]]></title>
-            <link>https://calibreapp.com/blog/css-performance</link>
-            <guid>https://calibreapp.com/blog/css-performance</guid>
-            <pubDate>Tue, 30 Mar 2021 19:42:00 GMT</pubDate>
-            <description><![CDATA[A post detailing the various ways to improve the performance of your CSS.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[:where() has a cool specificity trick, too. | CSS-Tricks]]></title>
-            <link>https://css-tricks.com/where-has-a-cool-specificity-trick-too/</link>
-            <guid>https://css-tricks.com/where-has-a-cool-specificity-trick-too/</guid>
-            <pubDate>Tue, 30 Mar 2021 19:42:00 GMT</pubDate>
-            <description><![CDATA[Some notes on the is() and where() selectors.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Dark mode in 5 minutes, with inverted lightness variables]]></title>
-            <link>https://lea.verou.me/2021/03/inverted-lightness-variables/</link>
-            <guid>https://lea.verou.me/2021/03/inverted-lightness-variables/</guid>
-            <pubDate>Tue, 30 Mar 2021 19:42:00 GMT</pubDate>
-            <description><![CDATA[This is a very neat technique, but the post is so much more than the quick tip the title suggests. There are some very cool things going on with CSS Color right now!]]></description>
-        </item>
-        <item>
-            <title><![CDATA[CSS terminology question - QuirksBlog]]></title>
-            <link>https://www.quirksmode.org/blog/archives/2021/03/css_terminology.html</link>
-            <guid>https://www.quirksmode.org/blog/archives/2021/03/css_terminology.html</guid>
-            <pubDate>Tue, 30 Mar 2021 19:42:00 GMT</pubDate>
-            <description><![CDATA[In which ppk ponders how to refer to sizing in CSS.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Home | The Component Gallery]]></title>
-            <link>https://component.gallery/</link>
-            <guid>https://component.gallery/</guid>
-            <pubDate>Tue, 30 Mar 2021 19:42:00 GMT</pubDate>
-            <description><![CDATA[This is cool. A reference of components, useful for folk building component-based interfaces.]]></description>
         </item>
     </channel>
 </rss>

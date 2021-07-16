@@ -4,93 +4,87 @@
         <title>Node Weekly</title>
         <link>https://nodeweekly.com/</link>
         <description>A free, once–weekly e-mail round-up of Node.js news and articles.</description>
-        <lastBuildDate>Fri, 09 Jul 2021 07:45:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jul 2021 07:46:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[npm audit: Broken by Design]]></title>
-            <link>https://overreacted.io/npm-audit-broken-by-design/</link>
-            <guid>https://overreacted.io/npm-audit-broken-by-design/</guid>
-            <pubDate>Thu, 08 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[A TypeScript Express Starter App]]></title>
+            <link>https://github.com/ljlm0402/typescript-express-starter</link>
+            <guid>https://github.com/ljlm0402/typescript-express-starter</guid>
+            <pubDate>Thu, 15 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[TypeScript and Native ESM on Node.js]]></title>
-            <link>https://2ality.com/2021/06/typescript-esm-nodejs.html</link>
-            <guid>https://2ality.com/2021/06/typescript-esm-nodejs.html</guid>
-            <pubDate>Thu, 08 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Node v16.5.0 (Current) Released]]></title>
+            <link>https://nodejs.org/en/blog/release/v16.5.0/</link>
+            <guid>https://nodejs.org/en/blog/release/v16.5.0/</guid>
+            <pubDate>Thu, 15 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Building an API with Nest.js: A 39 Part Series]]></title>
-            <link>https://wanago.io/2021/07/05/api-nestjs-stripe-events-webhooks/</link>
-            <guid>https://wanago.io/2021/07/05/api-nestjs-stripe-events-webhooks/</guid>
-            <pubDate>Thu, 08 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Managing Node.js Docker Images in GitHub Packages with GitHub Actions]]></title>
+            <link>https://snyk.io/blog/managing-node-js-docker-images-in-github-packages-using-github-actions/</link>
+            <guid>https://snyk.io/blog/managing-node-js-docker-images-in-github-packages-using-github-actions/</guid>
+            <pubDate>Thu, 15 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Node v16.4.2, v14.17.3, and v12.22.3 Released, But You Probably Don't Need Them]]></title>
-            <link>https://nodejs.org/en/blog/release/v16.4.2/</link>
-            <guid>https://nodejs.org/en/blog/release/v16.4.2/</guid>
-            <pubDate>Thu, 08 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How Does Node Load Its Built-In/Native Modules?]]></title>
+            <link>https://joyeecheung.github.io/blog/2021/07/06/how-does-node-js-load-its-builtins-native-modules/</link>
+            <guid>https://joyeecheung.github.io/blog/2021/07/06/how-does-node-js-load-its-builtins-native-modules/</guid>
+            <pubDate>Thu, 15 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Exploring the Possibilities of Node’s Virtual Machine Module]]></title>
-            <link>https://t.co/KMo9k8DItr?amp=1</link>
-            <guid>https://t.co/KMo9k8DItr?amp=1</guid>
-            <pubDate>Thu, 08 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Using Redis with Node.js]]></title>
+            <link>https://www.sitepoint.com/using-redis-node-js/</link>
+            <guid>https://www.sitepoint.com/using-redis-node-js/</guid>
+            <pubDate>Thu, 15 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Implementing Microservices in Node]]></title>
-            <link>https://frontegg.com/blog/implementing-microservices-in-nodejs</link>
-            <guid>https://frontegg.com/blog/implementing-microservices-in-nodejs</guid>
-            <pubDate>Thu, 08 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Fuzzball: Fuzzy String Matching Library]]></title>
+            <link>https://github.com/nol13/fuzzball.js</link>
+            <guid>https://github.com/nol13/fuzzball.js</guid>
+            <pubDate>Thu, 15 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[zx 2.0: A Tool for Writing Better Shell Scripts]]></title>
-            <link>https://github.com/google/zx</link>
-            <guid>https://github.com/google/zx</guid>
-            <pubDate>Thu, 08 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[The Official MongoDB Node.js Driver v4.0]]></title>
+            <link>https://github.com/mongodb/node-mongodb-native/blob/4.0/docs/CHANGES_4.0.0.md</link>
+            <guid>https://github.com/mongodb/node-mongodb-native/blob/4.0/docs/CHANGES_4.0.0.md</guid>
+            <pubDate>Thu, 15 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[fast-npm-search: A Super Fast npm Package Search]]></title>
-            <link>https://fast-npm-search.xyz/</link>
-            <guid>https://fast-npm-search.xyz/</guid>
-            <pubDate>Thu, 08 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Mock Service Worker: API Mocking Library for Browser and Node]]></title>
+            <link>https://mswjs.io/</link>
+            <guid>https://mswjs.io/</guid>
+            <pubDate>Thu, 15 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Opossum 6.2.0: A Circuit Breaker for Asynchronous Functions]]></title>
-            <link>https://nodeshift.dev/opossum/</link>
-            <guid>https://nodeshift.dev/opossum/</guid>
-            <pubDate>Thu, 08 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[new-tailwind-app: A Node-based CLI to Generate Boilerplate Code for Different Tailwind Apps]]></title>
+            <link>https://github.com/msaaddev/new-tailwind-app</link>
+            <guid>https://github.com/msaaddev/new-tailwind-app</guid>
+            <pubDate>Thu, 15 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nest 8.0: A Mature Framework for Building Scalable Server-Side Apps]]></title>
-            <link>https://github.com/nestjs/nest</link>
-            <guid>https://github.com/nestjs/nest</guid>
-            <pubDate>Thu, 08 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[fzstd: High Performance Zstandard Decompression in a Pure JS Package]]></title>
+            <link>https://github.com/101arrowz/fzstd</link>
+            <guid>https://github.com/101arrowz/fzstd</guid>
+            <pubDate>Thu, 15 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[wait-on 6.0: A CLI and Node Library to Wait for Ports, Files, Sockets, etc.]]></title>
-            <link>https://github.com/jeffbski/wait-on</link>
-            <guid>https://github.com/jeffbski/wait-on</guid>
-            <pubDate>Thu, 08 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[node-html-parser 4.1.0: Fast HTML Parser with Basic Element Query Support]]></title>
+            <link>https://github.com/taoqf/node-html-parser</link>
+            <guid>https://github.com/taoqf/node-html-parser</guid>
+            <pubDate>Thu, 15 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[pg-anonymizer 0.4.0: Anonymized Data Dumping from Postgres]]></title>
-            <link>https://github.com/rap2hpoutre/pg-anonymizer</link>
-            <guid>https://github.com/rap2hpoutre/pg-anonymizer</guid>
-            <pubDate>Thu, 08 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Johnny Five 2.1: A JavaScript Robotics and IoT Programming Framework]]></title>
+            <link>https://github.com/rwaldron/johnny-five</link>
+            <guid>https://github.com/rwaldron/johnny-five</guid>
+            <pubDate>Thu, 15 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[tiff 5.0: A TIFF Image Decoder Written Entirely in JavaScript]]></title>
-            <link>https://github.com/image-js/tiff</link>
-            <guid>https://github.com/image-js/tiff</guid>
-            <pubDate>Thu, 08 Jul 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mercurius 8.0: Implement GraphQL Servers and Gateways with Fastify]]></title>
-            <link>https://github.com/mercurius-js/mercurius</link>
-            <guid>https://github.com/mercurius-js/mercurius</guid>
-            <pubDate>Thu, 08 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[lily: A Simple Options Parser Inspired by yargs]]></title>
+            <link>https://github.com/jcubic/lily</link>
+            <guid>https://github.com/jcubic/lily</guid>
+            <pubDate>Thu, 15 Jul 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

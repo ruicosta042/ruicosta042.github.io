@@ -4,135 +4,123 @@
         <title>JavaScript Weekly</title>
         <link>https://javascriptweekly.com/</link>
         <description>A newsletter of JavaScript articles, news and cool projects</description>
-        <lastBuildDate>Wed, 14 Jul 2021 07:45:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jul 2021 07:46:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[The State of Web Workers in 2021]]></title>
-            <link>https://www.smashingmagazine.com/2021/06/web-workers-2021/</link>
-            <guid>https://www.smashingmagazine.com/2021/06/web-workers-2021/</guid>
-            <pubDate>Fri, 09 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[V8 v9.2 and the at Function]]></title>
+            <link>https://v8.dev/blog/v8-release-92</link>
+            <guid>https://v8.dev/blog/v8-release-92</guid>
+            <pubDate>Fri, 16 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How export default thing is Different to export { thing as default }]]></title>
-            <link>https://jakearchibald.com/2021/export-default-thing-vs-thing-as-default/</link>
-            <guid>https://jakearchibald.com/2021/export-default-thing-vs-thing-as-default/</guid>
-            <pubDate>Fri, 09 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[The Road to Ember 4.0]]></title>
+            <link>https://blog.emberjs.com/the-road-to-ember-4-0/</link>
+            <guid>https://blog.emberjs.com/the-road-to-ember-4-0/</guid>
+            <pubDate>Fri, 16 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[npm audit: Broken by Design]]></title>
-            <link>https://overreacted.io/npm-audit-broken-by-design/</link>
-            <guid>https://overreacted.io/npm-audit-broken-by-design/</guid>
-            <pubDate>Fri, 09 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[HTM 3.1.0: A JSX Alternative using Standard Tagged Templates]]></title>
+            <link>https://github.com/developit/htm</link>
+            <guid>https://github.com/developit/htm</guid>
+            <pubDate>Fri, 16 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Look at Building with Astro]]></title>
-            <link>https://css-tricks.com/a-look-at-building-with-astro/</link>
-            <guid>https://css-tricks.com/a-look-at-building-with-astro/</guid>
-            <pubDate>Fri, 09 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Deno 1.12 Released]]></title>
+            <link>https://deno.com/blog/v1.12</link>
+            <guid>https://deno.com/blog/v1.12</guid>
+            <pubDate>Fri, 16 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Elementary: React-Inspired Functional, Declarative Audio Applications]]></title>
-            <link>https://www.nickwritesablog.com/functional-declarative-audio-applications/</link>
-            <guid>https://www.nickwritesablog.com/functional-declarative-audio-applications/</guid>
-            <pubDate>Fri, 09 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Building a Dynamic Header with Intersection Observer]]></title>
+            <link>https://www.smashingmagazine.com/2021/07/dynamic-header-intersection-observer/</link>
+            <guid>https://www.smashingmagazine.com/2021/07/dynamic-header-intersection-observer/</guid>
+            <pubDate>Fri, 16 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[TypeScript and Native ESM on Node.js]]></title>
-            <link>https://2ality.com/2021/06/typescript-esm-nodejs.html</link>
-            <guid>https://2ality.com/2021/06/typescript-esm-nodejs.html</guid>
-            <pubDate>Fri, 09 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to Convert Arrays to Human-Readable Lists]]></title>
+            <link>https://www.amitmerchant.com/how-to-convert-arrays-to-human-readable-lists-in-javascript/</link>
+            <guid>https://www.amitmerchant.com/how-to-convert-arrays-to-human-readable-lists-in-javascript/</guid>
+            <pubDate>Fri, 16 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to Use Promise.all()]]></title>
-            <link>https://dmitripavlutin.com/promise-all/</link>
-            <guid>https://dmitripavlutin.com/promise-all/</guid>
-            <pubDate>Fri, 09 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[The Ultimate Guide to Browser-Side Storage]]></title>
+            <link>https://blog.openreplay.com/the-ultimate-guide-to-browser-side-storage/</link>
+            <guid>https://blog.openreplay.com/the-ultimate-guide-to-browser-side-storage/</guid>
+            <pubDate>Fri, 16 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[When a Click is Not Just a Click]]></title>
-            <link>https://css-tricks.com/when-a-click-is-not-just-a-click/</link>
-            <guid>https://css-tricks.com/when-a-click-is-not-just-a-click/</guid>
-            <pubDate>Fri, 09 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How To Migrate from jQuery to Next.js]]></title>
+            <link>https://www.smashingmagazine.com/2021/07/migrate-jquery-nextjs/</link>
+            <guid>https://www.smashingmagazine.com/2021/07/migrate-jquery-nextjs/</guid>
+            <pubDate>Fri, 16 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Using Deno Deploy to Release Super Fast Cloud Functions]]></title>
-            <link>https://www.youtube.com/watch?v=yZDvE0mP4Y4</link>
-            <guid>https://www.youtube.com/watch?v=yZDvE0mP4Y4</guid>
-            <pubDate>Fri, 09 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[A Checklist for Freelance React Developers]]></title>
+            <link>https://www.robinwieruch.de/freelance-react-developer/</link>
+            <guid>https://www.robinwieruch.de/freelance-react-developer/</guid>
+            <pubDate>Fri, 16 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Breaking Down Bulky Builds with Netlify and Next.js]]></title>
-            <link>https://www.smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/</link>
-            <guid>https://www.smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/</guid>
-            <pubDate>Fri, 09 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[FracturedJson: A Browser-Based JSON Formatter]]></title>
+            <link>https://j-brooke.github.io/FracturedJson/</link>
+            <guid>https://j-brooke.github.io/FracturedJson/</guid>
+            <pubDate>Fri, 16 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[html2canvas 1.0: A JavaScript HTML Renderer]]></title>
-            <link>https://html2canvas.hertzen.com/</link>
-            <guid>https://html2canvas.hertzen.com/</guid>
-            <pubDate>Fri, 09 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[mem 9.0: Simple Memoization Library]]></title>
+            <link>https://github.com/sindresorhus/mem</link>
+            <guid>https://github.com/sindresorhus/mem</guid>
+            <pubDate>Fri, 16 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[pdfmake: Client/Server Side PDF Generation in Pure JavaScript]]></title>
-            <link>https://github.com/bpampuch/pdfmake</link>
-            <guid>https://github.com/bpampuch/pdfmake</guid>
-            <pubDate>Fri, 09 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[devcert: Development SSL/TLS Certificates Made Easy]]></title>
+            <link>https://www.npmjs.com/package/devcert</link>
+            <guid>https://www.npmjs.com/package/devcert</guid>
+            <pubDate>Fri, 16 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fuzzball: Fuzzy String Matching Library]]></title>
-            <link>https://github.com/nol13/fuzzball.js</link>
-            <guid>https://github.com/nol13/fuzzball.js</guid>
-            <pubDate>Fri, 09 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[new-tailwind-app: A Node-based CLI to Generate Boilerplate Code for Different Tailwind Apps]]></title>
+            <link>https://github.com/msaaddev/new-tailwind-app</link>
+            <guid>https://github.com/msaaddev/new-tailwind-app</guid>
+            <pubDate>Fri, 16 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mantine 2.0: Full Featured React Component Library]]></title>
-            <link>https://mantine.dev/</link>
-            <guid>https://mantine.dev/</guid>
-            <pubDate>Fri, 09 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Filesize.js 7.0: A Library to Create Human Readable File Size Strings]]></title>
+            <link>https://filesizejs.com/</link>
+            <guid>https://filesizejs.com/</guid>
+            <pubDate>Fri, 16 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[imask.js: A Vanilla JavaScript Input Mask]]></title>
-            <link>https://imask.js.org/</link>
-            <guid>https://imask.js.org/</guid>
-            <pubDate>Fri, 09 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[LiveKit: A Go-Powered Server for Real Time Audio and Video]]></title>
+            <link>https://livekit.io/</link>
+            <guid>https://livekit.io/</guid>
+            <pubDate>Fri, 16 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[TypeBox: JSON Schema Type Builder with Static Type Resolution for TypeScript]]></title>
-            <link>https://github.com/sinclairzx81/typebox</link>
-            <guid>https://github.com/sinclairzx81/typebox</guid>
-            <pubDate>Fri, 09 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[React Virtual 2.8.0: Hooks for Virtualizing Scrollable Elements]]></title>
+            <link>https://github.com/tannerlinsley/react-virtual</link>
+            <guid>https://github.com/tannerlinsley/react-virtual</guid>
+            <pubDate>Fri, 16 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to Structure a Large Scale Vue.js App]]></title>
-            <link>https://vueschool.io/articles/vuejs-tutorials/how-to-structure-a-large-scale-vue-js-application/</link>
-            <guid>https://vueschool.io/articles/vuejs-tutorials/how-to-structure-a-large-scale-vue-js-application/</guid>
-            <pubDate>Fri, 09 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Running a Next.js Site on Cloudflare Pages]]></title>
+            <link>https://opstrace.com/blog/nextjs-on-cloudflare</link>
+            <guid>https://opstrace.com/blog/nextjs-on-cloudflare</guid>
+            <pubDate>Fri, 16 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What Is WebAssembly — and Why Are You Hearing So Much About It?]]></title>
-            <link>https://thenewstack.io/what-is-webassembly/</link>
-            <guid>https://thenewstack.io/what-is-webassembly/</guid>
-            <pubDate>Fri, 09 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Notion API: Getting Started with Notion's JavaScript SDK]]></title>
+            <link>https://www.sitepoint.com/notion-api-javascript-sdk/</link>
+            <guid>https://www.sitepoint.com/notion-api-javascript-sdk/</guid>
+            <pubDate>Fri, 16 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[fzstd: High Performance Zstandard Decompression in a Pure JS Package]]></title>
-            <link>https://github.com/101arrowz/fzstd</link>
-            <guid>https://github.com/101arrowz/fzstd</guid>
-            <pubDate>Fri, 09 Jul 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Johnny Five 2.1: A JavaScript Robotics and IoT Programming Framework]]></title>
-            <link>https://github.com/rwaldron/johnny-five</link>
-            <guid>https://github.com/rwaldron/johnny-five</guid>
-            <pubDate>Fri, 09 Jul 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vue 3 Starter: An Opinionated Starter Template for Vue.js Projects]]></title>
-            <link>https://github.com/kutia-software-company/vue3-starter</link>
-            <guid>https://github.com/kutia-software-company/vue3-starter</guid>
-            <pubDate>Fri, 09 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Vue 3 Migration Build: Safely Upgrade Your App to Vue 3]]></title>
+            <link>https://www.vuemastery.com/blog/vue-3-migration-build/</link>
+            <guid>https://www.vuemastery.com/blog/vue-3-migration-build/</guid>
+            <pubDate>Fri, 16 Jul 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

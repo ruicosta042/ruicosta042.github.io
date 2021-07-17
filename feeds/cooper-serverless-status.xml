@@ -4,75 +4,57 @@
         <title>Serverless Status</title>
         <link>https://serverless.email/</link>
         <description>A weekly newsletter on serverless and function-as-a-service (FaaS) architectures and platforms including AWS Lambda and Azure Functions.</description>
-        <lastBuildDate>Thu, 15 Jul 2021 07:46:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jul 2021 07:46:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[How the Koyeb Serverless Engine is Built]]></title>
-            <link>https://www.koyeb.com/blog/the-koyeb-serverless-engine-from-kubernetes-to-nomad-firecracker-and-kuma</link>
-            <guid>https://www.koyeb.com/blog/the-koyeb-serverless-engine-from-kubernetes-to-nomad-firecracker-and-kuma</guid>
-            <pubDate>Fri, 09 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Serverless Computing: A Security Perspective]]></title>
+            <link>https://arxiv.org/abs/2107.03832</link>
+            <guid>https://arxiv.org/abs/2107.03832</guid>
+            <pubDate>Fri, 16 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Deno Deploy Beta 1]]></title>
-            <link>https://deno.com/blog/deploy-beta1</link>
-            <guid>https://deno.com/blog/deploy-beta1</guid>
-            <pubDate>Fri, 09 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Goin' Serverless: A Serverless Folk Song]]></title>
+            <link>https://www.youtube.com/watch?v=w89Y9xwuhE0</link>
+            <guid>https://www.youtube.com/watch?v=w89Y9xwuhE0</guid>
+            <pubDate>Fri, 16 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Using Amazon MQ for RabbitMQ as an Event Source for AWS Lambda]]></title>
-            <link>https://aws.amazon.com/blogs/compute/using-amazon-mq-for-rabbitmq-as-an-event-source-for-lambda/</link>
-            <guid>https://aws.amazon.com/blogs/compute/using-amazon-mq-for-rabbitmq-as-an-event-source-for-lambda/</guid>
-            <pubDate>Fri, 09 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Coming Soon: Expansion of AWS Lambda States to All Functions]]></title>
+            <link>https://aws.amazon.com/blogs/compute/coming-soon-expansion-of-aws-lambda-states-to-all-functions/</link>
+            <guid>https://aws.amazon.com/blogs/compute/coming-soon-expansion-of-aws-lambda-states-to-all-functions/</guid>
+            <pubDate>Fri, 16 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Using Deno Deploy to Release Super Fast Cloud Functions]]></title>
-            <link>https://www.youtube.com/watch?v=yZDvE0mP4Y4</link>
-            <guid>https://www.youtube.com/watch?v=yZDvE0mP4Y4</guid>
-            <pubDate>Fri, 09 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Cloud Computing's Destiny: A Single 'Global Computer' Enabled by Serverless?]]></title>
+            <link>https://www.zdnet.com/article/the-cloud-as-a-single-global-computer/</link>
+            <guid>https://www.zdnet.com/article/the-cloud-as-a-single-global-computer/</guid>
+            <pubDate>Fri, 16 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Miniflare: A Fully-Local Cloudflare Workers Simulator]]></title>
-            <link>https://github.com/mrbbot/miniflare</link>
-            <guid>https://github.com/mrbbot/miniflare</guid>
-            <pubDate>Fri, 09 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Deploying Django RESTful APIs as Serverless Applications with Zappa]]></title>
+            <link>https://auth0.com/blog/deploying-django-restful-apis-as-serverless-applications-with-zappa/</link>
+            <guid>https://auth0.com/blog/deploying-django-restful-apis-as-serverless-applications-with-zappa/</guid>
+            <pubDate>Fri, 16 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How Find Campsite Slots using Dart and AWS Lambda]]></title>
-            <link>https://emery-44439.medium.com/how-find-openings-in-rec-gov-campsites-using-dart-and-aws-lambda-9bfe3fe29369</link>
-            <guid>https://emery-44439.medium.com/how-find-openings-in-rec-gov-campsites-using-dart-and-aws-lambda-9bfe3fe29369</guid>
-            <pubDate>Fri, 09 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[AWS Decoupling: The Big Comparison]]></title>
+            <link>https://hackernoon.com/aws-decoupling-the-big-comparison-cm2x35lj</link>
+            <guid>https://hackernoon.com/aws-decoupling-the-big-comparison-cm2x35lj</guid>
+            <pubDate>Fri, 16 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Asynchronous Background Processing for Ruby using AWS Lambda Extensions]]></title>
-            <link>https://dev.to/aws-heroes/asynchronous-background-processing-for-ruby-or-rails-using-aws-lambda-extensions-59bh</link>
-            <guid>https://dev.to/aws-heroes/asynchronous-background-processing-for-ruby-or-rails-using-aws-lambda-extensions-59bh</guid>
-            <pubDate>Fri, 09 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Serverlessly Load Testing Amazon API Gateway with Authorization]]></title>
+            <link>https://aws.amazon.com/blogs/compute/using-serverless-to-load-test-amazon-api-gateway-with-authorization/</link>
+            <guid>https://aws.amazon.com/blogs/compute/using-serverless-to-load-test-amazon-api-gateway-with-authorization/</guid>
+            <pubDate>Fri, 16 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Detecting Locked Bicycle Stations: An AWS Serverless Story]]></title>
-            <link>https://medium.com/codex/detecting-locked-bicycle-stations-an-aws-serverless-story-part-1-95dcdb477649</link>
-            <guid>https://medium.com/codex/detecting-locked-bicycle-stations-an-aws-serverless-story-part-1-95dcdb477649</guid>
-            <pubDate>Fri, 09 Jul 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Redirection Done Better, with CloudFlare Workers]]></title>
-            <link>https://mohammedbrueckner.medium.com/redirection-done-1d1f06a8a346</link>
-            <guid>https://mohammedbrueckner.medium.com/redirection-done-1d1f06a8a346</guid>
-            <pubDate>Fri, 09 Jul 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Five AWS Lambda Tricks to Save You Money and Improve Performance]]></title>
-            <link>https://super-joe.medium.com/five-aws-lambda-tricks-to-save-you-money-and-improve-performance-1e2f993097cf</link>
-            <guid>https://super-joe.medium.com/five-aws-lambda-tricks-to-save-you-money-and-improve-performance-1e2f993097cf</guid>
-            <pubDate>Fri, 09 Jul 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Build a Serverless Leaderboard API using Cloudflare Workers and Redis]]></title>
-            <link>https://medium.com/upstash/build-a-serverless-leaderboard-api-at-edge-using-cloudflare-workers-and-redis-da3780a610d</link>
-            <guid>https://medium.com/upstash/build-a-serverless-leaderboard-api-at-edge-using-cloudflare-workers-and-redis-da3780a610d</guid>
-            <pubDate>Fri, 09 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Funnel Rocket: A Serverless Query Engine]]></title>
+            <link>https://thenewstack.io/funnel-rocket-a-serverless-query-engine/</link>
+            <guid>https://thenewstack.io/funnel-rocket-a-serverless-query-engine/</guid>
+            <pubDate>Fri, 16 Jul 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

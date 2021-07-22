@@ -4,141 +4,135 @@
         <title>Frontend Focus</title>
         <link>https://frontendfoc.us/</link>
         <description>A once–weekly roundup of the best front-end news, articles and tutorials. HTML, CSS, WebGL, Canvas, browser tech, and more.</description>
-        <lastBuildDate>Wed, 21 Jul 2021 07:48:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jul 2021 07:45:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Towards Richer Colors on the Web]]></title>
-            <link>https://darker.ink/writings/Towards-richer-colors-on-the-Web</link>
-            <guid>https://darker.ink/writings/Towards-richer-colors-on-the-Web</guid>
-            <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[The Future of the Web]]></title>
+            <link>https://www.hazem.cool/blog/the-future-of-the-web/</link>
+            <guid>https://www.hazem.cool/blog/the-future-of-the-web/</guid>
+            <pubDate>Wed, 21 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The 'Ugly, Geeky War' for Web Privacy Is Playing Out in the W3C]]></title>
-            <link>https://www.protocol.com/policy/w3c-privacy-war</link>
-            <guid>https://www.protocol.com/policy/w3c-privacy-war</guid>
-            <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[The Performance Effects of Too Much Lazy-loading]]></title>
+            <link>https://web.dev/lcp-lazy-loading/</link>
+            <guid>https://web.dev/lcp-lazy-loading/</guid>
+            <pubDate>Wed, 21 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Getting Lively: Firefox 90 Released]]></title>
-            <link>https://hacks.mozilla.org/2021/07/getting-lively-with-firefox-90/</link>
-            <guid>https://hacks.mozilla.org/2021/07/getting-lively-with-firefox-90/</guid>
-            <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[A Bashful Button Worth $8 Million]]></title>
+            <link>https://cloudfour.com/thinks/a-bashful-button-worth-8-million/</link>
+            <guid>https://cloudfour.com/thinks/a-bashful-button-worth-8-million/</guid>
+            <pubDate>Wed, 21 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[An Introduction to CSS Refactoring]]></title>
-            <link>https://www.smashingmagazine.com/2021/07/refactoring-css-introduction-part1/</link>
-            <guid>https://www.smashingmagazine.com/2021/07/refactoring-css-introduction-part1/</guid>
-            <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Detecting Media Query Support in CSS and JavaScript]]></title>
+            <link>https://kilianvalkhof.com/2021/web/detecting-media-query-support-in-css-and-javascript/</link>
+            <guid>https://kilianvalkhof.com/2021/web/detecting-media-query-support-in-css-and-javascript/</guid>
+            <pubDate>Wed, 21 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Using HSL Colors in CSS]]></title>
-            <link>https://www.smashingmagazine.com/2021/07/hsl-colors-css/</link>
-            <guid>https://www.smashingmagazine.com/2021/07/hsl-colors-css/</guid>
-            <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Of Course We Can Make a CSS-Only Clock That Tells the Current Time]]></title>
+            <link>https://css-tricks.com/of-course-we-can-make-a-css-only-clock-that-tells-the-current-time/</link>
+            <guid>https://css-tricks.com/of-course-we-can-make-a-css-only-clock-that-tells-the-current-time/</guid>
+            <pubDate>Wed, 21 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[OMG, SVG Favicons FTW]]></title>
-            <link>https://austingil.com/svg-favicons/</link>
-            <guid>https://austingil.com/svg-favicons/</guid>
-            <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[From a Colourblind Designer to the World: Please Stop Using Red And Green Together]]></title>
+            <link>https://baselinehq.com/blog/colourblindness-information-ui-design-red-green-problems-tips-tricks.html</link>
+            <guid>https://baselinehq.com/blog/colourblindness-information-ui-design-red-green-problems-tips-tricks.html</guid>
+            <pubDate>Wed, 21 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Building a Dynamic Header with Intersection Observer]]></title>
-            <link>https://www.smashingmagazine.com/2021/07/dynamic-header-intersection-observer/</link>
-            <guid>https://www.smashingmagazine.com/2021/07/dynamic-header-intersection-observer/</guid>
-            <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Dark Mode Web App Manifest App Icons]]></title>
+            <link>https://blog.tomayac.com/2021/07/21/dark-mode-web-app-manifest-app-icons/</link>
+            <guid>https://blog.tomayac.com/2021/07/21/dark-mode-web-app-manifest-app-icons/</guid>
+            <pubDate>Wed, 21 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Organize Your CSS Declarations Alphabetically]]></title>
-            <link>https://ericwbailey.design/writing/organize-your-css-declarations-alphabetically/</link>
-            <guid>https://ericwbailey.design/writing/organize-your-css-declarations-alphabetically/</guid>
-            <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Inspecting Sizes]]></title>
+            <link>https://css-irl.info/inspecting-sizes/</link>
+            <guid>https://css-irl.info/inspecting-sizes/</guid>
+            <pubDate>Wed, 21 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Large, Small, and Dynamic Viewports]]></title>
-            <link>https://www.bram.us/2021/07/08/the-large-small-and-dynamic-viewports/</link>
-            <guid>https://www.bram.us/2021/07/08/the-large-small-and-dynamic-viewports/</guid>
-            <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Maintaining End-To-End Quality With Visual Testing]]></title>
+            <link>https://www.smashingmagazine.com/2021/07/maintaining-end-to-end-quality-visual-testing/</link>
+            <guid>https://www.smashingmagazine.com/2021/07/maintaining-end-to-end-quality-visual-testing/</guid>
+            <pubDate>Wed, 21 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Using the Specificity of :where() as a CSS Reset]]></title>
-            <link>https://css-tricks.com/using-the-specificity-of-where-as-a-css-reset/</link>
-            <guid>https://css-tricks.com/using-the-specificity-of-where-as-a-css-reset/</guid>
-            <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Can Opera Finally Sing On Google's Chromebooks and Windows 11?]]></title>
+            <link>https://www.techradar.com/news/can-opera-finally-sing-on-googles-chromebooks-and-windows-11</link>
+            <guid>https://www.techradar.com/news/can-opera-finally-sing-on-googles-chromebooks-and-windows-11</guid>
+            <pubDate>Wed, 21 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Screen Readers: Hearing The Unseen]]></title>
-            <link>https://developers.livechat.com/updates/livechat-accessibility-screen-readers/</link>
-            <guid>https://developers.livechat.com/updates/livechat-accessibility-screen-readers/</guid>
-            <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[The Accessibility Stalemate]]></title>
+            <link>https://christianheilmann.com/2021/07/20/the-accessibility-stalemate/</link>
+            <guid>https://christianheilmann.com/2021/07/20/the-accessibility-stalemate/</guid>
+            <pubDate>Wed, 21 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What's The Difference Between The Alignment Values of start, flex-start, and self-start?]]></title>
-            <link>https://csslayout.news/whats-the-difference-between-the-alignment-values-of-start-flex-start-and-self-start/</link>
-            <guid>https://csslayout.news/whats-the-difference-between-the-alignment-values-of-start-flex-start-and-self-start/</guid>
-            <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[It’s A (Front-End Testing) Trap! Six Common Testing Pitfalls And How To Solve Them]]></title>
+            <link>https://www.smashingmagazine.com/2021/07/frontend-testing-pitfalls/</link>
+            <guid>https://www.smashingmagazine.com/2021/07/frontend-testing-pitfalls/</guid>
+            <pubDate>Wed, 21 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Dilemma of Naming Font Size Variables]]></title>
-            <link>https://css-tricks.com/the-dilemma-of-naming-font-size-variables/</link>
-            <guid>https://css-tricks.com/the-dilemma-of-naming-font-size-variables/</guid>
-            <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Unicode Arrows]]></title>
+            <link>https://unicodearrows.com/</link>
+            <guid>https://unicodearrows.com/</guid>
+            <pubDate>Wed, 21 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Making A Strong Case For Accessibility]]></title>
-            <link>https://www.smashingmagazine.com/2021/07/strong-case-for-accessibility/</link>
-            <guid>https://www.smashingmagazine.com/2021/07/strong-case-for-accessibility/</guid>
-            <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Toolb: 50+ Free Web Tools for Your Daily Workflow]]></title>
+            <link>https://www.toolb.dev/</link>
+            <guid>https://www.toolb.dev/</guid>
+            <pubDate>Wed, 21 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AVPress: An In-Browser Video Compressor]]></title>
-            <link>https://avpress.zaps.dev/</link>
-            <guid>https://avpress.zaps.dev/</guid>
-            <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Counter Styles Converter]]></title>
+            <link>https://r12a.github.io/app-counters/</link>
+            <guid>https://r12a.github.io/app-counters/</guid>
+            <pubDate>Wed, 21 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sequencer64: An Experimental Music Creation Tool that Works Offline as a PWA]]></title>
-            <link>https://github.com/drumnickydrum/sequencer64</link>
-            <guid>https://github.com/drumnickydrum/sequencer64</guid>
-            <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Nativefier: Make Any Web Page a Desktop Application]]></title>
+            <link>https://github.com/nativefier/nativefier</link>
+            <guid>https://github.com/nativefier/nativefier</guid>
+            <pubDate>Wed, 21 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Vechai UI: A Set of High-Quality Accessible React UI Components]]></title>
-            <link>https://github.com/vechai/vechaiui</link>
-            <guid>https://github.com/vechai/vechaiui</guid>
-            <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[LiveKit: A Go Powered Server for Real Time Audio and Video]]></title>
+            <link>https://livekit.io/</link>
+            <guid>https://livekit.io/</guid>
+            <pubDate>Wed, 21 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[3D Bay: 3D Stock Images, Free for Commercial Use and Filterable by Category]]></title>
-            <link>https://clouddevs.com/3dbay/</link>
-            <guid>https://clouddevs.com/3dbay/</guid>
-            <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[spacers: A JS Library to Control Spacing Around Elements]]></title>
+            <link>https://actuallyakash.github.io/spacers/</link>
+            <guid>https://actuallyakash.github.io/spacers/</guid>
+            <pubDate>Wed, 21 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pairing Fonts: Three Ways to Find Great Typeface Combinations]]></title>
-            <link>https://frontendfoc.us/link/111108/rss</link>
-            <guid>https://frontendfoc.us/link/111108/rss</guid>
-            <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Creating a Typography Motion Trail Effect with Three.js]]></title>
+            <link>https://tympanus.net/codrops/2021/07/21/creating-a-typography-motion-trail-effect-with-three-js/</link>
+            <guid>https://tympanus.net/codrops/2021/07/21/creating-a-typography-motion-trail-effect-with-three-js/</guid>
+            <pubDate>Wed, 21 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Web Designers Grapple With Downside to Flashy Animation: Motion Sickness]]></title>
-            <link>https://www.wsj.com/articles/web-designers-grapple-with-downside-to-flashy-animation-motion-sickness-11623340933</link>
-            <guid>https://www.wsj.com/articles/web-designers-grapple-with-downside-to-flashy-animation-motion-sickness-11623340933</guid>
-            <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Typewriter Animation That Handles Anything You Throw at It]]></title>
+            <link>https://css-tricks.com/typewriter-animation-that-handles-anything-you-throw-at-it/</link>
+            <guid>https://css-tricks.com/typewriter-animation-that-handles-anything-you-throw-at-it/</guid>
+            <pubDate>Wed, 21 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A CSS Carousel with Snapping Points and A Scroll-Linked Navigation]]></title>
-            <link>https://dev.to/fcalderan/a-css-carousel-with-snapping-points-and-a-scroll-linked-navigation-5h6j</link>
-            <guid>https://dev.to/fcalderan/a-css-carousel-with-snapping-points-and-a-scroll-linked-navigation-5h6j</guid>
-            <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My Struggle to Use and Animate a Conic Gradient in SVG]]></title>
-            <link>https://css-tricks.com/my-struggle-to-use-and-animate-a-conic-gradient-in-svg/</link>
-            <guid>https://css-tricks.com/my-struggle-to-use-and-animate-a-conic-gradient-in-svg/</guid>
-            <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Two Simple Ways You Can Truncate Text using CSS]]></title>
+            <link>https://blog.kritikapattalam.com/2-simple-ways-you-can-truncate-text-using-css</link>
+            <guid>https://blog.kritikapattalam.com/2-simple-ways-you-can-truncate-text-using-css</guid>
+            <pubDate>Wed, 21 Jul 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

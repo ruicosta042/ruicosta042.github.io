@@ -4,10 +4,59 @@
         <title>CSS Layout News</title>
         <link>https://csslayout.news/</link>
         <description>Weekly CSS layout newsletter and resource site by Rachel Andrew</description>
-        <lastBuildDate>Wed, 14 Jul 2021 07:04:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jul 2021 18:44:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[fit-content for width and other properties]]></title>
+            <link>https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Experimental_features#fit_content_function</link>
+            <guid>https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Experimental_features#fit_content_function</guid>
+            <pubDate>Wed, 21 Jul 2021 18:43:20 GMT</pubDate>
+            <description><![CDATA[On my list to document for upcoming Firefox versions was the implementation of the fit-content() function, for properties that take a size. We have fit-content() for track sizing, however, this brings it to other places too. It's currently an experimental feature in Firefox. You can try it out by enabling the layout.css.fit-content-function.enabled flag.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Please stop using red and green together]]></title>
+            <link>https://baselinehq.com/blog/colourblindness-information-ui-design-red-green-problems-tips-tricks.html</link>
+            <guid>https://baselinehq.com/blog/colourblindness-information-ui-design-red-green-problems-tips-tricks.html</guid>
+            <pubDate>Wed, 21 Jul 2021 18:43:20 GMT</pubDate>
+            <description><![CDATA[A colourblind designer explains why red and green are so problematic for people with the most common form of colourblindness.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Get rid of grid]]></title>
+            <link>https://gridless.design/</link>
+            <guid>https://gridless.design/</guid>
+            <pubDate>Wed, 21 Jul 2021 18:43:20 GMT</pubDate>
+            <description><![CDATA[Not talking about CSS Grid Layout, but instead this site implores that we stop tying web design to a layout grid.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Practical Use Cases for Scroll-Linked Animations in CSS with Scroll Timelines]]></title>
+            <link>https://css-tricks.com/practical-use-cases-for-scroll-linked-animations-in-css-with-scroll-timelines/</link>
+            <guid>https://css-tricks.com/practical-use-cases-for-scroll-linked-animations-in-css-with-scroll-timelines/</guid>
+            <pubDate>Wed, 21 Jul 2021 18:43:20 GMT</pubDate>
+            <description><![CDATA[Use-cases for the experimental features for creating scroll-linked animations in CSS.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Building a breadcrumbs component]]></title>
+            <link>https://web.dev/building-a-breadcrumbs-component/</link>
+            <guid>https://web.dev/building-a-breadcrumbs-component/</guid>
+            <pubDate>Wed, 21 Jul 2021 18:43:20 GMT</pubDate>
+            <description><![CDATA[A walkthrough of this common component, considering layout, additional navigation features, and accessibility.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Toward richer colors in the web]]></title>
+            <link>https://darker.ink/writings/Towards-richer-colors-on-the-Web</link>
+            <guid>https://darker.ink/writings/Towards-richer-colors-on-the-Web</guid>
+            <pubDate>Wed, 21 Jul 2021 18:43:20 GMT</pubDate>
+            <description><![CDATA[An article (and a talk) about the ongoing efforts to specify richer colors on the Web platform.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[The performance effects of too much lazy-loading]]></title>
+            <link>https://web.dev/lcp-lazy-loading/</link>
+            <guid>https://web.dev/lcp-lazy-loading/</guid>
+            <pubDate>Wed, 21 Jul 2021 18:43:20 GMT</pubDate>
+            <description><![CDATA[The loading: lazy feature for images is well supported in browsers and is widely used. This article explores whether too much lazy-loading can cause other performance problems. TLDR: you probably want to load the images in the viewport more eagerly, then using lazy-loading for the others.]]></description>
+        </item>
         <item>
             <title><![CDATA[Firefox 90]]></title>
             <link>https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/90</link>
@@ -569,48 +618,6 @@ Overlays are a broad term for technologies aim to improve the accessibility of a
             <guid>https://github.com/davatron5000/awesome-standalones</guid>
             <pubDate>Tue, 20 Apr 2021 19:48:00 GMT</pubDate>
             <description><![CDATA[A curated list of awesome framework-agnostic standalone web components.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[CSS Container Queries - CSS: Cascading Style Sheets | MDN]]></title>
-            <link>https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Container_Queries</link>
-            <guid>https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Container_Queries</guid>
-            <pubDate>Wed, 14 Apr 2021 19:46:00 GMT</pubDate>
-            <description><![CDATA[I've started to put together some documentation on MDN for Container Queries. It's a spec very much in the early stages, but keep an eye on this page and I'll keep updating it as things evolve. Do try out the experimental Chrome implementation detailed there, and see whether it meets the type so use cases you come across.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[New in Chrome 90 - Chrome Developers]]></title>
-            <link>https://developer.chrome.com/blog/new-in-chrome-90/</link>
-            <guid>https://developer.chrome.com/blog/new-in-chrome-90/</guid>
-            <pubDate>Wed, 14 Apr 2021 19:46:00 GMT</pubDate>
-            <description><![CDATA[Chrome 90 includes overflow: clip and the Declarative Shadow DOM.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[CSS is a Strongly Typed Language | CSS-Tricks]]></title>
-            <link>https://css-tricks.com/css-is-a-strongly-typed-language/</link>
-            <guid>https://css-tricks.com/css-is-a-strongly-typed-language/</guid>
-            <pubDate>Wed, 14 Apr 2021 19:46:00 GMT</pubDate>
-            <description><![CDATA[One of the ways you can classify a programming language is by how strongly or weakly typed it is. Here, “typed” means if variables are known at compile time.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[The Layers of the Web - Jeremy Keith - YouTube]]></title>
-            <link>https://www.youtube.com/watch?v=96DCTASFniI&amp;t=1s</link>
-            <guid>https://www.youtube.com/watch?v=96DCTASFniI&amp;t=1s</guid>
-            <pubDate>Wed, 14 Apr 2021 19:46:00 GMT</pubDate>
-            <description><![CDATA[Learn how to build resilient, performant, accessible and beautiful structures that work with the grain of the materials of the World Wide Web in this talk from Jeremy Keith.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Accessible front-end components: claims vs reality]]></title>
-            <link>https://hiddedevries.nl/en/blog/2021-04-02-accessible-front-end-components-claims-vs-reality</link>
-            <guid>https://hiddedevries.nl/en/blog/2021-04-02-accessible-front-end-components-claims-vs-reality</guid>
-            <pubDate>Wed, 14 Apr 2021 19:46:00 GMT</pubDate>
-            <description><![CDATA[How to assess the claims made by a third party about the accessibility of their components. Useful stuff.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[CSS { In Real Life } | Paper Snowflakes: Combining Clipping and Masking in CSS]]></title>
-            <link>https://css-irl.info/paper-snowflakes-combining-clipping-and-masking-in-css/</link>
-            <guid>https://css-irl.info/paper-snowflakes-combining-clipping-and-masking-in-css/</guid>
-            <pubDate>Wed, 14 Apr 2021 19:46:00 GMT</pubDate>
-            <description><![CDATA[This is a great walkthrough of clipping and masking, and the demo at the end is worth a look too.]]></description>
         </item>
     </channel>
 </rss>

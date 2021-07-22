@@ -4,99 +4,93 @@
         <title>React Status</title>
         <link>https://react.statuscode.com/</link>
         <description>A weekly roundup of the latest React and React Native links and tutorials.</description>
-        <lastBuildDate>Thu, 15 Jul 2021 07:46:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jul 2021 07:46:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/ruicosta042/rssconv-action</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[A Checklist for Freelance React Developers]]></title>
-            <link>https://www.robinwieruch.de/freelance-react-developer/</link>
-            <guid>https://www.robinwieruch.de/freelance-react-developer/</guid>
-            <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Adobe's Efforts in Creating an Accessible Autocomplete Experience for React Spectrum]]></title>
+            <link>https://react-spectrum.adobe.com/blog/building-a-combobox.html</link>
+            <guid>https://react-spectrum.adobe.com/blog/building-a-combobox.html</guid>
+            <pubDate>Wed, 21 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[One React Mistake That's Slowing You Down]]></title>
-            <link>https://epicreact.dev/one-react-mistake-thats-slowing-you-down/</link>
-            <guid>https://epicreact.dev/one-react-mistake-thats-slowing-you-down/</guid>
-            <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Five Code Smells React Beginners Should Avoid]]></title>
+            <link>https://t.co/W62FGhVPpg?amp=1</link>
+            <guid>https://t.co/W62FGhVPpg?amp=1</guid>
+            <pubDate>Wed, 21 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Breaking Down Bulky Builds With Netlify and Next.js]]></title>
-            <link>https://www.smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/</link>
-            <guid>https://www.smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/</guid>
-            <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Remotion 2.2: 'Write Videos' in React]]></title>
+            <link>https://www.remotion.dev/blog/2-2/</link>
+            <guid>https://www.remotion.dev/blog/2-2/</guid>
+            <pubDate>Wed, 21 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How We Built React Components for Any Front End]]></title>
-            <link>https://www.courier.com/blog/how-we-built-react-components-for-any-front-end</link>
-            <guid>https://www.courier.com/blog/how-we-built-react-components-for-any-front-end</guid>
-            <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Create a Fullstack Next.js App with Authentication, Data and Storage]]></title>
+            <link>https://welearncode.com/build-a-fullstack-app-nextjs/</link>
+            <guid>https://welearncode.com/build-a-fullstack-app-nextjs/</guid>
+            <pubDate>Wed, 21 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Not All Components Are Created Equal]]></title>
-            <link>https://formidable.com/blog/2021/react-components/</link>
-            <guid>https://formidable.com/blog/2021/react-components/</guid>
-            <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Introducing the New Overlay Hooks for Ionic React]]></title>
+            <link>https://ionicframework.com/blog/introducing-the-new-overlay-hooks-for-ionic-react/</link>
+            <guid>https://ionicframework.com/blog/introducing-the-new-overlay-hooks-for-ionic-react/</guid>
+            <pubDate>Wed, 21 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React Fragments: What Every React Developer Should Know]]></title>
-            <link>https://www.sitepoint.com/react-fragments-introduction/</link>
-            <guid>https://www.sitepoint.com/react-fragments-introduction/</guid>
-            <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[What's the Difference Between Controlled and Uncontrolled Components in React?]]></title>
+            <link>https://t.co/tED1pRQqeM?amp=1</link>
+            <guid>https://t.co/tED1pRQqeM?amp=1</guid>
+            <pubDate>Wed, 21 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to Cancel Pending API Requests to Show Correct Data]]></title>
-            <link>https://css-tricks.com/how-to-cancel-pending-api-requests-to-show-correct-data/</link>
-            <guid>https://css-tricks.com/how-to-cancel-pending-api-requests-to-show-correct-data/</guid>
-            <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[use-smartcrop: Content Aware Image Cropping Hook]]></title>
+            <link>https://github.com/useflyyer/use-smartcrop</link>
+            <guid>https://github.com/useflyyer/use-smartcrop</guid>
+            <pubDate>Wed, 21 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to Integrate PayPal Payments in React]]></title>
-            <link>https://www.youtube.com/watch?v=HpwiVbrdURI&amp;feature=youtu.be</link>
-            <guid>https://www.youtube.com/watch?v=HpwiVbrdURI&amp;feature=youtu.be</guid>
-            <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[useCookieConsent]]></title>
+            <link>https://github.com/bring-shrubbery/use-cookie-consent</link>
+            <guid>https://github.com/bring-shrubbery/use-cookie-consent</guid>
+            <pubDate>Wed, 21 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React Virtual 2.8.0: Hooks for Virtualizing Scrollable Elements]]></title>
-            <link>https://github.com/tannerlinsley/react-virtual</link>
-            <guid>https://github.com/tannerlinsley/react-virtual</guid>
-            <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[React Tags]]></title>
+            <link>https://github.com/react-tags/react-tags</link>
+            <guid>https://github.com/react-tags/react-tags</guid>
+            <pubDate>Wed, 21 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Network-Viewer: HTTP Archive File Viewing For Humans]]></title>
-            <link>https://github.com/saucelabs/network-viewer</link>
-            <guid>https://github.com/saucelabs/network-viewer</guid>
-            <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Bulletproof React: An Architecture for React Apps]]></title>
+            <link>https://github.com/alan2207/bulletproof-react</link>
+            <guid>https://github.com/alan2207/bulletproof-react</guid>
+            <pubDate>Wed, 21 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[React 3D Carousel]]></title>
-            <link>https://www.npmjs.com/package/3d-react-carousal</link>
-            <guid>https://www.npmjs.com/package/3d-react-carousal</guid>
-            <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[React Wavify]]></title>
+            <link>https://github.com/woofers/react-wavify</link>
+            <guid>https://github.com/woofers/react-wavify</guid>
+            <pubDate>Wed, 21 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fre: Small Footprint Concurrent UI for Fiber]]></title>
-            <link>https://github.com/yisar/fre</link>
-            <guid>https://github.com/yisar/fre</guid>
-            <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to Stop Re-Rendering Lists in React]]></title>
+            <link>https://alexsidorenko.com/blog/react-list-rerender/</link>
+            <guid>https://alexsidorenko.com/blog/react-list-rerender/</guid>
+            <pubDate>Wed, 21 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Berry: A Free Admin Template Built with React and Material UI]]></title>
-            <link>https://github.com/codedthemes/berry-free-react-admin-template/</link>
-            <guid>https://github.com/codedthemes/berry-free-react-admin-template/</guid>
-            <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to Setup and Deploy React 18 Alpha Using Snowpack & Vercel]]></title>
+            <link>https://www.youtube.com/watch?v=enqRAjGox2Q&amp;t=9s</link>
+            <guid>https://www.youtube.com/watch?v=enqRAjGox2Q&amp;t=9s</guid>
+            <pubDate>Wed, 21 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to Improve Your Developer Experience with React, Hooks and Redux Toolkit]]></title>
-            <link>https://orizens.com/blog/how-to-improve-your-developer-experience-(dx)-with-react-hooks-and-redux-toolkit-rtk/</link>
-            <guid>https://orizens.com/blog/how-to-improve-your-developer-experience-(dx)-with-react-hooks-and-redux-toolkit-rtk/</guid>
-            <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why We Decided to Rewrite Our iOS and Android Apps from Scratch — In React Native]]></title>
-            <link>https://t.co/SlxWDRhmmH?amp=1</link>
-            <guid>https://t.co/SlxWDRhmmH?amp=1</guid>
-            <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[How to Parse Markdown in Next.js]]></title>
+            <link>https://flaviocopes.com/nextjs-parse-markdown/</link>
+            <guid>https://flaviocopes.com/nextjs-parse-markdown/</guid>
+            <pubDate>Wed, 21 Jul 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
